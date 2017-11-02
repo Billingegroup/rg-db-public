@@ -1,0 +1,34 @@
+language: python
+env:
+#  global:
+#    - secure: "RISg7QnuQqP+EhjteXVD2Lo+mhgbndEG4Er3Wu89xOPl0PBa9iPZADynrSOilKv0YHbZknct3EAlbMiS0ASejMdhjlEItfHEJt23R0cOfPSYVGfh+qdmSaT/g5dTd27q0X3a8Kmf7+zPXSLsTAoHqKmpBgSuhh148dLLRoRI9o/5ol8zJajrMnFZS757rOfP2m+xIx/01Ra2J361CpruEjR+C3fDd5C0Wic+qIwna2pEDCC73+XWnoe2ficFSTrGUebrlHdB45txfGAoBf67oz/OQxX0SbPhHKbD3deeRR7s2bfWcpZYJnqHXt77vsEhwvs8nQeQeeevw+6BE99o86KC/rHV5utsBeGYc3LvRimUlWQnoA9fRiA7iL11K/CibcPlgm9aADu700gDpgjYRUGTpvQZIP+wmXOY52cY03JhESB9Rdp5btccM5g/Aw6VkX//a9ueIqZEvmsoOaM/xxJKN+wdotZrpWQ/kdMiGtkBcRmGICVticmNN8foEEfm/7xlVGnbhaaSUomHxTGxMb+2i2aa6nMZuzQkds+h2l3jBUE/AR0IpXqMwo/rAhOTWffiiDNCcdOyf50WUrIS4znQkH/dmJfNYA234GDSmyq66P+gGAh7dwL3sKrvEDMCyTyPoSwh3/FdWD7AkL3yF1drglOlo4nsDuogczS1S3k="
+
+matrix:
+  include:
+    - os: linux
+      python: 3.6
+      env:
+        - BUILD_DOCS=true
+
+before_install:
+  - URL="https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh";
+    wget "${URL}" -O miniconda.sh;
+    bash miniconda.sh -b -p $HOME/miniconda;
+    export PATH="$HOME/miniconda/bin:$PATH";
+    hash -r;
+    conda config --set always_yes yes --set changeps1 no;
+    conda config --add channels conda-forge;
+    conda update -q conda;
+    conda info -a;
+    git config --global user.email "cjwright4242@gmail.com";
+    git config --global user.name "Christopher J. Wright";
+
+install:
+  - conda install doctr regolith;
+
+script:
+  - git clone https://github.com/billingegroup/website.git;
+    cd website;
+    regolith build html;
+    cd ..;
+#    doctr deploy --deploy-repo ergs/ergs.github.io --deploy-branch-name master --built-docs website/_build/html .;
