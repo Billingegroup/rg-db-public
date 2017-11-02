@@ -31,4 +31,4 @@ script:
     cd website;
     regolith build html;
     cd ..;
-#    doctr deploy --deploy-repo ergs/ergs.github.io --deploy-branch-name master --built-docs website/_build/html .;
+    doctr deploy --deploy-repo billingegroup/billingegroup.github.io --deploy-branch-name master --built-docs website/_build/html .;
