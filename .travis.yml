@@ -27,6 +27,7 @@ install:
   - conda install doctr regolith;
 
 script:
+  - set -e
   - git clone https://github.com/billingegroup/website.git;
     cd website;
     regolith build html;
