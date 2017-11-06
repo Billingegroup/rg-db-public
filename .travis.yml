@@ -25,6 +25,8 @@ before_install:
 
 install:
   - conda install doctr regolith;
+  - conda uninstall --force regolith
+  - pip install git+git://github.com/ergs/regolith.git
 
 script:
   - set -e
