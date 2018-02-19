@@ -284,12 +284,6 @@ E-Culbertson:
       other:
         - 'Courses: Theory of Relativity, Quantum Mechanics'
       position: Residential and Teaching Assistant
-    - begin_year: 2014
-      end_year: 2014
-      location: Blacksburg, VA
-      organization: Virginia Tech Department of Mechanical Engineering
-      other: []
-      position: Undergraduate Research Assistant
     - begin_year: 2013
       end_year: 2015
       location: Stanford, CA
@@ -297,6 +291,12 @@ E-Culbertson:
       other:
         - 'Course: Inquiry-Based Physics'
       position: Teaching Assistant
+    - begin_year: 2014
+      end_year: 2014
+      location: Blacksburg, VA
+      organization: Virginia Tech Department of Mechanical Engineering
+      other: []
+      position: Undergraduate Research Assistant
     - begin_year: 2013
       end_year: 2013
       location: Stanford, CA
