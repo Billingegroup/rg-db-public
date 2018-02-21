@@ -5,6 +5,45 @@ columbiau:
   departments:
     - {chemistry: Department of Chemistry}
     - {apam: Department of Applied Physics and Applied Mathematics}
+    - {cheme: Department of Chemical Engineering}
   name: Columbia University
+  schools:
+    - {seas: School of Engineering and Applied Science, aka: [SEAS, Columbia
+    Engineering]}
   state: New York
   zip: 10027
+northwesternu:
+  aka:
+  city: Evanston
+  country: USA
+  departments:
+    - {chemistry: Department of Chemistry}
+    - {materials: Materials Science Department}
+    - {physics: Department of Physics}
+  name: Northwestern University
+  state: IL
+  zip: 60208
+anl:
+  aka:
+  city: Argonne
+  country: USA
+  departments:
+    - {matsci: Materials Science Division}
+  name: Argonne National Laboratory
+  state: IL
+  zip: 60439
+bnl:
+  aka:
+  city: Upton
+  country: USA
+  departments:
+    - {cmpms: Condensed Matter and Materials Science Department}
+    - {psd: Photon Sciences Division}
+    - {chemistry: Department of Chemistry}
+    - {csi: Computational Science Initiative}
+    - {cfn: Center for Functional Nanomaterials}
+  name: Brookhaven National Laboratory
+  state: NY
+  zip: 11973
+
+
