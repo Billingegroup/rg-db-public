@@ -1,9 +1,9 @@
 columbiau:
   aka: [Columbia University]
+  city: New York
+  country: USA
   departments:
     - {chemistry: Department of Chemistry}
     - {apam: Department of Applied Physics and Applied Mathematics}
-  city: New York
   state: New York
   zip: 10027
-  country: USA
