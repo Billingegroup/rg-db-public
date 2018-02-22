@@ -8,8 +8,7 @@ columbiau:
     - {cheme: Department of Chemical Engineering}
   name: Columbia University
   schools:
-    - {seas: School of Engineering and Applied Science, aka: [SEAS, Columbia
-    Engineering]}
+    - {seas: School of Engineering and Applied Science, aka: [SEAS, Columbia Engineering]}
   state: New York
   zip: 10027
 northwesternu:
@@ -45,5 +44,3 @@ bnl:
   name: Brookhaven National Laboratory
   state: NY
   zip: 11973
-
-
