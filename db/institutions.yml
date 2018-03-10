@@ -34,8 +34,8 @@ batesc:
     - {chemistry: Department of Chemistry}
   name: Bates College
   state: Maine
-  zip: 04240
   web: www.bates.edu
+  zip: 04240
 barnardu:
   aka:
   city: New York
@@ -57,9 +57,7 @@ columbiau:
     - {cs: Computer Science Department}
   name: Columbia University
   schools:
-    - {seas: School of Engineering and Applied Science,
-       aka: [SEAS, Columbia Engineering]
-      }
+    - {seas: School of Engineering and Applied Science, aka: [SEAS, Columbia Engineering]}
   state: New York
   zip: 10027
 uhamburg:
@@ -107,10 +105,10 @@ bnl:
 ethzurich:
   aka:
   city: Zurich
-  street: "Wolfgang-Pauli-Strasse 27"
   country: Switzerland
   departments:
     - {mattheory: Materials Theory}
   name: ETH Zurich
   state:
+  street: Wolfgang-Pauli-Strasse 27
   zip: CH-8093
