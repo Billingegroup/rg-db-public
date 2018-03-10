@@ -1,3 +1,51 @@
+uhouston:
+  aka:
+  city: Houston
+  country: USA
+  departments:
+    - {chemistry: Department of Chemistry}
+  name: University of Houston
+  state: TX
+  zip: fixme
+bowdoinc:
+  aka:
+  city: fixme
+  country: USA
+  departments:
+    - {chemistry: Department of Chemistry}
+  name: Bowdoin College
+  state: ME
+  zip: fixme
+umaine:
+  aka: University of Maine
+  city: fixme
+  country: USA
+  departments:
+    - {chemistry: Department of Chemistry}
+    - {physics: Department of Physics}
+  name: University of Maine
+  state: ME
+  zip: fixme
+batesc:
+  aka: Bates College
+  city: Lewiston
+  country: USA
+  departments:
+    - {chemistry: Department of Chemistry}
+  name: Bates College
+  state: Maine
+  zip: 04240
+  web: www.bates.edu
+barnardu:
+  aka:
+  city: New York
+  country: USA
+  departments:
+    - {chemistry: Department of Chemistry}
+    - {physics: Department of Physics}
+  name: Barnard College
+  state: NY
+  zip: fixme
 columbiau:
   aka: [Columbia University]
   city: New York
@@ -6,11 +54,23 @@ columbiau:
     - {chemistry: Department of Chemistry}
     - {apam: Department of Applied Physics and Applied Mathematics}
     - {cheme: Department of Chemical Engineering}
+    - {cs: Computer Science Department}
   name: Columbia University
   schools:
-    - {seas: School of Engineering and Applied Science, aka: [SEAS, Columbia Engineering]}
+    - {seas: School of Engineering and Applied Science,
+       aka: [SEAS, Columbia Engineering]
+      }
   state: New York
   zip: 10027
+uhamburg:
+  aka: University of Hamburg
+  city: Hamburg
+  country: Germany
+  departments:
+    - {chyn: Center for Hybrid Nanostructures}
+  name: Universitat de Hamburg
+  state:
+  zip: fixme
 northwesternu:
   aka:
   city: Evanston
@@ -44,3 +104,14 @@ bnl:
   name: Brookhaven National Laboratory
   state: NY
   zip: 11973
+ethzurich:
+  aka:
+  city: Zurich
+  street: "Wolfgang-Pauli-Strasse 27""
+  country: Switzerland
+  departments:
+    - {mattheory: Materials Theory}
+  name: ETH Zurich
+  state:
+  zip: CH-8093
+
