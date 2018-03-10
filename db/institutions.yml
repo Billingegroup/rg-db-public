@@ -1,3 +1,21 @@
+unisa:
+  aka:
+  city: Salerno
+  country: Italy
+  departments:
+    - {pharm: Department of Pharmacy}
+  name: University of Salerno
+  state:
+  zip: 84084
+gsk:
+  aka:
+  city: fixme
+  country: fixme
+  departments:
+    - {cryst: Crystallography Department}
+  name: GlaxoSmithKline
+  state: fixme
+  zip: fixme
 uhouston:
   aka:
   city: Houston
@@ -55,6 +73,7 @@ columbiau:
     - {apam: Department of Applied Physics and Applied Mathematics}
     - {cheme: Department of Chemical Engineering}
     - {cs: Computer Science Department}
+    - {eaee: Department of Earth and Environmental Engineering}
   name: Columbia University
   schools:
     - {seas: School of Engineering and Applied Science, aka: [SEAS, Columbia Engineering]}
@@ -99,6 +118,7 @@ bnl:
     - {chemistry: Department of Chemistry}
     - {csi: Computational Science Initiative}
     - {cfn: Center for Functional Nanomaterials}
+    - {setd: Sustainable Energy Technologies Department}
   name: Brookhaven National Laboratory
   state: NY
   zip: 11973
