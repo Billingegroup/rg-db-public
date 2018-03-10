@@ -107,11 +107,10 @@ bnl:
 ethzurich:
   aka:
   city: Zurich
-  street: "Wolfgang-Pauli-Strasse 27""
+  street: "Wolfgang-Pauli-Strasse 27"
   country: Switzerland
   departments:
     - {mattheory: Materials Theory}
   name: ETH Zurich
   state:
   zip: CH-8093
-
