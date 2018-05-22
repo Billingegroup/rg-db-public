@@ -132,3 +132,45 @@ ethzurich:
   state:
   street: Wolfgang-Pauli-Strasse 27
   zip: CH-8093
+uwisconsin:
+  aka:
+  city: Madison
+  country: USA
+  departments:
+    - {matsci: Department of Materials Science and Engineering}
+  name: University of Wisconsin-Madison
+  state: WI
+  street: 1509 University Ave.
+  zip: 53706
+uconn:
+  aka:
+  city: Storrs
+  country: USA
+  departments:
+    - {matsci: Department of Materials Science and Engineering}
+    - {instmatsci: Institute of Materials Science}
+  name: University of Connecticut
+  state: CT
+  street: 97 North Eagleville Road
+  zip: 06269
+sunysb:
+  aka:
+  city: Stony Brook
+  country: USA
+  departments:
+    - {physics: Department of Physics and Astronomy}
+    - {chemistry: Department of Chemistry}
+    - {earthsci: Department of Earth Science}
+  name: Stony Brook University
+  state: NY
+  street:
+  zip: 11794
+ucopenhagen:
+  aka:
+  city: Copenhagen
+  country: Denmark
+  departments:
+    - {chemistry: Department of Chemistry}
+  name: University of Copenhagen
+  state:
+  zip: ''
