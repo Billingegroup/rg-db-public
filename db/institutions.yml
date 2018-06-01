@@ -2,8 +2,9 @@ unisa:
   aka:
   city: Salerno
   country: Italy
-  departments:
-    - {pharm: Department of Pharmacy}
+  departments: {
+    pharm: Department of Pharmacy
+    }
   name: University of Salerno
   state:
   zip: 84084
@@ -11,8 +12,9 @@ gsk:
   aka:
   city: fixme
   country: fixme
-  departments:
-    - {cryst: Crystallography Department}
+  departments: {
+    cryst: Crystallography Department
+    }
   name: GlaxoSmithKline
   state: fixme
   zip: fixme
@@ -20,8 +22,9 @@ uhouston:
   aka:
   city: Houston
   country: USA
-  departments:
-    - {chemistry: Department of Chemistry}
+  departments: {
+    chemistry: Department of Chemistry
+    }
   name: University of Houston
   state: TX
   zip: fixme
@@ -29,8 +32,9 @@ bowdoinc:
   aka:
   city: fixme
   country: USA
-  departments:
-    - {chemistry: Department of Chemistry}
+  departments: {
+    chemistry: Department of Chemistry
+    }
   name: Bowdoin College
   state: ME
   zip: fixme
@@ -38,9 +42,10 @@ umaine:
   aka: University of Maine
   city: fixme
   country: USA
-  departments:
-    - {chemistry: Department of Chemistry}
-    - {physics: Department of Physics}
+  departments: {
+    chemistry: Department of Chemistry,
+    physics: Department of Physics
+    }
   name: University of Maine
   state: ME
   zip: fixme
@@ -48,8 +53,9 @@ batesc:
   aka: Bates College
   city: Lewiston
   country: USA
-  departments:
-    - {chemistry: Department of Chemistry}
+  departments: {
+    chemistry: Department of Chemistry
+    }
   name: Bates College
   state: Maine
   web: www.bates.edu
@@ -58,9 +64,10 @@ barnardu:
   aka:
   city: New York
   country: USA
-  departments:
-    - {chemistry: Department of Chemistry}
-    - {physics: Department of Physics}
+  departments: {
+    chemistry: Department of Chemistry,
+    physics: Department of Physics
+    }
   name: Barnard College
   state: NY
   zip: fixme
@@ -68,23 +75,26 @@ columbiau:
   aka: [Columbia University]
   city: New York
   country: USA
-  departments:
-    - {chemistry: Department of Chemistry}
-    - {apam: Department of Applied Physics and Applied Mathematics}
-    - {cheme: Department of Chemical Engineering}
-    - {cs: Computer Science Department}
-    - {eaee: Department of Earth and Environmental Engineering}
+  departments: {
+    chemistry: Department of Chemistry,
+    apam: Department of Applied Physics and Applied Mathematics,
+    cheme: Department of Chemical Engineering,
+    cs: Computer Science Department,
+    eaee: Department of Earth and Environmental Engineering
+    }
   name: Columbia University
-  schools:
-    - {seas: School of Engineering and Applied Science, aka: [SEAS, Columbia Engineering]}
+  schools: {
+    seas: 'School of Engineering and Applied Science', aka: ['SEAS',
+        'Columbia Engineering']}
   state: New York
   zip: 10027
 uhamburg:
   aka: University of Hamburg
   city: Hamburg
   country: Germany
-  departments:
-    - {chyn: Center for Hybrid Nanostructures}
+  departments: {
+    chyn: Center for Hybrid Nanostructures
+    }
   name: Universitat de Hamburg
   state:
   zip: fixme
@@ -92,10 +102,11 @@ northwesternu:
   aka:
   city: Evanston
   country: USA
-  departments:
-    - {chemistry: Department of Chemistry}
-    - {materials: Materials Science Department}
-    - {physics: Department of Physics}
+  departments: {
+    chemistry: Department of Chemistry,
+    materials: Materials Science Department,
+    physics: Department of Physics
+    }
   name: Northwestern University
   state: IL
   zip: 60208
@@ -103,8 +114,9 @@ anl:
   aka:
   city: Argonne
   country: USA
-  departments:
-    - {matsci: Materials Science Division}
+  departments: {
+    matsci: Materials Science Division
+    }
   name: Argonne National Laboratory
   state: IL
   zip: 60439
@@ -112,13 +124,14 @@ bnl:
   aka: Brookhaven National Laboratory
   city: Upton
   country: USA
-  departments:
-    - {cmpms: Condensed Matter and Materials Science Department}
-    - {psd: Photon Sciences Division}
-    - {chemistry: Department of Chemistry}
-    - {csi: Computational Science Initiative}
-    - {cfn: Center for Functional Nanomaterials}
-    - {setd: Sustainable Energy Technologies Department}
+  departments: {
+    cmpms: Condensed Matter and Materials Science Department,
+    psd: Photon Sciences Division,
+    chemistry: Department of Chemistry,
+    csi: Computational Science Initiative,
+    cfn: Center for Functional Nanomaterials,
+    setd: Sustainable Energy Technologies Department
+    }
   name: Brookhaven National Laboratory
   state: NY
   zip: 11973
@@ -127,7 +140,8 @@ ethzurich:
   city: Zurich
   country: Switzerland
   departments:
-    - {mattheory: Materials Theory}
+    mattheory: Materials Theory
+    }
   name: ETH Zurich
   state:
   street: Wolfgang-Pauli-Strasse 27
@@ -136,19 +150,21 @@ uwisconsin:
   aka:
   city: Madison
   country: USA
-  departments:
-    - {matsci: Department of Materials Science and Engineering}
+  departments: {
+    matsci: Department of Materials Science and Engineering
+    }
   name: University of Wisconsin-Madison
   state: WI
   street: 1509 University Ave.
   zip: 53706
 uconn:
-  aka:
+  aka: ['UConn']
   city: Storrs
   country: USA
-  departments:
-    - {matsci: Department of Materials Science and Engineering}
-    - {instmatsci: Institute of Materials Science}
+  departments: {
+    matsci: Department of Materials Science and Engineering,
+    instmatsci: Institute of Materials Science
+    }
   name: University of Connecticut
   state: CT
   street: 97 North Eagleville Road
@@ -157,10 +173,11 @@ sunysb:
   aka:
   city: Stony Brook
   country: USA
-  departments:
-    - {physics: Department of Physics and Astronomy}
-    - {chemistry: Department of Chemistry}
-    - {earthsci: Department of Earth Science}
+  departments: {
+    physics: Department of Physics and Astronomy,
+    chemistry: Department of Chemistry,
+    earthsci: Department of Earth Science
+    }
   name: Stony Brook University
   state: NY
   street:
@@ -169,8 +186,9 @@ ucopenhagen:
   aka:
   city: Copenhagen
   country: Denmark
-  departments:
-    - {chemistry: Department of Chemistry}
+  departments: {
+    chemistry: Department of Chemistry
+    }
   name: University of Copenhagen
-  state:
+  state: ''
   zip: ''
