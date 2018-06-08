@@ -103,6 +103,14 @@ bnl:
   name: Brookhaven National Laboratory
   state: NY
   zip: 11973
+esrf:
+  aka: [European Synchrotron Radiation Facility, ESRF]
+  city: Grenoble
+  country: France
+  departments: {db_bl: Dutch-Belgian Beamline, aka: [sas_bl]}
+  name: European Synchrotron Radiation Facility
+  state: ''
+  zip: ''
 ethzurich:
   aka:
   city: Zurich
