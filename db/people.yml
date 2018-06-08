@@ -17,69 +17,69 @@ CJ-Wright:
     In his free time Christopher develops for open source projects, plays woodwind
     instruments, enjoys good scotch and works out by playing squash.
   education:
-    - begin_year: 2014
-      degree: MS in Chemical Engineering
-      end_year: 2014
+    - end_year: 2014
       institution: University of Sourth Carolina
-      location: Columbia, SC
+      degree: MS in Chemical Engineering
+      begin_year: 2014
       other:
         - 'Adviser: Xiao-Dong Zhou'
         - 'Thesis: Solving Atomic Structures using Statistical Mechanical Searches
           on X-ray Scattering Derived Potential Energy Surfaces'
         - 'Website: https://github.com/CJ-Wright/Masters_Thesis/raw/master/thesis.pdf'
-    - begin_year: 2010
-      degree: ScB in Chemical Physics with Honors
-      end_year: 2014
-      gpa: 3.49
+      location: Columbia, SC
+    - end_year: 2014
       institution: Brown University
-      location: Providence, RI
+      degree: ScB in Chemical Physics with Honors
+      gpa: 3.49
+      begin_year: 2010
       other:
         - 'Adviser: Shouheng Sun'
         - 'Thesis: Solving Atomic Structures using Statistical Mechanical Searches
           on X-ray Scattering Derived Potential Energy Surfaces'
+      location: Providence, RI
   email: cjwright4242@gmail.com
   employment:
-    - begin_year: 2015
-      end_year: 2015
-      location: Upton, NY
+    - end_year: 2015
       organization: National Synchrotron Light Source-II, Brookhaven National Laboratory
+      position: Visiting Scholar
+      begin_year: 2015
       other:
         - 'pyIID: The Python Infinite Improbability Drive, Monte Carlo Searches of
           X-ray Scattering Derived Structures'
-      position: Visiting Scholar
-    - begin_year: 2014
-      end_year: 2014
       location: Upton, NY
+    - end_year: 2014
       organization: National Synchrotron Light Source-II, Brookhaven National Laboratory
+      position: Software Engineer, SURP
+      begin_year: 2014
       other:
         - 'pyXPD: prototype controls software for the x-ray powder diffraction beamline,
           28-ID'
-      position: Software Engineer, SURP
-    - begin_year: 2012
-      end_year: 2012
       location: Upton, NY
+    - end_year: 2012
       organization: National Synchrotron Light Source-II, Brookhaven National Laboratory
+      position: Science Undergraduate Laboratory Intern
+      begin_year: 2012
       other:
         - Structural refinement of CdSe Nanoparticles
-      position: Science Undergraduate Laboratory Intern
-    - begin_year: 2011
-      end_year: 2011
-      location: Columbia, SC
+      location: Upton, NY
+    - end_year: 2011
       organization: University of South Carolina
+      position: Research Experience for Undergraduates Researcher
+      begin_year: 2011
       other:
         - Electrochemical Reduction of CO2 via Copper Nanoparticles
-      position: Research Experience for Undergraduates Researcher
+      location: Columbia, SC
   membership:
-    - begin_year: 2009
-      organization: American Chemical Society
+    - organization: American Chemical Society
       position: Member
-    - begin_year: 2011
+      begin_year: 2009
+    - organization: Electrochemical Society
       end_year: 2016
-      organization: Electrochemical Society
+      begin_year: 2011
       position: Member
-    - begin_year: 2016
-      organization: American Physical Society
+    - organization: American Physical Society
       position: Member
+      begin_year: 2016
   name: Christopher J. Wright
   position: Graduate Student, Lead Developer
   service:
@@ -106,9 +106,9 @@ CJ-Wright:
       year: 2015
     - name: Science Fair Judge at Dutch Fork High School
       year: 2015
-    - begin_year: 2012
+    - name: Brown University Chemistry Department Undergraduate Group Co-Chair
       end_year: 2014
-      name: Brown University Chemistry Department Undergraduate Group Co-Chair
+      begin_year: 2012
       other:
         - Organized seminars with distinguished scientists, with an emphasis on researchers
           from underrepresented groups
@@ -127,9 +127,9 @@ CJ-Wright:
     - name: 'Master of Ceremonies and Organizer Brown University "Chemistry: Believe
         it or Not" public chemistry demonstration'
       year: 2013
-    - begin_year: 2012
+    - name: ' Chemistry STEM Panelist Brown University A Day on College Hill'
       end_year: 2013
-      name: ' Chemistry STEM Panelist Brown University A Day on College Hill'
+      begin_year: 2012
       other:
         - Discussed the Brown STEM program, especially the Chemical Physics program
     - name: Presenter Brown University "Night of Chemistry" public chemistry demonstration
