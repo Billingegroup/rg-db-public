@@ -157,3 +157,11 @@ ucopenhagen:
   name: University of Copenhagen
   state: ''
   zip: ''
+uwashington:
+  aka: [University of Washington, UW]
+  city: Seattle
+  country: USA
+  departments: {chemistry: Department of Chemistry}
+  name: University of Washington
+  state: Washington
+  zip: 98195
