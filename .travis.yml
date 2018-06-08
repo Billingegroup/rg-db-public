@@ -30,6 +30,7 @@ script:
   - set -e
   - git clone https://github.com/billingegroup/website.git;
     cd website;
+    regolith validate;
     regolith build html;
     cd ..;
     doctr deploy --deploy-repo billingegroup/billingegroup.github.io --deploy-branch-name master --built-docs website/_build/html .;
