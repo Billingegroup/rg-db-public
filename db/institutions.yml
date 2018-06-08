@@ -107,7 +107,7 @@ esrf:
   aka: [European Synchrotron Radiation Facility, ESRF]
   city: Grenoble
   country: France
-  departments: {dubble: Dutch-Belgian Beamline}
+  departments: {db_bl: Dutch-Belgian Beamline, aka: [sas_bl]}
   name: European Synchrotron Radiation Facility
   state:
   zip:
