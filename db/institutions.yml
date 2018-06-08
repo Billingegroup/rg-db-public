@@ -165,3 +165,11 @@ uwashington:
   name: University of Washington
   state: Washington
   zip: 98195
+sunybuffalo:
+  aka: [SUNY Buffalo, SUNY-Buffalo]
+  city: Buffalo
+  country: USA
+  departments: {cheme: Department of Chemical and Biological Engineering}
+  name: The State University of New York at Buffalo
+  state: ''
+  zip: 14260
