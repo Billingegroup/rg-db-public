@@ -56,7 +56,7 @@ barnardu:
   state: NY
   zip: fixme
 columbiau:
-  aka: [Columbia University]
+  aka: [Columbia University, Columbia University in the City of New York]
   city: New York
   country: USA
   departments: {chemistry: Department of Chemistry, apam: Department of Applied Physics
