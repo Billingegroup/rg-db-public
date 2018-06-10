@@ -334,24 +334,72 @@ sbillinge:
     - S. J. L. Billinge
     - Billinge, Simon J. L.
     - Simon Billinge
-  avatar: https://avatars7.githubusercontent.com/u/737899?v=4&s=460
+    - Simon John Laird Billinge
+  avatar: https://github.com/sbillinge.png
   bio: ''
   education:
-    - begin_year: 2012
-      degree: 'PhD. Mechanical Engineering: Nuclear and Radiological Engineering'
-      end_year: 2015
-      institution: University of Texas - Austin
-      location: Austin, TX
+    - begin_year: 1982
+      degree: 'BA in Metallurgy and Materials Science'
+      end_year: 1986
+      institution: uoxford
+      department: matsci
       other:
-        - 'Adviser: Erich C. J. Schneider'
-        - 'Disseration: Novel Methods for Generalizing Nuclear Fuel Cycle Design,
-          and Fuel Burnup Modeling.'
+        - 'Adviser: George Smith'
+        - 'Disseration: '
+    - begin_year: 1987
+      degree: 'PhD in Materials Science and Engineering'
+      end_year: 1992
+      institution: upenn
+      department: matsci
+      other:
+        - 'Advisers: Takeshi Egami and Peter Davies'
+        - 'Disseration: '
   employment:
     - begin_year: 2008
       institution: columbiau
       department: apam
       position: Professor
-      groupt: bg
+      group: bg
+      other: 'Full title: Professor of Materials Science and of Applied Physics and of
+      Applied Mathematics'
+    - begin_year: 2008
+      institution: bnl
+      department: cmpms
+      position: Physicist
+      group: xray
+    - begin_year: 2012
+      end_year: 2012
+      institution: ill
+      position: Visiting Scientist
+    - begin_year: 2011
+      end_year: 2012
+      institution: esrf
+      position: Visiting Scientist
+    - begin_year: 2003
+      end_year: 2007
+      institution: msu
+      department: physics
+      position: Professor
+    - begin_year: 2001
+      end_year: 2002
+      institution: uroma
+      position: Visiting Professor
+    - begin_year: 1999
+      end_year: 2003
+      institution: msu
+      department: physics
+      position: Associate Professor
+    - begin_year: 1994
+      end_year: 1999
+      institution: msu
+      department: physics
+      position: Assistant Professor
+    - begin_year: 1992
+      end_year: 1994
+      institution: lanl
+      department: mst
+      position: Director's Post-doctoral Research Fellow
+      other: 'advisor: George Kwei'
   funding: []
   membership:
     - begin_year: 2010
