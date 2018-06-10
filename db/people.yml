@@ -17,6 +17,17 @@ CJ-Wright:
     In his free time Christopher develops for open source projects, plays woodwind
     instruments, enjoys good scotch and works out by playing squash.
   education:
+    - begin_year: 2017
+      department: apam
+      institution: columbiau
+      degree: PhD in Materials Science
+      group: bg
+    - begin_year: 2016
+      department: apam
+      end_year: 2017
+      institution: columbiau
+      degree: MS in Materials Science
+      group: bg
     - end_year: 2014
       institution: University of Sourth Carolina
       degree: MS in Chemical Engineering
@@ -254,9 +265,10 @@ E-Culbertson:
   education:
     - begin_year: 2016
       degree: MS/PhD in Applied Physics
+      department: apam
       gpa: 3.83
+      group: bg
       institution: Columbia University
-      location: New York, NY
       other:
         - 'Adviser: Simon Billinge'
     - begin_year: 2012
