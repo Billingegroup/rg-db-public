@@ -350,7 +350,7 @@ sbillinge:
       degree: 'PhD in Materials Science and Engineering'
       end_year: 1992
       institution: upenn
-      department: matsci
+      department: mse
       other:
         - 'Advisers: Takeshi Egami and Peter Davies'
         - 'Disseration: Local atomic structure and superconducivity of'
