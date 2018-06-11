@@ -353,7 +353,8 @@ sbillinge:
       department: matsci
       other:
         - 'Advisers: Takeshi Egami and Peter Davies'
-        - 'Disseration: '
+        - 'Disseration: Local atomic structure and superconducivity of'
+          'Nd2-xCexCuO4-y: a pair distribution function study '
   employment:
     - begin_year: 2008
       institution: columbiau
