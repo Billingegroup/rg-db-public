@@ -163,8 +163,18 @@ uwashington:
   country: USA
   departments: {chemistry: Department of Chemistry}
   name: University of Washington
-  state: Washington
+  state: WS
   zip: 98195
+msu:
+  aka: [MSU, Spartans]
+  city: East Lansing
+  country: USA
+  departments: {chemistry: Department of Chemistry, physics: Department of
+  Physics and Astronomy}
+  name: Michigan State University
+  state: MI
+  street: 220 Trowbridge Rd
+  zip: 48824
 sunybuffalo:
   aka: [SUNY Buffalo, SUNY-Buffalo]
   city: Buffalo
