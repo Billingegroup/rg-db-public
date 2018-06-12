@@ -353,8 +353,7 @@ sbillinge:
       department: mse
       other:
         - 'Advisers: Takeshi Egami and Peter Davies'
-        - 'Disseration: Local atomic structure and superconducivity of'
-          'Nd2-xCexCuO4-y: a pair distribution function study '
+        - 'Disseration: Local atomic structure and superconducivity of Nd2-xCexCuO4-y: a pair distribution function study '
   employment:
     - begin_year: 2008
       institution: columbiau
@@ -413,7 +412,7 @@ sbillinge:
     - category: Programming Languages
       level: expert
       name: Java
- teaching: []
+  teaching: []
 chliu:
   aka:
     - Timothy Liu
