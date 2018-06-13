@@ -6,6 +6,15 @@ unisa:
   name: University of Salerno
   state:
   zip: 84084
+urome:
+  aka: [uroma, University of Rome, University of Roma, La Sapienza,
+  Università di Roma]
+  city: Rome
+  country: Italy
+  departments: {physics: Department of Physcis}
+  name: University of Rome, 'La Sapienza'
+  street: Piazzale Aldo Moro 5
+  zip: 00185
 gsk:
   aka:
   city: fixme
@@ -56,7 +65,7 @@ barnardu:
   state: NY
   zip: fixme
 columbiau:
-  aka: [Columbia University]
+  aka: [Columbia University, Columbia University in the City of New York]
   city: New York
   country: USA
   departments: {chemistry: Department of Chemistry, apam: Department of Applied Physics
@@ -67,6 +76,18 @@ columbiau:
           Engineering]}
   state: NY
   zip: 10027
+upenn:
+  aka: [Penn, U Penn, ]
+  city: Philadelphia
+  country: USA
+  departments: {chemistry: Department of Chemistry, cheme: Department of
+                Chemical Engineering, cs: Computer Science Department,
+                mse: Department of Materials Science and Engineering}
+  name: University of Pennsylvania
+  schools: {seas: School of Engineering and Applied Science, aka: [SEAS, Columbia
+          Engineering]}
+  state: PA
+  zip: 19104
 uhamburg:
   aka: University of Hamburg
   city: Hamburg
@@ -103,17 +124,42 @@ bnl:
   name: Brookhaven National Laboratory
   state: NY
   zip: 11973
+lanl:
+  aka: [LANL]
+  city: Los Alamos
+  country: USA
+  departments: {mst: Materials Science and Technology Division}
+  name: Los Alamos National Laboratory
+  state: NM
+  zip: 87545
+esrf:
+  aka: [European Synchrotron Radiation Facility, ESRF]
+  city: Grenoble
+  country: France
+  departments: {db_bl: Dutch-Belgian Beamline, aka: [sas_bl]}
+  name: European Synchrotron Radiation Facility
+  state: ''
+  street: 71 Avenue des Martyrs
+  zip: 38000
+ill:
+  aka: [ILL, ]
+  city: Grenoble
+  country: France
+  name: Institut Laue Langevin
+  street: 71 Avenue des Martyrs
+  state: ''
+  zip: 38000
 ethzurich:
-  aka:
+  aka: [ETH, Eidgenössische Technische Hochschule Zürich]
   city: Zurich
   country: Switzerland
   departments: {mattheory: Materials Theory}
   name: ETH Zurich
-  state:
+  state: ''
   street: Wolfgang-Pauli-Strasse 27
   zip: CH-8093
 uwisconsin:
-  aka:
+  aka: [Wisco, University of Wisconsin, U Wisconsin, UW, UW-Madison]
   city: Madison
   country: USA
   departments: {matsci: Department of Materials Science and Engineering}
@@ -121,6 +167,16 @@ uwisconsin:
   state: WI
   street: 1509 University Ave.
   zip: 53706
+oxfordu:
+  aka: [Oxford, University of Oxford,]
+  city: Oxford
+  country: UK
+  departments: {matsci: Department of Materials, physics: Department
+  of Physics, chemistry: Department of Chemistry, earthsci: Department of
+  Earth Sciences, eng: Department of Engineering Science, cs: Department of
+  Computer Science}
+  name: Oxford University
+  state: ''
 uconn:
   aka: [UConn]
   city: Storrs
@@ -159,3 +215,29 @@ ccny:
   state: NY
   street: 160 Convent Avenue
   zip: 10031
+uwashington:
+  aka: [University of Washington, UW]
+  city: Seattle
+  country: USA
+  departments: {chemistry: Department of Chemistry}
+  name: University of Washington
+  state: WS
+  zip: 98195
+msu:
+  aka: [MSU, Spartans]
+  city: East Lansing
+  country: USA
+  departments: {chemistry: Department of Chemistry, physics: Department of
+  Physics and Astronomy}
+  name: Michigan State University
+  state: MI
+  street: 220 Trowbridge Rd
+  zip: 48824
+sunybuffalo:
+  aka: [SUNY Buffalo, SUNY-Buffalo]
+  city: Buffalo
+  country: USA
+  departments: {cheme: Department of Chemical and Biological Engineering}
+  name: The State University of New York at Buffalo
+  state: ''
+
