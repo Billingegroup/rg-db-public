@@ -7,8 +7,8 @@ unisa:
   state:
   zip: 84084
 urome:
-  aka: [uroma, University of Rome, University of Roma, La Sapienza,
-  Università di Roma]
+  aka: [uroma, University of Rome, University of Roma, La Sapienza, Università di
+        Roma]
   city: Rome
   country: Italy
   departments: {physics: Department of Physcis}
@@ -77,12 +77,12 @@ columbiau:
   state: NY
   zip: 10027
 upenn:
-  aka: [Penn, U Penn, ]
+  aka: [Penn, U Penn]
   city: Philadelphia
   country: USA
-  departments: {chemistry: Department of Chemistry, cheme: Department of
-                Chemical Engineering, cs: Computer Science Department,
-                mse: Department of Materials Science and Engineering}
+  departments: {chemistry: Department of Chemistry, cheme: Department of Chemical
+      Engineering, cs: Computer Science Department, mse: Department of Materials Science
+      and Engineering}
   name: University of Pennsylvania
   schools: {seas: School of Engineering and Applied Science, aka: [SEAS, Columbia
           Engineering]}
@@ -142,12 +142,12 @@ esrf:
   street: 71 Avenue des Martyrs
   zip: 38000
 ill:
-  aka: [ILL, ]
+  aka: [ILL]
   city: Grenoble
   country: France
   name: Institut Laue Langevin
-  street: 71 Avenue des Martyrs
   state: ''
+  street: 71 Avenue des Martyrs
   zip: 38000
 ethzurich:
   aka: [ETH, Eidgenössische Technische Hochschule Zürich]
@@ -168,13 +168,12 @@ uwisconsin:
   street: 1509 University Ave.
   zip: 53706
 oxfordu:
-  aka: [Oxford, University of Oxford,]
+  aka: [Oxford, University of Oxford]
   city: Oxford
   country: UK
-  departments: {matsci: Department of Materials, physics: Department
-  of Physics, chemistry: Department of Chemistry, earthsci: Department of
-  Earth Sciences, eng: Department of Engineering Science, cs: Department of
-  Computer Science}
+  departments: {matsci: Department of Materials, physics: Department of Physics, chemistry: Department
+      of Chemistry, earthsci: Department of Earth Sciences, eng: Department of Engineering
+      Science, cs: Department of Computer Science}
   name: Oxford University
   state: ''
 uconn:
@@ -217,8 +216,8 @@ msu:
   aka: [MSU, Spartans]
   city: East Lansing
   country: USA
-  departments: {chemistry: Department of Chemistry, physics: Department of
-  Physics and Astronomy}
+  departments: {chemistry: Department of Chemistry, physics: Department of Physics
+      and Astronomy}
   name: Michigan State University
   state: MI
   street: 220 Trowbridge Rd

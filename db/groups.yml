@@ -1,9 +1,9 @@
 bg:
-  aka: [bg,]
+  aka: [bg]
   department: apam
   email: <b>sb2896</b> <i>(AT)</i> <b>columbia.edu</b>
   institution: columbiau
-  mission_statement: "Making the world better, one PDF at a time"
+  mission_statement: Making the world better, one PDF at a time
   name: Billinge Group
   pi_name: Simon J. L. Billinge
   projects: ''
@@ -12,7 +12,7 @@ xray:
   department: cmpms
   email: <b>billinge</b> <i>(AT)</i> <b>bnl.gov</b>
   institution: bnl
-  mission_statement: "Making the world better, one PDF at a time"
+  mission_statement: Making the world better, one PDF at a time
   name: x-ray scattering group
   pi_name: Ian Robinson
   projects: ''
