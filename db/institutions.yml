@@ -149,3 +149,12 @@ ucopenhagen:
   name: University of Copenhagen
   state: ''
   zip: ''
+ccny:
+  aka: City College, CUNY, City College
+  city: New York
+  country: USA
+  departments: fixme
+  name: The City College of New York
+  state: NY
+  street: 160 Convent Avenue
+  zip: 10031
