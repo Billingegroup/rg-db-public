@@ -1,5 +1,5 @@
 unisa:
-  aka:
+  aka: []
   city: Salerno
   country: Italy
   departments: {pharm: Department of Pharmacy}
@@ -16,7 +16,7 @@ urome:
   street: Piazzale Aldo Moro 5
   zip: 00185
 gsk:
-  aka:
+  aka: []
   city: fixme
   country: fixme
   departments: {cryst: Crystallography Department}
@@ -24,7 +24,7 @@ gsk:
   state: fixme
   zip: fixme
 uhouston:
-  aka:
+  aka: []
   city: Houston
   country: USA
   departments: {chemistry: Department of Chemistry}
@@ -32,7 +32,7 @@ uhouston:
   state: TX
   zip: fixme
 bowdoinc:
-  aka:
+  aka: []
   city: fixme
   country: USA
   departments: {chemistry: Department of Chemistry}
@@ -40,7 +40,7 @@ bowdoinc:
   state: ME
   zip: fixme
 umaine:
-  aka: University of Maine
+  aka: [University of Maine]
   city: fixme
   country: USA
   departments: {chemistry: Department of Chemistry, physics: Department of Physics}
@@ -57,7 +57,7 @@ batesc:
   web: www.bates.edu
   zip: 04240
 barnardu:
-  aka:
+  aka: []
   city: New York
   country: USA
   departments: {chemistry: Department of Chemistry, physics: Department of Physics}
@@ -70,7 +70,8 @@ columbiau:
   country: USA
   departments: {chemistry: Department of Chemistry, apam: Department of Applied Physics
       and Applied Mathematics, cheme: Department of Chemical Engineering, cs: Computer
-      Science Department, eaee: Department of Earth and Environmental Engineering}
+      Science Department, eaee: Department of Earth and Environmental Engineering,
+    physics: Department of Physics}
   name: Columbia University
   schools: {seas: School of Engineering and Applied Science, aka: [SEAS, Columbia
           Engineering]}
@@ -97,7 +98,7 @@ uhamburg:
   state:
   zip: fixme
 northwesternu:
-  aka:
+  aka: []
   city: Evanston
   country: USA
   departments: {chemistry: Department of Chemistry, materials: Materials Science Department,
@@ -106,7 +107,7 @@ northwesternu:
   state: IL
   zip: 60208
 anl:
-  aka:
+  aka: []
   city: Argonne
   country: USA
   departments: {matsci: Materials Science Division}
@@ -114,7 +115,7 @@ anl:
   state: IL
   zip: 60439
 bnl:
-  aka: Brookhaven National Laboratory
+  aka: [Brookhaven National Laboratory]
   city: Upton
   country: USA
   departments: {cmpms: Condensed Matter and Materials Science Department, psd: Photon
@@ -187,7 +188,7 @@ uconn:
   street: 97 North Eagleville Road
   zip: 06269
 sunysb:
-  aka:
+  aka: []
   city: Stony Brook
   country: USA
   departments: {physics: Department of Physics and Astronomy, chemistry: Department
