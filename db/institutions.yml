@@ -222,7 +222,8 @@ ccny:
   aka: [City College, CUNY City College]
   city: New York
   country: USA
-  departments: {cheme: Department of Chemical Engineering, chemistry: Department of Chemisty and Biochemistry}
+  departments: {cheme: Department of Chemical Engineering, chemistry: Department of
+      Chemisty and Biochemistry}
   name: The City College of New York
   schools: {grove: The Grove School of Engineering, aka: [Grove School, Grove]}
   state: NY
@@ -271,4 +272,3 @@ utoronto:
   state: Ontario
   street: 27 King's College Cir
   zip: M5S 3H7
-
