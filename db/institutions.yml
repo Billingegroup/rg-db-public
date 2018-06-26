@@ -2,20 +2,25 @@ unisa:
   aka: []
   city: Salerno
   country: Italy
-  departments: {
-    pharm: {'name': Department of Pharmacy}
-    }
+  departments: {pharm: {name: Department of Pharmacy}}
   name: University of Salerno
-  state:
+  state: ''
   zip: 84084
+riceu:
+  aka: [Rice]
+  city: Houston
+  country: USA
+  departments: {chemistry: {name: Department of Chemistry, aka: [Chemistry]}}
+  name: Rice University
+  notes: ['host: Angel Marti']
+  state: TX
+  zip: 77251
 urome:
   aka: [uroma, University of Rome, University of Roma, La Sapienza, Università di
         Roma]
   city: Rome
   country: Italy
-  departments: {
-      physics: {name: Department of Physcis}
-      }
+  departments: {physics: {name: Department of Physcis}}
   name: University of Rome, 'La Sapienza'
   street: Piazzale Aldo Moro 5
   zip: 00185
@@ -23,9 +28,7 @@ gsk:
   aka: []
   city: fixme
   country: fixme
-  departments: {
-    cryst: {name: Crystallography Department}
-    }
+  departments: {cryst: {name: Crystallography Department}}
   name: GlaxoSmithKline
   state: fixme
   zip: fixme
@@ -33,9 +36,7 @@ uhouston:
   aka: []
   city: Houston
   country: USA
-  departments: {
-      chemistry: {name: Department of Chemistry}}
-
+  departments: {chemistry: {name: Department of Chemistry}}
   name: University of Houston
   state: TX
   zip: fixme
@@ -43,9 +44,7 @@ bowdoinc:
   aka: []
   city: fixme
   country: USA
-  departments: {
-      chemistry: {name: Department of Chemistry}
-      }
+  departments: {chemistry: {name: Department of Chemistry}}
   name: Bowdoin College
   state: ME
   zip: fixme
@@ -53,10 +52,8 @@ umaine:
   aka: [University of Maine]
   city: fixme
   country: USA
-  departments: {
-       chemistry: {name: Department of Chemistry},
-       physics: {name: Department of Physics}
-       }
+  departments: {chemistry: {name: Department of Chemistry}, physics: {name: Department
+        of Physics}}
   name: University of Maine
   state: ME
   zip: fixme
@@ -73,10 +70,8 @@ barnardu:
   aka: []
   city: New York
   country: USA
-  departments: {
-      chemistry: {name: Department of Chemistry},
-      physics: {name: Department of Physics}
-      }
+  departments: {chemistry: {name: Department of Chemistry}, physics: {name: Department
+        of Physics}}
   name: Barnard College
   state: NY
   zip: fixme
@@ -84,47 +79,33 @@ columbiau:
   aka: [Columbia University, Columbia University in the City of New York]
   city: New York
   country: USA
-  departments: {
-      chemistry: {name: Department of Chemistry},
-      apam: {name: Department of Applied Physics and Applied Mathematics,
-             aka: [APAM]},
-      cheme: {name: Department of Chemical Engineering},
-      cs: {name: Computer Science Department},
-      eaee: {name: Department of Earth and Environmental Engineering},
-      physics: {name: Department of Physics}
-      }
+  departments: {chemistry: {name: Department of Chemistry}, apam: {name: Department
+        of Applied Physics and Applied Mathematics, aka: [APAM]}, cheme: {name: Department
+        of Chemical Engineering}, cs: {name: Computer Science Department}, eaee: {
+      name: Department of Earth and Environmental Engineering}, physics: {name: Department
+        of Physics}}
   name: Columbia University
-  schools: {
-      seas: {name: Fu Foundation School of Engineering and Applied Science,
-             aka: [SEAS, Columbia Engineering, School of Engineering and
-                   Applied Science]}
-            }
+  schools: {seas: {name: Fu Foundation School of Engineering and Applied Science,
+      aka: [SEAS, Columbia Engineering, School of Engineering and Applied Science]}}
   state: NY
   zip: 10027
 upenn:
   aka: [Penn, U Penn]
   city: Philadelphia
   country: USA
-  departments: {
-      chemistry: {name: Department of Chemistry},
-      cheme: {name: Department of Chemical Engineering},
-      cs: {name: Computer Science Department},
-      mse: {name: Department of Materials Science and Engineering}
-      }
+  departments: {chemistry: {name: Department of Chemistry}, cheme: {name: Department
+        of Chemical Engineering}, cs: {name: Computer Science Department}, mse: {
+      name: Department of Materials Science and Engineering}}
   name: University of Pennsylvania
-  schools: {
-      seas: {name: School of Engineering and Applied Science,
-             aka: [SEAS, Columbia Engineering]}
-             }
+  schools: {seas: {name: School of Engineering and Applied Science, aka: [SEAS, Columbia
+            Engineering]}}
   state: PA
   zip: 19104
 uhamburg:
   aka: University of Hamburg
   city: Hamburg
   country: Germany
-  departments: {
-      chyn: {name: Center for Hybrid Nanostructures}
-      }
+  departments: {chyn: {name: Center for Hybrid Nanostructures}}
   name: Universitat de Hamburg
   state:
   zip: fixme
@@ -132,11 +113,8 @@ northwesternu:
   aka: []
   city: Evanston
   country: USA
-  departments: {
-      chemistry: {name: Department of Chemistry},
-      materials: {name: Materials Science Department},
-      physics: {name: Department of Physics}
-      }
+  departments: {chemistry: {name: Department of Chemistry}, materials: {name: Materials
+        Science Department}, physics: {name: Department of Physics}}
   name: Northwestern University
   state: IL
   zip: 60208
@@ -144,9 +122,7 @@ anl:
   aka: []
   city: Argonne
   country: USA
-  departments: {
-      matsci: {name: Materials Science Division}
-      }
+  departments: {matsci: {name: Materials Science Division}}
   name: Argonne National Laboratory
   state: IL
   zip: 60439
@@ -154,14 +130,10 @@ bnl:
   aka: [Brookhaven National Laboratory]
   city: Upton
   country: USA
-  departments: {
-      cmpms: {name: Condensed Matter and Materials Science Department},
-      psd: {name: Photon Sciences Division},
-      chemistry: {name: Department of Chemistry},
-      csi: {name: Computational Science Initiative},
-      cfn: {name: Center for Functional Nanomaterials},
-      setd: {name: Sustainable Energy Technologies Department}
-      }
+  departments: {cmpms: {name: Condensed Matter and Materials Science Department},
+    psd: {name: Photon Sciences Division}, chemistry: {name: Department of Chemistry},
+    csi: {name: Computational Science Initiative}, cfn: {name: Center for Functional
+        Nanomaterials}, setd: {name: Sustainable Energy Technologies Department}}
   name: Brookhaven National Laboratory
   state: NY
   zip: 11973
@@ -169,9 +141,7 @@ lanl:
   aka: [LANL]
   city: Los Alamos
   country: USA
-  departments: {
-      mst: {name: Materials Science and Technology Division}
-      }
+  departments: {mst: {name: Materials Science and Technology Division}}
   name: Los Alamos National Laboratory
   state: NM
   zip: 87545
@@ -179,9 +149,7 @@ esrf:
   aka: [European Synchrotron Radiation Facility, ESRF]
   city: Grenoble
   country: France
-  departments: {
-      db_bl: {name: Dutch-Belgian Beamline, aka: [sas_bl]}
-      }
+  departments: {db_bl: {name: Dutch-Belgian Beamline, aka: [sas_bl]}}
   name: European Synchrotron Radiation Facility
   state: ''
   street: 71 Avenue des Martyrs
@@ -198,9 +166,7 @@ ethzurich:
   aka: [ETH, Eidgenössische Technische Hochschule Zürich]
   city: Zurich
   country: Switzerland
-  departments: {
-      mattheory: {name: Materials Theory}
-      }
+  departments: {mattheory: {name: Materials Theory}}
   name: ETH Zurich
   state: ''
   street: Wolfgang-Pauli-Strasse 27
@@ -209,9 +175,7 @@ uwisconsin:
   aka: [Wisco, University of Wisconsin, U Wisconsin, UW, UW-Madison]
   city: Madison
   country: USA
-  departments: {
-      matsci: {name: Department of Materials Science and Engineering}
-      }
+  departments: {matsci: {name: Department of Materials Science and Engineering}}
   name: University of Wisconsin-Madison
   state: WI
   street: 1509 University Ave.
@@ -220,24 +184,18 @@ oxfordu:
   aka: [Oxford, University of Oxford]
   city: Oxford
   country: UK
-  departments: {
-      matsci: {name: Department of Materials},
-      physics: {name: Department of Physics},
-      chemistry: {name: Department of Chemistry},
-      earthsci: {name: Department of Earth Sciences},
-      eng: {name: Department of Engineering Science},
-      cs: {name: Department of Computer Science}
-      }
+  departments: {matsci: {name: Department of Materials}, physics: {name: Department
+        of Physics}, chemistry: {name: Department of Chemistry}, earthsci: {name: Department
+        of Earth Sciences}, eng: {name: Department of Engineering Science}, cs: {
+      name: Department of Computer Science}}
   name: Oxford University
   state: ''
 uconn:
   aka: [UConn]
   city: Storrs
   country: USA
-  departments: {
-      matsci: {name: Department of Materials Science and Engineering},
-      instmatsci: {name: Institute of Materials Science}
-      }
+  departments: {matsci: {name: Department of Materials Science and Engineering}, instmatsci: {
+      name: Institute of Materials Science}}
   name: University of Connecticut
   state: CT
   street: 97 North Eagleville Road
@@ -246,11 +204,8 @@ sunysb:
   aka: []
   city: Stony Brook
   country: USA
-  departments: {
-      physics: {name: Department of Physics and Astronomy},
-      chemistry: {Department of Chemistry},
-      earthsci: {Department of Earth Science}
-      }
+  departments: {physics: {name: Department of Physics and Astronomy}, chemistry: {
+      Department of Chemistry: !!null ''}, earthsci: {Department of Earth Science: !!null ''}}
   name: Stony Brook University
   state: NY
   street:
@@ -259,9 +214,7 @@ ucopenhagen:
   aka:
   city: Copenhagen
   country: Denmark
-  departments: {
-      chemistry: {name: Department of Chemistry}
-      }
+  departments: {chemistry: {name: Department of Chemistry}}
   name: University of Copenhagen
   state: ''
   zip: ''
@@ -269,9 +222,7 @@ uwashington:
   aka: [University of Washington, UW]
   city: Seattle
   country: USA
-  departments: {
-      chemistry: {name: Department of Chemistry}
-      }
+  departments: {chemistry: {name: Department of Chemistry}}
   name: University of Washington
   state: WS
   zip: 98195
@@ -279,10 +230,8 @@ msu:
   aka: [MSU, Spartans]
   city: East Lansing
   country: USA
-  departments: {
-      chemistry: {name: Department of Chemistry},
-      physics: {name: Department of Physics and Astronomy}
-      }
+  departments: {chemistry: {name: Department of Chemistry}, physics: {name: Department
+        of Physics and Astronomy}}
   name: Michigan State University
   state: MI
   street: 220 Trowbridge Rd
@@ -291,9 +240,7 @@ sunybuffalo:
   aka: [SUNY Buffalo, SUNY-Buffalo]
   city: Buffalo
   country: USA
-  departments: {
-      cheme: {name: Department of Chemical and Biological Engineering}
-      }
+  departments: {cheme: {name: Department of Chemical and Biological Engineering}}
   name: The State University of New York at Buffalo
   state: ''
   zip: 14260
