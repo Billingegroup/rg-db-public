@@ -245,7 +245,7 @@ nyu:
   aka: [nyu, NYU, new york university, New York University]
   city: New York
   country: USA
-  departments: {chem: Department of Chemistry}
+  departments: {chemistry: Department of Chemistry}
   name: New York University
   state: NY
   zip: 10003
