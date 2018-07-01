@@ -10,8 +10,8 @@ kentstateu:
   aka: [kent state, KSU]
   city: Kent
   country: USA
-  departments: {physics: {name: Department of Physics, aka: [Physics]}
-                chemistry: {name: Department of Chemistry, aka: [Chemistry]}}
+  departments: {physics: {name: Department of Physics, aka: [Physics]}, chemistry: {
+      name: Department of Chemistry, aka: [Chemistry]}}
   name: Kent State University
   schools: {cas: {name: College of Arts and Sciences}}
   state: OH
