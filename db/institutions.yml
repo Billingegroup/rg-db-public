@@ -6,6 +6,17 @@ unisa:
   name: University of Salerno
   state: ''
   zip: 84084
+kentstateu:
+  aka: [kent state, KSU]
+  city: Kent
+  country: USA
+  departments: {physics: {name: Department of Physics, aka: [Physics]}
+                chemistry: {name: Department of Chemistry, aka: [Chemistry]}}
+  name: Kent State University
+  schools: {cas: {name: College of Arts and Sciences}}
+  state: OH
+  street: 208 Schwartz Center, 800 E. Summit St.,
+  zip: 44242
 riceu:
   aka: [Rice]
   city: Houston
