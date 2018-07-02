@@ -304,4 +304,108 @@ utoronto:
   state: Ontario
   street: 27 King's College Cir
   zip: M5S 3H7
+vanderbilt:
+  country: USA
+  aka:
+  - Vanderbilt
+  - vanderbilt
+  city: Nashville
+  name: Vanderbilt University
+  state: TN
+  zip: '37240'
+milwaukee:
+  country: USA
+  aka: ['UW Milwaukee']
+  city: Milwaukee
+  name: University of Wisconsin - Milwaukee
+  state: WI
+  zip: '53211'
+arizona_state:
+  country: USA
+  aka:
+  - Arizona State
+  - arizona state
+  city: Tempe
+  name: Arizona State University
+  state: AZ
+  zip: '85287'
+ohio:
+  country: USA
+  aka:
+  - Ohio
+  - ohio
+  city: Athens
+  name: Ohio University - Main Campus
+  state: OH
+  zip: 45701-2979
+uiuc:
+  country: USA
+  aka: [UIUC]
+  city: Champaign
+  name: University of Illinois at Urbana-Champaign
+  state: IL
+  zip: 61820-5711
+northwestern:
+  country: USA
+  aka:
+  - Northwestern
+  - northwestern
+  city: Evanston
+  name: Northwestern University
+  state: IL
+  zip: '60208'
+lehigh:
+  country: USA
+  aka:
+  - Lehigh
+  - lehigh
+  city: Bethlehem
+  name: Lehigh University
+  state: PA
+  zip: '18015'
+rutgers:
+  country: USA
+  aka:
+  - Rutgers
+  - rutgers
+  city: New Brunswick
+  name: Rutgers, The State University of New Jersey
+  state: NJ
+  zip: 08901-1281
+drexel:
+  country: USA
+  aka:
+  - Drexel
+  - drexel
+  city: Philadelphia
+  name: Drexel University
+  state: PA
+  zip: '19104'
+davis:
+  country: USA
+  aka: [UC Davis, uc davis]
+  city: Davis
+  name: University of California - Davis
+  state: CA
+  zip: 95616-8678
+kent_state:
+  country: USA
+  aka:
+  - Kent State
+  - kent state
+  city: Kent
+  name: Kent State University
+  state: OH
+  zip: 44242-0001
+caltech:
+  country: USA
+  aka:
+  - California Institute of Technology
+  - california institute of technology
+  - CalTech
+  - caltech
+  city: Pasadena
+  name: California Institute of Technology
+  state: CA
+  zip: '91125'
 
