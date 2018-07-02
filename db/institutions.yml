@@ -266,8 +266,9 @@ utoronto:
   aka: [UofT, uoft]
   city: Toronto
   country: Canada
-  departments: {physics: Department of Physics, chemistry: Department of Chemistry, matsci: Department of Materials Science and Engineering}
+  departments: {physics: {name: Department of Physics}, chemistry: {name: Department of Chemistry}, matsci: {name: Department of Materials Science and Engineering}}
   name: University of Toronto
-  state: ''
+  state: Ontario
+  street: 27 King's College Cir
   zip: ''
 
