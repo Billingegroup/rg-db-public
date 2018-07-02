@@ -304,7 +304,7 @@ utoronto:
   state: Ontario
   street: 27 King's College Cir
   zip: M5S 3H7
-vanderbilt:
+vanderbiltu:
   country: USA
   aka:
   - Vanderbilt
@@ -313,14 +313,14 @@ vanderbilt:
   name: Vanderbilt University
   state: TN
   zip: '37240'
-milwaukee:
+uwmilwaukee:
   country: USA
-  aka: ['UW Milwaukee']
+  aka: []
   city: Milwaukee
   name: University of Wisconsin - Milwaukee
   state: WI
   zip: '53211'
-arizona_state:
+asu:
   country: USA
   aka:
   - Arizona State
@@ -329,7 +329,7 @@ arizona_state:
   name: Arizona State University
   state: AZ
   zip: '85287'
-ohio:
+ohiou:
   country: USA
   aka:
   - Ohio
@@ -345,7 +345,7 @@ uiuc:
   name: University of Illinois at Urbana-Champaign
   state: IL
   zip: 61820-5711
-northwestern:
+northwesternu:
   country: USA
   aka:
   - Northwestern
@@ -354,7 +354,7 @@ northwestern:
   name: Northwestern University
   state: IL
   zip: '60208'
-lehigh:
+lehighu:
   country: USA
   aka:
   - Lehigh
@@ -372,7 +372,7 @@ rutgers:
   name: Rutgers, The State University of New Jersey
   state: NJ
   zip: 08901-1281
-drexel:
+drexelu:
   country: USA
   aka:
   - Drexel
@@ -381,31 +381,19 @@ drexel:
   name: Drexel University
   state: PA
   zip: '19104'
-davis:
+ucdavis:
   country: USA
-  aka: [UC Davis, uc davis]
+  aka: [UCDavis]
   city: Davis
   name: University of California - Davis
   state: CA
   zip: 95616-8678
-kent_state:
-  country: USA
-  aka:
-  - Kent State
-  - kent state
-  city: Kent
-  name: Kent State University
-  state: OH
-  zip: 44242-0001
-caltech:
+caltechu:
   country: USA
   aka:
   - California Institute of Technology
   - california institute of technology
-  - CalTech
-  - caltech
   city: Pasadena
   name: California Institute of Technology
   state: CA
   zip: '91125'
-
