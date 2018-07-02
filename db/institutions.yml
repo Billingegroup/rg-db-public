@@ -258,7 +258,7 @@ nyu:
   aka: [nyu, NYU, new york university, New York University]
   city: New York
   country: USA
-  departments: {chemistry: Department of Chemistry}
+  departments: {chemistry: {name: Department of Chemistry}}
   name: New York University
   state: NY
   zip: 10003
@@ -266,9 +266,9 @@ qmul:
   aka: [QMUL, Queen Mary University of London, Queen Mary College, QMC]
   city: London
   country: UK
-  schools: {physastro: The School of Physics and Astronomy}
-  departments: {cmmaterials: Centre for Condensed Matter and Materials Physics}
+  schools: {physastro: {name: The School of Physics and Astronomy}}
+  departments: {cmmaterials: {name: Centre for Condensed Matter and Materials Physics}}
   name: Queen Mary University of London
   state: ''
-  zip: ''
+  zip: E1 4NS
 
