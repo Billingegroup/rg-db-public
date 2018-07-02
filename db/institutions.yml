@@ -262,4 +262,13 @@ nyu:
   name: New York University
   state: NY
   zip: 10003
+utoronto:
+  aka: [UofT, uoft]
+  city: Toronto
+  country: Canada
+  departments: {physics: {name: Department of Physics}, chemistry: {name: Department of Chemistry}, matsci: {name: Department of Materials Science and Engineering}}
+  name: University of Toronto
+  state: Ontario
+  street: 27 King's College Cir
+  zip: M5S 3H7
 
