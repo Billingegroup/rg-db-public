@@ -315,7 +315,8 @@ vanderbiltu:
   zip: '37240'
 uwmilwaukee:
   country: USA
-  aka: []
+  aka:
+  - UW Milwaukee
   city: Milwaukee
   name: University of Wisconsin - Milwaukee
   state: WI
@@ -340,7 +341,9 @@ ohiou:
   zip: 45701-2979
 uiuc:
   country: USA
-  aka: [UIUC]
+  aka:
+  - UI Urbana-Champaign
+  - UIUC
   city: Champaign
   name: University of Illinois at Urbana-Champaign
   state: IL
@@ -383,7 +386,8 @@ drexelu:
   zip: '19104'
 ucdavis:
   country: USA
-  aka: [UCDavis]
+  aka:
+  - UC Davis
   city: Davis
   name: University of California - Davis
   state: CA
@@ -393,6 +397,7 @@ caltechu:
   aka:
   - California Institute of Technology
   - california institute of technology
+  - CalTech
   city: Pasadena
   name: California Institute of Technology
   state: CA
