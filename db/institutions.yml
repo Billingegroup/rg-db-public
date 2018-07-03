@@ -1,8 +1,30 @@
+uwisconsin:
+  aka: [Wisco, University of Wisconsin, U Wisconsin, UW, UW-Madison]
+  city: Madison
+  country: USA
+  departments: {matsci: {name: Department of Materials Science and Engineering}, pharma: {
+      name: Department of Pharmaceutical Sciences}}
+  name: University of Wisconsin-Madison
+  schools: {pharma: {name: School of Pharmacy}}
+  state: WI
+  street: 1509 University Ave.
+  zip: 53706
+kentstateu:
+  aka: [kent state, KSU]
+  city: Kent
+  country: USA
+  departments: {physics: {name: Department of Physics, aka: [Physics]}, chemistry: {
+      name: Department of Chemistry, aka: [Chemistry]}}
+  name: Kent State University
+  schools: {cas: {name: College of Arts and Sciences}}
+  state: OH
+  street: 208 Schwartz Center, 800 E. Summit St.
+  zip: 44242
 unisa:
   aka: []
   city: Salerno
   country: Italy
-  departments: {pharm: {name: Department of Pharmacy}}
+  departments: {pharma: {name: Department of Pharmacy}}
   name: University of Salerno
   state: ''
   zip: 84084
@@ -171,15 +193,6 @@ ethzurich:
   state: ''
   street: Wolfgang-Pauli-Strasse 27
   zip: CH-8093
-uwisconsin:
-  aka: [Wisco, University of Wisconsin, U Wisconsin, UW, UW-Madison]
-  city: Madison
-  country: USA
-  departments: {matsci: {name: Department of Materials Science and Engineering}}
-  name: University of Wisconsin-Madison
-  state: WI
-  street: 1509 University Ave.
-  zip: 53706
 oxfordu:
   aka: [Oxford, University of Oxford]
   city: Oxford
@@ -263,3 +276,13 @@ nyu:
   name: New York University
   state: NY
   zip: 10003
+utoronto:
+  aka: [UofT, uoft]
+  city: Toronto
+  country: Canada
+  departments: {physics: {name: Department of Physics}, chemistry: {name: Department of Chemistry}, matsci: {name: Department of Materials Science and Engineering}}
+  name: University of Toronto
+  state: Ontario
+  street: 27 King's College Cir
+  zip: M5S 3H7
+
