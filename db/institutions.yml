@@ -402,3 +402,12 @@ caltech:
   name: California Institute of Technology
   state: CA
   zip: '91125'
+umontreal:
+  aka: [UdeM, udem]
+  city: Montreal
+  country: Canada
+  departments: {physics: {name: Département de physique}, chemistry: {name: Département de chimie}}
+  name: Université de Montréal
+  state: Québec 
+  street: 2900, boul. Édouard-Montpetit
+  zip: H3T 1J4 
