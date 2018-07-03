@@ -285,6 +285,15 @@ nyu:
   name: New York University
   state: NY
   zip: 10003
+qmul:
+  aka: [QMUL, Queen Mary University of London, Queen Mary College, QMC]
+  city: London
+  country: UK
+  schools: {physastro: {name: The School of Physics and Astronomy}}
+  departments: {cmmaterials: {name: Centre for Condensed Matter and Materials Physics}}
+  name: Queen Mary University of London
+  state: ''
+  zip: E1 4NS
 utoronto:
   aka: [UofT, uoft]
   city: Toronto
@@ -295,3 +304,4 @@ utoronto:
   state: Ontario
   street: 27 King's College Cir
   zip: M5S 3H7
+
