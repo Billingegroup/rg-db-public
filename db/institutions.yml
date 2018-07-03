@@ -403,7 +403,7 @@ caltech:
   state: CA
   zip: '91125'
 umontreal:
-  aka: [UdeM, udem]
+  aka: [UdeM, udem, umontreal, UMontreal, UofMontreal, uofmontreal]
   city: Montreal
   country: Canada
   departments: {physics: {name: Département de physique}, chemistry: {name: Département de chimie}}
