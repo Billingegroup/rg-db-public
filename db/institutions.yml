@@ -304,6 +304,7 @@ utoronto:
   state: Ontario
   street: 27 King's College Cir
   zip: M5S 3H7
+<<<<<<< a45043dc6b645f58a8f8f07ed2777d874202796d
 vanderbiltu:
   country: USA
   aka:
@@ -420,4 +421,12 @@ uduisburgessen:
   state: North Rhine-Westphalia
   street: Universitaetsstrasse 7
   zip: 45117
-
+aau:
+  aka: [Addis Ababa University, አዲስ አበባ ዩኒቨርሲቲ, AAU]
+  city: Addis Ababa
+  country: Ethiopia
+  departments: {physics: {name: Department of Physics}, chemistry: {name: Department of Chemistry}}
+  name: Addis Ababa University
+  schools: {cns: {name: College of Natural Science}}
+  state: ''
+  zip: ''
