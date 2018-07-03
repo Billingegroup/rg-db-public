@@ -285,3 +285,12 @@ utoronto:
   state: Ontario
   street: 27 King's College Cir
   zip: M5S 3H7
+aau:
+  aka: [Addis Ababa University, አዲስ አበባ ዩኒቨርሲቲ, AAU]
+  city: Addis Ababa
+  country: Ethiopia
+  departments: {physics: {name: Department of Physics}, chemistry: {name: Department of Chemistry}}
+  name: Addis Ababa University
+  schools: {cns: {name: College of Natural Science}}
+  state: ''
+  zip: ''
