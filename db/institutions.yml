@@ -46,6 +46,15 @@ urome:
   name: University of Rome, 'La Sapienza'
   street: Piazzale Aldo Moro 5
   zip: 00185
+mpi:
+  aka: [Max Planck, MPI, University of Roma, La Sapienza, Università di Roma]
+  city: Stuttgart
+  country: Germany
+  departments: {ssp: {name: Institute for Solid State Physics}}
+  name: Max Planck Institute
+  state: ''
+  street: ''
+  zip: ''
 gsk:
   aka: []
   city: fixme
@@ -280,7 +289,8 @@ utoronto:
   aka: [UofT, uoft]
   city: Toronto
   country: Canada
-  departments: {physics: {name: Department of Physics}, chemistry: {name: Department of Chemistry}, matsci: {name: Department of Materials Science and Engineering}}
+  departments: {physics: {name: Department of Physics}, chemistry: {name: Department
+        of Chemistry}, matsci: {name: Department of Materials Science and Engineering}}
   name: University of Toronto
   state: Ontario
   street: 27 King's College Cir
