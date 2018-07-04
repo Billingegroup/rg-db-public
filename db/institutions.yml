@@ -411,3 +411,13 @@ umontreal:
   state: Québec 
   street: 2900, boul. Édouard-Montpetit
   zip: H3T 1J4 
+uduisburgessen:
+  aka: [The University of Duisburg-Essen, Die Universität Duisburg-Essen, Uni DuE, UDE]
+  city: Essen
+  country: Germany
+  departments: {chemistry: {name: Institute of Inorganic Chemistry}, matsci: {name: Center for Nanointegration Duisburg-Essen (CENIDE)}}
+  name: University of Duisburg-Essen
+  state: North Rhine-Westphalia
+  street: Universitaetsstrasse 7
+  zip: 45117
+
