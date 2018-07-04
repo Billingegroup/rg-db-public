@@ -420,4 +420,13 @@ uduisburgessen:
   state: North Rhine-Westphalia
   street: Universitaetsstrasse 7
   zip: 45117
+utsinghua:
+  aka: [Tsinghua, THU]
+  city: Beijing
+  country: China
+  departments: {chemistry: {name: Department of Chemistry}, matsci: {name: Department of Materials Science and Engineering}, physics: {name: Department of Physics}}
+  name: Tsinghua University
+  state: Haidian
+  street: 30 Shuangqing Rd
+  zip: 100084 
 
