@@ -347,9 +347,9 @@ asu:
   country: USA
   departments: {physics: {name: Department of Physics}}
   schools: {sms: {name: School of Molecular Sciences}, semte: {name: School for Engineering of Matter, Transport and Energy}}
-  name: Arizona State University 
-  state: Arizona 
-  street: '' 
+  name: Arizona State University
+  state: Arizona
+  street: ''
   zip: 85287
 ohiou:
   aka:
@@ -442,12 +442,12 @@ caltech:
   zip: '91125'
 cornellu:
   aka: [Cornell, cornell, Cornell University, cornell university]
-  city: Ithaca 
+  city: Ithaca
   country: USA
   departments: {physics: {name: Department of Physics}, chemistry: {name: Department of Chemistry and Chemical Biology}, matsci: {name: Department of Materials Science and Engineering}}
   name: Cornell University
-  state: New York 
-  street: '' 
+  state: New York
+  street: ''
   zip: 14850
 umontreal:
   aka: [UdeM, udem, Montreal, montreal, University Montreal, university montreal,
@@ -501,11 +501,17 @@ ufrankfurt:
   country: Germany
   departments: {appphy: {name: Institute of Applied Physics}, biophy: {name: Institute of Biophysics},
         phyedu: {name: Institute of Physics Education}, nucphy: {name: Institute of Nuclear Physics},
-        phy:{name: Institute of Physics} theophy: {name: Institute of Theoretical Physics}, inochem: 
-        {name: Institute of Inorganic and Analytical Chemistry}, orgchem: {name: Institute of Organic 
+        phy:{name: Institute of Physics} theophy: {name: Institute of Theoretical Physics}, inochem:
+        {name: Institute of Inorganic and Analytical Chemistry}, orgchem: {name: Institute of Organic
         Chemistry and Chemical Biology}, phychem: {name: Institute of Physical and Theoretical Chemistry},
         didchem: {name: Institute of Didactics of Chemistry}}
   schools: {physics:{name: Department of Physics}, chemistry:{name: Department of Chemistry}}
   name: Goethe University Frankfurt
-  state: ''                     
+  state: ''
   zip: 60323
+bayreuth:
+  aka: [Bayreuth, bayreuth]
+  city: Bayreuth
+  country: Germany
+  departments: {chemistry: Biology, Chemistry & Earth Sciences}
+  name: Universitat Rayreuth
