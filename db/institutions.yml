@@ -285,6 +285,14 @@ nyu:
   name: New York University
   state: NY
   zip: 10003
+puneu:
+  aka: [University of Pune, University of Poona, Pune University]
+  city: Pune
+  country: India
+  departments: {physics: {name: Department of Physics}}
+  name: Savitribai Phule Pune University
+  state: Maharashtra
+  zip: 411007
 qmul:
   aka: [QMUL, Queen Mary University of London, Queen Mary College, QMC]
   city: London
