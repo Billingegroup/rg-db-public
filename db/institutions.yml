@@ -412,6 +412,15 @@ caltech:
   name: California Institute of Technology
   state: CA
   zip: '91125'
+cornellu:
+  aka: [Cornell, cornell, Cornell University, cornell university]
+  city: Ithaca 
+  country: USA
+  departments: {physics: {name: Department of Physics}, chemistry: {name: Department of Chemistry and Chemical Biology}, matsci: {name: Department of Materials Science and Engineering}}
+  name: Cornell University
+  state: New York 
+  street: '' 
+  zip: 14850
 umontreal:
   aka: [UdeM, udem, Montreal, montreal, University Montreal, university montreal, University of Montreal, university of montreal]
   city: Montreal
