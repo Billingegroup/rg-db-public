@@ -375,6 +375,15 @@ northwesternu:
   name: Northwestern University
   state: IL
   zip: '60208'
+ghentu:
+  aka: [University of Ghent, Universiteit Gent, UGent, State University of Ghent, Rijksuniversiteit Gent, RUG]
+  city: Ghent
+  country: Belgium
+  departments: {chemistry: {name: Department of Chemistry}, matsci: {name: Sol-gel Centre for Research on Inorganic Powders and Thin films Synthesis (SCRiPTS)}}
+  name: Ghent University
+  state: East Flanders
+  street: St. Pietersnieuwstraat 33
+  zip: 9000
 lehighu:
   country: USA
   aka:
