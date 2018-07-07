@@ -294,6 +294,16 @@ qmul:
   name: Queen Mary University of London
   state: ''
   zip: E1 4NS
+natautoumexico:
+  aka: [Universidad Nacional Autónoma de México, UNAM, unam, Autonomous National University of Mexico]
+  city: Mexico City
+  country: Mexico
+  schools: {sciences: {name: Faculty of Sciences, aka: [Facultad de Ciencias]}}
+  departments: {physics: {name: Department of Physics, aka: [Departamiento de física, Departamiento de fisica]}}
+  name: National Autonomous University of Mexico
+  street: República de Brasil 33
+  state: ''
+  zip: 06000
 utoronto:
   aka: [UofT, uoft]
   city: Toronto
