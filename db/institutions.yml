@@ -342,14 +342,15 @@ uwmilwaukee:
   state: WI
   zip: '53211'
 asu:
-  aka:
-    - Arizona State
-    - arizona state
+  aka: [Arizona State University, arizona state university, ASU]
   city: Tempe
   country: USA
-  name: Arizona State University
-  state: AZ
-  zip: '85287'
+  departments: {physics: {name: Department of Physics}}
+  schools: {sms: {name: School of Molecular Sciences}, semte: {name: School for Engineering of Matter, Transport and Energy}}
+  name: Arizona State University 
+  state: Arizona 
+  street: '' 
+  zip: 85287
 ohiou:
   aka:
     - Ohio
