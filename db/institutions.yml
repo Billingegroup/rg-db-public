@@ -287,6 +287,14 @@ nyu:
   name: New York University
   state: NY
   zip: 10003
+puneu:
+  aka: [University of Pune, University of Poona, Pune University]
+  city: Pune
+  country: India
+  departments: {physics: {name: Department of Physics}}
+  name: Savitribai Phule Pune University
+  state: Maharashtra
+  zip: 411007
 qmul:
   aka: [QMUL, Queen Mary University of London, Queen Mary College, QMC]
   city: London
@@ -360,6 +368,24 @@ uiuc:
   name: University of Illinois at Urbana-Champaign
   state: IL
   zip: 61820-5711
+northwesternu:
+  country: USA
+  aka:
+  - Northwestern
+  - northwestern
+  city: Evanston
+  name: Northwestern University
+  state: IL
+  zip: '60208'
+ghentu:
+  aka: [University of Ghent, Universiteit Gent, UGent, State University of Ghent, Rijksuniversiteit Gent, RUG]
+  city: Ghent
+  country: Belgium
+  departments: {chemistry: {name: Department of Chemistry}, matsci: {name: Sol-gel Centre for Research on Inorganic Powders and Thin films Synthesis (SCRiPTS)}}
+  name: Ghent University
+  state: East Flanders
+  street: St. Pietersnieuwstraat 33
+  zip: 9000
 lehighu:
   aka:
     - Lehigh
@@ -413,6 +439,15 @@ caltech:
   name: California Institute of Technology
   state: CA
   zip: '91125'
+cornellu:
+  aka: [Cornell, cornell, Cornell University, cornell university]
+  city: Ithaca 
+  country: USA
+  departments: {physics: {name: Department of Physics}, chemistry: {name: Department of Chemistry and Chemical Biology}, matsci: {name: Department of Materials Science and Engineering}}
+  name: Cornell University
+  state: New York 
+  street: '' 
+  zip: 14850
 umontreal:
   aka: [UdeM, udem, Montreal, montreal, University Montreal, university montreal,
     University of Montreal, university of montreal]
