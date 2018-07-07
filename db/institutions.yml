@@ -141,7 +141,9 @@ uhamburg:
   state:
   zip: fixme
 northwesternu:
-  aka: []
+  aka:
+    - Northwestern
+    - northwestern
   city: Evanston
   country: USA
   departments: {chemistry: {name: Department of Chemistry}, materials: {name: Materials
@@ -182,7 +184,7 @@ esrf:
   country: France
   departments: {db_bl: {name: Dutch-Belgian Beamline, aka: [sas_bl]}}
   name: European Synchrotron Radiation Facility
-  state: ''
+  state: Rhone-Alps
   street: 71 Avenue des Martyrs
   zip: 38000
 ill:
@@ -289,9 +291,9 @@ qmul:
   aka: [QMUL, Queen Mary University of London, Queen Mary College, QMC]
   city: London
   country: UK
-  schools: {physastro: {name: The School of Physics and Astronomy}}
   departments: {cmmaterials: {name: Centre for Condensed Matter and Materials Physics}}
   name: Queen Mary University of London
+  schools: {physastro: {name: The School of Physics and Astronomy}}
   state: ''
   zip: E1 4NS
 natautoumexico:
@@ -315,112 +317,113 @@ utoronto:
   street: 27 King's College Cir
   zip: M5S 3H7
 vanderbiltu:
-  country: USA
   aka:
-  - Vanderbilt
-  - vanderbilt
+    - Vanderbilt
+    - vanderbilt
   city: Nashville
+  country: USA
   name: Vanderbilt University
   state: TN
   zip: '37240'
 uwmilwaukee:
-  country: USA
   aka:
-  - UW Milwaukee
+    - UW Milwaukee
   city: Milwaukee
+  country: USA
   name: University of Wisconsin - Milwaukee
   state: WI
   zip: '53211'
 asu:
-  country: USA
   aka:
-  - Arizona State
-  - arizona state
+    - Arizona State
+    - arizona state
   city: Tempe
+  country: USA
   name: Arizona State University
   state: AZ
   zip: '85287'
 ohiou:
-  country: USA
   aka:
-  - Ohio
-  - ohio
+    - Ohio
+    - ohio
   city: Athens
+  country: USA
   name: Ohio University - Main Campus
   state: OH
   zip: 45701-2979
 uiuc:
-  country: USA
   aka:
-  - UI Urbana-Champaign
-  - UIUC
+    - UI Urbana-Champaign
+    - UIUC
   city: Champaign
+  country: USA
   name: University of Illinois at Urbana-Champaign
   state: IL
   zip: 61820-5711
-northwesternu:
-  country: USA
-  aka:
-  - Northwestern
-  - northwestern
-  city: Evanston
-  name: Northwestern University
-  state: IL
-  zip: '60208'
 lehighu:
-  country: USA
   aka:
-  - Lehigh
-  - lehigh
+    - Lehigh
+    - lehigh
   city: Bethlehem
+  country: USA
   name: Lehigh University
   state: PA
   zip: '18015'
 rutgers:
-  country: USA
   aka:
-  - Rutgers
-  - rutgers
+    - Rutgers
+    - rutgers
   city: New Brunswick
+  country: USA
   name: Rutgers, The State University of New Jersey
   state: NJ
   zip: 08901-1281
 drexelu:
-  country: USA
   aka:
-  - Drexel
-  - drexel
+    - Drexel
+    - drexel
   city: Philadelphia
+  country: USA
   name: Drexel University
   state: PA
   zip: '19104'
 ucdavis:
-  country: USA
   aka:
-  - UC Davis
+    - UC Davis
   city: Davis
+  country: USA
+  name: University of California - Davis
+  state: CA
+  zip: 95616-8678
+ubayreuth:
+  aka:
+    - UC Davis
+  city: Davis
+  country: USA
   name: University of California - Davis
   state: CA
   zip: 95616-8678
 caltech:
-  country: USA
   aka:
-  - California Institute of Technology
-  - california institute of technology
-  - CalTech
+    - California Institute of Technology
+    - california institute of technology
+    - CalTech
   city: Pasadena
+  country: USA
   name: California Institute of Technology
   state: CA
   zip: '91125'
 umontreal:
-  aka: [UdeM, udem, Montreal, montreal, University Montreal, university montreal, University of Montreal, university of montreal]
+  aka: [UdeM, udem, Montreal, montreal, University Montreal, university montreal,
+    University of Montreal, university of montreal]
   city: Montreal
   country: Canada
-  departments: {physics: {name: Département de physique}, chemistry: {name: Département de chimie}}
+  departments: {physics: {name: Département de physique}, chemistry: {name: Département
+        de chimie}}
   name: Université de Montréal
-  state: Québec 
+  state: Québec
   street: 2900, boul. Édouard-Montpetit
-  zip: H3T 1J4 
+  zip: H3T 1J4
 uduisburgessen:
   aka: [The University of Duisburg-Essen, Die Universität Duisburg-Essen, Uni DuE, UDE]
   city: Essen
@@ -438,5 +441,5 @@ utsinghua:
   name: Tsinghua University
   state: Haidian
   street: 30 Shuangqing Rd
-  zip: 100084 
+  zip: 100084
 
