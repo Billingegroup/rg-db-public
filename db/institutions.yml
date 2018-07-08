@@ -395,13 +395,13 @@ lehighu:
   name: Lehigh University
   state: PA
   zip: '18015'
-rutgers:
+rutgersu:
   aka:
     - Rutgers
     - rutgers
   city: New Brunswick
   country: USA
-  name: Rutgers, The State University of New Jersey
+  name: Rutgers University
   state: NJ
   zip: 08901-1281
 drexelu:
