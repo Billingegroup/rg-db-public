@@ -369,15 +369,6 @@ uiuc:
   name: University of Illinois at Urbana-Champaign
   state: IL
   zip: 61820-5711
-northwesternu:
-  country: USA
-  aka:
-  - Northwestern
-  - northwestern
-  city: Evanston
-  name: Northwestern University
-  state: IL
-  zip: '60208'
 ghentu:
   aka: [University of Ghent, Universiteit Gent, UGent, State University of Ghent, Rijksuniversiteit Gent, RUG]
   city: Ghent
