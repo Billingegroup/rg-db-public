@@ -406,14 +406,14 @@ rutgers:
   state: NJ
   zip: 08901-1281
 drexelu:
-  aka:
-    - Drexel
-    - drexel
+  aka: [drexel university, Drexel University, drexel, Drexel]
   city: Philadelphia
   country: USA
+  departments: {mse: {name: Department of Materials Science and Engineering}, nano: {name: A.J. Drexel Nanomaterials Institute}}
+  schools: {eng: {name: College of Engineering}}
   name: Drexel University
   state: PA
-  zip: '19104'
+  zip: 19104
 ucdavis:
   aka:
     - UC Davis
