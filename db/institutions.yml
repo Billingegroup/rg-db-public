@@ -328,8 +328,7 @@ vanderbiltu:
   aka: [Vanderbilt, vanderbilt, VanderbiltU]
   city: Nashville
   country: USA
-  departments: {physics: {name: Department of Physics and Astronomy}, chemistry: {name: Department of Chemistry}}
-  schools: {vinse: {name: Vanderbilt Institute of Nanoscale Science and Engineering}}
+  departments: {physics: {name: Department of Physics and Astronomy}, chemistry: {name: Department of Chemistry}, matsci: {name: Vanderbilt Institute of Nanoscale Science and Engineering, aka: [vinse, VINSE]}}
   name: Vanderbilt University
   state: Tennessee
   street: 2201 West End Ave
