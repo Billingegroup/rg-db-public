@@ -325,14 +325,15 @@ utoronto:
   street: 27 King's College Cir
   zip: M5S 3H7
 vanderbiltu:
-  aka:
-    - Vanderbilt
-    - vanderbilt
+  aka: [Vanderbilt, vanderbilt, VanderbiltU]
   city: Nashville
   country: USA
+  departments: {physics: {name: Department of Physics and Astronomy}, chemistry: {name: Department of Chemistry}}
+  schools: {vinse: {name: Vanderbilt Institute of Nanoscale Science and Engineering}}
   name: Vanderbilt University
-  state: TN
-  zip: '37240'
+  state: Tennessee
+  street: 2201 West End Ave
+  zip: 37235
 uwmilwaukee:
   aka:
     - UW Milwaukee
