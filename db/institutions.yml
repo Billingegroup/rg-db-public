@@ -434,12 +434,13 @@ astrazeneca:
   aka:
     - Astra Zeneca
     - AZ
-  city: Stevenage
+  city: London
   country: UK
-  departments: {}
+  departments: {na: {name: ""}}
   schools: {}
   name: AstraZeneca
-  state: London
+  note: "I don't know the departments so leave it blank"
+  state: ""
   street: 15 Stanhope Gate
   zip: W1K 1LN
 caltech:
