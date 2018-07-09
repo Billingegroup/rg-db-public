@@ -486,8 +486,8 @@ ubelgrade:
   name: University of Belgrade
   street: Studentski trg 1
   zip: 11000
-aau:
-  aka: [Addis Ababa University, አዲስ አበባ ዩኒቨርሲቲ, AAU]
+addisababau:
+  aka: [University College of Addis Ababa, Haile Selassie I University, አዲስ አበባ ዩኒቨርሲቲ]
   city: Addis Ababa
   country: Ethiopia
   departments: {physics: {name: Department of Physics}, chemistry: {name: Department of Chemistry}}
