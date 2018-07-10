@@ -28,6 +28,7 @@ install:
 
 script:
   - set -e
+  - regolith validate
   - git clone https://github.com/billingegroup/website.git;
     cd website;
     regolith build html;
