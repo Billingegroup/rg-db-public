@@ -478,6 +478,15 @@ utsinghua:
   state: Haidian
   street: 30 Shuangqing Rd
   zip: 100084
+pekingu:
+  aka: [Peking University, PKU]
+  city: Beijing
+  country: China
+  departments: {chemistry: {name: Department of Chemistry}, physics: {name: Department of Physics}}
+  name: Peking University
+  state: ''
+  street: 5 Yiheyuan Road
+  zip: 100871
 ubelgrade:
   aka: [University of Belgrade, Универзитет у Београду, Univerzitet u Beogradu]
   city: Belgrade
