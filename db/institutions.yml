@@ -314,8 +314,8 @@ natautoumexico:
   name: National Autonomous University of Mexico
   schools: {sciences: {name: Faculty of Sciences, aka: [Facultad de Ciencias]}}
   state: ''
-  street: República de Brasil 33
-  zip: 06000
+  street: Av Universidad 3000, Cd. Universitaria, Coyoacán
+  zip: 04510
 utoronto:
   aka: [UofT, uoft]
   city: Toronto
