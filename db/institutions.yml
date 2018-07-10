@@ -325,14 +325,14 @@ utoronto:
   street: 27 King's College Cir
   zip: M5S 3H7
 vanderbiltu:
-  aka:
-    - Vanderbilt
-    - vanderbilt
+  aka: [Vanderbilt, vanderbilt, VanderbiltU]
   city: Nashville
   country: USA
+  departments: {physics: {name: Department of Physics and Astronomy}, chemistry: {name: Department of Chemistry}, matsci: {name: Vanderbilt Institute of Nanoscale Science and Engineering, aka: [vinse, VINSE]}}
   name: Vanderbilt University
-  state: TN
-  zip: '37240'
+  state: Tennessee
+  street: 2201 West End Ave
+  zip: 37235
 uwmilwaukee:
   aka:
     - UW Milwaukee
@@ -342,14 +342,15 @@ uwmilwaukee:
   state: WI
   zip: '53211'
 asu:
-  aka:
-    - Arizona State
-    - arizona state
+  aka: [Arizona State University, arizona state university, ASU]
   city: Tempe
   country: USA
-  name: Arizona State University
-  state: AZ
-  zip: '85287'
+  departments: {physics: {name: Department of Physics}}
+  schools: {sms: {name: School of Molecular Sciences}, semte: {name: School for Engineering of Matter, Transport and Energy}}
+  name: Arizona State University 
+  state: Arizona 
+  street: '' 
+  zip: 85287
 ohiou:
   aka:
     - Ohio
@@ -405,14 +406,14 @@ rutgers:
   state: NJ
   zip: 08901-1281
 drexelu:
-  aka:
-    - Drexel
-    - drexel
+  aka: [drexel university, Drexel University, drexel, Drexel]
   city: Philadelphia
   country: USA
+  departments: {mse: {name: Department of Materials Science and Engineering}, nano: {name: A.J. Drexel Nanomaterials Institute}}
+  schools: {eng: {name: College of Engineering}}
   name: Drexel University
   state: PA
-  zip: '19104'
+  zip: 19104
 ucdavis:
   aka:
     - UC Davis
@@ -486,3 +487,34 @@ pekingu:
   state: ''
   street: 5 Yiheyuan Road
   zip: 100871
+ubelgrade:
+  aka: [University of Belgrade, Универзитет у Београду, Univerzitet u Beogradu]
+  city: Belgrade
+  country: Serbia
+  departments: {physics: {name: Institute of Physics, aka: [IPB, Institue of Physics Belgrade]}}
+  name: University of Belgrade
+  street: Studentski trg 1
+  zip: 11000
+addisababau:
+  aka: [University College of Addis Ababa, Haile Selassie I University, አዲስ አበባ ዩኒቨርሲቲ]
+  city: Addis Ababa
+  country: Ethiopia
+  departments: {physics: {name: Department of Physics}, chemistry: {name: Department of Chemistry}}
+  name: Addis Ababa University
+  schools: {cns: {name: College of Natural Science}}
+  state: ''
+  zip: ''
+ufrankfurt:
+  aka: [University of Frankfurt, Frankfurt University, Goethe-Universität, Universität Frankfurt am Main]
+  city: Frankfurt
+  country: Germany
+  departments: {appphy: {name: Institute of Applied Physics}, biophy: {name: Institute of Biophysics},
+        phyedu: {name: Institute of Physics Education}, nucphy: {name: Institute of Nuclear Physics},
+        phy:{name: Institute of Physics} theophy: {name: Institute of Theoretical Physics}, inochem: 
+        {name: Institute of Inorganic and Analytical Chemistry}, orgchem: {name: Institute of Organic 
+        Chemistry and Chemical Biology}, phychem: {name: Institute of Physical and Theoretical Chemistry},
+        didchem: {name: Institute of Didactics of Chemistry}}
+  schools: {physics:{name: Department of Physics}, chemistry:{name: Department of Chemistry}}
+  name: Goethe University Frankfurt
+  state: ''                     
+  zip: 60323
