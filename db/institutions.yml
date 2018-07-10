@@ -305,15 +305,17 @@ qmul:
   state: ''
   zip: E1 4NS
 natautoumexico:
-  aka: [Universidad Nacional Autónoma de México, UNAM, unam, Autonomous National University of Mexico]
+  aka: [Universidad Nacional Autónoma de México, UNAM, unam, Autonomous National University
+        of Mexico]
   city: Mexico City
   country: Mexico
-  schools: {sciences: {name: Faculty of Sciences, aka: [Facultad de Ciencias]}}
-  departments: {physics: {name: Department of Physics, aka: [Departamiento de física, Departamiento de fisica]}}
+  departments: {physics: {name: Department of Physics, aka: [Departamiento de física,
+        Departamiento de fisica]}}
   name: National Autonomous University of Mexico
-  street: República de Brasil 33
+  schools: {sciences: {name: Faculty of Sciences, aka: [Facultad de Ciencias]}}
   state: ''
-  zip: 06000
+  street: Av Universidad 3000, Cd. Universitaria, Coyoacán
+  zip: 04510
 utoronto:
   aka: [UofT, uoft]
   city: Toronto
@@ -369,20 +371,13 @@ uiuc:
   name: University of Illinois at Urbana-Champaign
   state: IL
   zip: 61820-5711
-northwesternu:
-  country: USA
-  aka:
-  - Northwestern
-  - northwestern
-  city: Evanston
-  name: Northwestern University
-  state: IL
-  zip: '60208'
 ghentu:
-  aka: [University of Ghent, Universiteit Gent, UGent, State University of Ghent, Rijksuniversiteit Gent, RUG]
+  aka: [University of Ghent, Universiteit Gent, UGent, State University of Ghent,
+    Rijksuniversiteit Gent, RUG]
   city: Ghent
   country: Belgium
-  departments: {chemistry: {name: Department of Chemistry}, matsci: {name: Sol-gel Centre for Research on Inorganic Powders and Thin films Synthesis (SCRiPTS)}}
+  departments: {chemistry: {name: Department of Chemistry}, matsci: {name: Sol-gel
+        Centre for Research on Inorganic Powders and Thin films Synthesis (SCRiPTS)}}
   name: Ghent University
   state: East Flanders
   street: St. Pietersnieuwstraat 33
@@ -396,13 +391,13 @@ lehighu:
   name: Lehigh University
   state: PA
   zip: '18015'
-rutgers:
+rutgersu:
   aka:
     - Rutgers
     - rutgers
   city: New Brunswick
   country: USA
-  name: Rutgers, The State University of New Jersey
+  name: Rutgers University
   state: NJ
   zip: 08901-1281
 drexelu:
@@ -422,14 +417,32 @@ ucdavis:
   name: University of California - Davis
   state: CA
   zip: 95616-8678
-ubayreuth:
+gsk:
   aka:
-    - UC Davis
-  city: Davis
-  country: USA
-  name: University of California - Davis
-  state: CA
-  zip: 95616-8678
+    - Glaxo Smith Kline
+    - GSK
+  city: Stevenage
+  country: UK
+  departments: {crystallogr: {name: Crystallography}}
+  schools: {platsci: {name: Platform Technology & Science}, physprops: {name:
+            Physical Properties}}
+  name: GlaxoSmithKline
+  state: Hertfordshire
+  street: Gunnels Wood Road
+  zip: SG1 2NY
+astrazeneca:
+  aka:
+    - Astra Zeneca
+    - AZ
+  city: London
+  country: UK
+  departments: {na: {name: ""}}
+  schools: {}
+  name: AstraZeneca
+  note: "I don't know the departments so leave it blank"
+  state: ""
+  street: 15 Stanhope Gate
+  zip: W1K 1LN
 caltech:
   aka:
     - California Institute of Technology
@@ -444,7 +457,9 @@ cornellu:
   aka: [Cornell, cornell, Cornell University, cornell university]
   city: Ithaca
   country: USA
-  departments: {physics: {name: Department of Physics}, chemistry: {name: Department of Chemistry and Chemical Biology}, matsci: {name: Department of Materials Science and Engineering}}
+  departments: {physics: {name: Department of Physics}, chemistry: {name: Department
+        of Chemistry and Chemical Biology}, matsci: {name: Department of Materials
+        Science and Engineering}}
   name: Cornell University
   state: New York
   street: ''
@@ -461,10 +476,12 @@ umontreal:
   street: 2900, boul. Édouard-Montpetit
   zip: H3T 1J4
 uduisburgessen:
-  aka: [The University of Duisburg-Essen, Die Universität Duisburg-Essen, Uni DuE, UDE]
+  aka: [The University of Duisburg-Essen, Die Universität Duisburg-Essen, Uni DuE,
+    UDE]
   city: Essen
   country: Germany
-  departments: {chemistry: {name: Institute of Inorganic Chemistry}, matsci: {name: Center for Nanointegration Duisburg-Essen (CENIDE)}}
+  departments: {chemistry: {name: Institute of Inorganic Chemistry}, matsci: {name: Center
+        for Nanointegration Duisburg-Essen (CENIDE)}}
   name: University of Duisburg-Essen
   state: North Rhine-Westphalia
   street: Universitaetsstrasse 7
@@ -473,7 +490,8 @@ utsinghua:
   aka: [Tsinghua, THU]
   city: Beijing
   country: China
-  departments: {chemistry: {name: Department of Chemistry}, matsci: {name: Department of Materials Science and Engineering}, physics: {name: Department of Physics}}
+  departments: {chemistry: {name: Department of Chemistry}, matsci: {name: Department
+        of Materials Science and Engineering}, physics: {name: Department of Physics}}
   name: Tsinghua University
   state: Haidian
   street: 30 Shuangqing Rd
