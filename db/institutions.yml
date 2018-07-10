@@ -513,5 +513,5 @@ bayreuth:
   aka: [Bayreuth, bayreuth]
   city: Bayreuth
   country: Germany
-  departments: {chemistry: Biology, Chemistry & Earth Sciences}
-  name: Universitat Rayreuth
+  departments: {chemistry: {name: Biology, Chemistry & Earth Sciences, aka: [chem]}}
+  name: Universität Bayreuth
