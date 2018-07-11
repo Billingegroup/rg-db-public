@@ -530,3 +530,13 @@ bayreuth:
   country: Germany
   departments: {chemistry: {name: Biology, Chemistry & Earth Sciences, aka: [chem]}}
   name: Universität Bayreuth
+
+nist:
+  aka: [NIST, ]
+  city: Gaithersburg
+  country: USA
+  departments: {materials: Material Measurement Laboratory}
+  name: National Institute of Standards and Technology
+  state: MD
+  street: 100 Bureau Drive
+  zip: 20899
