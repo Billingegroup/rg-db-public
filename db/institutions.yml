@@ -533,3 +533,12 @@ bayreuth:
   country: Germany
   departments: {chemistry: {name: Biology, Chemistry & Earth Sciences, aka: [chem]}}
   name: Universität Bayreuth
+pekingu:
+  aka: [Peking University, PKU]
+  city: Beijing
+  country: China
+  departments: {chemistry: {name: School of Chemistry}, physics: {name: School of Physics}}
+  name: Peking University
+  state: ''
+  street: 5 Yiheyuan Road
+  zip: 100871
