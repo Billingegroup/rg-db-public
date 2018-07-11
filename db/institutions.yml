@@ -55,14 +55,6 @@ mpi:
   state: ''
   street: ''
   zip: ''
-gsk:
-  aka: []
-  city: fixme
-  country: fixme
-  departments: {cryst: {name: Crystallography Department}}
-  name: GlaxoSmithKline
-  state: fixme
-  zip: fixme
 uhouston:
   aka: []
   city: Houston
@@ -517,13 +509,18 @@ ufrankfurt:
   aka: [University of Frankfurt, Frankfurt University, Goethe-Universität, Universität Frankfurt am Main]
   city: Frankfurt
   country: Germany
-  departments: {appphy: {name: Institute of Applied Physics}, biophy: {name: Institute of Biophysics},
-        phyedu: {name: Institute of Physics Education}, nucphy: {name: Institute of Nuclear Physics},
-        phy:{name: Institute of Physics} theophy: {name: Institute of Theoretical Physics}, inochem:
-        {name: Institute of Inorganic and Analytical Chemistry}, orgchem: {name: Institute of Organic
-        Chemistry and Chemical Biology}, phychem: {name: Institute of Physical and Theoretical Chemistry},
-        didchem: {name: Institute of Didactics of Chemistry}}
-  schools: {physics:{name: Department of Physics}, chemistry:{name: Department of Chemistry}}
+  departments:
+    appphy: {name: Institute of Applied Physics}
+    biophy: {name: Institute of Biophysics}
+    phyedu: {name: Institute of Physics Education}
+    nucphy: {name: Institute of Nuclear Physics}
+    phy: {name: Institute of Physics}
+    theophy: {name: Institute of Theoretical Physics}
+    inochem: {name: Institute of Inorganic and Analytical Chemistry}
+    orgchem: {name: Institute of Organic Chemistry and Chemical Biology}
+    phychem: {name: Institute of Physical and Theoretical Chemistry}
+    didchem: {name: Institute of Didactics of Chemistry}
+  schools: {physics: {name: Department of Physics}, chemistry: {name: Department of Chemistry}}
   name: Goethe University Frankfurt
   state: ''
   zip: 60323
