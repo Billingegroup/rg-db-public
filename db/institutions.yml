@@ -363,7 +363,7 @@ sunysb:
       name: Department of Earth Science:
   name: Stony Brook University
   state: NY
-  street: ''
+  street: ""
   zip: 11794
 ucopenhagen:
   aka:
