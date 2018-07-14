@@ -132,14 +132,15 @@ umaine:
   state: ME
   zip: fixme
 batesc:
-  aka: Bates College
+  aka: [Bates]
   city: Lewiston
   country: USA
   departments:
-    chemistry: Department of Chemistry
+    chemistry:
+      name: Department of Chemistry
   name: Bates College
   state: Maine
-  web: www.bates.edu
+  street: 2 Andrews Road
   zip: 04240
 barnardu:
   aka: []
@@ -350,19 +351,19 @@ uconn:
   street: 97 North Eagleville Road
   zip: 06269
 sunysb:
-  aka: []
+  aka: [SUNY-SB, SUNYSB, State University of New York Stony Brook]
   city: Stony Brook
   country: USA
   departments:
     physics:
       name: Department of Physics and Astronomy
     chemistry:
-      Department of Chemistry:
+      name: Department of Chemistry:
     earthsci:
-      Department of Earth Science:
+      name: Department of Earth Science:
   name: Stony Brook University
   state: NY
-  street:
+  street: ""
   zip: 11794
 ucopenhagen:
   aka:
@@ -381,8 +382,10 @@ ccny:
   city: New York
   country: USA
   departments:
-    cheme: Department of Chemical Engineering
-    chemistry: Department of Chemisty and Biochemistry
+    cheme:
+      name: Department of Chemical Engineering
+    chemistry:
+      name: Department of Chemisty and Biochemistry
   name: The City College of New York
   schools:
     grove: The Grove School of Engineering
@@ -559,8 +562,7 @@ asu:
     sms:
       name: School of Molecular Sciences
     semte:
-      name: School for Engineering of Matter
-      Transport and Energy:
+      name: School for Engineering of Matter Transport and Energy:
   state: Arizona
   street: ''
   zip: 85287
@@ -675,7 +677,7 @@ astrazeneca:
     na:
       name: ''
   name: AstraZeneca
-  note: I don't know the departments so leave it blank
+  note: [I don't know the departments so leave it blank]
   schools: {}
   state: ''
   street: 15 Stanhope Gate
@@ -854,7 +856,8 @@ nist:
   city: Gaithersburg
   country: USA
   departments:
-    materials: Material Measurement Laboratory
+    materials:
+      name: Material Measurement Laboratory
   name: National Institute of Standards and Technology
   state: MD
   street: 100 Bureau Drive
