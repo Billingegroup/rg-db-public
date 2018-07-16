@@ -221,11 +221,11 @@ sunysb:
   aka: [SUNY-SB, SUNYSB, State University of New York Stony Brook]
   city: Stony Brook
   country: USA
-  departments: {physics: {name: Department of Physics and Astronomy}, chemistry: { name:
-      Department of Chemistry}, earthsci: {name: Department of Earth Science}}
+  departments: {physics: {name: Department of Physics and Astronomy}, chemistry: {
+      name: Department of Chemistry}, earthsci: {name: Department of Earth Science}}
   name: Stony Brook University
   state: NY
-  street: ""
+  street: ''
   zip: 11794
 ucopenhagen:
   aka:
@@ -239,8 +239,8 @@ ccny:
   aka: [City College, CUNY City College]
   city: New York
   country: USA
-  departments: {cheme: {name: Department of Chemical Engineering}, chemistry: {name: Department of
-      Chemisty and Biochemistry}}
+  departments: {cheme: {name: Department of Chemical Engineering}, chemistry: {name: Department
+        of Chemisty and Biochemistry}}
   name: The City College of New York
   schools: {grove: The Grove School of Engineering, aka: [Grove School, Grove]}
   state: NY
@@ -344,8 +344,8 @@ asu:
   country: USA
   departments: {physics: {name: Department of Physics}}
   name: Arizona State University
-  schools: {sms: {name: School of Molecular Sciences}, semte: {name: "School for Engineering
-        of Matter, Transport and Energy"}}
+  schools: {sms: {name: School of Molecular Sciences}, semte: {name: 'School for Engineering
+        of Matter, Transport and Energy'}}
   state: Arizona
   street: ''
   zip: 85287
