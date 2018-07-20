@@ -351,7 +351,7 @@ sbillinge:
       department: matsci
       other:
         - 'Adviser: George Smith'
-        - 'Disseration: '
+        - 'Disseration: Development of a novel ultra-high strength alloy steel for wire and cable'
     - begin_year: 1987
       degree: PhD in Materials Science and Engineering
       end_year: 1992
@@ -410,17 +410,12 @@ sbillinge:
       other:
         - 'Advisor: George Kwei'
   funding: []
-  membership:
-    - begin_year: 2010
-      organization: American Nuclear Society
-      position: Member
+  membership: []
   name: Simon J. L. Billinge
+  orcid_id: "0000-0002-9734-4998"
   position: Professor
   service: []
-  skills:
-    - category: Programming Languages
-      level: expert
-      name: Java
+  skills: []
   teaching: []
 chliu:
   aka:
