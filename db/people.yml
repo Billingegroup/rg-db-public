@@ -419,10 +419,10 @@ sbillinge:
 chliu:
   aka:
     - Timothy Liu
+    - Tim Liu
     - Chia-Hao Liu
     - Liu, Chia-Hao
     - Liu, C-H.
-  avatar: https://avatars0.githubusercontent.com/u/15218640?s=400&v=4
   education:
     - begin_year: 2014
       degree: MS/PhD in Applied Physics
@@ -430,23 +430,15 @@ chliu:
       department: apam
       other:
         - 'Adviser: Simon Billinge'
+      group: bg
   email: cl3077@columbia.edu
   name: Chia-Hao (Timothy) Liu
+  orcid_id: 0000-0002-3216-0354
   position: Graduate Student
   skills:
     - category: Programming Languages
       level: proficient
       name: Python
-    - category: Markup Languages
-      level: intermediate
-      name: LaTeX
-    - category: Specialized Software
-      level: intermediate
-      name: Mathematica
-    - category: Specialized Software
-      level: intermediate
-      name: MATLAB
-  title: Mr.
 jcalamari:
   aka:
     - Calamari, Justin
