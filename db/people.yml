@@ -539,3 +539,32 @@ sbanerjee:
   name: Soham Banerjee
   orcid_id: 0000-0001-9271-493X
   position: Graduate Student
+  orcid_id: 0000-0001-9271-493X
+stao:
+  aka:
+    - Songsheng Tao
+    - Tao, Songsheng
+    - S. Tao
+    - Tao, S.
+  avatar: ''
+  bio: ''
+  education:
+    - begin_year: 2017
+      degree: MS/PhD in Applied Physics
+      institution: Columbia University
+      department: apam
+      group: bg
+      location: New York, NY
+      other:
+        - 'Adviser: Simon Billinge'
+    - begin_year: 2013
+      degree: BS in Physics
+      end_year: 2017
+      institution: Peking University
+      location: Beijing, China
+      other:
+        - 'Minor: []'
+  email: st3107@columbia.edu
+  name: Songsheng Tao
+  position: Graduate Student
+  orcid_id: 0000-0002-7565-3503
