@@ -546,7 +546,7 @@ stao:
     - Tao, Songsheng
     - S. Tao
     - Tao, S.
-  avatar: ''
+  avatar: https://avatars0.githubusercontent.com/u/37090959?s=400&u=a94748131d06d93dfcaa6144e497870755cd2fea&v=4
   bio: ''
   education:
     - begin_year: 2017
@@ -555,15 +555,12 @@ stao:
       department: apam
       group: bg
       location: New York, NY
-      other:
         - 'Adviser: Simon Billinge'
     - begin_year: 2013
       degree: BS in Physics
       end_year: 2017
       institution: Peking University
       location: Beijing, China
-      other:
-        - 'Minor: []'
   email: st3107@columbia.edu
   name: Songsheng Tao
   position: Graduate Student
