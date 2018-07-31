@@ -6,7 +6,6 @@ cwright:
     - C. J. Wright
     - CJ Wright
   avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
-  orcid_id: '0000-0003-2522-7028'
   bio: Christopher grew up in Rockville Centre, New York. He attended Brown University
     where he earned a BS with honors in Chemical Physics. He worked with Prof. Shouheng
     Sun on electrochemical CO2 reduction and the structural dynamics of nanoparticles.
@@ -93,6 +92,7 @@ cwright:
       position: Member
       begin_year: 2016
   name: Christopher J. Wright
+  orcid_id: 0000-0003-2522-7028
   position: Graduate Student, Lead Developer
   service:
     - name: QSTEM Outreach Coordinator and Treasurer/Co-President
@@ -322,8 +322,8 @@ eculbertson:
       organization: American Physical Society
       position: Member
   name: Elizabeth Culbertson
-  position: Graduate Student
   orcid_id: 0000-0003-1939-7872
+  position: Graduate Student
   service: []
   skills: []
   title: ''
@@ -423,7 +423,6 @@ chliu:
     - Chia-Hao Liu
     - Liu, Chia-Hao
     - Liu, C-H.
-  title: Mr.
   education:
     - begin_year: 2014
       degree: MS/PhD in Applied Physics
@@ -440,6 +439,7 @@ chliu:
     - category: Programming Languages
       level: proficient
       name: Python
+  title: Mr.
 jcalamari:
   aka:
     - Calamari, Justin
@@ -537,5 +537,5 @@ sbanerjee:
         - 'Minor: []'
   email: sb3519@columbia.edu
   name: Soham Banerjee
-  position: Graduate Student
   orcid_id: 0000-0001-9271-493X
+  position: Graduate Student
