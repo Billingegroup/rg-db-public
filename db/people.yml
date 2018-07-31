@@ -547,7 +547,7 @@ stao:
     - S. Tao
     - Tao, S.
   avatar: https://avatars0.githubusercontent.com/u/37090959?s=400&u=a94748131d06d93dfcaa6144e497870755cd2fea&v=4
-  bio: ''
+  bio: Songsheng grew up in Beijing, China. He attended Peking University where he earned a B. S. in physics. As a MS/PhD track student in Columbia University, he joined the Billinge Group in fall 2018 and is currently working on developing tools for texture analysis and using pair distribution functions for structure analysis. In his spare time, he enjoys board games and computer games.
   education:
     - begin_year: 2017
       degree: MS/PhD in Applied Physics
@@ -555,6 +555,7 @@ stao:
       department: apam
       group: bg
       location: New York, NY
+      other:
         - 'Adviser: Simon Billinge'
     - begin_year: 2013
       degree: BS in Physics
