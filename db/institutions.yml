@@ -366,7 +366,7 @@ sunysb:
   street: ''
   zip: 11794
 ucopenhagen:
-  aka:
+  aka: []
   city: Copenhagen
   country: Denmark
   departments:
@@ -769,8 +769,8 @@ utsinghua:
 ubelgrade:
   aka:
     - University of Belgrade
-    - Универзитет у Београду
     - Univerzitet u Beogradu
+#        Универзитет у Београду,
   city: Belgrade
   country: Serbia
   departments:
@@ -786,7 +786,7 @@ addisababau:
   aka:
     - University College of Addis Ababa
     - Haile Selassie I University
-    - አዲስ አበባ ዩኒቨርሲቲ
+#        አዲስ አበባ ዩኒቨርሲቲ
   city: Addis Ababa
   country: Ethiopia
   departments:
