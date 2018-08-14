@@ -10,11 +10,18 @@ kentstateu:
   street: 208 Schwartz Center, 800 E. Summit St.
   zip: 44242
 uwisconsin:
-  aka: [Wisco, University of Wisconsin, U Wisconsin, UW, UW-Madison]
+  aka: [
+    Wisco,
+        University of Wisconsin,
+        U Wisconsin,
+        UW,
+        UW-Madison
+  ]
   city: Madison
   country: USA
-  departments: {matsci: {name: Department of Materials Science and Engineering}, pharma: {
-      name: Department of Pharmaceutical Sciences}}
+  departments: {matsci:
+                  {name: Department of Materials Science and Engineering},
+                pharma: {name: Department of Pharmaceutical Sciences}}
   name: University of Wisconsin-Madison
   schools: {pharma: {name: School of Pharmacy}}
   state: WI
@@ -228,7 +235,7 @@ sunysb:
   street: ''
   zip: 11794
 ucopenhagen:
-  aka:
+  aka: []
   city: Copenhagen
   country: Denmark
   departments: {chemistry: {name: Department of Chemistry}}
@@ -494,7 +501,9 @@ utsinghua:
   street: 30 Shuangqing Rd
   zip: 100084
 ubelgrade:
-  aka: [University of Belgrade, Универзитет у Београду, Univerzitet u Beogradu]
+  aka: [University of Belgrade,
+#        Универзитет у Београду,
+        Univerzitet u Beogradu]
   city: Belgrade
   country: Serbia
   departments: {physics: {name: Institute of Physics, aka: [IPB, Institue of Physics
@@ -503,7 +512,9 @@ ubelgrade:
   street: Studentski trg 1
   zip: 11000
 addisababau:
-  aka: [University College of Addis Ababa, Haile Selassie I University, አዲስ አበባ ዩኒቨርሲቲ]
+  aka: [University College of Addis Ababa, Haile Selassie I University,
+#        አዲስ አበባ ዩኒቨርሲቲ
+  ]
   city: Addis Ababa
   country: Ethiopia
   departments: {physics: {name: Department of Physics}, chemistry: {name: Department
