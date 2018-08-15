@@ -1,5 +1,7 @@
 bg:
-  aka: [bg, billinge-group]
+  aka:
+    - bg
+    - billinge-group
   department: apam
   email: <b>sb2896</b> <i>(AT)</i> <b>columbia.edu</b>
   institution: columbiau
@@ -9,7 +11,10 @@ bg:
   projects: ''
   website: www.thebillingegroup.com
 xray:
-  aka: [xray group, x-ray, x-ray group]
+  aka:
+    - xray group
+    - x-ray
+    - x-ray group
   department: cmpms
   email: <b>billinge</b> <i>(AT)</i> <b>bnl.gov</b>
   institution: bnl

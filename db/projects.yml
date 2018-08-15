@@ -1,10 +1,11 @@
 conda-forge:
   description: Conda driven packaging ecosystem
-  name: Conda-Forge
   logo: https://avatars0.githubusercontent.com/u/11897326?s=200&v=4
-  repo: https://github.com/conda-forge
+  name: Conda-Forge
   other:
-    - A community led collection of recipes, build infrastructure and distributions for the conda package manager.
+    - A community led collection of recipes, build infrastructure and distributions
+      for the conda package manager.
+  repo: https://github.com/conda-forge
   team:
     - position: Core Developer, Staged-Recipes Reviewer
       begin_year: 2017
@@ -25,6 +26,7 @@ ReGro:
     - position: Lead Developer
       begin_year: 2017
       name: Anthony Scopatz
+  website: https://github.com/regro
 Regolith:
   description: Research Group Content Managment System
   logo: https://regro.github.io/regolith-docs/_static/regolith-logo.svg
@@ -40,3 +42,4 @@ Regolith:
     - position: Developer
       begin_year: 2017
       name: Simon Billinge
+  website: https://github.com/regro/regolith
