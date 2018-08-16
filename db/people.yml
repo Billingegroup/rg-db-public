@@ -82,6 +82,7 @@ cwright:
       location: Columbia, SC
   files:
     test: _build/_stores/heap/README.md
+    test2: _build/_stores/heap/figure_1.png
   membership:
     - organization: American Chemical Society
       position: Member
