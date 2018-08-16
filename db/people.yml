@@ -80,6 +80,8 @@ cwright:
       other:
         - Electrochemical Reduction of CO2 via Copper Nanoparticles
       location: Columbia, SC
+  files:
+    test: _build/_stores/heap/README.md
   membership:
     - organization: American Chemical Society
       position: Member
