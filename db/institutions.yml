@@ -96,8 +96,89 @@ mpi:
       name: Institute for Solid State Physics
   name: Max Planck Institute
   state: ''
-  street: ''
-  zip: ''
+nist:
+  aka:
+    - NIST
+  city: Gaithersburg
+  country: USA
+  departments:
+    materials:
+      name: Material Measurement Laboratory
+  name: National Institute of Standards and Technology
+  state: MD
+  street: 100 Bureau Drive
+  zip: 20899
+vanderbiltu:
+  aka:
+    - Vanderbilt
+    - vanderbilt
+    - VanderbiltU
+  city: Nashville
+  country: USA
+  departments:
+    matsci:
+      aka:
+        - vinse
+        - VINSE
+      name: Vanderbilt Institute of Nanoscale Science and Engineering
+    physics:
+      name: Department of Physics and Astronomy
+    chemistry:
+      name: Department of Chemistry
+  name: Vanderbilt University
+  state: Tennessee
+  street: 2201 West End Ave
+  zip: 37235
+utsinghua:
+  aka:
+    - Tsinghua
+    - THU
+  city: Beijing
+  country: China
+  departments:
+    matsci:
+      name: Department of Materials Science and Engineering
+    physics:
+      name: Department of Physics
+    chemistry:
+      name: Department of Chemistry
+  name: Tsinghua University
+  state: Haidian
+  street: 30 Shuangqing Rd
+  zip: 100084
+ohiou:
+  aka:
+    - Ohio
+    - ohio
+  city: Athens
+  country: USA
+  name: Ohio University - Main Campus
+  state: OH
+  zip: 45701-2979
+upenn:
+  aka:
+    - Penn
+    - U Penn
+  city: Philadelphia
+  country: USA
+  departments:
+    mse:
+      name: Department of Materials Science and Engineering
+    chemistry:
+      name: Department of Chemistry
+    cs:
+      name: Computer Science Department
+    cheme:
+      name: Department of Chemical Engineering
+  name: University of Pennsylvania
+  schools:
+    seas:
+      aka:
+        - SEAS
+        - Columbia Engineering
+      name: School of Engineering and Applied Science
+  state: PA
+  zip: 19104
 uhouston:
   aka: []
   city: Houston
@@ -108,9 +189,62 @@ uhouston:
   name: University of Houston
   state: TX
   zip: fixme
-bowdoinc:
-  aka: []
-  city: fixme
+ufrankfurt:
+  aka:
+    - University of Frankfurt
+    - Frankfurt University
+    - Goethe-Universität
+    - Universität Frankfurt am Main
+  city: Frankfurt
+  country: Germany
+  departments:
+    phy:
+      name: Institute of Physics
+    theophy:
+      name: Institute of Theoretical Physics
+    biophy:
+      name: Institute of Biophysics
+    phyedu:
+      name: Institute of Physics Education
+    appphy:
+      name: Institute of Applied Physics
+    nucphy:
+      name: Institute of Nuclear Physics
+    inochem:
+      name: Institute of Inorganic and Analytical Chemistry
+    orgchem:
+      name: Institute of Organic Chemistry and Chemical Biology
+    didchem:
+      name: Institute of Didactics of Chemistry
+    phychem:
+      name: Institute of Physical and Theoretical Chemistry
+  name: Goethe University Frankfurt
+  schools:
+    physics:
+      name: Department of Physics
+    chemistry:
+      name: Department of Chemistry
+  state: ''
+  zip: 60323
+uconn:
+  aka:
+    - UConn
+  city: Storrs
+  country: USA
+  departments:
+    instmatsci:
+      name: Institute of Materials Science
+    matsci:
+      name: Department of Materials Science and Engineering
+  name: University of Connecticut
+  state: CT
+  street: 97 North Eagleville Road
+  zip: 06269
+uwashington:
+  aka:
+    - University of Washington
+    - UW
+  city: Seattle
   country: USA
   departments:
     chemistry:
@@ -131,9 +265,75 @@ umaine:
   name: University of Maine
   state: ME
   zip: fixme
-batesc:
-  aka: [Bates]
-  city: Lewiston
+qmul:
+  aka:
+    - QMUL
+    - Queen Mary University of London
+    - Queen Mary College
+    - QMC
+  city: London
+  country: UK
+  departments:
+    cmmaterials:
+      name: Centre for Condensed Matter and Materials Physics
+  name: Queen Mary University of London
+  schools:
+    physastro:
+      name: The School of Physics and Astronomy
+  state: ''
+  zip: E1 4NS
+addisababau:
+  aka:
+    - University College of Addis Ababa
+    - Haile Selassie I University
+  city: Addis Ababa
+  country: Ethiopia
+  departments:
+    physics:
+      name: Department of Physics
+    chemistry:
+      name: Department of Chemistry
+  name: Addis Ababa University
+  schools:
+    cns:
+      name: College of Natural Science
+  state: ''
+  zip: ''
+ubelgrade:
+  aka:
+    - University of Belgrade
+    - Univerzitet u Beogradu
+  city: Belgrade
+  country: Serbia
+  departments:
+    physics:
+      aka:
+        - IPB
+        - Institue of Physics Belgrade
+      name: Institute of Physics
+  name: University of Belgrade
+  street: Studentski trg 1
+  zip: 11000
+pekingu:
+  aka:
+    - Peking University
+    - PKU
+  city: Beijing
+  country: China
+  departments:
+    physics:
+      name: School of Physics
+    chemistry:
+      name: School of Chemistry
+  name: Peking University
+  state: ''
+  street: 5 Yiheyuan Road
+  zip: 100871
+rutgersu:
+  aka:
+    - Rutgers
+    - rutgers
+  city: New Brunswick
   country: USA
   departments:
     chemistry:
@@ -208,7 +408,7 @@ upenn:
         - SEAS
         - Columbia Engineering
   state: PA
-  zip: 19104
+  zip: '18015'
 uhamburg:
   aka: University of Hamburg
   city: Hamburg
@@ -219,7 +419,7 @@ uhamburg:
   name: Universitat de Hamburg
   state:
   zip: fixme
-northwesternu:
+ccny:
   aka:
     - Northwestern
     - northwestern
@@ -477,7 +677,51 @@ qmul:
     physastro:
       name: The School of Physics and Astronomy
   state: ''
-  zip: E1 4NS
+  street: ''
+  zip: ''
+asu:
+  aka:
+    - Arizona State University
+    - arizona state university
+    - ASU
+  city: Tempe
+  country: USA
+  departments:
+    physics:
+      name: Department of Physics
+  name: Arizona State University
+  schools:
+    semte:
+      name: School for Engineering of Matter, Transport and Energy
+    sms:
+      name: School of Molecular Sciences
+  state: Arizona
+  street: ''
+  zip: 85287
+batesc:
+  aka:
+    - Bates
+  city: Lewiston
+  country: USA
+  departments:
+    chemistry:
+      name: Department of Chemistry
+  name: Bates College
+  state: Maine
+  street: 2 Andrews Road
+  zip: 04240
+barnardu:
+  aka: []
+  city: New York
+  country: USA
+  departments:
+    physics:
+      name: Department of Physics
+    chemistry:
+      name: Department of Chemistry
+  name: Barnard College
+  state: NY
+  zip: fixme
 natautoumexico:
   aka:
     - Universidad Nacional Autónoma de México
@@ -541,10 +785,35 @@ vanderbiltu:
   zip: 37235
 uwmilwaukee:
   aka:
-    - UW Milwaukee
-  city: Milwaukee
+    - University of Pune
+    - University of Poona
+    - Pune University
+  city: Pune
+  country: India
+  departments:
+    physics:
+      name: Department of Physics
+  name: Savitribai Phule Pune University
+  state: Maharashtra
+  zip: 411007
+uwisconsin:
+  aka:
+    - Wisco
+    - University of Wisconsin
+    - U Wisconsin
+    - UW
+    - UW-Madison
+  city: Madison
   country: USA
-  name: University of Wisconsin - Milwaukee
+  departments:
+    pharma:
+      name: Department of Pharmaceutical Sciences
+    matsci:
+      name: Department of Materials Science and Engineering
+  name: University of Wisconsin-Madison
+  schools:
+    pharma:
+      name: School of Pharmacy
   state: WI
   zip: '53211'
 asu:
@@ -651,9 +920,9 @@ ucdavis:
   zip: 95616-8678
 gsk:
   aka:
-    - Glaxo Smith Kline
-    - GSK
-  city: Stevenage
+    - Oxford
+    - University of Oxford
+  city: Oxford
   country: UK
   departments:
     crystallogr:
@@ -677,21 +946,12 @@ astrazeneca:
     na:
       name: ''
   name: AstraZeneca
-  note: [I don't know the departments so leave it blank]
+  note:
+    - I don't know the departments so leave it blank
   schools: {}
   state: ''
   street: 15 Stanhope Gate
   zip: W1K 1LN
-caltech:
-  aka:
-    - California Institute of Technology
-    - california institute of technology
-    - CalTech
-  city: Pasadena
-  country: USA
-  name: California Institute of Technology
-  state: CA
-  zip: '91125'
 cornellu:
   aka:
     - Cornell
