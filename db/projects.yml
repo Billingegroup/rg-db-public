@@ -1,16 +1,12 @@
-Bright:
-  description: Nuclear Fuel Cycle Component Collection
-  logo: http://bright-dev.github.io/_static/BrightIconSmall.png
-  other:
-    - Low-level essential physics models for fuel cycle components in C++
-    - High-level fuel cycle interface in Python
-  repo: http://github.com/bright-dev/bright
+xsgen:
+  description: Cross section generator for Bright multi-group reactors.
+  repo: https://github.com/bright-dev/xsgen
   team:
-    - begin_month: September
-      begin_year: 2006
+    - position: Lead Developer
+      begin_year: 2008
+      begin_month: May
       name: Anthony Scopatz
-      position: Lead Developer
-  website: http://bright-dev.github.io/
+  website: http://bright-dev.github.io/xsgen/
 Cyclus:
   description: Agent-Based Nuclear Fuel Cycle Simulator
   logo: http://fuelcycle.org/_static/big_c.png
@@ -19,26 +15,35 @@ Cyclus:
     - Low barrier to entry, rapid payback to adoption
   repo: https://github.com/cyclus/cyclus/
   team:
-    - begin_month: June
-      begin_year: 2013
+    - end_year: 2015
+      begin_month: June
+      name: Anthony Scopatz
       end_month: July
-      end_year: 2015
-      name: Anthony Scopatz
       position: Project Lead
+      begin_year: 2013
   website: http://fuelcycle.org/
-Enthought Tool Suite:
-  description: Tools for building scientific applications
+yt:
+  description: Volumetric Data Analysis
+  logo: https://pbs.twimg.com/profile_images/1389533785/yt_logo_cutout_400x400.png
   other:
-    - Traits, Chaco, Mayavi
-    - CodeTools, BlockCanvas, GraphCanvas
+    - Data access and manipulation
+    - Visualization though Slices, projections, oblique slices.
+    - Parallel execution
+  repo: https://bitbucket.org/yt_analysis/yt
   team:
-    - begin_month: May
-      begin_year: 2010
-      end_month: October
-      end_year: 2011
+    - position: Developer
+      begin_year: 2012
+      begin_month: August
       name: Anthony Scopatz
-      position: Developer
-  website: http://code.enthought.com/
+  website: http://yt-project.org/
+SymPy:
+  description: SymPy is a Python library for symbolic mathematics.
+  repo: https://github.com/sympy/sympy
+  team:
+    - position: Lead Developer
+      begin_year: '2009'
+      name: Aaron Meurer
+  website: http://www.sympy.org/
 FLASH:
   description: Modular, parallel multiphysics simulation code for terrestrial and
     astrophysical plasmas.
@@ -46,12 +51,12 @@ FLASH:
     - 'Features include: Uniform Grid, AMR, Ideal Gas EOS, Multimaterial EOS, Laser
       Ray Trace.'
   team:
-    - begin_month: Nov
-      begin_year: 2011
-      end_month: May
-      end_year: 2013
+    - end_year: 2013
+      begin_month: Nov
       name: Anthony Scopatz
+      end_month: May
       position: HEDP Developer
+      begin_year: 2011
   website: http://flash.uchicago.edu/site/
 PyNE:
   description: The Nuclear Engineering Toolkit
@@ -63,51 +68,11 @@ PyNE:
       etc.)
   repo: https://github.com/pyne/pyne/
   team:
-    - begin_month: April
+    - position: Lead Developer
       begin_year: 2011
+      begin_month: April
       name: Anthony Scopatz
-      position: Lead Developer
   website: http://pyne.io/
-PyTables:
-  description: Pythonic Wrapper for HDF5
-  logo: https://avatars3.githubusercontent.com/u/828302?v=3&s=200
-  other:
-    - Package for managing hierarchical datasets
-    - Efficiently and easily copes with extremely large amounts of data
-  repo: https://github.com/PyTables/PyTables/
-  team:
-    - begin_month: July
-      begin_year: 2011
-      name: Anthony Scopatz
-      position: Lead Developer
-  website: http://pytables.github.com/
-SymPy:
-  description: SymPy is a Python library for symbolic mathematics.
-  repo: https://github.com/sympy/sympy
-  team:
-    - begin_year: '2009'
-      name: Aaron Meurer
-      position: Lead Developer
-  website: http://www.sympy.org/
-conda:
-  description: Conda is an open source cross-platform package management system.
-  repo: https://github.com/conda/conda
-  team:
-    - begin_month: May
-      begin_year: '2013'
-      end_month: September
-      end_year: '2015'
-      name: Aaron Meurer
-      position: Developer
-  website: https://conda.io/
-doctr:
-  description: A tool for automatically deploying docs from Travis CI to GitHub pages.
-  repo: https://github.com/drdoctr/doctr
-  team:
-    - begin_year: '2016'
-      name: Aaron Meurer
-      position: Developer
-  website: https://drdoctr.github.io/doctr/
 xonsh:
   description: A Python-ish, BASHwards-compatible shell language and command prompt.
   logo: http://xonsh.org/_static/ascii_conch_part_color.png
@@ -116,31 +81,66 @@ xonsh:
     - Meant for the daily use of experts and novices alike.
   repo: https://github.com/scopatz/xonsh
   team:
-    - begin_month: February
+    - position: Lead Developer
       begin_year: 2015
+      begin_month: February
       name: Anthony Scopatz
-      position: Lead Developer
   website: http://xonsh.org/
-xsgen:
-  description: Cross section generator for Bright multi-group reactors.
-  repo: https://github.com/bright-dev/xsgen
-  team:
-    - begin_month: May
-      begin_year: 2008
-      name: Anthony Scopatz
-      position: Lead Developer
-  website: http://bright-dev.github.io/xsgen/
-yt:
-  description: Volumetric Data Analysis
-  logo: https://pbs.twimg.com/profile_images/1389533785/yt_logo_cutout_400x400.png
+PyTables:
+  description: Pythonic Wrapper for HDF5
+  logo: https://avatars3.githubusercontent.com/u/828302?v=3&s=200
   other:
-    - Data access and manipulation
-    - Visualization though Slices, projections, oblique slices.
-    - Parallel execution
-  repo: https://bitbucket.org/yt_analysis/yt
+    - Package for managing hierarchical datasets
+    - Efficiently and easily copes with extremely large amounts of data
+  repo: https://github.com/PyTables/PyTables/
   team:
-    - begin_month: August
-      begin_year: 2012
+    - position: Lead Developer
+      begin_year: 2011
+      begin_month: July
       name: Anthony Scopatz
+  website: http://pytables.github.com/
+Enthought Tool Suite:
+  description: Tools for building scientific applications
+  other:
+    - Traits, Chaco, Mayavi
+    - CodeTools, BlockCanvas, GraphCanvas
+  team:
+    - end_year: 2011
+      begin_month: May
+      name: Anthony Scopatz
+      end_month: October
       position: Developer
-  website: http://yt-project.org/
+      begin_year: 2010
+  website: http://code.enthought.com/
+conda:
+  description: Conda is an open source cross-platform package management system.
+  repo: https://github.com/conda/conda
+  team:
+    - end_year: '2015'
+      begin_month: May
+      name: Aaron Meurer
+      end_month: September
+      position: Developer
+      begin_year: '2013'
+  website: https://conda.io/
+Bright:
+  description: Nuclear Fuel Cycle Component Collection
+  logo: http://bright-dev.github.io/_static/BrightIconSmall.png
+  other:
+    - Low-level essential physics models for fuel cycle components in C++
+    - High-level fuel cycle interface in Python
+  repo: http://github.com/bright-dev/bright
+  team:
+    - position: Lead Developer
+      begin_year: 2006
+      begin_month: September
+      name: Anthony Scopatz
+  website: http://bright-dev.github.io/
+doctr:
+  description: A tool for automatically deploying docs from Travis CI to GitHub pages.
+  repo: https://github.com/drdoctr/doctr
+  team:
+    - position: Developer
+      begin_year: '2016'
+      name: Aaron Meurer
+  website: https://drdoctr.github.io/doctr/
