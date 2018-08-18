@@ -28,63 +28,63 @@ eculbertson:
     of superatom systems and other novel materials. In her spare time she enjoys making
     soup and singing barbershop music.
   education:
-    - begin_year: 2016
-      gpa: 3.83
-      institution: columbiau
-      degree: MS/PhD in Applied Physics
-      department: apam
-      group: bg
+    - gpa: 3.83
       other:
         - 'Adviser: Simon Billinge'
-    - location: Stanford, CA
-      begin_year: 2012
-      gpa: 3.85
-      institution: Stanford University
-      degree: BS in Engineering Physics
+      group: bg
+      begin_year: 2016
+      degree: MS/PhD in Applied Physics
+      department: apam
+      institution: columbiau
+    - gpa: 3.85
       other:
         - 'Concentration: Renewable Energy'
         - 'Minor: Computer Science'
+      begin_year: 2012
+      location: Stanford, CA
+      degree: BS in Engineering Physics
       end_year: 2016
+      institution: Stanford University
   email: elizabeth.a.culbertson@gmail.com
   employment:
-    - location: Stanford, CA
-      begin_year: 2015
-      position: Teaching Assistant
+    - position: Teaching Assistant
+      organization: Stanford University Department of Physics
       other:
         - 'Course: Physics 45: Light and Heat'
-      organization: Stanford University Department of Physics
-      end_year: 2015
-    - location: Stanford, CA
       begin_year: 2015
-      position: Residential and Teaching Assistant
+      location: Stanford, CA
+      end_year: 2015
+    - position: Residential and Teaching Assistant
+      organization: Stanford Pre-Collegiate Studies Summer Institutues
       other:
         - 'Courses: Theory of Relativity, Quantum Mechanics'
-      organization: Stanford Pre-Collegiate Studies Summer Institutues
+      begin_year: 2015
+      location: Stanford, CA
       end_year: 2015
-    - location: Stanford, CA
-      begin_year: 2013
-      position: Teaching Assistant
+    - position: Teaching Assistant
+      organization: Stanford Online High School
       other:
         - 'Course: Inquiry-Based Physics'
-      organization: Stanford Online High School
-      end_year: 2015
-    - location: Blacksburg, VA
-      begin_year: 2014
-      position: Undergraduate Research Assistant
-      other: []
-      organization: Virginia Tech Department of Mechanical Engineering
-      end_year: 2014
-    - location: Stanford, CA
       begin_year: 2013
-      position: Residential and Teaching Assistant
+      location: Stanford, CA
+      end_year: 2015
+    - position: Undergraduate Research Assistant
+      organization: Virginia Tech Department of Mechanical Engineering
+      other: []
+      begin_year: 2014
+      location: Blacksburg, VA
+      end_year: 2014
+    - position: Residential and Teaching Assistant
+      organization: Stanford Pre-Collegiate Studies Summer Institutues
       other:
         - 'Courses: Theory of Relativity, Quantum Mechanics'
-      organization: Stanford Pre-Collegiate Studies Summer Institutues
+      begin_year: 2013
+      location: Stanford, CA
       end_year: 2013
   membership:
-    - organization: American Physical Society
+    - position: Member
       begin_year: 2016
-      position: Member
+      organization: American Physical Society
   name: Elizabeth Culbertson
   orcid_id: 0000-0003-1939-7872
   position: Graduate Student
@@ -99,25 +99,124 @@ chliu:
     - Liu, Chia-Hao
     - Liu, C-H.
   education:
-    - begin_year: 2014
-      other:
+    - other:
         - 'Adviser: Simon Billinge'
+      begin_year: 2014
       degree: MS/PhD in Applied Physics
+      group: bg
       department: apam
       institution: Columbia University
-      group: bg
   email: cl3077@columbia.edu
   name: Chia-Hao (Timothy) Liu
   orcid_id: 0000-0002-3216-0354
   position: Graduate Student
   skills:
-    - level: proficient
+    - category: Programming Languages
+      level: proficient
       name: Python
-      category: Programming Languages
   title: Mr.
-Shuyue:
-  name: Shuyue Xue
-  position: Researcher
+sbanerjee:
+  aka:
+    - sojam
+  avatar: https://avatars0.githubusercontent.com/u/7819851?s=400&v=4
+  bio: ''
+  education:
+    - other:
+        - 'Adviser: Simon Billinge'
+      begin_year: 2013
+      location: New York, NY
+      group: bg
+      department: apam
+      degree: MS/PhD in Applied Physics
+      institution: Columbia University
+    - begin_year: 2008
+      degree: BS in Physics
+      location: Winston-Salem, NC
+      end_year: 2012
+      institution: Wake Forest University
+  email: sb3519@columbia.edu
+  name: Soham Banerjee
+  orcid_id: 0000-0001-9271-493X
+  position: Graduate Student
+  skills:
+    - category: Programming Languages
+      level: proficient
+      name: Python
+  title: Mr.
+jcalamari:
+  aka:
+    - Calamari, Justin
+    - J Calamari
+    - Justin Samuel Calamari
+    - Justin S Calamari
+    - Calamari
+  avatar: ''
+  bio: Justin grew up in Port Washington, New York. He is currently a senior at Columbia
+    University, pursuing a BS in Applied Physics with a minor in Computer Science.
+    With the Billinge Group, Justin is developing software for group data management.
+  education:
+    - gpa: 4.11
+      other:
+        - 'Minor: Computer Science'
+      group: bg
+      begin_year: 2014
+      degree: BS in Applied Physics
+      department: apam
+      institution: columbiau
+      end_year: 2018
+  email: jsc2223@columbia.edu
+  employment:
+    - position: Undergraduate Research Assistant
+      begin_year: 2015
+      location: New York, NY
+      organization: The Billinge Group, Columbia University
+    - position: Undergraduate Research Fellow
+      begin_year: 2017
+      location: Gaithersburg, MD
+      organization: National Institute of Standards and Technology
+      end_year: 2017
+  name: Justin Calamari
+  position: Undergraduate Student
+  skills:
+    - category: Programming Languages
+      level: expert
+      name: Python
+    - category: Programming Languages
+      level: expert
+      name: Java
+    - category: Programming Languages
+      level: expert
+      name: C
+    - category: Programming Languages
+      level: intermediate
+      name: C++
+    - category: Programming Languages
+      level: intermediate
+      name: BASH
+    - category: Programming Languages
+      level: beginner
+      name: xonsh
+    - category: Software
+      level: intermediate
+      name: git
+    - category: Markup Languages
+      level: intermediate
+      name: LaTeX
+    - category: Specialized Software
+      level: intermediate
+      name: Linux
+    - category: Specialized Software
+      level: intermediate
+      name: Mathematica
+    - category: Specialized Software
+      level: intermediate
+      name: MATLAB
+    - category: Specialized Software
+      level: intermediate
+      name: MongoDB
+    - category: Specialized Software
+      level: beginner
+      name: SolidWorks
 stao:
   aka:
     - Songsheng Tao
@@ -131,23 +230,109 @@ stao:
     tools for texture analysis and using pair distribution functions for structure
     analysis. In his spare time, he enjoys board games and computer games.
   education:
-    - location: New York, NY
-      begin_year: 2017
-      other:
+    - other:
         - 'Adviser: Simon Billinge'
-      degree: MS/PhD in Applied Physics
-      department: apam
-      institution: Columbia University
+      begin_year: 2017
+      location: New York, NY
       group: bg
-    - degree: BS in Physics
-      begin_year: 2013
-      end_year: 2017
+      department: apam
+      degree: MS/PhD in Applied Physics
+      institution: Columbia University
+    - begin_year: 2013
+      degree: BS in Physics
       location: Beijing, China
+      end_year: 2017
       institution: Peking University
   email: st3107@columbia.edu
   name: Songsheng Tao
   orcid_id: 0000-0002-7565-3503
   position: Graduate Student
+Shuyue:
+  name: Shuyue Xue
+  position: Researcher
+sbillinge:
+  aka:
+    - Simon J. L. Billinge
+    - S. J. L. Billinge
+    - Billinge, Simon J. L.
+    - Simon Billinge
+    - Simon John Laird Billinge
+  avatar: https://github.com/sbillinge.png
+  bio: ''
+  education:
+    - other:
+        - 'Adviser: George Smith'
+        - 'Disseration: Development of a novel ultra-high strength alloy steel for
+          wire and cable'
+      begin_year: 1982
+      degree: BA in Metallurgy and Materials Science
+      department: matsci
+      institution: uoxford
+      end_year: 1986
+    - other:
+        - 'Advisers: Takeshi Egami and Peter Davies'
+        - 'Disseration: Local atomic structure and superconducivity of Nd2-xCexCuO4-y:
+          a pair distribution function study '
+      begin_year: 1987
+      degree: PhD in Materials Science and Engineering
+      department: mse
+      institution: upenn
+      end_year: 1992
+  employment:
+    - position: Professor
+      other:
+        - 'Full title: Professor of Materials Science and of Applied Physics and of
+          Applied Mathematics'
+      group: bg
+      begin_year: 2008
+      department: apam
+      institution: columbiau
+    - position: Physicist
+      begin_year: 2008
+      department: cmpms
+      institution: bnl
+      group: xray
+    - position: Visiting Scientist
+      begin_year: 2012
+      institution: ill
+      end_year: 2012
+    - position: Visiting Scientist
+      begin_year: 2011
+      institution: esrf
+      end_year: 2012
+    - position: Professor
+      begin_year: 2003
+      department: physics
+      institution: msu
+      end_year: 2007
+    - position: Visiting Professor
+      begin_year: 2001
+      institution: uroma
+      end_year: 2002
+    - position: Associate Professor
+      begin_year: 1999
+      department: physics
+      institution: msu
+      end_year: 2003
+    - position: Assistant Professor
+      begin_year: 1994
+      department: physics
+      institution: msu
+      end_year: 1999
+    - position: Director's Post-doctoral Research Fellow
+      department: mst
+      end_year: 1994
+      other:
+        - 'Advisor: George Kwei'
+      institution: lanl
+  funding: []
+  membership: []
+  name: Simon J. L. Billinge
+  orcid_id: 0000-0002-9734-4998
+  position: Professor
+  service: []
+  skills: []
+  teaching: []
 cwright:
   aka:
     - Christopher J. Wright
@@ -167,84 +352,84 @@ cwright:
     In his free time Christopher develops for open source projects, plays woodwind
     instruments, enjoys good scotch and works out by playing squash.
   education:
-    - degree: PhD in Materials Science
+    - begin_year: 2017
+      degree: PhD in Materials Science
       department: apam
-      begin_year: 2017
+      institution: columbiau
       group: bg
-      institution: columbiau
-    - begin_year: 2016
-      institution: columbiau
+    - group: bg
+      begin_year: 2016
       degree: MS in Materials Science
       department: apam
+      institution: columbiau
       end_year: 2017
-      group: bg
-    - location: Columbia, SC
-      begin_year: 2014
-      institution: University of Sourth Carolina
-      degree: MS in Chemical Engineering
-      other:
+    - other:
         - 'Adviser: Xiao-Dong Zhou'
         - 'Thesis: Solving Atomic Structures using Statistical Mechanical Searches
           on X-ray Scattering Derived Potential Energy Surfaces'
         - 'Website: https://github.com/CJ-Wright/Masters_Thesis/raw/master/thesis.pdf'
+      begin_year: 2014
+      location: Columbia, SC
+      degree: MS in Chemical Engineering
       end_year: 2014
-    - location: Providence, RI
-      begin_year: 2010
-      gpa: 3.49
-      institution: Brown University
-      degree: ScB in Chemical Physics with Honors
+      institution: University of Sourth Carolina
+    - gpa: 3.49
       other:
         - 'Adviser: Shouheng Sun'
         - 'Thesis: Solving Atomic Structures using Statistical Mechanical Searches
           on X-ray Scattering Derived Potential Energy Surfaces'
+      begin_year: 2010
+      location: Providence, RI
+      degree: ScB in Chemical Physics with Honors
       end_year: 2014
+      institution: Brown University
   email: cjwright4242@gmail.com
   employment:
-    - location: Upton, NY
-      begin_year: 2015
-      position: Visiting Scholar
+    - position: Visiting Scholar
+      organization: National Synchrotron Light Source-II, Brookhaven National Laboratory
       other:
         - 'pyIID: The Python Infinite Improbability Drive, Monte Carlo Searches of
           X-ray Scattering Derived Structures'
-      organization: National Synchrotron Light Source-II, Brookhaven National Laboratory
+      begin_year: 2015
+      location: Upton, NY
       end_year: 2015
-    - location: Upton, NY
-      begin_year: 2014
-      position: Software Engineer, SURP
+    - position: Software Engineer, SURP
+      organization: National Synchrotron Light Source-II, Brookhaven National Laboratory
       other:
         - 'pyXPD: prototype controls software for the x-ray powder diffraction beamline,
           28-ID'
-      organization: National Synchrotron Light Source-II, Brookhaven National Laboratory
+      begin_year: 2014
+      location: Upton, NY
       end_year: 2014
-    - location: Upton, NY
-      begin_year: 2012
-      position: Science Undergraduate Laboratory Intern
+    - position: Science Undergraduate Laboratory Intern
+      organization: National Synchrotron Light Source-II, Brookhaven National Laboratory
       other:
         - Structural refinement of CdSe Nanoparticles
-      organization: National Synchrotron Light Source-II, Brookhaven National Laboratory
+      begin_year: 2012
+      location: Upton, NY
       end_year: 2012
-    - location: Columbia, SC
-      begin_year: 2011
-      position: Research Experience for Undergraduates Researcher
+    - position: Research Experience for Undergraduates Researcher
+      organization: University of South Carolina
       other:
         - Electrochemical Reduction of CO2 via Copper Nanoparticles
-      organization: University of South Carolina
+      begin_year: 2011
+      location: Columbia, SC
       end_year: 2011
   files:
-    test: _build/_stores/heap/README.md
     test3: figure_1-1.png
+    test: _build/_stores/heap/README.md
     test2: _build/_stores/heap/figure_1.png
   membership:
-    - organization: American Chemical Society
+    - position: Member
       begin_year: 2009
-      position: Member
-    - organization: Electrochemical Society
+      organization: American Chemical Society
+    - position: Member
       begin_year: 2011
+      organization: Electrochemical Society
       end_year: 2016
-      position: Member
-    - organization: American Physical Society
+    - position: Member
       begin_year: 2016
-      position: Member
+      organization: American Physical Society
   name: Christopher J. Wright
   orcid_id: 0000-0003-2522-7028
   position: Graduate Student, Lead Developer
@@ -272,7 +457,9 @@ cwright:
         Carolina'
     - year: 2015
       name: Science Fair Judge at Dutch Fork High School
-    - other:
+    - begin_year: 2012
+      end_year: 2014
+      other:
         - Organized seminars with distinguished scientists, with an emphasis on researchers
           from underrepresented groups
         - Produced annual chemistry demonstrations for the public
@@ -280,8 +467,6 @@ cwright:
           at promoting undergraduate research
         - Organized an panel of chemistry alumni to discuss their careers both inside
           and outside of academia
-      begin_year: 2012
-      end_year: 2014
       name: Brown University Chemistry Department Undergraduate Group Co-Chair
     - year: 2013
       other:
@@ -293,10 +478,10 @@ cwright:
     - year: 2013
       name: 'Master of Ceremonies and Organizer Brown University "Chemistry: Believe
         it or Not" public chemistry demonstration'
-    - other:
-        - Discussed the Brown STEM program, especially the Chemical Physics program
-      begin_year: 2012
+    - begin_year: 2012
       end_year: 2013
+      other:
+        - Discussed the Brown STEM program, especially the Chemical Physics program
       name: ' Chemistry STEM Panelist Brown University A Day on College Hill'
     - year: 2012
       other:
@@ -304,272 +489,87 @@ cwright:
           others
         - 'Youtube video: https://www.youtube.com/watch?v=k8GxX7D2PI0'
       name: Presenter Brown University "Night of Chemistry" public chemistry demonstration
-    - other:
+    - begin_year: 2012
+      end_year: 2014
+      other:
         - Organized a renewable energy station with poster and solar powered cars
           and served as a tour guide of the NSLS and NSLS-II
-      begin_year: 2012
-      end_year: 2014
       name: Renewable Energy Presenter and Facility Tour Guide at the NSLS "Science
         Sunday" laboratory open house at Brookhaven National Laboratory
   skills:
-    - level: expert
+    - category: Programming Languages
+      level: expert
       name: Python
-      category: Programming Languages
-    - level: intermediate
+    - category: Programming Languages
+      level: intermediate
       name: xonsh
-      category: Programming Languages
-    - level: intermediate
+    - category: Programming Languages
+      level: intermediate
       name: Lua
-      category: Programming Languages
-    - level: intermediate
+    - category: Programming Languages
+      level: intermediate
       name: BASH
-      category: Programming Languages
-    - level: intermediate
+    - category: Software
+      level: intermediate
       name: git
-      category: Software
-    - level: expert
+    - category: Markup Languages
+      level: expert
       name: LaTeX
-      category: Markup Languages
-    - level: expert
+    - category: Markup Languages
+      level: expert
       name: markdown
-      category: Markup Languages
-    - level: expert
+    - category: Specialized Software
+      level: expert
       name: Linux
-      category: Specialized Software
-    - level: expert
+    - category: Specialized Software
+      level: expert
       name: OS/2
-      category: Specialized Software
-    - level: expert
+    - category: Specialized Software
+      level: expert
       name: NumPy
-      category: Specialized Software
-    - level: expert
+    - category: Specialized Software
+      level: expert
       name: SciPy
-      category: Specialized Software
-    - level: expert
+    - category: Specialized Software
+      level: expert
       name: MatPlotLib
-      category: Specialized Software
-    - level: intermediate
+    - category: Specialized Software
+      level: intermediate
       name: Mathematica
-      category: Specialized Software
-    - level: intermediate
+    - category: Specialized Software
+      level: intermediate
       name: MATLAB
-      category: Specialized Software
-    - level: intermediate
+    - category: Specialized Software
+      level: intermediate
       name: MongoDB
-      category: Specialized Software
-    - level: expert
+    - category: Specialized Software
+      level: expert
       name: Fit2D
-      category: Specialized Software
-    - level: expert
+    - category: Specialized Software
+      level: expert
       name: pyFAI
-      category: Specialized Software
-    - level: intermediate
+    - category: Specialized Software
+      level: intermediate
       name: SPEC
-      category: Specialized Software
-    - level: intermediate
+    - category: Specialized Software
+      level: intermediate
       name: TinyDB
-      category: Specialized Software
-    - level: Expert
+    - category: Experiments
+      level: Expert
       name: X-ray Powder Diffraction
-      category: Experiments
-    - level: Expert
+    - category: Experiments
+      level: Expert
       name: X-ray Total Scattering
-      category: Experiments
-    - level: Expert
+    - category: Experiments
+      level: Expert
       name: Atomic Pair Distribution Function Analysis
-      category: Experiments
-    - level: Expert
+    - category: Experiments
+      level: Expert
       name: In-situ/In-operando X-ray Scattering
-      category: Experiments
-    - level: intermediate
+    - category: Experiments
+      level: intermediate
       name: Electrochemistry
-      category: Experiments
-    - level: intermediate
+    - category: Experiments
+      level: intermediate
       name: Electron Microscopy
-      category: Experiments
-  title: Mr.
-jcalamari:
-  aka:
-    - Calamari, Justin
-    - J Calamari
-    - Justin Samuel Calamari
-    - Justin S Calamari
-    - Calamari
-  avatar: ''
-  bio: Justin grew up in Port Washington, New York. He is currently a senior at Columbia
-    University, pursuing a BS in Applied Physics with a minor in Computer Science.
-    With the Billinge Group, Justin is developing software for group data management.
-  education:
-    - begin_year: 2014
-      gpa: 4.11
-      institution: columbiau
-      degree: BS in Applied Physics
-      department: apam
-      end_year: 2018
-      group: bg
-      other:
-        - 'Minor: Computer Science'
-  email: jsc2223@columbia.edu
-  employment:
-    - location: New York, NY
-      organization: The Billinge Group, Columbia University
-      begin_year: 2015
-      position: Undergraduate Research Assistant
-    - location: Gaithersburg, MD
-      organization: National Institute of Standards and Technology
-      begin_year: 2017
-      end_year: 2017
-      position: Undergraduate Research Fellow
-  name: Justin Calamari
-  position: Undergraduate Student
-  skills:
-    - level: expert
-      name: Python
-      category: Programming Languages
-    - level: expert
-      name: Java
-      category: Programming Languages
-    - level: expert
-      name: C
-      category: Programming Languages
-    - level: intermediate
-      name: C++
-      category: Programming Languages
-    - level: intermediate
-      name: BASH
-      category: Programming Languages
-    - level: beginner
-      name: xonsh
-      category: Programming Languages
-    - level: intermediate
-      name: git
-      category: Software
-    - level: intermediate
-      name: LaTeX
-      category: Markup Languages
-    - level: intermediate
-      name: Linux
-      category: Specialized Software
-    - level: intermediate
-      name: Mathematica
-      category: Specialized Software
-    - level: intermediate
-      name: MATLAB
-      category: Specialized Software
-    - level: intermediate
-      name: MongoDB
-      category: Specialized Software
-    - level: beginner
-      name: SolidWorks
-      category: Specialized Software
-sbillinge:
-  aka:
-    - Simon J. L. Billinge
-    - S. J. L. Billinge
-    - Billinge, Simon J. L.
-    - Simon Billinge
-    - Simon John Laird Billinge
-  avatar: https://github.com/sbillinge.png
-  bio: ''
-  education:
-    - begin_year: 1982
-      institution: uoxford
-      other:
-        - 'Adviser: George Smith'
-        - 'Disseration: Development of a novel ultra-high strength alloy steel for
-          wire and cable'
-      degree: BA in Metallurgy and Materials Science
-      department: matsci
-      end_year: 1986
-    - begin_year: 1987
-      institution: upenn
-      other:
-        - 'Advisers: Takeshi Egami and Peter Davies'
-        - 'Disseration: Local atomic structure and superconducivity of Nd2-xCexCuO4-y:
-          a pair distribution function study '
-      degree: PhD in Materials Science and Engineering
-      department: mse
-      end_year: 1992
-  employment:
-    - begin_year: 2008
-      position: Professor
-      department: apam
-      institution: columbiau
-      group: bg
-      other:
-        - 'Full title: Professor of Materials Science and of Applied Physics and of
-          Applied Mathematics'
-    - department: cmpms
-      begin_year: 2008
-      group: xray
-      position: Physicist
-      institution: bnl
-    - begin_year: 2012
-      end_year: 2012
-      position: Visiting Scientist
-      institution: ill
-    - begin_year: 2011
-      end_year: 2012
-      position: Visiting Scientist
-      institution: esrf
-    - department: physics
-      begin_year: 2003
-      end_year: 2007
-      position: Professor
-      institution: msu
-    - begin_year: 2001
-      end_year: 2002
-      position: Visiting Professor
-      institution: uroma
-    - department: physics
-      begin_year: 1999
-      end_year: 2003
-      position: Associate Professor
-      institution: msu
-    - department: physics
-      begin_year: 1994
-      end_year: 1999
-      position: Assistant Professor
-      institution: msu
-    - department: mst
-      other:
-        - 'Advisor: George Kwei'
-      end_year: 1994
-      position: Director's Post-doctoral Research Fellow
-      institution: lanl
-  funding: []
-  membership: []
-  name: Simon J. L. Billinge
-  orcid_id: 0000-0002-9734-4998
-  position: Professor
-  service: []
-  skills: []
-  teaching: []
-sbanerjee:
-  aka:
-    - sojam
-  avatar: https://avatars0.githubusercontent.com/u/7819851?s=400&v=4
-  bio: ''
-  education:
-    - location: New York, NY
-      begin_year: 2013
-      other:
-        - 'Adviser: Simon Billinge'
-      degree: MS/PhD in Applied Physics
-      department: apam
-      institution: Columbia University
-      group: bg
-    - degree: BS in Physics
-      begin_year: 2008
-      end_year: 2012
-      location: Winston-Salem, NC
-      institution: Wake Forest University
-  email: sb3519@columbia.edu
-  name: Soham Banerjee
-  orcid_id: 0000-0001-9271-493X
-  position: Graduate Student
-  skills:
-    - level: proficient
-      name: Python
-      category: Programming Languages
   title: Mr.

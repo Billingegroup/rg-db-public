@@ -4,14 +4,14 @@ Regolith:
   name: Regolith
   repo: https://github.com/regro/regolith
   team:
-    - begin_year: 2017
-      position: Developer
+    - position: Developer
+      begin_year: 2017
       name: Christopher J. Wright
-    - begin_year: 2017
-      position: Lead Developer
+    - position: Lead Developer
+      begin_year: 2017
       name: Anthony Scopatz
-    - begin_year: 2017
-      position: Developer
+    - position: Developer
+      begin_year: 2017
       name: Simon Billinge
   website: https://github.com/regro/regolith
 conda-forge:
@@ -23,11 +23,11 @@ conda-forge:
       for the conda package manager.
   repo: https://github.com/conda-forge
   team:
-    - begin_year: 2017
-      position: Core Developer, Staged-Recipes Reviewer
+    - position: Core Developer, Staged-Recipes Reviewer
+      begin_year: 2017
       name: Christopher J. Wright
-    - begin_year: 2018
-      position: Google Summer of Code Developer
+    - position: Google Summer of Code Developer
+      begin_year: 2018
       name: Justin Calamari
   website: http://conda-forge.org
 ReGro:
@@ -36,10 +36,10 @@ ReGro:
   name: Re(search) Gro(up)
   repo: https://github.com/regro
   team:
-    - begin_year: 2017
-      position: Developer
+    - position: Developer
+      begin_year: 2017
       name: Christopher J. Wright
-    - begin_year: 2017
-      position: Lead Developer
+    - position: Lead Developer
+      begin_year: 2017
       name: Anthony Scopatz
   website: https://github.com/regro
