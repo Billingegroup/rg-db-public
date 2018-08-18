@@ -1,3 +1,19 @@
+Regolith:
+  description: Research Group Content Managment System
+  logo: https://regro.github.io/regolith-docs/_static/regolith-logo.svg
+  name: Regolith
+  repo: https://github.com/regro/regolith
+  team:
+    - position: Developer
+      begin_year: 2017
+      name: Christopher J. Wright
+    - position: Lead Developer
+      begin_year: 2017
+      name: Anthony Scopatz
+    - position: Developer
+      begin_year: 2017
+      name: Simon Billinge
+  website: https://github.com/regro/regolith
 conda-forge:
   description: Conda driven packaging ecosystem
   logo: https://avatars0.githubusercontent.com/u/11897326?s=200&v=4
@@ -27,19 +43,3 @@ ReGro:
       begin_year: 2017
       name: Anthony Scopatz
   website: https://github.com/regro
-Regolith:
-  description: Research Group Content Managment System
-  logo: https://regro.github.io/regolith-docs/_static/regolith-logo.svg
-  name: Regolith
-  repo: https://github.com/regro/regolith
-  team:
-    - position: Developer
-      begin_year: 2017
-      name: Christopher J. Wright
-    - position: Lead Developer
-      begin_year: 2017
-      name: Anthony Scopatz
-    - position: Developer
-      begin_year: 2017
-      name: Simon Billinge
-  website: https://github.com/regro/regolith
