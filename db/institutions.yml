@@ -1,12 +1,3 @@
-ill:
-  aka:
-    - ILL
-  city: Grenoble
-  country: France
-  name: Institut Laue Langevin
-  state: ''
-  street: 71 Avenue des Martyrs
-  zip: 38000
 ethzurich:
   aka:
     - ETH
@@ -20,6 +11,207 @@ ethzurich:
   state: ''
   street: Wolfgang-Pauli-Strasse 27
   zip: CH-8093
+mpi:
+  aka:
+    - Max Planck
+    - MPI
+    - University of Roma
+    - La Sapienza
+    - Università di Roma
+  city: Stuttgart
+  country: Germany
+  departments:
+    ssp:
+      name: Institute for Solid State Physics
+  name: Max Planck Institute
+  state: ''
+  street: ''
+  zip: ''
+columbiau:
+  aka:
+    - Columbia University
+    - Columbia University in the City of New York
+  city: New York
+  country: USA
+  departments:
+    cs:
+      name: Computer Science Department
+    cheme:
+      name: Department of Chemical Engineering
+    eaee:
+      name: Department of Earth and Environmental Engineering
+    apam:
+      aka:
+        - APAM
+      name: Department of Applied Physics and Applied Mathematics
+    chemistry:
+      name: Department of Chemistry
+    physics:
+      name: Department of Physics
+  name: Columbia University
+  schools:
+    seas:
+      aka:
+        - SEAS
+        - Columbia Engineering
+        - School of Engineering and Applied Science
+      name: Fu Foundation School of Engineering and Applied Science
+  state: NY
+  zip: 10027
+sunysb:
+  aka:
+    - SUNY-SB
+    - SUNYSB
+    - State University of New York Stony Brook
+  city: Stony Brook
+  country: USA
+  departments:
+    chemistry:
+      name: Department of Chemistry
+    earthsci:
+      name: Department of Earth Science
+    physics:
+      name: Department of Physics and Astronomy
+  name: Stony Brook University
+  state: NY
+  street: ''
+  zip: 11794
+utsinghua:
+  aka:
+    - Tsinghua
+    - THU
+  city: Beijing
+  country: China
+  departments:
+    matsci:
+      name: Department of Materials Science and Engineering
+    chemistry:
+      name: Department of Chemistry
+    physics:
+      name: Department of Physics
+  name: Tsinghua University
+  state: Haidian
+  street: 30 Shuangqing Rd
+  zip: 100084
+pekingu:
+  aka:
+    - Peking University
+    - PKU
+  city: Beijing
+  country: China
+  departments:
+    chemistry:
+      name: School of Chemistry
+    physics:
+      name: School of Physics
+  name: Peking University
+  state: ''
+  street: 5 Yiheyuan Road
+  zip: 100871
+nist:
+  aka:
+    - NIST
+  city: Gaithersburg
+  country: USA
+  departments:
+    materials:
+      name: Material Measurement Laboratory
+  name: National Institute of Standards and Technology
+  state: MD
+  street: 100 Bureau Drive
+  zip: 20899
+ccny:
+  aka:
+    - City College
+    - CUNY City College
+  city: New York
+  country: USA
+  departments:
+    chemistry:
+      name: Department of Chemisty and Biochemistry
+    cheme:
+      name: Department of Chemical Engineering
+  name: The City College of New York
+  schools:
+    aka:
+      - Grove School
+      - Grove
+    grove: The Grove School of Engineering
+  state: NY
+  street: 160 Convent Avenue
+  zip: 10031
+drexelu:
+  aka:
+    - drexel university
+    - Drexel University
+    - drexel
+    - Drexel
+  city: Philadelphia
+  country: USA
+  departments:
+    mse:
+      name: Department of Materials Science and Engineering
+    nano:
+      name: A.J. Drexel Nanomaterials Institute
+  name: Drexel University
+  schools:
+    eng:
+      name: College of Engineering
+  state: PA
+  zip: 19104
+upenn:
+  aka:
+    - Penn
+    - U Penn
+  city: Philadelphia
+  country: USA
+  departments:
+    cs:
+      name: Computer Science Department
+    chemistry:
+      name: Department of Chemistry
+    mse:
+      name: Department of Materials Science and Engineering
+    cheme:
+      name: Department of Chemical Engineering
+  name: University of Pennsylvania
+  schools:
+    seas:
+      aka:
+        - SEAS
+        - Columbia Engineering
+      name: School of Engineering and Applied Science
+  state: PA
+  zip: 19104
+lanl:
+  aka:
+    - LANL
+  city: Los Alamos
+  country: USA
+  departments:
+    mst:
+      name: Materials Science and Technology Division
+  name: Los Alamos National Laboratory
+  state: NM
+  zip: 87545
+gsk:
+  aka:
+    - Glaxo Smith Kline
+    - GSK
+  city: Stevenage
+  country: UK
+  departments:
+    crystallogr:
+      name: Crystallography
+  name: GlaxoSmithKline
+  schools:
+    physprops:
+      name: Physical Properties
+    platsci:
+      name: Platform Technology & Science
+  state: Hertfordshire
+  street: Gunnels Wood Road
+  zip: SG1 2NY
 nyu:
   aka:
     - nyu
@@ -34,157 +226,6 @@ nyu:
   name: New York University
   state: NY
   zip: 10003
-ghentu:
-  aka:
-    - University of Ghent
-    - Universiteit Gent
-    - UGent
-    - State University of Ghent
-    - Rijksuniversiteit Gent
-    - RUG
-  city: Ghent
-  country: Belgium
-  departments:
-    matsci:
-      name: Sol-gel Centre for Research on Inorganic Powders and Thin films Synthesis
-        (SCRiPTS)
-    chemistry:
-      name: Department of Chemistry
-  name: Ghent University
-  state: East Flanders
-  street: St. Pietersnieuwstraat 33
-  zip: 9000
-northwesternu:
-  aka:
-    - Northwestern
-    - northwestern
-  city: Evanston
-  country: USA
-  departments:
-    physics:
-      name: Department of Physics
-    chemistry:
-      name: Department of Chemistry
-    materials:
-      name: Materials Science Department
-  name: Northwestern University
-  state: IL
-  zip: 60208
-drexelu:
-  aka:
-    - drexel university
-    - Drexel University
-    - drexel
-    - Drexel
-  city: Philadelphia
-  country: USA
-  departments:
-    nano:
-      name: A.J. Drexel Nanomaterials Institute
-    mse:
-      name: Department of Materials Science and Engineering
-  name: Drexel University
-  schools:
-    eng:
-      name: College of Engineering
-  state: PA
-  zip: 19104
-ubayreuth:
-  aka:
-    - Bayreuth
-    - bayreuth
-  city: Bayreuth
-  country: Germany
-  departments:
-    chemistry:
-      aka:
-        - chem
-      name: Biology, Chemistry & Earth Sciences
-  name: Universität Bayreuth
-  state: ''
-nist:
-  aka:
-    - NIST
-  city: Gaithersburg
-  country: USA
-  departments:
-    materials:
-      name: Material Measurement Laboratory
-  name: National Institute of Standards and Technology
-  state: MD
-  street: 100 Bureau Drive
-  zip: 20899
-vanderbiltu:
-  aka:
-    - Vanderbilt
-    - vanderbilt
-    - VanderbiltU
-  city: Nashville
-  country: USA
-  departments:
-    matsci:
-      aka:
-        - vinse
-        - VINSE
-      name: Vanderbilt Institute of Nanoscale Science and Engineering
-    physics:
-      name: Department of Physics and Astronomy
-    chemistry:
-      name: Department of Chemistry
-  name: Vanderbilt University
-  state: Tennessee
-  street: 2201 West End Ave
-  zip: 37235
-utsinghua:
-  aka:
-    - Tsinghua
-    - THU
-  city: Beijing
-  country: China
-  departments:
-    matsci:
-      name: Department of Materials Science and Engineering
-    physics:
-      name: Department of Physics
-    chemistry:
-      name: Department of Chemistry
-  name: Tsinghua University
-  state: Haidian
-  street: 30 Shuangqing Rd
-  zip: 100084
-ohiou:
-  aka:
-    - Ohio
-    - ohio
-  city: Athens
-  country: USA
-  name: Ohio University - Main Campus
-  state: OH
-  zip: 45701-2979
-upenn:
-  aka:
-    - Penn
-    - U Penn
-  city: Philadelphia
-  country: USA
-  departments:
-    mse:
-      name: Department of Materials Science and Engineering
-    chemistry:
-      name: Department of Chemistry
-    cs:
-      name: Computer Science Department
-    cheme:
-      name: Department of Chemical Engineering
-  name: University of Pennsylvania
-  schools:
-    seas:
-      aka:
-        - SEAS
-        - Columbia Engineering
-      name: School of Engineering and Applied Science
-  state: PA
-  zip: 19104
 uhouston:
   aka: []
   city: Houston
@@ -195,57 +236,211 @@ uhouston:
   name: University of Houston
   state: TX
   zip: fixme
-ufrankfurt:
+riceu:
   aka:
-    - University of Frankfurt
-    - Frankfurt University
-    - Goethe-Universität
-    - Universität Frankfurt am Main
-  city: Frankfurt
-  country: Germany
-  departments:
-    phy:
-      name: Institute of Physics
-    theophy:
-      name: Institute of Theoretical Physics
-    biophy:
-      name: Institute of Biophysics
-    phyedu:
-      name: Institute of Physics Education
-    appphy:
-      name: Institute of Applied Physics
-    nucphy:
-      name: Institute of Nuclear Physics
-    inochem:
-      name: Institute of Inorganic and Analytical Chemistry
-    orgchem:
-      name: Institute of Organic Chemistry and Chemical Biology
-    didchem:
-      name: Institute of Didactics of Chemistry
-    phychem:
-      name: Institute of Physical and Theoretical Chemistry
-  name: Goethe University Frankfurt
-  schools:
-    physics:
-      name: Department of Physics
-    chemistry:
-      name: Department of Chemistry
-  state: ''
-  zip: 60323
-uconn:
-  aka:
-    - UConn
-  city: Storrs
+    - Rice
+  city: Houston
   country: USA
   departments:
-    instmatsci:
-      name: Institute of Materials Science
+    chemistry:
+      aka:
+        - Chemistry
+      name: Department of Chemistry
+  name: Rice University
+  notes:
+    - 'host: Angel Marti'
+  state: TX
+  zip: 77251
+urome:
+  aka:
+    - uroma
+    - University of Rome
+    - University of Roma
+    - La Sapienza
+    - Università di Roma
+  city: Rome
+  country: Italy
+  departments:
+    physics:
+      name: Department of Physcis
+  name: University of Rome, 'La Sapienza'
+  state: ''
+  street: Piazzale Aldo Moro 5
+  zip: 00185
+umontreal:
+  aka:
+    - UdeM
+    - udem
+    - Montreal
+    - montreal
+    - University Montreal
+    - university montreal
+    - University of Montreal
+    - university of montreal
+  city: Montreal
+  country: Canada
+  departments:
+    chemistry:
+      name: Département de chimie
+    physics:
+      name: Département de physique
+  name: Université de Montréal
+  state: Québec
+  street: 2900, boul. Édouard-Montpetit
+  zip: H3T 1J4
+barnardu:
+  aka: []
+  city: New York
+  country: USA
+  departments:
+    chemistry:
+      name: Department of Chemistry
+    physics:
+      name: Department of Physics
+  name: Barnard College
+  state: NY
+  zip: fixme
+caltech:
+  aka:
+    - California Institute of Technology
+    - california institute of technology
+    - CalTech
+  city: Pasadena
+  country: USA
+  name: California Institute of Technology
+  state: CA
+  zip: '91125'
+anl:
+  aka: []
+  city: Argonne
+  country: USA
+  departments:
+    matsci:
+      name: Materials Science Division
+  name: Argonne National Laboratory
+  state: IL
+  zip: 60439
+msu:
+  aka:
+    - MSU
+    - Spartans
+  city: East Lansing
+  country: USA
+  departments:
+    chemistry:
+      name: Department of Chemistry
+    physics:
+      name: Department of Physics and Astronomy
+  name: Michigan State University
+  state: MI
+  street: 220 Trowbridge Rd
+  zip: 48824
+uwisconsin:
+  aka:
+    - Wisco
+    - University of Wisconsin
+    - U Wisconsin
+    - UW
+    - UW-Madison
+  city: Madison
+  country: USA
+  departments:
+    pharma:
+      name: Department of Pharmaceutical Sciences
     matsci:
       name: Department of Materials Science and Engineering
-  name: University of Connecticut
-  state: CT
-  street: 97 North Eagleville Road
-  zip: 06269
+  name: University of Wisconsin-Madison
+  schools:
+    pharma:
+      name: School of Pharmacy
+  state: WI
+  street: 1509 University Ave.
+  zip: 53706
+asu:
+  aka:
+    - Arizona State University
+    - arizona state university
+    - ASU
+  city: Tempe
+  country: USA
+  departments:
+    physics:
+      name: Department of Physics
+  name: Arizona State University
+  schools:
+    sms:
+      name: School of Molecular Sciences
+    semte:
+      name: School for Engineering of Matter, Transport and Energy
+  state: Arizona
+  street: ''
+  zip: 85287
+natautoumexico:
+  aka:
+    - Universidad Nacional Autónoma de México
+    - UNAM
+    - unam
+    - Autonomous National University of Mexico
+  city: Mexico City
+  country: Mexico
+  departments:
+    physics:
+      aka:
+        - Departamiento de física
+        - Departamiento de fisica
+      name: Department of Physics
+  name: National Autonomous University of Mexico
+  schools:
+    sciences:
+      aka:
+        - Facultad de Ciencias
+      name: Faculty of Sciences
+  state: ''
+  street: Av Universidad 3000, Cd. Universitaria, Coyoacán
+  zip: 04510
+bnl:
+  aka:
+    - Brookhaven National Laboratory
+  city: Upton
+  country: USA
+  departments:
+    setd:
+      name: Sustainable Energy Technologies Department
+    csi:
+      name: Computational Science Initiative
+    chemistry:
+      name: Department of Chemistry
+    cfn:
+      name: Center for Functional Nanomaterials
+    psd:
+      name: Photon Sciences Division
+    cmpms:
+      name: Condensed Matter and Materials Science Department
+  name: Brookhaven National Laboratory
+  state: NY
+  zip: 11973
+kentstateu:
+  aka:
+    - kent state
+    - KSU
+  city: Kent
+  country: USA
+  departments:
+    chemistry:
+      aka:
+        - Chemistry
+      name: Department of Chemistry
+    physics:
+      aka:
+        - Physics
+      name: Department of Physics
+  name: Kent State University
+  schools:
+    cas:
+      name: College of Arts and Sciences
+  state: OH
+  street: 208 Schwartz Center, 800 E. Summit St.
+  zip: 44242
 uwashington:
   aka:
     - University of Washington
@@ -258,19 +453,65 @@ uwashington:
   name: University of Washington
   state: WS
   zip: 98195
-umaine:
-  aka:
-    - University of Maine
-  city: fixme
-  country: USA
+ucopenhagen:
+  aka: []
+  city: Copenhagen
+  country: Denmark
   departments:
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry
-  name: University of Maine
-  state: ME
-  zip: fixme
+  name: University of Copenhagen
+  state: ''
+  zip: ''
+astrazeneca:
+  aka:
+    - Astra Zeneca
+    - AZ
+  city: London
+  country: UK
+  departments:
+    na:
+      name: ''
+  name: AstraZeneca
+  note:
+    - I don't know the departments so leave it blank
+  schools: {}
+  state: ''
+  street: 15 Stanhope Gate
+  zip: W1K 1LN
+oxfordu:
+  aka:
+    - Oxford
+    - University of Oxford
+  city: Oxford
+  country: UK
+  departments:
+    earthsci:
+      name: Department of Earth Sciences
+    cs:
+      name: Department of Computer Science
+    chemistry:
+      name: Department of Chemistry
+    eng:
+      name: Department of Engineering Science
+    matsci:
+      name: Department of Materials
+    physics:
+      name: Department of Physics
+  name: Oxford University
+  state: ''
+sunybuffalo:
+  aka:
+    - SUNY Buffalo
+    - SUNY-Buffalo
+  city: Buffalo
+  country: USA
+  departments:
+    cheme:
+      name: Department of Chemical and Biological Engineering
+  name: The State University of New York at Buffalo
+  state: ''
+  zip: 14260
 qmul:
   aka:
     - QMUL
@@ -295,16 +536,124 @@ addisababau:
   city: Addis Ababa
   country: Ethiopia
   departments:
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry
+    physics:
+      name: Department of Physics
   name: Addis Ababa University
   schools:
     cns:
       name: College of Natural Science
   state: ''
   zip: ''
+bowdoinc:
+  aka: []
+  city: fixme
+  country: USA
+  departments:
+    chemistry:
+      name: Department of Chemistry
+  name: Bowdoin College
+  state: ME
+  zip: fixme
+northwesternu:
+  aka:
+    - Northwestern
+    - northwestern
+  city: Evanston
+  country: USA
+  departments:
+    materials:
+      name: Materials Science Department
+    chemistry:
+      name: Department of Chemistry
+    physics:
+      name: Department of Physics
+  name: Northwestern University
+  state: IL
+  zip: 60208
+puneu:
+  aka:
+    - University of Pune
+    - University of Poona
+    - Pune University
+  city: Pune
+  country: India
+  departments:
+    physics:
+      name: Department of Physics
+  name: Savitribai Phule Pune University
+  state: Maharashtra
+  zip: 411007
+umaine:
+  aka:
+    - University of Maine
+  city: fixme
+  country: USA
+  departments:
+    chemistry:
+      name: Department of Chemistry
+    physics:
+      name: Department of Physics
+  name: University of Maine
+  state: ME
+  zip: fixme
+ill:
+  aka:
+    - ILL
+  city: Grenoble
+  country: France
+  name: Institut Laue Langevin
+  state: ''
+  street: 71 Avenue des Martyrs
+  zip: 38000
+ucdavis:
+  aka:
+    - UC Davis
+  city: Davis
+  country: USA
+  name: University of California - Davis
+  state: CA
+  zip: 95616-8678
+uwmilwaukee:
+  aka:
+    - UW Milwaukee
+  city: Milwaukee
+  country: USA
+  name: University of Wisconsin - Milwaukee
+  state: WI
+  zip: '53211'
+vanderbiltu:
+  aka:
+    - Vanderbilt
+    - vanderbilt
+    - VanderbiltU
+  city: Nashville
+  country: USA
+  departments:
+    matsci:
+      aka:
+        - vinse
+        - VINSE
+      name: Vanderbilt Institute of Nanoscale Science and Engineering
+    chemistry:
+      name: Department of Chemistry
+    physics:
+      name: Department of Physics and Astronomy
+  name: Vanderbilt University
+  state: Tennessee
+  street: 2201 West End Ave
+  zip: 37235
+unisa:
+  aka: []
+  city: Salerno
+  country: Italy
+  departments:
+    pharma:
+      name: Department of Pharmacy
+  name: University of Salerno
+  state: ''
+  zip: 84084
 ubelgrade:
   aka:
     - University of Belgrade
@@ -320,21 +669,38 @@ ubelgrade:
   name: University of Belgrade
   street: Studentski trg 1
   zip: 11000
-pekingu:
+lehighu:
   aka:
-    - Peking University
-    - PKU
-  city: Beijing
-  country: China
+    - Lehigh
+    - lehigh
+  city: Bethlehem
+  country: USA
+  name: Lehigh University
+  state: PA
+  zip: '18015'
+ubayreuth:
+  aka:
+    - Bayreuth
+    - bayreuth
+  city: Bayreuth
+  country: Germany
   departments:
-    physics:
-      name: School of Physics
     chemistry:
-      name: School of Chemistry
-  name: Peking University
+      aka:
+        - chem
+      name: Biology, Chemistry & Earth Sciences
+  name: Universität Bayreuth
   state: ''
-  street: 5 Yiheyuan Road
-  zip: 100871
+uhamburg:
+  aka: University of Hamburg
+  city: Hamburg
+  country: Germany
+  departments:
+    chyn:
+      name: Center for Hybrid Nanostructures
+  name: Universitat de Hamburg
+  state:
+  zip: fixme
 rutgersu:
   aka:
     - Rutgers
@@ -344,6 +710,33 @@ rutgersu:
   name: Rutgers University
   state: NJ
   zip: 08901-1281
+batesc:
+  aka:
+    - Bates
+  city: Lewiston
+  country: USA
+  departments:
+    chemistry:
+      name: Department of Chemistry
+  name: Bates College
+  state: Maine
+  street: 2 Andrews Road
+  zip: 04240
+esrf:
+  aka:
+    - European Synchrotron Radiation Facility
+    - ESRF
+  city: Grenoble
+  country: France
+  departments:
+    db_bl:
+      aka:
+        - sas_bl
+      name: Dutch-Belgian Beamline
+  name: European Synchrotron Radiation Facility
+  state: Rhone-Alps
+  street: 71 Avenue des Martyrs
+  zip: 38000
 uduisburgessen:
   aka:
     - The University of Duisburg-Essen
@@ -361,227 +754,35 @@ uduisburgessen:
   state: North Rhine-Westphalia
   street: Universitaetsstrasse 7
   zip: 45117
-sunysb:
+ohiou:
   aka:
-    - SUNY-SB
-    - SUNYSB
-    - State University of New York Stony Brook
-  city: Stony Brook
+    - Ohio
+    - ohio
+  city: Athens
   country: USA
-  departments:
-    earthsci:
-      name: Department of Earth Science
-    physics:
-      name: Department of Physics and Astronomy
-    chemistry:
-      name: Department of Chemistry
-  name: Stony Brook University
-  state: NY
-  street: ''
-  zip: 11794
-riceu:
-  aka:
-    - Rice
-  city: Houston
-  country: USA
-  departments:
-    chemistry:
-      aka:
-        - Chemistry
-      name: Department of Chemistry
-  name: Rice University
-  notes:
-    - 'host: Angel Marti'
-  state: TX
-  zip: 77251
-bnl:
-  aka:
-    - Brookhaven National Laboratory
-  city: Upton
-  country: USA
-  departments:
-    setd:
-      name: Sustainable Energy Technologies Department
-    cmpms:
-      name: Condensed Matter and Materials Science Department
-    psd:
-      name: Photon Sciences Division
-    csi:
-      name: Computational Science Initiative
-    cfn:
-      name: Center for Functional Nanomaterials
-    chemistry:
-      name: Department of Chemistry
-  name: Brookhaven National Laboratory
-  state: NY
-  zip: 11973
-uwmilwaukee:
-  aka:
-    - UW Milwaukee
-  city: Milwaukee
-  country: USA
-  name: University of Wisconsin - Milwaukee
-  state: WI
-  zip: '53211'
-umontreal:
-  aka:
-    - UdeM
-    - udem
-    - Montreal
-    - montreal
-    - University Montreal
-    - university montreal
-    - University of Montreal
-    - university of montreal
-  city: Montreal
-  country: Canada
-  departments:
-    physics:
-      name: Département de physique
-    chemistry:
-      name: Département de chimie
-  name: Université de Montréal
-  state: Québec
-  street: 2900, boul. Édouard-Montpetit
-  zip: H3T 1J4
-bowdoinc:
-  aka: []
-  city: fixme
-  country: USA
-  departments:
-    chemistry:
-      name: Department of Chemistry
-  name: Bowdoin College
-  state: ME
-  zip: fixme
-caltech:
-  aka:
-    - California Institute of Technology
-    - california institute of technology
-    - CalTech
-  city: Pasadena
-  country: USA
-  name: California Institute of Technology
-  state: CA
-  zip: '91125'
-lehighu:
-  aka:
-    - Lehigh
-    - lehigh
-  city: Bethlehem
-  country: USA
-  name: Lehigh University
-  state: PA
-  zip: '18015'
-uhamburg:
-  aka: University of Hamburg
-  city: Hamburg
-  country: Germany
-  departments:
-    chyn:
-      name: Center for Hybrid Nanostructures
-  name: Universitat de Hamburg
-  state:
-  zip: fixme
-ccny:
-  aka:
-    - City College
-    - CUNY City College
-  city: New York
-  country: USA
-  departments:
-    cheme:
-      name: Department of Chemical Engineering
-    chemistry:
-      name: Department of Chemisty and Biochemistry
-  name: The City College of New York
-  schools:
-    aka:
-      - Grove School
-      - Grove
-    grove: The Grove School of Engineering
-  state: NY
-  street: 160 Convent Avenue
-  zip: 10031
-gsk:
-  aka:
-    - Glaxo Smith Kline
-    - GSK
-  city: Stevenage
-  country: UK
-  departments:
-    crystallogr:
-      name: Crystallography
-  name: GlaxoSmithKline
-  schools:
-    platsci:
-      name: Platform Technology & Science
-    physprops:
-      name: Physical Properties
-  state: Hertfordshire
-  street: Gunnels Wood Road
-  zip: SG1 2NY
-ucdavis:
-  aka:
-    - UC Davis
-  city: Davis
-  country: USA
-  name: University of California - Davis
-  state: CA
-  zip: 95616-8678
-esrf:
-  aka:
-    - European Synchrotron Radiation Facility
-    - ESRF
-  city: Grenoble
-  country: France
-  departments:
-    db_bl:
-      aka:
-        - sas_bl
-      name: Dutch-Belgian Beamline
-  name: European Synchrotron Radiation Facility
-  state: Rhone-Alps
-  street: 71 Avenue des Martyrs
-  zip: 38000
-urome:
-  aka:
-    - uroma
-    - University of Rome
-    - University of Roma
-    - La Sapienza
-    - Università di Roma
-  city: Rome
-  country: Italy
-  departments:
-    physics:
-      name: Department of Physcis
-  name: University of Rome, 'La Sapienza'
-  state: ''
-  street: Piazzale Aldo Moro 5
-  zip: 00185
-kentstateu:
-  aka:
-    - kent state
-    - KSU
-  city: Kent
-  country: USA
-  departments:
-    physics:
-      aka:
-        - Physics
-      name: Department of Physics
-    chemistry:
-      aka:
-        - Chemistry
-      name: Department of Chemistry
-  name: Kent State University
-  schools:
-    cas:
-      name: College of Arts and Sciences
+  name: Ohio University - Main Campus
   state: OH
-  street: 208 Schwartz Center, 800 E. Summit St.
-  zip: 44242
+  zip: 45701-2979
+ghentu:
+  aka:
+    - University of Ghent
+    - Universiteit Gent
+    - UGent
+    - State University of Ghent
+    - Rijksuniversiteit Gent
+    - RUG
+  city: Ghent
+  country: Belgium
+  departments:
+    matsci:
+      name: Sol-gel Centre for Research on Inorganic Powders and Thin films Synthesis
+        (SCRiPTS)
+    chemistry:
+      name: Department of Chemistry
+  name: Ghent University
+  state: East Flanders
+  street: St. Pietersnieuwstraat 33
+  zip: 9000
 utoronto:
   aka:
     - UofT
@@ -591,229 +792,14 @@ utoronto:
   departments:
     matsci:
       name: Department of Materials Science and Engineering
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry
+    physics:
+      name: Department of Physics
   name: University of Toronto
   state: Ontario
   street: 27 King's College Cir
   zip: M5S 3H7
-unisa:
-  aka: []
-  city: Salerno
-  country: Italy
-  departments:
-    pharma:
-      name: Department of Pharmacy
-  name: University of Salerno
-  state: ''
-  zip: 84084
-msu:
-  aka:
-    - MSU
-    - Spartans
-  city: East Lansing
-  country: USA
-  departments:
-    physics:
-      name: Department of Physics and Astronomy
-    chemistry:
-      name: Department of Chemistry
-  name: Michigan State University
-  state: MI
-  street: 220 Trowbridge Rd
-  zip: 48824
-sunybuffalo:
-  aka:
-    - SUNY Buffalo
-    - SUNY-Buffalo
-  city: Buffalo
-  country: USA
-  departments:
-    cheme:
-      name: Department of Chemical and Biological Engineering
-  name: The State University of New York at Buffalo
-  state: ''
-  zip: 14260
-lanl:
-  aka:
-    - LANL
-  city: Los Alamos
-  country: USA
-  departments:
-    mst:
-      name: Materials Science and Technology Division
-  name: Los Alamos National Laboratory
-  state: NM
-  zip: 87545
-columbiau:
-  aka:
-    - Columbia University
-    - Columbia University in the City of New York
-  city: New York
-  country: USA
-  departments:
-    eaee:
-      name: Department of Earth and Environmental Engineering
-    cs:
-      name: Computer Science Department
-    apam:
-      aka:
-        - APAM
-      name: Department of Applied Physics and Applied Mathematics
-    physics:
-      name: Department of Physics
-    chemistry:
-      name: Department of Chemistry
-    cheme:
-      name: Department of Chemical Engineering
-  name: Columbia University
-  schools:
-    seas:
-      aka:
-        - SEAS
-        - Columbia Engineering
-        - School of Engineering and Applied Science
-      name: Fu Foundation School of Engineering and Applied Science
-  state: NY
-  zip: 10027
-mpi:
-  aka:
-    - Max Planck
-    - MPI
-    - University of Roma
-    - La Sapienza
-    - Università di Roma
-  city: Stuttgart
-  country: Germany
-  departments:
-    ssp:
-      name: Institute for Solid State Physics
-  name: Max Planck Institute
-  state: ''
-  street: ''
-  zip: ''
-asu:
-  aka:
-    - Arizona State University
-    - arizona state university
-    - ASU
-  city: Tempe
-  country: USA
-  departments:
-    physics:
-      name: Department of Physics
-  name: Arizona State University
-  schools:
-    semte:
-      name: School for Engineering of Matter, Transport and Energy
-    sms:
-      name: School of Molecular Sciences
-  state: Arizona
-  street: ''
-  zip: 85287
-batesc:
-  aka:
-    - Bates
-  city: Lewiston
-  country: USA
-  departments:
-    chemistry:
-      name: Department of Chemistry
-  name: Bates College
-  state: Maine
-  street: 2 Andrews Road
-  zip: 04240
-barnardu:
-  aka: []
-  city: New York
-  country: USA
-  departments:
-    physics:
-      name: Department of Physics
-    chemistry:
-      name: Department of Chemistry
-  name: Barnard College
-  state: NY
-  zip: fixme
-natautoumexico:
-  aka:
-    - Universidad Nacional Autónoma de México
-    - UNAM
-    - unam
-    - Autonomous National University of Mexico
-  city: Mexico City
-  country: Mexico
-  departments:
-    physics:
-      aka:
-        - Departamiento de física
-        - Departamiento de fisica
-      name: Department of Physics
-  name: National Autonomous University of Mexico
-  schools:
-    sciences:
-      aka:
-        - Facultad de Ciencias
-      name: Faculty of Sciences
-  state: ''
-  street: Av Universidad 3000, Cd. Universitaria, Coyoacán
-  zip: 04510
-anl:
-  aka: []
-  city: Argonne
-  country: USA
-  departments:
-    matsci:
-      name: Materials Science Division
-  name: Argonne National Laboratory
-  state: IL
-  zip: 60439
-puneu:
-  aka:
-    - University of Pune
-    - University of Poona
-    - Pune University
-  city: Pune
-  country: India
-  departments:
-    physics:
-      name: Department of Physics
-  name: Savitribai Phule Pune University
-  state: Maharashtra
-  zip: 411007
-uwisconsin:
-  aka:
-    - Wisco
-    - University of Wisconsin
-    - U Wisconsin
-    - UW
-    - UW-Madison
-  city: Madison
-  country: USA
-  departments:
-    pharma:
-      name: Department of Pharmaceutical Sciences
-    matsci:
-      name: Department of Materials Science and Engineering
-  name: University of Wisconsin-Madison
-  schools:
-    pharma:
-      name: School of Pharmacy
-  state: WI
-  street: 1509 University Ave.
-  zip: 53706
-ucopenhagen:
-  aka: []
-  city: Copenhagen
-  country: Denmark
-  departments:
-    chemistry:
-      name: Department of Chemistry
-  name: University of Copenhagen
-  state: ''
-  zip: ''
 uiuc:
   aka:
     - UI Urbana-Champaign
@@ -823,43 +809,43 @@ uiuc:
   name: University of Illinois at Urbana-Champaign
   state: IL
   zip: 61820-5711
-oxfordu:
+ufrankfurt:
   aka:
-    - Oxford
-    - University of Oxford
-  city: Oxford
-  country: UK
+    - University of Frankfurt
+    - Frankfurt University
+    - Goethe-Universität
+    - Universität Frankfurt am Main
+  city: Frankfurt
+  country: Germany
   departments:
-    eng:
-      name: Department of Engineering Science
+    appphy:
+      name: Institute of Applied Physics
+    inochem:
+      name: Institute of Inorganic and Analytical Chemistry
+    phyedu:
+      name: Institute of Physics Education
+    didchem:
+      name: Institute of Didactics of Chemistry
+    biophy:
+      name: Institute of Biophysics
+    phychem:
+      name: Institute of Physical and Theoretical Chemistry
+    theophy:
+      name: Institute of Theoretical Physics
+    orgchem:
+      name: Institute of Organic Chemistry and Chemical Biology
+    nucphy:
+      name: Institute of Nuclear Physics
+    phy:
+      name: Institute of Physics
+  name: Goethe University Frankfurt
+  schools:
     chemistry:
       name: Department of Chemistry
-    cs:
-      name: Department of Computer Science
-    earthsci:
-      name: Department of Earth Sciences
     physics:
       name: Department of Physics
-    matsci:
-      name: Department of Materials
-  name: Oxford University
   state: ''
-astrazeneca:
-  aka:
-    - Astra Zeneca
-    - AZ
-  city: London
-  country: UK
-  departments:
-    na:
-      name: ''
-  name: AstraZeneca
-  note:
-    - I don't know the departments so leave it blank
-  schools: {}
-  state: ''
-  street: 15 Stanhope Gate
-  zip: W1K 1LN
+  zip: 60323
 cornellu:
   aka:
     - Cornell
@@ -871,11 +857,25 @@ cornellu:
   departments:
     matsci:
       name: Department of Materials Science and Engineering
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry and Chemical Biology
+    physics:
+      name: Department of Physics
   name: Cornell University
   state: New York
   street: ''
   zip: 14850
+uconn:
+  aka:
+    - UConn
+  city: Storrs
+  country: USA
+  departments:
+    matsci:
+      name: Department of Materials Science and Engineering
+    instmatsci:
+      name: Institute of Materials Science
+  name: University of Connecticut
+  state: CT
+  street: 97 North Eagleville Road
+  zip: 06269
