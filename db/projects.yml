@@ -1,16 +1,19 @@
-ReGro:
-  description: Tools for managing software and research groups
-  logo: https://regro.github.io/static/regro-logo.svg
-  name: Re(search) Gro(up)
-  repo: https://github.com/regro
+Regolith:
+  description: Research Group Content Managment System
+  logo: https://regro.github.io/regolith-docs/_static/regolith-logo.svg
+  name: Regolith
+  repo: https://github.com/regro/regolith
   team:
-    - position: Developer
-      begin_year: 2017
+    - begin_year: 2017
+      position: Developer
       name: Christopher J. Wright
-    - position: Lead Developer
-      begin_year: 2017
+    - begin_year: 2017
+      position: Lead Developer
       name: Anthony Scopatz
-  website: https://github.com/regro
+    - begin_year: 2017
+      position: Developer
+      name: Simon Billinge
+  website: https://github.com/regro/regolith
 conda-forge:
   description: Conda driven packaging ecosystem
   logo: https://avatars0.githubusercontent.com/u/11897326?s=200&v=4
@@ -20,26 +23,23 @@ conda-forge:
       for the conda package manager.
   repo: https://github.com/conda-forge
   team:
-    - position: Core Developer, Staged-Recipes Reviewer
-      begin_year: 2017
+    - begin_year: 2017
+      position: Core Developer, Staged-Recipes Reviewer
       name: Christopher J. Wright
-    - position: Google Summer of Code Developer
-      begin_year: 2018
+    - begin_year: 2018
+      position: Google Summer of Code Developer
       name: Justin Calamari
   website: http://conda-forge.org
-Regolith:
-  description: Research Group Content Managment System
-  logo: https://regro.github.io/regolith-docs/_static/regolith-logo.svg
-  name: Regolith
-  repo: https://github.com/regro/regolith
+ReGro:
+  description: Tools for managing software and research groups
+  logo: https://regro.github.io/static/regro-logo.svg
+  name: Re(search) Gro(up)
+  repo: https://github.com/regro
   team:
-    - position: Developer
-      begin_year: 2017
+    - begin_year: 2017
+      position: Developer
       name: Christopher J. Wright
-    - position: Lead Developer
-      begin_year: 2017
+    - begin_year: 2017
+      position: Lead Developer
       name: Anthony Scopatz
-    - position: Developer
-      begin_year: 2017
-      name: Simon Billinge
-  website: https://github.com/regro/regolith
+  website: https://github.com/regro

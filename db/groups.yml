@@ -1,15 +1,3 @@
-bg:
-  aka:
-    - bg
-    - billinge-group
-  department: apam
-  email: <b>sb2896</b> <i>(AT)</i> <b>columbia.edu</b>
-  institution: columbiau
-  mission_statement: Making the world better, one PDF at a time
-  name: Billinge Group
-  pi_name: Simon J. L. Billinge
-  projects: ''
-  website: www.thebillingegroup.com
 xray:
   aka:
     - xray group
@@ -23,3 +11,15 @@ xray:
   pi_name: Ian Robinson
   projects: ''
   website: bnl.gov/cmpmsd/xray
+bg:
+  aka:
+    - bg
+    - billinge-group
+  department: apam
+  email: <b>sb2896</b> <i>(AT)</i> <b>columbia.edu</b>
+  institution: columbiau
+  mission_statement: Making the world better, one PDF at a time
+  name: Billinge Group
+  pi_name: Simon J. L. Billinge
+  projects: ''
+  website: www.thebillingegroup.com
