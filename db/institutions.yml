@@ -837,14 +837,12 @@ uiuc:
   zip: 61820-5711
 uwmilwaukee:
   aka:
-    - University of Pune
-    - University of Poona
-    - Pune University
-  city: Pune
-  country: India
+    - UWM
+  city: Milwauke
+  country: USA
   departments:
     physics:
       name: Department of Physics
-  name: Savitribai Phule Pune University
-  state: Maharashtra
+  name: University of Wisconsin Milwaukee
+  state: Wisconsin
   zip: 411007
