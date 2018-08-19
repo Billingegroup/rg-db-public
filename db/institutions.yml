@@ -170,6 +170,11 @@ ohiou:
     - ohio
   city: Athens
   country: USA
+  departments:
+    physics:
+      aka:
+        - Physics
+      name: Department of Physics
   name: Ohio University - Main Campus
   state: OH
   zip: 45701-2979
