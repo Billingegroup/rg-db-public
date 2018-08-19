@@ -1,3 +1,16 @@
+ReGro:
+  description: Tools for managing software and research groups
+  logo: https://regro.github.io/static/regro-logo.svg
+  name: Re(search) Gro(up)
+  repo: https://github.com/regro
+  team:
+    - position: Developer
+      begin_year: 2017
+      name: Christopher J. Wright
+    - position: Lead Developer
+      begin_year: 2017
+      name: Anthony Scopatz
+  website: https://github.com/regro
 Regolith:
   description: Research Group Content Managment System
   logo: https://regro.github.io/regolith-docs/_static/regolith-logo.svg
@@ -30,16 +43,3 @@ conda-forge:
       begin_year: 2018
       name: Justin Calamari
   website: http://conda-forge.org
-ReGro:
-  description: Tools for managing software and research groups
-  logo: https://regro.github.io/static/regro-logo.svg
-  name: Re(search) Gro(up)
-  repo: https://github.com/regro
-  team:
-    - position: Developer
-      begin_year: 2017
-      name: Christopher J. Wright
-    - position: Lead Developer
-      begin_year: 2017
-      name: Anthony Scopatz
-  website: https://github.com/regro
