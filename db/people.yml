@@ -311,7 +311,19 @@ cwright:
     - C. J. Wright
     - CJ Wright
   avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
-  bio: Christopher grew up in Rockville Centre, New York. He attended Brown University where he earned a BS with honors in Chemical Physics. He worked with Prof. Shouheng Sun on electrochemical CO2 reduction and the structural dynamics of nanoparticles. After working at Brookhaven National Laboratory as a summer intern, he attended the University of South Carolina, working with Prof. Xiao-Dong Zhou on the atomic structure of solid oxide fuel cell components and earned a masters in Chemical Engineering. He joined the Billinge Group in 2016 and is currently working on analysis pipelines, data processing techniques and simulation software for PDF. Christopher is also a core developer for the conda-forge packaging ecosystem, president of Columbia qSTEM and sits on the Columbia Foundations for Research Computing advisory board. In his free time Christopher develops for open source projects, plays woodwind instruments, enjoys good scotch and works out by playing squash.
+  bio: Christopher grew up in Rockville Centre, New York. He attended Brown University
+    where he earned a BS with honors in Chemical Physics. He worked with Prof. Shouheng
+    Sun on electrochemical CO2 reduction and the structural dynamics of nanoparticles.
+    After working at Brookhaven National Laboratory as a summer intern, he attended
+    the University of South Carolina, working with Prof. Xiao-Dong Zhou on the atomic
+    structure of solid oxide fuel cell components and earned a masters in Chemical
+    Engineering. He joined the Billinge Group in 2016 and is currently working on
+    analysis pipelines, data processing techniques and simulation software for PDF.
+    Christopher is also a core developer for the conda-forge packaging ecosystem,
+    president of Columbia qSTEM and sits on the Columbia Foundations for Research
+    Computing advisory board. In his free time Christopher develops for open source
+    projects, plays woodwind instruments, enjoys good scotch and works out by playing
+    squash.
   education:
     - group: bg
       begin_year: 2017
