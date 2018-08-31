@@ -1,3 +1,30 @@
+Shuyue:
+  name: Shuyue Xue
+  position: Researcher
+chliu:
+  aka:
+    - Timothy Liu
+    - Tim Liu
+    - Chia-Hao Liu
+    - Liu, Chia-Hao
+    - Liu, C-H.
+  education:
+    - institution: Columbia University
+      begin_year: 2014
+      group: bg
+      other:
+        - 'Adviser: Simon Billinge'
+      department: apam
+      degree: MS/PhD in Applied Physics
+  email: cl3077@columbia.edu
+  name: Chia-Hao (Timothy) Liu
+  orcid_id: 0000-0002-3216-0354
+  position: Graduate Student
+  skills:
+    - level: proficient
+      category: Programming Languages
+      name: Python
+  title: Mr.
 cwright:
   aka:
     - Christopher J. Wright
@@ -241,68 +268,6 @@ cwright:
       category: Experiments
       name: Electron Microscopy
   title: Mr.
-Shuyue:
-  name: Shuyue Xue
-  position: Researcher
-sbanerjee:
-  aka:
-    - sojam
-    - bajam
-  avatar: https://avatars0.githubusercontent.com/u/7819851?s=400&v=4
-  bio: ''
-  education:
-    - institution: Columbia University
-      begin_year: 2013
-      group: bg
-      location: New York, NY
-      department: apam
-      degree: MS/PhD in Applied Physics
-      other:
-        - 'Adviser: Simon Billinge'
-    - institution: Wake Forest University
-      degree: BS in Physics
-      begin_year: 2008
-      end_year: 2012
-      location: Winston-Salem, NC
-  email: sb3519@columbia.edu
-  name: Soham Banerjee
-  orcid_id: 0000-0001-9271-493X
-  position: Graduate Student
-  skills:
-    - level: proficient
-      category: Programming Languages
-      name: Python
-  title: Mr.
-stao:
-  aka:
-    - Songsheng Tao
-    - Tao, Songsheng
-    - S. Tao
-    - Tao, S.
-  avatar: https://avatars0.githubusercontent.com/u/37090959?s=400&u=a94748131d06d93dfcaa6144e497870755cd2fea&v=4
-  bio: Songsheng grew up in Beijing, China. He attended Peking University where he
-    earned a B. S. in physics. As a MS/PhD track student in Columbia University, he
-    joined the Billinge Group in fall 2018 and is currently working on developing
-    tools for texture analysis and using pair distribution functions for structure
-    analysis. In his spare time, he enjoys board games and computer games.
-  education:
-    - institution: Columbia University
-      begin_year: 2017
-      group: bg
-      location: New York, NY
-      department: apam
-      degree: MS/PhD in Applied Physics
-      other:
-        - 'Adviser: Simon Billinge'
-    - institution: Peking University
-      degree: BS in Physics
-      begin_year: 2013
-      end_year: 2017
-      location: Beijing, China
-  email: st3107@columbia.edu
-  name: Songsheng Tao
-  orcid_id: 0000-0002-7565-3503
-  position: Graduate Student
 eculbertson:
   aka:
     - E Culbertson
@@ -470,24 +435,29 @@ jcalamari:
     - level: beginner
       category: Specialized Software
       name: SolidWorks
-chliu:
+sbanerjee:
   aka:
-    - Timothy Liu
-    - Tim Liu
-    - Chia-Hao Liu
-    - Liu, Chia-Hao
-    - Liu, C-H.
+    - sojam
+    - bajam
+  avatar: https://avatars0.githubusercontent.com/u/7819851?s=400&v=4
+  bio: ''
   education:
     - institution: Columbia University
-      begin_year: 2014
+      begin_year: 2013
       group: bg
-      other:
-        - 'Adviser: Simon Billinge'
+      location: New York, NY
       department: apam
       degree: MS/PhD in Applied Physics
-  email: cl3077@columbia.edu
-  name: Chia-Hao (Timothy) Liu
-  orcid_id: 0000-0002-3216-0354
+      other:
+        - 'Adviser: Simon Billinge'
+    - institution: Wake Forest University
+      degree: BS in Physics
+      begin_year: 2008
+      end_year: 2012
+      location: Winston-Salem, NC
+  email: sb3519@columbia.edu
+  name: Soham Banerjee
+  orcid_id: 0000-0001-9271-493X
   position: Graduate Student
   skills:
     - level: proficient
@@ -577,3 +547,33 @@ sbillinge:
   service: []
   skills: []
   teaching: []
+stao:
+  aka:
+    - Songsheng Tao
+    - Tao, Songsheng
+    - S. Tao
+    - Tao, S.
+  avatar: https://avatars0.githubusercontent.com/u/37090959?s=400&u=a94748131d06d93dfcaa6144e497870755cd2fea&v=4
+  bio: Songsheng grew up in Beijing, China. He attended Peking University where he
+    earned a B. S. in physics. As a MS/PhD track student in Columbia University, he
+    joined the Billinge Group in fall 2018 and is currently working on developing
+    tools for texture analysis and using pair distribution functions for structure
+    analysis. In his spare time, he enjoys board games and computer games.
+  education:
+    - institution: Columbia University
+      begin_year: 2017
+      group: bg
+      location: New York, NY
+      department: apam
+      degree: MS/PhD in Applied Physics
+      other:
+        - 'Adviser: Simon Billinge'
+    - institution: Peking University
+      degree: BS in Physics
+      begin_year: 2013
+      end_year: 2017
+      location: Beijing, China
+  email: st3107@columbia.edu
+  name: Songsheng Tao
+  orcid_id: 0000-0002-7565-3503
+  position: Graduate Student
