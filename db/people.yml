@@ -544,9 +544,6 @@ sbillinge:
   service: []
   skills: []
   teaching: []
-syxue:
-  name: Shuyue Xue
-  position: Researcher
 stao:
   aka:
     - Songsheng Tao
@@ -577,3 +574,6 @@ stao:
   name: Songsheng Tao
   orcid_id: 0000-0002-7565-3503
   position: Graduate Student
+syxue:
+  name: Shuyue Xue
+  position: Researcher
