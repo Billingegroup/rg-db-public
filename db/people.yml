@@ -1,6 +1,3 @@
-shuyue:
-  name: Shuyue Xue
-  position: Researcher
 chliu:
   aka:
     - Timothy Liu
@@ -547,6 +544,9 @@ sbillinge:
   service: []
   skills: []
   teaching: []
+shuyue:
+  name: Shuyue Xue
+  position: Researcher
 stao:
   aka:
     - Songsheng Tao
