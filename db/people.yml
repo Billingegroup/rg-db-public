@@ -587,7 +587,7 @@ sbillinge:
   service: []
   skills: []
   teaching: []
-stao:
+sstao:
   aka:
     - Songsheng Tao
     - Tao, Songsheng
@@ -617,6 +617,6 @@ stao:
   name: Songsheng Tao
   orcid_id: 0000-0002-7565-3503
   position: Graduate Student
-syxue:
+sryxue:
   name: Shuyue Xue
   position: Researcher
