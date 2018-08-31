@@ -1,3 +1,32 @@
+ReGro:
+  description: Tools for managing software and research groups
+  logo: https://regro.github.io/static/regro-logo.svg
+  name: Re(search) Gro(up)
+  repo: https://github.com/regro
+  team:
+    - position: Developer
+      name: Christopher J. Wright
+      begin_year: 2017
+    - position: Lead Developer
+      name: Anthony Scopatz
+      begin_year: 2017
+  website: https://github.com/regro
+Regolith:
+  description: Research Group Content Managment System
+  logo: https://regro.github.io/regolith-docs/_static/regolith-logo.svg
+  name: Regolith
+  repo: https://github.com/regro/regolith
+  team:
+    - position: Developer
+      name: Christopher J. Wright
+      begin_year: 2017
+    - position: Lead Developer
+      name: Anthony Scopatz
+      begin_year: 2017
+    - position: Developer
+      name: Simon Billinge
+      begin_year: 2017
+  website: https://github.com/regro/regolith
 conda-forge:
   description: Conda driven packaging ecosystem
   logo: https://avatars0.githubusercontent.com/u/11897326?s=200&v=4
@@ -7,39 +36,10 @@ conda-forge:
       for the conda package manager.
   repo: https://github.com/conda-forge
   team:
-    - name: Christopher J. Wright
-      position: Core Developer, Staged-Recipes Reviewer
+    - position: Core Developer, Staged-Recipes Reviewer
+      name: Christopher J. Wright
       begin_year: 2017
-    - name: Justin Calamari
-      position: Google Summer of Code Developer
+    - position: Google Summer of Code Developer
+      name: Justin Calamari
       begin_year: 2018
   website: http://conda-forge.org
-Regolith:
-  description: Research Group Content Managment System
-  logo: https://regro.github.io/regolith-docs/_static/regolith-logo.svg
-  name: Regolith
-  repo: https://github.com/regro/regolith
-  team:
-    - name: Christopher J. Wright
-      position: Developer
-      begin_year: 2017
-    - name: Anthony Scopatz
-      position: Lead Developer
-      begin_year: 2017
-    - name: Simon Billinge
-      position: Developer
-      begin_year: 2017
-  website: https://github.com/regro/regolith
-ReGro:
-  description: Tools for managing software and research groups
-  logo: https://regro.github.io/static/regro-logo.svg
-  name: Re(search) Gro(up)
-  repo: https://github.com/regro
-  team:
-    - name: Christopher J. Wright
-      position: Developer
-      begin_year: 2017
-    - name: Anthony Scopatz
-      position: Lead Developer
-      begin_year: 2017
-  website: https://github.com/regro
