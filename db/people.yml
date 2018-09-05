@@ -432,6 +432,49 @@ jcalamari:
     - level: beginner
       category: Specialized Software
       name: SolidWorks
+mwaddell:
+  aka:
+    - Michael Waddell
+    - Michael A. Waddell
+    - Waddell, Michael A.
+    - Michael Alexander Waddell
+  avatar: ''
+  bio: ''
+  education:
+    - institution: George Washington University
+      begin_year: 2007
+      end_year: 2011
+      department: Elliott School of International Affairs
+      degree: BA in International Affairs
+    - institution: Florida International University
+      begin_year: 2013
+      end_year: 2016
+      department: Physics
+      degree: BS in Physics
+    - institution: Columbia University
+      begin_year: 2016
+      end_year: 2017
+      department: Applied Analytics
+      degree: MS in Applied Analytics
+    - institution: Columbia University
+      begin_year: 2018
+      group: bg
+      department: Applied Physics and Applied Mathematics
+      degree: MS/PhD in Materials Science
+      other:
+        - 'Adviser: Simon Billinge'
+  employment:
+    - institution: ORNL
+      begin_year: 2016
+      end_year: 2016
+      position: intern
+    - institution: Goldman Sachs
+      position: PhD student
+      begin_year: 2018
+      group: bg
+  name: Michael A. Waddell
+  orcid_id: 0000-0003-0908-7571
+  position: PhD student
 sbanerjee:
   aka:
     - sojam
@@ -577,56 +620,3 @@ stao:
 syxue:
   name: Shuyue Xue
   position: Researcher
-  
-mwaddell:
-  aka:
-    - Michael Waddell
-    - Michael A. Waddell
-    - Waddell, Michael A.
-    - Michael Alexander Waddell
-  avatar: ''
-  bio: ''
-  education:
-    - institution: George Washington University
-      begin_year: 2007
-      end_year: 2011
-      department: Elliott School of International Affairs
-      degree: BA in International Affairs
-
-    - institution: Florida International University
-      begin_year: 2013
-      end_year: 2016
-      department: Physics
-      degree: BS in Physics
-      
-    - institution: Columbia University
-      begin_year: 2016
-      end_year: 2017
-      department: Applied Analytics
-      degree: MS in Applied Analytics
-      
-     - institution: Columbia University
-      begin_year: 2018
-      end_year: ''
-      group: bg
-      department: Applied Physics and Applied Mathematics
-      degree: MS/PhD in Materials Science
-      other:
-        - 'Adviser: Simon Billinge'
-    
-  employment:
-    - institution: ORNL
-      begin_year: 2016
-      end_year: 2016
-      position: intern
-
-      institution: Goldman Sachs
-      position: PhD student
-      begin_year: 2018
-      group: bg
-
-  funding: TA
-  membership: bg
-  name: Michael A. Waddell
-  orcid_id: 0000-0003-0908-7571
-  position: PhD student
