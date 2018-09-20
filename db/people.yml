@@ -49,10 +49,12 @@ cwright:
       degree: PhD in Materials Science
       group: bg
       begin_year: 2017
+      other:
+        - 'Adviser: Simon J. L. Billinge'
     - institution: columbiau
       begin_year: 2016
       group: bg
-      end_year: 2017
+      end_year: 2018
       department: apam
       degree: MS in Materials Science
     - institution: University of Sourth Carolina
@@ -77,6 +79,10 @@ cwright:
       gpa: 3.49
   email: cjwright4242@gmail.com
   employment:
+    - begin_year: 2016
+      location: New York, NY
+      organization: columbiau
+      position: Graduate Student, Lead Software Engineer
     - end_year: 2015
       begin_year: 2015
       location: Upton, NY
@@ -126,7 +132,25 @@ cwright:
   orcid_id: 0000-0003-2522-7028
   position: Graduate Student, Lead Developer
   service:
-    - name: QSTEM Outreach Coordinator and Treasurer/Co-President
+    - name: Foundations of Research Computing Advisory Board Member
+      year: 2017
+      other:
+        - 'Website: https://rcfoundations.research.columbia.edu'
+        - Building a computing community at Columbia via training, events, and lectures.
+    - name: Conda-Forge Core Developer
+      year: 2018
+      other:
+        - Building a cross-platform, cross-language software packaging ecosystem
+        - Focused on automating processies for speed and reliability
+    - name: Conda-Forge Autotick Bot Committe Chair
+      year: 2018
+      other:
+        - Chair the committe for the Conda-Forge Autotick Bot, which keeps conda-forge
+          up to date.
+        - In addition to being the lead developer, I guide the future of the bot and
+          keep the infrastucture running, helping to solve problems and push our automation
+          further.
+    - name: QSTEM Outreach Coordinator and Treasurer/Co-President/President
       year: 2016
       other:
         - Mission of fostering a community of LGBTQ+ students pursuing STEM fields
@@ -264,6 +288,32 @@ cwright:
     - level: intermediate
       category: Experiments
       name: Electron Microscopy
+  teaching:
+    - course: Nanomaterials
+      description: Helped students understand fundamental concepts in nanomaterials,
+        graded homeworks, and reviewed term papers.
+      end_month: December
+      end_year: 2016
+      month: September
+      organization: columbiau
+      year: 2016
+      position: Teaching Assistant/Grader
+    - course: Introduction to Data Science for Industry
+      description: Helped students debug their software, and understand the basic
+        mathematics of Data Science.
+      end_month: May
+      month: January
+      organization: columbiau
+      year: 2017
+      end_year: 2017
+      position: Teaching Assistant/Grader
+    - course: Programming in Python
+      description: Instructed 40+ students in the basics of Unix, Git, and Python
+      month: August
+      year: 2018
+      organization: colubmiau
+      position: Instructor
+      website: https://columbiaswc.github.io/2018-08-27-Columbia-A/
   title: Mr.
 eculbertson:
   aka:
