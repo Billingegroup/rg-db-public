@@ -325,6 +325,17 @@ mpi:
       name: Institute for Solid State Physics
   name: Max Planck Institute
   state: ''
+msk:
+  aka:
+    - MSK
+    - Sloan Kettering
+    - Memorial Sloan Kettering Cancer Center
+  city: New York
+  country: USA
+  name: Memorial Sloan Kettering Cancer Center
+  state: New York
+  street: 1275 York Avenue
+  zip: 10065
 msu:
   aka:
     - MSU
