@@ -587,6 +587,22 @@ ucopenhagen:
   name: University of Copenhagen
   state: ''
   zip: ''
+udelaware:
+  aka:
+    - Delaware
+    - U Delaware
+    - udel
+  city: Newark
+  country: USA
+  departments:
+    physics:
+      name: Department of Physics and Astronomy
+      aka:
+        - physics
+  name: University of Delaware
+  state: DE
+  street: ''
+  zip: 19716
 uduisburgessen:
   aka:
     - The University of Duisburg-Essen
@@ -853,19 +869,3 @@ vanderbiltu:
   state: Tennessee
   street: 2201 West End Ave
   zip: 37235
-udelaware:
-  aka:
-    - Delaware
-    - U Delaware
-    - udel
-  city: Newark
-  country: USA
-  departments:
-    physics:
-      name: Department of Physics and Astronomy
-      aka:
-        - physics
-  name: University of Delaware
-  street: ""
-  zip: 19716
-  state: DE
