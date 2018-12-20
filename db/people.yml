@@ -1655,3 +1655,30 @@ zguguchia:
       position: Post Doctoral Associate
   name: Zurab Guguchia
   position: Scientist
+zzgong:
+  aka:
+    - zgong
+    - ZiZhou Gong
+  avatar:
+  bio:
+  education:
+    - institution: columbiau
+      degree: MS/PhD in Physics
+      group: bg
+      other:
+        - 'Adviser: Simon Billinge and Yasutomo Uemura'
+      department: physics
+      begin_year: 2013
+      end_year: 2018
+  employment:
+    - begin_year: 2018
+      location: San Jose, CA
+      other:
+        - ''
+      position: Senior Optical Engineer
+      organization: Hermes Microvision
+  name: ZiZhou Gong
+  position: Senior Optical Engineer
+  service: []
+  skills: []
+  title: ''
