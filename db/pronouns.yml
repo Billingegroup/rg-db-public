@@ -1,0 +1,18 @@
+female:
+  HeShe: She
+  HimHer: Her
+  HisHer: Her
+  HisHers: Hers
+  heshe: she
+  himher: her
+  hisher: her
+  hishers: hers
+male:
+  HeShe: He
+  HimHer: Him
+  HisHer: His
+  HisHers: His
+  heshe: he
+  himher: him
+  hisher: his
+  hishers: his
