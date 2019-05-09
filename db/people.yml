@@ -510,9 +510,29 @@ sbillinge:
     - S. J. L. Billinge
     - Billinge, Simon J. L.
     - Simon Billinge
+    - Simon J L Billinge
+    - SJL Billinge
+    - S.J.L. Billinge
+    - Simon JL Billinge
+    - sbillinge
     - Simon John Laird Billinge
   avatar: https://github.com/sbillinge.png
-  bio: ''
+  bio: "Prof. Billinge has more than 20 years experience developing and applying techniques\
+    \ to study local structure in materials using x-ray, neutron and electron diffraction.\
+    \ He earned his Ph.D in Materials Science and Engineering from University of Pennsylvania\
+    \ in 1992. After 13 years as a faculty member at Michigan State University, in\
+    \ 2008 he took up his current position as Professor of Materials Science and Applied\
+    \ Physics and Applied Mathematics at Columbia University and Physicist at Brookhaven\
+    \ National Laboratory.\nProf. Billinge has published more than 200 papers in scholarly\
+    \ journals. He is a fellow of the American Physical Society and the Neutron Scattering\
+    \ Society of America, a former Fulbright and Sloane fellow and has earned a number\
+    \ of awards including the 2018 Warren Award of the American Crystallographic Association\
+    \ and being honored in 2011 for contributions to the nation as an immigrant by\
+    \ the Carnegie Corporation of New York, the 2010 J. D. Hanawalt Award of the International\
+    \ Center for Diffraction Data, University Distinguished Faculty award at Michigan\
+    \ State, the Thomas H. Osgood Undergraduate Teaching Award. He is Section Editor\
+    \ of Acta Crystalographica Section A: Advances and Foundations. He regularly chairs\
+    \ and participates in reviews of major facilities and federally funded programs."
   education:
     - institution: uoxford
       begin_year: 1982
@@ -580,13 +600,13 @@ sbillinge:
       other:
         - 'Advisor: George Kwei'
   funding: []
+  initials: SJLB
   membership: []
   name: Simon J. L. Billinge
   orcid_id: 0000-0002-9734-4998
   position: Professor
   service: []
   skills: []
-  teaching: []
 sstao:
   aka:
     - Songsheng Tao
