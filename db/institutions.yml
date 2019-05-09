@@ -105,6 +105,20 @@ bnl:
   name: Brookhaven National Laboratory
   state: NY
   zip: 11973
+byu:
+  aka:
+    - BYU
+    - Brigham Young University
+  city: Provo
+  country: USA
+  departments:
+    physics:
+      aka:
+        - phy
+        - phys
+      name: Physics
+  name: Brigham Young University
+  state: UT
 ccny:
   aka:
     - City College
@@ -194,20 +208,6 @@ drexelu:
       name: College of Engineering
   state: PA
   zip: 19104
-byu:
-  aka:
-    - BYU
-    - Brigham Young University
-  city: Provo
-  country: USA
-  departments:
-    physics:
-      aka:
-        - phy
-        - phys
-      name: Physics
-  name: Brigham Young University
-  state: UT
 esrf:
   aka:
     - European Synchrotron Radiation Facility
