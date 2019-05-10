@@ -1,10 +1,13 @@
 chliu:
+  active: true
   aka:
     - Timothy Liu
     - Tim Liu
     - Chia-Hao Liu
     - Liu, Chia-Hao
     - Liu, C-H.
+  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  bio: bio
   education:
     - institution: Columbia University
       begin_year: 2014
@@ -14,6 +17,14 @@ chliu:
       department: apam
       degree: MS/PhD in Applied Physics
   email: cl3077@columbia.edu
+  employment:
+    - begin_month: 6
+      begin_year: 2015
+      end_year: 2019
+      group: bg
+      organization: Columbia University
+      position: Graduate Student
+      status: phd
   name: Chia-Hao (Timothy) Liu
   orcid_id: 0000-0002-3216-0354
   position: Graduate Student
@@ -23,6 +34,7 @@ chliu:
       name: Python
   title: Mr.
 cwright:
+  active: true
   aka:
     - Christopher J. Wright
     - Wright, Christopher J.
@@ -77,6 +89,13 @@ cwright:
       gpa: 3.49
   email: cjwright4242@gmail.com
   employment:
+    - begin_month: 9
+      begin_year: 2016
+      end_year: 2019
+      group: bg
+      organization: Columbia University
+      position: Graduate Student Assistant
+      status: phd
     - end_year: 2015
       begin_year: 2015
       location: Upton, NY
@@ -266,6 +285,7 @@ cwright:
       name: Electron Microscopy
   title: Mr.
 eculbertson:
+  active: true
   aka:
     - E Culbertson
     - E. Culbertson
@@ -314,6 +334,13 @@ eculbertson:
       gpa: 3.85
   email: elizabeth.a.culbertson@gmail.com
   employment:
+    - begin_month: 6
+      begin_year: 2017
+      end_year: 2019
+      group: bg
+      organization: Columbia University
+      position: Graduate Student
+      status: phd
     - end_year: 2015
       begin_year: 2015
       location: Stanford, CA
@@ -359,6 +386,7 @@ eculbertson:
   skills: []
   title: ''
 jcalamari:
+  active: false
   aka:
     - Calamari, Justin
     - J Calamari
@@ -384,7 +412,9 @@ jcalamari:
     - position: Undergraduate Research Assistant
       location: New York, NY
       begin_year: 2015
+      end_year: 2017
       organization: The Billinge Group, Columbia University
+      status: undergrad
     - end_year: 2017
       position: Undergraduate Research Fellow
       location: Gaithersburg, MD
@@ -432,7 +462,103 @@ jcalamari:
     - level: beginner
       category: Specialized Software
       name: SolidWorks
+jgong:
+  aka:
+    - James Gong
+  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  bio: bio
+  education:
+    - begin_year: 2014
+      degree: PhD in Physics
+      institution: Columbia University
+  employment:
+    - begin_year: 2016
+      begin_month: 1
+      end_month: 3
+      end_year: 2018
+      status: phd
+      position: Graduate Student Assistant
+    - begin_year: 2018
+      begin_month: 4
+      organization: Hermes Microvision
+      address: San Jose, CA
+      position: Engineer
+  name: Zizhou Gong
+  position: Engineer
+lyang:
+  active: true
+  aka:
+    - Long Yang
+  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  bio: bio
+  education:
+    - begin_year: 2017
+      begin_month: 1
+      degree: PhD in Materials Science
+      institution: Columbia University
+    - begin_year: 2015
+      begin_month: 9
+      end_year: 2016
+      end_month: 12
+      degree: Masters in Materials Science
+      institution: Columbia University
+  employment:
+    - begin_year: 2016
+      begin_month: 1
+      end_month: 12
+      end_year: 2020
+      status: phd
+      position: Graduate Student Assistant
+  name: Long Yang
+  position: Graduate Student
+minimumperson:
+  active: true
+  aka:
+    - other names
+  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  bio: bio
+  education:
+    - begin_year: 2019
+      degree:
+      institution: Columbia University
+  employment:
+    - begin_year: 1971
+      begin_month: 1
+      end_month: 3
+      end_year: 1972
+      status: phd
+      position: Graduate Student Assistant
+  name: name
+  position: undergrad
+mterban:
+  active: false
+  aka:
+    - Max Terban
+    - Maxwell Terban
+    - M. Terban
+  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  bio: bio
+  education:
+    - begin_year: 2013
+      begin_month: 1
+      degree: PhD in Materials Science
+      institution: Columbia University
+      end_year: 2017
+      end_month: 8
+  employment:
+    - begin_year: 2017
+      begin_month: 9
+      position: Post Doctoral Associate
+    - begin_year: 2013
+      begin_month: 1
+      end_month: 8
+      end_year: 2017
+      status: phd
+      position: Graduate Student Assistant
+  name: Maxwell Terban
+  position: Post-doctoral Associate
 mwaddell:
+  active: true
   aka:
     - Michael Waddell
     - Michael A. Waddell
@@ -456,26 +582,89 @@ mwaddell:
       end_year: 2017
       department: Applied Analytics
       degree: MS in Applied Analytics
-    - institution: Columbia University
-      begin_year: 2018
-      group: bg
-      department: Applied Physics and Applied Mathematics
-      degree: MS/PhD in Materials Science
-      other:
-        - 'Adviser: Simon Billinge'
   employment:
-    - institution: ORNL
+    - organization: ORNL
       begin_year: 2016
       end_year: 2016
       position: intern
-    - institution: Goldman Sachs
+    - organization: Goldman Sachs
       position: PhD student
       begin_year: 2018
       group: bg
+    - organization: Columbia University
+      position: PhD student
+      begin_year: 2018
+      end_year: 2019
+      group: bg
+      status: phd
   name: Michael A. Waddell
   orcid_id: 0000-0003-0908-7571
   position: PhD student
+nfuller:
+  active: false
+  aka:
+    - N Fuller
+  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  bio: bio
+  education:
+    - begin_year: 2013
+      begin_month: 1
+      degree: PhD in Materials Science
+      institution: Columbia University
+      end_year: 2017
+      end_month: 8
+  employment:
+    - begin_year: 2015
+      begin_month: 9
+      end_month: 8
+      end_year: 2017
+      status: ms
+      position: Masters student researcher
+  name: Neno Fuller
+  position: Masters Student
+rgu:
+  active: true
+  aka:
+    - Ran Gu
+  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  bio: bio
+  education:
+    - begin_year:
+      begin_month:
+      degree: PhD in Applied Mathematics
+      institution:
+      end_year: 2017
+      end_month: 8
+  employment:
+    - begin_year: 2017
+      begin_month: 9
+      end_month: 9
+      end_year: 2020
+      status: postdoc
+      position: Post Doctoral Researcher
+  name: Ran Gu
+  position: Post Doctoral Researcher
+sbandi:
+  active: true
+  aka:
+    - Sasaank Bandi
+  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  bio: bio
+  education:
+    - begin_year: 2019
+      degree: BSc
+      institution: Columbia University
+  employment:
+    - begin_year: 2017
+      begin_month: 9
+      end_month: 6
+      end_year: 2019
+      status: undergrad
+      position: Undergraduate Research
+  name: Sasaank Bandi
+  position: Graduate Studenet
 sbanerjee:
+  active: true
   aka:
     - sojam
     - bajam
@@ -496,6 +685,14 @@ sbanerjee:
       end_year: 2012
       location: Winston-Salem, NC
   email: sb3519@columbia.edu
+  employment:
+    - begin_month: 6
+      begin_year: 2014
+      end_year: 2019
+      group: bg
+      organization: Columbia University
+      position: Graduate Student
+      status: phd
   name: Soham Banerjee
   orcid_id: 0000-0001-9271-493X
   position: Graduate Student
@@ -505,6 +702,7 @@ sbanerjee:
       name: Python
   title: Mr.
 sbillinge:
+  active: true
   aka:
     - Simon J. L. Billinge
     - S. J. L. Billinge
@@ -561,53 +759,62 @@ sbillinge:
           Applied Mathematics'
       department: apam
       position: Professor
+      status: pi
     - department: cmpms
       institution: bnl
       position: Physicist
       begin_year: 2008
       group: xray
+      status: pi
     - institution: ill
       position: Visiting Scientist
       begin_year: 2012
       end_year: 2012
+      status: pi
     - institution: esrf
       position: Visiting Scientist
       begin_year: 2011
       end_year: 2012
+      status: pi
     - department: physics
       institution: msu
       position: Professor
       begin_year: 2003
       end_year: 2007
+      status: pi
     - institution: uroma
       position: Visiting Professor
       begin_year: 2001
       end_year: 2002
+      status: pi
     - department: physics
       institution: msu
       position: Associate Professor
       begin_year: 1999
       end_year: 2003
+      status: pi
     - department: physics
       institution: msu
       position: Assistant Professor
       begin_year: 1994
       end_year: 1999
+      status: pi
     - department: mst
       institution: lanl
       position: Director's Post-doctoral Research Fellow
       end_year: 1994
       other:
         - 'Advisor: George Kwei'
+      status: postdoc
   funding: []
   initials: SJLB
   membership: []
   name: Simon J. L. Billinge
   orcid_id: 0000-0002-9734-4998
   position: Professor
-  service: []
   skills: []
 sstao:
+  active: true
   aka:
     - Songsheng Tao
     - Tao, Songsheng
@@ -634,9 +841,123 @@ sstao:
       end_year: 2017
       location: Beijing, China
   email: st3107@columbia.edu
+  employment:
+    - begin_month: 6
+      begin_year: 2017
+      end_year: 2021
+      group: bg
+      organization: Columbia University
+      position: Graduate Student
+      status: phd
   name: Songsheng Tao
   orcid_id: 0000-0002-7565-3503
   position: Graduate Student
 syxue:
+  active: false
+  aka:
+    - other names
+  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  bio: bio
+  education:
+    - begin_year: 2015
+      degree:
+      institution: Columbia University
+  employment:
+    - begin_month: 6
+      begin_year: 2015
+      end_year: 2018
+      group: bg
+      organization: Columbia University
+      position: Undergraduate Research
+      status: undergrad
   name: Shuyue Xue
   position: Researcher
+xyun:
+  active: false
+  aka:
+    - Xin Yun
+  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  bio: bio
+  education:
+    - begin_year: 2015
+      begin_month: 9
+      degree: BSc
+      institution: Columbia University
+      end_year: 2019
+      end_month: 6
+  employment:
+    - begin_year: 2017
+      begin_month: 9
+      end_month: 5
+      end_year: 2019
+      status: undergrad
+      position: Undergraduate research
+  name: Xin Yun
+  position: Graduate Student
+yrakita:
+  active: true
+  aka:
+    - Yevgeny Rakita
+  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  bio: bio
+  education:
+    - begin_year:
+      begin_month:
+      degree: PhD in Materials Science
+      institution: Weizmann Institute
+      end_year: 2018
+      end_month: 6
+  employment:
+    - begin_year: 2015
+      begin_month: 9
+      end_month: 8
+      end_year: 2017
+      status: postdoc
+      position: Post Doctoral Associate
+  name: Yevgeny Rakita
+  position: Post Doctoral Associate
+ytao:
+  active: false
+  aka:
+    - Yunzhe Tao
+  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  bio: bio
+  education:
+    - begin_year: 2013
+      begin_month: 1
+      degree: PhD in Materials Science
+      institution: Columbia University
+      end_year: 2017
+      end_month: 8
+  employment:
+    - begin_year: 1971
+      begin_month: 1
+      end_month: 3
+      end_year: 1972
+      status: outsider
+      position: Graduate Student Assistant
+  name: Yunzhe Tao
+  position: Post Doctoral Associate
+zguguchia:
+  active: false
+  aka:
+    - Zurab Guguchia
+  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  bio: bio
+  education:
+    - begin_year: 2019
+      degree:
+      institution: Columbia University
+  employment:
+    - begin_year: 2018
+      begin_month: 6
+      organization: Paul Scherrer Institute, Switzerland
+      position: Scientist
+    - begin_year: 2016
+      begin_month: 9
+      end_month: 6
+      end_year: 2018
+      status: postdoc
+      position: Post Doctoral Associate
+  name: Zurab Guguchia
+  position: Scientist
