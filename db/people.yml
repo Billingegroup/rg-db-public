@@ -18,7 +18,7 @@ chliu:
       degree: MS/PhD in Applied Physics
   email: cl3077@columbia.edu
   employment:
-    - begin_month: 6
+    - begin_month: 7
       begin_year: 2015
       end_year: 2019
       group: bg
@@ -334,8 +334,9 @@ eculbertson:
       gpa: 3.85
   email: elizabeth.a.culbertson@gmail.com
   employment:
-    - begin_month: 6
+    - begin_month: 9
       begin_year: 2017
+      end_month: 5
       end_year: 2019
       group: bg
       organization: Columbia University
@@ -503,7 +504,7 @@ lyang:
       degree: Masters in Materials Science
       institution: Columbia University
   employment:
-    - begin_year: 2016
+    - begin_year: 2017
       begin_month: 1
       end_month: 12
       end_year: 2020
@@ -807,11 +808,81 @@ sbillinge:
         - 'Advisor: George Kwei'
       status: postdoc
   funding: []
+  google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
+  honors:
+    - name: Warren Award of the American Crystallographic Association
+      year: 2018
+    - name: University of Wisconsin-Madison, School of Pharmacy, Busse Lecturer
+      year: 2018
+    - year: 2015
+      name: Texas A&M Clearfield Endowed Lecturer
+    - year: 2014
+      name: Fellow of the Neutron Scattering Society of America
+    - year: 2012
+      name: Neutron Scattering Society of America Service Award for outstanding service
+    - year: 2012
+      name: 'Editor of Acta Crystallographica Section A: Foundations of Crystallography'
+    - year: 2011
+      name: Fulbright Research Scholar
+    - year: 2011
+      name: Carnegie Foundation of New York honored as one of 24 Outstanding Immigrants
+    - year: 2011
+      name: 'Co-editor of Journal Acta Crystallographica Section A: Foundations of
+        Crystallography'
+    - year: 2010
+      name: J. D.  Hanawalt Award of the International Center for Diffraction Data
+    - year: 2007
+      name: University Distinguished Faculty Award, Michigan State University
+    - year: 2006
+      name: Fellow, American Physical Society
+    - year: 2006
+      name: Michigan State University, College of  Natural Science, Distinguished
+        Faculty Award
+    - year: 1998
+      name: Thomas H. Osgood Undergraduate Teaching Award
+    - year: 1995
+      name: Alfred P. Sloan Research Fellowship
+    - year: 1992
+      name: Sigma Xi Outstanding thesis award, U. Pennsylvania
+    - year: 1992
+      name: Electro-science Laboratories Award, U. Pennsylvania
   initials: SJLB
   membership: []
   name: Simon J. L. Billinge
   orcid_id: 0000-0002-9734-4998
   position: Professor
+  research_focus_areas:
+    - description: Solving the nanostructure inverse problem (finding the location
+        of atoms in nanomaterials and nanostructured bulk materials)
+      begin_year: 2010
+    - description: Developing concepts in materials genomics, towards predictive synthesis
+        of new materials, by developing and applying concepts in graph theory, machine
+        learning and statistics
+      begin_year: 2014
+    - description: Broadening the use of the atomic pair distribution function method
+      begin_year: 1987
+    - description: Understanding the physics of strongly correlated electron materials
+        by studying their nanoscale electronic and magnetic textures
+      begin_year: 1987
+    - description: Local structure property relationships of disordered crystals and
+        nanocrystals using advanced x-ray and neutron diffraction techniques.
+      begin_year: 1987
+    - description: Developing the Atomic Pair Distribution Function method and applying
+        it to complex materials.
+      begin_year: 1987
+    - description: Single crystal diffuse scattering and total scattering studies.
+      begin_year: 1987
+    - description: Studies of charge localization and nanoscale inhomogeneous electronic
+        states in complex electronic oxides.
+      begin_year: 1987
+    - description: Studies of semiconductor alloys and microporous materials.
+      begin_year: 1987
+    - description: Local structure of biologically relevant molecules and materials
+        in the excited state.
+      begin_year: 1987
+    - description: More information about my research, (p)reprints, and a complete
+        publication list, can be found at http://thebillingegroup.com/
+      begin_year: 1987
   skills: []
 sstao:
   active: true
