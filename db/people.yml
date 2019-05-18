@@ -1,3 +1,31 @@
+bfrandsen:
+  active: false
+  aka:
+    - Ben Frandsen
+  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  bio: bio
+  education:
+    - begin_year: 2011
+      begin_month: 9
+      degree: PhD in Physics
+      institution: Columbia University
+      end_year: 2016
+      end_month: 4
+  employment:
+    - begin_year: 2016
+      begin_month: 5
+      position: Post Doctoral Associate
+      organization: University of California, Berkeley
+    - begin_year: 2012
+      organization: Columbia University
+      begin_month: 6
+      end_month: 4
+      end_year: 2016
+      status: phd
+      group: bg
+      position: Graduate Student Assistant
+  name: Ben Frandsen
+  position: Assistant Professor
 chliu:
   active: true
   aka:
@@ -284,6 +312,99 @@ cwright:
       category: Experiments
       name: Electron Microscopy
   title: Mr.
+cyshi:
+  active: false
+  aka:
+    - Chenyang Shi
+  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  bio: bio
+  education:
+    - begin_year: 2012
+      begin_month: 5
+      degree: PhD in Materials Science
+      institution: Columbia University
+      end_year: 2015
+      end_month: 8
+  employment:
+    - begin_year: 2015
+      begin_month: 9
+      position: Scientist
+      organization: Abbott Pharmaceuticals
+    - begin_year: 2012
+      begin_month: 5
+      end_month: 8
+      group: bg
+      end_year: 2015
+      status: phd
+      position: Graduate Student Assistant
+  name: Chenyang Shi
+  position: Scientist
+ebozin:
+  active: true
+  aka:
+    - Emil Bozin
+    - ES Bozin
+    - E. S. Bozin
+  avatar: https://avatars0.githubusercontent.com/u/37090959?s=400&u=a94748131d06d93dfcaa6144e497870755cd2fea&v=4
+  bio: bio
+  education:
+    - institution: Michigan State University
+      begin_year: 1996
+      end_year: 2003
+      location: East Lansing, MI
+      department: Department of Physics and Astronomy
+      degree: PhD in Physics
+      other:
+        - 'Adviser: Simon Billinge'
+    - institution: Michigan State University
+      begin_year: 1996
+      end_year: 1999
+      location: East Lansing, MI
+      department: Department of Physics and Astronomy
+      degree: MS in Physics
+      other:
+    - institution: Michigan State University
+      begin_year: 1999
+      end_year: 2001
+      location: East Lansing, MI
+      department: Department of Electrical Engineering
+      degree: M.Sc in Electrical Engineering
+      other:
+    - institution: University of Belgrade
+      begin_year: 1991
+      end_year: 1995
+      location: Belgrade, Serbia
+      department: Department of Physics
+      degree: B.Sc in Theoretical Physics
+      other:
+  email: ebozin@bnl.gov
+  employment:
+    - begin_month: 11
+      begin_year: 2012
+      end_year: 2030
+      group: bg
+      organization: Brookhaven National Laboratory
+      position: Associate Scientist
+      status: postdoc
+    - begin_month: 11
+      begin_year: 2010
+      end_year: 2012
+      end_month: 11
+      group: bg
+      organization: Brookhaven National Laboratory
+      position: Assistant Scientist
+      status: postdoc
+    - end_month: 11
+      end_year: 2010
+      begin_year: 2008
+      begin_month: 7
+      group: bg
+      organization: Columbia University
+      position: Associate Research Scientist
+      status: postdoc
+  name: Emil S. Bozin
+  orcid_id:
+  position: Associate Scientist
 eculbertson:
   active: true
   aka:
@@ -554,6 +675,7 @@ mterban:
       begin_month: 1
       end_month: 8
       end_year: 2017
+      group: bg
       status: phd
       position: Graduate Student Assistant
   name: Maxwell Terban
@@ -645,6 +767,35 @@ rgu:
       position: Post Doctoral Researcher
   name: Ran Gu
   position: Post Doctoral Researcher
+rkoch:
+  active: true
+  aka:
+    - Robert Koch
+    - R. Koch
+  avatar: https://avatars0.githubusercontent.com/u/37090959?s=400&u=a94748131d06d93dfcaa6144e497870755cd2fea&v=4
+  bio: bio
+  education:
+    - institution: University of Trento
+      begin_year: 2012
+      end_year: 2016
+      location: Trento, MI
+      department: Physics and Astronomy
+      degree: PhD in Physics
+      other:
+        - 'Advisers: Paolo Scardi, Matteo Leoni'
+  email: rkoch@bnl.gov
+  employment:
+    - begin_month: 9
+      begin_year: 2018
+      end_year: 2020
+      end_month: 9
+      group: bg
+      organization: Brookhaven National Laboratory
+      position: Post Doctoral Associate
+      status: postdoc
+  name: Robert Koch
+  orcid_id:
+  position: Associate Scientist
 sbandi:
   active: true
   aka:
@@ -867,18 +1018,7 @@ sbillinge:
     - description: Local structure property relationships of disordered crystals and
         nanocrystals using advanced x-ray and neutron diffraction techniques.
       begin_year: 1987
-    - description: Developing the Atomic Pair Distribution Function method and applying
-        it to complex materials.
-      begin_year: 1987
-    - description: Single crystal diffuse scattering and total scattering studies.
-      begin_year: 1987
-    - description: Studies of charge localization and nanoscale inhomogeneous electronic
-        states in complex electronic oxides.
-      begin_year: 1987
-    - description: Studies of semiconductor alloys and microporous materials.
-      begin_year: 1987
-    - description: Local structure of biologically relevant molecules and materials
-        in the excited state.
+    - description: Local structure of organic molecules and materials.
       begin_year: 1987
     - description: More information about my research, (p)reprints, and a complete
         publication list, can be found at http://thebillingegroup.com/
@@ -943,6 +1083,38 @@ syxue:
       status: undergrad
   name: Shuyue Xue
   position: Researcher
+xhyang:
+  active: false
+  aka:
+    - Xiaohao Yang
+  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  bio: bio
+  education:
+    - begin_year: 2011
+      begin_month: 9
+      degree: PhD in Materials Science
+      institution: Columbia University
+      end_year: 2015
+      end_month: 6
+  employment:
+    - begin_year: 2017
+      begin_month: 6
+      position: Software Engineer
+      organization: Google
+    - begin_year: 2015
+      begin_month: 6
+      position: Programmer
+      organization: JP Morgan Chase
+      end_month: 6
+      end_year: 2017
+    - begin_year: 2011
+      begin_month: 9
+      end_month: 6
+      end_year: 2015
+      status: phd
+      position: Graduate Student Assistant
+  name: XiaoHao Yang
+  position: Software Developer
 xyun:
   active: false
   aka:
