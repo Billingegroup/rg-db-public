@@ -14,7 +14,7 @@ bfrandsen:
   employment:
     - begin_year: 2016
       begin_month: 5
-      position: Post Doctoral Associate
+      position: Post-doctoral Scholar
       organization: University of California, Berkeley
     - begin_year: 2012
       organization: Columbia University
@@ -23,9 +23,9 @@ bfrandsen:
       end_year: 2016
       status: phd
       group: bg
-      position: Graduate Student Assistant
+      position: Graduate Research Assistant
   name: Ben Frandsen
-  position: Assistant Professor
+  position: assistant professor
 chliu:
   active: true
   aka:
@@ -55,7 +55,7 @@ chliu:
       status: phd
   name: Chia-Hao (Timothy) Liu
   orcid_id: 0000-0002-3216-0354
-  position: Graduate Student
+  position: graduate research assistant
   skills:
     - level: proficient
       category: Programming Languages
@@ -171,7 +171,7 @@ cwright:
       organization: American Physical Society
   name: Christopher J. Wright
   orcid_id: 0000-0003-2522-7028
-  position: Graduate Student, Lead Developer
+  position: graduate research assistant
   service:
     - name: QSTEM Outreach Coordinator and Treasurer/Co-President
       year: 2016
@@ -503,7 +503,7 @@ eculbertson:
       organization: American Physical Society
   name: Elizabeth Culbertson
   orcid_id: 0000-0003-1939-7872
-  position: Graduate Student
+  position: graduate research assistant
   service: []
   skills: []
   title: ''
@@ -543,7 +543,7 @@ jcalamari:
       begin_year: 2017
       organization: National Institute of Standards and Technology
   name: Justin Calamari
-  position: Undergraduate Student
+  position: undergraduate research assistant
   skills:
     - level: expert
       category: Programming Languages

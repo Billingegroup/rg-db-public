@@ -35,8 +35,6 @@ astrazeneca:
     na:
       name: ''
   name: AstraZeneca
-  note:
-    - I don't know the departments so leave it blank
   schools: {}
   state: ''
   street: 15 Stanhope Gate
@@ -132,10 +130,11 @@ ccny:
       name: Department of Chemisty and Biochemistry
   name: The City College of New York
   schools:
-    aka:
-      - Grove School
-      - Grove
-    grove: The Grove School of Engineering
+    grove:
+      name: The Grove School of Engineering
+      aka:
+        - Grove School
+        - Grove
   state: NY
   street: 160 Convent Avenue
   zip: 10031
@@ -223,6 +222,14 @@ esrf:
   state: Rhone-Alps
   street: 71 Avenue des Martyrs
   zip: 38000
+ubern:
+  aka:
+    - Bern
+  name: University of Bern
+  city: Bern
+  country: Switzerland
+  state: ""
+  zip: ""
 ethzurich:
   aka:
     - ETH
@@ -256,6 +263,64 @@ ghentu:
   state: East Flanders
   street: St. Pietersnieuwstraat 33
   zip: 9000
+iccnrcomo:
+  aka:
+  city: Como
+  country: Italy
+  name: Istituto di Cristallographia, CNR
+  state: ""
+  zip: ''
+uosijek:
+  aka:
+    - University of Osijek
+  city: Osijek
+  country: Croatia
+  departments:
+    chemistry:
+      name: Department of Chemistry
+  name: Josip Juraj Strossmayer University of Osijek
+  state: ""
+  zip: ''
+aarhusu:
+  aka:
+    - U Aarhus
+  city: Aarhus
+  country: Denmark
+  departments:
+    inano:
+      name: Interdisciplinar Nanoscience Center (iNANO)
+  name: Aarhus University
+  state: ""
+  zip: ''
+gndu:
+  aka:
+    - GND University
+    - GNDU
+  city: Amritsar
+  country: India
+  departments:
+    physics:
+      name: Department of Physics
+  name: Guru Nanak Dev University
+  state: Punjab
+  zip: ''
+emba:
+  aka:
+    - EMBA
+  city: Zurich
+  country: Switzerland
+  name: EMBA
+  state: ""
+  zip: ''
+psi:
+  aka:
+    - PSI
+    - Paul Scherrer Institute
+  city: Villigen
+  country: Switzerland
+  name: Paul Scherrer Institute
+  state: ""
+  zip: ''
 gsk:
   aka:
     - Oxford
@@ -456,6 +521,30 @@ pekingu:
   state: ''
   street: 5 Yiheyuan Road
   zip: 100871
+uinsubria:
+  aka:
+    - Universita Insubria
+    - uninsubria
+  city: Como
+  country: Italy
+  departments:
+    physics:
+      name: Department of Physics
+  name: University of Insubria
+  state: ""
+  zip: ""
+srtmu:
+  aka:
+    - SRTMU
+    - Swami Ramanand Teerth Marathwada U
+  city: Nanded
+  country: India
+  departments:
+    physics:
+      name: Department of Physics
+  name: Swami Ramanand Teerth Marathwada University
+  state: Maharashtra
+  zip: ""
 puneu:
   aka:
     - University of Pune
@@ -498,8 +587,6 @@ riceu:
         - Chemistry
       name: Department of Chemistry
   name: Rice University
-  notes:
-    - 'host: Angel Marti'
   state: TX
   zip: 77251
 rutgersu:
@@ -672,14 +759,15 @@ ufrankfurt:
   state: ''
   zip: 60323
 uhamburg:
-  aka: University of Hamburg
+  aka:
+    - University of Hamburg
   city: Hamburg
   country: Germany
   departments:
     chyn:
       name: Center for Hybrid Nanostructures
   name: Universitat de Hamburg
-  state:
+  state: ''
   zip: fixme
 uhouston:
   aka: []

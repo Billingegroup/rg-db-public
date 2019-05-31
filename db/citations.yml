@@ -5433,40 +5433,43 @@ koch;arxiv19:
   volume: ''
   wwwemail: ''
   year: '2019'
-konst;arxiv19:
+konst;prb19:
   author:
     - Konstantinova, T.
     - Wu, L.
     - Abeykoon, M.
-    - Koch, R. ~J.
-    - Wang, A. ~F.
-    - Li, R. ~K.
+    - Koch, R. J.
+    - Wang, A. F.
+    - Li, R. K.
     - Shen, X.
     - Li, J.
     - Tao, J.
-    - Petrovic, I. ~A. Zaliznyak C.
-    - Billinge, S. ~J. ~L.
-    - Wang, X. ~J.
-    - Bozin, E. ~S.
+    - Zaliznyak, I. A.
+    - Petrovic, C.
+    - Billinge, S. J. L.
+    - Wang, X. J.
+    - Bozin, E. S.
     - Zhu, Y.
-  doi: ''
+  doi: '10.1103/PhysRevB.99.180102'
   entrytype: article
-  facility: ''
-  grant: ''
-  journal: ''
-  nb: ''
-  note: arXiv:1903.00799 [cond-mat.supr-con]
+  facility: '11bm, aps, pdf, nslsii'
+  grant: 'fwp17, typeB, fy19'
+  journal: Phys. Rev. B
+  nb: 'art, typeB, fy19'
+  optnote:
+   - arXiv:1903.00799 [cond-mat.supr-con]
+   - rapid communication
+   - editor's suggestion
   number: ''
-  optannote: ''
-  optwwwlanl: ''
-  optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
-  pages: ''
+  pages: 180102
   title: Photoinduced ultrafast dynamics of local nematicity and lattice distortions
-    in {FeSe} crystals
-  url: ''
-  volume: ''
+    in {{FeSe}} crystals
+  url: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.180102'
+  volume: 99
   wwwemail: ''
-  year: '2019'
+  day: 28
+  month: "May"
+  year: 2019
 kreme;jpcc11:
   author:
     - Kremenovic, A.
