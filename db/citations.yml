@@ -6095,21 +6095,23 @@ liu;aca19:
   author:
     - Liu, Chia-Hao
     - Tao, Yunzhe
-    - Billinge, Daniel J. Hsu Qiang Du Simon J. L.
-  doi: ''
+    - Hsu, Daniel J.
+    - Du, Qiang
+    - Billinge, Simon J. L.
+  doi: 10.1107/S2053273319005606
   entrytype: article
   facility: ''
   grant: dmref15
   journal: Acta Crystallogr. A
   nb: ''
-  note: submitted
+  note: accepted
   number: ''
   optannote: ''
   optwwwlanl: ''
-  optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
+  optwwwpub:
   pages: ''
   title: Using a machine learning approach to determine the space group of a structure
-    from the atomic pair distribution function (PDF)
+    from the atomic pair distribution function
   url: ''
   volume: ''
   wwwemail: ''
