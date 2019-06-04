@@ -5450,25 +5450,25 @@ konst;prb19:
     - Wang, X. J.
     - Bozin, E. S.
     - Zhu, Y.
-  doi: '10.1103/PhysRevB.99.180102'
+  day: 28
+  doi: 10.1103/PhysRevB.99.180102
   entrytype: article
-  facility: '11bm, aps, pdf, nslsii'
-  grant: 'fwp17, typeB, fy19'
+  facility: 11bm, aps, pdf, nslsii
+  grant: fwp17, typeB, fy19
   journal: Phys. Rev. B
-  nb: 'art, typeB, fy19'
-  optnote:
-   - arXiv:1903.00799 [cond-mat.supr-con]
-   - rapid communication
-   - editor's suggestion
+  month: May
+  nb: art, typeB, fy19
   number: ''
+  optnote:
+    - arXiv:1903.00799 [cond-mat.supr-con]
+    - rapid communication
+    - editor's suggestion
   pages: 180102
   title: Photoinduced ultrafast dynamics of local nematicity and lattice distortions
     in {{FeSe}} crystals
-  url: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.180102'
+  url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.180102
   volume: 99
   wwwemail: ''
-  day: 28
-  month: "May"
   year: 2019
 kreme;jpcc11:
   author:

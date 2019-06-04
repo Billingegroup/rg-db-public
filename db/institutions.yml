@@ -1,3 +1,14 @@
+aarhusu:
+  aka:
+    - U Aarhus
+  city: Aarhus
+  country: Denmark
+  departments:
+    inano:
+      name: Interdisciplinar Nanoscience Center (iNANO)
+  name: Aarhus University
+  state: ''
+  zip: ''
 addisababau:
   aka:
     - University College of Addis Ababa
@@ -207,6 +218,14 @@ drexelu:
       name: College of Engineering
   state: PA
   zip: 19104
+emba:
+  aka:
+    - EMBA
+  city: Zurich
+  country: Switzerland
+  name: EMBA
+  state: ''
+  zip: ''
 esrf:
   aka:
     - European Synchrotron Radiation Facility
@@ -222,14 +241,6 @@ esrf:
   state: Rhone-Alps
   street: 71 Avenue des Martyrs
   zip: 38000
-ubern:
-  aka:
-    - Bern
-  name: University of Bern
-  city: Bern
-  country: Switzerland
-  state: ""
-  zip: ""
 ethzurich:
   aka:
     - ETH
@@ -263,35 +274,6 @@ ghentu:
   state: East Flanders
   street: St. Pietersnieuwstraat 33
   zip: 9000
-iccnrcomo:
-  aka:
-  city: Como
-  country: Italy
-  name: Istituto di Cristallographia, CNR
-  state: ""
-  zip: ''
-uosijek:
-  aka:
-    - University of Osijek
-  city: Osijek
-  country: Croatia
-  departments:
-    chemistry:
-      name: Department of Chemistry
-  name: Josip Juraj Strossmayer University of Osijek
-  state: ""
-  zip: ''
-aarhusu:
-  aka:
-    - U Aarhus
-  city: Aarhus
-  country: Denmark
-  departments:
-    inano:
-      name: Interdisciplinar Nanoscience Center (iNANO)
-  name: Aarhus University
-  state: ""
-  zip: ''
 gndu:
   aka:
     - GND University
@@ -303,23 +285,6 @@ gndu:
       name: Department of Physics
   name: Guru Nanak Dev University
   state: Punjab
-  zip: ''
-emba:
-  aka:
-    - EMBA
-  city: Zurich
-  country: Switzerland
-  name: EMBA
-  state: ""
-  zip: ''
-psi:
-  aka:
-    - PSI
-    - Paul Scherrer Institute
-  city: Villigen
-  country: Switzerland
-  name: Paul Scherrer Institute
-  state: ""
   zip: ''
 gsk:
   aka:
@@ -339,6 +304,13 @@ gsk:
   state: Hertfordshire
   street: Gunnels Wood Road
   zip: SG1 2NY
+iccnrcomo:
+  aka:
+  city: Como
+  country: Italy
+  name: Istituto di Cristallographia, CNR
+  state: ''
+  zip: ''
 ill:
   aka:
     - ILL
@@ -521,30 +493,15 @@ pekingu:
   state: ''
   street: 5 Yiheyuan Road
   zip: 100871
-uinsubria:
+psi:
   aka:
-    - Universita Insubria
-    - uninsubria
-  city: Como
-  country: Italy
-  departments:
-    physics:
-      name: Department of Physics
-  name: University of Insubria
-  state: ""
-  zip: ""
-srtmu:
-  aka:
-    - SRTMU
-    - Swami Ramanand Teerth Marathwada U
-  city: Nanded
-  country: India
-  departments:
-    physics:
-      name: Department of Physics
-  name: Swami Ramanand Teerth Marathwada University
-  state: Maharashtra
-  zip: ""
+    - PSI
+    - Paul Scherrer Institute
+  city: Villigen
+  country: Switzerland
+  name: Paul Scherrer Institute
+  state: ''
+  zip: ''
 puneu:
   aka:
     - University of Pune
@@ -598,6 +555,18 @@ rutgersu:
   name: Rutgers University
   state: NJ
   zip: 08901-1281
+srtmu:
+  aka:
+    - SRTMU
+    - Swami Ramanand Teerth Marathwada U
+  city: Nanded
+  country: India
+  departments:
+    physics:
+      name: Department of Physics
+  name: Swami Ramanand Teerth Marathwada University
+  state: Maharashtra
+  zip: ''
 sunybuffalo:
   aka:
     - SUNY Buffalo
@@ -656,6 +625,14 @@ ubelgrade:
   name: University of Belgrade
   street: Studentski trg 1
   zip: 11000
+ubern:
+  aka:
+    - Bern
+  city: Bern
+  country: Switzerland
+  name: University of Bern
+  state: ''
+  zip: ''
 ucdavis:
   aka:
     - UC Davis
@@ -779,6 +756,18 @@ uhouston:
   name: University of Houston
   state: TX
   zip: fixme
+uinsubria:
+  aka:
+    - Universita Insubria
+    - uninsubria
+  city: Como
+  country: Italy
+  departments:
+    physics:
+      name: Department of Physics
+  name: University of Insubria
+  state: ''
+  zip: ''
 uiuc:
   aka:
     - UI Urbana-Champaign
@@ -832,6 +821,17 @@ unisa:
   name: University of Salerno
   state: ''
   zip: 84084
+uosijek:
+  aka:
+    - University of Osijek
+  city: Osijek
+  country: Croatia
+  departments:
+    chemistry:
+      name: Department of Chemistry
+  name: Josip Juraj Strossmayer University of Osijek
+  state: ''
+  zip: ''
 upenn:
   aka:
     - Penn
