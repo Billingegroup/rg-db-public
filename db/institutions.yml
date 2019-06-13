@@ -27,13 +27,25 @@ addisababau:
   state: ''
   zip: ''
 anl:
-  aka: []
+  aka:
+    - ANL
+    - Argonne
   city: Argonne
   country: USA
   departments:
+    aps:
+      name: Advanced Photon Source
     matsci:
       name: Materials Science Division
   name: Argonne National Laboratory
+  state: IL
+  zip: 60439
+aps:
+  aka:
+    - APS
+  city: Argonne
+  country: USA
+  name: Advanced Photon Source
   state: IL
   zip: 60439
 astrazeneca:
@@ -353,6 +365,19 @@ lanl:
   name: Los Alamos National Laboratory
   state: NM
   zip: 87545
+lbnl:
+  aka:
+    - LBNL
+  city: Berkeley
+  country: USA
+  departments:
+    als:
+      name: Advanced Light Source
+    molfound:
+      name: Molecular Foundry
+  name: Lawrence Berkeley National Laboratory
+  state: CA
+  zip: 94720
 lehighu:
   aka:
     - Lehigh
@@ -426,6 +451,20 @@ nist:
   state: MD
   street: 100 Bureau Drive
   zip: 20899
+nslsii:
+  aka:
+    - NSLS-II
+    - NSLSII
+    - NSLS-ii
+    - NSLS II
+    - NSLSii
+    - NSLS ii
+    - nsls-ii
+  city: Upton
+  country: USA
+  name: National Synchrotron Light Source II
+  state: NY
+  zip: 11973
 nyu:
   aka:
     - nyu

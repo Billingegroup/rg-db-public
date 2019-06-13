@@ -2333,7 +2333,7 @@ bozin;s10:
   doi: 10.1126/science.1192759
   entrytype: article
   facility: ' mlnsc, npdf, aps, id11 '
-  grant: ' fwp '
+  grant: ' fwp17 '
   journal: Science
   nb: ' art, hilite, typeA '
   number: ''
@@ -2350,7 +2350,7 @@ bozin;s10:
 bozin;sr14:
   author:
     - Bo\v{z}in, E. S.
-    - Knox, K. ~R.
+    - Knox, K. R.
     - Juh\'{a}s, P.
     - Hor, Y. S.
     - Mitchell, J. F.
@@ -4185,6 +4185,30 @@ ghidi;cc14:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/ghidi_cc14.pdf
   year: '2014'
+gong;aca18:
+  author:
+    - Gong, James
+    - Billinge, Simon J. L.
+  day: 25
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: fwp17, typeA, fy19
+  journal: ''
+  month: May
+  nb: art, typeA, fy19
+  note: arXiv:1805.10342 [cond-mat.mtrl-sci]
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  optwwwpub: ''
+  pages: ''
+  title: 'Atomic pair distribution functions ({PDF}s) from textured polycrystalline
+    samples: fundamentals'
+  url: https://arxiv.org/abs/1805.10342
+  volume: ''
+  wwwemail: ''
+  year: '2019'
 gorel;mam15:
   author:
     - Gorelik, Tatiana E.
