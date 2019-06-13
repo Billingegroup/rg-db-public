@@ -9568,3 +9568,33 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
+xiao;am19:
+  author:
+    - Xu Xiao
+    - Hao Wang
+    - Weizhai Bao
+    - Patrick Urbankowski
+    - Long Yang
+    - Yao Yang
+    - Kathleen Maleski
+    - Linfan Cui
+    - Simon J. L. Billinge
+    - Guoxiu Wang
+    - Yury Gogotsi
+  doi:
+  entrytype: article
+  facility: ' xpd, nslsii '
+  grant: ' mrsec14 '
+  journal: Adv. Mater.
+  nb: ' art '
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages:
+  title: Two-dimensional arrays of transition metal nitride nanocrystals
+  url:
+  volume: ''
+  wwwemail: ''
+  wwwpub:
+  year: '2019'
