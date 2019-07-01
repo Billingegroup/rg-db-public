@@ -119,7 +119,7 @@ anaso;nh16:
   doi: 10.1039/C5NH00125K
   entrytype: article
   facility: ' xpd, nslsii '
-  grant: ' dmref '
+  grant: dmref15
   journal: Nanoscale Horiz.
   nb: ' art, hilite '
   note: ''
@@ -148,7 +148,7 @@ andon;c;tacolt:
     - Shamir, Ohad
   entrytype: inproceedings
   facility: ''
-  grant: dmref
+  grant: dmref15
   month: 07--10 Jul
   optwwwlanl: ''
   pages: 105--126
@@ -174,7 +174,7 @@ antic;jpcm13:
   doi: 10.1088/0953-8984/25/8/086001
   entrytype: article
   facility: ' aps, 6idd, npdf, mlnsc '
-  grant: ' fwp,'
+  grant: ' fwp11,'
   journal: 'J. Phys: Condens. Mat.'
   nb: ' art, emil, typeB'
   note: ''
@@ -256,12 +256,12 @@ baner;aca19:
     - Lee, Jennifer D.
     - Ackerson, Christopher J.
     - Murray, Christopher B.
-    - Billinge, Simon~J. ~L.
+    - Billinge, Simon J. L.
   doi: ''
   entrytype: article
   facility: ''
   grant: dmref15
-  journal: ''
+  journal: Acta Crystallogr. A
   nb: ''
   note: arXiv:1901.08754 [cond-mat.mtrl-sci]
   number: ''
@@ -276,6 +276,36 @@ baner;aca19:
   wwwemail: ''
   year: '2019'
 baner;jpcc18:
+  ackno: The authors thank Maxwell Terban and Kirsten Marie Jensen for measurements
+    of nanowire and cluster samples, suggestions for PDF data processing, data analysis,
+    and useful discussions. S.B. thanks Pavol Juhas for help with using ASE built
+    structures in CMI. S.B. also thanks Kateryna Loza, Simon Ristig, Alexander Rostek,
+    Bernhard Neuhaus, and Anna Ivanova for discussions on colloidal synthesis techniques
+    and nanoparticle characterization methods, a collaboration supported by the Deutscher
+    Akademischer Austauschdienst (DAAD) within the joint exchange program PPP-USA
+    No. 57051864. Work in both the Billinge and Wong groups was supported by U.S.
+    Department of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES)
+    under contract No. DE-SC0012704. S.B. acknowledges support from the National Defense
+    Science and Engineering Graduate Fellowship (DOD-NDSEG) program. Work in the Murray
+    group was supported as part of the Catalysis Center for Energy Innovation, an
+    Energy Frontier Research Center funded by the U.S. Department of Energy, Office
+    of Science, Office of Basic Energy Sciences under Award Number DE-SC0001004. C.B.M.
+    and J.D.L. acknowledge Dr. Douglas Yates at the University of Pennsylvania for
+    assistance with HRTEM characterization at the Singh Center for Nanotechnology.
+    C.B.M. acknowledges the Richard Perry University Professorship at the University
+    of Pennsylvania. M.E. acknowledges financial support by the Deutsche Forschungsgemeinschaft
+    (DFG) in the project EP 22/44-1. Data collected at the Advanced Photon Source
+    at Argonne National Laboratory was supported by the U.S. Department of Energy,
+    Office of Science, Office of Basic Energy Sciences (DOE-BES), under Contract No.
+    DE-AC02-06CH11357. Data collected at beamline X17A of the National Synchrotron
+    Light Source was supported by the DOE-BES under contract No. DE-AC02-98CH10886.
+    We thank the European Synchrotron Radiation Facility for data collected at beamline
+    ID11. The majority of measurements presented in this paper were conducted on beamline
+    28-ID-2 (XPD), and most recently, at 28-ID-1 the new PDF beamline at the National
+    Synchrotron Light Source II at Brookhaven National Laboratory, a DOE-BES user
+    facility under Contract No. DE-SC0012704. We thank Eric Dooryhee, Sanjit Ghose,
+    Emil Bozin, and John Trunk for their assistance with data collection and guidance
+    with experimental setups at 28-ID-2.
   author:
     - Banerjee, Soham
     - Liu, Chia-Hao
@@ -291,11 +321,13 @@ baner;jpcc18:
     - Epple, Matthias
     - Murray, Christopher B.
     - Billinge, Simon J. L.
+  day: 26
   doi: 10.1021/acs.jpcc.8b05897
   entrytype: article
   facility: 'nsls, x17a, nslsii, xpd, pdf, esrf, id11, aps, 11idb '
   grant: fwp17, fy19, typeA
   journal: J. Phys. Chem. C
+  month: Nov
   nb: art, hilite, fy19, typeA
   number: '51'
   optannote: ''
@@ -394,6 +426,19 @@ beech;jacs14:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/beech_jacs14
   year: '2014'
 beech;prl19:
+  ackno: Work in the Billinge group was supported by U.S. Department of Energy, Office
+    of Science, Office of Basic Energy Sciences (DOE-BES) under Contract No. DESC0012704.
+    Work on the nanoparticle synthesis and characterization was supported by the National
+    Science Foundation through Contract No. NSF-CHF-1151172. This work made use of
+    the Advanced Photon Source which is supported by the U.S. Department of Energy,
+    Office of Science, Office of Basic Energy Sciences through Contract No. DE-AC02-06CH11357.
+    The x-ray PDF measurements were conducted on beam line 28-ID-2 of the National
+    Synchrotron Light Source II, a U.S. Department of Energy (DOE) Office of Science
+    User Facility operated for the DOE Office of Science by Brookhaven National Laboratory
+    under Contract No. DE-SC0012704. Computations made use of resources of the National
+    Energy Research Scientific Computing Center, a DOE Office of Science User Facility
+    supported by the Office of Science of the U.S. Department of Energy under Contract
+    No. DE-AC02-05CH11231.
   author:
     - Shi, Chenyang
     - Beecher, Alexander N.
@@ -403,11 +448,13 @@ beech;prl19:
     - Said, Ayman H.
     - Hu, Michael Y.
     - Billinge, Simon J. L.
-  doi: ''
+  day: 14
+  doi: 10.1103/PhysRevLett.122.026101
   entrytype: article
   facility: aps, herix, nslsii, xpd
   grant: fwp17, typeA, fy19
   journal: Phys. Rev. Lett.
+  month: Jan
   nb: typeA, fy19
   note: ''
   number: ''
@@ -416,7 +463,7 @@ beech;prl19:
   pages: '026101'
   title: Size-dependent lattice dynamics of atomically precise cadmium selenide quantum
     dots
-  url: ''
+  url: https://journals-aps-org.ezproxy.cul.columbia.edu/prl/abstract/10.1103/PhysRevLett.122.026101
   volume: '122'
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/19shiprl.pdf
@@ -436,7 +483,7 @@ berto;acsn17:
   doi: 10.1021/acsnano.7b00017
   entrytype: article
   facility: ' xpd, nslsii, fy17'
-  grant: 'fwp '
+  grant: 'fwp17 '
   journal: ACS Nano.
   nb: typeB2, fy17
   note: ''
@@ -493,7 +540,7 @@ bilbr;np11:
   doi: 10.1038/nphys1912
   entrytype: article
   facility: '  '
-  grant: ' fwp  '
+  grant: ' fwp11  '
   journal: Nat. Phys.
   nb: ' art, typeB '
   number: ''
@@ -503,7 +550,7 @@ bilbr;np11:
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: 298-302
   title: Temporal correlations of superconductivity above the transition temperature
-    in {La$_{2−x}$Sr$_x$CuO$_4$} probed by terahertz spectroscopy
+    in {La$_{2-x}$Sr$_x$CuO$_4$} probed by terahertz spectroscopy
   url: http://www.nature.com/nphys/journal/v7/n4/full/nphys1912.html
   volume: '7'
   wwwemail: ''
@@ -518,7 +565,7 @@ billi;4or18:
   doi: 10.1007/s10479-018-2989-6
   entrytype: article
   facility: '  '
-  grant: ' dmref '
+  grant: ' dmref15 '
   journal: Ann. Oper. Res.
   nb: ' art, '
   note: to be published
@@ -592,7 +639,7 @@ billi;b;datnndaam10:
     - Masciocchi, Norberto
   entrytype: inproceedings
   facility: ' '
-  grant: 'fwp, frg07 '
+  grant: 'fwp08, frg07 '
   nb: ' chap, pdf, typeA '
   optnote: to be published
   optwwwlanl: http://www.pa.msu.edu/cmp/billinge-group/papers/
@@ -616,7 +663,7 @@ billi;b;iisscomo12:
     - Masciocchi, Norberto
   entrytype: incollection
   facility: ' '
-  grant: 'fwp, frg07 '
+  grant: 'fwp11, frg07 '
   nb: ' chap, pdf, typeA '
   note: ''
   optwwwlanl: ''
@@ -818,7 +865,7 @@ billi;b;uecapd13:
     - Shankland, K.
   entrytype: inproceedings
   facility: ' '
-  grant: fwp, frg
+  grant: fwp11, frg
   nb: ' chap, pdf, typeA '
   optnote: ''
   optwwwlanl: http://www.pa.msu.edu/cmp/billinge-group/papers/
@@ -886,7 +933,7 @@ billi;cmpjc07:
   doi: ''
   entrytype: article
   facility: ' '
-  grant: ' fwp, frg07 '
+  grant: ' fwp08, frg07 '
   journal: Condensed Matter Physics Journal Club
   nb: ' invited, typeB '
   optwwwlanl: ''
@@ -902,7 +949,7 @@ billi;cmpjc08i:
   doi: ''
   entrytype: article
   facility: ' '
-  grant: ' fwp, frg07 '
+  grant: ' fwp08, frg07 '
   journal: Condensed Matter Physics Journal Club
   nb: ' invited, typeB '
   optwwwlanl: ''
@@ -918,7 +965,7 @@ billi;cmpjc08ii:
   doi: ''
   entrytype: article
   facility: ' '
-  grant: ' fwp, frg07 '
+  grant: ' fwp08, frg07 '
   journal: Condensed Matter Physics Journal Club
   nb: ' invited, typeB '
   optwwwlanl: ''
@@ -935,7 +982,7 @@ billi;cmpjc09:
   doi: ''
   entrytype: article
   facility: ' '
-  grant: ' fwp '
+  grant: ' fwp08 '
   journal: Condensed Matter Physics Journal Club
   nb: ' invited, typeB '
   optwwwlanl: ''
@@ -951,7 +998,7 @@ billi;cmpjc10:
   doi: ''
   entrytype: article
   facility: ' '
-  grant: ' fwp, frg07 '
+  grant: ' fwp08, frg07 '
   journal: Condensed Matter Physics Journal Club
   nb: ' invited, typeB '
   optwwwlanl: ''
@@ -967,7 +1014,7 @@ billi;cmpjc11:
   doi: ''
   entrytype: article
   facility: ' '
-  grant: ' fwp '
+  grant: ' fwp11 '
   journal: Condensed Matter Physics Journal Club
   nb: ' invited, typeB '
   optwwwlanl: ''
@@ -983,7 +1030,7 @@ billi;cmpjc16:
   doi: ''
   entrytype: article
   facility: ' fy16 '
-  grant: ' fwp '
+  grant: ' fwp14 '
   journal: Condensed Matter Physics Journal Club
   month: September
   nb: ' invited, typeB1, fy16 '
@@ -1204,7 +1251,7 @@ billi;jssc08:
   doi: 10.1016/j.jssc.2008.06.046
   entrytype: article
   facility: ' aps, 6idd '
-  grant: '   fwp '
+  grant: '   fwp08 '
   journal: J. Solid State Chem.
   nb: art, review, hilite, typeA
   note: ''
@@ -1317,7 +1364,7 @@ billi;nn09:
     - Gaulin, Bruce
   doi: 10.1080/10448630903240730
   entrytype: article
-  grant: ' fwp '
+  grant: ' fwp08 '
   journal: Neutron News
   nb: ' conf, typeA '
   number: '4'
@@ -1335,7 +1382,7 @@ billi;np09:
     - Billinge, S. J. L.
   doi: 10.1038/nphys1172
   entrytype: article
-  grant: ' frg07, fwp '
+  grant: ' frg07, fwp08 '
   journal: Nat. Phys.
   nb: ' rev, typeA '
   note: "[News and Views article, describing Chung, S.-Y., Kim, Y.-M., Kim, J.-G.\
@@ -1377,7 +1424,7 @@ billi;p10:
   doi: 10.1103/Physics.3.25
   entrytype: article
   facility: '  '
-  grant: ' fwp, frg07 '
+  grant: ' fwp08, frg07 '
   journal: Physics
   nb: ' rev, typeA '
   note: ''
@@ -1680,18 +1727,23 @@ billi;prl99;unpub:
   wwwlanl: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/99billiprl_pre.pdf
   year: '2000'
-billi;pta:
+billi;pta19:
+  ackno: S.J.L.B. acknowledges financial support from the US Department of Energy,
+    Office of Science, Office of Basic Energy Sciences (DOE-BES) under contract no.
+    DE-SC0012704
   author:
     - Billinge, Simon J. L.
+  day: 29
   doi: 10.1098/rsta.2018.0413
   entrytype: article
   facility: ''
   grant: fwp17, typeA, fy19
   journal: Philos T. Roy. Soc. A
+  month: 4
   nb: art, typeA, fy19
   number: ''
   optannote: ''
-  optnote: to be published
+  optnote: ''
   optwwwlanl: ''
   pages: '20180413.'
   title: 'The rise of the x-ray atomic pair distribution function method: a series
@@ -1801,7 +1853,7 @@ blago;prb10:
   doi: ''
   entrytype: article
   facility: ' nsls, x16c '
-  grant: ' fwp, danse, nsfpire '
+  grant: ' fwp08, danse, nsfpire '
   journal: Phys. Rev. B
   nb: ' art, typeB '
   number: ''
@@ -1846,7 +1898,7 @@ booth;jpconfs10:
   doi: ''
   entrytype: article
   facility: ' aps, 6IDD '
-  grant: ' fwp '
+  grant: ' fwp08 '
   journal: 'J. Phys.: Conf. Ser.'
   nb: 'conf, typeB '
   note: ''
@@ -1905,7 +1957,7 @@ bozin;b;coshan13:
     - Lamberti, Carlo
   entrytype: incollection
   facility: ' '
-  grant: ' fwp '
+  grant: ' fwp11 '
   month: ''
   nb: ' chap, typeA'
   note: ''
@@ -1933,7 +1985,7 @@ bozin;jac09:
     - Billinge, S. J. L.
   entrytype: article
   facility: sns, arcs
-  grant: ' fwp '
+  grant: ' fwp08 '
   journal: J. Appl. Crystallogr.
   nb: ' art, typeA '
   note: ''
@@ -1987,7 +2039,7 @@ bozin;jpconfs10:
   doi: 10.1088/1742-6596/251/1/012080
   entrytype: article
   facility: sns, arcs
-  grant: ' fwp '
+  grant: ' fwp08 '
   journal: 'J. Phys.: Conf. Ser.'
   nb: ' conf, typeA '
   note: ''
@@ -2151,7 +2203,7 @@ bozin;prb12:
   doi: 10.1103/PhysRevB.86.094110
   entrytype: article
   facility: ' mlnsc, npdf  '
-  grant: ' fwp '
+  grant: ' fwp11 '
   journal: Phys. Rev. B
   nb: ' art, typeA'
   number: ''
@@ -2178,7 +2230,7 @@ bozin;prb15:
   doi: 10.1103/PhysRevB.91.054521
   entrytype: article
   facility: ' npdf, mlnsc, hyspec, sns '
-  grant: ' fwp '
+  grant: ' fwp14 '
   journal: Phys. Rev. B
   nb: ' art, hilite, typeA, fy15 '
   note: ''
@@ -2204,7 +2256,7 @@ bozin;prb16i:
   doi: 10.1103/PhysRevB.93.054523
   entrytype: article
   facility: ' sns, powgen, fy16 '
-  grant: ' fwp '
+  grant: ' fwp14 '
   journal: Phys. Rev. B
   nb: ' art, typeB1, fy16 '
   note: ''
@@ -2305,7 +2357,7 @@ bozin;prl11:
   doi: 10.1103/PhysRevLett.106.045501
   entrytype: article
   facility: ' aps, id11 '
-  grant: ' fwp, '
+  grant: ' fwp11, '
   journal: Phys. Rev. Lett.
   nb: ' art, hilite, typeA '
   number: ''
@@ -2333,7 +2385,7 @@ bozin;s10:
   doi: 10.1126/science.1192759
   entrytype: article
   facility: ' mlnsc, npdf, aps, id11 '
-  grant: ' fwp17 '
+  grant: ' fwp08 '
   journal: Science
   nb: ' art, hilite, typeA '
   number: ''
@@ -2358,7 +2410,7 @@ bozin;sr14:
   doi: 10.1038/srep04081
   entrytype: article
   facility: ' aps, id11c '
-  grant: ' fwp'
+  grant: ' fwp14'
   journal: Sci. Rep.
   nb: art, hilite, typeA, fy14
   number: ''
@@ -2683,7 +2735,7 @@ chi;prb14:
   doi: 10.1103/PhysRevB.89.195209
   entrytype: article
   facility: ' nsls, x17a '
-  grant: ' fwp '
+  grant: ' fwp14 '
   issue: '19'
   journal: Phys. Rev. B
   month: May
@@ -2727,7 +2779,7 @@ choi;nan16:
   doi: 10.1039/C6NR90040B
   entrytype: article
   facility: ''
-  grant: dmref, roads
+  grant: dmref15, roads
   journal: Nanoscale
   nb: ''
   note: ''
@@ -2833,22 +2885,14 @@ chupa;jac03:
   year: '2003'
 chupa;jacs04:
   author:
-    - Chupas,
-    - J., P.
-    - Chaudhuri,
-    - S.,
-    - Hanson,
-    - C., J.
-    - Qiu,
-    - X.,
-    - Lee,
-    - L., P.
-    - Shastri,
-    - D., S.
-    - Billinge,
-    - L., S. J.
-    - Grey,
-    - P., C.
+    - Chupas, P. J.
+    - Chaudhuri, S.
+    - Hanson, J. C.
+    - Qiu, X.
+    - Lee, P. L.
+    - Shastri, S. D.
+    - Billinge, S. J. L.
+    - Grey, C. P.
   doi: ''
   entrytype: article
   facility: 'aps, id1 '
@@ -2972,7 +3016,7 @@ dean;nm13:
   doi: ''
   entrytype: article
   facility: '  '
-  grant: ' fwp '
+  grant: ' fwp11 '
   journal: Nat. Mater.
   nb: ' art, typeB1, fy13 '
   number: ''
@@ -2981,7 +3025,7 @@ dean;nm13:
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: 1019–1023
-  title: Persistence of magnetic excitations in {La$_{2−x}$Sr$_x$CuO$_4$} from the
+  title: Persistence of magnetic excitations in {La$_{2-x}$Sr$_x$CuO$_4$} from the
     undoped insulator to the heavily overdoped non-superconducting metal
   url: ''
   volume: '12'
@@ -3050,7 +3094,7 @@ dicke;ejos17:
   doi: 10.1214/17-EJS1258
   entrytype: article
   facility: ''
-  grant: dmref
+  grant: dmref15
   journal: Electron. J. Stat.
   number: '1'
   optwwwlanl: ''
@@ -3096,7 +3140,7 @@ dinne;b;itoch18:
     - others
   entrytype: inproceedings
   facility: ' '
-  grant: 'fwp, efrc10, pire '
+  grant: 'fwp17, efrc10, pire '
   nb: ' pdf, chap, '
   optnote: ''
   optwwwlanl: ''
@@ -3142,7 +3186,7 @@ dippe;aca16:
   doi: 10.1107/S2053273316012675
   entrytype: article
   facility: ' esrf, id11, desy, P02.1, fy16  '
-  grant: ' fwp '
+  grant: ' fwp14 '
   journal: Acta Crystallogr. A
   nb: ' art, typeB2, fy16 '
   number: ''
@@ -3195,7 +3239,7 @@ duxbu;4or16:
   doi: 10.1007/s10288-016-0314-2
   entrytype: article
   facility: '  '
-  grant: ' dmref '
+  grant: ' dmref15 '
   journal: 4OR-Q J Oper Res
   nb: ' art '
   number: ''
@@ -3222,7 +3266,7 @@ duxbu;asilomar16:
     - Matthews, Michael B.
   entrytype: inproceedings
   facility: ''
-  grant: dmref
+  grant: dmref15
   key: ''
   month: ''
   nb: fy17
@@ -3250,7 +3294,7 @@ duxbu;dam16:
   doi: ''
   entrytype: article
   facility: ' fy16 '
-  grant: ' ldrd12, fwp '
+  grant: ' ldrd12, fwp14 '
   journal: Discrete Applied Mathematics
   nb: ' art, typeA, fy16, hilite '
   note: ''
@@ -3350,7 +3394,7 @@ egami;b;utbp12:
   edition: 2nd
   entrytype: book
   facility: ' '
-  grant: fwp, efrc10, pire
+  grant: fwp11, efrc10, pire
   nb: ' book, pdf, hilite, typeA, fy12 '
   optnote: ''
   optwwwlanl: http://www.pa.msu.edu/cmp/billinge-group/papers/
@@ -3491,7 +3535,7 @@ evans;bmrs10:
   doi: ''
   entrytype: article
   facility: '  '
-  grant: ' fwp, frg07 '
+  grant: ' fwp08, frg07 '
   journal: Bulletin of the Materials Research Society
   nb: ' rev, typeA '
   number: ''
@@ -3672,14 +3716,12 @@ frand;aca14:
   year: '2014'
 frand;aca15:
   author:
-    - Frandsen,
-    - A., Benjamin
-    - Billinge,
-    - L., Simon J.
+    - Frandsen, Benjamin A.
+    - Billinge, Simon J. L.
   doi: 10.1107/S205327331500306X
   entrytype: article
   facility: npdf,ill
-  grant: fwp, nsfpire
+  grant: fwp14, nsfpire
   journal: Acta Crystallogr. A
   nb: hilite, typeA, fy15
   note: ''
@@ -3708,7 +3750,7 @@ frand;nc14:
   doi: 10.1038/ncomms6761
   entrytype: article
   facility: mlnsc, npdf
-  grant: fwp, pire
+  grant: fwp14, pire
   journal: Nat. Commun.
   nb: 'art, typeA, fy15 '
   note: ''
@@ -3756,7 +3798,7 @@ frand;nc16:
   doi: 10.1038/ncomms12519
   entrytype: article
   facility: ' sns, nomad, nslsii, xpd, fy16 '
-  grant: ' fwp, pire '
+  grant: ' fwp14, pire '
   journal: Nat. Commun.
   nb: 'fy16, typeB2, hilite '
   note: ''
@@ -3773,14 +3815,12 @@ frand;nc16:
   year: '2016'
 frand;nn16:
   author:
-    - Frandsen,
-    - A., Benjamin
-    - Billinge,
-    - L., Simon J.
+    - Frandsen, Benjamin A.
+    - Billinge, Simon J. L.
   doi: 10.1080/10448632.2016.1197588
   entrytype: article
   facility: ' mlnsc, npdf, fy16 '
-  grant: ' fwp, pire '
+  grant: ' fwp14, pire '
   issue: '3'
   journal: Neutron News
   nb: ' fy16, typeA '
@@ -3814,7 +3854,7 @@ frand;prb15:
   doi: 10.1103/PhysRevB.91.014511
   entrytype: article
   facility: ' isis, triumf '
-  grant: ' dmref, pire '
+  grant: ' dmref15, pire '
   issue: '1'
   journal: Phys. Rev. B
   month: Jan
@@ -3840,7 +3880,7 @@ frand;prb16:
   doi: 10.1103/PhysRevB.94.094102
   entrytype: article
   facility: nomad, sns, x17a, nsls, nslsii, xpd, fy16
-  grant: fwp, pire
+  grant: fwp14, pire
   journal: Phys. Rev. B
   nb: 'typeA, fy16 '
   note: selected as Editors' Suggestion
@@ -3865,7 +3905,7 @@ frand;prl16:
   doi: 10.1103/PhysRevLett.116.197204
   entrytype: article
   facility: ' mlnsc, npdf, fy16 '
-  grant: ' fwp, pire '
+  grant: ' fwp14, pire '
   issue: '19'
   journal: Phys. Rev. Lett.
   month: May
@@ -3885,29 +3925,21 @@ frand;prl16:
   year: '2016'
 frand;prm17:
   author:
-    - Frandsen,
-    - A., Benjamin
-    - Ross,
-    - A., Kathryn
-    - Krizan,
-    - W., Jason
-    - Nilsen,
-    - J., G{\o}ran
-    - Wildes,
-    - R., Andrew
-    - Cava,
-    - J., Robert
-    - Birgeneau,
-    - J., Robert
-    - Billinge,
-    - L., Simon J.
+    - Frandsen, Benjamin A.
+    - Ross, Kathryn A.
+    - Krizan, Jason W.
+    - Nilsen, G{\o}ran J.
+    - Wildes,  Andrew R.
+    - Cava, Robert J.
+    - Birgeneau, Robert J.
+    - Billinge, Simon J. L.
   doi: 10.1103/PhysRevMaterials.1.074412
   entrytype: article
   facility: ' sns, nomad, ill, d7, fy17 '
-  grant: ' fwp, hilite '
+  grant: ' fwp17, hilite '
   journal: Phys. Rev. Materials
   nb: ' typeA,  fy17 '
-  note: selected as Editor's Choice
+  note: Selected as Editor's Choice
   number: ''
   optannote: ''
   optpages: 1708.05527 [cond-mat.str-el]
@@ -3997,7 +4029,7 @@ garci;prb13:
   doi: 10.1103/PhysRevB.88.075134
   entrytype: article
   facility: ' nsls, x20 '
-  grant: ' fwp '
+  grant: ' fwp11 '
   journal: Phys. Rev. B
   nb: art, typeA, fy13
   number: ''
@@ -4041,7 +4073,7 @@ gaspa;prb12:
   doi: 10.1103/PhysRevB.86.094523
   entrytype: article
   facility: ' '
-  grant: ' fwp'
+  grant: ' fwp11'
   journal: Phys. Rev. B
   nb: ' art, typeB'
   note: ''
@@ -4208,7 +4240,7 @@ gong;aca18:
   url: https://arxiv.org/abs/1805.10342
   volume: ''
   wwwemail: ''
-  year: '2019'
+  year: '2018'
 gorel;mam15:
   author:
     - Gorelik, Tatiana E.
@@ -4268,7 +4300,7 @@ greed;prb09:
   doi: 10.1103/PhysRevB.79.014427
   entrytype: article
   facility: ' npdf, mlnsc '
-  grant: ' fwp '
+  grant: ' fwp08 '
   journal: Phys. Rev. B
   nb: ' art, typeB '
   note: (highlighted as an "editors' selection")
@@ -4308,7 +4340,7 @@ greta;prl13:
   doi: 10.1103/PhysRevLett.110.076402
   entrytype: article
   facility: ' aps, 6idd '
-  grant: ' fwp,'
+  grant: ' fwp11,'
   journal: Phys. Rev. Lett.
   nb: ' art, emil, typeB'
   note: ''
@@ -4400,7 +4432,7 @@ guguc;nc17:
   doi: 10.1038/s41467-017-01066-6
   entrytype: article
   facility: smus, xpd, nslsii, fy17
-  grant: fwp
+  grant: fwp17
   journal: Nat. Commun.
   nb: typeB2, fy17
   number: ''
@@ -4408,7 +4440,7 @@ guguc;nc17:
   optnote: To Be Published
   optwwwlanl: ''
   pages: '1082'
-  title: Signatures of the topological {s$^{+−}$} superconducting order parameter
+  title: Signatures of the topological {s$^{+-}$} superconducting order parameter
     in the type-II Weyl semimetal {T$_d$-MoTe$_2$}
   url: https://www.nature.com/articles/s41467-017-01066-6
   volume: '8'
@@ -4429,7 +4461,7 @@ guguc;prb16:
   doi: 10.1103/PhysRevB.94.214511
   entrytype: article
   facility: ' psi, fy17 '
-  grant: ' fwp '
+  grant: ' fwp14 '
   journal: Phys. Rev. B
   nb: ' art, typeB2, fy17 '
   note: ''
@@ -4466,7 +4498,7 @@ guguc;prb17:
   doi: 10.1103/PhysRevB.96.094515
   entrytype: article
   facility: snap, sns, fy17
-  grant: fwp
+  grant: fwp17
   journal: Phys. Rev. B
   nb: typeA, fy17
   note: ''
@@ -4636,7 +4668,7 @@ hsu2017linear:
     - Xiaorui,
   booktitle: Advances in Neural Information Processing Systems 30
   entrytype: inproceedings
-  grant: dmref
+  grant: dmref15
   title: Linear regression without correspondence
   year: '2017'
 hu;prb09:
@@ -4648,7 +4680,7 @@ hu;prb09:
   doi: 10.1103/PhysRevB.80.214514
   entrytype: article
   facility: ' aps, id11 '
-  grant: ' fwp '
+  grant: ' fwp08 '
   journal: Phys. Rev. B
   nb: ' art, typeB '
   note: ''
@@ -4676,7 +4708,7 @@ hu;prb11:
   doi: 10.1103/PhysRevB.83.224502
   entrytype: article
   facility: ' nsls, x7b '
-  grant: ' fwp,'
+  grant: ' fwp11,'
   journal: Phys. Rev. B
   nb: art, typeB
   note: ''
@@ -4705,7 +4737,7 @@ hu;prb14:
   doi: 10.1103/PhysRevB.90.134518
   entrytype: article
   facility: ' cfn  '
-  grant: ' fwp '
+  grant: ' fwp14 '
   journal: Phys. Rev. B
   nb: ' art, typeA, fy15 '
   note: ''
@@ -4730,7 +4762,7 @@ hudsp;prb15:
   doi: ''
   entrytype: article
   facility: esrf, id15, id31, fy16
-  grant: fwp
+  grant: fwp14
   journal: arXiv
   nb: typeB2, fy15
   note: 1506.08944 [cond-mat.mtrl-sci]
@@ -4752,7 +4784,7 @@ huq;bmrs10:
   doi: ''
   entrytype: article
   facility: '  '
-  grant: ' fwp '
+  grant: ' fwp08 '
   journal: Bulletin of the Materials Research Society
   nb: ' rev, typeA '
   note: ''
@@ -4826,7 +4858,7 @@ jacqu;nc13:
   doi: 10.1038/ncomms3536
   entrytype: article
   facility: 'esrf, id11 '
-  grant: ' fwp '
+  grant: ' fwp11 '
   journal: Nat. Commun.
   nb: ' art, hilite, srfit, typeA, fy13 '
   number: ''
@@ -4882,7 +4914,7 @@ jense;ij15:
   doi: 10.1107/S2052252515012221
   entrytype: article
   facility: ' nslsii, xpd '
-  grant: ' fwp '
+  grant: ' fwp14 '
   journal: IUCrJ.
   nb: ' art, hilite, typeA, fy15 '
   note: ''
@@ -4993,7 +5025,7 @@ jense;prb12:
   doi: 10.1103/PhysRevB.86.085313
   entrytype: article
   facility: ' hfir, sns, arcs,  '
-  grant: ' fwp, frg07 '
+  grant: ' fwp11, frg07 '
   journal: Phys. Rev. B
   nb: ' art, hilite, typeA '
   note: Selected as PRB Editor's Suggestion paper
@@ -5112,7 +5144,7 @@ jie;prb12:
   doi: 10.1103/PhysRevB.86.115121
   entrytype: article
   facility: ' mlnsc, npdf, aps, 11idc '
-  grant: ' fwp,'
+  grant: ' fwp11,'
   journal: Phys. Rev. B
   nb: ' art, emil, typeB'
   note: ''
@@ -5264,18 +5296,28 @@ juhas;jac18:
     it PDFgetN3} uses an {\\it ad hoc} data\ncollection protocol similar to {\\it\
     \ PDFgetX3}. The quality of the\nresulting PDFs is assessed by structure refinement\
     \ and by comparison with\nestablished results from synchrotron X-ray scattering."
+  ackno: These measurements were conducted at the beamline 28-ID-2 of the National
+    Synchrotron Light Source II, a US Department of Energy (DOE) Office of Science
+    User Facility operated for the DOE Office of Science by Brookhaven National Laboratory
+    under contract No. DE-SC0012704. PJ was supported by the New York State BNL Big
+    Data Science Capital Project under the US Department of Energy contract No. DE-SC-00112704.
+    SJLB was supported by the US Department of Energy, Office of Science, Office of
+    Basic Energy Sciences (DOE-BES) under contract No. DE-SC00112704. JNL and ETCV
+    acknowledge support by the Albemarle Catalysts Company BV. ETCV was also funded
+    by the NWO (Netherlands Organization for Scientific Research) project TKINCI.2015.005.
   author:
     - Juhás, Pavol
     - Louwen, Jaap N.
     - van Eijck, Lambert
     - Vogt, Eelco T. C.
     - Billinge, Simon J. L.
+  day: 9
   doi: 10.1107/S1600576718010002
   entrytype: article
   facility: xpd, nslsii, pearl, udelft
-  grant: fwp17, nys-c3d, fy18
+  grant: fwp17, nys-c3d, fy18, typeA
   journal: J. Appl. Crystallogr.
-  month: Oct
+  month: Aug
   nb: article, typeA, fy18
   note: ''
   number: '5'
@@ -5396,7 +5438,7 @@ knox;prb13:
   doi: 10.1103/PhysRevB.88.174114
   entrytype: article
   facility: ' nsls, x17a '
-  grant: ' fwp '
+  grant: ' fwp11 '
   issue: '17'
   journal: Phys. Rev. B
   month: Nov
@@ -5419,7 +5461,7 @@ knox;prb14:
   doi: 10.1103/PhysRevB.89.014102
   entrytype: article
   facility: ' nsls, x17a, mlnsc, npdf '
-  grant: ' fwp, fy14 '
+  grant: ' fwp14, fy14 '
   issue: '1'
   journal: Phys. Rev. B
   month: Jan
@@ -5441,14 +5483,14 @@ koch;arxiv19:
     - Abeykoon, M.
     - Billinge, Simon J. L.
   doi: ''
-  entrytype: misc
-  facility: ''
-  grant: ''
-  journal: ''
-  nb: ''
-  note: arXiv:1902.08732 [cond-mat.supr-con]
+  entrytype: article
+  facility: xpd, nslsii
+  grant: fwp17, typeA, fy19
+  journal: Phys. Rev. B., Rapid Communications
+  nb: art, hilite, typeA, fy19
+  note: To be published.  Editor's suggestion
   number: ''
-  optannote: ''
+  optannote: arXiv:1902.08732 [cond-mat.supr-con]
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: ''
@@ -5479,7 +5521,7 @@ konst;prb19:
   entrytype: article
   facility: 11bm, aps, pdf, nslsii
   grant: fwp17, typeB, fy19
-  journal: Phys. Rev. B
+  journal: Phys. Rev. B, Rapid Communication.  Editor's suggestion.
   month: May
   nb: art, typeB, fy19
   number: ''
@@ -5489,7 +5531,7 @@ konst;prb19:
     - editor's suggestion
   pages: 180102
   title: Photoinduced ultrafast dynamics of local nematicity and lattice distortions
-    in {{FeSe}} crystals
+    in {FeSe} crystals
   url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.180102
   volume: 99
   wwwemail: ''
@@ -5506,7 +5548,7 @@ kreme;jpcc11:
   doi: 10.1021/jp109437b
   entrytype: article
   facility: ' aps, 6idd '
-  grant: ' fwp,'
+  grant: ' fwp11,'
   journal: J. Phys. Chem. C
   nb: art, typeB
   note: ''
@@ -5526,7 +5568,7 @@ kwei;b;lsfd98:
   author:
     - Kwei, G. H.
     - Louca, D.
-    - L.Billinge, S. J.
+    - Billinge, S. J. L.
     - Rosenfeld, H. D.
   booktitle: Local Structure from Diffraction
   editor:
@@ -5621,7 +5663,7 @@ laved;jmca17:
   doi: 10.1039/c7ta04400c
   entrytype: article
   facility: ' isis, polaris '
-  grant: ' fwp, fy18 '
+  grant: ' fwp7, fy18 '
   journal: J. Mater. Chem. A
   nb: fy18, typeB2
   note: ''
@@ -5648,7 +5690,7 @@ lazar;prb12:
   doi: 10.1103/PhysRevB.86.054503
   entrytype: article
   facility: ' nsls, x16c '
-  grant: ' fwp,'
+  grant: ' fwp11,'
   journal: Phys. Rev. B
   nb: ' art, emil, typeB'
   note: ''
@@ -5675,7 +5717,7 @@ lazar;prb14:
   doi: 10.1103/PhysRevB.89.224301
   entrytype: article
   facility: ' nsls, x17a '
-  grant: ' fwp '
+  grant: ' fwp14 '
   issue: '22'
   journal: Phys. Rev. B
   month: Jun
@@ -5698,14 +5740,14 @@ lei;ic13:
   doi: 10.1021/ic4018135
   entrytype: article
   facility: ' nsls, x17a  '
-  grant: ' fwp '
+  grant: ' fwp11 '
   journal: Inorg. Chem.
   nb: ' art, typeB '
   number: ''
   optannote: ''
   optnote: ''
   optwwwlanl: ''
-  pages: 10685−10689
+  pages: 10685-10689
   title: New layered fluorosulfide {SrFBiS$_{2}$}
   url: http://cdn-pubs.acs.org/doi/abs/10.1021/ic4018135
   volume: '52'
@@ -5715,26 +5757,18 @@ lei;ic13:
 lei;jpcm14:
   address: TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
   author:
-    - Lei,
-    - Hechang,
-    - Abeykoon,
-    - Milinda,
-    - Wang,
-    - Kefeng,
-    - Bozin,
-    - S., Emil
-    - Ryu,
-    - Hyejin,
-    - Graf,
-    - D.,
-    - Warren,
-    - B., J.
-    - Petrovic,
-    - C.,
+    - Lei, Hechang,
+    - Abeykoon, Milinda,
+    - Wang, Kefeng,
+    - Bozin, Emil S.
+    - Ryu, Hyejin,
+    - Graf, D.,
+    - Warren, B., J.
+    - Petrovic, C.,
   doi: 10.1088/0953-8984/26/1/015701
   entrytype: article
   facility: ' nsls, x7b '
-  grant: ' fwp '
+  grant: ' fwp14 '
   issn: 0953-8984
   journal: 'J. Phys: Condens. Mat.'
   month: Jan
@@ -5760,7 +5794,7 @@ lei;prb11i:
   doi: 10.1103/PhysRevB.83.180503
   entrytype: article
   facility: ' nsls, x7b '
-  grant: ' fwp,'
+  grant: ' fwp11,'
   journal: Phys. Rev. B
   nb: art, typeB
   note: ''
@@ -5783,7 +5817,7 @@ lei;prb11ii:
   doi: 10.1103/PhysRevB.84.060506
   entrytype: article
   facility: ' nsls, x7b '
-  grant: ' fwp,'
+  grant: ' fwp11,'
   journal: Phys. Rev. B
   nb: art, typeB
   note: ''
@@ -5811,7 +5845,7 @@ lei;prb12:
   doi: 10.1103/PhysRevB.86.125122
   entrytype: article
   facility: ' mlnsc, npdf, aps, 11idc '
-  grant: ' fwp,'
+  grant: ' fwp11,'
   journal: Phys. Rev. B
   nb: ' art, emil, typeB'
   note: ''
@@ -5837,7 +5871,7 @@ lei;prl11:
   doi: 10.1103/PhysRevLett.107.137002
   entrytype: article
   facility: ' nsls, x7b '
-  grant: ' fwp,'
+  grant: ' fwp11,'
   journal: Phys. Rev. Lett.
   nb: art, typeB
   note: ''
@@ -5864,7 +5898,7 @@ lei;stam12:
   doi: 10.1088/1468-6996/13/5/054305
   entrytype: article
   facility: ' nsls, x7b '
-  grant: ' fwp,'
+  grant: ' fwp11,'
   journal: Sci. Technol. Adv. Mater.
   nb: ' art, emil, typeB'
   note: ''
@@ -5892,7 +5926,7 @@ lendi;prb15:
   doi: 10.1103/PhysRevB.91.024404
   entrytype: article
   facility: ' nsls, x17a '
-  grant: ' fwp '
+  grant: ' fwp14 '
   journal: Phys. Rev. B
   nb: ' art, typeB2, fy15 '
   note: ''
@@ -5948,6 +5982,17 @@ levas;prb05:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/05levasprb.pdf
   year: '2005'
 lewis;cec18:
+  ackno: Funds for research work (including support for all authors) at Brookhaven
+    National Laboratory (BNL) were provided by the U.S. Department of Energy, Office
+    of Basic Energy Sciences, Materials Sciences and Engineering Division under Contract
+    No. DE-SC-00112704. High-resolution electron microscopy data in this manuscript
+    were collected in part at BNL's Center for Functional Nanomaterials, which is
+    also supported by the U.S. Department of Energy under Contract No. DE-SC-00112704.
+    X-ray PDF measurements were conducted at beamline 28-ID-2 of the National Synchrotron
+    Light Source II, a U.S. Department of Energy (DOE) Office of Science User Facility
+    operated for the DOE Office of Science by Brookhaven National Laboratory under
+    Contract No. DE-SC0012704. We thank Eric Dooryhee and A. M. Milinda Abeykoon in
+    particular for their technical assistance and guidance in data acquisition
   author:
     - Lewis, Crystal S.
     - Moronta, Dominic
@@ -5959,13 +6004,15 @@ lewis;cec18:
     - Corrao, Adam
     - Billinge, Simon J. L.
     - Wong, Stanislaus S.
-  doi: ''
+  day: 12
+  doi: 10.1039/C7CE01885A
   entrytype: article
   facility: xpd, nslsii
-  grant: fwp17
+  grant: fwp17, typeB1, fy18
   journal: CrystEngComm
+  month: Dec
   nb: ''
-  note: ''
+  note: art, typeB1, fy18
   number: ''
   optannote: ''
   optwwwlanl: ''
@@ -5976,7 +6023,7 @@ lewis;cec18:
   volume: '20'
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/18lewiscec.pdf
-  year: '2018'
+  year: '2017'
 li;cm11:
   author:
     - Li, Shu
@@ -6029,7 +6076,7 @@ li;jce18:
   optnote: ''
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/18lijchemed.pdf
-  pages: 1658−1661
+  pages: 1658-1661
   title: An easily fabricated low-cost potentiostat coupled with user- friendly software
     for introducing students to electrochemical reactions and electroanalytical techniques
   url: ''
@@ -6056,7 +6103,7 @@ li;npjqm17:
   doi: 10.1038/s41535-017-0016-9
   entrytype: article
   facility: nslsii, xpd, fy17
-  grant: 'fwp '
+  grant: 'fwp17 '
   journal: npj Quantum Mater.
   nb: art, typeB1, fy17
   note: ''
@@ -6130,7 +6177,7 @@ liu;aca19:
   facility: ''
   grant: dmref15
   journal: Acta Crystallogr. A
-  nb: ''
+  nb: art
   note: to be published
   number: ''
   optannote: ''
@@ -6259,17 +6306,17 @@ malav;jacs07:
 malav;jpcm11:
   author:
     - Malavasi, Lorenzo
-    - Artioli, Gianluca A
+    - Artioli, Gianluca A.
     - Kim, Hyunjeong
     - Maroni, Beatrice
     - Joseph, Boby
     - Ren, Yang
     - Proffen, Thomas
-    - Billinge, Simon J L
+    - Billinge, Simon J. L.
   doi: 10.1088/0953-8984/23/27/272201
   entrytype: article
   facility: ' aps, id11, id11c '
-  grant: ' fwp '
+  grant: ' fwp11 '
   journal: 'J. Phys: Condens. Mat.'
   nb: ' art, typeB '
   note: ''
@@ -6447,7 +6494,7 @@ miao;s16:
   doi: 10.1126/science.aaf2157
   entrytype: article
   facility: ''
-  grant: dmref
+  grant: dmref15
   journal: Science
   nb: hilite
   number: '6306'
@@ -6497,7 +6544,7 @@ nakam;jmchema17:
   doi: 10.1039/C7TA06339C
   entrytype: article
   facility: nslsii, xpd, fy17
-  grant: fwp
+  grant: fwp17
   journal: J. Mater. Chem. A
   nb: ' typeB2, fy17'
   number: '35'
@@ -6552,7 +6599,7 @@ pagli;cm06ii:
   optannote: ''
   optwwwlanl: ''
   pages: 3242-3248
-  title: Fine-Scale Nanostructure in γ-Al2O3
+  title: Fine-Scale Nanostructure in $\gamma$-Al$_2$O$_3$
   url: http://dx.doi.org/10.1021/cm060277j
   volume: '18'
   wwwemail: ' sb2896@columbia.edu'
@@ -7612,6 +7659,10 @@ redmo;ecssl12:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/redmoessl12.pdf
   year: '2012'
 rijcka;mdpim18:
+  ackno: X-ray PDF measurements were conducted on beamline 28-ID-2 of the National
+    Synchrotron Light Source II, a U.S. Department of Energy (DOE) Office of Science
+    User Facility operated for the DOE Office of Science by Brookhaven National Laboratory
+    under Contract No. DE-SC0012704.
   author:
     - Rijckaert, Hannes
     - Roo, Jonathan De
@@ -7624,11 +7675,13 @@ rijcka;mdpim18:
     - Bäcker, Michael
     - Buysser, Klaartje De
     - Driessche, Isabel Van
-  doi: ''
+  day: 23
+  doi: 10.3390/ma11071066
   entrytype: article
   facility: nslsii, xpd
   grant: fwp17
   journal: MDPI-Materials
+  month: Jun
   nb: typeB2, fy18
   number: ''
   optannote: ''
@@ -7638,11 +7691,24 @@ rijcka;mdpim18:
   pages: '1066'
   title: Pair distribution function analysis of {ZrO$_2$} Nanocrystals and insights
     in the formation of {ZrO$_2$-YBa$_2$Cu$_3$O$_7$} nanocomposites
-  url: ''
+  url: https://www.mdpi.com/1996-1944/11/7/1066
   volume: '11'
   wwwemail: ''
   year: '2018'
 rohani;afm19:
+  ackno: This work was supported in part by the New York State Center of Excellence
+    in Materials Informatics. R.S.‐Y. and S.S.‐A. acknowledge financial support from
+    NSF‐DMR Award no. 1809439. Work by the Billinge group was supported by the U.S.
+    Department of Energy, Office of Science, and Office of Basic Energy Sciences (DOE‐BES)
+    under contract No. DE‐ SC0012704. S.B. acknowledges support from the National
+    Defense Science and Engineering Graduate Fellowship (DOD‐NDSEG) program. X‐ray
+    PDF measurements were conducted on beamline 28‐ID‐2 of the National Synchrotron
+    Light Source II, the U.S. Department of Energy (DOE) Office of Science User Facility
+    operated for the DOE Office of Science by Brookhaven National Laboratory under
+    Contract No. DE‐SC0012704. This work made use of instruments in the Electron Microscopy
+    Service (Research Resources Center, UIC). The authors also thank Dr. Tao Lin,
+    Dr. Seongbeom Kim, and Jiahui Wu (Tess) for all their help and helpful discussions
+    in this project.
   author:
     - Rohani, Parham
     - Banerjee, Soham
@@ -7651,12 +7717,14 @@ rohani;afm19:
     - Shahbazian-Yassar, Reza
     - Billinge, Simon J. L.
     - Swihart, Mark T.
+  day: 7
   doi: 10.1002/adfm.201807788
   entrytype: article
   facility: xpd, nslsii
-  grant: fwp17, typeA, fy19
+  grant: fwp17, typeB2, fy19
   journal: Adv. Funct. Mater.
-  nb: typeA, fy19
+  month: Jan
+  nb: typeB2, fy19
   number: ''
   optannote: ''
   optnote: ''
@@ -7679,7 +7747,7 @@ ryu;jpcm16:
   doi: 10.1088/0953-8984/28/42/425602
   entrytype: article
   facility: nsls, x7b, fy16
-  grant: fwp
+  grant: fwp14
   journal: 'J. Phys: Condens. Mat.'
   nb: typeB1, fy16
   note: ''
@@ -7687,7 +7755,7 @@ ryu;jpcm16:
   optannote: ''
   optwwwlanl: ''
   pages: '425602'
-  title: Multiband electronic transport in $\alpha$-Yb$_{1−x}$Sr$_{x}$AlB$_{4}$ (x
+  title: Multiband electronic transport in $\alpha$-Yb$_{1-x}$Sr$_{x}$AlB$_{4}$ (x
     = 0, 0.19) single crystals
   url: http://stacks.iop.org/0953-8984/28/i=42/a=425602
   volume: '28'
@@ -7708,7 +7776,7 @@ ryu;prb15i:
   doi: 10.1103/PhysRevB.91.184503
   entrytype: article
   facility: ' nsls, x7b '
-  grant: ' fwp '
+  grant: ' fwp14 '
   journal: Phys. Rev. B
   nb: ' art, typeB1, fy15 '
   note: ''
@@ -7716,7 +7784,7 @@ ryu;prb15i:
   optannote: ''
   optwwwlanl: ''
   pages: '184503'
-  title: Insulating and metallic spin glass in Ni-doped K$_{x}$Fe$_{2−y}$Se$_{2}$
+  title: Insulating and metallic spin glass in Ni-doped K$_{x}$Fe$_{2-y}$Se$_{2}$
     single crystals
   url: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.184503
   volume: '91'
@@ -7736,7 +7804,7 @@ ryu;prb15ii:
   doi: 10.1103/PhysRevB.92.174522
   entrytype: article
   facility: ' nsls, x7b, fy16 '
-  grant: ' fwp '
+  grant: ' fwp14 '
   journal: Phys. Rev. B
   nb: ' art, typeB1, fy16 '
   note: ''
@@ -7744,7 +7812,7 @@ ryu;prb15ii:
   optannote: ''
   optwwwlanl: ''
   pages: '174522'
-  title: Sustained phase separation and spin glass in Co-doped K$_{x}$Fe$_{2−y}$Se$_{2}$
+  title: Sustained phase separation and spin glass in Co-doped K$_{x}$Fe$_{2-y}$Se$_{2}$
     single crystals
   url: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.174522
   volume: '92'
@@ -7762,7 +7830,7 @@ sanch;acsn13:
   doi: 10.1021/nn305314m
   entrytype: article
   facility: ' aps, 11idc, nsls, x7b '
-  grant: ' fwp '
+  grant: ' fwp11 '
   journal: ACS Nano.
   nb: ' art, emil, typeB'
   note: ''
@@ -7778,6 +7846,14 @@ sanch;acsn13:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/sanchez_acsn13.pdf
   year: '2013'
 sangi;prm18:
+  ackno: B.S., M.F., and N.A.S. acknowledge support from ETH Zürich, the ERC Advanced
+    Grant program (No. 291151), and the Swiss National Supercomputing Centre (CSCS)
+    under project IDs s307, s624, and p504. We thank Joost VandeVondele for helpful
+    discussions, in particular regarding the use of the CP2K code. T.W. thanks the
+    staff of the X06SA beamline at the Swiss Light Source, Villigen, Switzerland for
+    giving access to the beamline and for helping with the experiments. Work at Brookhaven
+    National Laboratory was supported by U.S. Department of Energy, Office of Science,
+    Office of Basic Energy Sciences (DOE-BES) under Contract No. DE-SC0012704.
   author:
     - Sangiorgio, Boris
     - Bozin, Emil S.
@@ -7788,11 +7864,13 @@ sangi;prm18:
     - Billinge, Simon J. L.
     - Spaldin, Nicola A.
     - Weber, Thomas
+  day: 6
   doi: 10.1103/PhysRevMaterials.2.085402
   entrytype: article
   facility: sls, xo6sa, fy18
   grant: ' fwp17, typeA, fy18 '
   journal: Phys. Rev. Materials
+  month: Aug
   nb: typeA, fy18
   note: ''
   number: ''
@@ -7906,7 +7984,7 @@ scard;aca16:
   doi: 10.1107/S2053273316015680
   entrytype: article
   facility: fy17
-  grant: 'fwp '
+  grant: 'fwp14 '
   journal: Acta Crystallogr. A
   nb: fy17, typeA
   number: ''
@@ -8062,7 +8140,7 @@ shatn;prb16:
   doi: 10.1103/PhysRevB.93.165138
   entrytype: article
   facility: ' mlnsc, npdf, fy16 '
-  grant: ' fwp '
+  grant: ' fwp14 '
   journal: Phys. Rev. B
   nb: ' art, typeA, fy16 '
   note: ''
@@ -8156,7 +8234,7 @@ shi;nm13i:
   doi: ''
   entrytype: article
   facility: '  '
-  grant: ' fwp '
+  grant: ' fwp11 '
   journal: Nat. Mater.
   nb: ' art, typeB '
   number: ''
@@ -8183,12 +8261,14 @@ shi;prb18:
     - Haskell, Richard C.
     - Hightower, Adrian
     - Monson, Todd C.
+  day: 15
   doi: 10.1103/PhysRevB.98.085421
   entrytype: article
   facility: nsls, x17a, fy18
-  grant: fwp17
+  grant: fwp17, typeA, fy18
   journal: Phys. Rev. B
-  nb: TypeA, fy18
+  month: Aug
+  nb: typeA, fy18
   note: ''
   number: ''
   optannote: ''
@@ -8260,7 +8340,7 @@ sochn;jpcs12:
   doi: 10.1088/1742-6596/400/2/022109
   entrytype: article
   facility: ' '
-  grant: ' fwp'
+  grant: ' fwp11'
   journal: J. Phys. Chem. Solids
   nb: ' art, typeB'
   note: ''
@@ -8492,7 +8572,7 @@ thamp;prb13:
   doi: ''
   entrytype: article
   facility: ' nsls, x20'
-  grant: ' fwp '
+  grant: ' fwp11 '
   journal: Phys. Rev. B
   nb: ' art, typeB '
   note: ''
@@ -8664,7 +8744,7 @@ tiano;cm15:
   doi: 10.1021/acs.chemmmater.5b00767
   entrytype: article
   facility: nsls, x17a, cfn
-  grant: ' efrc10, fwp  '
+  grant: ' efrc10, fwp14  '
   journal: Chem. Mater.
   nb: ' art, typeB1, fy15  '
   note: ''
@@ -8712,7 +8792,7 @@ torch;nm13:
   doi: ''
   entrytype: article
   facility: '  '
-  grant: ' fwp '
+  grant: ' fwp11 '
   journal: Nat. Mater.
   nb: ' art, typeB '
   number: ''
@@ -8825,7 +8905,7 @@ vasic;jpcc13:
   doi: 10.1021/jp403459t
   entrytype: article
   facility: ' aps, id11c  '
-  grant: ' fwp '
+  grant: ' fwp11 '
   journal: J. Phys. Chem. C
   nb: ' art, typeB '
   number: ''
@@ -8926,7 +9006,7 @@ wang;aplm15:
   doi: 10.1063/1.4913919
   entrytype: article
   facility: ' nslsii, xpd '
-  grant: ' fwp '
+  grant: ' fwp14 '
   journal: APL Mat.
   nb: ' art, typeB1, fy15 '
   number: ''
@@ -8951,7 +9031,7 @@ wang;prb16:
   doi: 10.1103/PhysRevB.94.125118
   entrytype: article
   facility: sns, powgen, fy16
-  grant: fwp
+  grant: fwp14
   journal: Phys. Rev. B
   nb: typeB1, fy16
   note: ''
@@ -8980,7 +9060,7 @@ wang;prb16ii:
   doi: 10.1103/PhysRevB.94.165161
   entrytype: article
   facility: nslsii, xpd, fy17
-  grant: 'fwp '
+  grant: 'fwp14 '
   journal: Phys. Rev. B
   nb: typeB1, fy17
   note: ''
@@ -9187,7 +9267,7 @@ xu;prb16:
   doi: 10.1103/PhysRevB.93.104517
   entrytype: article
   facility: ' sns, nomad, fy16 '
-  grant: ' fwp '
+  grant: ' fwp14 '
   journal: Phys. Rev. B
   nb: ' art, typeB1, fy16 '
   note: ''
@@ -9196,7 +9276,7 @@ xu;prb16:
   optwwwlanl: ''
   pages: '104517'
   title: Thermal evolution of antiferromagnetic correlations and tetrahedral bond
-    angles in superconducting {FeTe$_{1−x}$Se$_{x}$}
+    angles in superconducting {FeTe$_{1-x}$Se$_{x}$}
   url: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.104517
   volume: '93'
   wwwemail: ''
@@ -9409,6 +9489,18 @@ yu;prb02:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/02pomjaprb.pdf
   year: '2002'
 yu;prb18i:
+  ackno: Work at Brookhaven National Laboratory was supported by U.S. Department of
+    Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under Contract
+    DESC0012704. Work at Argonne National Laboratory was supported by the U.S. Department
+    of Energy, Office of Science, Materials Sciences and Engineering. The neutron
+    diffraction measurements were carried out at NPDF instrument of the Lujan Neutron
+    Scattering Center at Los Alamos National Laboratory, and the x-ray experiments
+    were carried out at beamline 28-ID-2 (XPD) of the National Synchrotron Light Source
+    II at Brookhaven National Laboratory. Use of the National Synchrotron Light Source
+    II, Brookhaven National Laboratory, was supported by DOE-BES under Contract No.
+    DESC0012704. B.S. and N.A.S. acknowledge support from ETH Zürich, the ERC Advanced
+    Grant program (No. 291151), and the Swiss National Supercomputing Centre (CSCS)
+    under Project ID s624.
   author:
     - Yu, Runze
     - Bozin, Emil S.
@@ -9418,11 +9510,13 @@ yu;prb18i:
     - Malliakas, Christos D.
     - Kanatzidis, Mercouri G.
     - Billinge, Simon J. L.
-  doi: ''
+  day: 12
+  doi: 10.1103/PhysRevB.98.144108
   entrytype: article
   facility: mlnsc, npdf, nslsii, xpd
   grant: fwp17, typeA, fy19
   journal: Phys. Rev. B
+  month: Oct
   nb: typeA, fy19
   number: ''
   optannote: ''
@@ -9532,7 +9626,7 @@ zheng;prb09:
     - Zhu, Y.
   entrytype: article
   facility: ipns, sepd, nsls
-  grant: ' fwp '
+  grant: ' fwp08 '
   journal: Phys. Rev. B
   nb: ' art, typeB '
   number: ''
