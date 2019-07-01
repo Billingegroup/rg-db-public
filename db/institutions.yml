@@ -211,6 +211,17 @@ cornellu:
   state: New York
   street: ''
   zip: 14850
+doebes:
+  aka:
+    - Department of Energy
+    - Basic Energy Sciences
+    - BES
+  city: Washington
+  country: USA
+  name: Department of Energy, Office of Science, Office of Basic Energy Sciences
+  state: DC
+  street: 1000 Independence Avenue., SW
+  zip: 20585
 drexelu:
   aka:
     - drexel university
@@ -318,6 +329,7 @@ gsk:
   zip: SG1 2NY
 iccnrcomo:
   aka:
+    - Crystallographic Institute, Como
   city: Como
   country: Italy
   name: Istituto di Cristallographia, CNR
