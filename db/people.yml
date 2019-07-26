@@ -885,8 +885,9 @@ sbillinge:
     \ the Carnegie Corporation of New York, the 2010 J. D. Hanawalt Award of the International\
     \ Center for Diffraction Data, University Distinguished Faculty award at Michigan\
     \ State, the Thomas H. Osgood Undergraduate Teaching Award. He is Section Editor\
-    \ of Acta Crystalographica Section A: Advances and Foundations. He regularly chairs\
-    \ and participates in reviews of major facilities and federally funded programs."
+    \ of Acta Crystallographica Section A: Advances and Foundations. He regularly\
+    \ chairs and participates in reviews of major facilities and federally funded\
+    \ programs."
   education:
     - institution: uoxford
       begin_year: 1982
