@@ -1914,6 +1914,7 @@ booth;jpconfs10:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/booth_jpcs_11.pdf
   year: '2011'
 bozin;arxiv19:
+  arxiv: arXiv:1901.10104 [cond-mat.mtrl-sci]
   author:
     - Bozin, E. S.
     - Yin, W. G.
@@ -1929,11 +1930,11 @@ bozin;arxiv19:
   entrytype: article
   facility: nslsii, xpd
   grant: fwp17, typeA, fy19
-  journal: ''
+  journal: Nature Commun.
   nb: art, hilite, typeA, fy19
-  note: arXiv:1901.10104 [cond-mat.mtrl-sci]
+  note: To be published
   number: ''
-  optannote: submitted to Nature Communications
+  optannote: ''
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: ''
@@ -2545,7 +2546,7 @@ bruhn;jpcm05:
   optannote: ''
   optnote: cond-mat/0410534
   pages: 1561-1572
-  title: The local atomic quasicrystal structure of the icosahedral {Mg\sb{25}Y\sb{11}Zn\sb{64}}
+  title: The local atomic quasicrystal structure of the icosahedral {Mg$_{25}$Y$_{11}$Zn$_{64}$}
     alloy
   url: http://iopscience.iop.org/article/10.1088/0953-8984/17/10/011/meta
   volume: '17'
@@ -2904,7 +2905,7 @@ chupa;jacs04:
   optwwwlanl: http://arxiv.org/abs/cond-mat/
   pages: 4756-4757
   title: 'Probing local and long-range structure simultaneously: an in-situ study
-    of the high-temperature phase transition of $\alpha$-AlF\sb{3}'
+    of the high-temperature phase transition of $\alpha$-AlF$_{3}$'
   url: http://pubs.acs.org/doi/abs/10.1021/ja031553n
   volume: '126'
   wwwemail: sb2896@columbia.edu
@@ -4122,7 +4123,7 @@ gates;jac05:
   nb: ' not-bg'
   note: ''
   pages: 772--779
-  title: Structure of nanocrystalline MgFe\sb{2}O\sb{4} from X-ray diffraction, {Rietveld}
+  title: Structure of nanocrystalline MgFe$_{2}$O$_{4}$ from X-ray diffraction, {Rietveld}
     and atomic pair distribution function analysis
   volume: '38'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/gates_jac05.pdf
@@ -4161,7 +4162,7 @@ gates;prb05:
   optwwwemail: ' sb2896@columbia.edu'
   optwwwlanl: ''
   pages: '224107'
-  title: Atomic scale structure of nanocrystalline ZrO\sb{2}
+  title: Atomic scale structure of nanocrystalline ZrO$_{2}$
   url: ''
   volume: '71'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/gates_prb05.pdf
@@ -4356,26 +4357,32 @@ greta;prl13:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/gretarsson_prl13.pdf
   year: '2013'
 gu;aca19:
+  ackno: This research was supported by the US National Science Foundation (NSF) through
+    grant DMREF-1534910. SB acknowledges support from the National Defense Science
+    and Engineering Graduate Fellowship (DOD-NDSEG) program. Data collected at the
+    Advanced Photon Source at Argonne National Laboratory were supported by the US
+    Department of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES),
+    under contract number DE-AC02-06CH11357.
   author:
     - Gu, Ran
     - Banerjee, Soham
     - Du, Qiang
     - Billinge, Simon J. L.
-  doi: ''
-  entrytype: misc
+  doi: 10.1107/S2053273319008647.
+  entrytype: article
   facility: ''
   grant: dmref15
-  journal: ''
+  journal: Acta Crystallogr. A
   nb: ''
-  note: arXiv:1901.07185 [cond-mat.mtrl-sci]
+  note: To be published
   number: ''
-  optannote: ''
+  optannote: arXiv:1901.07185 [cond-mat.mtrl-sci]
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: ''
   title: Algorithm for distance list extraction from pair distribution functions
-  url: https://arxiv.org/abs/1901.07185
-  volume: ''
+  url: https://doi.org/10.1107/S2053273319008647.
+  volume: 75
   wwwemail: ''
   year: '2019'
 gualt;jac08:
@@ -4536,21 +4543,23 @@ guguc;sa18:
     - Santos, E.
     - Pasupathy, A. N.
     - Uemura, Y. J.
-  doi: ''
+  day: 21
+  doi: 10.1126/sciadv.aat3672
   entrytype: article
   facility: xpd, nslsii
-  grant: fwp17, typeA, fy19
+  grant: fwp17, typeB2, fy19
   journal: Science Advances
-  nb: typeA, fy19
-  note: To be published
+  month: Dec
+  nb: typeB2, fy19
+  note:
   number: ''
   optannote: ''
   optnote: ''
   optwwwlanl: ''
-  pages: ''
+  pages: eaat3672
   title: Magnetism in Semiconducting Molybdenum Dichalcogenides
-  url: ''
-  volume: ''
+  url: https://advances.sciencemag.org/content/4/12/eaat3672
+  volume: 4
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   year: '2018'
@@ -5488,18 +5497,28 @@ koch;arxiv19:
   grant: fwp17, typeA, fy19
   journal: Phys. Rev. B., Rapid Communications
   nb: art, hilite, typeA, fy19
-  note: To be published.  Editor's suggestion
+  note: Editor's suggestion
   number: ''
   optannote: arXiv:1902.08732 [cond-mat.supr-con]
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
-  pages: ''
+  pages: 020501(R)
   title: Room temperature local nematicity in an iron-selenide superconducing sample
   url: ''
-  volume: ''
+  volume: 100
   wwwemail: ''
   year: '2019'
 konst;prb19:
+  ackno: The authors thank A. F. Kemper, L. Classen, A. V. Chubukov, R. M. Konik,
+    and A. M. Lindenberg for useful discussions and S. Lapidus for XPD measurements
+    at the 11-BM beamline at APS. This research used the 28-ID-1 (PDF) beamline of
+    the National Synchrotron Light Source II and the JEOL ARM 200 CF Microscope at
+    BNL. Work at Brookhaven National Laboratory was supported by US Department of
+    Energy (DOE), Office of Science, Office of Basic Energy Sciences (BES), Materials
+    Science and Engineering Division under Contract No. DE-SC0012704. The UED work
+    was performed at SLAC MeV-UED, which is supported in part by the DOE BES Scientific
+    User Facilities Division Accelerator & Detector R&D program, the LCLS Facility,
+    and SLAC under Contracts No. DE-AC02-05-CH11231 and No. DE-AC02-76SF00515.
   author:
     - Konstantinova, T.
     - Wu, L.
@@ -6911,7 +6930,7 @@ petko;jacs05:
   optwwwlanl: ''
   pages: '8805'
   title: 'Three-dimensional structure of nanocomposites from atomic pair distribution
-    function analysis: study of polyaniline and (polyaniline)\sb{x}V\sb{2}O\sb{5}.nH\sb{2}O'
+    function analysis: study of polyaniline and (polyaniline)$_{x}$V$_{2}$O$_{5}$.nH$_{2}$O'
   url: ''
   volume: '127'
   wwwemail: ' sb2896@columbia.edu'
@@ -7679,10 +7698,10 @@ rijcka;mdpim18:
   doi: 10.3390/ma11071066
   entrytype: article
   facility: nslsii, xpd
-  grant: fwp17
+  grant: fwp17, typeB2, fy19
   journal: MDPI-Materials
   month: Jun
-  nb: typeB2, fy18
+  nb: typeB2, fy18, typeB2, fy19
   number: ''
   optannote: ''
   optnote: Special Issue "State-of-the-Art Materials Science in Belgium 2017"
@@ -8329,6 +8348,50 @@ simps;ic10:
   volume: '49'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/simps_ic10.pdf
   year: '2010'
+skjae;prx19:
+  ackno: Experimental work was co-led by the groups at Brookhaven National Laboratory
+    (BNL) and the Norwegian University of Science and Technology (NTNU). Theoretical
+    work was led by ETH. Work at BNL was supported by U.S. DOE, Office of Science,
+    Office of Basic Energy Sciences (DOE-BES) under Contract No. DE-SC0012704. The
+    NTNU group acknowledges financial support from the Research Council of Norway
+    (Project No. 231430) and NTNU. The ETH group was supported by ETH Zürich and Advanced
+    Grant No. 291151 from the European Research Council. This research used resources
+    at the Spallation Neutron Source, a DOE Office of Science User Facility operated
+    by the Oak Ridge National Laboratory. Computational resources were provided by
+    the Euler cluster at ETH, Zürich. Matt Tucker and Marshall McDonnell are acknowledged
+    for assisting with the data collection for the neutron measurements. Matt Tucker
+    is acknowledged for constructing TOPAS input files for reciprocal-space Rietveld
+    refinements. Jörg Neuefeind and Pavol Juhas are acknowledged for assisting with
+    manual data reduction and quality testing. Peter M. Derlet is acknowledged for
+    constructive feedback on the manuscript.
+  author:
+    - Sandra H. Skjærvø
+    - Quintin N. Meier
+    - Mikhail Feygenson
+    - Nicola A. Spaldin
+    - Simon J. L. Billinge
+    - Emil S. Bozin
+    - Sverre M. Selbach
+  day: 1
+  doi: 10.1103/PhysRevX.9.031001
+  entrytype: article
+  facility: nomad, sns
+  grant: fwp17
+  journal: Phys. Rev. X
+  month: Jul
+  nb: fy19
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: 031001
+  title: Unconventional order-disorder phase transition in improper ferroelectric
+    hexagonal manganites
+  url: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.031001
+  volume: 9
+  wwwemail: ''
+  wwwpub: ''
+  year: '2019'
 sochn;jpcs12:
   author:
     - Sochnikov, I
@@ -8369,7 +8432,7 @@ spass;jaac05:
   optannote: ''
   optwwwlanl: ''
   pages: '403'
-  title: Hydriding/dehydriding of Mg\sb{87}Ni\sb{3}Al\sb{3}Mm\sb{7} (Mm=La, Ce-rich
+  title: Hydriding/dehydriding of Mg$_{87}$Ni$_{3}$Al$_{3}$Mm$_{7}$ (Mm=La, Ce-rich
     mischmetal) alloy produced by mechanical alloying
   url: http://www.sciencedirect.com/science/article/pii/S0925838805010704
   volume: '363'
@@ -8959,7 +9022,7 @@ wachh;am00:
   nb: ' art, chem '
   pages: '85'
   title: 'Mesostructured non-oxidic solids with adjustable worm-hole shaped pores:
-    M-Ge-Q (Q=S, Se) frameworks based on tetrahedral [Ge$_{4}$Q$_{10}$]\sp{4-} clusters'
+    M-Ge-Q (Q=S, Se) frameworks based on tetrahedral [Ge$_{4}$Q$_{10}$]$^{4-}$ clusters'
   url: http://onlinelibrary.wiley.com/doi/10.1002/(SICI)1521-4095(200001)12:2%3C85::AID-ADMA85%3E3.0.CO;2-P/full
   volume: '12'
   wwwemail: sb2896@columbia.edu
@@ -8984,7 +9047,7 @@ wachh;jssc00:
   nb: ' art, chem '
   pages: '21'
   title: 'Mesostructured metal germanium sulphide and selenide materials based on
-    the tetrahedral [Ge$_{4}$S$_{10}$]\sp{4-} and [Ge$_{4}$Se$_{10}$]\sp{4-} units:
+    the tetrahedral [Ge$_{4}$S$_{10}$]$^{4-}$ and [Ge$_{4}$Se$_{10}$]$^{4-}$ units:
     Surfactant templated three-dimensional disordered frameworks perforated with worm-holes'
   url: http://www.sciencedirect.com/science/article/pii/S0022459600986730
   volume: '152'
@@ -9393,7 +9456,7 @@ yao;jncs05:
   optwwwemail: ' sb2896@columbia.edu'
   optwwwlanl: ''
   pages: 1995-2002
-  title: Structure determination of low-alkali-content Na\sb{2}S + B\sb{2}S\sb{3}
+  title: Structure determination of low-alkali-content Na$_{2}$S + B$_{2}$S$_{3}$
     glasses using neutron and synchrotron x-ray diffraction
   url: ''
   volume: '351'
