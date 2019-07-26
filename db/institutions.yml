@@ -39,7 +39,7 @@ anl:
       name: Materials Science Division
   name: Argonne National Laboratory
   state: IL
-  zip: 60439
+  zip: '60439'
 aps:
   aka:
     - APS
@@ -47,7 +47,7 @@ aps:
   country: USA
   name: Advanced Photon Source
   state: IL
-  zip: 60439
+  zip: '60439'
 astrazeneca:
   aka:
     - Astra Zeneca
@@ -80,7 +80,7 @@ asu:
       name: School of Molecular Sciences
   state: Arizona
   street: ''
-  zip: 85287
+  zip: '85287'
 barnardu:
   aka: []
   city: New York
@@ -92,7 +92,7 @@ barnardu:
       name: Department of Chemistry
   name: Barnard College
   state: NY
-  zip: 10027
+  zip: '10027'
 batesc:
   aka:
     - Bates
@@ -104,7 +104,7 @@ batesc:
   name: Bates College
   state: Maine
   street: 2 Andrews Road
-  zip: 04240
+  zip: '04240'
 bnl:
   aka:
     - Brookhaven National Laboratory
@@ -125,7 +125,7 @@ bnl:
       name: Computational Science Initiative
   name: Brookhaven National Laboratory
   state: NY
-  zip: 11973
+  zip: '11973'
 byu:
   aka:
     - BYU
@@ -160,7 +160,7 @@ ccny:
         - Grove
   state: NY
   street: 160 Convent Avenue
-  zip: 10031
+  zip: '10031'
 columbiau:
   aka:
     - Columbia University
@@ -191,7 +191,7 @@ columbiau:
         - School of Engineering and Applied Science
       name: Fu Foundation School of Engineering and Applied Science
   state: NY
-  zip: 10027
+  zip: '10027'
 cornellu:
   aka:
     - Cornell
@@ -210,7 +210,7 @@ cornellu:
   name: Cornell University
   state: New York
   street: ''
-  zip: 14850
+  zip: '14850'
 doebes:
   aka:
     - Department of Energy
@@ -221,7 +221,7 @@ doebes:
   name: Department of Energy, Office of Science, Office of Basic Energy Sciences
   state: DC
   street: 1000 Independence Avenue., SW
-  zip: 20585
+  zip: '20585'
 drexelu:
   aka:
     - drexel university
@@ -240,7 +240,7 @@ drexelu:
     eng:
       name: College of Engineering
   state: PA
-  zip: 19104
+  zip: '19104'
 emba:
   aka:
     - EMBA
@@ -263,7 +263,7 @@ esrf:
   name: European Synchrotron Radiation Facility
   state: Rhone-Alps
   street: 71 Avenue des Martyrs
-  zip: 38000
+  zip: '38000'
 ethzurich:
   aka:
     - ETH
@@ -296,7 +296,7 @@ ghentu:
   name: Ghent University
   state: East Flanders
   street: St. Pietersnieuwstraat 33
-  zip: 9000
+  zip: '9000'
 gndu:
   aka:
     - GND University
@@ -343,7 +343,7 @@ ill:
   name: Institut Laue Langevin
   state: ''
   street: 71 Avenue des Martyrs
-  zip: 38000
+  zip: '38000'
 kentstateu:
   aka:
     - kent state
@@ -365,7 +365,7 @@ kentstateu:
       name: College of Arts and Sciences
   state: OH
   street: 208 Schwartz Center, 800 E. Summit St.
-  zip: 44242
+  zip: '44242'
 lanl:
   aka:
     - LANL
@@ -376,7 +376,7 @@ lanl:
       name: Materials Science and Technology Division
   name: Los Alamos National Laboratory
   state: NM
-  zip: 87545
+  zip: '87545'
 lbnl:
   aka:
     - LBNL
@@ -389,7 +389,7 @@ lbnl:
       name: Molecular Foundry
   name: Lawrence Berkeley National Laboratory
   state: CA
-  zip: 94720
+  zip: '94720'
 lehighu:
   aka:
     - Lehigh
@@ -427,7 +427,7 @@ msu:
   name: Michigan State University
   state: MI
   street: 220 Trowbridge Rd
-  zip: 48824
+  zip: '48824'
 natautoumexico:
   aka:
     - Universidad Nacional Autónoma de México
@@ -450,7 +450,7 @@ natautoumexico:
       name: Faculty of Sciences
   state: ''
   street: Av Universidad 3000, Cd. Universitaria, Coyoacán
-  zip: 04510
+  zip: '04510'
 nist:
   aka:
     - NIST
@@ -462,7 +462,7 @@ nist:
   name: National Institute of Standards and Technology
   state: MD
   street: 100 Bureau Drive
-  zip: 20899
+  zip: '20899'
 nslsii:
   aka:
     - NSLS-II
@@ -476,7 +476,7 @@ nslsii:
   country: USA
   name: National Synchrotron Light Source II
   state: NY
-  zip: 11973
+  zip: '11973'
 nyu:
   aka:
     - nyu
@@ -490,7 +490,7 @@ nyu:
       name: Department of Chemistry
   name: New York University
   state: NY
-  zip: 10003
+  zip: '10003'
 ohiou:
   aka:
     - Ohio
@@ -543,7 +543,7 @@ pekingu:
   name: Peking University
   state: ''
   street: 5 Yiheyuan Road
-  zip: 100871
+  zip: '100871'
 psi:
   aka:
     - PSI
@@ -565,7 +565,7 @@ puneu:
       name: Department of Physics
   name: Savitribai Phule Pune University
   state: Maharashtra
-  zip: 411007
+  zip: '411007'
 qmul:
   aka:
     - QMUL
@@ -596,7 +596,7 @@ riceu:
       name: Department of Chemistry
   name: Rice University
   state: TX
-  zip: 77251
+  zip: '77251'
 rutgersu:
   aka:
     - Rutgers
@@ -629,7 +629,7 @@ sunybuffalo:
       name: Department of Chemical and Biological Engineering
   name: The State University of New York at Buffalo
   state: ''
-  zip: 14260
+  zip: '14260'
 sunysb:
   aka:
     - SUNY-SB
@@ -647,7 +647,7 @@ sunysb:
   name: Stony Brook University
   state: NY
   street: ''
-  zip: 11794
+  zip: '11794'
 ubayreuth:
   aka:
     - Bayreuth
@@ -675,7 +675,7 @@ ubelgrade:
       name: Institute of Physics
   name: University of Belgrade
   street: Studentski trg 1
-  zip: 11000
+  zip: '11000'
 ubern:
   aka:
     - Bern
@@ -691,7 +691,7 @@ ucdavis:
   country: USA
   name: University of California - Davis
   state: CA
-  zip: 95616
+  zip: '95616'
 uconn:
   aka:
     - UConn
@@ -705,7 +705,7 @@ uconn:
   name: University of Connecticut
   state: CT
   street: 97 North Eagleville Road
-  zip: 06269
+  zip: '06269'
 ucopenhagen:
   aka: []
   city: Copenhagen
@@ -731,7 +731,7 @@ udelaware:
   name: University of Delaware
   state: DE
   street: ''
-  zip: 19716
+  zip: '19716'
 uduisburgessen:
   aka:
     - The University of Duisburg-Essen
@@ -748,7 +748,7 @@ uduisburgessen:
   name: University of Duisburg-Essen
   state: North Rhine-Westphalia
   street: Universitaetsstrasse 7
-  zip: 45117
+  zip: '45117'
 ufrankfurt:
   aka:
     - University of Frankfurt
@@ -785,7 +785,7 @@ ufrankfurt:
     chemistry:
       name: Department of Chemistry
   state: ''
-  zip: 60323
+  zip: '60323'
 uhamburg:
   aka:
     - University of Hamburg
@@ -871,7 +871,7 @@ unisa:
       name: Department of Pharmacy
   name: University of Salerno
   state: ''
-  zip: 84084
+  zip: '84084'
 uosijek:
   aka:
     - University of Osijek
@@ -956,7 +956,7 @@ utsinghua:
   name: Tsinghua University
   state: Haidian
   street: 30 Shuangqing Rd
-  zip: 100084
+  zip: '100084'
 uwashington:
   aka:
     - University of Washington
@@ -968,7 +968,7 @@ uwashington:
       name: Department of Chemistry
   name: University of Washington
   state: WS
-  zip: 98195
+  zip: '98195'
 uwisconsin:
   aka:
     - Wisco
@@ -989,7 +989,7 @@ uwisconsin:
       name: School of Pharmacy
   state: WI
   street: 1509 University Ave.
-  zip: 53706
+  zip: '53706'
 uwmilwaukee:
   aka:
     - UWM
@@ -1000,7 +1000,7 @@ uwmilwaukee:
       name: Department of Physics
   name: University of Wisconsin Milwaukee
   state: Wisconsin
-  zip: 411007
+  zip: '411007'
 vanderbiltu:
   aka:
     - Vanderbilt
@@ -1021,4 +1021,4 @@ vanderbiltu:
   name: Vanderbilt University
   state: Tennessee
   street: 2201 West End Ave
-  zip: 37235
+  zip: '37235'
