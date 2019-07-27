@@ -11,19 +11,12 @@ bfrandsen:
       institution: Columbia University
       end_year: 2016
       end_month: 4
+      group: bg
   employment:
     - begin_year: 2016
       begin_month: 5
       position: Post-doctoral Scholar
       organization: University of California, Berkeley
-    - begin_year: 2012
-      organization: Columbia University
-      begin_month: 6
-      end_month: 4
-      end_year: 2016
-      status: phd
-      group: bg
-      position: Graduate Research Assistant
   name: Ben Frandsen
   position: assistant professor
 chliu:
@@ -41,18 +34,10 @@ chliu:
       begin_year: 2014
       group: bg
       other:
-        - 'Adviser: Simon Billinge'
+        - 'Advisor: Simon Billinge'
       department: apam
       degree: MS/PhD in Applied Physics
   email: cl3077@columbia.edu
-  employment:
-    - begin_month: 7
-      begin_year: 2015
-      end_year: 2019
-      group: bg
-      organization: Columbia University
-      position: Graduate Student
-      status: phd
   name: Chia-Hao (Timothy) Liu
   orcid_id: 0000-0002-3216-0354
   position: graduate research assistant
@@ -99,7 +84,7 @@ cwright:
       begin_year: 2014
       end_year: 2014
       other:
-        - 'Adviser: Xiao-Dong Zhou'
+        - 'Advisor: Xiao-Dong Zhou'
         - 'Thesis: Solving Atomic Structures using Statistical Mechanical Searches
           on X-ray Scattering Derived Potential Energy Surfaces'
         - 'Website: https://github.com/CJ-Wright/Masters_Thesis/raw/master/thesis.pdf'
@@ -109,7 +94,7 @@ cwright:
       begin_year: 2010
       end_year: 2014
       other:
-        - 'Adviser: Shouheng Sun'
+        - 'Advisor: Shouheng Sun'
         - 'Thesis: Solving Atomic Structures using Statistical Mechanical Searches
           on X-ray Scattering Derived Potential Energy Surfaces'
       degree: ScB in Chemical Physics with Honors
@@ -117,13 +102,6 @@ cwright:
       gpa: 3.49
   email: cjwright4242@gmail.com
   employment:
-    - begin_month: 9
-      begin_year: 2016
-      end_year: 2019
-      group: bg
-      organization: Columbia University
-      position: Graduate Student Assistant
-      status: phd
     - end_year: 2015
       begin_year: 2015
       location: Upton, NY
@@ -325,18 +303,12 @@ cyshi:
       institution: Columbia University
       end_year: 2015
       end_month: 8
+      group: bg
   employment:
     - begin_year: 2015
       begin_month: 9
       position: Scientist
       organization: Abbott Pharmaceuticals
-    - begin_year: 2012
-      begin_month: 5
-      end_month: 8
-      group: bg
-      end_year: 2015
-      status: phd
-      position: Graduate Student Assistant
   name: Chenyang Shi
   position: Scientist
 ebozin:
@@ -355,28 +327,25 @@ ebozin:
       department: Department of Physics and Astronomy
       degree: PhD in Physics
       other:
-        - 'Adviser: Simon Billinge'
+        - 'Advisor: Simon Billinge'
     - institution: Michigan State University
       begin_year: 1996
       end_year: 1999
       location: East Lansing, MI
       department: Department of Physics and Astronomy
       degree: MS in Physics
-      other:
     - institution: Michigan State University
       begin_year: 1999
       end_year: 2001
       location: East Lansing, MI
       department: Department of Electrical Engineering
       degree: M.Sc in Electrical Engineering
-      other:
     - institution: University of Belgrade
       begin_year: 1991
       end_year: 1995
       location: Belgrade, Serbia
       department: Department of Physics
       degree: B.Sc in Theoretical Physics
-      other:
   email: ebozin@bnl.gov
   employment:
     - begin_month: 11
@@ -403,10 +372,9 @@ ebozin:
       position: Associate Research Scientist
       status: postdoc
   name: Emil S. Bozin
-  orcid_id:
   position: Associate Scientist
 eculbertson:
-  active: true
+  active: false
   aka:
     - E Culbertson
     - E. Culbertson
@@ -440,7 +408,7 @@ eculbertson:
       degree: MS/PhD in Applied Physics
       group: bg
       other:
-        - 'Adviser: Simon Billinge'
+        - 'Advisor: Simon Billinge'
       department: apam
       begin_year: 2016
       gpa: 3.83
@@ -455,14 +423,6 @@ eculbertson:
       gpa: 3.85
   email: elizabeth.a.culbertson@gmail.com
   employment:
-    - begin_month: 9
-      begin_year: 2017
-      end_month: 5
-      end_year: 2019
-      group: bg
-      organization: Columbia University
-      position: Graduate Student
-      status: phd
     - end_year: 2015
       begin_year: 2015
       location: Stanford, CA
@@ -535,6 +495,7 @@ jcalamari:
       location: New York, NY
       begin_year: 2015
       end_year: 2017
+      group: bg
       organization: The Billinge Group, Columbia University
       status: undergrad
     - end_year: 2017
@@ -593,17 +554,12 @@ jgong:
     - begin_year: 2014
       degree: PhD in Physics
       institution: Columbia University
+      group: bg
   employment:
-    - begin_year: 2016
-      begin_month: 1
-      end_month: 3
-      end_year: 2018
-      status: phd
-      position: Graduate Student Assistant
     - begin_year: 2018
       begin_month: 4
       organization: Hermes Microvision
-      address: San Jose, CA
+      location: San Jose, CA
       position: Engineer
   name: Zizhou Gong
   position: Engineer
@@ -618,40 +574,15 @@ lyang:
       begin_month: 1
       degree: PhD in Materials Science
       institution: Columbia University
+      group: bg
     - begin_year: 2015
       begin_month: 9
       end_year: 2016
       end_month: 12
       degree: Masters in Materials Science
       institution: Columbia University
-  employment:
-    - begin_year: 2017
-      begin_month: 1
-      end_month: 12
-      end_year: 2020
-      status: phd
-      position: Graduate Student Assistant
   name: Long Yang
   position: Graduate Student
-minimumperson:
-  active: true
-  aka:
-    - other names
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
-  bio: bio
-  education:
-    - begin_year: 2019
-      degree:
-      institution: Columbia University
-  employment:
-    - begin_year: 1971
-      begin_month: 1
-      end_month: 3
-      end_year: 1972
-      status: phd
-      position: Graduate Student Assistant
-  name: name
-  position: undergrad
 mterban:
   active: false
   aka:
@@ -671,17 +602,11 @@ mterban:
     - begin_year: 2017
       begin_month: 9
       position: Post Doctoral Associate
-    - begin_year: 2013
-      begin_month: 1
-      end_month: 8
-      end_year: 2017
-      group: bg
-      status: phd
-      position: Graduate Student Assistant
+      organization: Max Planck Institute
   name: Maxwell Terban
   position: Post-doctoral Associate
 mwaddell:
-  active: true
+  active: false
   aka:
     - Michael Waddell
     - Michael A. Waddell
@@ -709,10 +634,11 @@ mwaddell:
     - organization: ORNL
       begin_year: 2016
       end_year: 2016
-      position: intern
+      position: Intern
     - organization: Goldman Sachs
-      position: PhD student
-      begin_year: 2018
+      position: Analyst
+      begin_year: 2017
+      end_year: 2018
       group: bg
     - organization: Columbia University
       position: PhD student
@@ -730,19 +656,19 @@ nfuller:
   avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
   bio: bio
   education:
-    - begin_year: 2013
-      begin_month: 1
-      degree: PhD in Materials Science
-      institution: Columbia University
-      end_year: 2017
-      end_month: 8
+    - institution: Brooklyn College of the City University of New York (CUNY)
+      begin_year: 2011
+      end_year: 2015
+      department: Physics
+      degree: BS in Physics
   employment:
     - begin_year: 2015
       begin_month: 9
-      end_month: 8
+      organization: Columbia University
       end_year: 2017
-      status: ms
-      position: Masters student researcher
+      end_month: 8
+      position: Researcher
+      group: bg
   name: Neno Fuller
   position: Masters Student
 rgu:
@@ -752,12 +678,11 @@ rgu:
   avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
   bio: bio
   education:
-    - begin_year:
-      begin_month:
+    - begin_year: 2012
       degree: PhD in Applied Mathematics
-      institution:
+      institution: Chinese Academy of Sciences
       end_year: 2017
-      end_month: 8
+      end_month: 6
   employment:
     - begin_year: 2017
       begin_month: 9
@@ -765,6 +690,7 @@ rgu:
       end_year: 2020
       status: postdoc
       position: Post Doctoral Researcher
+      organization: Columbia University
   name: Ran Gu
   position: Post Doctoral Researcher
 rkoch:
@@ -782,7 +708,7 @@ rkoch:
       department: Physics and Astronomy
       degree: PhD in Physics
       other:
-        - 'Advisers: Paolo Scardi, Matteo Leoni'
+        - 'Advisors: Paolo Scardi, Matteo Leoni'
   email: rkoch@bnl.gov
   employment:
     - begin_month: 9
@@ -794,7 +720,6 @@ rkoch:
       position: Post Doctoral Associate
       status: postdoc
   name: Robert Koch
-  orcid_id:
   position: Associate Scientist
 sbandi:
   active: true
@@ -803,16 +728,16 @@ sbandi:
   avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
   bio: bio
   education:
-    - begin_year: 2019
+    - begin_year: 2015
+      end_year: 2019
       degree: BSc
       institution: Columbia University
-  employment:
-    - begin_year: 2017
-      begin_month: 9
-      end_month: 6
-      end_year: 2019
-      status: undergrad
-      position: Undergraduate Research
+      group: bg
+    - begin_year: 2019
+      degree: MS/PhD
+      institution: columbiau
+      department: apam
+      group: bg
   name: Sasaank Bandi
   position: Graduate Studenet
 sbanerjee:
@@ -823,28 +748,20 @@ sbanerjee:
   avatar: https://avatars0.githubusercontent.com/u/7819851?s=400&v=4
   bio: ''
   education:
-    - institution: Columbia University
+    - institution: columbiau
       begin_year: 2013
       group: bg
       location: New York, NY
       department: apam
       degree: MS/PhD in Applied Physics
       other:
-        - 'Adviser: Simon Billinge'
+        - 'Advisor: Simon Billinge'
     - institution: Wake Forest University
       degree: BS in Physics
       begin_year: 2008
       end_year: 2012
       location: Winston-Salem, NC
   email: sb3519@columbia.edu
-  employment:
-    - begin_month: 6
-      begin_year: 2014
-      end_year: 2019
-      group: bg
-      organization: Columbia University
-      position: Graduate Student
-      status: phd
   name: Soham Banerjee
   orcid_id: 0000-0001-9271-493X
   position: Graduate Student
@@ -895,7 +812,7 @@ sbillinge:
       department: matsci
       degree: BA in Metallurgy and Materials Science
       other:
-        - 'Adviser: George Smith'
+        - 'Advisor: George Smith'
         - 'Disseration: Development of a novel ultra-high strength alloy steel for
           wire and cable'
     - institution: upenn
@@ -904,61 +821,63 @@ sbillinge:
       department: mse
       degree: PhD in Materials Science and Engineering
       other:
-        - 'Advisers: Takeshi Egami and Peter Davies'
+        - 'Advisors: Takeshi Egami and Peter Davies'
         - 'Disseration: Local atomic structure and superconducivity of Nd2-xCexCuO4-y:
           a pair distribution function study '
   employment:
-    - institution: columbiau
+    - organization: Columbia University
       begin_year: 2008
       group: bg
       other:
         - 'Full title: Professor of Materials Science and of Applied Physics and of
           Applied Mathematics'
-      department: apam
+      department: Applied Physics and Applied Mathematics
       position: Professor
       status: pi
-    - department: cmpms
-      institution: bnl
+    - department: Condensed Matter Physics and Materials Science
+      organization: Brookhaven National Laboratory
       position: Physicist
       begin_year: 2008
       group: xray
       status: pi
-    - institution: ill
+    - organization: Institute Laue Langevin
       position: Visiting Scientist
       begin_year: 2012
       end_year: 2012
       status: pi
-    - institution: esrf
+    - organization: European Synchrotron Radiation Facility
       position: Visiting Scientist
       begin_year: 2011
       end_year: 2012
       status: pi
-    - department: physics
-      institution: msu
+    - department: Physics and Astronomy
+      organization: Michigan State University
       position: Professor
       begin_year: 2003
       end_year: 2007
       status: pi
-    - institution: uroma
+    - organization: Universita di Roma, La Sapienza
+      department: Physics
       position: Visiting Professor
       begin_year: 2001
       end_year: 2002
       status: pi
-    - department: physics
-      institution: msu
+    - department: Physics and Astronomy
+      organization: Michigan State University
       position: Associate Professor
       begin_year: 1999
       end_year: 2003
       status: pi
-    - department: physics
-      institution: msu
+    - department: Physics and Astronomy
+      organization: Michigan State University
       position: Assistant Professor
       begin_year: 1994
       end_year: 1999
       status: pi
-    - department: mst
-      institution: lanl
+    - department: Materials Science and Technology
+      organization: Los Alamos National Laboratory
       position: Director's Post-doctoral Research Fellow
+      begin_year: 1992
       end_year: 1994
       other:
         - 'Advisor: George Kwei'
@@ -1050,21 +969,13 @@ sstao:
       department: apam
       degree: MS/PhD in Applied Physics
       other:
-        - 'Adviser: Simon Billinge'
+        - 'Advisor: Simon Billinge'
     - institution: Peking University
       degree: BS in Physics
       begin_year: 2013
       end_year: 2017
       location: Beijing, China
   email: st3107@columbia.edu
-  employment:
-    - begin_month: 6
-      begin_year: 2017
-      end_year: 2021
-      group: bg
-      organization: Columbia University
-      position: Graduate Student
-      status: phd
   name: Songsheng Tao
   orcid_id: 0000-0002-7565-3503
   position: Graduate Student
@@ -1076,15 +987,16 @@ syxue:
   bio: bio
   education:
     - begin_year: 2015
-      degree:
-      institution: Columbia University
+      degree: BSc
+      institution: columbiau
+      department: apam
   employment:
     - begin_month: 6
       begin_year: 2015
       end_year: 2018
       group: bg
       organization: Columbia University
-      position: Undergraduate Research
+      position: Undergraduate Research Assistant
       status: undergrad
   name: Shuyue Xue
   position: Researcher
@@ -1112,12 +1024,6 @@ xhyang:
       organization: JP Morgan Chase
       end_month: 6
       end_year: 2017
-    - begin_year: 2011
-      begin_month: 9
-      end_month: 6
-      end_year: 2015
-      status: phd
-      position: Graduate Student Assistant
   name: XiaoHao Yang
   position: Software Developer
 xyun:
@@ -1133,13 +1039,19 @@ xyun:
       institution: Columbia University
       end_year: 2019
       end_month: 6
+    - begin_year: 2019
+      begin_month: 9
+      degree: DPhil
+      institution: Oxford University
   employment:
     - begin_year: 2017
       begin_month: 9
       end_month: 5
       end_year: 2019
+      group: bg
       status: undergrad
       position: Undergraduate research
+      organization: Columbia University
   name: Xin Yun
   position: Graduate Student
 yrakita:
@@ -1149,42 +1061,41 @@ yrakita:
   avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
   bio: bio
   education:
-    - begin_year:
-      begin_month:
-      degree: PhD in Materials Science
-      institution: Weizmann Institute
+    - begin_year: 2014
+      degree: PhD
+      institution: Weizmann Institute of Science
+      department: Materials and Interfaces
       end_year: 2018
-      end_month: 6
+      other:
+        - 'Advisors: Profs. Gary Hodes and David Cahen'
+        - 'Thesis title: Between Structure and Performance in Halide Perovskites for
+          Photovoltaic Applications: the Role of Defects'
+    - begin_year: 2010
+      degree: M.Sc.
+      institution: Tel-Aviv University
+      department: Materials Engineering & Nanotechnology
+      end_year: 2014
+      other:
+        - 'Advisors: Dr. Amir Natan and Prof. Dianna Golodnitsky'
+        - 'Thesis title: Modelling the effect of adsorbed polyelectrolytes on the
+          electric potential at charged surfaces'
+        - (summa cum laude)
+    - begin_year: 2005
+      degree: B.Sc.
+      institution: Ben-Gurion University
+      department: Chemistry
+      end_year: 2008
+      other:
+        - (summa cum laude)
   employment:
     - begin_year: 2015
       begin_month: 9
       end_month: 8
       end_year: 2017
       status: postdoc
+      organization: Columbia University
       position: Post Doctoral Associate
   name: Yevgeny Rakita
-  position: Post Doctoral Associate
-ytao:
-  active: false
-  aka:
-    - Yunzhe Tao
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
-  bio: bio
-  education:
-    - begin_year: 2013
-      begin_month: 1
-      degree: PhD in Materials Science
-      institution: Columbia University
-      end_year: 2017
-      end_month: 8
-  employment:
-    - begin_year: 1971
-      begin_month: 1
-      end_month: 3
-      end_year: 1972
-      status: outsider
-      position: Graduate Student Assistant
-  name: Yunzhe Tao
   position: Post Doctoral Associate
 zguguchia:
   active: false
@@ -1193,9 +1104,10 @@ zguguchia:
   avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
   bio: bio
   education:
-    - begin_year: 2019
-      degree:
-      institution: Columbia University
+    - begin_year: 2010
+      degree: PhD
+      institution: Somewhere
+      end_year: 2016
   employment:
     - begin_year: 2018
       begin_month: 6
@@ -1205,7 +1117,9 @@ zguguchia:
       begin_month: 9
       end_month: 6
       end_year: 2018
+      group: bg
       status: postdoc
+      organization: Columbia University
       position: Post Doctoral Associate
   name: Zurab Guguchia
   position: Scientist
