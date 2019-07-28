@@ -143,13 +143,11 @@ andon;c;tacolt:
     - Sun, Xiaorui
   booktitle: Proceedings of the 2017 Conference on Learning Theory
   doi: ''
-  editor:
-    - Kale, Satyen
-    - Shamir, Ohad
+  editor: Kale, Satyen and Shamir, Ohad
   entrytype: inproceedings
   facility: ''
   grant: dmref15
-  month: 07--10 Jul
+  month: Jul
   optwwwlanl: ''
   pages: 105--126
   pdf: http://proceedings.mlr.press/v65/andoni17a/andoni17a.pdf
@@ -321,7 +319,7 @@ baner;jpcc18:
     - Epple, Matthias
     - Murray, Christopher B.
     - Billinge, Simon J. L.
-  day: 26
+  day: '26'
   doi: 10.1021/acs.jpcc.8b05897
   entrytype: article
   facility: 'nsls, x17a, nslsii, xpd, pdf, esrf, id11, aps, 11idb '
@@ -448,7 +446,7 @@ beech;prl19:
     - Said, Ayman H.
     - Hu, Michael Y.
     - Billinge, Simon J. L.
-  day: 14
+  day: '14'
   doi: 10.1103/PhysRevLett.122.026101
   entrytype: article
   facility: aps, herix, nslsii, xpd
@@ -609,12 +607,9 @@ billi;b;coecm91:
     - Egami, T.
     - Catlow, C. R. A.
   booktitle: Chemistry of Electronic Ceramic Materials
-  editor:
-    - Bar-Yam, Y.
-    - Egami, T.
-    - Leon}, J. {Mustre-de
-    - Bishop, A. R.
-  entrytype: inproceedings
+  editor: Bar-Yam, Y. and  Egami, T. and Mustre-de Leon J. and
+    Bishop, A. R.
+  entrytype: book
   facility: ' ipns, sepd '
   grant: ''
   nb: ' conf, hts, conf'
@@ -630,13 +625,11 @@ billi;b;datnndaam10:
   address: Insubria, Como, Italy
   author:
     - Billinge, S. J. L.
-    - '{Bo\v{z}in}, E. S.'
+    - Bo\v{z}in, E. S.
   booktitle: 'Diffraction at the Nanoscale: Nanocrystals, Defective and Amorphous
     Materials'
   chapter: ''
-  editor:
-    - Guagliardi, A.
-    - Masciocchi, Norberto
+  editor: Guagliardi, A. and  Masciocchi, Norberto
   entrytype: inproceedings
   facility: ' '
   grant: 'fwp08, frg07 '
@@ -655,12 +648,10 @@ billi;b;iisscomo12:
   author:
     - Billinge, S. J. L.
     - Juh\'{a}s, P.
-    - '{Bo\v{z}in}, E. S.'
+    - Bo\v{z}in, E. S.
   booktitle: Crystallography for Health and Biosciences
   chapter: ''
-  editor:
-    - Guagliardi, A.
-    - Masciocchi, Norberto
+  editor: Guagliardi, A. and Masciocchi, Norberto
   entrytype: incollection
   facility: ' '
   grant: 'fwp11, frg07 '
@@ -680,9 +671,7 @@ billi;b;imsadoceo03:
     - Billinge, S. J. L.
   booktitle: "Intrinsic Multiscale Structure and Dynamics of\nComplex Electronic Oxides"
   doi: 10.1142/9789812705112_0004
-  editor:
-    - Shenoy, S.
-    - Bishop, A. R.
+  editor: Shenoy, S. and Bishop, A. R.
   entrytype: inproceedings
   facility: 'sepd, ipns, mlnsc, id1, aps, hipd '
   grant: nsf-dmr00
@@ -705,9 +694,7 @@ billi;b;itoch18:
     - Billinge, S. J. L.
   booktitle: International Tables of Crystallography
   chapter: ''
-  editor:
-    - Gilmore, Chris
-    - 'others, '
+  editor: Gilmore, Chris and others
   entrytype: inproceedings
   facility: ' '
   grant: 'fwp17 '
@@ -729,11 +716,7 @@ billi;b;lehts92:
     - Billinge, S. J. L.
     - Egami, T.
   booktitle: Lattice Effects in High T$_{c}$ Superconductors
-  editor:
-    - Bar-Yam, Y.
-    - Egami, T.
-    - Leon}, J. {Mustre-de
-    - Bishop, A. R.
+  editor: Bar-Yam, Y. and Egami, T. and Mustre-de Leon, J. and Bishop, A. R.
   entrytype: inproceedings
   facility: ' ipns, sepd '
   grant: ''
@@ -750,9 +733,7 @@ billi;b;lsfd98:
   author:
     - Billinge, S. J. L.
   booktitle: Local Structure from Diffraction
-  editor:
-    - Billinge, S. J. L.
-    - Thorpe, M. F.
+  editor: Billinge, S. J. L. and Thorpe, M. F.
   entrytype: inproceedings
   facility: ' ipns, mlnsc, nsls, glad, sepd, hipd, x7a'
   grant: 'cfmr, doe97, sloan95 '
@@ -772,10 +753,7 @@ billi;b;mrsp95:
     - Billinge, S. J. L.
     - Kwei, G. H.
   booktitle: Neutron Scattering for Materials Science II
-  editor:
-    - Neumann, D. A.
-    - Russell, T. P.
-    - Wuensch, B. J.
+  editor: Neumann, D. A. and Russell, T. P. and Wuensch, B. J.
   entrytype: article
   facility: ' ipns, mlnsc, sepd, hipd '
   grant: ''
@@ -796,10 +774,8 @@ billi;b;pdtap08:
   booktitle: 'Powder diffraction: theory and practice'
   chapter: '16'
   doi: 10.1039/9781847558237
-  editor:
-    - Dinnebier, Robert E.
-    - Billinge, Simon J. L.
-  entrytype: inproceedings
+  editor:  Dinnebier, Robert E. and Billinge, Simon J. L.
+  entrytype: inbook
   facility: ' '
   grant: doe97, frg07
   nb: ' chap, pdf, hilite '
@@ -818,9 +794,7 @@ billi;b;pom99:
   author:
     - Billinge, S. J. L.
   booktitle: Physics of Manganites
-  editor:
-    - Kaplan, T. A.
-    - Mahanti, S. D.
+  editor: Kaplan, T. A. and Mahanti, S. D.
   entrytype: incollection
   facility: ' ipns, mlnsc, glad, sepd, hipd,'
   grant: 'cfmr, nsf-dmr97, sloan95 '
@@ -839,8 +813,7 @@ billi;b;scem94:
     - Kwei, G. H.
     - Thompson, J. D.
   booktitle: Strongly Correlated Electronic Materials
-  editor:
-    - Bedell, K.
+  editor: Bedell, K.
   entrytype: incollection
   facility: ' '
   grant: ''
@@ -859,10 +832,7 @@ billi;b;uecapd13:
   chapter: '17'
   doi: 10.1007/978-94-007-5580-2
   edition: ''
-  editor:
-    - Kolb, U.
-    - David, W. I. F.
-    - Shankland, K.
+  editor: Kolb, U. and David, W. I. F. and Shankland, K.
   entrytype: inproceedings
   facility: ' '
   grant: fwp11, frg
@@ -905,7 +875,7 @@ billi;cec10:
     - Billinge, Simon J. L.
     - Dykhne, Timur
     - Juh\'{a}s, Pavol
-    - '{Bo\v{z}in}, Emil'
+    - Bo\v{z}in, Emil
     - Taylor, Ryan
     - Florence, Alastair J.
     - Shankland, Kenneth
@@ -1093,9 +1063,7 @@ billi;fstp02:
   address: New York
   author: []
   doi: 10.1007/978-1-4615-0613-3
-  editor:
-    - Billinge, S. J. L.
-    - Thorpe, M. F.
+  editor: Billinge, S. J. L. and Thorpe, M. F.
   entrytype: proceedings
   facility: ' '
   grant: 'cfmr, '
@@ -1224,7 +1192,7 @@ billi;jpcs96:
 billi;js00:
   author:
     - Billinge, S. J. L.
-    - z}}in, E. S. {Bo{\v
+    - Bo\v{z}in, E. S.
     - Gutmann, M.
     - Takagi, H.
   entrytype: article
@@ -1267,9 +1235,7 @@ billi;jssc08:
 billi;lsfd98:
   address: New York
   author: []
-  editor:
-    - Billinge, S. J. L.
-    - Thorpe, M. F.
+  editor: Billinge, S. J. L. and Thorpe, M. F.
   entrytype: proceedings
   facility: ' '
   grant: 'cfmr, '
@@ -1483,7 +1449,7 @@ billi;pc00:
   author:
     - Billinge, S. J. L.
     - Gutmann, M.
-    - zin}, {E. S. Bo\v
+    - Bozin, E. S.
   doi: 10.1016/S0921-4534(00)01077-7
   entrytype: article
   facility: ' '
@@ -1733,13 +1699,13 @@ billi;pta19:
     DE-SC0012704
   author:
     - Billinge, Simon J. L.
-  day: 29
+  day: '29'
   doi: 10.1098/rsta.2018.0413
   entrytype: article
   facility: ''
   grant: fwp17, typeA, fy19
   journal: Philos T. Roy. Soc. A
-  month: 4
+  month: April
   nb: art, typeA, fy19
   number: ''
   optannote: ''
@@ -1892,7 +1858,7 @@ booth;jpconfs10:
   author:
     - Booth, C. H.
     - Bauer, E. D.
-    - '{Bo\v{z}in}, E. S.'
+    - Bo\v{z}in E. S.
     - Billinge, S. J. L.
     - Walter, M. D.
   doi: ''
@@ -1953,9 +1919,7 @@ bozin;b;coshan13:
   booktitle: Characterization of semiconductor heterostructures and nanostructures
   doi: ''
   edition: 2nd
-  editor:
-    - Agostini, Giovanni
-    - Lamberti, Carlo
+  editor: Agostini, Giovanni and Lamberti, Carlo
   entrytype: incollection
   facility: ' '
   grant: ' fwp11 '
@@ -2002,7 +1966,7 @@ bozin;jac09:
   year: '2009'
 bozin;jpcm04:
   author:
-    - Bo\v{z}in}, E. S.
+    - Bo\v{z}in, E. S.
     - Petkov, V.
     - Barnes, P. W.
     - Woodward, P. M.
@@ -2133,7 +2097,7 @@ bozin;pb06:
   year: '2006'
 bozin;pb98:
   author:
-    - Bo\v{z}in}, E. S.
+    - Bo\v{z}in, E. S.
     - Billinge, S. J. L.
     - Kwei, G. H.
   entrytype: article
@@ -2451,7 +2415,7 @@ bozin;ssp98:
   year: '1998'
 bozin;zks07:
   author:
-    - zin}, E. {Bo\v
+    - Bo\v{z}in, E. S.
     - Qiu, X.
     - Worhatch, R. J.
     - Paglia, G.
@@ -2610,9 +2574,7 @@ campb;b;fstpbas02:
     - Osborn, R.
     - Sinha, S. K.
   booktitle: "From semiconductors to proteins: beyond the average\nstructure"
-  editor:
-    - Billinge, S. J. L.
-    - Thorpe, M. F.
+  editor: Billinge, S. J. L. and Thorpe, M. F.
   entrytype: inproceedings
   facility: ' '
   grant: ' nsf-dmr00 '
@@ -2633,7 +2595,7 @@ campi;epjb06:
     - Cappelluti, E.
     - Proffen, {Th. }
     - Qiu, X.
-    - zin}, {E. S. Bo\v
+    - Bo\v{z}in, E. S.
     - Billinge, S. J. L.
     - Agrestini, S.
     - Saini, N. L.
@@ -2659,7 +2621,7 @@ campi;jsnm07:
     - Campi, G.
     - Proffen, {Th. }
     - Qiu, X.
-    - zin}, {E. S. Bo\v
+    - Bo\v{z}in, E. S.
     - Billinge, S. J. L.
     - Agrestini, S.
     - Saini, N. L.
@@ -3135,10 +3097,7 @@ dinne;b;itoch18:
     - Billinge, Simon J. L.
   booktitle: International Tables of Crystallography
   chapter: ''
-  editor:
-    - Gilmore, Chris
-    - Shenk, Henk
-    - others
+  editor: Gilmore, Chris and Shenk, Henk and others
   entrytype: inproceedings
   facility: ' '
   grant: 'fwp17, efrc10, pire '
@@ -3157,9 +3116,7 @@ dinne;b;pdtap08:
   address: London, England
   author: []
   doi: 10.1039/9781847558237
-  editor:
-    - Dinnebier, Robert E.
-    - Billinge, Simon J. L.
+  editor: Dinnebier, Robert E. and Billinge, Simon J. L.
   entrytype: book
   facility: ' '
   grant: doe97, frg07
@@ -3263,8 +3220,7 @@ duxbu;asilomar16:
     - Billinge, Simon J. L.
   booktitle: Signals, Systems and Computers, 2016 50th Asilomar Conference
   doi: 10.1109/ACSSC.2016.7869624
-  editor:
-    - Matthews, Michael B.
+  editor: Matthews, Michael B.
   entrytype: inproceedings
   facility: ''
   grant: dmref15
@@ -3276,7 +3232,7 @@ duxbu;asilomar16:
   optwwwlanl: ''
   organization: ''
   pages: 1483--1487
-  peer_reviewed_conference: true
+  peer_reviewed_conference: 'true'
   publisher: IEEE
   series: ''
   title: Graph rigidity, unassigned distance geometry and the nanostructure problem
@@ -3339,9 +3295,7 @@ egami;ais93:
     - Egami, T.
     - Billinge, S. J. L.
   booktitle: Advances in Superconductivity
-  editor:
-    - Bando, Y.
-    - Yamauchi, H.
+  editor: Bando, Y. and Yamauchi, H.
   entrytype: inproceedings
   facility: ' ipns '
   grant: ' '
@@ -3358,8 +3312,7 @@ egami;b;pphtsv96:
     - Egami, T.
     - Billinge, S. J. L.
   booktitle: "Physical properties of high-temperature\nsuperconductors V"
-  editor:
-    - Ginsberg, D. M.
+  editor: Ginsberg, D. M.
   entrytype: inproceedings
   facility: ' mlnsc, hipd, '
   grant: 'cfmr, sloan95 '
@@ -3418,9 +3371,7 @@ egami;c;htsppmtm92:
     - '{McCarron}, E. M.'
   booktitle: "High Temperature Superconductivity: Physical\nProperties, Microscopic\
     \ Theory and Mechanisms"
-  editor:
-    - Ashkenazi, J.
-    - 'others, '
+  editor: Ashkenazi, J. and others
   entrytype: inproceedings
   facility: ' ipns, sepd,'
   grant: ''
@@ -4222,7 +4173,7 @@ gong;aca18:
   author:
     - Gong, James
     - Billinge, Simon J. L.
-  day: 25
+  day: '25'
   doi: ''
   entrytype: article
   facility: ''
@@ -4294,8 +4245,8 @@ greed;prb09:
     - Gout, Delphine
     - Lozano, A. D.
     - Derahkshan, Shahab
-    - Proffen}, {Th.
-    - Kim}, {H-J.
+    - Proffen, {Th.}
+    - Kim, H-J.
     - Bo\v{z}in, E. S.
     - Billinge, S. J. L.
   doi: 10.1103/PhysRevB.79.014427
@@ -4382,7 +4333,7 @@ gu;aca19:
   pages: ''
   title: Algorithm for distance list extraction from pair distribution functions
   url: https://doi.org/10.1107/S2053273319008647.
-  volume: 75
+  volume: '75'
   wwwemail: ''
   year: '2019'
 gualt;jac08:
@@ -4463,8 +4414,7 @@ guguc;prb16:
     - Billinge, S. J. L.
     - Amato, A.
     - Morenzoni, E.
-    - Keller,
-    - H.
+    - Keller, H.
   doi: 10.1103/PhysRevB.94.214511
   entrytype: article
   facility: ' psi, fy17 '
@@ -4543,7 +4493,7 @@ guguc;sa18:
     - Santos, E.
     - Pasupathy, A. N.
     - Uemura, Y. J.
-  day: 21
+  day: '21'
   doi: 10.1126/sciadv.aat3672
   entrytype: article
   facility: xpd, nslsii
@@ -4551,7 +4501,7 @@ guguc;sa18:
   journal: Science Advances
   month: Dec
   nb: typeB2, fy19
-  note:
+  note: ''
   number: ''
   optannote: ''
   optnote: ''
@@ -4559,7 +4509,7 @@ guguc;sa18:
   pages: eaat3672
   title: Magnetism in Semiconducting Molybdenum Dichalcogenides
   url: https://advances.sciencemag.org/content/4/12/eaat3672
-  volume: 4
+  volume: '4'
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   year: '2018'
@@ -4645,7 +4595,7 @@ gutma;unpub00:
   author:
     - Billinge, S. J. L.
     - Gutmann, M.
-    - zin}, {E. S. Bo\v
+    - Bo\v{z}in, E. S.
   doi: 10.1142/S021797920302154X
   entrytype: article
   facility: ' glad, ipns, hipd, mlnsc '
@@ -5320,7 +5270,7 @@ juhas;jac18:
     - van Eijck, Lambert
     - Vogt, Eelco T. C.
     - Billinge, Simon J. L.
-  day: 9
+  day: '9'
   doi: 10.1107/S1600576718010002
   entrytype: article
   facility: xpd, nslsii, pearl, udelft
@@ -5390,7 +5340,7 @@ kane;cm96:
 kim;prb07:
   author:
     - Kim, H. J.
-    - z}in}, {E. S. Bo{\v
+    - Bo\v{z}in, E. S.
     - Haile, S. M.
     - Snyder, G. J.
     - Billinge, S. J. L.
@@ -5483,7 +5433,7 @@ knox;prb14:
   volume: '89'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/knox_prb14.pdf
   year: '2014'
-koch;arxiv19:
+koch;prb19:
   author:
     - Koch, R. J.
     - Bozin, E. S.
@@ -5505,7 +5455,7 @@ koch;arxiv19:
   pages: 020501(R)
   title: Room temperature local nematicity in an iron-selenide superconducing sample
   url: ''
-  volume: 100
+  volume: '100'
   wwwemail: ''
   year: '2019'
 konst;prb19:
@@ -5535,7 +5485,7 @@ konst;prb19:
     - Wang, X. J.
     - Bozin, E. S.
     - Zhu, Y.
-  day: 28
+  day: '28'
   doi: 10.1103/PhysRevB.99.180102
   entrytype: article
   facility: 11bm, aps, pdf, nslsii
@@ -5544,17 +5494,14 @@ konst;prb19:
   month: May
   nb: art, typeB, fy19
   number: ''
-  optnote:
-    - arXiv:1903.00799 [cond-mat.supr-con]
-    - rapid communication
-    - editor's suggestion
-  pages: 180102
+  optnote: arXiv:1903.00799 [cond-mat.supr-con]  rapid communication editor's suggestion
+  pages: '180102'
   title: Photoinduced ultrafast dynamics of local nematicity and lattice distortions
     in {FeSe} crystals
   url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.180102
-  volume: 99
+  volume: '99'
   wwwemail: ''
-  year: 2019
+  year: '2019'
 kreme;jpcc11:
   author:
     - Kremenovic, A.
@@ -5590,9 +5537,7 @@ kwei;b;lsfd98:
     - Billinge, S. J. L.
     - Rosenfeld, H. D.
   booktitle: Local Structure from Diffraction
-  editor:
-    - Billinge, S. J. L.
-    - Thorpe, M. F.
+  editor: Billinge, S. J. L. and Thorpe, M. F.
   entrytype: incollection
   facility: ' mlnsc, hipd, ssrl'
   grant: 'cfmr,sloan95 '
@@ -6023,7 +5968,7 @@ lewis;cec18:
     - Corrao, Adam
     - Billinge, Simon J. L.
     - Wong, Stanislaus S.
-  day: 12
+  day: '12'
   doi: 10.1039/C7CE01885A
   entrytype: article
   facility: xpd, nslsii
@@ -6201,7 +6146,7 @@ liu;aca19:
   number: ''
   optannote: ''
   optwwwlanl: ''
-  optwwwpub:
+  optwwwpub: ''
   pages: ''
   title: Using a machine learning approach to determine the space group of a structure
     from the atomic pair distribution function
@@ -6581,7 +6526,7 @@ nakam;jmchema17:
 pagli;cm06i:
   author:
     - Paglia, G.
-    - z}in}, {E. S. Bo{\v
+    - Bo\v{z}in, E. S.
     - Vengust, D.
     - Mihailovic, D.
     - Billinge, S. J. L.
@@ -6606,7 +6551,7 @@ pagli;cm06i:
 pagli;cm06ii:
   author:
     - Paglia, G.
-    - z}in}, {E. S. Bo{\v
+    - Bo\v{z}in, E. S.
     - Billinge, S. J. L.
   doi: 10.1021/cm060277j
   entrytype: article
@@ -6755,7 +6700,7 @@ peter;jac00:
 peter;jac03:
   author:
     - Peterson, P. F.
-    - zin}, {E. S. Bo\v
+    - Bo\v{z}in, E. S.
     - Proffen, {Th. }
     - Billinge, S. J. L.
   doi: 10.1107/S0021889802018708
@@ -6783,7 +6728,7 @@ peter;prb01:
     - Proffen, {Th. }
     - Jeong, {I. -K. }
     - Billinge, S. J. L.
-    - Choi}, {K. -S.
+    - Choi, K.-S.
     - Kanatzidis, M. G.
     - Radaelli, P. G.
   doi: 10.1103/PhysRevB.63.165211
@@ -6810,9 +6755,7 @@ petko;b;fstpbas02:
     - Petkov, V.
     - Billinge, S. J. L.
   booktitle: "From semiconductors to proteins: beyond the average\nstructure"
-  editor:
-    - Billinge, S. J. L.
-    - Thorpe, M. F.
+  editor: Billinge, S. J. L. and Thorpe, M. F.
   entrytype: incollection
   facility: ' aps, id1, nsls, x7a, chess, a2 '
   grant: ' nsf-che99, doe97 '
@@ -6890,7 +6833,7 @@ petko;jacs02:
   author:
     - Petkov, V.
     - Trikalitis, P. N.
-    - zin}, {E. S. Bo\v
+    - Bozin, E. S.
     - Billinge, S. J. L.
     - Vogt, T.
     - Kanatzidis, M. G.
@@ -7694,7 +7637,7 @@ rijcka;mdpim18:
     - Bäcker, Michael
     - Buysser, Klaartje De
     - Driessche, Isabel Van
-  day: 23
+  day: '23'
   doi: 10.3390/ma11071066
   entrytype: article
   facility: nslsii, xpd
@@ -7736,7 +7679,7 @@ rohani;afm19:
     - Shahbazian-Yassar, Reza
     - Billinge, Simon J. L.
     - Swihart, Mark T.
-  day: 7
+  day: '7'
   doi: 10.1002/adfm.201807788
   entrytype: article
   facility: xpd, nslsii
@@ -7883,7 +7826,7 @@ sangi;prm18:
     - Billinge, Simon J. L.
     - Spaldin, Nicola A.
     - Weber, Thomas
-  day: 6
+  day: '6'
   doi: 10.1103/PhysRevMaterials.2.085402
   entrytype: article
   facility: sls, xo6sa, fy18
@@ -7950,7 +7893,7 @@ sartb;prl06:
     - Sartbaeva, A.
     - Wells, S. A.
     - Thorpe, M. F.
-    - zin}, {E. S. Bo\v
+    - Bozin, E. S.
     - Billinge, S. J. L.
   doi: 10.1103/PhysRevLett.97.065501
   entrytype: article
@@ -7987,7 +7930,7 @@ sartb;prl07:
   optwwwlanl: http://arxiv.org/abs/cond-mat/xxxxxx
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: '155503'
-  title: Quadrupolar Ordering in LaMnO3 Revealed from Scattering Data and Geometric
+  title: Quadrupolar Ordering in {LaMnO$_3$} Revealed from Scattering Data and Geometric
     Modeling
   url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.99.155503
   volume: '99'
@@ -8194,7 +8137,7 @@ shept;apa01:
     - Keller, L.
     - Lobanov, M. V.
     - Pavlyuk, B. Ph.
-    - Pomjakushin}, {V. Yu.
+    - Pomjakushin, V. Yu.
     - Rozova, M. G.
   entrytype: article
   facility: ' ipns, gppd'
@@ -8280,7 +8223,7 @@ shi;prb18:
     - Haskell, Richard C.
     - Hightower, Adrian
     - Monson, Todd C.
-  day: 15
+  day: '15'
   doi: 10.1103/PhysRevB.98.085421
   entrytype: article
   facility: nsls, x17a, fy18
@@ -8372,7 +8315,7 @@ skjae;prx19:
     - Simon J. L. Billinge
     - Emil S. Bozin
     - Sverre M. Selbach
-  day: 1
+  day: '1'
   doi: 10.1103/PhysRevX.9.031001
   entrytype: article
   facility: nomad, sns
@@ -8384,11 +8327,11 @@ skjae;prx19:
   number: ''
   optannote: ''
   optwwwlanl: ''
-  pages: 031001
+  pages: '031001'
   title: Unconventional order-disorder phase transition in improper ferroelectric
     hexagonal manganites
   url: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.031001
-  volume: 9
+  volume: '9'
   wwwemail: ''
   wwwpub: ''
   year: '2019'
@@ -8666,9 +8609,7 @@ thorp;b;fstpbas02:
     - Lei, M.
     - Billinge, S. J. L.
   booktitle: "From semiconductors to proteins: beyond the average\nstructure"
-  editor:
-    - Billinge, S. J. L.
-    - Thorpe, M. F.
+  editor: Billinge, S. J. L. and Thorpe, M. F.
   entrytype: inproceedings
   facility: ' ipns, glad '
   grant: ' doe97 '
@@ -8692,9 +8633,7 @@ thorp;b;lsfd98:
     - Billinge, S. J. L.
     - Mohiuddin-Jacobs, F.
   booktitle: Local Structure from Diffraction
-  editor:
-    - Billinge, S. J. L.
-    - Thorpe, M. F.
+  editor: Billinge, S. J. L. and Thorpe, M. F.
   entrytype: inproceedings
   facility: ' mlnsc, nsls, hipd, x7a'
   grant: 'cfmr, nsf-dmr97, doe97, sloan95 '
@@ -9261,7 +9200,7 @@ xiao;am19:
     - Simon J. L. Billinge
     - Guoxiu Wang
     - Yury Gogotsi
-  doi:
+  doi: ''
   entrytype: article
   facility: ' xpd, nslsii '
   grant: ' mrsec14 '
@@ -9276,7 +9215,7 @@ xiao;am19:
   url: ''
   volume: ''
   wwwemail: ''
-  wwwpub:
+  wwwpub: ''
   year: '2019'
 xu2017benefits:
   author:
@@ -9299,13 +9238,8 @@ xu;b;ainips18:
     - Maleki,
     - Arian,
   booktitle: Advances in Neural Information Processing Systems 31
-  editor:
-    - Bengio, S.
-    - Wallach, H.
-    - Larochelle, H.
-    - Grauman, K.
-    - Cesa-Bianchi, N.
-    - Garnett, R.
+  editor: Bengio, S. and Wallach, H. and Larochelle, H. and Grauman, K.
+    and Cesa-Bianchi, N. and Garnett, R.
   entrytype: incollection
   grant: dmref15
   pages: 10685--10695
@@ -9518,14 +9452,13 @@ yi;jacs06:
   year: '2006'
 yu;prb02:
   author:
-    - Yu., {V.
-    - Pomjakushin},
+    - Pomjakushin, V. Yu.
     - Balagurov, A. M.
     - Elzhov, T. V.
     - Sheptyakov, D. V.
     - Fischer, P.
     - Khomskii, D. I.
-    - Yushankhai}, {V. Yu.
+    - Yushankhai, V. Yu.
     - Abakumov, A. M.
     - Rozova, M. G.
     - Antipov, E. V.
@@ -9573,7 +9506,7 @@ yu;prb18i:
     - Malliakas, Christos D.
     - Kanatzidis, Mercouri G.
     - Billinge, Simon J. L.
-  day: 12
+  day: '12'
   doi: 10.1103/PhysRevB.98.144108
   entrytype: article
   facility: mlnsc, npdf, nslsii, xpd
@@ -9684,7 +9617,7 @@ zheng;prb09:
     - Wu, L.
     - Hanson, J.
     - Ku, W.
-    - '{Bo\v{z}in}, E. S.'
+    - Bo\v{z}in, E. S.
     - Billinge, S. J. L.
     - Zhu, Y.
   entrytype: article
