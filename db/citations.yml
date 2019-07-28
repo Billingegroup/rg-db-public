@@ -607,8 +607,7 @@ billi;b;coecm91:
     - Egami, T.
     - Catlow, C. R. A.
   booktitle: Chemistry of Electronic Ceramic Materials
-  editor: Bar-Yam, Y. and  Egami, T. and Mustre-de Leon J. and
-    Bishop, A. R.
+  editor: Bar-Yam, Y. and  Egami, T. and Mustre-de Leon J. and Bishop, A. R.
   entrytype: book
   facility: ' ipns, sepd '
   grant: ''
@@ -774,7 +773,7 @@ billi;b;pdtap08:
   booktitle: 'Powder diffraction: theory and practice'
   chapter: '16'
   doi: 10.1039/9781847558237
-  editor:  Dinnebier, Robert E. and Billinge, Simon J. L.
+  editor: Dinnebier, Robert E. and Billinge, Simon J. L.
   entrytype: inbook
   facility: ' '
   grant: doe97, frg07
@@ -9238,8 +9237,8 @@ xu;b;ainips18:
     - Maleki,
     - Arian,
   booktitle: Advances in Neural Information Processing Systems 31
-  editor: Bengio, S. and Wallach, H. and Larochelle, H. and Grauman, K.
-    and Cesa-Bianchi, N. and Garnett, R.
+  editor: Bengio, S. and Wallach, H. and Larochelle, H. and Grauman, K. and Cesa-Bianchi,
+    N. and Garnett, R.
   entrytype: incollection
   grant: dmref15
   pages: 10685--10695
