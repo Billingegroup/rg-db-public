@@ -27,7 +27,7 @@ chliu:
     - Chia-Hao Liu
     - Liu, Chia-Hao
     - Liu, C-H.
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - institution: Columbia University
@@ -38,12 +38,13 @@ chliu:
       department: apam
       degree: MS/PhD in Applied Physics
   email: cl3077@columbia.edu
+  honors:
+    - name: Margaret C. Etter Student Lecturer Award of the American Crystallographic
+        Association
+      year: 2019
   name: Chia-Hao (Timothy) Liu
   orcid_id: 0000-0002-3216-0354
   position: graduate research assistant
-  honors:
-    - name: Margaret C. Etter Student Lecturer Award of the American Crystallographic Association
-      year: 2019
   skills:
     - level: proficient
       category: Programming Languages
@@ -150,7 +151,7 @@ cwright:
     - position: Member
       begin_year: 2016
       organization: American Physical Society
-  name: Christopher J. Wright
+  name: Christopher J. "CJ"  Wright
   orcid_id: 0000-0003-2522-7028
   position: graduate research assistant
   service:
@@ -478,7 +479,7 @@ jcalamari:
     - Justin Samuel Calamari
     - Justin S Calamari
     - Calamari
-  avatar: ''
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: Justin grew up in Port Washington, New York. He is currently a senior at Columbia
     University, pursuing a BS in Applied Physics with a minor in Computer Science.
     With the Billinge Group, Justin is developing software for group data management.
@@ -551,7 +552,7 @@ jcalamari:
 jgong:
   aka:
     - James Gong
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2014
@@ -570,7 +571,7 @@ lyang:
   active: true
   aka:
     - Long Yang
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2017
@@ -592,7 +593,7 @@ mterban:
     - Max Terban
     - Maxwell Terban
     - M. Terban
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2013
@@ -615,7 +616,7 @@ mwaddell:
     - Michael A. Waddell
     - Waddell, Michael A.
     - Michael Alexander Waddell
-  avatar: ''
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: ''
   education:
     - institution: George Washington University
@@ -656,7 +657,7 @@ nfuller:
   active: false
   aka:
     - N Fuller
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - institution: Brooklyn College of the City University of New York (CUNY)
@@ -678,7 +679,7 @@ rgu:
   active: true
   aka:
     - Ran Gu
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2012
@@ -728,7 +729,7 @@ sbandi:
   active: true
   aka:
     - Sasaank Bandi
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2015
@@ -986,7 +987,7 @@ syxue:
   active: false
   aka:
     - other names
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2015
@@ -1033,7 +1034,7 @@ xyun:
   active: false
   aka:
     - Xin Yun
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2015
@@ -1061,7 +1062,7 @@ yrakita:
   active: true
   aka:
     - Yevgeny Rakita
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2014
@@ -1100,11 +1101,34 @@ yrakita:
       position: Post Doctoral Associate
   name: Yevgeny Rakita
   position: Post Doctoral Associate
+ytao:
+  active: false
+  aka:
+    - Yunzhe Tao
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2013
+      begin_month: 1
+      degree: PhD in Materials Science
+      institution: Columbia University
+      end_year: 2017
+      end_month: 8
+  employment:
+    - begin_year: 1971
+      begin_month: 1
+      end_month: 3
+      end_year: 1972
+      status: outsider
+      position: Graduate Student Assistant
+      organization: Jordan College-Oxford
+  name: Yunzhe Tao
+  position: Post Doctoral Associate
 zguguchia:
   active: false
   aka:
     - Zurab Guguchia
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2010
