@@ -27,6 +27,7 @@ chliu:
     - Chia-Hao Liu
     - Liu, Chia-Hao
     - Liu, C-H.
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - institution: Columbia University
@@ -37,12 +38,13 @@ chliu:
       department: apam
       degree: MS/PhD in Applied Physics
   email: cl3077@columbia.edu
+  honors:
+    - name: Margaret C. Etter Student Lecturer Award of the American Crystallographic
+        Association
+      year: 2019
   name: Chia-Hao (Timothy) Liu
   orcid_id: 0000-0002-3216-0354
   position: graduate research assistant
-  honors:
-    - name: Margaret C. Etter Student Lecturer Award of the American Crystallographic Association
-      year: 2019
   skills:
     - level: proficient
       category: Programming Languages
@@ -477,7 +479,7 @@ jcalamari:
     - Justin Samuel Calamari
     - Justin S Calamari
     - Calamari
-  avatar: ''
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: Justin grew up in Port Washington, New York. He is currently a senior at Columbia
     University, pursuing a BS in Applied Physics with a minor in Computer Science.
     With the Billinge Group, Justin is developing software for group data management.
@@ -550,6 +552,7 @@ jcalamari:
 jgong:
   aka:
     - James Gong
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2014
@@ -568,6 +571,7 @@ lyang:
   active: true
   aka:
     - Long Yang
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2017
@@ -589,6 +593,7 @@ mterban:
     - Max Terban
     - Maxwell Terban
     - M. Terban
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2013
@@ -611,7 +616,7 @@ mwaddell:
     - Michael A. Waddell
     - Waddell, Michael A.
     - Michael Alexander Waddell
-  avatar: ''
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: ''
   education:
     - institution: George Washington University
@@ -652,6 +657,7 @@ nfuller:
   active: false
   aka:
     - N Fuller
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - institution: Brooklyn College of the City University of New York (CUNY)
@@ -673,6 +679,7 @@ rgu:
   active: true
   aka:
     - Ran Gu
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2012
@@ -722,6 +729,7 @@ sbandi:
   active: true
   aka:
     - Sasaank Bandi
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2015
@@ -979,6 +987,7 @@ syxue:
   active: false
   aka:
     - other names
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2015
@@ -1025,6 +1034,7 @@ xyun:
   active: false
   aka:
     - Xin Yun
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2015
@@ -1052,6 +1062,7 @@ yrakita:
   active: true
   aka:
     - Yevgeny Rakita
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2014
@@ -1094,6 +1105,7 @@ ytao:
   active: false
   aka:
     - Yunzhe Tao
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2013
@@ -1115,6 +1127,7 @@ zguguchia:
   active: false
   aka:
     - Zurab Guguchia
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2010
