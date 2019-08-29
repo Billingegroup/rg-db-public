@@ -1878,7 +1878,7 @@ booth;jpconfs10:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/booth_jpcs_11.pdf
   year: '2011'
-bozin;arxiv19:
+bozin;nc19:
   arxiv: arXiv:1901.10104 [cond-mat.mtrl-sci]
   author:
     - Bozin, E. S.
@@ -1891,7 +1891,7 @@ bozin;arxiv19:
     - Petrovic, C.
     - Mitchell, J. F.
     - Billinge, S. J. L.
-  day: 13
+  day: '13'
   doi: '10.1038/s41467-019-11372-w'
   entrytype: article
   facility: nslsii, xpd
@@ -1904,11 +1904,11 @@ bozin;arxiv19:
   optannote: ''
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
-  pages: 3638
+  pages: '3638'
   title: Local orbital degeneracy lifting as a precursor to an orbital-selective Peierls
     transition
   url: "https://www.nature.com/articles/s41467-019-11372-w"
-  volume: 10
+  volume: '10'
   wwwemail: ''
   year: '2019'
 bozin;b;coshan13:
@@ -5442,7 +5442,7 @@ koch;prb19:
     - Zhu, Y.
     - Abeykoon, M.
     - Billinge, Simon J. L.
-  day: 3
+  day: '3'
   month: July
   doi: '10.1103/PhysRevB.100.020501'
   entrytype: article
@@ -6139,7 +6139,7 @@ liu;aca19:
     - Hsu, Daniel J.
     - Du, Qiang
     - Billinge, Simon J. L.
-  day: 26
+  day: '26'
   month: June
   doi: 10.1107/S2053273319005606
   entrytype: article
@@ -6156,7 +6156,7 @@ liu;aca19:
   title: Using a machine learning approach to determine the space group of a structure
     from the atomic pair distribution function
   url: 'https://doi.org/10.1107/S2053273319005606'
-  volume: 75
+  volume: '75'
   wwwemail: ''
   year: '2019'
 liu;sr14:
@@ -9708,7 +9708,7 @@ nguye;pnas19:
     - Junko Yanoc
     - Simon J. L. Billinge
     - T. Don Tilley
-  day: 29
+  day: '29'
   month: May
   doi: 10.1073/pnas.1815013116
   entrytype: article
@@ -9720,11 +9720,11 @@ nguye;pnas19:
   number: ''
   optannote: ''
   optwwwlanl: ''
-  pages: 11630-11639
+  pages: '11630-11639'
   title: Stabilization of reactive { Co$_{4}$O$_{4}$ }  cubane oxygen-evolution catalysts
     within porous frameworks
   url: 'https://www.pnas.org/content/116/24/11630'
-  volume: 116
+  volume: '116'
   wwwemail: ''
   wwwpub: ''
   year: '2019'
