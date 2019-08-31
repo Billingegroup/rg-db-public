@@ -1878,37 +1878,6 @@ booth;jpconfs10:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/booth_jpcs_11.pdf
   year: '2011'
-bozin;arxiv19:
-  arxiv: arXiv:1901.10104 [cond-mat.mtrl-sci]
-  author:
-    - Bozin, E. S.
-    - Yin, W. G.
-    - Koch, R. J.
-    - Abeykoon, M.
-    - Hor, Y. S.
-    - Zheng, H.
-    - Lei, H. C.
-    - Petrovic, C.
-    - Mitchell, J. F.
-    - Billinge, S. J. L.
-  doi: ''
-  entrytype: article
-  facility: nslsii, xpd
-  grant: fwp17, typeA, fy19
-  journal: Nature Commun.
-  nb: art, hilite, typeA, fy19
-  note: To be published
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
-  pages: ''
-  title: Local orbital degeneracy lifting as a precursor to an orbital-selective Peierls
-    transition
-  url: ''
-  volume: ''
-  wwwemail: ''
-  year: '2019'
 bozin;b;coshan13:
   address: Amsterdam
   author:
@@ -2043,6 +2012,39 @@ bozin;jpcs08:
   wwwemail: ' bozin@pa.msu.edu'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/bozin_jpcs08.pdf
   year: '2008'
+bozin;nc19:
+  arxiv: arXiv:1901.10104 [cond-mat.mtrl-sci]
+  author:
+    - Bozin, E. S.
+    - Yin, W. G.
+    - Koch, R. J.
+    - Abeykoon, M.
+    - Hor, Y. S.
+    - Zheng, H.
+    - Lei, H. C.
+    - Petrovic, C.
+    - Mitchell, J. F.
+    - Billinge, S. J. L.
+  day: '13'
+  doi: 10.1038/s41467-019-11372-w
+  entrytype: article
+  facility: nslsii, xpd
+  grant: fwp17, typeA, fy19
+  journal: Nature Commun.
+  month: Aug
+  nb: art, hilite, typeA, fy19
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
+  pages: '3638'
+  title: Local orbital degeneracy lifting as a precursor to an orbital-selective Peierls
+    transition
+  url: https://www.nature.com/articles/s41467-019-11372-w
+  volume: '10'
+  wwwemail: ''
+  year: '2019'
 bozin;nn16:
   author:
     - Bozin, E. S.
@@ -4331,7 +4333,7 @@ gu;aca19:
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: ''
   title: Algorithm for distance list extraction from pair distribution functions
-  url: https://doi.org/10.1107/S2053273319008647.
+  url: https://doi.org/10.1107/S2053273319008647
   volume: '75'
   wwwemail: ''
   year: '2019'
@@ -5440,11 +5442,13 @@ koch;prb19:
     - Zhu, Y.
     - Abeykoon, M.
     - Billinge, Simon J. L.
-  doi: ''
+  day: '3'
+  doi: 10.1103/PhysRevB.100.020501
   entrytype: article
   facility: xpd, nslsii
   grant: fwp17, typeA, fy19
   journal: Phys. Rev. B., Rapid Communications
+  month: July
   nb: art, hilite, typeA, fy19
   note: Editor's suggestion
   number: ''
@@ -5453,7 +5457,7 @@ koch;prb19:
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: 020501(R)
   title: Room temperature local nematicity in an iron-selenide superconducing sample
-  url: ''
+  url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.020501
   volume: '100'
   wwwemail: ''
   year: '2019'
@@ -6135,22 +6139,24 @@ liu;aca19:
     - Hsu, Daniel J.
     - Du, Qiang
     - Billinge, Simon J. L.
+  day: '26'
   doi: 10.1107/S2053273319005606
   entrytype: article
   facility: ''
   grant: dmref15
   journal: Acta Crystallogr. A
+  month: June
   nb: art
-  note: to be published
+  note: ''
   number: ''
   optannote: ''
   optwwwlanl: ''
   optwwwpub: ''
-  pages: ''
+  pages: 633-643
   title: Using a machine learning approach to determine the space group of a structure
     from the atomic pair distribution function
-  url: ''
-  volume: ''
+  url: https://doi.org/10.1107/S2053273319005606
+  volume: '75'
   wwwemail: ''
   year: '2019'
 liu;sr14:
@@ -6522,6 +6528,41 @@ nakam;jmchema17:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/nakam_jmca17.pdf
   year: '2017'
+nguye;pnas19:
+  author:
+    - Andy I. Nguyen
+    - Kurt M. Van Allsburg
+    - Maxwell W. Terban
+    - Michal Bajdich
+    - Julia Oktawiec
+    - Jaruwan Amtawong
+    - Micah S. Ziegler
+    - James P. Dombrowski
+    - K. V. Lakshmi
+    - Walter S. Drisdell
+    - Junko Yanoc
+    - Simon J. L. Billinge
+    - T. Don Tilley
+  day: '29'
+  doi: 10.1073/pnas.1815013116
+  entrytype: article
+  facility: xpd, nslsii
+  grant: mrsec14
+  journal: PNAS
+  month: May
+  nb: fy19
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: 11630-11639
+  title: Stabilization of reactive { Co$_{4}$O$_{4}$ }  cubane oxygen-evolution catalysts
+    within porous frameworks
+  url: https://www.pnas.org/content/116/24/11630
+  volume: '116'
+  wwwemail: ''
+  wwwpub: ''
+  year: '2019'
 pagli;cm06i:
   author:
     - Paglia, G.
