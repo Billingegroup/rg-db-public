@@ -327,6 +327,20 @@ gsk:
   state: Hertfordshire
   street: Gunnels Wood Road
   zip: SG1 2NY
+harvardu:
+  aka:
+    - Harvard
+    - Harvard U
+    - University of Harvard
+  city: Cambridge
+  country: USA
+  departments:
+    chemistry:
+      name: Department of Chemistry
+  name: Harvard University
+  state: MA
+  street: ''
+  zip: '02138'
 iccnrcomo:
   aka:
     - Crystallographic Institute, Como
