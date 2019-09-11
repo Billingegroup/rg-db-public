@@ -110,6 +110,14 @@ cwright:
       gpa: 3.49
   email: cjwright4242@gmail.com
   employment:
+    - begin_year: 2019
+      location: New York, NY
+      organization: Lab 49
+      position: Associate
+    - end_year: 2019
+      begin_year: 2016
+      position: Graduate Student
+      organization: columbiau
     - end_year: 2015
       begin_year: 2015
       location: Upton, NY
