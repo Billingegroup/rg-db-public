@@ -78,6 +78,10 @@ cwright:
       degree: PhD in Materials Science
       group: bg
       begin_year: 2017
+      end_year: 2019
+      other:
+        - 'Advisor: Simon J.L. Billinge'
+        - 'Thesis: Towards Real Time Characterization of Grain Growth From the Melt'
     - institution: columbiau
       begin_year: 2016
       group: bg
@@ -106,6 +110,14 @@ cwright:
       gpa: 3.49
   email: cjwright4242@gmail.com
   employment:
+    - begin_year: 2019
+      location: New York, NY
+      organization: Lab 49
+      position: Associate
+    - end_year: 2019
+      begin_year: 2016
+      position: Graduate Student
+      organization: columbiau
     - end_year: 2015
       begin_year: 2015
       location: Upton, NY
@@ -293,7 +305,7 @@ cwright:
     - level: intermediate
       category: Experiments
       name: Electron Microscopy
-  title: Mr.
+  title: Dr.
 cyshi:
   active: false
   aka:
