@@ -273,6 +273,45 @@ baner;aca19:
   volume: ''
   wwwemail: ''
   year: '2019'
+baner;acsanm19:
+  ackno: Work in the Billinge group was supported by U.S. Department of Energy, Office
+    of Science, Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0012704.
+    Work in the Austin and Frederick groups was supported by the National Science
+    Foundation, Division of Chemistry (NSF-CHE), under award number 1565843. Banerjee
+    acknowledges support from the National Defense Science and Engineering Graduate
+    Fellowship (DOD-NDSEG) program.  X-ray PDF measurements were conducted on beamline
+    28-ID-2 of the National Synchrotron Light Source II, a U.S. Department of Energy
+    (DOE) Office of Science User Facility operated for the DOE Office of Science by
+    Brookhaven National Laboratory under Contract No. DE-SC0012704.
+  author:
+    - Banerjee, Soham
+    - Zangiabadi, Amirali
+    - Mahdavi-Shakib, Akbar
+    - Husremovic, Samra
+    - Frederick, Brian G.
+    - Barmak, Katayun
+    - Austin, Rachel Narehood
+    - Billinge, Simon J. L.
+  day: 9
+  doi: ''
+  entrytype: article
+  facility: xpd, nslsii
+  grant: fwp17, TypeA, fy19
+  journal: ACS Appl. Nano Mater.
+  month: Aug
+  nb: fy19
+  note: To be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: tbd
+  title: Quantitative structural characterization of catalytically active {TiO$_2$}
+    nanoparticles
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2019'
 baner;jpcc18:
   ackno: The authors thank Maxwell Terban and Kirsten Marie Jensen for measurements
     of nanowire and cluster samples, suggestions for PDF data processing, data analysis,
