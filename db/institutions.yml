@@ -1036,3 +1036,27 @@ vanderbiltu:
   state: Tennessee
   street: 2201 West End Ave
   zip: '37235'
+fudanu:
+  aka:
+    - Fudan
+  city: Shanghai
+  country: China
+  departments:
+    physics:
+      name: Department of Physics
+  name: Fudan University
+  state: ''
+  street: 220 Handan Rd.
+  zip: '200433'
+ucberkeley:
+  aka:
+    - Berkeley
+  city: Berkeley
+  country: USA
+  departments:
+    physics:
+      name: Physcis Department
+  name: 'University of California, Berkeley'
+  state: California
+  street: 2000 Carleton Street
+  zip: '94720'
