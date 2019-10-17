@@ -277,6 +277,18 @@ ethzurich:
   state: ''
   street: Wolfgang-Pauli-Strasse 27
   zip: CH-8093
+fudanu:
+  aka:
+    - Fudan
+  city: Shanghai
+  country: China
+  departments:
+    physics:
+      name: Department of Physics
+  name: Fudan University
+  state: ''
+  street: 220 Handan Rd.
+  zip: '200433'
 ghentu:
   aka:
     - University of Ghent
@@ -698,6 +710,18 @@ ubern:
   name: University of Bern
   state: ''
   zip: ''
+ucberkeley:
+  aka:
+    - Berkeley
+  city: Berkeley
+  country: USA
+  departments:
+    physics:
+      name: Physcis Department
+  name: University of California, Berkeley
+  state: California
+  street: 2000 Carleton Street
+  zip: '94720'
 ucdavis:
   aka:
     - UC Davis
@@ -1036,27 +1060,3 @@ vanderbiltu:
   state: Tennessee
   street: 2201 West End Ave
   zip: '37235'
-fudanu:
-  aka:
-    - Fudan
-  city: Shanghai
-  country: China
-  departments:
-    physics:
-      name: Department of Physics
-  name: Fudan University
-  state: ''
-  street: 220 Handan Rd.
-  zip: '200433'
-ucberkeley:
-  aka:
-    - Berkeley
-  city: Berkeley
-  country: USA
-  departments:
-    physics:
-      name: Physcis Department
-  name: 'University of California, Berkeley'
-  state: California
-  street: 2000 Carleton Street
-  zip: '94720'
