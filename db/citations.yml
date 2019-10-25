@@ -6355,6 +6355,34 @@ liu;aca19:
   volume: '75'
   wwwemail: ''
   year: '2019'
+liu;jac19:
+  author:
+    - Liu, Chia-Hao
+    - Janke, Eric 
+    - Ruipen, Li
+    - Juh\'{a}s, Pavol
+    - Gang, Oleg
+    - Talapin, Dimitri V.
+    - Billinge, Simon J. L.
+  day: ''
+  doi:
+  entrytype: article
+  facility: ''
+  grant: dmref15
+  journal: J. Appl. Crystallogr.
+  month: June
+  nb: art
+  note: arXiv:1910.08186 [cond-mat.mtrl-sci]
+  url: https://arxiv.org/abs/1910.08186
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  optwwwpub: ''
+  pages:
+  title: sasPDF: pair distribution function analysis of nanoparticle assemblies from small-angle-scattering data 
+  volume: ''
+  wwwemail: ''
+  year: '2019'
 liu;sr14:
   author:
     - Liu, Shuangyi
