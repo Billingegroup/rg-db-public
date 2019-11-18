@@ -1170,11 +1170,11 @@ htvuong:
     - Hung Vuong
     - Vuong, H-T.
   avatar: https://avatars0.githubusercontent.com/u/40038591?s=400&u=410201d6687f572858aab0d90213bda976bb35a9&v=4
-  bio: Hung Vuong is a Chemical Physics Ph.D student originally from Hanoi, Vietnam.
-  Before coming to Columbia, he graduated from Grinnell College in Iowa with a degree
-  in Mathematics and Chemistry.   His research in the Billinge group will be about using
-  Machine Learning in analyzing PDF data. Outside academics, he's interested in
-  photography and exploring the food scene of NYC.
+  bio: Hung Vuong is a Chemical Physics Ph.D student from Hanoi, Vietnam. Before
+    coming to Columbia, he graduated from Grinnell College in Iowa with a B.A. in
+    Mathematics and Chemistry. His research in the Billinge group will be about
+    applying Machine Learning in analyzing PDF data. Outside academics, he's
+    interested in photography and exploring the food scene of NYC.
   education:
     - institution: Columbia University
       begin_year: 2019
@@ -1183,6 +1183,13 @@ htvuong:
         - 'Advisor: Simon Billinge'
       department: chemistry
       degree: PhD in Chemical Physics
+      location: New York, NY
+    - begin_year: 2015
+      degree: B.A.
+      institution: Grinnell College
+      department: Mathematics & Chemistry
+      end_year: 2019
+      location: Grinnell, IA
   email: hung.t.vuong@columbia.edu
   name: Hung Vuong
   position: graduate student
