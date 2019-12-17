@@ -1,3 +1,23 @@
+sharouna-mayer:
+  active: true
+  aka: []
+  avatar: https://avatars3.githubusercontent.com/u/58988624?s=400&u=6871fccc040af8766bebdb13c8629407d607b18b&v=4
+  bio: bio
+  education:
+    - begin_year: 2011
+      begin_month: 9
+      degree: PhD in Physics
+      institution: Columbia University
+      end_year: 2016
+      end_month: 4
+      group: bg
+  employment:
+    - begin_year: 2016
+      begin_month: 5
+      position: Post-doctoral Scholar
+      organization: University of California, Berkeley
+  name: Sani Harouna-Mayer
+  position: Masters student
 bfrandsen:
   active: false
   aka:
