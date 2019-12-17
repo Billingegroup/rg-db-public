@@ -1,3 +1,34 @@
+sharouna-mayer:
+  active: true
+  aka: []
+  avatar: https://github.com/SaniHarouna-Mayer.png
+  bio: Sani grew up in Kassel, Germany. He earned his Bachelors degree in nanoscience
+    in 2018 at the University of Hamburg. During his Bachelor project he worked on PDF analysis
+    of electrochromic thin films in Prof. Dorota Koziej's group. Ever scince he
+    continued working in her group as a research assistant, where he focuses on
+    similar electrochromic systems and insitu imaging of nanostructures. He currently
+    works in the group of Simon Billinge for an external Masters project. In his free time
+    he loves watching soccer, going to the gym and playing the piano.
+  education:
+    - begin_year: 2015
+      begin_month: 10
+      degree: B.Sc. in nanoscience
+      institution: University of Hamburg, Germany
+      end_year: 2018
+      end_month: 8
+    - begin_year: 2018
+      begin_month: 10
+      degree: M.Sc. in nanoscience
+      institution: University of Hamburg, Germany
+  employment:
+    - begin_year: 2017
+      begin_month: 8
+      position: Intern
+      organization: Institut Laue-Langevin, Grenoble, France
+      end_year: 2017
+      end_month: 10
+  name: Sani Harouna-Mayer
+  position: Masters student
 bfrandsen:
   active: false
   aka:
