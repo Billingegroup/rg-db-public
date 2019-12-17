@@ -1,3 +1,17 @@
+desy:
+  aka:
+    - DESY
+    - Deutsches Elektronen Synchrotron
+  city: Hamburg
+  country: Germany
+  departments:
+    petra3:
+      name: PETRA III
+    cfel:
+      name: Center for Free-Electron Laser Science
+  name: Deutsches Elektronen Synchrotron
+  state: 'Hamburg'
+  zip: '22607'
 aarhusu:
   aka:
     - U Aarhus
