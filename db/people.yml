@@ -7,14 +7,20 @@ sharouna-mayer:
     - begin_year: 2015
       begin_month: 10
       degree: B.Sc. in nanoscience
-      institution: University of Hamburg
+      institution: University of Hamburg, Germany
       end_year: 2018
       end_month: 8
+    - begin_year: 2018
+      begin_month: 10
+      degree: M.Sc. in nanoscience
+      institution: University of Hamburg, Germany
   employment:
-    - begin_year: 2016
-      begin_month: 5
-      position: Post-doctoral Scholar
-      organization: University of California, Berkeley
+    - begin_year: 2017
+      begin_month: 8
+      position: Intern
+      organization: Institut Laue-Langevin, Grenoble, France
+      end_year: 2017
+      end_month: 10
   name: Sani Harouna-Mayer
   position: Masters student
 bfrandsen:
