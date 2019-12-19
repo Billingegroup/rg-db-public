@@ -33,7 +33,7 @@ bfrandsen:
   active: false
   aka:
     - Ben Frandsen
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://github.com/<username>.png
   bio: bio
   education:
     - begin_year: 2011
@@ -58,7 +58,7 @@ chliu:
     - Chia-Hao Liu
     - Liu, Chia-Hao
     - Liu, C-H.
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://github.com/chiahaoliu.png
   bio: bio
   education:
     - institution: Columbia University
@@ -89,7 +89,7 @@ cwright:
     - Wright, C. J.
     - C. J. Wright
     - CJ Wright
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://github.com/CJ-Wright.png
   bio: Christopher grew up in Rockville Centre, New York. He attended Brown University
     where he earned a BS with honors in Chemical Physics. He worked with Prof. Shouheng
     Sun on electrochemical CO2 reduction and the structural dynamics of nanoparticles.
@@ -341,7 +341,7 @@ cyshi:
   active: false
   aka:
     - Chenyang Shi
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://github.com/<username>.png
   bio: bio
   education:
     - begin_year: 2012
@@ -364,8 +364,7 @@ ebozin:
     - Emil Bozin
     - ES Bozin
     - E. S. Bozin
-  avatar: https://avatars0.githubusercontent.com/u/37090959?s=400&u=a94748131d06d93dfcaa6144e497870755cd2fea&v=4
-  bio: bio
+  avatar: https://github.com/<username>.png
   education:
     - institution: Michigan State University
       begin_year: 1996
@@ -443,7 +442,7 @@ eculbertson:
     - Culbertson, Elizabeth A
     - Culbertson, Elizabeth A.
     - Culbertson, Elizabeth Audrey
-  avatar: https://avatars0.githubusercontent.com/u/31480498?s=460&v=4
+  avatar: https://github.com/<username>.png
   bio: Elizabeth grew up in Northern Virginia and earned her bachelors degree from
     Stanford University in 2016, studying engineering physics and computer science.
     After starting her Ph.D. in applied physics at Columbia, she joined the Billinge
@@ -522,7 +521,7 @@ jcalamari:
     - Justin Samuel Calamari
     - Justin S Calamari
     - Calamari
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://github.com/<username>.png
   bio: Justin grew up in Port Washington, New York. He is currently a senior at Columbia
     University, pursuing a BS in Applied Physics with a minor in Computer Science.
     With the Billinge Group, Justin is developing software for group data management.
@@ -596,7 +595,7 @@ jgong:
   active: false
   aka:
     - James Gong
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://github.com/<username>.png
   bio: bio
   education:
     - begin_year: 2014
@@ -615,7 +614,7 @@ lyang:
   active: true
   aka:
     - Long Yang
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://github.com/dragonyanglong.png
   bio: bio
   education:
     - begin_year: 2017
@@ -637,7 +636,7 @@ mterban:
     - Max Terban
     - Maxwell Terban
     - M. Terban
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://github.com/<username>.png
   bio: bio
   education:
     - begin_year: 2013
@@ -660,7 +659,7 @@ mwaddell:
     - Michael A. Waddell
     - Waddell, Michael A.
     - Michael Alexander Waddell
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://github.com/<username>.png
   bio: ''
   education:
     - institution: George Washington University
@@ -701,7 +700,7 @@ nfuller:
   active: false
   aka:
     - N Fuller
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://github.com/<username>.png
   bio: bio
   education:
     - institution: Brooklyn College of the City University of New York (CUNY)
@@ -723,7 +722,7 @@ rgu:
   active: true
   aka:
     - Ran Gu
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://github.com/<username>.png
   bio: bio
   education:
     - begin_year: 2012
@@ -746,7 +745,7 @@ rkoch:
   aka:
     - Robert Koch
     - R. Koch
-  avatar: https://avatars0.githubusercontent.com/u/37090959?s=400&u=a94748131d06d93dfcaa6144e497870755cd2fea&v=4
+  avatar: https://github.com/<username>.png
   bio: bio
   education:
     - institution: University of Trento
@@ -773,7 +772,7 @@ sbandi:
   active: true
   aka:
     - Sasaank Bandi
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://github.com/<username>.png
   bio: bio
   education:
     - begin_year: 2015
@@ -793,7 +792,7 @@ sbanerjee:
   aka:
     - sojam
     - bajam
-  avatar: https://avatars0.githubusercontent.com/u/7819851?s=400&v=4
+  avatar: https://github.com/sbanerjee23.png
   bio: ''
   education:
     - institution: columbiau
@@ -1004,7 +1003,7 @@ sstao:
     - Tao, Songsheng
     - S. Tao
     - Tao, S.
-  avatar: https://avatars0.githubusercontent.com/u/37090959?s=400&u=a94748131d06d93dfcaa6144e497870755cd2fea&v=4
+  avatar: https://github.com/st3107.png
   bio: Songsheng grew up in Beijing, China. He attended Peking University where he
     earned a B. S. in physics. As a MS/PhD track student in Columbia University, he
     joined the Billinge Group in fall 2018 and is currently working on developing
@@ -1032,7 +1031,7 @@ syxue:
   active: false
   aka:
     - other names
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://github.com/<username>.png
   bio: bio
   education:
     - begin_year: 2015
@@ -1053,7 +1052,7 @@ xhyang:
   active: false
   aka:
     - Xiaohao Yang
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://github.com/<username>.png
   bio: bio
   education:
     - begin_year: 2011
@@ -1079,7 +1078,7 @@ xyun:
   active: false
   aka:
     - Xin Yun
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://github.com/<username>.png
   bio: bio
   education:
     - begin_year: 2015
@@ -1107,7 +1106,7 @@ yrakita:
   active: true
   aka:
     - Yevgeny Rakita
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://github.com/<username>.png
   bio: bio
   education:
     - begin_year: 2014
@@ -1150,7 +1149,7 @@ ytao:
   active: false
   aka:
     - Yunzhe Tao
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://github.com/<username>.png
   bio: bio
   education:
     - begin_year: 2013
@@ -1173,7 +1172,7 @@ zguguchia:
   active: false
   aka:
     - Zurab Guguchia
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://github.com/<username>.png
   bio: bio
   education:
     - begin_year: 2010
@@ -1200,7 +1199,7 @@ htvuong:
   aka:
     - Hung Vuong
     - Vuong, H-T.
-  avatar: https://avatars0.githubusercontent.com/u/40038591?s=400&u=410201d6687f572858aab0d90213bda976bb35a9&v=4
+  avatar: https://github.com/tienhungvuong.png
   bio: Hung Vuong is a Chemical Physics Ph.D student from Hanoi, Vietnam. Before
     coming to Columbia, he graduated from Grinnell College in Iowa with a B.A. in
     Mathematics and Chemistry. His research in the Billinge group will be about
