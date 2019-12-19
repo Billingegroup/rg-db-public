@@ -364,7 +364,8 @@ ebozin:
     - Emil Bozin
     - ES Bozin
     - E. S. Bozin
-  avatar: https://github.com/<username>.png
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
   education:
     - institution: Michigan State University
       begin_year: 1996
@@ -595,7 +596,7 @@ jgong:
   active: false
   aka:
     - James Gong
-  avatar: https://github.com/<username>.png
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2014
@@ -636,7 +637,7 @@ mterban:
     - Max Terban
     - Maxwell Terban
     - M. Terban
-  avatar: https://github.com/<username>.png
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2013
@@ -700,7 +701,7 @@ nfuller:
   active: false
   aka:
     - N Fuller
-  avatar: https://github.com/<username>.png
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - institution: Brooklyn College of the City University of New York (CUNY)
@@ -722,7 +723,7 @@ rgu:
   active: true
   aka:
     - Ran Gu
-  avatar: https://github.com/<username>.png
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2012
@@ -745,7 +746,7 @@ rkoch:
   aka:
     - Robert Koch
     - R. Koch
-  avatar: https://github.com/<username>.png
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - institution: University of Trento
@@ -772,7 +773,7 @@ sbandi:
   active: true
   aka:
     - Sasaank Bandi
-  avatar: https://github.com/<username>.png
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2015
@@ -1031,7 +1032,7 @@ syxue:
   active: false
   aka:
     - other names
-  avatar: https://github.com/<username>.png
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2015
@@ -1052,7 +1053,7 @@ xhyang:
   active: false
   aka:
     - Xiaohao Yang
-  avatar: https://github.com/<username>.png
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2011
@@ -1078,7 +1079,7 @@ xyun:
   active: false
   aka:
     - Xin Yun
-  avatar: https://github.com/<username>.png
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2015
@@ -1106,7 +1107,7 @@ yrakita:
   active: true
   aka:
     - Yevgeny Rakita
-  avatar: https://github.com/<username>.png
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2014
@@ -1149,7 +1150,7 @@ ytao:
   active: false
   aka:
     - Yunzhe Tao
-  avatar: https://github.com/<username>.png
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2013
@@ -1172,7 +1173,7 @@ zguguchia:
   active: false
   aka:
     - Zurab Guguchia
-  avatar: https://github.com/<username>.png
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2010
