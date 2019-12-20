@@ -292,7 +292,7 @@ baner;acsanm19:
     - Barmak, Katayun
     - Austin, Rachel Narehood
     - Billinge, Simon J. L.
-  day: '9'
+  day: 9
   doi: ''
   entrytype: article
   facility: xpd, nslsii
@@ -420,7 +420,7 @@ beech;acsel16:
   doi: 10.1021/acsenergylett.6b00381
   entrytype: article
   facility: nslsii, xpd, aps, herix
-  grant: dmref15
+  grant: ' dmref15 '
   journal: ACS Energy Lett.
   nb: ' hilite '
   note: ''
@@ -599,13 +599,11 @@ billi;4or18:
     - Gonçalves, Douglas S.
     - Lavor, Carlile
     - Mucherino, Antonio
-  day: '4'
   doi: 10.1007/s10479-018-2989-6
   entrytype: article
   facility: '  '
   grant: ' dmref15 '
   journal: Ann. Oper. Res.
-  month: Aug
   nb: ' art, '
   note: to be published
   number: ''
@@ -6019,8 +6017,8 @@ lewis;cec18:
   grant: fwp17, typeB1, fy18
   journal: CrystEngComm
   month: Dec
-  nb: art, typeB1, fy18
-  note: ''
+  nb: ''
+  note: art, typeB1, fy18
   number: ''
   optannote: ''
   optwwwlanl: ''
@@ -7722,10 +7720,10 @@ rijcka;mdpim18:
   doi: 10.3390/ma11071066
   entrytype: article
   facility: nslsii, xpd
-  grant: fwp17, typeB2, fy18
+  grant: fwp17, typeB2, fy19
   journal: MDPI-Materials
   month: Jun
-  nb: typeB2, fy18, typeB2, fy18
+  nb: typeB2, fy18, typeB2, fy19
   number: ''
   optannote: ''
   optnote: Special Issue "State-of-the-Art Materials Science in Belgium 2017"
@@ -8120,3 +8118,1652 @@ schmi;msurp11:
   title: 'Towards coherence in science instruction: A framework for science literacy'
   url: ''
   volume: '8'
+  wwwemail: ''
+  year: '2011'
+shatn;jacs07:
+  author:
+    - Shatnawi, Mouath
+    - Paglia, Gianluca
+    - Dye, James L.
+    - Cram, Kevin D.
+    - Lefenfeld, Michael
+    - Billinge, Simon J. L.
+  doi: 10.1021/ja067140e
+  entrytype: article
+  facility: ' aps, mucat, 6idd'
+  grant: '  nsf-che02   '
+  journal: J. Am. Chem. Soc.
+  nb: art, hilite
+  note: ''
+  optannote: ''
+  optwwwlanl: http://arxiv.org/abs/cond-mat/0609485
+  pages: 1386-1392
+  title: 'Structures of alkali metals in silica gel nanopores: new materials for chemical
+    reductions and hydrogen production'
+  url: http://dx.doi.org/10.1021/ja067140e
+  volume: '129'
+  wwwemail: ' sb2896@columbia.edu'
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/07mouatjacs.pdf
+  year: '2007'
+shatn;prb08:
+  author:
+    - Shatnawi, Moneeb T. M.
+    - Farrow, Christopher L.
+    - Chen, Ping
+    - Boolchand, Punit
+    - Sartbaeva, Asel
+    - Thorpe, M. F.
+    - Billinge, Simon J. L.
+  doi: 10.1103/PhysRevB.77.094134
+  entrytype: article
+  facility: ' aps, 6idd, 5bm '
+  grant: '  doe03   '
+  journal: Phys. Rev. B
+  nb: 'art, '
+  note: ''
+  optannote: ''
+  optwwwlanl: ''
+  optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
+  pages: '94134'
+  title: Search for a structural response to the intermediate phase in {Ge$_x$Se$_{1-x}$}
+    glasses
+  url: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.77.094134
+  volume: '77'
+  wwwemail: ' sb2896@columbia.edu'
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/shatn_prb08.pdf
+  year: '2008'
+shatn;prb16:
+  author:
+    - Shatnawi, Mouath
+    - Bozin, Emil S.
+    - Mitchell, J. F.
+    - Billinge, Simon J. L.
+  doi: 10.1103/PhysRevB.93.165138
+  entrytype: article
+  facility: ' mlnsc, npdf, fy16 '
+  grant: ' fwp14 '
+  journal: Phys. Rev. B
+  nb: ' art, typeA, fy16 '
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: '165138'
+  title: Non percolative nature of the metal-insulator transition and persistence
+    of local Jahn-Teller distortions in the rhombohedral regime of La$_{1-x}$Ca$_{x}$MnO$_{3}$
+  url: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.165138
+  volume: '93'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/Shatnawi_PRB16.pdf
+  year: '2016'
+shatna;phdt;07:
+  author:
+    - Shatnawi, Mouath Ghazi
+  entrytype: phdthesis
+  nb: ' thesis '
+  school: Michigan State University
+  title: Local Structure of Intercalants and Host Nanoporous Materials
+  type: PhD Thesis
+  year: '2007'
+shept;apa01:
+  author:
+    - Sheptyakov, D. V.
+    - Abakumov, A. M.
+    - Antipov, E. V.
+    - Balagurov, A. M.
+    - Billinge, S. J. L.
+    - Fischer, P.
+    - Keller, L.
+    - Lobanov, M. V.
+    - Pavlyuk, B. Ph.
+    - Pomjakushin, V. Yu.
+    - Rozova, M. G.
+  entrytype: article
+  facility: ' ipns, gppd'
+  grant: ' nsf-dmr00 '
+  journal: Appl. Phys. A
+  nb: ' conf, hts '
+  optannote: ''
+  optkey: ''
+  optmonth: ''
+  optnote: unpublished
+  optnumber: ''
+  pages: '1734'
+  title: Crystal and magnetic structures of new layered oxides A$_{2}$GaMnO$_{5+y}$
+    (A=Ca, Sr)
+  url: http://link.springer.com/article/10.1007/s003390201842
+  volume: '74'
+  wwwemail: sb2896@columbia.edu
+  wwwlanl: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/02sheptapa.pdf
+  year: '2002'
+shi;jpcc13:
+  author:
+    - Shi, Chenyang
+    - Redmond, Erin L.
+    - Mazaheripour, Amir
+    - Juh\'{a}s, Pavol
+    - Fuller, Thomas F.
+    - Billinge, Simon J. L.
+  doi: 10.1021/jp402591s
+  entrytype: article
+  facility: ' id11b, aps'
+  grant: ' efrc10 '
+  journal: J. Phys. Chem. C
+  nb: ' art '
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: 7226-7230
+  title: Evidence for anomalous bond softening and disorder below 2 nm diameter in
+    carbon supported platinum nanoparticles from the temperature dependent peak width
+    of the atomic pair distribution function
+  url: http://pubs.acs.org/doi/abs/10.1021/jp402591s
+  volume: '117'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/shi_jpcc13.pdf
+  year: '2013'
+shi;nm13i:
+  author:
+    - Shi, X.
+    - Popović, D.
+    - Panagopoulos, C.
+    - Logvenov, G.
+    - Bollinger, A. T.
+    - Bozovic, I.
+  doi: ''
+  entrytype: article
+  facility: '  '
+  grant: ' fwp11 '
+  journal: Nat. Mater.
+  nb: ' art, typeB '
+  number: ''
+  optannote: ''
+  optnote: ''
+  optwwwlanl: ''
+  optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
+  pages: 47-51
+  title: Emergence of superconductivity from the dynamically heterogeneous insulating
+    state in {La$_{2-x}$Sr$_x$CuO$_4$}
+  url: ''
+  volume: '12'
+  wwwemail: ''
+  year: '2013'
+shi;prb18:
+  author:
+    - Shi, Chenyang
+    - Billinge, Simon J. L.
+    - Puma, Eric
+    - Bang, Sun Hwi
+    - Bean, Nathaniel J. H.
+    - de Sugny, Jean-Claude
+    - Gambee, Robert G.
+    - Haskell, Richard C.
+    - Hightower, Adrian
+    - Monson, Todd C.
+  day: '15'
+  doi: 10.1103/PhysRevB.98.085421
+  entrytype: article
+  facility: nsls, x17a, fy18
+  grant: fwp17, typeA, fy18
+  journal: Phys. Rev. B
+  month: Aug
+  nb: typeA, fy18
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: '085421'
+  title: 'Barium titanate nanoparticles: short-range lattice distortions with long-range
+    cubic order'
+  url: https://doi.org/10.1103/PhysRevB.98.085421
+  volume: '98'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/18shiprb
+  year: '2018'
+shi;prl14:
+  author:
+    - Shi, Chenyang
+    - Beidaghi, Majid
+    - Naguib, Michael
+    - Mashtalir, Olha
+    - Gogotsi, Yury
+    - Billinge, Simon J. L.
+  doi: 10.1103/PhysRevLett.112.125501
+  entrytype: article
+  facility: nsls, x17a
+  grant: efrc10
+  journal: Phys. Rev. Lett.
+  nb: art, srfit
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: '125501'
+  title: Structure of nanocrystalline {Ti$_3$C$_2$} {MXene} using atomic pair distribution
+    function
+  url: http://link.aps.org/doi/10.1103/PhysRevLett.112.125501
+  volume: '112'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/shi_prl14.pdf
+  year: '2014'
+simps;ic10:
+  author:
+    - Simpson, Carrie A.
+    - Farrow, Christopher L.
+    - Tian, Peng
+    - Billinge, Simon J. L.
+    - Huffman, Brian J.
+    - Harkness, Kellen M.
+    - Cliffel, David E.
+  doi: 10.1021/ic101146e
+  entrytype: article
+  facility: aps, id11
+  grant: ' frg07 '
+  journal: Inorg. Chem.
+  nb: ' art '
+  number: '23'
+  pages: 10858 -- 10866
+  title: Tiopronin gold nanoparticle precursor forms auriophilic ring tetramer
+  url: http://pubs.acs.org/doi/abs/10.1021/ic101146e
+  volume: '49'
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/simps_ic10.pdf
+  year: '2010'
+skjae;prx19:
+  ackno: Experimental work was co-led by the groups at Brookhaven National Laboratory
+    (BNL) and the Norwegian University of Science and Technology (NTNU). Theoretical
+    work was led by ETH. Work at BNL was supported by U.S. DOE, Office of Science,
+    Office of Basic Energy Sciences (DOE-BES) under Contract No. DE-SC0012704. The
+    NTNU group acknowledges financial support from the Research Council of Norway
+    (Project No. 231430) and NTNU. The ETH group was supported by ETH Zürich and Advanced
+    Grant No. 291151 from the European Research Council. This research used resources
+    at the Spallation Neutron Source, a DOE Office of Science User Facility operated
+    by the Oak Ridge National Laboratory. Computational resources were provided by
+    the Euler cluster at ETH, Zürich. Matt Tucker and Marshall McDonnell are acknowledged
+    for assisting with the data collection for the neutron measurements. Matt Tucker
+    is acknowledged for constructing TOPAS input files for reciprocal-space Rietveld
+    refinements. Jörg Neuefeind and Pavol Juhas are acknowledged for assisting with
+    manual data reduction and quality testing. Peter M. Derlet is acknowledged for
+    constructive feedback on the manuscript.
+  author:
+    - Sandra H. Skjærvø
+    - Quintin N. Meier
+    - Mikhail Feygenson
+    - Nicola A. Spaldin
+    - Simon J. L. Billinge
+    - Emil S. Bozin
+    - Sverre M. Selbach
+  day: '1'
+  doi: 10.1103/PhysRevX.9.031001
+  entrytype: article
+  facility: nomad, sns
+  grant: fwp17
+  journal: Phys. Rev. X
+  month: Jul
+  nb: fy19
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: '031001'
+  title: Unconventional order-disorder phase transition in improper ferroelectric
+    hexagonal manganites
+  url: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.031001
+  volume: '9'
+  wwwemail: ''
+  wwwpub: ''
+  year: '2019'
+sochn;jpcs12:
+  author:
+    - Sochnikov, I
+    - Shokef, Y
+    - Logvenov, G
+    - Bo\v{z}ovi\'{c}, I
+    - Shaulov, A
+    - Yeshurun, Y
+  doi: 10.1088/1742-6596/400/2/022109
+  entrytype: article
+  facility: ' '
+  grant: ' fwp11'
+  journal: J. Phys. Chem. Solids
+  nb: ' art, typeB'
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
+  pages: '022109'
+  title: Fluxoid quantization effects in high-{T$_c$} superconducting double networks
+  url: ''
+  volume: '400'
+  wwwemail: ''
+  year: '2012'
+spass;jaac05:
+  author:
+    - Spassov, Toni
+    - Petkov, Valeri
+    - Solsona, P.
+  doi: 10.1016/j.jallcom.2005.06.009
+  entrytype: article
+  facility: '  '
+  grant: '  nirt03   '
+  journal: J. Alloys and Compounds
+  nb: ' not-bg '
+  note: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: '403'
+  title: Hydriding/dehydriding of Mg$_{87}$Ni$_{3}$Al$_{3}$Mm$_{7}$ (Mm=La, Ce-rich
+    mischmetal) alloy produced by mechanical alloying
+  url: http://www.sciencedirect.com/science/article/pii/S0925838805010704
+  volume: '363'
+  wwwemail: ' sb2896@columbia.edu'
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/spass_jaac05.pdf
+  year: '2005'
+stach;rsi00:
+  author:
+    - Stachs, O.
+    - Gerber, T.
+    - Petkov, V.
+  entrytype: article
+  facility: ' aps, id1, inhs '
+  grant: ' doe97 '
+  journal: Rev. Sci. Instrum.
+  nb: ' pdf, art, not-bg '
+  note: ''
+  optannote: ''
+  optkey: ''
+  optmonth: ''
+  optnumber: ''
+  pages: '4007'
+  title: An image plate chamber for X-ray diffraction experiments in Debye-Scherrer
+    geometry
+  url: http://scitation.aip.org/content/aip/journal/rsi/71/11/10.1063/1.1318915
+  volume: '71'
+  wwwemail: sb2896@columbia.edu
+  wwwlanl: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/00stachrsi.pdf
+  year: '2000'
+stein;cm17:
+  author:
+    - Stein, Jennifer L.
+    - Steimle, Molly I.
+    - Terban, Maxwell W.
+    - Petrone, Alessio
+    - Billinge, Simon J. L.
+    - Li, Xiaosong
+    - Cossairt, Brandi M.
+  doi: 10.1021/acs.chemmater.7b03075
+  entrytype: article
+  facility: xpd, nslsii
+  grant: mrsec14
+  journal: Chem. Mater.
+  nb: ''
+  note: ''
+  number: '18'
+  optannote: ''
+  optwwwlanl: ''
+  pages: 7984--7992
+  title: Cation exchange induced transformation of {InP} magic-sized clusters
+  url: pubs.acs.org/doi/abs/10.1021/acs.chemmater.7b03075
+  volume: '29'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/stein_cm2017.pdf
+  year: '2017'
+terba;cgd15:
+  author:
+    - Terban, Maxwell W.
+    - Cheung, Eugene Y.
+    - Krolikowski, Paul
+    - Billinge, Simon J. L.
+  doi: 10.1021/acs.cgd.5b01100
+  entrytype: article
+  facility: nsls, x17a, fy16
+  grant: ' sixns '
+  journal: Cryst. Growth Des.
+  nb: fy16, hilite
+  number: '1'
+  optannote: ''
+  optnote: 'Doi: http://pubs.acs.org/doi/full/10.1021/acs.cgd.5b01100'
+  optwwwlanl: ''
+  pages: 210–220
+  title: Recrystallization, phase composition, and local structure of amorphous lactose
+    from the total scattering pair distribution function
+  url: http://pubs.acs.org/doi/full/10.1021/acs.cgd.5b01100
+  volume: '16'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/terba_cgd15.pdf
+  year: '2015'
+terba;ic17:
+  author:
+    - Terban, Maxwell W.
+    - Shi, Chenyang
+    - Silbernagel, Rita
+    - Clearfield, Abraham
+    - Billinge, Simon J. L.
+  doi: 10.1021/acs.inorgchem.7b00666
+  entrytype: article
+  facility: nsls, x17a, xpd, nslsii, chess
+  grant: neup
+  journal: Inorg. Chem.
+  nb: ''
+  note: ''
+  number: '15'
+  optannote: ''
+  optwwwlanl: ''
+  pages: 8837--8846
+  title: Local environment of terbium(III) ions in layered nanocrystalline zirconium(IV)
+    phosphonate–phosphate ion exchange materials
+  url: http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.7b00666
+  volume: '56'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/terba_ic2017.pdf
+  year: '2017'
+terba;macm16:
+  author:
+    - Terban, Maxwell W.
+    - Dabbous, Rapha\"{e}l
+    - Debellis, Anthony D.
+    - P\"{o}selt, Elmar
+    - Billinge, Simon J. L.
+  doi: 10.1021/acs.macromol.6b00889
+  entrytype: article
+  facility: x17a, nsls
+  grant: dmref15
+  journal: Macromolecules
+  nb: hilite
+  note: ''
+  number: '19'
+  optannote: ''
+  optwwwlanl: ''
+  pages: 7350--7358
+  title: Structures of hard phases in thermoplastic polyurethanes
+  url: http://pubs.acs.org/doi/abs/10.1021/acs.macromol.6b00889
+  volume: '49'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/terba_macm16.pdf
+  year: '2016'
+terba;nan15:
+  author:
+    - Terban, Maxwell W.
+    - Johnson, Matthew
+    - DiMichiel, Marco
+    - Billinge, Simon J. L.
+  doi: 10.1039/C4NR06486K
+  entrytype: article
+  facility: esrf, id15
+  grant: ' efrc10, ldrd12 '
+  journal: Nanoscale
+  nb: art, hilite, fy15
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: 5480--5487
+  title: Detection and characterization of nanoparticles in suspension at low concentrations
+    using the x-ray total scattering pair distribution function technique
+  url: http://dx.doi.org/10.1039/C4NR06486K
+  volume: '7'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/terba_nan15.pdf
+  year: '2015'
+terba;nan18:
+  author:
+    - Terban, Maxwell W.
+    - Banerjee, Debasis
+    - Ghose, Sanjit
+    - Medasani, Bharat
+    - Shukla, Anil
+    - Legg, Benjamin A.
+    - Zhou, Yufan
+    - Zhu, Zihua
+    - Sushko, Maria L.
+    - Yoreo, Jim J. De
+    - Liu, Jun
+    - Thallapally, Praveen K.
+    - Billinge, Simon J. L.
+  doi: 10.1039/C7NR07949D
+  entrytype: article
+  facility: xpd, nslsii
+  grant: mrsec14
+  journal: Nanoscale
+  nb: ''
+  note: DOI:10.1039/C7NR07949D
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: 4291--4300
+  title: Early stage structural development of prototypical zeolitic imidazolate framework
+    (ZIF) in solution
+  url: http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07949d/unauth\#!divAbstract
+  volume: '10'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/18terbannanoscale.pdf
+  year: '2018'
+thamp;prb13:
+  author:
+    - Thampy, V.
+    - Blanco-Canosa, S.
+    - Garcia-Fernandez, M.
+    - Dean, M. P. M.
+    - Gu, G. D.
+    - F\"orst, M.
+    - Loew, T.
+    - Keimer, B.
+    - Tacon, M. Le
+    - Wilkins, S. B.
+    - Hill, J. P.
+  doi: ''
+  entrytype: article
+  facility: ' nsls, x20'
+  grant: ' fwp11 '
+  journal: Phys. Rev. B
+  nb: ' art, typeB '
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
+  pages: ''
+  title: Comparison of charge modulations in {{La$_{1.875}$Ba$_{0.125}$CuO$_4$} and
+    {YBa$_2$Cu$_3$O$_{6.6}$}}
+  url: http://link.aps.org/doi/10.1103/PhysRevB.88.024505
+  volume: '88'
+  wwwemail: ''
+  year: '2013'
+thorp;b;fstpbas02:
+  abstract: "A review examines a single pair distribution\nfunction (PDF) peak showing\
+    \ how it can be\ndecompd. into zero, one, two and multiphonon\ncontributions.\
+    \ The widely used approxn. that the PDF\nlineshape is Gaussian, which is a good\n\
+    approxn. under most circumstances, is also\nevaluated. Expressions that can be\
+    \ used for the\ndeviations from a Gaussian lineshape in terms of the\nelements\
+    \ of the displacement-displacement\ncorrelation matrix are presented. The application\
+    \ of\nintermol. correlations by using a continuum\napproxn., and the special application\
+    \ of\nexptl. resoln. function are described. [on SciFinder\n(R)]"
+  address: New York
+  author:
+    - Thorpe, M. F.
+    - Levashov, V. A.
+    - Lei, M.
+    - Billinge, S. J. L.
+  booktitle: "From semiconductors to proteins: beyond the average\nstructure"
+  editor: Billinge, S. J. L. and Thorpe, M. F.
+  entrytype: inproceedings
+  facility: ' ipns, glad '
+  grant: ' doe97 '
+  key: CAN 137:284506
+  nb: ' chap, pdf, scalloy '
+  optnote: "From Semiconductors to Proteins: Beyond the Average\nStructure, [Proceedings\
+    \ from the Workshop], Traverse\nCity, MI, United States, July 28-Aug. 1, 2001"
+  pages: 105--128
+  publisher: Kluwer/Plenum
+  title: Notes on the analysis of data for pair distribution functions
+  url: http://link.springer.com/chapter/10.1007/978-1-4615-0613-3_7
+  wwwemail: sb2896@columbia.edu
+  wwwlanl: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/02thorp_tc.pdf
+  year: '2002'
+thorp;b;lsfd98:
+  address: New York
+  author:
+    - Thorpe, M. F.
+    - Chung, J. S.
+    - Billinge, S. J. L.
+    - Mohiuddin-Jacobs, F.
+  booktitle: Local Structure from Diffraction
+  editor: Billinge, S. J. L. and Thorpe, M. F.
+  entrytype: inproceedings
+  facility: ' mlnsc, nsls, hipd, x7a'
+  grant: 'cfmr, nsf-dmr97, doe97, sloan95 '
+  nb: ' chap, pdf, misc'
+  optcrossref: billi;lsfd98
+  pages: '157'
+  publisher: Plenum
+  title: Advances in pair distribution profile fitting in alloys
+  url: http://link.springer.com/chapter/10.1007%2F0-306-47077-2_9
+  wwwemail: sb2896@columbia.edu
+  wwwlanl: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/thorpeTraverse98.pdf
+  year: '1998'
+tian;acsn11:
+  author:
+    - Tian, Peng
+    - Zhang, Yanhua
+    - Senevirathne, Keerthi
+    - Brock, Stephanie L.
+    - Dixit, Ambesh
+    - Lawes, Gavin
+    - Billinge, Simon J. L.
+  doi: 10.1021/nn200020r
+  entrytype: article
+  facility: ' aps, id11 '
+  grant: ' frg07  '
+  journal: ACS Nano.
+  nb: ' art '
+  number: ''
+  optannote: ''
+  optnote: to be published
+  optwwwlanl: ''
+  pages: 2970-2978
+  title: Diverse structural and magnetic properties of differently prepared {MnAs}
+    nanoparticles
+  url: http://pubs.acs.org/doi/abs/10.1021/nn200020r
+  volume: '5'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/tianacsn11.pdf
+  year: '2011'
+tian;jac13:
+  author:
+    - Tian, P.
+    - Zhou, W.
+    - Liu, J.
+    - Shang, Y.
+    - Farrow, C. L.
+    - "{Juh\\'as}, P."
+    - Billinge, S. J. L.
+  doi: 10.1107/S0021889812045967
+  entrytype: article
+  facility: ' aps, id11c '
+  grant: ' danse '
+  journal: J. Appl. Crystallogr.
+  nb: ' art '
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: 255-258
+  title: '{SrRietveld}: A program for automating {Rietveld} refinements for high throughput
+    studies'
+  url: http://dx.doi.org/10.1107/S0021889812045967
+  volume: '46'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/tian_jac13.pdf
+  year: '2013'
+tian;zk11:
+  author:
+    - Tian, Peng
+    - Billinge, Simon J. L.
+  doi: 10.1524/zkri.2011.1421
+  entrytype: article
+  facility: ' mlnsc, npdf '
+  grant: ' frg07, danse '
+  journal: Z. Kristallogr.
+  nb: ' art '
+  number: ''
+  optannote: ''
+  optnote: to be published
+  optwwwlanl: ''
+  pages: 898-904
+  title: Testing different methods for estimating uncertainties on {Rietveld} refined
+    parameters using {SrRietveld}
+  url: https://www.degruyter.com/view/j/zkri.2011.226.issue-12/zkri.2011.1421/zkri.2011.1421.xml
+  volume: '226'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/11tianzk.pdf
+  year: '2011'
+tiano;cm15:
+  author:
+    - Tiano, Amanda L.
+    - Papaefthymiou, Georgia C.
+    - Lewis, Crystal S.
+    - Han, Jinkyu
+    - Zhang, Cheng
+    - Li, Qiang
+    - Shi, Chenyang
+    - Abeykoon, A. M. Milinda
+    - Billinge, Simon J. L.
+    - Stach, Eric
+    - Thomas, Justin
+    - Guerrero, Kevin
+    - Munayco, Pablo
+    - Munayco, Jimmy
+    - Scorzelli, Rosa B.
+    - Burnham, Philip
+    - Viescas, Arthur J.
+    - Wong, Stanislaus S.
+  doi: 10.1021/acs.chemmmater.5b00767
+  entrytype: article
+  facility: nsls, x17a, cfn
+  grant: ' efrc10, fwp14  '
+  journal: Chem. Mater.
+  nb: ' art, typeB1, fy15  '
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: 3572-3592
+  title: Correlating size and composition-dependent effects with magnetic, {M\"{o}ssbauer},
+    and pair distribution function measurements in a family of catalytically active
+    ferrite nanoparticles
+  url: http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.5b00767
+  volume: '27'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/tiano_cm15.pdf
+  year: '2015'
+toby;aca04:
+  author:
+    - Toby, B. H.
+    - Billinge, S. J. L.
+  entrytype: article
+  facility: ' '
+  grant: ' doe97 '
+  journal: Acta Crystallogr. A
+  nb: ' art, pdf, hilite'
+  optannote: ''
+  optkey: ''
+  optmonth: ''
+  optnote: ''
+  optnumber: ''
+  optwwwlanl: http://arxiv.org/abs/cond-mat/
+  pages: 315-317
+  title: Determination of standard uncertainties in fits to pair distribution functions
+  url: http://scripts.iucr.org/cgi-bin/paper?th5001
+  volume: '60'
+  wwwemail: sb2896@columbia.edu
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/03tobyaca.pdf
+  year: '2004'
+torch;nm13:
+  author:
+    - Torchinsky, D. H.
+    - Mahmood, F.
+    - Bollinger, A. T.
+    - Bo\v{z}ovi\'{c}, I.
+    - Gedik, N.
+  doi: ''
+  entrytype: article
+  facility: '  '
+  grant: ' fwp11 '
+  journal: Nat. Mater.
+  nb: ' art, typeB '
+  number: ''
+  optannote: ''
+  optnote: ''
+  optwwwlanl: ''
+  optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
+  pages: 387-391
+  title: Fluctuating charge density waves in a cuprate superconductor
+  url: ''
+  volume: '12'
+  wwwemail: ''
+  year: '2013'
+tyrst;acie12:
+  author:
+    - Tyrsted, Christoffer
+    - Jensen, Kirsten Marie {\O}rnsbjerg
+    - B{\o}jesen, Espen Drath
+    - Lock, Nina
+    - Christensen, Mogens
+    - Billinge, Simon J. L.
+    - Iversen, Bo Brummerstedt
+  doi: 10.1002/anie.201204747
+  entrytype: article
+  facility: ' aps, id11, id11b  '
+  grant: ' frg07 '
+  journal: Angew. Chem. Int. Edit.
+  nb: ' art, hilite, srfit '
+  note: Selected by the editors as a ``Hot" paper for highlighting
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: 9030--9033
+  title: Understanding the formation and evolution of ceria nanoparticles under hydrothermal
+    conditions
+  url: http://onlinelibrary.wiley.com/doi/10.1002/anie.201204747/suppinfo
+  volume: '51'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12tyrstacie.pdf
+  year: '2012'
+tyrst;ij14:
+  author:
+    - Tyrsted, Christoffer
+    - Lock, Nina
+    - Jensen, Kirsten M. \O.
+    - Christensen, Mogens
+    - Bøjesen, Espen D.
+    - Emerich, Hermann
+    - Vaughan, Gavin
+    - Billinge, Simon J. L.
+    - Iversen, Bo B.
+  doi: 10.1107/S2052252514006538
+  entrytype: article
+  facility: ' esrf, 11id, esrf, bm01b '
+  grant: efrc10
+  journal: IUCrJ.
+  nb: art, hilite
+  note: ''
+  number: '3'
+  optannote: ''
+  optwwwlanl: ''
+  pages: 165-171
+  title: Evolution of atomic structure during nanoparticle synthesis
+  url: http://journals.iucr.org/m/issues/2014/03/00/fc5001/
+  volume: '1'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/14tyrstij.pdf
+  year: '2014'
+urban;nan17:
+  author:
+    - Urbankowski, Patrick
+    - Anasori, Babak
+    - Hantanasirisakul, Kanit
+    - Yang, Long
+    - Zhang, Lihua
+    - Haines, Bernard
+    - May, Steven J.
+    - Billinge, Simon J. L.
+    - Gogotsi, Yury
+  doi: 10.1039/C7NR06721F
+  entrytype: article
+  facility: xpd, nslsii
+  grant: mrsec14
+  journal: Nanoscale
+  nb: art
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: 17722-17730
+  title: '{2D} molybdenum and vanadium nitrides synthesized by ammoniation of {2D}
+    transition metal carbides ({MX}enes)'
+  url: http://pubs.rsc.org/en/content/articlehtml/2017/nr/c7nr06721f
+  volume: '9'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/urban_nan17.pdf
+  year: '2017'
+vasic;jpcc13:
+  author:
+    - '{Vucinic-Vasic}, M.'
+    - Bozin, E. S.
+    - Bessais, L.
+    - Stojanovic, G.
+    - '{Kozmidis-Luburic}, U.'
+    - Abeykoon, M.
+    - Jancar, B.
+    - Meden, A.
+    - Kremenovic, A.
+    - Antic, B.
+  doi: 10.1021/jp403459t
+  entrytype: article
+  facility: ' aps, id11c  '
+  grant: ' fwp11 '
+  journal: J. Phys. Chem. C
+  nb: ' art, typeB '
+  number: ''
+  optannote: ''
+  optnote: ''
+  optwwwlanl: ''
+  pages: 12358-12365
+  title: Thermal evolution of cation distribution/crystallite size and their correlation
+    with the magnetic state of {Yb}-substituted zinc ferrite nanoparticles
+  url: http://pubs.acs.org/doi/abs/10.1021/jp403459t
+  volume: '117'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/vasic_jpcc13.pdf
+  year: '2013'
+vensk;zk05:
+  author:
+    - Vensky, S.
+    - Kienle, L.
+    - Dinnebier, R. E.
+    - Masadeh, A. S.
+    - Billinge, S. J. L.
+    - Jansen, M.
+  entrytype: article
+  facility: 'aps, 6idd, mucat  '
+  grant: '  nsf-che02   '
+  journal: Z. Kristallogr.
+  nb: ' art, pdf '
+  optannote: ''
+  optnote: ''
+  optwwwlanl: http://arxiv.org/abs/cond-mat/
+  pages: 231-244
+  title: The real structure of {Na$_{3}$BiO$_{4}$} by electron microscopy, {HR-XRD}
+    and {PDF} analysis
+  url: https://www.degruyter.com/view/j/zkri.2005.220.issue-2-3/zkri.220.2.231.59119/zkri.220.2.231.59119.xml
+  volume: '220'
+  wwwemail: ' sb2896@columbia.edu'
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/vensk_zk05.pdf
+  year: '2005'
+wachh;am00:
+  author:
+    - Wachhold, M.
+    - Rangan, K. Kasthuri
+    - Billinge, S. J. L.
+    - Petkov, V.
+    - Heising, J.
+    - Kanatzidis, M. G.
+  entrytype: article
+  facility: ' inhs '
+  grant: 'cfmr, nsf-che99 '
+  journal: Advanced Mater.
+  nb: ' art, chem '
+  pages: '85'
+  title: 'Mesostructured non-oxidic solids with adjustable worm-hole shaped pores:
+    M-Ge-Q (Q=S, Se) frameworks based on tetrahedral [Ge$_{4}$Q$_{10}$]$^{4-}$ clusters'
+  url: http://onlinelibrary.wiley.com/doi/10.1002/(SICI)1521-4095(200001)12:2%3C85::AID-ADMA85%3E3.0.CO;2-P/full
+  volume: '12'
+  wwwemail: sb2896@columbia.edu
+  wwwjour: http://www3.interscience.wiley.com/cgi-bin/issuetoc?ID=68503403
+  wwwlanl: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/00wachham.pdf
+  year: '2000'
+wachh;jssc00:
+  author:
+    - Wachhold, M.
+    - Rangan, K. K.
+    - Lei, M.
+    - Thorpe, M. F.
+    - Billinge, S. J. L.
+    - Petkov, V.
+    - Heising, J.
+    - Kanatzidis, M. G.
+  entrytype: article
+  facility: ' inhs '
+  grant: 'cfmr, nsf-che99 '
+  journal: J. Solid State Chem.
+  nb: ' art, chem '
+  pages: '21'
+  title: 'Mesostructured metal germanium sulphide and selenide materials based on
+    the tetrahedral [Ge$_{4}$S$_{10}$]$^{4-}$ and [Ge$_{4}$Se$_{10}$]$^{4-}$ units:
+    Surfactant templated three-dimensional disordered frameworks perforated with worm-holes'
+  url: http://www.sciencedirect.com/science/article/pii/S0022459600986730
+  volume: '152'
+  wwwemail: sb2896@columbia.edu
+  wwwjour: http://www.idealibrary.com/links/doi/10.1006/jssc.2000.8673
+  wwwlanl: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/00wachhjssc.pdf
+  year: '2000'
+wang;aplm15:
+  author:
+    - Wang, Kefeng
+    - Wang, Aifeng
+    - Tomic, A.
+    - Wang, Limin
+    - Abeykoon, A. M. Milinda
+    - Dooryhee, E.
+    - Billinge, S. J. L.
+    - Petrovic, C.
+  doi: 10.1063/1.4913919
+  entrytype: article
+  facility: ' nslsii, xpd '
+  grant: ' fwp14 '
+  journal: APL Mat.
+  nb: ' art, typeB1, fy15 '
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: '041513'
+  title: Enhanced thermoelectric power and electronic correlations in {RuSe$_2$}
+  url: http://dx.doi.org/10.1063/1.4913919
+  volume: '3'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/15wangaplm.pdf
+  year: '2015'
+wang;prb16:
+  author:
+    - Wang, Aifeng
+    - Graf, D.
+    - Wu, Lijun
+    - Wang, Kefeng
+    - Bozin, E.
+    - Zhu, Yimei
+    - Petrovic, C.
+  doi: 10.1103/PhysRevB.94.125118
+  entrytype: article
+  facility: sns, powgen, fy16
+  grant: fwp14
+  journal: Phys. Rev. B
+  nb: typeB1, fy16
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: '125118'
+  title: Interlayer electronic transport in CaMnBi$_{2}$
+  url: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.125118
+  volume: '94'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/wang_prb16.pdf
+  year: '2016'
+wang;prb16ii:
+  author:
+    - Wang, Aifeng
+    - Zaliznyak, I.
+    - Ren, Weijun
+    - Wu, Lijun
+    - Graf, D.
+    - Garlea, V. O.
+    - Warren, J. B.
+    - Bozin, E.
+    - Zhu, Yimei
+    - Petrovic, C.
+  doi: 10.1103/PhysRevB.94.165161
+  entrytype: article
+  facility: nslsii, xpd, fy17
+  grant: 'fwp14 '
+  journal: Phys. Rev. B
+  nb: typeB1, fy17
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: '165161'
+  title: Magnetotransport study of Dirac fermions in YbMnBi$_{2}$ antiferromagnet
+  url: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.165161
+  volume: '94'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/wang_prb16ii.pdf
+  year: '2016'
+wesle;acscat18:
+  author:
+    - Transue, Wesley J.
+    - Nava, Matthew
+    - Terban, Maxwell W.
+    - Yang, Jing
+    - Greenberg, Matthew W.
+    - Wu, Gang
+    - Mustoe, Chantal L.
+    - Kennepohl, Pierre
+    - Owen, Jonathan S.
+    - Billinge, Simon J. L.
+    - Kulik, Heather J.
+    - Cummins, Christopher C.
+  doi: 10.1021/jacs.8b10775
+  entrytype: article
+  facility: nslsii, xpd
+  grant: mrsec14
+  journal: J. Am. Chem. Soc.
+  nb: ''
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: 431--440
+  title: Anthracene as a launchpad for a phosphinidene sulfide and for generation
+    of a phosphorus–sulfur material having the composition {P$_2$S}, a vulcanized
+    red phosphorus that is yellow
+  url: https://pubs.acs.org/doi/pdf/10.1021/jacs.8b10775
+  volume: '141'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/18terbanjacs.pdf
+  year: '2018'
+wilki;cm98:
+  author:
+    - Wilkinson, A. P.
+    - Xu, J.
+    - Pattanaik, S.
+    - Billinge, S. J. L.
+  entrytype: article
+  facility: ' ipns, sepd, '
+  grant: 'cfmr, nsf-dmr97, sloan95 '
+  journal: Chem. Mater.
+  nb: ' art, ferro, misc'
+  pages: '3611'
+  title: Neutron scattering studies of compositional heterogeneity in sol-gel processed
+    PZT (PbZr$_{0.5}$Ti$_{0.5}$)O$_{3}$
+  url: http://pubs.acs.org/doi/abs/10.1021/cm980368j
+  volume: '10'
+  wwwemail: sb2896@columbia.edu
+  wwwjour: http://pubs.acs.org/isubscribe/journals/cmatex/jtext.cgi?cmatex/10/11/pdf/cm980368j.pdf
+  wwwlanl: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/98wilkicm.pdf
+  year: '1998'
+worha;cm08:
+  author:
+    - Worhatch, R. J.
+    - Kim, H. J.
+    - Swainson, I. P.
+    - Yonkeu, A. L.
+    - Billinge, S. J. L.
+  doi: ''
+  entrytype: article
+  facility: ' aps, mucat, 6idd'
+  grant: '  nirt03, frg07   '
+  journal: Chem. Mater.
+  nb: ''
+  optannote: ''
+  optnote: ''
+  optwwwlanl: http://arxiv.org/abs/cond-mat/0612414
+  pages: 1272-1277
+  title: Study of local structure in selected cubic organic-inorganic perovskites
+  url: http://pubs.acs.org/doi/abs/10.1021/cm702668d
+  volume: '20'
+  wwwemail: ' sb2896@columbia.edu'
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/worhatch_08_cm.pdf
+  year: '2008'
+xiao;afm19:
+  author:
+    - Xiao, Xu
+    - Urbankowski, Patrick
+    - Hantanasirisakul, Kanit
+    - Yang, Yao
+    - Sasaki, Stephen
+    - Yang, Long
+    - Chen, Chi
+    - Wang, Hao
+    - Miao, Ling
+    - Tolbert, Sarah H.
+    - Billinge, Simon J. L.
+    - Abruna, Hector D.
+    - May, Steven J.
+    - Gogotsi, Yury
+  doi: adfm.201809001
+  entrytype: article
+  facility: xpd, nslsii
+  grant: mrsec14
+  journal: Adv. Funct. Mater.
+  nb: art
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: '1809001'
+  title: Scalable synthesis of ultrathin {Mn$_3$N$_2$} exhibiting room-temperature
+    antiferromagnetism
+  url: https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201809001
+  volume: ''
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/xiao_afm19.pdf
+  year: '2019'
+xiao;am19:
+  author:
+    - Xu Xiao
+    - Hao Wang
+    - Weizhai Bao
+    - Patrick Urbankowski
+    - Long Yang
+    - Yao Yang
+    - Kathleen Maleski
+    - Linfan Cui
+    - Simon J. L. Billinge
+    - Guoxiu Wang
+    - Yury Gogotsi
+  doi: ''
+  entrytype: article
+  facility: ' xpd, nslsii '
+  grant: ' mrsec14 '
+  journal: Adv. Mater.
+  nb: ' art '
+  note: To be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  title: Two-dimensional arrays of transition metal nitride nanocrystals
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2019'
+xu2017benefits:
+  author:
+    - Xu,
+    - Ji,
+    - Hsu,
+    - Daniel,
+    - Maleki,
+    - Arian,
+  booktitle: Advances in Neural Information Processing Systems
+  entrytype: inproceedings
+  title: Benefits of overparameterization with EM
+  year: '2018'
+xu;b;ainips18:
+  author:
+    - Xu,
+    - Ji,
+    - Hsu,
+    - J, Daniel
+    - Maleki,
+    - Arian,
+  booktitle: Advances in Neural Information Processing Systems 31
+  editor: Bengio, S. and Wallach, H. and Larochelle, H. and Grauman, K. and Cesa-Bianchi,
+    N. and Garnett, R.
+  entrytype: incollection
+  grant: dmref15
+  pages: 10685--10695
+  publisher: Curran Associates, Inc.
+  title: Benefits of over-parameterization with EM
+  url: http://papers.nips.cc/paper/8265-benefits-of-over-parameterization-with-em.pdf
+  year: '2018'
+xu;prb16:
+  author:
+    - Xu, Zhijun
+    - Schneeloch, J. A.
+    - Wen, Jinsheng
+    - Bozin, Emil S.
+    - Granroth, G. E.
+    - Winn, B. L.
+    - Feygenson, M.
+    - Birgeneau, R. J.
+    - Gu, Genda
+    - Zaliznyak, I. A.
+    - Tranquada, J. M.
+    - Xu, Guangyong
+  doi: 10.1103/PhysRevB.93.104517
+  entrytype: article
+  facility: ' sns, nomad, fy16 '
+  grant: ' fwp14 '
+  journal: Phys. Rev. B
+  nb: ' art, typeB1, fy16 '
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: '104517'
+  title: Thermal evolution of antiferromagnetic correlations and tetrahedral bond
+    angles in superconducting {FeTe$_{1-x}$Se$_{x}$}
+  url: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.104517
+  volume: '93'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/xu_prb16.pdf
+  year: '2016'
+yang;aca19:
+  author:
+    - Yang, Long
+    - Juh\'{a}s, Pavol
+    - Terban, Maxwell W.
+    - Billinge, Simon J. L.
+  doi: ''
+  entrytype: misc
+  facility: nslsii, xpd, sns, nomad, mlnsc, npdf
+  grant: dmref15
+  journal: ''
+  nb: art
+  note: arXiv:1905.02677 [cond-mat.mtrl-sci]
+  number: ''
+  optannote: submitted to Acta Crystallogr. A
+  optwwwlanl: ''
+  optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
+  pages: ''
+  title: 'Structure-mining: screening structure models by automated fitting to the
+    atomic pair distribution function over large numbers of models'
+  url: ''
+  volume: ''
+  wwwemail: ''
+  year: '2019'
+yang;arxiv15:
+  author:
+    - Yang, Xiaohao
+    - Juh\'{a}s, Pavol
+    - Farrow, Christopher
+    - Billinge, Simon J. L.
+  doi: ''
+  entrytype: article
+  facility: ' '
+  grant: ' '
+  journal: arXiv
+  nb: ' fy15 '
+  note: '1402.3163'
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  title: 'x{PDF}suite: an end-to-end software solution for high throughput pair distribution
+    function transformation, visualization and analysis'
+  url: http://arxiv.org/abs/1402.3163
+  volume: ''
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/15yangxpdfsuite.pdf
+  year: '2015'
+yang;jac14:
+  author:
+    - Yang, Xiaohao
+    - Juh\'{a}s, P.
+    - Billinge, S. J. L.
+  doi: 10.1107/S1600576714010516
+  entrytype: article
+  facility: ' aps, 11idb '
+  grant: ' efrc10 '
+  journal: J. Appl. Crystallogr.
+  nb: ' art '
+  note: ''
+  number: '4'
+  optannote: ''
+  optwwwlanl: ''
+  pages: 1273-1283
+  title: On the estimation of statistical uncertainties on powder diffraction and
+    small-angle scattering data from two-dimensional X-ray detectors
+  url: http://journals.iucr.org/j/issues/2014/04/00/nb5095/
+  volume: '47'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/14yangjac.pdf
+  year: '2014'
+yang;pccp13:
+  author:
+    - Yang, Xiaohao
+    - Masadeh, Ahmad S.
+    - McBride, James R.
+    - Bo\v{z}in, Emil S.
+    - Rosenthal, Sandra J.
+    - Billinge, Simon J. L.
+  doi: 10.1039/C3CP00111C
+  entrytype: article
+  facility: ' aps, 6idd  '
+  grant: ' efrc10 '
+  journal: Phys. Chem. Chem. Phys.
+  nb: ' art '
+  number: '22'
+  optannote: ''
+  optnote: doi:10.1039/C3CP00111C
+  optwwwlanl: ''
+  pages: 8480-8486
+  title: Confirmation of disordered structure of ultrasmall {CdSe} nanoparticles from
+    x-ray atomic pair distribution function analysis
+  url: http://pubs.rsc.org/en/content/articlelanding/2013/cp/c3cp00111c
+  volume: '15'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/yang_pccp13.pdf
+  year: '2013'
+yao;jncs05:
+  author:
+    - Yao, W.
+    - Martin, S. W.
+    - Petkov, V.
+  doi: 10.1016/j.jnoncrysol.2005.05.003
+  entrytype: article
+  grant: 'nirt03 '
+  journal: J. Non-Crystalline Solids
+  nb: ' not-bg'
+  note: ''
+  optwwwemail: ' sb2896@columbia.edu'
+  optwwwlanl: ''
+  pages: 1995-2002
+  title: Structure determination of low-alkali-content Na$_{2}$S + B$_{2}$S$_{3}$
+    glasses using neutron and synchrotron x-ray diffraction
+  url: ''
+  volume: '351'
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/yao_jncs05.pdf
+  year: '2005'
+yavas;nim07:
+  author:
+    - Yavas, Hasan
+    - Alp, E. Ercan
+    - Sinn, Harald
+    - Alatas, Ahmet
+    - Said, Ayman
+    - Shvyd'ko, Yuri
+    - Toellner, Thomas
+    - Khachatryan, Ruben
+    - Billinge, Simon J. L.
+    - Hasan, M. Zahid
+    - Sturhahn, Wolfgang
+  doi: 10.1016/j.nima.2007.08.095
+  entrytype: article
+  facility: 'aps, 3id, 30id '
+  grant: '   doe97   '
+  journal: Nucl. Instrum. Methods A
+  nb: 'art, '
+  optannote: ''
+  optnote: ''
+  optwwwlanl: http://arxiv.org/abs/cond-mat/xxxxxx
+  optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
+  pages: 149-151
+  title: Sapphire analyzers for high-resolution x-ray spectroscopy
+  url: http://www.sciencedirect.com/science/article/pii/S0168900207017834#
+  volume: '582'
+  wwwemail: ' sb2896@columbia.edu'
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/yavas_nima07.pdf
+  year: '2007'
+yi;jacs06:
+  author:
+    - Yi, B.
+    - Rajagopalan, R.
+    - Kim, U. J.
+    - Liu, X.
+    - Eklund, P.
+    - Foley, H. C.
+  doi: '10.1021/ja063518x '
+  entrytype: article
+  facility: '  '
+  grant: '  nirt03   '
+  journal: J. Am. Chem. Soc.
+  nb: ' not-bg '
+  optnote: ''
+  optwwwlanl: ''
+  pages: 11307-11313
+  title: 'Catalyic polymerization and facile grafting of poly(furfuryl alcohol) to
+    single wall nanotube: preparation of nanocomposite carbon'
+  url: ''
+  volume: '128'
+  wwwemail: ' sb2896@columbia.edu'
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/yi_jacs06.pdf
+  year: '2006'
+yu;prb02:
+  author:
+    - Pomjakushin, V. Yu.
+    - Balagurov, A. M.
+    - Elzhov, T. V.
+    - Sheptyakov, D. V.
+    - Fischer, P.
+    - Khomskii, D. I.
+    - Yushankhai, V. Yu.
+    - Abakumov, A. M.
+    - Rozova, M. G.
+    - Antipov, E. V.
+    - Lobanov, M. V.
+    - Billinge, S. J. L.
+  entrytype: article
+  facility: '??? '
+  grant: crdf01
+  journal: Phys. Rev. B
+  nb: ' art, hts '
+  note: ''
+  optannote: ''
+  optkey: ''
+  optmonth: ''
+  optnumber: ''
+  optwwwlanl: http://www.pa.msu.edu/cmp/billinge-group/papers/
+  pages: '184412'
+  title: Atomic and magnetic structures, disorder effects and unconventional superexchange
+    interactions in A$_{2}$MnGaO$_{5+\delta}$ (A=Sr,Ca) oxides with layered brownmillerite-type
+    structure
+  url: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.66.184412
+  volume: '66'
+  wwwemail: sb2896@columbia.edu
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/02pomjaprb.pdf
+  year: '2002'
+yu;prb18i:
+  ackno: Work at Brookhaven National Laboratory was supported by U.S. Department of
+    Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under Contract
+    DESC0012704. Work at Argonne National Laboratory was supported by the U.S. Department
+    of Energy, Office of Science, Materials Sciences and Engineering. The neutron
+    diffraction measurements were carried out at NPDF instrument of the Lujan Neutron
+    Scattering Center at Los Alamos National Laboratory, and the x-ray experiments
+    were carried out at beamline 28-ID-2 (XPD) of the National Synchrotron Light Source
+    II at Brookhaven National Laboratory. Use of the National Synchrotron Light Source
+    II, Brookhaven National Laboratory, was supported by DOE-BES under Contract No.
+    DESC0012704. B.S. and N.A.S. acknowledge support from ETH Zürich, the ERC Advanced
+    Grant program (No. 291151), and the Swiss National Supercomputing Centre (CSCS)
+    under Project ID s624.
+  author:
+    - Yu, Runze
+    - Bozin, Emil S.
+    - Abeykoon, Milinda
+    - Sangiorgio, Boris
+    - Spaldin, Nicola A.
+    - Malliakas, Christos D.
+    - Kanatzidis, Mercouri G.
+    - Billinge, Simon J. L.
+  day: '12'
+  doi: 10.1103/PhysRevB.98.144108
+  entrytype: article
+  facility: mlnsc, npdf, nslsii, xpd
+  grant: fwp17, typeA, fy19
+  journal: Phys. Rev. B
+  month: Oct
+  nb: typeA, fy19
+  number: ''
+  optannote: ''
+  optnote: arxiv.org/abs/1805.01069
+  optwwwlanl: ''
+  pages: '144108'
+  title: Emphanitic anharmonicity in {PbSe} at high temperature and the anomalous
+    electronic properties in the {PbX (X=S, Se, Te)} system
+  url: http://doi.org/10.1103/PhysRevB.98.144108
+  volume: '98'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/18bozinprb.pdf
+  year: '2018'
+yu;prb18ii:
+  author:
+    - Yu, Runze
+    - Banerjee, Soham
+    - Lei, H. C.
+    - Sinclair, Ryan
+    - Abeykoon, Milinda
+    - Zhou, H. D.
+    - Petrovic, Cedomir
+    - Guguchia, Zurab
+    - Bozin, Emil
+  doi: ''
+  entrytype: article
+  facility: nslsii, xpd, fy18, typeA
+  grant: fwp17
+  journal: Phys. Rev. B
+  nb: typeA, fy18
+  note: ''
+  number: '17'
+  optannote: ''
+  optwwwlanl: ''
+  pages: '174515'
+  title: Absence of local fluctuating dimers in superconducting {Ir$_{1-x}$(Pt,Rh)$_{x}$Te$_{2}$}
+  url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.174515
+  volume: '97'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/18yuprb.pdf
+  year: '2018'
+yu;prb18rh:
+  author:
+    - Yu, Runze
+    - Banerjee, Soham
+    - Lei, H. C.
+    - Abeykoon, Milinda
+    - Petrovic, Cedomir
+    - Guguchia, Zurab
+    - Bozin, Emil
+  doi: ''
+  entrytype: article
+  facility: nslsii, xpd, fy18, typeA
+  grant: fwp17
+  journal: Phys. Rev. B
+  nb: typeA, fy18
+  note: Published
+  number: '13'
+  optannote: ''
+  optwwwlanl: ''
+  optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/HOLD.pdf
+  pages: '134506'
+  title: Phase separation at the dimer-superconductor transition in {Ir$_{1-x}$Rh$_{x}$Te$_{2}$}
+  url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.134506
+  volume: '98'
+  wwwemail: ''
+  year: '2018'
+zhang;nc18:
+  author:
+    - Zhang, Boyuan
+    - S\'{a}nchez, Ra\'{u}l H.
+    - Zhong, Yu
+    - Ball, Melissa
+    - Terban, Maxwell W.
+    - Paley, Daniel
+    - Billinge, Simon J. L.
+    - Ng, Fay
+    - Steigerwald, Michael L.
+    - Nuckolls, Colin
+  doi: 10.1038/s41467-018-04246-0
+  entrytype: article
+  facility: xpd, nslsii
+  grant: mrsec14
+  journal: Nat. Commun.
+  month: May
+  nb: ''
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/18terbannc.pdf
+  pages: '1957'
+  title: Hollow organic capsules assemble into cellular semiconductors
+  url: https://www.nature.com/articles/s41467-018-04246-0
+  volume: '9'
+  wwwemail: ''
+  year: '2018'
+zheng;prb09:
+  author:
+    - Zheng, J. C.
+    - Frenkel, A. I.
+    - Wu, L.
+    - Hanson, J.
+    - Ku, W.
+    - Bo\v{z}in, E. S.
+    - Billinge, S. J. L.
+    - Zhu, Y.
+  entrytype: article
+  facility: ipns, sepd, nsls
+  grant: ' fwp08 '
+  journal: Phys. Rev. B
+  nb: ' art, typeB '
+  number: ''
+  optnote: To be published
+  optwwwlanl: ''
+  pages: '144203'
+  title: 'Nanoscale disorder and local electronic properties of {CaCu$_3$Ti$_4$O$_{12}$}:
+    An integrated study of electron, neutron and x-ray diffraction, x-ray absorption
+    fine structure and first principles calculations'
+  url: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.81.144203
+  volume: '81'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/zheng_prb_10.pdf
+  year: '2010'
+zhu;estl14:
+  author:
+    - Zhu, Mengqiang
+    - Northrup, Paul
+    - Shi, Chenyang
+    - Billinge, Simon J. L.
+    - Sparks, Donald L.
+    - Waychunas, Glenn A.
+  doi: 10.1021/ez400052r
+  entrytype: article
+  facility: ssrl, nsls, x15b, aps, id11b
+  grant: ' efrc10 '
+  journal: Environ. Sci. Technol. Lett.
+  nb: ' art, srfit '
+  number: ''
+  optannote: ''
+  optnote: ''
+  pages: 97-101
+  title: The structure of sulfate adsorption complexes on ferrihydrite
+  url: http://pubs.acs.org/doi/abs/10.1021/ez400052r
+  volume: '1'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/zhu_estl13.pdf
+  year: '2014'
+zhu;gca11:
+  author:
+    - Zhu, Mengqiang
+    - Farrow, Christopher L.
+    - Post, Jeffrey E.
+    - Livi, Kenneth J. T.
+    - Billinge, Simon J. L.
+    - Ginder-Vogel, Matthew
+    - Sparks, Donald L.
+  doi: 10.1016/j.gca.2011.12.006
+  entrytype: article
+  facility: ' aps, id11, id11b, nsls, x7b '
+  grant: ' frg07 '
+  journal: Geochim. Cosmochim. Ac.
+  nb: ' art, srfit '
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: 39-55
+  title: Structural study of biotic and abiotic poorly-crystalline manganese oxides
+    using atomic pair distribution function analysis
+  url: http://www.sciencedirect.com/science/article/pii/S0016703711007277
+  volume: '81'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
+  year: '2012'
