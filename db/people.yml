@@ -29,6 +29,27 @@ sharouna-mayer:
       end_month: 10
   name: Sani Harouna-Mayer
   position: Masters student
+smayers:
+  active: true
+  aka:
+    - Sam R. Mayers
+  avatar: https://github.com/samrmayers.png
+  bio: bio
+  education:
+    - begin_year: 2011
+      begin_month: 9
+      degree: PhD in Physics
+      institution: Columbia University
+      end_year: 2016
+      end_month: 4
+      group: bg
+  employment:
+    - begin_year: 2016
+      begin_month: 5
+      position: Post-doctoral Scholar
+      organization: University of California, Berkeley
+  name: Sam Mayers
+  position: undergrad
 bfrandsen:
   active: false
   aka:
@@ -514,6 +535,40 @@ eculbertson:
   service: []
   skills: []
   title: ''
+ekjaer:
+  active: true
+  aka:
+    - Emil Kjaer
+  avatar: hold
+  bio: bio
+  education:
+    - begin_year: 2019
+      begin_month: 9
+      degree: Ph.D
+      institution: ucopenhagen
+    - begin_year: 2017
+      begin_month: 9
+      degree: M.Sc
+      institution: ucopenhagen
+      end_year: 2019
+      end_month: 6
+    - begin_year: 2014
+      begin_month: 9
+      degree: B.Sc
+      institution: ucopenhagen
+      end_year: 2017
+      end_month: 6
+  email: etsk@chem.ku.dk
+  employment:
+    - begin_year: 2020
+      begin_month: 1
+      end_month: 12
+      end_year: 2020
+      position: visiting Research Scholar
+      organization: columbiau
+      group: bg
+  name: Emil Kjaer
+  position: visitor
 jcalamari:
   active: false
   aka:
@@ -769,6 +824,42 @@ rkoch:
       status: postdoc
   name: Robert Koch
   position: Associate Scientist
+rpokratath:
+  active: false
+  aka:
+    - Rohan Pokratath
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2019
+      begin_month: 9
+      degree: PhD in Chemistry
+      institution: University of Basel
+      end_year: 2016
+      end_month: 4
+    - begin_year: 2017
+      degree: Masters in Materials Science
+      institution: Indian Institute of Technology, Bombay, India
+      end_year: 2019
+    - begin_year: 2010
+      degree: Bachelors in Chemical Engineering
+      institution: University of Kerala, India
+      end_year: 2014
+  employment:
+    - begin_year: 2020
+      begin_month: 1
+      position: Visiting Researcher
+      organization: ucolumbia
+      end_year: 2020
+      end_month: 7
+    - begin_year: 2017
+      begin_month: 4
+      position: Process Engineer (Cold Area, Ethylene Cracker Unit)
+      organization: Global SS Constructions Pvt. Ltd.
+      end_year: 2015
+      end_month: 4
+  name: Rohan Pokratath
+  position: visitor
 sbandi:
   active: true
   aka:
