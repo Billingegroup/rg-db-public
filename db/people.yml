@@ -1,8 +1,39 @@
+sharouna-mayer:
+  active: true
+  aka: []
+  avatar: https://github.com/SaniHarouna-Mayer.png
+  bio: Sani grew up in Kassel, Germany. He earned his Bachelors degree in nanoscience
+    in 2018 at the University of Hamburg. During his Bachelor project he worked on PDF analysis
+    of electrochromic thin films in Prof. Dorota Koziej's group. Ever scince he
+    continued working in her group as a research assistant, where he focuses on
+    similar electrochromic systems and insitu imaging of nanostructures. He currently
+    works in the group of Simon Billinge for an external Masters project. In his free time
+    he loves watching soccer, going to the gym and playing the piano.
+  education:
+    - begin_year: 2015
+      begin_month: 10
+      degree: B.Sc. in nanoscience
+      institution: University of Hamburg, Germany
+      end_year: 2018
+      end_month: 8
+    - begin_year: 2018
+      begin_month: 10
+      degree: M.Sc. in nanoscience
+      institution: University of Hamburg, Germany
+  employment:
+    - begin_year: 2017
+      begin_month: 8
+      position: Intern
+      organization: Institut Laue-Langevin, Grenoble, France
+      end_year: 2017
+      end_month: 10
+  name: Sani Harouna-Mayer
+  position: Masters student
 bfrandsen:
   active: false
   aka:
     - Ben Frandsen
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://github.com/benfrandsen.png
   bio: bio
   education:
     - begin_year: 2011
@@ -27,7 +58,7 @@ chliu:
     - Chia-Hao Liu
     - Liu, Chia-Hao
     - Liu, C-H.
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://github.com/chiahaoliu.png
   bio: bio
   education:
     - institution: Columbia University
@@ -58,7 +89,7 @@ cwright:
     - Wright, C. J.
     - C. J. Wright
     - CJ Wright
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://github.com/CJ-Wright.png
   bio: Christopher grew up in Rockville Centre, New York. He attended Brown University
     where he earned a BS with honors in Chemical Physics. He worked with Prof. Shouheng
     Sun on electrochemical CO2 reduction and the structural dynamics of nanoparticles.
@@ -310,7 +341,7 @@ cyshi:
   active: false
   aka:
     - Chenyang Shi
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://github.com/curieshicy.png
   bio: bio
   education:
     - begin_year: 2012
@@ -333,7 +364,7 @@ ebozin:
     - Emil Bozin
     - ES Bozin
     - E. S. Bozin
-  avatar: https://avatars0.githubusercontent.com/u/37090959?s=400&u=a94748131d06d93dfcaa6144e497870755cd2fea&v=4
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - institution: Michigan State University
@@ -412,7 +443,7 @@ eculbertson:
     - Culbertson, Elizabeth A
     - Culbertson, Elizabeth A.
     - Culbertson, Elizabeth Audrey
-  avatar: https://avatars0.githubusercontent.com/u/31480498?s=460&v=4
+  avatar: https://github.com/eaculb.png
   bio: Elizabeth grew up in Northern Virginia and earned her bachelors degree from
     Stanford University in 2016, studying engineering physics and computer science.
     After starting her Ph.D. in applied physics at Columbia, she joined the Billinge
@@ -525,7 +556,7 @@ jcalamari:
     - Justin Samuel Calamari
     - Justin S Calamari
     - Calamari
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://github.com/justcalamari.png
   bio: Justin grew up in Port Washington, New York. He is currently a senior at Columbia
     University, pursuing a BS in Applied Physics with a minor in Computer Science.
     With the Billinge Group, Justin is developing software for group data management.
@@ -618,7 +649,7 @@ lyang:
   active: true
   aka:
     - Long Yang
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://github.com/dragonyanglong.png
   bio: bio
   education:
     - begin_year: 2017
@@ -663,7 +694,7 @@ mwaddell:
     - Michael A. Waddell
     - Waddell, Michael A.
     - Michael Alexander Waddell
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://github.com/mwaddell.png
   bio: ''
   education:
     - institution: George Washington University
@@ -749,7 +780,7 @@ rkoch:
   aka:
     - Robert Koch
     - R. Koch
-  avatar: https://avatars0.githubusercontent.com/u/37090959?s=400&u=a94748131d06d93dfcaa6144e497870755cd2fea&v=4
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - institution: University of Trento
@@ -832,7 +863,7 @@ sbanerjee:
   aka:
     - sojam
     - bajam
-  avatar: https://avatars0.githubusercontent.com/u/7819851?s=400&v=4
+  avatar: https://github.com/sbanerjee23.png
   bio: ''
   education:
     - institution: columbiau
@@ -1043,7 +1074,7 @@ sstao:
     - Tao, Songsheng
     - S. Tao
     - Tao, S.
-  avatar: https://avatars0.githubusercontent.com/u/37090959?s=400&u=a94748131d06d93dfcaa6144e497870755cd2fea&v=4
+  avatar: https://github.com/st3107.png
   bio: Songsheng grew up in Beijing, China. He attended Peking University where he
     earned a B. S. in physics. As a MS/PhD track student in Columbia University, he
     joined the Billinge Group in fall 2018 and is currently working on developing
@@ -1092,7 +1123,7 @@ xhyang:
   active: false
   aka:
     - Xiaohao Yang
-  avatar: https://avatars0.githubusercontent.com/u/6740689?s=460&v=4
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2011
@@ -1234,3 +1265,36 @@ zguguchia:
       position: Post Doctoral Associate
   name: Zurab Guguchia
   position: Scientist
+htvuong:
+  active: true
+  aka:
+    - Hung Vuong
+    - Vuong, H-T.
+  avatar: https://github.com/tienhungvuong.png
+  bio: Hung Vuong is a Chemical Physics Ph.D student from Hanoi, Vietnam. Before
+    coming to Columbia, he graduated from Grinnell College in Iowa with a B.A. in
+    Mathematics and Chemistry. His research in the Billinge group will be about
+    applying Machine Learning in analyzing PDF data. Outside academics, he's
+    interested in photography and exploring the food scene of NYC.
+  education:
+    - institution: Columbia University
+      begin_year: 2019
+      group: bg
+      other:
+        - 'Advisor: Simon Billinge'
+      department: chemistry
+      degree: PhD in Chemical Physics
+      location: New York, NY
+    - begin_year: 2015
+      degree: B.A.
+      institution: Grinnell College
+      department: Mathematics & Chemistry
+      end_year: 2019
+      location: Grinnell, IA
+  email: hung.t.vuong@columbia.edu
+  name: Hung Vuong
+  position: graduate student
+  skills:
+    - level: proficient
+      category: Programming Languages
+      name: Python
