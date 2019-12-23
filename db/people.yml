@@ -50,6 +50,29 @@ smayers:
       organization: University of California, Berkeley
   name: Sam Mayers
   position: undergrad
+kseth:
+  active: true
+  aka:
+    - Kriti Kriti
+  avatar: https://www.google.com/s2/u/0/photos/public/AIbEiAIAAABECIbQqbr_kpy6kAEiC3ZjYXJkX3Bob3RvKig2NzBlNzI3MjMwYmQwNDhlNTU2YjQ1NmM0OWIxZWRmNTU2Y2Q3OGExMAFyfKjunuogdwWKwPPvLGHtjHyThQ?sz=40
+  bio: bio
+  education:
+    - begin_year: 0
+      begin_month: 0
+      degree: PhD in Physics
+      institution: GNDU
+  employment:
+    - begin_year: 2019
+      begin_month: 1
+      begin_day: 15
+      end_year: 2019
+      end_month: 7
+      end_day: 14
+      position: Visitor
+      organization: columbiau
+      group: bg
+  name: Kriti Seth
+  position: Visitor
 bfrandsen:
   active: false
   aka:
