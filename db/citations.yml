@@ -36,7 +36,7 @@ abeyk;prl13:
   facility: ' mlnsc, npdf '
   grant: ' fwp '
   journal: Phys. Rev. Lett.
-  nb: ' art, hilite, typeA, fy13 '
+  nb: ' art, highlight, typeA, fy13 '
   note: ''
   number: ''
   optannote: ''
@@ -63,7 +63,7 @@ abeyk;zk12:
   facility: ' '
   grant: ' fwp '
   journal: Z. Kristallogr.
-  nb: ' art, hilite, typeA '
+  nb: ' art, highlight, typeA '
   note: Highlighted on the journal cover
   number: '5'
   optannote: ''
@@ -121,7 +121,7 @@ anaso;nh16:
   facility: ' xpd, nslsii '
   grant: dmref15
   journal: Nanoscale Horiz.
-  nb: ' art, hilite '
+  nb: ' art, highlight '
   note: ''
   number: '3'
   optannote: ''
@@ -245,7 +245,24 @@ aydt;acsami19:
   volume: '11'
   wwwemail: ''
   year: '2019'
-baner;aca19:
+baner;aca20:
+  ackno: Work in the Billinge group was supported by the U.S. National Science 
+    Foundation through grant DMREF-1534910. Banerjee acknowledges support from 
+    the National Defense Science and Engineering Graduate Fellowship (DOD-NDSEG) 
+    program. Juhás was supported by the New York State BNL Big Data Science 
+    Capital Project under the U.S. Department of Energy (DOE) contract No. 
+    DE-SC-00112704. Jensen is grateful for funding from the Villum foundation 
+    through a Villum Young Investigator grant. Sample synthesis for the Pd 
+    nanoparticles discussed here was supported as part of the Catalysis Center 
+    for Energy Innovation, an Energy Frontier Research Center funded by the U.S. 
+    Department of Energy, Office of Science, Office of Basic Energy Sciences 
+    (DOE-BES) under award No. DE-SC0001004. Ackerson acknowledges support from 
+    NSF CAREER 1455099. Gold nanocluster data collection at the Advanced Photon 
+    Source at Argonne National Laboratory was supported by the DOE-BES under 
+    contract No. DE-AC02-06CH11357. Measurements of Pd nanoparticles were 
+    conducted on beamline 28-ID-2 (XPD) at the National Synchrotron Light 
+    Source II at Brookhaven National Laboratory, a DOE-BES user facility under 
+    contract No. DE-SC0012704.
   author:
     - Banerjee, Soham
     - Liu, Chia-Hao
@@ -255,24 +272,25 @@ baner;aca19:
     - Ackerson, Christopher J.
     - Murray, Christopher B.
     - Billinge, Simon J. L.
-  doi: ''
+  doi: '10.1107/S2053273319013214'
   entrytype: article
-  facility: ''
+  facility: 'nslsii, xpd, aps, 11idb'
   grant: dmref15
   journal: Acta Crystallogr. A
-  nb: ''
+  month: Jan
+  nb: article, highlight, fy20
   note: arXiv:1901.08754 [cond-mat.mtrl-sci]
-  number: ''
+  number: '1'
   optannote: ''
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
-  pages: ''
+  pages: '24-31'
   title: 'Cluster-mining: An approach for determining core structures of metallic
     nanoparticles from atomic pair distribution function data'
-  url: ''
-  volume: ''
+  url: 'https://doi.org/10.1107/S2053273319013214'
+  volume: '76'
   wwwemail: ''
-  year: '2019'
+  year: '2020'
 baner;acsanm19:
   ackno: Work in the Billinge group was supported by U.S. Department of Energy, Office
     of Science, Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0012704.
@@ -365,7 +383,7 @@ baner;jpcc18:
   grant: fwp17, fy19, typeA
   journal: J. Phys. Chem. C
   month: Nov
-  nb: art, hilite, fy19, typeA
+  nb: art, highlight, fy19, typeA
   number: '51'
   optannote: ''
   optnote: Advance online copy at 10.1021/acs.jpcc.8b05897
@@ -422,7 +440,7 @@ beech;acsel16:
   facility: nslsii, xpd, aps, herix
   grant: ' dmref15 '
   journal: ACS Energy Lett.
-  nb: ' hilite '
+  nb: ' highlight '
   note: ''
   number: '4'
   optannote: ''
@@ -450,7 +468,7 @@ beech;jacs14:
   facility: ' nsls, x17a  '
   grant: efrc10
   journal: J. Am. Chem. Soc.
-  nb: art, hilite, srfit
+  nb: art, highlight, srfit
   note: ''
   number: '30'
   optannote: doi:10.1021/ja503590h
@@ -816,7 +834,7 @@ billi;b;pdtap08:
   entrytype: inbook
   facility: ' '
   grant: doe97, frg07
-  nb: ' chap, pdf, hilite '
+  nb: ' chap, pdf, highlight '
   optnote: ''
   optwwwlanl: http://www.pa.msu.edu/cmp/billinge-group/papers/
   optwwwpub: ''
@@ -893,7 +911,7 @@ billi;cc04:
   facility: ''
   grant: ' doe97, nirt03, nsf-che02 '
   journal: Chem. Commun.
-  nb: ' chap, pdf, hilite'
+  nb: ' chap, pdf, highlight'
   optannote: ''
   optkey: ''
   optmonth: ''
@@ -922,7 +940,7 @@ billi;cec10:
   facility: ' aps, id11 '
   grant: ' '
   journal: CrystEngComm
-  nb: ' art, hilite '
+  nb: ' art, highlight '
   note: ''
   number: '5'
   optannote: ''
@@ -1182,7 +1200,7 @@ billi;jacs05:
   facility: 'aps, 6idd, id11, mucat  '
   grant: '  nsf-che02   '
   journal: J. Am. Chem. Soc.
-  nb: ' art, pdf, hilite '
+  nb: ' art, pdf, highlight '
   optannote: ''
   optnote: ''
   optwwwlanl: ''
@@ -1284,7 +1302,7 @@ billi;jssc08:
   facility: ' aps, 6idd '
   grant: '   fwp08 '
   journal: J. Solid State Chem.
-  nb: art, review, hilite, typeA
+  nb: art, review, highlight, typeA
   note: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: 1695-1700
@@ -1352,7 +1370,7 @@ billi;n13:
   facility: ''
   grant: ' efrc10 '
   journal: Nature
-  nb: ' news, hilite '
+  nb: ' news, highlight '
   number: ''
   optannote: ''
   optnote: ''
@@ -1660,7 +1678,7 @@ billi;prb93:
   facility: ' ipns, sepd, '
   grant: ' '
   journal: Phys. Rev. B
-  nb: ' art, hts, hilite'
+  nb: ' art, hts, highlight'
   pages: '14386'
   title: Short-range atomic structure of {Nd$_{2-x}$Ce$_{x}$CuO$_{4-y}$} determined
     by real-space refinement of neutron-powder-diffraction data
@@ -1682,7 +1700,7 @@ billi;prl93:
   facility: ' ssrl'
   grant: ''
   journal: Phys. Rev. Lett.
-  nb: ' art, hts, hilite'
+  nb: ' art, hts, highlight'
   pages: '1903'
   title: Superconductivity and the low-temperature orthorhombic to tetragonal phase
     transition in {La$_{2-x}$Ba$_{x}$CuO$_{4}$}
@@ -1702,7 +1720,7 @@ billi;prl94:
   facility: ' mlnsc, hipd '
   grant: ''
   journal: Phys. Rev. Lett.
-  nb: ' art, hts, hilite'
+  nb: ' art, hts, highlight'
   pages: '2282'
   title: 'Local octahedral tilts in {La$_{2-x}$Ba$_{x}$CuO$_{4}$}: evidence for a
     new structural length scale'
@@ -1725,7 +1743,7 @@ billi;prl96:
   facility: ' ipns, mlnsc, sepd, hipd, '
   grant: cfmr, nsf-dmr97
   journal: Phys. Rev. Lett.
-  nb: ' art, cmr, hilite, topten '
+  nb: ' art, cmr, highlight, topten '
   pages: 715--718
   title: Direct observation of lattice polaron formation in the local structure of
     {La$_{1-x}$Ca$_{x}$MnO$_{3}$}
@@ -1791,7 +1809,7 @@ billi;s07:
   facility: ' '
   grant: nirt03, doe97
   journal: Science
-  nb: art, hilite, topten
+  nb: art, highlight, topten
   optannote: ''
   optnote: to be published
   optwwwlanl: http://arxiv.org/abs/cond-mat/xxxxxx
@@ -2096,7 +2114,7 @@ bozin;nc19:
   grant: fwp17, typeA, fy19
   journal: Nature Commun.
   month: Aug
-  nb: art, hilite, typeA, fy19
+  nb: art, highlight, typeA, fy19
   note: ''
   number: ''
   optannote: ''
@@ -2262,7 +2280,7 @@ bozin;prb15:
   facility: ' npdf, mlnsc, hyspec, sns '
   grant: ' fwp14 '
   journal: Phys. Rev. B
-  nb: ' art, hilite, typeA, fy15 '
+  nb: ' art, highlight, typeA, fy15 '
   note: ''
   number: '5'
   optannote: ''
@@ -2311,7 +2329,7 @@ bozin;prb99:
   facility: ' ipns,sepd,'
   grant: 'cfmr, nsf-dmr97,sloan95 '
   journal: Phys. Rev. B
-  nb: ' art, hts, hilite'
+  nb: ' art, hts, highlight'
   optannote: ''
   optkey: ''
   optmonth: ''
@@ -2337,7 +2355,7 @@ bozin;prl00:
   facility: ' sepd,ipns '
   grant: 'cfmr, nsf-dmr97, sloan95 '
   journal: Phys. Rev. Lett.
-  nb: ' art, hts, hilite'
+  nb: ' art, hts, highlight'
   pages: 5856--5859
   title: Neutron diffraction evidence of microscopic charge inhomogeneities in the
     {CuO$_{2}$} plane of superconducting {La$_{2-x}$Sr$_{x}$Cu$_{4}$} ($ 0\le x\le
@@ -2365,7 +2383,7 @@ bozin;prl07:
   facility: ' npdf, mlnsc, gem, isis'
   grant: '  nirt03   '
   journal: Phys. Rev. Lett.
-  nb: art, hilite, topten
+  nb: art, highlight, topten
   note: ''
   optannote: ''
   optwwwlanl: http://arxiv.org/abs/cond-mat/0609485
@@ -2389,7 +2407,7 @@ bozin;prl11:
   facility: ' aps, id11 '
   grant: ' fwp11, '
   journal: Phys. Rev. Lett.
-  nb: ' art, hilite, typeA '
+  nb: ' art, highlight, typeA '
   number: ''
   optannote: ''
   optnote: ''
@@ -2417,7 +2435,7 @@ bozin;s10:
   facility: ' mlnsc, npdf, aps, id11 '
   grant: ' fwp08 '
   journal: Science
-  nb: ' art, hilite, typeA '
+  nb: ' art, highlight, typeA '
   number: ''
   optannote: ''
   optnote: ''
@@ -2442,7 +2460,7 @@ bozin;sr14:
   facility: ' aps, id11c '
   grant: ' fwp14'
   journal: Sci. Rep.
-  nb: art, hilite, typeA, fy14
+  nb: art, highlight, typeA, fy14
   number: ''
   optannote: ''
   optnote: ''
@@ -2833,7 +2851,7 @@ choi;nl14:
   facility: 'nsls, x17a '
   grant: ' efrc10 '
   journal: Nano Lett.
-  nb: ' art, hilite, srfit '
+  nb: ' art, highlight, srfit '
   note: ''
   number: '1'
   optannote: ''
@@ -2896,7 +2914,7 @@ chupa;jac03:
   facility: 'aps, id1 '
   grant: doe97, nsf-che02, nsf-dmr00
   journal: J. Appl. Crystallogr.
-  nb: ' art, pdf, hilite, topten '
+  nb: ' art, pdf, highlight, topten '
   optannote: ''
   optkey: ''
   optmonth: ''
@@ -2954,9 +2972,9 @@ contr;ic19:
   journal: Inorganic Chemistry
   month: Oct
   nb: fy20
-  optnote: Submitted to Inorganic Chemistry
   number: '20'
   optannote: ''
+  optnote: Submitted to Inorganic Chemistry
   optwwwlanl: ''
   pages: 14260-14274
   title: 'Zirconium phosphate: the pathway from turbostratic disorder to crystallinity'
@@ -3212,7 +3230,7 @@ dinne;b;pdtap08:
   entrytype: book
   facility: ' '
   grant: doe97, frg07
-  nb: ' edited, pdf, hilite '
+  nb: ' edited, pdf, highlight '
   optnote: ''
   optwwwlanl: http://www.pa.msu.edu/cmp/billinge-group/papers/
   optwwwpub: ''
@@ -3267,7 +3285,7 @@ doann;acsn14:
   facility: ' esrf, id15  '
   grant: ' ldrd12 '
   journal: ACS Nano.
-  nb: ' art, hilite, srfit '
+  nb: ' art, highlight, srfit '
   note: ''
   number: '6'
   optannote: ''
@@ -3345,7 +3363,7 @@ duxbu;dam16:
   facility: ' fy16 '
   grant: ' ldrd12, fwp14 '
   journal: Discrete Applied Mathematics
-  nb: ' art, typeA, fy16, hilite '
+  nb: ' art, typeA, fy16, highlight '
   note: ''
   number: ''
   optannote: ''
@@ -3424,7 +3442,7 @@ egami;b;utbp03:
   entrytype: book
   facility: ' '
   grant: doe97, nsf-dmr00, nsf-che02
-  nb: ' book, pdf, hilite '
+  nb: ' book, pdf, highlight '
   optnote: ''
   optwwwlanl: http://www.pa.msu.edu/cmp/billinge-group/papers/
   publisher: Pergamon Press, Elsevier
@@ -3441,7 +3459,7 @@ egami;b;utbp12:
   entrytype: book
   facility: ' '
   grant: fwp11, efrc10, pire
-  nb: ' book, pdf, hilite, typeA, fy12 '
+  nb: ' book, pdf, highlight, typeA, fy12 '
   optnote: ''
   optwwwlanl: http://www.pa.msu.edu/cmp/billinge-group/papers/
   publisher: Elsevier
@@ -3653,7 +3671,7 @@ farro;jacs13:
   facility: ' nsls, x7b  '
   grant: ' efrc10 '
   journal: J. Am. Chem. Soc.
-  nb: ' art, hilite, srfit '
+  nb: ' art, highlight, srfit '
   note: ''
   number: ''
   optannote: ''
@@ -3681,7 +3699,7 @@ farro;jpcm07:
   facility: ' npdf, mlnsc'
   grant: '  nirt03, danse '
   journal: 'J. Phys: Condens. Mat.'
-  nb: art, hilite
+  nb: art, highlight
   note: ''
   optannote: ''
   optwwwlanl: http://arxiv.org/abs/cond-mat/0609485
@@ -3746,7 +3764,7 @@ frand;aca14:
   facility: ''
   grant: efrc10, nsfpire
   journal: Acta Crystallogr. A
-  nb: hilite
+  nb: highlight
   number: '1'
   optannote: ''
   optnote: Selected as first ever Advances paper, featured on cover of issue
@@ -3767,7 +3785,7 @@ frand;aca15:
   facility: npdf,ill
   grant: fwp14, nsfpire
   journal: Acta Crystallogr. A
-  nb: hilite, typeA, fy15
+  nb: highlight, typeA, fy15
   note: ''
   number: '3'
   optannote: ''
@@ -3844,7 +3862,7 @@ frand;nc16:
   facility: ' sns, nomad, nslsii, xpd, fy16 '
   grant: ' fwp14, pire '
   journal: Nat. Commun.
-  nb: 'fy16, typeB2, hilite '
+  nb: 'fy16, typeB2, highlight '
   note: ''
   number: ''
   optannote: ''
@@ -3953,7 +3971,7 @@ frand;prl16:
   issue: '19'
   journal: Phys. Rev. Lett.
   month: May
-  nb: ' fy16, typeA, hilite '
+  nb: ' fy16, typeA, highlight '
   note: ''
   numpages: '5'
   optannote: ''
@@ -3980,7 +3998,7 @@ frand;prm17:
   doi: 10.1103/PhysRevMaterials.1.074412
   entrytype: article
   facility: ' sns, nomad, ill, d7, fy17 '
-  grant: ' fwp17, hilite '
+  grant: ' fwp17, highlight '
   journal: Phys. Rev. Materials
   nb: ' typeA,  fy17 '
   note: Selected as Editor's Choice
@@ -4249,7 +4267,7 @@ ghidi;cc14:
   facility: nsls, x17a
   grant: efrc10
   journal: Chem. Commun.
-  nb: art, srfit, hilite
+  nb: art, srfit, highlight
   note: ''
   number: ''
   optannote: ''
@@ -4319,7 +4337,7 @@ granl;aca15:
   facility: 'nsls, x7a, esrf, id11 '
   grant: ' ldrd12 '
   journal: Acta Crystallogr. A
-  nb: ' art, hilite, typeA, fy15 '
+  nb: ' art, highlight, typeA, fy15 '
   note: ''
   number: '4'
   optannote: ''
@@ -4411,18 +4429,20 @@ gu;aca19:
     - Banerjee, Soham
     - Du, Qiang
     - Billinge, Simon J. L.
-  doi: 10.1107/S2053273319008647.
+  day: "12"
+  doi: 10.1107/S2053273319008647
   entrytype: article
   facility: ''
   grant: dmref15
   journal: Acta Crystallogr. A
+  month: Aug
   nb: ''
-  note: To be published
-  number: ''
+  optnote: To be published
+  number: '5'
   optannote: arXiv:1901.07185 [cond-mat.mtrl-sci]
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
-  pages: ''
+  pages: ' 658-668'
   title: Algorithm for distance list extraction from pair distribution functions
   url: https://doi.org/10.1107/S2053273319008647
   volume: '75'
@@ -4911,7 +4931,7 @@ jacqu;nc13:
   facility: 'esrf, id11 '
   grant: ' fwp11 '
   journal: Nat. Commun.
-  nb: ' art, hilite, srfit, typeA, fy13 '
+  nb: ' art, highlight, srfit, typeA, fy13 '
   number: ''
   optannote: ''
   optnote: ''
@@ -4967,7 +4987,7 @@ jense;ij15:
   facility: ' nslsii, xpd '
   grant: ' fwp14 '
   journal: IUCrJ.
-  nb: ' art, hilite, typeA, fy15 '
+  nb: ' art, highlight, typeA, fy15 '
   note: ''
   number: '5'
   optannote: ''
@@ -5051,7 +5071,7 @@ jense;nc16:
   facility: esrf, id11, nsls, x17a, aps, 11idb
   grant: ' ldrd12, fy16 '
   journal: Nat. Commun.
-  nb: hilite, fy16
+  nb: highlight, fy16
   note: ''
   number: ''
   optannote: ''
@@ -5078,7 +5098,7 @@ jense;prb12:
   facility: ' hfir, sns, arcs,  '
   grant: ' fwp11, frg07 '
   journal: Phys. Rev. B
-  nb: ' art, hilite, typeA '
+  nb: ' art, highlight, typeA '
   note: Selected as PRB Editor's Suggestion paper
   number: ''
   optannote: ''
@@ -5275,7 +5295,7 @@ juhas;aca15:
   grant: ' ldrd12 '
   journal: Acta Crystallogr. A
   month: Nov
-  nb: ' art, hilite, srfit '
+  nb: ' art, highlight, srfit '
   note: ''
   number: '6'
   optannote: ''
@@ -5326,7 +5346,7 @@ juhas;jac13:
   facility: ' '
   grant: ' '
   journal: J. Appl. Crystallogr.
-  nb: ' art, hilite '
+  nb: ' art, highlight '
   optarchiveprefix: arXiv
   opteprint: '1211.7126'
   optkeywords: Condensed Matter - Materials Science
@@ -5394,7 +5414,7 @@ juhas;n06:
   facility: ' glad, ipns '
   grant: '  nirt03, doe03   '
   journal: Nature
-  nb: ' art, hilite, topten '
+  nb: ' art, highlight, topten '
   note: ''
   number: '7084'
   optannote: ''
@@ -5464,7 +5484,7 @@ kim;prl06:
   facility: ' 6idd, mucat, aps '
   grant: '  nirt03   '
   journal: Phys. Rev. Lett.
-  nb: art, hilite, topten
+  nb: art, highlight, topten
   note: ''
   optannote: ''
   pages: '226401'
@@ -5540,7 +5560,7 @@ koch;prb19:
   grant: fwp17, typeA, fy19
   journal: Phys. Rev. B., Rapid Communications
   month: July
-  nb: art, hilite, typeA, fy19
+  nb: art, highlight, typeA, fy19
   note: Editor's suggestion
   number: ''
   optannote: arXiv:1902.08732 [cond-mat.supr-con]
@@ -6350,7 +6370,7 @@ malav;jacs07:
   facility: ' lanl, npdf'
   grant: '  nirt03 '
   journal: J. Am. Chem. Soc.
-  nb: art, hilite
+  nb: art, highlight
   optannote: ''
   optkey: ''
   optmonth: ''
@@ -6435,7 +6455,7 @@ masad;prb07:
   journal: Phys. Rev. B
   keywords: "x-ray-diffraction\nlocal-structure\nnanocrystals\nscattering\ntransformation\n\
     disorder\nexafs\ntemperature\nrefinement\nclusters"
-  nb: art, hilite
+  nb: art, highlight
   optannote: ''
   optwwwlanl: http://arxiv.org/pdf/0704.1288
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
@@ -6556,7 +6576,7 @@ miao;s16:
   facility: ''
   grant: dmref15
   journal: Science
-  nb: hilite
+  nb: highlight
   number: '6306'
   optannote: ''
   optnote: to be published
@@ -6666,7 +6686,7 @@ pagli;cm06i:
   facility: ' aps, 6idd, mucat '
   grant: '  nsf-che02  '
   journal: Chem. Mater.
-  nb: ' art, hilite '
+  nb: ' art, highlight '
   number: ''
   optannote: ''
   optnote: ''
@@ -6972,7 +6992,7 @@ petko;jacs02:
   facility: ' nsls, x7a'
   grant: 'nsf-che99 '
   journal: J. Am. Chem. Soc.
-  nb: ' art, chem, nanox, hilite, topten'
+  nb: ' art, chem, nanox, highlight, topten'
   optannote: ''
   optkey: ''
   optmonth: ''
@@ -7256,7 +7276,7 @@ petko;prl00:
   facility: ' aps, id1 '
   grant: ' cfmr, nsf-che99 '
   journal: Phys. Rev. Lett.
-  nb: ' chem, art, hilite '
+  nb: ' chem, art, highlight '
   pages: '3436'
   title: Polyhedral units and network connectivity in calcium aluminosilicate glasses
     from high energy X-ray diffraction
@@ -7278,7 +7298,7 @@ petko;prl02:
   facility: ' nsls, x7a'
   grant: nsf-che99 doe97
   journal: Phys. Rev. Lett.
-  nb: ' art, chem, nanox, hilite, topten'
+  nb: ' art, chem, nanox, highlight, topten'
   note: "(Highlighted in Phys. Rev. Focus:\nhttp://focus.aps.org/story/v10/st4)"
   optannote: ''
   optkey: ''
@@ -7316,7 +7336,7 @@ petko;prl99:
   facility: ' chess, '
   grant: 'cfmr, doe97, sloan95 '
   journal: Phys. Rev. Lett.
-  nb: ' art, scalloy, hilite '
+  nb: ' art, scalloy, highlight '
   number: '20'
   pages: 4089--4092
   title: High real-space resolution measurement of the local structure of {Ga$_{1-x}$In$_{x}$As}
@@ -7340,7 +7360,7 @@ prill;aca16:
   grant: ' ldrd12 '
   journal: Acta Crystallogr. A
   month: Jan
-  nb: ' art, typeA, hilite, fy15, srfit '
+  nb: ' art, typeA, highlight, fy15, srfit '
   note: ''
   number: '1'
   optannote: ''
@@ -7471,7 +7491,7 @@ proff;jac99:
   facility: ' nsls, x7a'
   grant: 'cfmr, nsf-dmr97, doe97 '
   journal: J. Appl. Crystallogr.
-  nb: ' art, pdf, misc, hilite'
+  nb: ' art, pdf, misc, highlight'
   optannote: ''
   optkey: ''
   optmonth: ''
@@ -7667,7 +7687,7 @@ qiu;prl05:
   facility: 'npdf, mlnsc '
   grant: 'nirt03 '
   journal: Phys. Rev. Lett.
-  nb: ' art, cmr, hilite, topten'
+  nb: ' art, cmr, highlight, topten'
   optissue: 8--9
   pages: '177203'
   title: Orbital correlations in the pseudocubic {$O$} and rhombohedral {$R$}-phases
@@ -7736,7 +7756,7 @@ redmo;ecssl12:
   doi: 10.1149/2.004206esl
   entrytype: article
   facility: ' aps, id11, id11b  '
-  grant: ' frg07, toyota, hilite '
+  grant: ' frg07, toyota, highlight '
   journal: Electrochem. Solid St.
   nb: ' art '
   note: ''
@@ -7987,7 +8007,7 @@ sartb;nm06:
   facility: '  '
   grant: '  nirt03   '
   journal: Nat. Mater.
-  nb: ' not-bg, hilite '
+  nb: ' not-bg, highlight '
   note: ''
   optwwwlanl: ''
   pages: 962 - 965
@@ -8031,7 +8051,7 @@ sartb;prl06:
   facility: '  '
   grant: '  nirt03   '
   journal: Phys. Rev. Lett.
-  nb: ' art, hilite '
+  nb: ' art, highlight '
   optannote: ''
   optnote: ''
   optwwwlanl: ''
@@ -8055,7 +8075,7 @@ sartb;prl07:
   facility: ' npdf, mlnsc '
   grant: '  nirt03,   '
   journal: Phys. Rev. Lett.
-  nb: art, hilite,
+  nb: art, highlight,
   optannote: ''
   optnote: ''
   optwwwlanl: http://arxiv.org/abs/cond-mat/xxxxxx
@@ -8185,7 +8205,7 @@ shatn;jacs07:
   facility: ' aps, mucat, 6idd'
   grant: '  nsf-che02   '
   journal: J. Am. Chem. Soc.
-  nb: art, hilite
+  nb: art, highlight
   note: ''
   optannote: ''
   optwwwlanl: http://arxiv.org/abs/cond-mat/0609485
@@ -8574,7 +8594,7 @@ terba;cgd15:
   facility: nsls, x17a, fy16
   grant: ' sixns '
   journal: Cryst. Growth Des.
-  nb: fy16, hilite
+  nb: fy16, highlight
   number: '1'
   optannote: ''
   optnote: 'Doi: http://pubs.acs.org/doi/full/10.1021/acs.cgd.5b01100'
@@ -8624,7 +8644,7 @@ terba;macm16:
   facility: x17a, nsls
   grant: dmref15
   journal: Macromolecules
-  nb: hilite
+  nb: highlight
   note: ''
   number: '19'
   optannote: ''
@@ -8647,7 +8667,7 @@ terba;nan15:
   facility: esrf, id15
   grant: ' efrc10, ldrd12 '
   journal: Nanoscale
-  nb: art, hilite, fy15
+  nb: art, highlight, fy15
   note: ''
   number: ''
   optannote: ''
@@ -8901,7 +8921,7 @@ toby;aca04:
   facility: ' '
   grant: ' doe97 '
   journal: Acta Crystallogr. A
-  nb: ' art, pdf, hilite'
+  nb: ' art, pdf, highlight'
   optannote: ''
   optkey: ''
   optmonth: ''
@@ -8953,7 +8973,7 @@ tyrst;acie12:
   facility: ' aps, id11, id11b  '
   grant: ' frg07 '
   journal: Angew. Chem. Int. Edit.
-  nb: ' art, hilite, srfit '
+  nb: ' art, highlight, srfit '
   note: Selected by the editors as a ``Hot" paper for highlighting
   number: ''
   optannote: ''
@@ -8982,7 +9002,7 @@ tyrst;ij14:
   facility: ' esrf, 11id, esrf, bm01b '
   grant: efrc10
   journal: IUCrJ.
-  nb: art, hilite
+  nb: art, highlight
   note: ''
   number: '3'
   optannote: ''
