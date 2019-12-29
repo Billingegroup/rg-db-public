@@ -292,23 +292,23 @@ baner;acsanm19:
     - Barmak, Katayun
     - Austin, Rachel Narehood
     - Billinge, Simon J. L.
-  day: 9
-  doi: ''
+  day: '9'
+  doi: 10.1021/acsanm.9b01246
   entrytype: article
   facility: xpd, nslsii
   grant: fwp17, TypeA, fy19
   journal: ACS Appl. Nano Mater.
-  month: Aug
+  month: Sep
   nb: fy19
-  note: To be published
-  number: ''
+  number: '10'
   optannote: ''
+  optnote: To be published
   optwwwlanl: ''
-  pages: tbd
+  pages: 6268-6276
   title: Quantitative structural characterization of catalytically active {TiO$_2$}
     nanoparticles
-  url: ''
-  volume: ''
+  url: https://pubs.acs.org/doi/10.1021/acsanm.9b01246
+  volume: '2'
   wwwemail: ''
   wwwpub: ''
   year: '2019'
@@ -1143,6 +1143,31 @@ billi;ijmpb02:
   wwwemail: sb2896@columbia.edu
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/billinge_02_int_modern_phys.pdf
   year: '2002'
+billi;iucr19:
+  acknowledgement: SJLB would like to acknowledge funding from the U.S. Department
+    of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
+    contract No. DE-SC00112704.
+  author:
+    - Simon J. L. Billinge
+  day: '13'
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: fwp17
+  journal: IUCr newsletter
+  month: Dec
+  nb: fy20, typeA
+  number: '4'
+  optannote: ''
+  optnote: submitted
+  optwwwlanl: ''
+  pages: '7'
+  title: '21st century crystallography challenges: structure beyond crystals'
+  url: https://www.iucr.org/news/newsletter/etc/articles?issue=145052&result_138339_result_page=7
+  volume: '27'
+  wwwemail: ''
+  wwwpub: ''
+  year: '2019'
 billi;jacs05:
   author:
     - Billinge, Simon J. L.
@@ -1764,7 +1789,7 @@ billi;s07:
   doi: 10.1126/science.1135080
   entrytype: article
   facility: ' '
-  grant: '  nirt03, doe97   '
+  grant: nirt03, doe97
   journal: Science
   nb: art, hilite, topten
   optannote: ''
@@ -2913,6 +2938,33 @@ chupa;jacs04:
   wwwemail: sb2896@columbia.edu
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/04chupajacs.pdf
   year: '2004'
+contr;ic19:
+  author:
+    - Aida Contreras-Ramirez
+    - Songsheng Tao
+    - Gregory S. Day
+    - Vladimir I. Bakhmutov
+    - Simon J. L. Billinge
+    - Hong-Cai Zhou
+  day: '7'
+  doi: 10.1021/acs.inorgchem.9b02442
+  entrytype: article
+  facility: xpd, nslsii
+  grant: tamu17
+  journal: Inorganic Chemistry
+  month: Oct
+  nb: fy20
+  optnote: Submitted to Inorganic Chemistry
+  number: '20'
+  optannote: ''
+  optwwwlanl: ''
+  pages: 14260-14274
+  title: 'Zirconium phosphate: the pathway from turbostratic disorder to crystallinity'
+  url: https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.9b02442
+  volume: '58'
+  wwwemail: ''
+  wwwpub: ''
+  year: '2019'
 cossa;jpcl11:
   author:
     - Cossairt, Brandi M.
