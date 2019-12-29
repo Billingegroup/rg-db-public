@@ -1,3 +1,10 @@
+19sb_iucrnewsletter:
+  author: Simon Billinge
+  body: Read Prof. Billinge's thoughts on crystallography in the 21st Century in this
+    recent IUCr Newsletter article:\ https://www.iucr.org/news/newsletter/etc/articles?issue=145052&result_138339_result_page=7
+  day: 21
+  month: Dec
+  year: 2019
 CJ_SWC:
   author: Christpher Wright
   body: Christpher took part in the Foundations of Reseach Computing's first Software  Carpentry
@@ -25,11 +32,3 @@ Justin_GSOC:
   day: 23
   month: April
   year: 2018
-19sb_iucrnewsletter:
-  author: Simon Billinge
-  body: Read Prof. Billinge's thoughts on crystallography in the 21st Century in
-    this recent IUCr Newsletter article:\
-    https://www.iucr.org/news/newsletter/etc/articles?issue=145052&result_138339_result_page=7
-  day: 21
-  month: Dec
-  year: 2019
