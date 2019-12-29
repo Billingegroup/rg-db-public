@@ -1,78 +1,3 @@
-sharouna-mayer:
-  active: true
-  aka: []
-  avatar: https://github.com/SaniHarouna-Mayer.png
-  bio: Sani grew up in Kassel, Germany. He earned his Bachelors degree in nanoscience
-    in 2018 at the University of Hamburg. During his Bachelor project he worked on PDF analysis
-    of electrochromic thin films in Prof. Dorota Koziej's group. Ever scince he
-    continued working in her group as a research assistant, where he focuses on
-    similar electrochromic systems and insitu imaging of nanostructures. He currently
-    works in the group of Simon Billinge for an external Masters project. In his free time
-    he loves watching soccer, going to the gym and playing the piano.
-  education:
-    - begin_year: 2015
-      begin_month: 10
-      degree: B.Sc. in nanoscience
-      institution: University of Hamburg, Germany
-      end_year: 2018
-      end_month: 8
-    - begin_year: 2018
-      begin_month: 10
-      degree: M.Sc. in nanoscience
-      institution: University of Hamburg, Germany
-  employment:
-    - begin_year: 2017
-      begin_month: 8
-      position: Intern
-      organization: Institut Laue-Langevin, Grenoble, France
-      end_year: 2017
-      end_month: 10
-  name: Sani Harouna-Mayer
-  position: Masters student
-smayers:
-  active: true
-  aka:
-    - Sam R. Mayers
-  avatar: https://github.com/samrmayers.png
-  bio: bio
-  education:
-    - begin_year: 2011
-      begin_month: 9
-      degree: PhD in Physics
-      institution: Columbia University
-      end_year: 2016
-      end_month: 4
-      group: bg
-  employment:
-    - begin_year: 2016
-      begin_month: 5
-      position: Post-doctoral Scholar
-      organization: University of California, Berkeley
-  name: Sam Mayers
-  position: undergrad
-kseth:
-  active: true
-  aka:
-    - Kriti Kriti
-  avatar: https://www.google.com/s2/u/0/photos/public/AIbEiAIAAABECIbQqbr_kpy6kAEiC3ZjYXJkX3Bob3RvKig2NzBlNzI3MjMwYmQwNDhlNTU2YjQ1NmM0OWIxZWRmNTU2Y2Q3OGExMAFyfKjunuogdwWKwPPvLGHtjHyThQ?sz=40
-  bio: bio
-  education:
-    - begin_year: 0
-      begin_month: 0
-      degree: PhD in Physics
-      institution: GNDU
-  employment:
-    - begin_year: 2019
-      begin_month: 1
-      begin_day: 15
-      end_year: 2019
-      end_month: 7
-      end_day: 14
-      position: Visitor
-      organization: columbiau
-      group: bg
-  name: Kriti Seth
-  position: Visitor
 bfrandsen:
   active: false
   aka:
@@ -592,6 +517,39 @@ ekjaer:
       group: bg
   name: Emil Kjaer
   position: visitor
+htvuong:
+  active: true
+  aka:
+    - Hung Vuong
+    - Vuong, H-T.
+  avatar: https://github.com/tienhungvuong.png
+  bio: Hung Vuong is a Chemical Physics Ph.D student from Hanoi, Vietnam. Before coming
+    to Columbia, he graduated from Grinnell College in Iowa with a B.A. in Mathematics
+    and Chemistry. His research in the Billinge group will be about applying Machine
+    Learning in analyzing PDF data. Outside academics, he's interested in photography
+    and exploring the food scene of NYC.
+  education:
+    - institution: Columbia University
+      begin_year: 2019
+      group: bg
+      other:
+        - 'Advisor: Simon Billinge'
+      department: chemistry
+      degree: PhD in Chemical Physics
+      location: New York, NY
+    - begin_year: 2015
+      degree: B.A.
+      institution: Grinnell College
+      department: Mathematics & Chemistry
+      end_year: 2019
+      location: Grinnell, IA
+  email: hung.t.vuong@columbia.edu
+  name: Hung Vuong
+  position: graduate student
+  skills:
+    - level: proficient
+      category: Programming Languages
+      name: Python
 jcalamari:
   active: false
   aka:
@@ -689,6 +647,29 @@ jgong:
       position: Engineer
   name: Zizhou Gong
   position: Engineer
+kseth:
+  active: true
+  aka:
+    - Kriti Kriti
+  avatar: https://www.google.com/s2/u/0/photos/public/AIbEiAIAAABECIbQqbr_kpy6kAEiC3ZjYXJkX3Bob3RvKig2NzBlNzI3MjMwYmQwNDhlNTU2YjQ1NmM0OWIxZWRmNTU2Y2Q3OGExMAFyfKjunuogdwWKwPPvLGHtjHyThQ?sz=40
+  bio: bio
+  education:
+    - begin_year: 0
+      begin_month: 0
+      degree: PhD in Physics
+      institution: GNDU
+  employment:
+    - begin_year: 2019
+      begin_month: 1
+      begin_day: 15
+      end_year: 2019
+      end_month: 7
+      end_day: 14
+      position: Visitor
+      organization: columbiau
+      group: bg
+  name: Kriti Seth
+  position: Visitor
 lyang:
   active: true
   aka:
@@ -1111,6 +1092,58 @@ sbillinge:
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
   skills: []
+sharouna-mayer:
+  active: true
+  aka: []
+  avatar: https://github.com/SaniHarouna-Mayer.png
+  bio: Sani grew up in Kassel, Germany. He earned his Bachelors degree in nanoscience
+    in 2018 at the University of Hamburg. During his Bachelor project he worked on
+    PDF analysis of electrochromic thin films in Prof. Dorota Koziej's group. Ever
+    scince he continued working in her group as a research assistant, where he focuses
+    on similar electrochromic systems and insitu imaging of nanostructures. He currently
+    works in the group of Simon Billinge for an external Masters project. In his free
+    time he loves watching soccer, going to the gym and playing the piano.
+  education:
+    - begin_year: 2015
+      begin_month: 10
+      degree: B.Sc. in nanoscience
+      institution: University of Hamburg, Germany
+      end_year: 2018
+      end_month: 8
+    - begin_year: 2018
+      begin_month: 10
+      degree: M.Sc. in nanoscience
+      institution: University of Hamburg, Germany
+  employment:
+    - begin_year: 2017
+      begin_month: 8
+      position: Intern
+      organization: Institut Laue-Langevin, Grenoble, France
+      end_year: 2017
+      end_month: 10
+  name: Sani Harouna-Mayer
+  position: Masters student
+smayers:
+  active: true
+  aka:
+    - Sam R. Mayers
+  avatar: https://github.com/samrmayers.png
+  bio: bio
+  education:
+    - begin_year: 2011
+      begin_month: 9
+      degree: PhD in Physics
+      institution: Columbia University
+      end_year: 2016
+      end_month: 4
+      group: bg
+  employment:
+    - begin_year: 2016
+      begin_month: 5
+      position: Post-doctoral Scholar
+      organization: University of California, Berkeley
+  name: Sam Mayers
+  position: undergrad
 sstao:
   active: true
   aka:
@@ -1309,36 +1342,3 @@ zguguchia:
       position: Post Doctoral Associate
   name: Zurab Guguchia
   position: Scientist
-htvuong:
-  active: true
-  aka:
-    - Hung Vuong
-    - Vuong, H-T.
-  avatar: https://github.com/tienhungvuong.png
-  bio: Hung Vuong is a Chemical Physics Ph.D student from Hanoi, Vietnam. Before
-    coming to Columbia, he graduated from Grinnell College in Iowa with a B.A. in
-    Mathematics and Chemistry. His research in the Billinge group will be about
-    applying Machine Learning in analyzing PDF data. Outside academics, he's
-    interested in photography and exploring the food scene of NYC.
-  education:
-    - institution: Columbia University
-      begin_year: 2019
-      group: bg
-      other:
-        - 'Advisor: Simon Billinge'
-      department: chemistry
-      degree: PhD in Chemical Physics
-      location: New York, NY
-    - begin_year: 2015
-      degree: B.A.
-      institution: Grinnell College
-      department: Mathematics & Chemistry
-      end_year: 2019
-      location: Grinnell, IA
-  email: hung.t.vuong@columbia.edu
-  name: Hung Vuong
-  position: graduate student
-  skills:
-    - level: proficient
-      category: Programming Languages
-      name: Python
