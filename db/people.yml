@@ -809,7 +809,7 @@ rpokratath:
   active: false
   aka:
     - Rohan Pokratath
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://www.github.com/rohanpok.png
   bio: bio
   education:
     - begin_year: 2019
@@ -833,6 +833,7 @@ rpokratath:
       organization: ucolumbia
       end_year: 2020
       end_month: 7
+      group: bg
     - begin_year: 2017
       begin_month: 4
       position: Process Engineer (Cold Area, Ethylene Cracker Unit)
