@@ -40,10 +40,10 @@ addisababau:
   city: Addis Ababa
   country: Ethiopia
   departments:
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry
+    physics:
+      name: Department of Physics
   name: Addis Ababa University
   schools:
     cns:
@@ -153,10 +153,10 @@ barnardu:
   city: New York
   country: USA
   departments:
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry
+    physics:
+      name: Department of Physics
   name: Barnard College
   state: NY
   zip: '10027'
@@ -878,14 +878,14 @@ kentstateu:
   city: Kent
   country: USA
   departments:
-    physics:
-      aka:
-        - Physics
-      name: Department of Physics
     chemistry:
       aka:
         - Chemistry
       name: Department of Chemistry
+    physics:
+      aka:
+        - Physics
+      name: Department of Physics
   name: Kent State University
   schools:
     cas:
@@ -992,11 +992,6 @@ mcmasteru:
   updated: 2020-02-14 19:38:46.027775
   uuid: bf1b9da0-ab1a-42e9-9f7d-06e80f5e2fc9
   year: 2020
-missing:
-  aka: []
-  city: missing
-  country: missing
-  name: Missing
 missouris&t:
   aka:
     - MUST
@@ -1025,6 +1020,13 @@ monashu:
   city: Clayton
   country: Australia
   name: Monash University
+missing:
+  aka: []
+  city: missing
+  country: missing
+  name: missing
+  state: ''
+  zip: ''
 mpi:
   aka:
     - Max Planck
@@ -1086,10 +1088,10 @@ msu:
   city: East Lansing
   country: USA
   departments:
-    physics:
-      name: Department of Physics and Astronomy
     chemistry:
       name: Department of Chemistry
+    physics:
+      name: Department of Physics and Astronomy
   name: Michigan State University
   state: MI
   street: 220 Trowbridge Rd
@@ -1304,18 +1306,18 @@ oxfordu:
   city: Oxford
   country: UK
   departments:
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry
+    cs:
+      name: Department of Computer Science
     earthsci:
       name: Department of Earth Sciences
     eng:
       name: Department of Engineering Science
     matsci:
       name: Department of Materials
-    cs:
-      name: Department of Computer Science
+    physics:
+      name: Department of Physics
   name: Oxford University
   state: ''
 pacificnorthwestnationallaboratory:
@@ -1364,10 +1366,10 @@ pekingu:
   city: Beijing
   country: China
   departments:
-    physics:
-      name: School of Physics
     chemistry:
       name: School of Chemistry
+    physics:
+      name: School of Physics
   name: Peking University
   state: ''
   street: 5 Yiheyuan Road
@@ -1434,6 +1436,7 @@ psi:
   aka:
     - PSI
     - Paul Scherrer Institute
+    - Paul Scherrer Institute, Switzerland
   city: Villigen
   country: Switzerland
   name: Paul Scherrer Institute
@@ -1720,12 +1723,12 @@ sunysb:
   city: Stony Brook
   country: USA
   departments:
-    physics:
-      name: Department of Physics and Astronomy
     chemistry:
       name: Department of Chemistry
     earthsci:
       name: Department of Earth Science
+    physics:
+      name: Department of Physics and Astronomy
   name: Stony Brook University
   state: NY
   street: ''
@@ -1917,7 +1920,7 @@ uconn:
   name: University of Connecticut
   state: CT
   street: 97 North Eagleville Road
-  zip: '06269'
+  zip: 06269
 ucopenhagen:
   aka: []
   city: Copenhagen
@@ -1945,9 +1948,9 @@ udelaware:
   country: USA
   departments:
     physics:
-      name: Department of Physics and Astronomy
       aka:
         - physics
+      name: Department of Physics and Astronomy
   name: University of Delaware
   state: DE
   street: ''
@@ -2011,32 +2014,32 @@ ufrankfurt:
   city: Frankfurt
   country: Germany
   departments:
-    theophy:
-      name: Institute of Theoretical Physics
-    biophy:
-      name: Institute of Biophysics
     appphy:
       name: Institute of Applied Physics
-    inochem:
-      name: Institute of Inorganic and Analytical Chemistry
-    phyedu:
-      name: Institute of Physics Education
+    biophy:
+      name: Institute of Biophysics
     didchem:
       name: Institute of Didactics of Chemistry
+    inochem:
+      name: Institute of Inorganic and Analytical Chemistry
+    nucphy:
+      name: Institute of Nuclear Physics
+    orgchem:
+      name: Institute of Organic Chemistry and Chemical Biology
     phy:
       name: Institute of Physics
     phychem:
       name: Institute of Physical and Theoretical Chemistry
-    orgchem:
-      name: Institute of Organic Chemistry and Chemical Biology
-    nucphy:
-      name: Institute of Nuclear Physics
+    phyedu:
+      name: Institute of Physics Education
+    theophy:
+      name: Institute of Theoretical Physics
   name: Goethe University Frankfurt
   schools:
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry
+    physics:
+      name: Department of Physics
   state: ''
   zip: '60323'
 ufsc:
@@ -2135,10 +2138,10 @@ umaine:
   city: fixme
   country: USA
   departments:
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry
+    physics:
+      name: Department of Physics
   name: University of Maine
   state: ME
   zip: fixme
@@ -2183,10 +2186,10 @@ umontreal:
   city: Montreal
   country: Canada
   departments:
-    physics:
-      name: Département de physique
     chemistry:
       name: Département de chimie
+    physics:
+      name: Département de physique
   name: Université de Montréal
   state: Québec
   street: 2900, boul. Édouard-Montpetit
@@ -2348,10 +2351,10 @@ upenn:
       name: Department of Chemical Engineering
     chemistry:
       name: Department of Chemistry
-    mse:
-      name: Department of Materials Science and Engineering
     cs:
       name: Computer Science Department
+    mse:
+      name: Department of Materials Science and Engineering
   name: University of Pennsylvania
   schools:
     seas:
@@ -2441,12 +2444,12 @@ utoronto:
   city: Toronto
   country: Canada
   departments:
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry
     matsci:
       name: Department of Materials Science and Engineering
+    physics:
+      name: Department of Physics
   name: University of Toronto
   state: Ontario
   street: 27 King's College Cir
@@ -2460,6 +2463,15 @@ utrechtu:
   month: 3
   name: Utrecht University
   year: 2020
+utrento:
+  aka: []
+  country: Italy
+  day: 4
+  month: 1
+  name: University of Trento
+  updated: 2020-01-04 16:58:41.471245
+  uuid: 11ed0c1b-660d-43cd-ba94-c30a1c9b4c1f
+  year: 2020
 utsinghua:
   aka:
     - Tsinghua
@@ -2468,12 +2480,12 @@ utsinghua:
   city: Beijing
   country: China
   departments:
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry
     matsci:
       name: Department of Materials Science and Engineering
+    physics:
+      name: Department of Physics
   name: Tsinghua University
   state: Haidian
   street: 30 Shuangqing Rd
@@ -2567,8 +2579,6 @@ vanderbiltu:
   country: USA
   day: 23
   departments:
-    physics:
-      name: Department of Physics and Astronomy
     chemistry:
       name: Department of Chemistry
     matsci:
@@ -2576,6 +2586,8 @@ vanderbiltu:
         - vinse
         - VINSE
       name: Vanderbilt Institute of Nanoscale Science and Engineering
+    physics:
+      name: Department of Physics and Astronomy
   month: Jan
   name: Vanderbilt University
   state: Tennessee
