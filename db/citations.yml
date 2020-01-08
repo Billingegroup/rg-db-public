@@ -277,9 +277,9 @@ baner;aca20:
   journal: Acta Crystallogr. A
   month: Jan
   nb: article, highlight, fy20
-  note: arXiv:1901.08754 [cond-mat.mtrl-sci]
   number: '1'
   optannote: ''
+  optnote: arXiv:1901.08754 [cond-mat.mtrl-sci]
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: 24-31
@@ -394,6 +394,19 @@ baner;jpcc18:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/Banerjee_npCore_jpccAsap_12_2018.pdf
   year: '2018'
+baner;phdt;19:
+  author:
+    - Soham Banerjee
+  entrytype: phdthesis
+  facility: ' nsls, x17a, nslsii, xpd  '
+  grant: dmref15, efrc18, fwp17
+  month: Oct
+  nb: ' thesis '
+  school: Columbia University
+  title: Improved modeling of nanocrystals from atomic pair distribution function
+    data
+  type: PhD Thesis
+  year: '2019'
 barde;sm99:
   author:
     - Bardeau, J. F.
@@ -521,6 +534,22 @@ beech;prl19:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/19shiprl.pdf
   year: '2019'
+belki;b;ainips19:
+  author:
+    - Belkin, Mikhail
+    - Hsu, Daniel
+    - Mitra, Partha
+  booktitle: Advances in Neural Information Processing Systems
+  doi: ''
+  entrytype: inproceedings
+  facility: ''
+  grant: dmref15
+  pages: 2300-2311
+  title: Overfitting or perfect fitting? Risk bounds for classification and regression
+    rules that interpolate
+  url: ''
+  volume: '31'
+  year: '2018'
 berto;acsn17:
   author:
     - Bertolotti, Federica
@@ -621,15 +650,15 @@ billi;4or18:
   grant: ' dmref15 '
   journal: Ann. Oper. Res.
   nb: ' art, '
-  note: to be published
-  number: ''
+  number: '1'
   optannote: ''
+  optnote: to be published
   optwwwlanl: ''
-  pages: 1--43
+  pages: 161–203
   title: Recent results on assigned and unassigned distance geometry with applications
     to protein molecules and nanostructures
   url: http://link.springer.com/article/10.1007/s10479-018-2989-6
-  volume: ''
+  volume: '271'
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/18billi4OR.pdf
   year: '2018'
@@ -2558,21 +2587,23 @@ brods;acsaem18:
     - Costentin, Cyrille
     - Billinge, Simon J. L.
     - Nocera, Daniel G.
+  day: '23'
   doi: 10.1021/acsaem.8b00785
   entrytype: article
   facility: nsls, x17a
   grant: dmref15
   journal: ACS Appl. Energy Mater.
+  month: Aug
   nb: art
-  note: Published advanced online
-  number: ''
+  number: '1'
   optannote: ''
+  optnote: Published advanced online
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
-  pages: ''
+  pages: 3-12
   title: Proton-electron conductivity in thin films of a cobalt-oxygen evolving catalyst
   url: https://pubs.acs.org/doi/abs/10.1021/acsaem.8b00785
-  volume: ''
+  volume: '2'
   wwwemail: ''
   year: '2018'
 bruhn;jpcm05:
@@ -3156,12 +3187,9 @@ derak;jacs04:
   year: '2004'
 dicke;ejos17:
   author:
-    - Dicker,
-    - H., Lee
-    - Foster,
-    - P., Dean
-    - Hsu,
-    - Daniel,
+    - Dicker, Lee H.
+    - Foster, Dean P.
+    - Hsu, Daniel
   doi: 10.1214/17-EJS1258
   entrytype: article
   facility: ''
@@ -4300,6 +4328,19 @@ gong;aca18:
   url: https://arxiv.org/abs/1805.10342
   volume: ''
   wwwemail: ''
+  year: '2018'
+gong;phdt;17:
+  author:
+    - ZiZhou Gong
+  entrytype: phdthesis
+  facility: ' nslsii, xpd  '
+  grant: ''
+  month: Mar
+  nb: ' thesis '
+  school: Columbia University
+  title: Muon Spin Relaxation Study of MnGe and Development of Pair Distribution Function
+    Methods
+  type: PhD Thesis
   year: '2018'
 gorel;mam15:
   author:
@@ -9302,6 +9343,18 @@ worha;cm08:
   wwwemail: ' sb2896@columbia.edu'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/worhatch_08_cm.pdf
   year: '2008'
+wrigh;phdt;19:
+  author:
+    - Christopher J. Wright
+  entrytype: phdthesis
+  facility: ' nslsii, xpd  '
+  grant: dmref15, efrc18, bnlctpdf18, bnlldrd18, dmrefcheme16
+  month: Nov
+  nb: ' thesis '
+  school: Columbia University
+  title: Towards Real Time Characterization of Grain Growth from the Melt
+  type: PhD Thesis
+  year: '2019'
 xiao;afm19:
   author:
     - Xiao, Xu
@@ -9368,15 +9421,22 @@ xiao;am19:
   year: '2019'
 xu2017benefits:
   author:
-    - Xu,
-    - Ji,
-    - Hsu,
-    - Daniel,
-    - Maleki,
-    - Arian,
+    - Xu, Ji
+    - Hsu, Daniel,
+    - Maleki, Arian,
   booktitle: Advances in Neural Information Processing Systems
+  editor:
+    - Bengio, S.
+    - Wallach, H.
+    - Larochelle, H.
+    - Grauman, K.
+    - Cesa-Bianchi, N.
+    - Garnett, R.
   entrytype: inproceedings
+  pages: 10662-10672
+  publisher: Curran Associates, Inc.
   title: Benefits of overparameterization with EM
+  url: http://papers.nips.cc/paper/8265-benefits-of-over-parameterization-with-em.pdf
   year: '2018'
 xu;b;ainips18:
   author:
