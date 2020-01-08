@@ -13,8 +13,6 @@ abbottpharmaceuticals:
   aka: []
   city: Chicago
   country: USA
-  day: 4
-  month: 1
   name: Abbott Pharmaceuticals
   state: IL
   updated: 2020-01-04 16:41:47.790527
@@ -1379,12 +1377,9 @@ utoronto:
 utrento:
   aka: []
   country: Italy
-  day: 4
-  month: 1
   name: University of Trento
   updated: 2020-01-04 16:58:41.471245
   uuid: 11ed0c1b-660d-43cd-ba94-c30a1c9b4c1f
-  year: 2020
 utsinghua:
   aka:
     - Tsinghua

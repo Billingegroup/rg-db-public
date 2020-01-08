@@ -4,6 +4,18 @@
    "url": "git@github.com:Billingegroup/rg-db-public.git",
    "public": true,
    "path": "db"
-}
- ]
+   }
+ ],
+  "schemas": {
+   "institutions": {
+    "updated": {
+     "description": "The time when the entry was updated",
+     "required": false,
+     "type": "string"},
+   "uuid": {
+    "description": "A universal ID for the entry",
+    "required": false,
+    "type": "string"}
+    }
+ }
 }
