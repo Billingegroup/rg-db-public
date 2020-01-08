@@ -40,6 +40,8 @@ Exemplar:
         },
         "state": "NY",
         "zip": "10027",
+        "updated": "2020-01-04 16:41:47.790527"
+        "uuid": "ff1a6857-76aa-4c23-9758-7bb1aec8b4ed"
     },
 ```
 
@@ -123,6 +125,16 @@ Full Schema:
             "required": True,
             "type": "string",
             "dependencies": {"country": "USA"},
+        "updated": {
+         "description": "The time when the entry was updated",
+         "required": false,
+         "type": "string",
+        },
+       "uuid": {
+        "description": "A universal ID for the entry",
+        "required": false,
+        "type": "string"}
+        }
         },
     },
 ```
