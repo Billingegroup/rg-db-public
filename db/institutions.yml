@@ -9,6 +9,17 @@ aarhusu:
   name: Aarhus University
   state: ''
   zip: ''
+abbottpharmaceuticals:
+  aka: []
+  city: Chicago
+  country: USA
+  day: 4
+  month: 1
+  name: Abbott Pharmaceuticals
+  state: IL
+  updated: 2020-01-04 16:41:47.790527
+  uuid: ff1a6857-76aa-4c23-9758-7bb1aec8b4ed
+  year: 2020
 addisababau:
   aka:
     - University College of Addis Ababa
@@ -16,10 +27,10 @@ addisababau:
   city: Addis Ababa
   country: Ethiopia
   departments:
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry
+    physics:
+      name: Department of Physics
   name: Addis Ababa University
   schools:
     cns:
@@ -86,10 +97,10 @@ barnardu:
   city: New York
   country: USA
   departments:
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry
+    physics:
+      name: Department of Physics
   name: Barnard College
   state: NY
   zip: '10027'
@@ -111,18 +122,18 @@ bnl:
   city: Upton
   country: USA
   departments:
-    psd:
-      name: Photon Sciences Division
-    cmpms:
-      name: Condensed Matter and Materials Science Department
-    chemistry:
-      name: Department of Chemistry
     cfn:
       name: Center for Functional Nanomaterials
-    setd:
-      name: Sustainable Energy Technologies Department
+    chemistry:
+      name: Department of Chemistry
+    cmpms:
+      name: Condensed Matter and Materials Science Department
     csi:
       name: Computational Science Initiative
+    psd:
+      name: Photon Sciences Division
+    setd:
+      name: Sustainable Energy Technologies Department
   name: Brookhaven National Laboratory
   state: NY
   zip: '11973'
@@ -154,10 +165,10 @@ ccny:
   name: The City College of New York
   schools:
     grove:
-      name: The Grove School of Engineering
       aka:
         - Grove School
         - Grove
+      name: The Grove School of Engineering
   state: NY
   street: 160 Convent Avenue
   zip: '10031'
@@ -172,16 +183,16 @@ columbiau:
       aka:
         - APAM
       name: Department of Applied Physics and Applied Mathematics
-    cs:
-      name: Computer Science Department
-    chemistry:
-      name: Department of Chemistry
-    physics:
-      name: Department of Physics
     cheme:
       name: Department of Chemical Engineering
+    chemistry:
+      name: Department of Chemistry
+    cs:
+      name: Computer Science Department
     eaee:
       name: Department of Earth and Environmental Engineering
+    physics:
+      name: Department of Physics
   name: Columbia University
   schools:
     seas:
@@ -201,12 +212,12 @@ cornellu:
   city: Ithaca
   country: USA
   departments:
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry and Chemical Biology
     matsci:
       name: Department of Materials Science and Engineering
+    physics:
+      name: Department of Physics
   name: Cornell University
   state: New York
   street: ''
@@ -231,10 +242,10 @@ drexelu:
   city: Philadelphia
   country: USA
   departments:
-    nano:
-      name: A.J. Drexel Nanomaterials Institute
     mse:
       name: Department of Materials Science and Engineering
+    nano:
+      name: A.J. Drexel Nanomaterials Institute
   name: Drexel University
   schools:
     eng:
@@ -352,7 +363,16 @@ harvardu:
   name: Harvard University
   state: MA
   street: ''
-  zip: '02138'
+  zip: 02138
+hashemiteu:
+  aka: []
+  country: Jordan
+  day: 4
+  month: 1
+  name: Hashemite University
+  updated: 2020-01-04 16:51:43.981157
+  uuid: 26780491-5c60-4e53-b1ca-ca10aa68af19
+  year: 2020
 iccnrcomo:
   aka:
     - Crystallographic Institute, Como
@@ -377,14 +397,14 @@ kentstateu:
   city: Kent
   country: USA
   departments:
-    physics:
-      aka:
-        - Physics
-      name: Department of Physics
     chemistry:
       aka:
         - Chemistry
       name: Department of Chemistry
+    physics:
+      aka:
+        - Physics
+      name: Department of Physics
   name: Kent State University
   schools:
     cas:
@@ -425,6 +445,13 @@ lehighu:
   name: Lehigh University
   state: PA
   zip: '18015'
+missing:
+  aka: []
+  city: missing
+  country: missing
+  name: missing
+  state: ''
+  zip: ''
 mpi:
   aka:
     - Max Planck
@@ -446,10 +473,10 @@ msu:
   city: East Lansing
   country: USA
   departments:
-    physics:
-      name: Department of Physics and Astronomy
     chemistry:
       name: Department of Chemistry
+    physics:
+      name: Department of Physics and Astronomy
   name: Michigan State University
   state: MI
   street: 220 Trowbridge Rd
@@ -541,18 +568,18 @@ oxfordu:
   city: Oxford
   country: UK
   departments:
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry
+    cs:
+      name: Department of Computer Science
     earthsci:
       name: Department of Earth Sciences
     eng:
       name: Department of Engineering Science
     matsci:
       name: Department of Materials
-    cs:
-      name: Department of Computer Science
+    physics:
+      name: Department of Physics
   name: Oxford University
   state: ''
 pekingu:
@@ -562,10 +589,10 @@ pekingu:
   city: Beijing
   country: China
   departments:
-    physics:
-      name: School of Physics
     chemistry:
       name: School of Chemistry
+    physics:
+      name: School of Physics
   name: Peking University
   state: ''
   street: 5 Yiheyuan Road
@@ -574,6 +601,7 @@ psi:
   aka:
     - PSI
     - Paul Scherrer Institute
+    - Paul Scherrer Institute, Switzerland
   city: Villigen
   country: Switzerland
   name: Paul Scherrer Institute
@@ -664,12 +692,12 @@ sunysb:
   city: Stony Brook
   country: USA
   departments:
-    physics:
-      name: Department of Physics and Astronomy
     chemistry:
       name: Department of Chemistry
     earthsci:
       name: Department of Earth Science
+    physics:
+      name: Department of Physics and Astronomy
   name: Stony Brook University
   state: NY
   street: ''
@@ -743,7 +771,7 @@ uconn:
   name: University of Connecticut
   state: CT
   street: 97 North Eagleville Road
-  zip: '06269'
+  zip: 06269
 ucopenhagen:
   aka: []
   city: Copenhagen
@@ -763,9 +791,9 @@ udelaware:
   country: USA
   departments:
     physics:
-      name: Department of Physics and Astronomy
       aka:
         - physics
+      name: Department of Physics and Astronomy
   name: University of Delaware
   state: DE
   street: ''
@@ -796,32 +824,32 @@ ufrankfurt:
   city: Frankfurt
   country: Germany
   departments:
-    theophy:
-      name: Institute of Theoretical Physics
-    biophy:
-      name: Institute of Biophysics
     appphy:
       name: Institute of Applied Physics
-    inochem:
-      name: Institute of Inorganic and Analytical Chemistry
-    phyedu:
-      name: Institute of Physics Education
+    biophy:
+      name: Institute of Biophysics
     didchem:
       name: Institute of Didactics of Chemistry
+    inochem:
+      name: Institute of Inorganic and Analytical Chemistry
+    nucphy:
+      name: Institute of Nuclear Physics
+    orgchem:
+      name: Institute of Organic Chemistry and Chemical Biology
     phy:
       name: Institute of Physics
     phychem:
       name: Institute of Physical and Theoretical Chemistry
-    orgchem:
-      name: Institute of Organic Chemistry and Chemical Biology
-    nucphy:
-      name: Institute of Nuclear Physics
+    phyedu:
+      name: Institute of Physics Education
+    theophy:
+      name: Institute of Theoretical Physics
   name: Goethe University Frankfurt
   schools:
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry
+    physics:
+      name: Department of Physics
   state: ''
   zip: '60323'
 uhamburg:
@@ -872,10 +900,10 @@ umaine:
   city: fixme
   country: USA
   departments:
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry
+    physics:
+      name: Department of Physics
   name: University of Maine
   state: ME
   zip: fixme
@@ -892,10 +920,10 @@ umontreal:
   city: Montreal
   country: Canada
   departments:
-    physics:
-      name: Département de physique
     chemistry:
       name: Département de chimie
+    physics:
+      name: Département de physique
   name: Université de Montréal
   state: Québec
   street: 2900, boul. Édouard-Montpetit
@@ -932,10 +960,10 @@ upenn:
       name: Department of Chemical Engineering
     chemistry:
       name: Department of Chemistry
-    mse:
-      name: Department of Materials Science and Engineering
     cs:
       name: Computer Science Department
+    mse:
+      name: Department of Materials Science and Engineering
   name: University of Pennsylvania
   schools:
     seas:
@@ -968,16 +996,25 @@ utoronto:
   city: Toronto
   country: Canada
   departments:
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry
     matsci:
       name: Department of Materials Science and Engineering
+    physics:
+      name: Department of Physics
   name: University of Toronto
   state: Ontario
   street: 27 King's College Cir
   zip: M5S 3H7
+utrento:
+  aka: []
+  country: Italy
+  day: 4
+  month: 1
+  name: University of Trento
+  updated: 2020-01-04 16:58:41.471245
+  uuid: 11ed0c1b-660d-43cd-ba94-c30a1c9b4c1f
+  year: 2020
 utsinghua:
   aka:
     - Tsinghua
@@ -985,12 +1022,12 @@ utsinghua:
   city: Beijing
   country: China
   departments:
-    physics:
-      name: Department of Physics
     chemistry:
       name: Department of Chemistry
     matsci:
       name: Department of Materials Science and Engineering
+    physics:
+      name: Department of Physics
   name: Tsinghua University
   state: Haidian
   street: 30 Shuangqing Rd
@@ -1047,8 +1084,6 @@ vanderbiltu:
   city: Nashville
   country: USA
   departments:
-    physics:
-      name: Department of Physics and Astronomy
     chemistry:
       name: Department of Chemistry
     matsci:
@@ -1056,6 +1091,8 @@ vanderbiltu:
         - vinse
         - VINSE
       name: Vanderbilt Institute of Nanoscale Science and Engineering
+    physics:
+      name: Department of Physics and Astronomy
   name: Vanderbilt University
   state: Tennessee
   street: 2201 West End Ave
