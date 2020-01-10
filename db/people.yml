@@ -1107,22 +1107,17 @@ sharouna-mayer:
 smayers:
   active: true
   aka:
-    - Sam R. Mayers
+    - Sam Mayers
   avatar: https://github.com/samrmayers.png
-  bio: bio
+  bio: Sam is a junior at Columbia University studying Applied Math.
   education:
-    - begin_year: 2011
+    - begin_year: 2017
       begin_month: 9
-      degree: PhD in Physics
+      degree: Current undergrad
       institution: Columbia University
-      end_year: 2016
-      end_month: 4
+      end_year: 2021
+      end_month: 5
       group: bg
-  employment:
-    - begin_year: 2016
-      begin_month: 5
-      position: Post-doctoral Scholar
-      organization: University of California, Berkeley
   name: Sam Mayers
   position: undergrad
 sstao:
