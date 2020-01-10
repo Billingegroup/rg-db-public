@@ -51,7 +51,7 @@ chliu:
       name: Python
   title: Mr.
 cwright:
-  active: true
+  active: false
   aka:
     - Christopher J. Wright
     - Wright, Christopher J.
@@ -806,7 +806,7 @@ rkoch:
   name: Robert Koch
   position: Associate Scientist
 rpokratath:
-  active: false
+  active: true
   aka:
     - Rohan Pokratath
   avatar: https://www.github.com/rohanpok.png
@@ -843,7 +843,7 @@ rpokratath:
   name: Rohan Pokratath
   position: visitor
 sbandi:
-  active: true
+  active: false
   aka:
     - Sasaank Bandi
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
@@ -862,7 +862,7 @@ sbandi:
   name: Sasaank Bandi
   position: Graduate Studenet
 sbanerjee:
-  active: true
+  active: false
   aka:
     - sojam
     - bajam
@@ -1007,8 +1007,8 @@ sbillinge:
   funding: []
   google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
   honors:
-    - name: Distinguished Powder Diffractionist Prize of the European Powder
-        Diffraction Conference
+    - name: Distinguished Powder Diffractionist Prize of the European Powder Diffraction
+        Conference
       year: 2020
     - name: Warren Award of the American Crystallographic Association
       year: 2018
