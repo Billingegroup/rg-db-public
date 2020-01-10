@@ -277,6 +277,14 @@ ethzurich:
   state: ''
   street: Wolfgang-Pauli-Strasse 27
   zip: CH-8093
+fau:
+  aka:
+    - FAU
+    - Erlangen Univeristy
+  city: Erlangen
+  country: Germany
+  name: Friedrich-Alexander-Universität Erlangen-Nürnberg
+  state: ''
 fudanu:
   aka:
     - Fudan
