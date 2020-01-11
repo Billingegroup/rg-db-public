@@ -726,8 +726,10 @@ kjensen:
       begin_month: 9
       position: Assistant Professor
       organization: ucopenhagen
-    - end_year: 2018
-      end_month: 8
+    - end_year: 2015
+      begin_year: 2013
+      end_month: 9
+      begin_month: 10
       position: Post Doctoral Associate
       organization: columbiau
       group: bg
@@ -855,12 +857,15 @@ pjuhas:
     - degree: PhD in Physics
       institution: upenn
       end_year: 2003
+      begin_year: 1997
     - degree: MS in Materials Science and Engineering
       institution: upenn
       end_year: 2001
+      begin_year: 1997
     - degree: Mgr in Solid State Physics
       institution: comeniusu
       end_year: 1997
+      begin_year: 1993
   employment:
     - begin_year: 2019
       begin_month: 11
