@@ -19,6 +19,52 @@ bfrandsen:
       organization: University of California, Berkeley
   name: Ben Frandsen
   position: assistant professor
+nthmoas:
+  active: true
+  aka:
+    - Nancy Thomas
+    - Nancy Knight Thomas
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2016
+      begin_month: 9
+      degree: BA in Applied Math
+      institution: Columbia University
+      end_year: 2020
+      end_month: 5
+  employment:
+    - begin_year: 2020
+      begin_month: 1
+      organization: Columbia University
+      end_year: 2020
+      end_month: 5
+      position: Undergraduate Researcher
+      group: bg
+  name: Nonie Thomas
+  position: Undergraduate Researcher
+kseth:
+  active: true
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2016
+      begin_month: 9
+      degree: BA in Applied Math
+      institution: Columbia University
+      end_year: 2020
+      end_month: 5
+  employment:
+    - begin_year: 2020
+      begin_month: 1
+      organization: Columbia University
+      position: Visiting Researcher
+      end_year: 2020
+      end_month: 7
+      group: bg
+  name: Kriti Seth
+  position: Visiting Researcher
 chliu:
   active: true
   aka:
