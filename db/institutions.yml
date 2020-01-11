@@ -93,6 +93,16 @@ barnardu:
   name: Barnard College
   state: NY
   zip: '10027'
+basf:
+  aka: []
+  city: Basel
+  country: Switzerland
+  day: 10
+  month: 1
+  name: BASF
+  updated: 2020-01-10 17:22:19.907453
+  uuid: 74833595-46ab-409c-abd4-8a2a4289ee4b
+  year: 2020
 batesc:
   aka:
     - Bates
@@ -161,6 +171,17 @@ ccny:
   state: NY
   street: 160 Convent Avenue
   zip: '10031'
+coloradostateu:
+  aka: []
+  city: Fort Collins
+  day: 10
+  month: 1
+  name: Colorado State University
+  state: Colorado
+  updated: 2020-01-10 17:14:33.613288
+  uuid: 859d2388-8abe-462d-8c6f-71487ccd7d6c
+  year: 2020
+  zip: '80523'
 columbiau:
   aka:
     - Columbia University
@@ -353,6 +374,16 @@ harvardu:
   state: MA
   street: ''
   zip: '02138'
+hashemiteu:
+  aka: []
+  city: Zarqua
+  country: Jordan
+  day: 10
+  month: 1
+  name: Hashemite University
+  updated: 2020-01-10 17:18:19.635036
+  uuid: 65f16cfa-e364-47c5-a7f1-0a1dcd4e68ce
+  year: 2020
 iccnrcomo:
   aka:
     - Crystallographic Institute, Como
@@ -489,6 +520,15 @@ nist:
   state: MD
   street: 100 Bureau Drive
   zip: '20899'
+northwesternu:
+  aka:
+    - nwu
+  day: 10
+  month: 1
+  name: Northwestern University
+  updated: 2020-01-10 17:26:45.692690
+  uuid: 6bfefc1b-60a8-4ef3-bf24-85761fdadb9c
+  year: 2020
 nslsii:
   aka:
     - NSLS-II
@@ -793,6 +833,7 @@ ufrankfurt:
     - Frankfurt University
     - Goethe-Universität
     - Universität Frankfurt am Main
+    - Johann Wolfgang Goethe-Universität
   city: Frankfurt
   country: Germany
   departments:
@@ -910,6 +951,37 @@ unisa:
   name: University of Salerno
   state: ''
   zip: '84084'
+uofdayton:
+  aka: []
+  city: Dayton
+  day: 10
+  month: 1
+  name: University of Dayton
+  state: Ohio
+  updated: 2020-01-10 17:12:54.190176
+  uuid: 246717b8-b66d-45d3-b62c-594a5fe4d803
+  year: 2020
+  zip: '45469'
+uoferlangen-nuremberg:
+  aka:
+    - erlangenu
+  city: Erlangen
+  country: Germany
+  day: 10
+  month: 1
+  name: University of Erlangen-Nuremberg
+  updated: 2020-01-10 18:10:21.189617
+  uuid: c4210aab-cde7-428b-b1c4-d62bcab401e0
+  year: 2020
+uoftrento:
+  aka:
+    - utrento
+  day: 10
+  month: 1
+  name: University of Trento
+  updated: 2020-01-10 17:28:15.929580
+  uuid: bfee0e16-7115-428e-bffb-26edbdba766d
+  year: 2020
 uosijek:
   aka:
     - University of Osijek
@@ -960,7 +1032,7 @@ urome:
   name: University of Rome, 'La Sapienza'
   state: ''
   street: Piazzale Aldo Moro 5
-  zip: 00185
+  zip: '00185'
 utoronto:
   aka:
     - UofT
