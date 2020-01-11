@@ -25,7 +25,7 @@ nthmoas:
     - Nancy Thomas
     - Nancy Knight Thomas
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio 
+  bio: bio
   education:
     - begin_year: 2016
       begin_month: 9
@@ -36,11 +36,10 @@ nthmoas:
   employment:
     - begin_year: 2020
       begin_month: 1
-      begin_day: 15
       organization: Columbia University
       end_year: 2020
       end_month: 5
-      end_day: 15
+      position: Undergraduate Researcher
       group: bg
   name: Nonie Thomas
   position: Undergraduate Researcher
@@ -50,14 +49,19 @@ kseth:
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
+    - begin_year: 2016
+      begin_month: 9
+      degree: BA in Applied Math
+      institution: Columbia University
+      end_year: 2020
+      end_month: 5
   employment:
     - begin_year: 2020
       begin_month: 1
-      begin_day: 15
       organization: Columbia University
+      position: Visiting Researcher
       end_year: 2020
       end_month: 7
-      end_day: 15
       group: bg
   name: Kriti Seth
   position: Visiting Researcher
