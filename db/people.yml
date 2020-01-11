@@ -2,9 +2,6 @@ bfrandsen:
   active: false
   aka:
     - Ben Frandsen
-    - Frandsen, Benjamin A.
-    - Frandsen, B. A.
-    - Benjamin A. Frandsen
   avatar: https://github.com/benfrandsen.png
   bio: bio
   education:
@@ -313,7 +310,6 @@ cyshi:
   active: false
   aka:
     - Chenyang Shi
-    - Shi, Chenyang
   avatar: https://github.com/curieshicy.png
   bio: bio
   education:
@@ -337,9 +333,6 @@ ebozin:
     - Emil Bozin
     - ES Bozin
     - E. S. Bozin
-    - Bozin, Emil S.
-    - Bozin, E. S.
-    - Bozin, E.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
@@ -639,8 +632,6 @@ jgong:
   active: false
   aka:
     - James Gong
-    - Gong, Zizhou
-    - Gong, James
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
@@ -656,42 +647,10 @@ jgong:
       position: Engineer
   name: Zizhou Gong
   position: Engineer
-kjensen:
-  active: false
-  aka:
-    - Kirsten Marie Ørnsbjerg Jensen
-    - Jensen, Kirsten M. {\O}.
-    - Jensen, Kirsten M. Ø.
-    - Kirsten M. Ø. Jensen
-    - Jensen, Kirsten M. O.
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
-  education:
-    - begin_year: 2008
-      degree: PhD in Chemistry
-      institution: aarhusu
-      end_year: 2013
-    - begin_year: 2005
-      degree: BA in Chemistry
-      institution: aarhusu
-      end_year: 2008
-  employment:
-    - begin_year: 2018
-      begin_month: 9
-      position: Assistant Professor
-      organization: ucopenhagen
-    - end_year: 2018
-      end_month: 8
-      position: Post Doctoral Associate
-      organization: columbiau
-      group: bg
-  name: Kirsten Jensen
-  position: assistant professor
 lyang:
   active: true
   aka:
     - Long Yang
-    - Yang, Long
   avatar: https://github.com/dragonyanglong.png
   bio: bio
   education:
@@ -714,8 +673,6 @@ mterban:
     - Max Terban
     - Maxwell Terban
     - M. Terban
-    - Terban, Maxwell W.
-    - Maxwell W. Terban
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
@@ -798,56 +755,10 @@ nfuller:
       group: bg
   name: Neno Fuller
   position: Masters Student
-pjuhas:
-  active: false
-  aka:
-    - Juh\'{a}s, Pavol
-    - Juhás, Pavol
-  avatar: https://github.com/pavoljuhas.png
-  bio: bio
-  education:
-    - degree: PhD in Physics
-      institution: upenn
-      end_year: 2003
-    - degree: MS in Materials Science and Engineering
-      institution: upenn
-      end_year: 2001
-    - degree: Mgr in Solid State Physics
-      institution: comeniusu
-      end_year: 1997
-  employment:
-    - begin_year: 2019
-      begin_month: 11
-      position: Programmer
-      organization: Google
-    - begin_year: 2016
-      begin_month: 3
-      end_year: 2019
-      end_month: 10
-      position: Associate Computational Scientist
-      organization: bnl
-    - begin_year: 2012
-      end_year: 2016
-      position: Associate Physicist
-      organization: bnl
-      group: bg
-    - begin_year: 2008
-      end_year: 2012
-      position: Research Scientist
-      organization: columbiau
-      group: bg
-    - begin_year: 2003
-      end_year: 2008
-      position: Postdoctoral Research Associate
-      organization: msu
-      group: bg
-  name: Pavol Juhas
-  position: Programmer
 rgu:
   active: true
   aka:
     - Ran Gu
-    - Gu, Ran
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
@@ -863,7 +774,6 @@ rgu:
       end_year: 2020
       status: postdoc
       position: Post Doctoral Researcher
-      group: bg
       organization: Columbia University
   name: Ran Gu
   position: Post Doctoral Researcher
@@ -872,7 +782,6 @@ rkoch:
   aka:
     - Robert Koch
     - R. Koch
-    - Koch, R. J.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
@@ -955,8 +864,8 @@ sbandi:
 sbanerjee:
   active: false
   aka:
-    - Banerjee, Soham
-    - Banerjee, S.
+    - sojam
+    - bajam
   avatar: https://github.com/sbanerjee23.png
   bio: ''
   education:
@@ -1187,13 +1096,6 @@ sharouna-mayer:
       degree: M.Sc. in nanoscience
       institution: University of Hamburg, Germany
   employment:
-    - begin_year: 2019
-      begin_month: 12
-      position: Visiting Researcher
-      organization: Columbia University
-      end_year: 2020
-      end_month: 8
-      group: bg
     - begin_year: 2017
       begin_month: 8
       position: Intern
@@ -1369,7 +1271,6 @@ yrakita:
       end_year: 2017
       status: postdoc
       organization: Columbia University
-      group: bg
       position: Post Doctoral Associate
   name: Yevgeny Rakita
   position: Post Doctoral Associate
@@ -1400,8 +1301,6 @@ zguguchia:
   active: false
   aka:
     - Zurab Guguchia
-    - Guguchia, Z.
-    - Guguchia, Zurab
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
