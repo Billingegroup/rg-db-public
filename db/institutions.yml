@@ -981,6 +981,8 @@ uoferlangen-nuremberg:
 uoftrento:
   aka:
     - utrento
+  city: Trento
+  country: Italy
   day: 10
   month: 1
   name: University of Trento
