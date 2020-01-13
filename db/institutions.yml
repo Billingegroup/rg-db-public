@@ -896,12 +896,14 @@ ufrankfurt:
 uhamburg:
   aka:
     - University of Hamburg
+    - Hamburg University
+    - UHH
   city: Hamburg
   country: Germany
   departments:
     chyn:
       name: Center for Hybrid Nanostructures
-  name: Universitat de Hamburg
+  name: Universität Hamburg
   state: ''
   zip: fixme
 uhouston:
@@ -991,13 +993,16 @@ uofdayton:
   year: 2020
   zip: '45469'
 uoferlangen-nuremberg:
-  aka:
+  aka: 
     - erlangenu
+    - fau
+    - University of Erlangen-Nuremberg
+    - Universität Erlangen-Nürnberg
   city: Erlangen
   country: Germany
   day: 10
   month: 1
-  name: University of Erlangen-Nuremberg
+  name: Friedrich-Alexander-Universität Erlangen-Nürnberg
   updated: 2020-01-10 18:10:21.189617
   uuid: c4210aab-cde7-428b-b1c4-d62bcab401e0
   year: 2020
