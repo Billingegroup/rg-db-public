@@ -1327,6 +1327,64 @@ syxue:
       status: undergrad
   name: Shuyue Xue
   position: Researcher
+tcaswell:
+  active: true
+  aka:
+    - Thomas Alexander Caswell
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: Tom, all around great guy, is a computational scientist at Brookhaven
+    National Lab, an Adjunct faculty at Columbia, and a very welcome honorary
+    member of the Billinge group for as long as he wants to be.
+  education:
+    - end_year: 2014
+      end_month: 5
+      begin_year: 2008
+      begin_month: 9
+      degree: PhD in Physicas
+      institution: cu
+  employment:
+    - begin_year: 2019
+      begin_month: 10
+      position: Visiting Associate Research Scientist
+      organization: columbiau
+      group: bg
+    - begin_year: 2017
+      begin_month: 1
+      position: Associate Computational Scientist
+      organization: bnl
+    - end_year: 2017
+      end_month: 1
+      begin_year: 2015
+      begin_month: 4
+      position: Assistant Computational Scientist
+      organization: bnl
+    - end_year: 2015
+      end_month: 4
+      begin_year: 2014
+      begin_month: 1
+      position: Research Associate
+      organization: bnl
+  name: Thomas Caswell
+  position: Visiting Associate Research Scientist
+vcharakhanyan:
+  active: true
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2019
+      begin_month: 9
+      degree: PhD in Materials Science
+      institution: columbiau
+  email: vg2471@columbia.edu
+  employment:
+    - begin_year: 2019
+      begin_month: 10
+      position: MS/PhD
+      organization: columbiau
+      group: bg
+  name: Vahe Gharakhanyan
+  position: Graduate Student
 xhyang:
   active: false
   aka:
