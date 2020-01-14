@@ -697,8 +697,8 @@ kseth:
   education:
     - begin_year: 2016
       begin_month: 9
-      degree: BA in Applied Math
-      institution: Columbia University
+      degree: PhD in Physics
+      institution: gndu
       end_year: 2020
       end_month: 5
   employment:
@@ -1332,9 +1332,9 @@ tcaswell:
   aka:
     - Thomas Alexander Caswell
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: Tom, all around great guy, is a computational scientist at Brookhaven
-    National Lab, an Adjunct faculty at Columbia, and a very welcome honorary
-    member of the Billinge group for as long as he wants to be.
+  bio: Tom, all around great guy, is a computational scientist at Brookhaven National
+    Lab, an Adjunct faculty at Columbia, and a very welcome honorary member of the
+    Billinge group for as long as he wants to be.
   education:
     - end_year: 2014
       end_month: 5
