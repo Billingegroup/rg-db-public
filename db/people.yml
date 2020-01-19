@@ -952,7 +952,11 @@ rpokratath:
   aka:
     - Rohan Pokratath
   avatar: https://www.github.com/rohanpok.png
-  bio: bio
+  bio:  "Rohan was born in Calicut, India in 1993. He did his masters in Material Science\
+        \from Indian Institute of Technology Bombay and currently enrolled as a PhD student\
+        \at University of Basel, on the topic of characterizing metal oxide nanocrystals\
+        \using X-ray Pair Distribution Function Analysis.  In his spare time, he enjoys football."
+
   education:
     - begin_year: 2019
       begin_month: 9
@@ -976,11 +980,11 @@ rpokratath:
       end_year: 2020
       end_month: 7
       group: bg
-    - begin_year: 2017
+    - begin_year: 2015
       begin_month: 4
-      position: Process Engineer (Cold Area, Ethylene Cracker Unit)
+      position: Process Engineer
       organization: Global SS Constructions Pvt. Ltd.
-      end_year: 2015
+      end_year: 2017
       end_month: 4
   name: Rohan Pokratath
   position: visitor
