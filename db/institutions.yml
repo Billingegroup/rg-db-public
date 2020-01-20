@@ -241,6 +241,17 @@ drexelu:
       name: College of Engineering
   state: PA
   zip: '19104'
+elettra:
+  aka: []
+  city: Trieste
+  country: Italy
+  departments:
+    crystallography:
+      name: Istituto di Cristallografia
+  name: Sincrotrone Elettra
+  state: ''
+  street: Strada Statale 14-Km 163, 5 Area Science Park, Basovizza,
+  zip: '34149'
 emba:
   aka:
     - EMBA
@@ -640,6 +651,15 @@ rutgersu:
   name: Rutgers University
   state: NJ
   zip: 08901-1281
+sci-tec:
+  aka: []
+  city: Milan
+  country: Italy
+  name: Institute of Chemical Sciences and Technologies "G.Natta" Consiglio Nazionale
+    delle Ricerche (SCI-TEC)
+  state: ''
+  street: via A. Corti 12
+  zip: '20133'
 srtmu:
   aka:
     - SRTMU
@@ -1039,7 +1059,7 @@ uwisconsin:
 uwmilwaukee:
   aka:
     - UWM
-  city: Milwauke
+  city: Milwaukee
   country: USA
   departments:
     physics:
@@ -1047,29 +1067,6 @@ uwmilwaukee:
   name: University of Wisconsin Milwaukee
   state: Wisconsin
   zip: '411007'
-sci-tec:
-  aka: []
-  city: Milan
-  country: Italy
-  departments:
-    nattainst:
-      name:
-  name: 'Institute of Chemical Sciences and Technologies "G.Natta" Consiglio
-    Nazionale delle Ricerche (SCI-TEC)'
-  state: ""
-  street: via A. Corti 12
-  zip: '20133'
-elettra:
-  aka: []
-  city: Trieste
-  country: Italy
-  departments:
-    crystallography:
-      name: Istituto di Cristallografia
-  name: Sincrotrone Elettra
-  state: ""
-  street: Strada Statale 14-Km 163, 5 Area Science Park, Basovizza,
-  zip: '34149'
 vanderbiltu:
   aka:
     - Vanderbilt
