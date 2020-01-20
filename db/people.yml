@@ -952,18 +952,16 @@ rpokratath:
   aka:
     - Rohan Pokratath
   avatar: https://www.github.com/rohanpok.png
-  bio: "Rohan was born in Calicut, India in 1993. He did his masters in Material Science\
-    \ from Indian Institute of Technology Bombay and currently enrolled as a PhD student\
-    \ at University of Basel, on the topic of characterizing metal oxide nanocrystals\
-    \ using X-ray Pair Distribution Function Analysis.  In his spare time, he enjoys football."
-
+  bio: Rohan was born in Calicut, India in 1993. He did his masters in Material Science
+      from Indian Institute of Technology Bombay and currently enrolled as a PhD student
+      at University of Basel, on the topic of characterizing metal oxide nanocrystals
+      using X-ray Pair Distribution Function Analysis. At Columbia Univertsity, he is
+      conducting a research stay to expertise in PDF.  In his spare time, he enjoys football.
   education:
     - begin_year: 2019
       begin_month: 9
       degree: PhD in Chemistry
       institution: University of Basel
-      end_year: 2016
-      end_month: 4
     - begin_year: 2017
       degree: Masters in Materials Science
       institution: Indian Institute of Technology, Bombay, India
