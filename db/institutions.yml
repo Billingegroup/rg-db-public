@@ -241,6 +241,17 @@ drexelu:
       name: College of Engineering
   state: PA
   zip: '19104'
+elettra:
+  aka: []
+  city: Trieste
+  country: Italy
+  departments:
+    crystallography:
+      name: Istituto di Cristallografia
+  name: Sincrotrone Elettra
+  state: ''
+  street: Strada Statale 14-Km 163, 5 Area Science Park, Basovizza,
+  zip: '34149'
 emba:
   aka:
     - EMBA
@@ -640,6 +651,15 @@ rutgersu:
   name: Rutgers University
   state: NJ
   zip: 08901-1281
+sci-tec:
+  aka: []
+  city: Milan
+  country: Italy
+  name: Institute of Chemical Sciences and Technologies "G.Natta" Consiglio Nazionale
+    delle Ricerche (SCI-TEC)
+  state: ''
+  street: via A. Corti 12
+  zip: '20133'
 srtmu:
   aka:
     - SRTMU
@@ -1039,7 +1059,7 @@ uwisconsin:
 uwmilwaukee:
   aka:
     - UWM
-  city: Milwauke
+  city: Milwaukee
   country: USA
   departments:
     physics:
@@ -1054,6 +1074,7 @@ vanderbiltu:
     - VanderbiltU
   city: Nashville
   country: USA
+  day: 23
   departments:
     physics:
       name: Department of Physics and Astronomy
@@ -1064,7 +1085,11 @@ vanderbiltu:
         - vinse
         - VINSE
       name: Vanderbilt Institute of Nanoscale Science and Engineering
+  month: Jan
   name: Vanderbilt University
   state: Tennessee
   street: 2201 West End Ave
+  updated: 2020/01/23
+  uuid: test
+  year: 2020
   zip: '37235'
