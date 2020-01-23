@@ -9,6 +9,15 @@ aarhusu:
   name: Aarhus University
   state: ''
   zip: ''
+ufederaldoabc:
+  aka:
+    - UFABC
+    - Federal University of ABC
+  city: Santo André
+  country: Brazil
+  name: Universidade Federal do ABC
+  state: ''
+  zip: ''
 addisababau:
   aka:
     - University College of Addis Ababa
