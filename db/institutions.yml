@@ -1074,6 +1074,7 @@ vanderbiltu:
     - VanderbiltU
   city: Nashville
   country: USA
+  day: 23
   departments:
     physics:
       name: Department of Physics and Astronomy
@@ -1084,7 +1085,11 @@ vanderbiltu:
         - vinse
         - VINSE
       name: Vanderbilt Institute of Nanoscale Science and Engineering
+  month: Jan
   name: Vanderbilt University
   state: Tennessee
   street: 2201 West End Ave
+  updated: 2020/01/23
+  uuid: test
+  year: 2020
   zip: '37235'
