@@ -5,5 +5,29 @@
    "public": true,
    "path": "db",
    "local": true}
- ]
+ ],
+ "schemas": {
+  "institutions": {
+   "year": {
+    "description": "The year when the entry was updated",
+    "required": false,
+    "type": "integer"},
+   "month": {
+    "description": "The month when the entry was updated",
+    "required": false,
+    "type": ["string", "integer"]},
+   "day": {
+    "description": "The day when the the entry was updated",
+    "required": false,
+    "type": "integer"},
+   "updated": {
+    "description": "The timestamp of the update",
+    "required": false,
+    "type": "string"},
+   "uuid": {
+    "description": "A uuid for the entry",
+    "required": false,
+    "type": "string"}
+  }
+ }
 }
