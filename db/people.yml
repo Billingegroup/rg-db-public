@@ -958,8 +958,8 @@ rpokratath:
       begin_month: 9
       degree: PhD in Chemistry
       institution: University of Basel
-      end_year: 2016
-      end_month: 4
+      end_year:
+      end_month:
     - begin_year: 2017
       degree: Masters in Materials Science
       institution: Indian Institute of Technology, Bombay, India
