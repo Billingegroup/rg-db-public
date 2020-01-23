@@ -481,6 +481,9 @@ lehighu:
     - lehigh
   city: Bethlehem
   country: USA
+  departments:
+    dop:
+      name: Department of Physics
   name: Lehigh University
   state: PA
   zip: '18015'
