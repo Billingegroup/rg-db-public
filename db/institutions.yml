@@ -915,7 +915,7 @@ uhamburg:
   city: Hamburg
   country: Germany
   departments:
-    chyn:
+    chn:
       name: Center for Hybrid Nanostructures
   name: Universität Hamburg
   state: ''
