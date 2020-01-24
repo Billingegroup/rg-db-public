@@ -1089,7 +1089,7 @@ vanderbiltu:
   name: Vanderbilt University
   state: Tennessee
   street: 2201 West End Ave
-  updated: 2020/01/23
+  updated: 2020-01-23
   uuid: test
   year: 2020
   zip: '37235'

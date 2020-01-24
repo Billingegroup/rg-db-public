@@ -23,7 +23,7 @@
    "updated": {
     "description": "The timestamp of the update",
     "required": false,
-    "type": "string"},
+    "type": ["string", "date", "datetime"]},
    "uuid": {
     "description": "A uuid for the entry",
     "required": false,
