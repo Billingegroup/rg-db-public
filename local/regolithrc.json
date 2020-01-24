@@ -27,7 +27,11 @@
    "uuid": {
     "description": "A uuid for the entry",
     "required": false,
-    "type": "string"}
+    "type": "string"},
+   "zip": {
+    "description": "The zipcode of the school",
+    "required": false,
+    "type": ["string", "integer"]}
   }
  }
 }
