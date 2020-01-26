@@ -1374,12 +1374,6 @@ utoronto:
   state: Ontario
   street: 27 King's College Cir
   zip: M5S 3H7
-utrento:
-  aka: []
-  country: Italy
-  name: University of Trento
-  updated: 2020-01-04 16:58:41.471245
-  uuid: 11ed0c1b-660d-43cd-ba94-c30a1c9b4c1f
 utsinghua:
   aka:
     - Tsinghua
