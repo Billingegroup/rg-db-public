@@ -543,6 +543,8 @@ nist:
 northwesternu:
   aka:
     - nwu
+  city: Evanston
+  country: USA
   day: 10
   month: 1
   name: Northwestern University
@@ -985,6 +987,7 @@ unisa:
 uofdayton:
   aka: []
   city: Dayton
+  country: USA
   day: 10
   month: 1
   name: University of Dayton
