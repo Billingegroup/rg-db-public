@@ -347,7 +347,7 @@ ebozin:
       begin_year: 1996
       end_year: 2003
       location: East Lansing, MI
-      department: Department of Physics and Astronomy
+      department: physics
       degree: PhD in Physics
       other:
         - 'Advisor: Simon Billinge'
@@ -356,13 +356,13 @@ ebozin:
       end_year: 1999
       location: East Lansing, MI
       department: Department of Physics and Astronomy
-      degree: MS in Physics
+      degree: M.Sc in Experimental Condensed Matter Physics
     - institution: Michigan State University
       begin_year: 1999
       end_year: 2001
       location: East Lansing, MI
       department: Department of Electrical Engineering
-      degree: M.Sc in Electrical Engineering
+      degree: M.Sc in Electrical Engineering Materials and Devices
     - institution: University of Belgrade
       begin_year: 1991
       end_year: 1995
@@ -371,20 +371,22 @@ ebozin:
       degree: B.Sc in Theoretical Physics
   email: ebozin@bnl.gov
   employment:
-    - begin_month: 11
-      begin_year: 2012
-      end_year: 2030
+    - begin_year: 2015
       group: bg
-      organization: Brookhaven National Laboratory
-      position: Associate Scientist
+      organization: bnl
+      position: Physicisit
       status: postdoc
-    - begin_month: 11
-      begin_year: 2010
-      end_year: 2012
-      end_month: 11
+    - begin_year: 2012
+      end_year: 2015
       group: bg
       organization: Brookhaven National Laboratory
-      position: Assistant Scientist
+      position: Associate Physicist
+      status: postdoc
+    - begin_year: 2010
+      end_year: 2012
+      group: bg
+      organization: Brookhaven National Laboratory
+      position: Assistant Physicist
       status: postdoc
     - end_month: 11
       end_year: 2010
@@ -822,7 +824,7 @@ nfuller:
       group: bg
   name: Neno Fuller
   position: Masters Student
-nthmoas:
+nthomas:
   active: true
   aka:
     - Nancy Thomas
@@ -953,10 +955,11 @@ rpokratath:
     - Rohan Pokratath
   avatar: https://www.github.com/rohanpok.png
   bio: Rohan was born in Calicut, India in 1993. He did his masters in Material Science
-       from Indian Institute of Technology Bombay and currently enrolled as a PhD student
-       at University of Basel, on the topic of characterizing metal oxide nanocrystals
-       using X-ray Pair Distribution Function Analysis. At Columbia Univertsity, he is
-       conducting a research stay to expertise in PDF. In his spare time, he enjoys football.
+    from Indian Institute of Technology Bombay and currently enrolled as a PhD student
+    at University of Basel, on the topic of characterizing metal oxide nanocrystals
+    using X-ray Pair Distribution Function Analysis. At Columbia Univertsity, he is
+    conducting a research stay to expertise in PDF.  In his spare time, he enjoys
+    football.
   education:
     - begin_year: 2019
       begin_month: 9
@@ -978,11 +981,11 @@ rpokratath:
       end_year: 2020
       end_month: 7
       group: bg
-    - begin_year: 2017
+    - begin_year: 2015
       begin_month: 4
-      position: Process Engineer (Cold Area, Ethylene Cracker Unit)
+      position: Process Engineer
       organization: Global SS Constructions Pvt. Ltd.
-      end_year: 2015
+      end_year: 2017
       end_month: 4
   name: Rohan Pokratath
   position: visitor
@@ -1232,13 +1235,13 @@ sharouna-mayer:
     - begin_year: 2015
       begin_month: 10
       degree: B.Sc. in nanoscience
-      institution: University of Hamburg, Germany
+      institution: uhamburg
       end_year: 2018
       end_month: 8
     - begin_year: 2018
       begin_month: 10
       degree: M.Sc. in nanoscience
-      institution: University of Hamburg, Germany
+      institution: uhamburg
   employment:
     - begin_year: 2019
       begin_month: 12
@@ -1250,7 +1253,7 @@ sharouna-mayer:
     - begin_year: 2017
       begin_month: 8
       position: Intern
-      organization: Institut Laue-Langevin, Grenoble, France
+      organization: ill
       end_year: 2017
       end_month: 10
   name: Sani Harouna-Mayer
@@ -1368,7 +1371,7 @@ tcaswell:
       organization: bnl
   name: Thomas Caswell
   position: Visiting Associate Research Scientist
-vcharakhanyan:
+vgharakhanyan:
   active: true
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y

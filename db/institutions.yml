@@ -9,6 +9,15 @@ aarhusu:
   name: Aarhus University
   state: ''
   zip: ''
+ufederaldoabc:
+  aka:
+    - UFABC
+    - Federal University of ABC
+  city: Santo André
+  country: Brazil
+  name: Universidade Federal do ABC
+  state: ''
+  zip: ''
 addisababau:
   aka:
     - University College of Addis Ababa
@@ -93,6 +102,16 @@ barnardu:
   name: Barnard College
   state: NY
   zip: '10027'
+basf:
+  aka: []
+  city: Basel
+  country: Switzerland
+  day: 10
+  month: 1
+  name: BASF
+  updated: '2020-01-10 17:22:19.907453'
+  uuid: 74833595-46ab-409c-abd4-8a2a4289ee4b
+  year: 2020
 batesc:
   aka:
     - Bates
@@ -161,6 +180,18 @@ ccny:
   state: NY
   street: 160 Convent Avenue
   zip: '10031'
+coloradostateu:
+  aka: []
+  city: Fort Collins
+  country: USA
+  day: 10
+  month: 1
+  name: Colorado State University
+  state: Colorado
+  updated: '2020-01-10 17:14:33.613288'
+  uuid: 859d2388-8abe-462d-8c6f-71487ccd7d6c
+  year: 2020
+  zip: '80523'
 columbiau:
   aka:
     - Columbia University
@@ -241,6 +272,17 @@ drexelu:
       name: College of Engineering
   state: PA
   zip: '19104'
+elettra:
+  aka: []
+  city: Trieste
+  country: Italy
+  departments:
+    crystallography:
+      name: Istituto di Cristallografia
+  name: Sincrotrone Elettra
+  state: ''
+  street: Strada Statale 14-Km 163, 5 Area Science Park, Basovizza,
+  zip: '34149'
 emba:
   aka:
     - EMBA
@@ -361,6 +403,16 @@ harvardu:
   state: MA
   street: ''
   zip: '02138'
+hashemiteu:
+  aka: []
+  city: Zarqua
+  country: Jordan
+  day: 10
+  month: 1
+  name: Hashemite University
+  updated: '2020-01-10 17:18:19.635036'
+  uuid: 65f16cfa-e364-47c5-a7f1-0a1dcd4e68ce
+  year: 2020
 iccnrcomo:
   aka:
     - Crystallographic Institute, Como
@@ -430,6 +482,9 @@ lehighu:
     - lehigh
   city: Bethlehem
   country: USA
+  departments:
+    physics:
+      name: Department of Physics
   name: Lehigh University
   state: PA
   zip: '18015'
@@ -497,6 +552,17 @@ nist:
   state: MD
   street: 100 Bureau Drive
   zip: '20899'
+northwesternu:
+  aka:
+    - nwu
+  city: Evanston
+  country: USA
+  day: 10
+  month: 1
+  name: Northwestern University
+  updated: '2020-01-10 17:26:45.692690'
+  uuid: 6bfefc1b-60a8-4ef3-bf24-85761fdadb9c
+  year: 2020
 nslsii:
   aka:
     - NSLS-II
@@ -640,6 +706,15 @@ rutgersu:
   name: Rutgers University
   state: NJ
   zip: 08901-1281
+sci-tec:
+  aka: []
+  city: Milan
+  country: Italy
+  name: Institute of Chemical Sciences and Technologies "G.Natta" Consiglio Nazionale
+    delle Ricerche (SCI-TEC)
+  state: ''
+  street: via A. Corti 12
+  zip: '20133'
 srtmu:
   aka:
     - SRTMU
@@ -801,6 +876,7 @@ ufrankfurt:
     - Frankfurt University
     - Goethe-Universität
     - Universität Frankfurt am Main
+    - Johann Wolfgang Goethe-Universität
   city: Frankfurt
   country: Germany
   departments:
@@ -835,12 +911,14 @@ ufrankfurt:
 uhamburg:
   aka:
     - University of Hamburg
+    - Hamburg University
+    - UHH
   city: Hamburg
   country: Germany
   departments:
-    chyn:
+    chn:
       name: Center for Hybrid Nanostructures
-  name: Universitat de Hamburg
+  name: Universität Hamburg
   state: ''
   zip: fixme
 uhouston:
@@ -918,6 +996,43 @@ unisa:
   name: University of Salerno
   state: ''
   zip: '84084'
+uofdayton:
+  aka: []
+  city: Dayton
+  country: USA
+  day: 10
+  month: 1
+  name: University of Dayton
+  state: Ohio
+  updated: '2020-01-10 17:12:54.190176'
+  uuid: 246717b8-b66d-45d3-b62c-594a5fe4d803
+  year: 2020
+  zip: '45469'
+uoferlangen-nuremberg:
+  aka: 
+    - erlangenu
+    - fau
+    - University of Erlangen-Nuremberg
+    - Universität Erlangen-Nürnberg
+  city: Erlangen
+  country: Germany
+  day: 10
+  month: 1
+  name: Friedrich-Alexander-Universität Erlangen-Nürnberg
+  updated: '2020-01-10 18:10:21.189617'
+  uuid: c4210aab-cde7-428b-b1c4-d62bcab401e0
+  year: 2020
+uoftrento:
+  aka:
+    - utrento
+  city: Trento
+  country: Italy
+  day: 10
+  month: 1
+  name: University of Trento
+  updated: '2020-01-10 17:28:15.929580'
+  uuid: bfee0e16-7115-428e-bffb-26edbdba766d
+  year: 2020
 uosijek:
   aka:
     - University of Osijek
@@ -968,7 +1083,7 @@ urome:
   name: University of Rome, 'La Sapienza'
   state: ''
   street: Piazzale Aldo Moro 5
-  zip: 00185
+  zip: '00185'
 utoronto:
   aka:
     - UofT
@@ -1039,7 +1154,7 @@ uwisconsin:
 uwmilwaukee:
   aka:
     - UWM
-  city: Milwauke
+  city: Milwaukee
   country: USA
   departments:
     physics:
@@ -1054,6 +1169,7 @@ vanderbiltu:
     - VanderbiltU
   city: Nashville
   country: USA
+  day: 23
   departments:
     physics:
       name: Department of Physics and Astronomy
@@ -1064,7 +1180,11 @@ vanderbiltu:
         - vinse
         - VINSE
       name: Vanderbilt Institute of Nanoscale Science and Engineering
+  month: Jan
   name: Vanderbilt University
   state: Tennessee
   street: 2201 West End Ave
-  zip: '37235'
+  updated: 2020-01-23
+  uuid: test
+  year: 2020
+  zip: 37235
