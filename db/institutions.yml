@@ -426,6 +426,8 @@ ill:
     - ILL
   city: Grenoble
   country: France
+  departments:
+    users: User Office
   name: Institut Laue Langevin
   state: ''
   street: 71 Avenue des Martyrs
@@ -1025,6 +1027,9 @@ uoferlangen-nuremberg:
 uoftrento:
   aka:
     - utrento
+  departments:
+    civil: Department of Civil, Environmental and Mechanical Engineering
+    meche: Department of Civil, Environmental and Mechanical Engineering
   city: Trento
   country: Italy
   day: 10
