@@ -9904,6 +9904,7 @@ assef;sa20:
     - Soham Banerjee
     - Sungwon Kim
     - Dongjin Kim
+    - Heemin Lee
     - Sunam Kim
     - Jae Hyuk Lee
     - Sang-Youn Park
@@ -9921,21 +9922,22 @@ assef;sa20:
     - Hyunjung Kim
     - Simon J. L. Billinge
     - Ian K. Robinson
-  doi: ''
+  day: 17
+  doi: 10.1126/sciadv.aax2445
   entrytype: article
-  facility: ''
+  facility: xss, palxfel
   grant: fwp17
   journal: Science Adv.
   month: Jan
-  nb: fy19
-  note: To be published
-  number: ''
+  nb: fy20
+  optnote: To be published
+  number: 3
   optannote: ''
   optwwwlanl: ''
-  pages: ''
+  pages: eaax2445
   title: Melt-front Dynamics in Polycrystalline Gold Thin Films
-  url: ''
-  volume: ''
+  url: 'https://advances.sciencemag.org/content/6/3/eaax2445/tab-pdf'
+  volume: 6
   wwwemail: ''
   wwwpub: ''
-  year: '2019'
+  year: '2020'
