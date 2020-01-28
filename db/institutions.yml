@@ -1029,6 +1029,8 @@ uoftrento:
   aka:
     - utrento
   departments:
+    physics:
+      name: Physics and Astronomy
     civil:
       name: Department of Civil, Environmental and Mechanical Engineering
     meche:

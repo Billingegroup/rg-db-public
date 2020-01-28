@@ -933,7 +933,7 @@ rkoch:
       begin_year: 2012
       end_year: 2016
       location: Trento, MI
-      department: Physics and Astronomy
+      department: physics
       degree: PhD in Physics
       other:
         - 'Advisors: Paolo Scardi, Matteo Leoni'
@@ -1252,6 +1252,7 @@ sharouna-mayer:
       group: bg
     - begin_year: 2017
       begin_month: 8
+      department: users
       position: Intern
       organization: ill
       end_year: 2017
