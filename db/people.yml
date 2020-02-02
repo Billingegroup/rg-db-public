@@ -22,6 +22,32 @@ bfrandsen:
       organization: University of California, Berkeley
   name: Ben Frandsen
   position: assistant professor
+bozer:
+  active: true
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2019
+      begin_month: 9
+      degree: MS in Materials Science
+      institution: Columbia University
+    - begin_year: 2015
+      begin_month: 9
+      degree: BA in Operations Research
+      institution: Columbia University
+      end_year: 2019
+      end_month: 5
+  employment:
+    - begin_year: 2020
+      begin_month: 1
+      organization: Columbia University
+      end_year: 2020
+      end_month: 5
+      position: Undergraduate Researcher
+      group: bg
+  name: Berrak Ozer
+  position: Undergraduate Researcher
 chliu:
   active: true
   aka:
@@ -331,6 +357,31 @@ cyshi:
       organization: Abbott Pharmaceuticals
   name: Chenyang Shi
   position: Scientist
+dyano:
+  active: true
+  aka:
+    - Daniela Hikari Yano
+    - Daniela Yano
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2019
+      begin_month: 9
+      degree: BA
+      institution: Barnard College
+      end_year: 2023
+      end_month: 5
+  email: dy2403@barnard.edu
+  employment:
+    - begin_year: 2020
+      begin_month: 1
+      organization: Columbia University
+      end_year: 2020
+      end_month: 5
+      position: Undergraduate Researcher
+      group: bg
+  name: Daniela Hikari Yano
+  position: Undergraduate Researcher
 ebozin:
   active: true
   aka:
@@ -496,7 +547,7 @@ ekjaer:
   active: true
   aka:
     - Emil Kjaer
-  avatar: hold
+  avatar: https://github.com/EmilSkaaning.png
   bio: bio
   education:
     - begin_year: 2019
@@ -933,7 +984,7 @@ rkoch:
       begin_year: 2012
       end_year: 2016
       location: Trento, MI
-      department: Physics and Astronomy
+      department: physics
       degree: PhD in Physics
       other:
         - 'Advisors: Paolo Scardi, Matteo Leoni'
@@ -1252,6 +1303,7 @@ sharouna-mayer:
       group: bg
     - begin_year: 2017
       begin_month: 8
+      department: users
       position: Intern
       organization: ill
       end_year: 2017
@@ -1333,7 +1385,7 @@ syxue:
   name: Shuyue Xue
   position: Researcher
 tcaswell:
-  active: true
+  active: false
   aka:
     - Thomas Alexander Caswell
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y

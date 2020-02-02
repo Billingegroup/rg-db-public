@@ -218,6 +218,50 @@ arine;cej16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/arine_cej16.pdf
   year: '2016'
+assef;sa20:
+  author:
+    - Tadesse A. Assefa
+    - Yue Cao
+    - Soham Banerjee
+    - Sungwon Kim
+    - Dongjin Kim
+    - Heemin Lee
+    - Sunam Kim
+    - Jae Hyuk Lee
+    - Sang-Youn Park
+    - Intae Eom
+    - Jaeku Park
+    - Daewoog Nam
+    - Sangsoo Kim
+    - Sae Hwan Chun
+    - Hyojung Hyun
+    - Kyung Sook Kim
+    - Pavol Juhas
+    - Emil S. Bozin
+    - Ming Lu
+    - Changyong Song
+    - Hyunjung Kim
+    - Simon J. L. Billinge
+    - Ian K. Robinson
+  day: '17'
+  doi: 10.1126/sciadv.aax2445
+  entrytype: article
+  facility: xss, palxfel
+  grant: fwp17
+  journal: Science Adv.
+  month: Jan
+  nb: fy20
+  number: '3'
+  optannote: ''
+  optnote: To be published
+  optwwwlanl: ''
+  pages: eaax2445
+  title: Melt-front Dynamics in Polycrystalline Gold Thin Films
+  url: https://advances.sciencemag.org/content/6/3/eaax2445/tab-pdf
+  volume: '6'
+  wwwemail: ''
+  wwwpub: ''
+  year: '2020'
 aydt;acsami19:
   author:
     - Aydt, Alexander P.
@@ -9899,45 +9943,3 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
-assef;sa20:
-  author:
-    - Tadesse A. Assefa
-    - Yue Cao
-    - Soham Banerjee
-    - Sungwon Kim
-    - Dongjin Kim
-    - Sunam Kim
-    - Jae Hyuk Lee
-    - Sang-Youn Park
-    - Intae Eom
-    - Jaeku Park
-    - Daewoog Nam
-    - Sangsoo Kim
-    - Sae Hwan Chun
-    - Hyojung Hyun
-    - Kyung Sook Kim
-    - Pavol Juhas
-    - Emil S. Bozin
-    - Ming Lu
-    - Changyong Song
-    - Hyunjung Kim
-    - Simon J. L. Billinge
-    - Ian K. Robinson
-  doi: ''
-  entrytype: article
-  facility: ''
-  grant: fwp17
-  journal: Science Adv.
-  month: Jan
-  nb: fy19
-  note: To be published
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
-  title: Melt-front Dynamics in Polycrystalline Gold Thin Films
-  url: ''
-  volume: ''
-  wwwemail: ''
-  wwwpub: ''
-  year: '2019'

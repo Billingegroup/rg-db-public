@@ -9,15 +9,6 @@ aarhusu:
   name: Aarhus University
   state: ''
   zip: ''
-ufederaldoabc:
-  aka:
-    - UFABC
-    - Federal University of ABC
-  city: Santo André
-  country: Brazil
-  name: Universidade Federal do ABC
-  state: ''
-  zip: ''
 addisababau:
   aka:
     - University College of Addis Ababa
@@ -426,6 +417,9 @@ ill:
     - ILL
   city: Grenoble
   country: France
+  departments:
+    users:
+      name: User Office
   name: Institut Laue Langevin
   state: ''
   street: 71 Avenue des Martyrs
@@ -870,6 +864,15 @@ uduisburgessen:
   state: North Rhine-Westphalia
   street: Universitaetsstrasse 7
   zip: '45117'
+ufederaldoabc:
+  aka:
+    - UFABC
+    - Federal University of ABC
+  city: Santo André
+  country: Brazil
+  name: Universidade Federal do ABC
+  state: ''
+  zip: ''
 ufrankfurt:
   aka:
     - University of Frankfurt
@@ -1009,7 +1012,7 @@ uofdayton:
   year: 2020
   zip: '45469'
 uoferlangen-nuremberg:
-  aka: 
+  aka:
     - erlangenu
     - fau
     - University of Erlangen-Nuremberg
@@ -1028,6 +1031,13 @@ uoftrento:
   city: Trento
   country: Italy
   day: 10
+  departments:
+    physics:
+      name: Physics and Astronomy
+    civil:
+      name: Department of Civil, Environmental and Mechanical Engineering
+    meche:
+      name: Department of Civil, Environmental and Mechanical Engineering
   month: 1
   name: University of Trento
   updated: '2020-01-10 17:28:15.929580'
