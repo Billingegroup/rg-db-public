@@ -368,7 +368,7 @@ dyano:
     - begin_year: 2019
       begin_month: 9
       degree: BA
-      institution: Columbia University
+      institution: Barnard College
       end_year: 2023
       end_month: 5
   email: dy2403@barnard.edu
@@ -380,10 +380,8 @@ dyano:
       end_month: 5
       position: Undergraduate Researcher
       group: bg
-  institution: barnard
   name: Daniela Hikari Yano
   position: Undergraduate Researcher
-  year: 2020
 ebozin:
   active: true
   aka:
