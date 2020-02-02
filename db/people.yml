@@ -901,6 +901,28 @@ nthomas:
       group: bg
   name: Nonie Thomas
   position: Undergraduate Researcher
+nthomas:
+  active: true
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2016
+      begin_month: 9
+      degree: BA in Applied Math
+      institution: Columbia University
+      end_year: 2020
+      end_month: 5
+  employment:
+    - begin_year: 2020
+      begin_month: 1
+      organization: Columbia University
+      end_year: 2020
+      end_month: 5
+      position: Undergraduate Researcher
+      group: bg
+  name: Nonie Thomas
+  position: Undergraduate Researcher
 pjuhas:
   active: false
   aka:
@@ -1387,7 +1409,7 @@ syxue:
   name: Shuyue Xue
   position: Researcher
 tcaswell:
-  active: true
+  active: false
   aka:
     - Thomas Alexander Caswell
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
