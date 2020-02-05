@@ -49,7 +49,7 @@ bozer:
   name: Berrak Ozer
   position: Undergraduate Researcher
 chliu:
-  active: true
+  active: false
   aka:
     - Timothy Liu
     - Tim Liu
@@ -1498,10 +1498,10 @@ xyun:
   position: Graduate Student
 yrakita:
   active: true
+  bio: bio
   aka:
     - Yevgeny Rakita
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  avatar: https://www.gitbub.com/yevgeny.png
   education:
     - begin_year: 2014
       degree: PhD
