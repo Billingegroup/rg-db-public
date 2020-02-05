@@ -820,8 +820,8 @@ billi;b;itoch18:
   author:
     - Billinge, S. J. L.
   booktitle: International Tables of Crystallography
-  doi: 10.1107/97809553602060000972
   chapter: '5.7'
+  doi: 10.1107/97809553602060000972
   editor: Gilmore, Christopher and Kaduk, James and Schenk, Henk
   entrytype: inproceedings
   facility: ' '
@@ -3277,8 +3277,8 @@ dinne;b;itoch18:
     - Dinnebier, Robert E.
     - Billinge, Simon J. L.
   booktitle: International Tables of Crystallography
-  doi: 10.1107/97809553602060000935
   chapter: '1.1'
+  doi: 10.1107/97809553602060000935
   editor: Gilmore, Christopher and Kaduk, James and Schenk, Henk
   entrytype: inproceedings
   facility: ' '
@@ -3289,7 +3289,7 @@ dinne;b;itoch18:
   optwwwpub: ''
   pages: 2-23
   publisher: International Union of Crystallography
-  title: 'Overview and principles of powder diffraction'
+  title: Overview and principles of powder diffraction
   url: https://it.iucr.org/Ha/ch1o1v0001/
   volume: H
   wwwemail: sb2896@columbia.edu
