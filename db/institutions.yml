@@ -13,6 +13,7 @@ abbottpharmaceuticals:
   aka: []
   city: Chicago
   country: USA
+  departments: {}
   name: Abbott Pharmaceuticals
   state: IL
   updated: 2020-01-04 16:41:47.790527
@@ -612,7 +613,10 @@ missing:
   aka: []
   city: missing
   country: missing
-  name: Missing
+  departments: {}
+  name: missing
+  state: ''
+  zip: ''
 mpi:
   aka:
     - Max Planck
@@ -811,6 +815,7 @@ psi:
     - Paul Scherrer Institute, Switzerland
   city: Villigen
   country: Switzerland
+  departments: {}
   name: Paul Scherrer Institute
   state: ''
   zip: ''
