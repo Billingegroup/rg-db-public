@@ -939,6 +939,9 @@ uillinoischampaign:
     - uiuc
   city: champaign
   country: usa
+  departments:
+    matsci:
+      name: Department of Materials Science and Engineering
   day: 7
   month: 2
   name: uillinoischampaign
