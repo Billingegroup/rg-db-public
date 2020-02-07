@@ -424,6 +424,19 @@ ill:
   state: ''
   street: 71 Avenue des Martyrs
   zip: '38000'
+internationalcentrefordiffractiondata:
+  aka:
+    - ICDD
+  city: Newtown Township
+  country: USA
+  day: 7
+  month: 2
+  name: International Centre For Diffraction Data
+  state: Philadelphia
+  updated: 2020-02-07 16:37:40.763311
+  uuid: 64d3043d-df1c-4d20-97a1-718cf93fc369
+  year: 2020
+  zip: '19073'
 kentstateu:
   aka:
     - kent state
@@ -482,6 +495,32 @@ lehighu:
   name: Lehigh University
   state: PA
   zip: '18015'
+losalamosnationallaboratory:
+  aka:
+    - LANL
+  city: Los Alamos
+  country: USA
+  day: 7
+  month: 2
+  name: Los Alamos National Laboratory
+  state: New Mexico
+  updated: 2020-02-07 16:33:04.900594
+  uuid: a95d6075-d238-4611-afe5-d05520d8280e
+  year: 2020
+  zip: '87545'
+losalamosneutronsciencecenter:
+  aka:
+    - LANSCE
+  city: Los Alamos
+  country: USA
+  day: 7
+  month: 2
+  name: Los Alamos Neutron Science Center
+  state: New Mexico
+  updated: 2020-02-07 16:34:41.721556
+  uuid: f98a70bf-ace6-42da-90bd-9a931bdf5843
+  year: 2020
+  zip: '87544'
 mpi:
   aka:
     - Max Planck
