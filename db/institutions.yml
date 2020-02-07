@@ -31,6 +31,7 @@ advancedphotonsource:
     - APS
   city: Woodridge
   country: USA
+  departments:
   day: 7
   month: 2
   name: Advanced Photon Source
@@ -323,17 +324,6 @@ ethzurich:
   state: ''
   street: Wolfgang-Pauli-Strasse 27
   zip: CH-8093
-europeansynchrotronradiationfacility:
-  aka:
-    - ESRF
-  city: Grenoble
-  country: France
-  day: 7
-  month: 2
-  name: European Synchrotron Radiation Facility
-  updated: 2020-02-07 16:17:34.536858
-  uuid: 82f6510f-046b-4f94-8b7e-dd1ba8e282a9
-  year: 2020
 fau:
   aka:
     - FAU
@@ -738,6 +728,7 @@ spallationneutronsource:
     - SNS
   city: Oak Ridge
   country: USA
+  departments:
   day: 7
   month: 2
   name: Spallation Neutron Source
