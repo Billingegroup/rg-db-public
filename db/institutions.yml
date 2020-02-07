@@ -26,6 +26,19 @@ addisababau:
       name: College of Natural Science
   state: ''
   zip: ''
+advancedphotonsource:
+  aka:
+    - APS
+  city: Woodridge
+  country: USA
+  day: 7
+  month: 2
+  name: Advanced Photon Source
+  state: Illinois
+  updated: 2020-02-07 16:17:57.305042
+  uuid: 51b8da30-3db2-4eb6-ab3a-ac3166334d3e
+  year: 2020
+  zip: '60439'
 anl:
   aka:
     - ANL
@@ -310,6 +323,17 @@ ethzurich:
   state: ''
   street: Wolfgang-Pauli-Strasse 27
   zip: CH-8093
+europeansynchrotronradiationfacility:
+  aka:
+    - ESRF
+  city: Grenoble
+  country: France
+  day: 7
+  month: 2
+  name: European Synchrotron Radiation Facility
+  updated: 2020-02-07 16:17:34.536858
+  uuid: 82f6510f-046b-4f94-8b7e-dd1ba8e282a9
+  year: 2020
 fau:
   aka:
     - FAU
@@ -709,6 +733,19 @@ sci-tec:
   state: ''
   street: via A. Corti 12
   zip: '20133'
+spallationneutronsource:
+  aka:
+    - SNS
+  city: Oak Ridge
+  country: USA
+  day: 7
+  month: 2
+  name: Spallation Neutron Source
+  state: Tennessee
+  updated: 2020-02-07 16:17:45.398130
+  uuid: 8e7cf53d-c0e0-421a-b990-cb5b36eacb92
+  year: 2020
+  zip: '37830'
 srtmu:
   aka:
     - SRTMU
