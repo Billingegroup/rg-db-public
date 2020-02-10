@@ -26,20 +26,6 @@ addisababau:
       name: College of Natural Science
   state: ''
   zip: ''
-aps:
-  aka:
-    - APS
-  city: Woodridge
-  country: USA
-  departments: {}
-  day: 7
-  month: 2
-  name: Advanced Photon Source
-  state: Illinois
-  updated: 2020-02-07 16:17:57.305042
-  uuid: 51b8da30-3db2-4eb6-ab3a-ac3166334d3e
-  year: 2020
-  zip: '60439'
 anl:
   aka:
     - ANL
