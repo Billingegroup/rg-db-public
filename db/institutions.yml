@@ -26,7 +26,7 @@ addisababau:
       name: College of Natural Science
   state: ''
   zip: ''
-advancedphotonsource:
+aps:
   aka:
     - APS
   city: Woodridge
@@ -444,7 +444,7 @@ kentstateu:
     - KSU
   city: Kent
   country: USA
-  departments:
+  departments: {}
     physics:
       aka:
         - Physics
@@ -723,12 +723,12 @@ sci-tec:
   state: ''
   street: via A. Corti 12
   zip: '20133'
-spallationneutronsource:
+sns:
   aka:
     - SNS
   city: Oak Ridge
   country: USA
-  departments:
+  departments: {}
   day: 7
   month: 2
   name: Spallation Neutron Source
