@@ -31,7 +31,7 @@ aps:
     - APS
   city: Woodridge
   country: USA
-  departments:
+  departments: {}
   day: 7
   month: 2
   name: Advanced Photon Source
@@ -444,7 +444,7 @@ kentstateu:
     - KSU
   city: Kent
   country: USA
-  departments: {}
+  departments:
     physics:
       aka:
         - Physics
