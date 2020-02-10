@@ -424,7 +424,7 @@ ill:
   state: ''
   street: 71 Avenue des Martyrs
   zip: '38000'
-internationalcentrefordiffractiondata:
+icdd:
   aka:
     - ICDD
   city: Newtown Township
@@ -465,6 +465,8 @@ lanl:
   city: Los Alamos
   country: USA
   departments:
+    lansce:
+      name: Los Alamos Neutron Science Center
     mst:
       name: Materials Science and Technology Division
   name: Los Alamos National Laboratory
@@ -495,32 +497,6 @@ lehighu:
   name: Lehigh University
   state: PA
   zip: '18015'
-losalamosnationallaboratory:
-  aka:
-    - LANL
-  city: Los Alamos
-  country: USA
-  day: 7
-  month: 2
-  name: Los Alamos National Laboratory
-  state: New Mexico
-  updated: 2020-02-07 16:33:04.900594
-  uuid: a95d6075-d238-4611-afe5-d05520d8280e
-  year: 2020
-  zip: '87545'
-losalamosneutronsciencecenter:
-  aka:
-    - LANSCE
-  city: Los Alamos
-  country: USA
-  day: 7
-  month: 2
-  name: Los Alamos Neutron Science Center
-  state: New Mexico
-  updated: 2020-02-07 16:34:41.721556
-  uuid: f98a70bf-ace6-42da-90bd-9a931bdf5843
-  year: 2020
-  zip: '87544'
 mpi:
   aka:
     - Max Planck
