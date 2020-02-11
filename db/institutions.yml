@@ -424,6 +424,19 @@ ill:
   state: ''
   street: 71 Avenue des Martyrs
   zip: '38000'
+icdd:
+  aka:
+    - ICDD
+  city: Newtown Township
+  country: USA
+  day: 7
+  month: 2
+  name: International Centre For Diffraction Data
+  state: Philadelphia
+  updated: 2020-02-07 16:37:40.763311
+  uuid: 64d3043d-df1c-4d20-97a1-718cf93fc369
+  year: 2020
+  zip: '19073'
 kentstateu:
   aka:
     - kent state
@@ -452,6 +465,8 @@ lanl:
   city: Los Alamos
   country: USA
   departments:
+    lansce:
+      name: Los Alamos Neutron Science Center
     mst:
       name: Materials Science and Technology Division
   name: Los Alamos National Laboratory
