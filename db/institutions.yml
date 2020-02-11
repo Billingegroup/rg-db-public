@@ -412,18 +412,6 @@ iccnrcomo:
   name: Istituto di Cristallographia, CNR
   state: ''
   zip: ''
-ill:
-  aka:
-    - ILL
-  city: Grenoble
-  country: France
-  departments:
-    users:
-      name: User Office
-  name: Institut Laue Langevin
-  state: ''
-  street: 71 Avenue des Martyrs
-  zip: '38000'
 icdd:
   aka:
     - ICDD
@@ -437,6 +425,18 @@ icdd:
   uuid: 64d3043d-df1c-4d20-97a1-718cf93fc369
   year: 2020
   zip: '19073'
+ill:
+  aka:
+    - ILL
+  city: Grenoble
+  country: France
+  departments:
+    users:
+      name: User Office
+  name: Institut Laue Langevin
+  state: ''
+  street: 71 Avenue des Martyrs
+  zip: '38000'
 kentstateu:
   aka:
     - kent state
@@ -729,8 +729,8 @@ sns:
     - SNS
   city: Oak Ridge
   country: USA
-  departments: {}
   day: 7
+  departments: {}
   month: 2
   name: Spallation Neutron Source
   state: Tennessee

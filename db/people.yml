@@ -1498,10 +1498,10 @@ xyun:
   position: Graduate Student
 yrakita:
   active: true
-  bio: bio
   aka:
     - Yevgeny Rakita
   avatar: https://www.gitbub.com/yevgenyr.png
+  bio: bio
   education:
     - begin_year: 2014
       degree: PhD
