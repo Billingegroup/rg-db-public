@@ -709,6 +709,20 @@ sci-tec:
   state: ''
   street: via A. Corti 12
   zip: '20133'
+sns:
+  aka:
+    - SNS
+  city: Oak Ridge
+  country: USA
+  departments: {}
+  day: 7
+  month: 2
+  name: Spallation Neutron Source
+  state: Tennessee
+  updated: 2020-02-07 16:17:45.398130
+  uuid: 8e7cf53d-c0e0-421a-b990-cb5b36eacb92
+  year: 2020
+  zip: '37830'
 srtmu:
   aka:
     - SRTMU
