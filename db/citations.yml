@@ -6356,15 +6356,15 @@ liu;aca19:
   wwwemail: ''
   year: '2019'
 liu;jac19:
-  ackno: The work at Columbia University was supported by the National Science Foundation
-    DMREF program under CBET-16929502. X-ray measurements conducted at beamline 11-BM
-    of the National Synchrotron Light Source II, a U.S. Department of Energy (DOE)
-    Office of Science User Facility operated for the DOE Office of Science by Brookhaven
-    National Laboratory was supported under Contract No. DE-SC0012704. Data collected
-    at beamline X17A of the National Synchrotron Light Source which was supported
-    by the DOE-BES under contract No. DE-AC02-98CH10886. P.J. was supported by the
-    New York State BNL Big Data Science Capital Project under the U.S. DOE Contract
-    No. DE-SC0012704. O.G. was supported by the US Department of Energy, Office of
+  ackno: This work was supported by the National Science Foundation DMREF program under 
+    CBET-16929502. X-ray measurements conducted at beamline 11-BM of the National 
+    Synchrotron Light Source II, a U.S. Department of Energy (DOE) Office of Science 
+    User Facility operated for the DOE Office of Science by Brookhaven National 
+    Laboratory was supported under Contract No. DE-SC0012704. Data collected at 
+    beamline X17A of the National Synchrotron Light Source which was supported by 
+    the DOE-BES under contract No. DE-AC02-98CH10886. P. J. was supported by the 
+    New York State BNL Big Data Science Capital Project under the U.S. DOE Contract 
+    No. DE-SC0012704. O.G. was supported by the US Department of Energy, Office of 
     Basic Energy Sciences under the grant No. DE-SC0008772.
   author:
     - Liu, Chia-Hao
@@ -6380,7 +6380,7 @@ liu;jac19:
   facility: ''
   grant: dmrefcheme16
   journal: J. Appl. Crystallogr.
-  month: June
+  month: Nov
   nb: art
   note: arXiv:1910.08186 [cond-mat.mtrl-sci]
   number: ''
