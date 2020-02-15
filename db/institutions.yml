@@ -301,6 +301,7 @@ ethzurich:
   aka:
     - ETH
     - Eidgenössische Technische Hochschule Zürich
+    - eth
   city: Zurich
   country: Switzerland
   departments:
@@ -557,6 +558,11 @@ mcmasteru:
   updated: 2020-02-14 19:38:46.027775
   uuid: bf1b9da0-ab1a-42e9-9f7d-06e80f5e2fc9
   year: 2020
+missing:
+  aka: []
+  city: missing
+  country: missing
+  name: Missing
 mpi:
   aka:
     - Max Planck
@@ -1227,6 +1233,7 @@ upenn:
   aka:
     - Penn
     - U Penn
+    - upennsylvania
   city: Philadelphia
   country: USA
   departments:
