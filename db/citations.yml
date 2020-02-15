@@ -9602,7 +9602,8 @@ yang;aca20:
   entrytype: misc
   facility: nslsii, xpd, sns, nomad, mlnsc, npdf
   grant: dmref15, ornlgo17
-  journal: ''
+  journal: Acta Crystallogr. A
+  month: Feb
   nb: art
   note: arXiv:1905.02677 [cond-mat.mtrl-sci]
   number: ''
