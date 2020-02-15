@@ -412,6 +412,19 @@ iccnrcomo:
   name: Istituto di Cristallographia, CNR
   state: ''
   zip: ''
+icdd:
+  aka:
+    - ICDD
+  city: Delaware County
+  country: USA
+  day: 15
+  month: 2
+  name: icdd
+  state: Pennsylvania
+  updated: 2020-02-15 17:38:11.579024
+  uuid: a9c545cd-a821-45eb-93d0-8c2db9914da7
+  year: 2020
+  zip: '19073'
 ill:
   aka:
     - ILL
@@ -714,8 +727,8 @@ sns:
     - SNS
   city: Oak Ridge
   country: USA
-  departments: {}
   day: 7
+  departments: {}
   month: 2
   name: Spallation Neutron Source
   state: Tennessee
