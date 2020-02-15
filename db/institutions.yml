@@ -462,9 +462,10 @@ instituteofphysicschineseacademyofsciences:
   updated: 2020-02-14 19:36:33.253611
   uuid: 974bd857-25c3-465d-acbe-a841bcdb4eeb
   year: 2020
-japanatomicenergyagency:
+jaea:
   aka:
     - jaea
+  city: Ibaraki
   country: Japan
   day: 14
   month: 2
