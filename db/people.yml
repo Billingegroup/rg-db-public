@@ -1,3 +1,43 @@
+aabeykoon:
+  active: false
+  aka:
+    - A. M. Abeykoon
+    - Abeykoon, A. M. Milinda
+  avatar: https://github.com/benfrandsen.png
+  bio: bio
+  education:
+    - begin_year: 2003
+      begin_month: 6
+      degree: PhD in Physics
+      institution: University of Houston
+      end_year: 2009
+      end_month: 12
+    - begin_year: 2003
+      begin_month: 6
+      degree: MS in Physics
+      institution: University of Houston
+      end_year: 2000
+      end_month: 9
+    - begin_year: 1996
+      begin_month: 9
+      degree: BA in Physics
+      institution: ''
+      end_year: 2000
+      end_month: 5
+  employment:
+    - begin_year: 2013
+      begin_month: 10
+      position: Physicist
+      organization: Brookhaven National Laboratory
+    - begin_year: 2010
+      begin_month: 1
+      end_month: 9
+      end_year: 2013
+      position: Post-doctoral Scholar
+      organization: Brookhaven National Laboratory
+      group: bg
+  name: A. M. Milinda Abeykoon
+  position: Physicist
 bfrandsen:
   active: false
   aka:
@@ -904,6 +944,7 @@ pjuhas:
   aka:
     - Juh\'{a}s, Pavol
     - Juhás, Pavol
+    - Juh\'{a}s, P.
   avatar: https://github.com/pavoljuhas.png
   bio: bio
   education:
@@ -1579,7 +1620,7 @@ zguguchia:
   employment:
     - begin_year: 2018
       begin_month: 6
-      organization: Paul Scherrer Institute, Switzerland
+      organization: Paul Scherrer Institute
       position: Scientist
     - begin_year: 2016
       begin_month: 9
