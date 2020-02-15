@@ -362,6 +362,18 @@ gndu:
   name: Guru Nanak Dev University
   state: Punjab
   zip: ''
+google:
+  aka: []
+  city: New York
+  country: USA
+  day: 14
+  month: 2
+  name: Google
+  state: NY
+  updated: 2020-02-14 19:30:31.244412
+  uuid: 3b9f002f-cdee-41a7-99d5-074cbc6992bd
+  year: 2020
+  zip: '10011'
 gsk:
   aka:
     - Oxford
@@ -412,18 +424,6 @@ iccnrcomo:
   name: Istituto di Cristallographia, CNR
   state: ''
   zip: ''
-ill:
-  aka:
-    - ILL
-  city: Grenoble
-  country: France
-  departments:
-    users:
-      name: User Office
-  name: Institut Laue Langevin
-  state: ''
-  street: 71 Avenue des Martyrs
-  zip: '38000'
 icdd:
   aka:
     - ICDD
@@ -437,6 +437,53 @@ icdd:
   uuid: 64d3043d-df1c-4d20-97a1-718cf93fc369
   year: 2020
   zip: '19073'
+ill:
+  aka:
+    - ILL
+  city: Grenoble
+  country: France
+  departments:
+    users:
+      name: User Office
+  name: Institut Laue Langevin
+  state: ''
+  street: 71 Avenue des Martyrs
+  zip: '38000'
+instituteofphysicschineseacademyofsciences:
+  aka:
+    - IoP-CAS
+    - IoP Chinese Academy of Sciences
+    - IoPCAS
+  city: Beijing
+  country: China
+  day: 14
+  month: 2
+  name: Institute of Physics, Chinese Academy of Sciences
+  updated: 2020-02-14 19:36:33.253611
+  uuid: 974bd857-25c3-465d-acbe-a841bcdb4eeb
+  year: 2020
+japanatomicenergyagency:
+  aka:
+    - jaea
+  country: Japan
+  day: 14
+  month: 2
+  name: Japan Atomic Energy Agency
+  updated: 2020-02-14 19:14:05.971352
+  uuid: e1772b7b-a4ee-43ff-96bf-d723b673b6e2
+  year: 2020
+jülichcentreforneutronscience:
+  aka:
+    - Julich Centre for Neutron Science
+    - JCNS
+  city: Jülich
+  country: Germany
+  day: 14
+  month: 2
+  name: Jülich Centre for Neutron Science
+  updated: 2020-02-14 19:35:03.622668
+  uuid: 5b85b7b6-95dc-4a08-8bd7-abc383af8303
+  year: 2020
 kentstateu:
   aka:
     - kent state
@@ -497,6 +544,18 @@ lehighu:
   name: Lehigh University
   state: PA
   zip: '18015'
+mcmasteru:
+  aka:
+    - mcmasteru
+  city: Hamilton
+  country: Canada
+  day: 14
+  month: 2
+  name: McMaster University
+  state: Ontario
+  updated: 2020-02-14 19:38:46.027775
+  uuid: bf1b9da0-ab1a-42e9-9f7d-06e80f5e2fc9
+  year: 2020
 mpi:
   aka:
     - Max Planck
@@ -638,6 +697,31 @@ oxfordu:
       name: Department of Computer Science
   name: Oxford University
   state: ''
+pacificnorthwestnationallaboratory:
+  aka:
+    - PNNL
+    - pnnl
+  city: Richland
+  country: USA
+  day: 14
+  month: 2
+  name: Pacific Northwest National Laboratory
+  state: WA
+  updated: 2020-02-14 20:01:23.541003
+  uuid: 2afc5352-77fe-49a0-840b-dfb971c0319a
+  year: 2020
+  zip: '99352'
+paulscherrerinstitute:
+  aka:
+    - psi
+    - PSI
+  country: Switzerland
+  day: 14
+  month: 2
+  name: Paul Scherrer Institute
+  updated: 2020-02-14 19:29:10.702242
+  uuid: 5cc933be-dcd2-4289-8c58-51bf01d83c89
+  year: 2020
 pekingu:
   aka:
     - Peking University
@@ -715,6 +799,19 @@ rutgersu:
   name: Rutgers University
   state: NJ
   zip: 08901-1281
+rutherfordappletonlaboratory:
+  aka:
+    - ral
+    - RAL
+  city: Harwell
+  country: UK
+  day: 14
+  month: 2
+  name: Rutherford Appleton Laboratory
+  state: Oxfordshire
+  updated: 2020-02-14 19:55:12.462021
+  uuid: d48cb08d-d9a9-4f86-b12d-5751df57006a
+  year: 2020
 sci-tec:
   aka: []
   city: Milan
@@ -729,8 +826,8 @@ sns:
     - SNS
   city: Oak Ridge
   country: USA
-  departments: {}
   day: 7
+  departments: {}
   month: 2
   name: Spallation Neutron Source
   state: Tennessee
@@ -780,6 +877,20 @@ sunysb:
   state: NY
   street: ''
   zip: '11794'
+theuofbritishcolumbia:
+  aka:
+    - University of British Columbia
+    - UBC
+    - ubc
+  city: Vancouver
+  country: Canada
+  day: 14
+  month: 2
+  name: The University of British Columbia
+  state: BC
+  updated: 2020-02-14 19:40:42.838722
+  uuid: 4562c391-b467-4fbc-9342-4a40150c8405
+  year: 2020
 ubayreuth:
   aka:
     - Bayreuth
@@ -909,6 +1020,7 @@ ufrankfurt:
     - Goethe-Universität
     - Universität Frankfurt am Main
     - Johann Wolfgang Goethe-Universität
+    - Goethe University
   city: Frankfurt
   country: Germany
   departments:
@@ -967,12 +1079,14 @@ uinsubria:
   aka:
     - Universita Insubria
     - uninsubria
+    - Università degli Studi dell'Insubria
+    - University of Insubria
   city: Como
   country: Italy
   departments:
     physics:
       name: Department of Physics
-  name: University of Insubria
+  name: Università degli Studi dell'Insubria
   state: ''
   zip: ''
 uiuc:
@@ -1028,6 +1142,19 @@ unisa:
   name: University of Salerno
   state: ''
   zip: '84084'
+uofcampinas:
+  aka:
+    - State University of Campinas
+    - Universidade Estadual de Campinas
+    - Unicamp
+  city: Campinas
+  country: Brazil
+  day: 14
+  month: 2
+  name: University of Campinas
+  updated: 2020-02-14 19:43:31.364928
+  uuid: ba8d1f8a-9b72-4d0d-bb95-777f546a4833
+  year: 2020
 uofdayton:
   aka: []
   city: Dayton
@@ -1071,6 +1198,17 @@ uoftrento:
   name: University of Trento
   updated: '2020-01-10 17:28:15.929580'
   uuid: bfee0e16-7115-428e-bffb-26edbdba766d
+  year: 2020
+uofzurich:
+  aka:
+    - uzurich
+  city: Zurich
+  country: Switzerland
+  day: 14
+  month: 2
+  name: University of Zurich
+  updated: 2020-02-14 19:32:54.324775
+  uuid: 4f555b1b-2d99-49ed-883d-f5c898965915
   year: 2020
 uosijek:
   aka:
@@ -1227,3 +1365,14 @@ vanderbiltu:
   uuid: test
   year: 2020
   zip: 37235
+zhejiangu:
+  aka:
+    - zhejiangu
+  city: Zhejiang
+  country: China
+  day: 14
+  month: 2
+  name: Zhejiang University
+  updated: 2020-02-14 19:37:28.925621
+  uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
+  year: 2020
