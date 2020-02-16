@@ -731,7 +731,8 @@ paulscherrerinstitute:
   country: Switzerland
   day: 14
   departments:
-    muons: Laboratory for Muon Spin Spectroscopy
+    muons:
+      name: Laboratory for Muon Spin Spectroscopy
   month: 2
   name: Paul Scherrer Institute
   updated: 2020-02-14 19:29:10.702242
