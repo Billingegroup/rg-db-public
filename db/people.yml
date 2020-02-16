@@ -1499,12 +1499,24 @@ xhyang:
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
-    - begin_year: 2011
-      begin_month: 9
+    - begin_year: 2012
+      begin_month: 1
       degree: PhD in Materials Science
       institution: Columbia University
       end_year: 2015
       end_month: 6
+    - begin_year: 2010
+      begin_month: 9
+      degree: Masters in Materials Science
+      institution: Columbia University
+      end_year: 2011
+      end_month: 12
+    - begin_year: 2006
+      begin_month: 9
+      degree: BS in Materials Science
+      institution: Tsinghua University
+      end_year: 2010
+      end_month: 5
   employment:
     - begin_year: 2018
       begin_month: 4
