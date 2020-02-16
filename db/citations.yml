@@ -3292,7 +3292,7 @@ dinne;b;itoch18:
   entrytype: inproceedings
   facility: ' '
   grant: 'fwp17, efrc10, pire '
-  month: ''
+  month: Dec
   nb: ' pdf, chap, '
   optnote: ''
   optwwwlanl: ''
@@ -3971,7 +3971,7 @@ frand;nn16:
   grant: ' fwp14, pire '
   issue: '3'
   journal: Neutron News
-  motnh: Jul
+  month: Jul
   nb: ' fy16, typeA '
   note: ''
   numpages: ''
@@ -8859,6 +8859,7 @@ terba;nan18:
   facility: xpd, nslsii
   grant: mrsec14
   journal: Nanoscale
+  month: Feb
   nb: ''
   note: DOI:10.1039/C7NR07949D
   number: ''
