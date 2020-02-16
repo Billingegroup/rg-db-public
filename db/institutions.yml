@@ -365,12 +365,15 @@ gndu:
   zip: ''
 google:
   aka: []
-  city: New York
+  city: Cupertino
   country: USA
   day: 14
+  departments:
+    nyc: New York City Office
+    sf: Bay Area Office
   month: 2
   name: Google
-  state: NY
+  state: CA
   updated: 2020-02-14 19:30:31.244412
   uuid: 3b9f002f-cdee-41a7-99d5-074cbc6992bd
   year: 2020
@@ -725,6 +728,8 @@ paulscherrerinstitute:
   city: Villigen
   country: Switzerland
   day: 14
+  departments:
+    muons: Laboratory for Muon Spin Spectroscopy
   month: 2
   name: Paul Scherrer Institute
   updated: 2020-02-14 19:29:10.702242

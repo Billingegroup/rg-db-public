@@ -971,8 +971,9 @@ pjuhas:
   employment:
     - begin_year: 2019
       begin_month: 11
-      position: Programmer
+      position: Software Engineer
       organization: Google
+      department: sf
     - begin_year: 2016
       begin_month: 3
       end_year: 2019
@@ -1077,7 +1078,7 @@ rpokratath:
     - begin_year: 2020
       begin_month: 1
       position: Visiting Researcher
-      organization: ucolumbia
+      organization: columbiau
       end_year: 2020
       end_month: 7
       group: bg
@@ -1505,18 +1506,19 @@ xhyang:
       end_year: 2015
       end_month: 6
   employment:
-    - begin_year: 2017
-      begin_month: 6
+    - begin_year: 2018
+      begin_month: 4
       position: Software Engineer
       organization: Google
+      department: nyc
     - begin_year: 2015
-      begin_month: 6
-      position: Programmer
+      begin_month: 8
+      position: Associate
       organization: JP Morgan Chase
-      end_month: 6
-      end_year: 2017
+      end_month: 4
+      end_year: 2018
   name: XiaoHao Yang
-  position: Software Developer
+  position: Software Engineer
 xyun:
   active: false
   aka:
@@ -1629,6 +1631,7 @@ zguguchia:
     - begin_year: 2018
       begin_month: 6
       organization: Paul Scherrer Institute
+      department: muons
       position: Scientist
     - begin_year: 2016
       begin_month: 9
