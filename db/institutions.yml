@@ -1433,7 +1433,6 @@ utokyo:
   aka:
     - The University of Tokyo
   name: University of Tokyo
-  departments:
   city: Tokyo
   country: Japan
 icmm:
@@ -1441,13 +1440,10 @@ icmm:
     - Materials Science Institute of Madrid
     - Institute of Materials Science of Madrid
   name: Instituto de Ciencia de Materiales de Madrid
-  departments:
   city: Madrid
   country: Spain
 kyotou:
-  aka:
   name: Kyoto University
-  departments:
   city: Kyoto
   country: Japan
 ucla:
