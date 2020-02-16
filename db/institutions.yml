@@ -1429,3 +1429,39 @@ uwarwick:
   city: Coventry
   country: England
   name: University of Warwick
+icl:
+  aka:
+    - Imperial College
+  name: Imperial College London
+  city: London
+  country: England
+umanchester:
+  aka:
+    - University of Manchester
+  name: The University of Manchester
+  city: Machester
+  country: England
+atladevices:
+  name: Alta Devices
+  city: Sunnyvale
+  country: USA
+  zip: 94085
+  state: California
+mckinseyswitzerland:
+  aka:
+    - McKinsey & Company, Geneva
+  name: McKinsey & Company, Inc. Switzerland
+  city: Genova
+  country: Switzerland
+desy:
+  name: Deutsches Elektronen Synchrotron
+  departments:
+    - PETRA III
+    - CFEL
+    - FLASH
+  city: Hamburg
+  country: Deutschland
+tbilisistateu:
+  name: Ivane Javakhishvili Tbilisi State University
+  city: Tbilisi
+  country: Georgia
