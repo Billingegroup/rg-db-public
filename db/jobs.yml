@@ -1,0 +1,36 @@
+ugmr:
+  background_fields:
+    - No particular experience required but a keen interest in using, or learning
+      to use, computers to analyze data to answer interesting scientific questions.
+      Experience in coding in python is a plus as is any experience with data analysis,
+      including AI, and machine learning.
+  compensation:
+    - Unpaid
+    - 'Please see here for fellowship opportunities for Columbia/Barnard students:
+      https://studentresearch.engineering.columbia.edu/research-projects'
+    - 'And here for more fellowship opportunities more broadly: https://studentresearch.engineering.columbia.edu/content/research-opportunities'
+  contact: Please respondsend CV or resume to Prof. Simon Billinge at sb2896ATcolumbia.edu.
+  day: 1
+  description: We love having undergraduate researchers in our lab! There are multiple
+    opportunities in the group for summer or semester-time research to learn how to
+    understand atomic arrangements on the nanoscale (a billionth of a meter) and the
+    relationship of these to properties of those materials.  In the group we study
+    a wide range of materials, from the applied (HIV pharmaceuticals) to the pure
+    science (understanding novel magnetic and superconducting properties of exotic
+    quantum materials with no known applications).  Depending on your interests there
+    are likely to be various options available to work on.  What all the projects
+    have in common is the use of computers to carry out advanced data analysis.  No
+    prior experience is required for these positions, but for success it is necessary
+    that you have an interest in learning how to use advanced computing, including
+    for example, machine learning, AI and other statistical methods to answer real
+    scientific questions.  Experience in these areas, and in programming in Python,
+    is even better.
+  month: Jan
+  open: true
+  positions:
+    - Undergraduate research
+    - Masters research
+  start_date: Rolling
+  title: Local structure of nanomaterials from analysis of advanced x-ray, neutron
+    and electron diffraction data
+  year: 2020
