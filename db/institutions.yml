@@ -1456,9 +1456,12 @@ mckinseyswitzerland:
 desy:
   name: Deutsches Elektronen Synchrotron
   departments:
-    - PETRA III
-    - CFEL
-    - FLASH
+    petra:
+      name: PETRA III
+    cfel:
+      name: Center for Free-Electron Laser Science
+    flash:
+      name: Free electron laser FLASH
   city: Hamburg
   country: Deutschland
 tbilisistateu:
