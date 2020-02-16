@@ -278,6 +278,7 @@ aydt;acsami19:
   facility: nslsii, xpd
   grant: mrsec14
   journal: ACS Appl. Mater. Interfaces
+  month: Mar
   nb: art
   note: ''
   number: '12'
@@ -613,6 +614,7 @@ berto;acsn17:
   facility: ' xpd, nslsii, fy17'
   grant: 'fwp17 '
   journal: ACS Nano.
+  month: April
   nb: typeB2, fy17
   note: ''
   number: ''
@@ -645,6 +647,7 @@ berto;c218:
   facility: ' xpd, nslsii'
   grant: 'mrsec14 '
   journal: Chem2
+  month: Feb
   nb: ''
   note: DOI:10.28954/2018.csq.02.001
   number: '1'
@@ -695,6 +698,7 @@ billi;4or18:
   facility: '  '
   grant: ' dmref15 '
   journal: Ann. Oper. Res.
+  month: Dec
   nb: ' art, '
   number: '1'
   optannote: ''
@@ -828,6 +832,7 @@ billi;b;itoch18:
   entrytype: inproceedings
   facility: ' '
   grant: 'fwp17 '
+  month: Sep
   nb: ' pdf, chap, typeA,  '
   note: ''
   optwwwlanl: http://www.pa.msu.edu/cmp/billinge-group/papers/
@@ -3287,6 +3292,7 @@ dinne;b;itoch18:
   entrytype: inproceedings
   facility: ' '
   grant: 'fwp17, efrc10, pire '
+  month: ' '
   nb: ' pdf, chap, '
   optnote: ''
   optwwwlanl: ''
@@ -4082,6 +4088,7 @@ frand;prm17:
   facility: ' sns, nomad, ill, d7, fy17 '
   grant: ' fwp17, highlight '
   journal: Phys. Rev. Materials
+  month: Dec
   nb: ' typeA,  fy17 '
   note: Selected as Editor's Choice
   number: ''
@@ -4139,6 +4146,7 @@ gamez;jac17:
   facility: ' 11idb, aps'
   grant: dmref15
   journal: J. Appl. Crystallogr.
+  month: April
   nb: 'srfit, '
   note: ''
   number: '3'
@@ -4599,6 +4607,7 @@ guguc;nc17:
   facility: smus, xpd, nslsii, fy17
   grant: fwp17
   journal: Nat. Commun.
+  month: Jan
   nb: typeB2, fy17
   number: ''
   optannote: ''
@@ -4665,6 +4674,7 @@ guguc;prb17:
   facility: snap, sns, fy17
   grant: fwp17
   journal: Phys. Rev. B
+  month: Sep
   nb: typeA, fy17
   note: ''
   number: ''
@@ -5840,6 +5850,7 @@ laved;jmca17:
   facility: ' isis, polaris '
   grant: ' fwp7, fy18 '
   journal: J. Mater. Chem. A
+  month: Dec
   nb: fy18, typeB2
   note: ''
   number: ''
@@ -6245,6 +6256,7 @@ li;jce18:
   facility: ''
   grant: juami15
   journal: J. Chem. Educ.
+  month: Sep
   nb: art
   number: ''
   optannote: ''
@@ -6280,6 +6292,7 @@ li;npjqm17:
   facility: nslsii, xpd, fy17
   grant: 'fwp17 '
   journal: npj Quantum Mater.
+  month: Feb
   nb: art, typeB1, fy17
   note: ''
   number: ''
@@ -6455,6 +6468,7 @@ lombardi;cm19:
   facility: xpd, nslsii
   grant: mrsec14
   journal: Chem. Mater.
+  month: Jan
   nb: art
   note: ''
   number: '4'
@@ -6739,6 +6753,7 @@ morro;jfeng18:
   facility: nslsii, xpd
   grant: mrsec14
   journal: J. Food Eng.
+  month: Feb
   nb: ''
   number: ''
   optannote: ''
@@ -6763,6 +6778,7 @@ nakam;jmchema17:
   facility: nslsii, xpd, fy17
   grant: fwp17
   journal: J. Mater. Chem. A
+  month: Aug
   nb: ' typeB2, fy17'
   number: '35'
   optannote: ''
@@ -8809,6 +8825,7 @@ terba;nan15:
   facility: esrf, id15
   grant: ' efrc10, ldrd12 '
   journal: Nanoscale
+  month: Feb
   nb: art, highlight, fy15
   note: ''
   number: ''
@@ -9389,6 +9406,7 @@ wesle;acscat18:
   facility: nslsii, xpd
   grant: mrsec14
   journal: J. Am. Chem. Soc.
+  month: Dec
   nb: ''
   note: ''
   number: ''
@@ -9480,6 +9498,7 @@ xiao;afm19:
   facility: xpd, nslsii
   grant: mrsec14
   journal: Adv. Funct. Mater.
+  month: March
   nb: art
   note: ''
   number: ''
@@ -9511,6 +9530,7 @@ xiao;am19:
   facility: ' xpd, nslsii '
   grant: ' mrsec14 '
   journal: Adv. Mater.
+  month: June
   nb: ' art '
   note: To be published
   number: ''
@@ -9604,6 +9624,7 @@ yang;aca19:
   facility: nslsii, xpd, sns, nomad, mlnsc, npdf
   grant: dmref15, ornlgo17
   journal: ''
+  month: May
   nb: art
   note: arXiv:1905.02677 [cond-mat.mtrl-sci]
   number: ''
