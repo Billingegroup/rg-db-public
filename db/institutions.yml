@@ -369,8 +369,10 @@ google:
   country: USA
   day: 14
   departments:
-    nyc: New York City Office
-    sf: Bay Area Office
+    nyc:
+      name: New York City Office
+    sf:
+      name: Bay Area Office
   month: 2
   name: Google
   state: CA
