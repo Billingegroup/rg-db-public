@@ -134,6 +134,7 @@ anaso;nh16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/c5nh00125k.pdf
   year: '2016'
+  month: Feb
 andon;c;tacolt:
   address: Amsterdam, Netherlands
   author:
@@ -509,6 +510,7 @@ beech;acsel16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/16beecheracsel.pdf
   year: '2016'
+  month: Sep
 beech;jacs14:
   author:
     - Beecher, Alexander N.
@@ -2221,6 +2223,7 @@ bozin;nn16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/bozin_nn16.pdf
   year: '2016'
+  month: Jul
 bozin;pb06:
   author:
     - Bo\v{z}in, E. S.
@@ -2913,6 +2916,7 @@ choi;nan16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/16choinano.pdf
   year: '2016'
+  month: Mar
 choi;nl14:
   author:
     - Choi, Joshua J.
@@ -3341,6 +3345,7 @@ dippe;aca16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/ib5042.pdf
   year: '2016'
+  month: Nov
 doann;acsn14:
   author:
     - Doan-Nguyen, Vicky V. T.
@@ -3394,6 +3399,7 @@ duxbu;4or16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/16billi4OR.pdf
   year: '2016'
+  month: Dec
 duxbu;asilomar16:
   address: ''
   annote: ''
@@ -3423,6 +3429,7 @@ duxbu;asilomar16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/duxbu_asilomar16.pdf
   year: '2016'
+  month: Mar
 duxbu;dam16:
   author:
     - Duxbury, P. M.
@@ -3447,6 +3454,7 @@ duxbu;dam16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/16duxbudam.pdf
   year: '2016'
+  month: May
 dykhn;phmr11:
   author:
     - Dykhne, Timur
@@ -3947,6 +3955,7 @@ frand;nc16:
   wwwlanl: http://www.nature.com/articles/ncomms12519
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/16frandsnc.pdf
   year: '2016'
+  month: Aug
 frand;nn16:
   author:
     - Frandsen, Benjamin A.
@@ -3970,6 +3979,7 @@ frand;nn16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/frandsen_nn16.pdf
   year: '2016'
+  motnh: Jul
 frand;prb15:
   author:
     - Frandsen, Benjamin A.
@@ -4028,6 +4038,7 @@ frand;prb16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/PhysRevB.94.094102.pdf
   year: '2016'
+  month: Sep
 frand;prl16:
   author:
     - Frandsen, Benjamin A.
@@ -4625,11 +4636,12 @@ guguc;prb16:
   pages: '214511'
   title: 'Cooperative coupling of static magnetism and bulk superconductivity in the
     stripe phase of {La$_{2-x}$Ba$_x$CuO$_4$}: Pressure- and doping-dependent studies'
-  url: https://doi-org/10.1103/PhysRevB.94.214511
+  url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.214511
   volume: '94'
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/16gugucprb.pdf
   year: '2016'
+  month: Dec
 guguc;prb17:
   author:
     - Guguchia, Z.
@@ -5168,6 +5180,7 @@ jense;nc16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/16jensennc
   year: '2016'
+  month: Jun
 jense;prb12:
   author:
     - Jensen, Kirsten M. {\O}.
@@ -6712,6 +6725,7 @@ miao;s16:
   wwwemail: ''
   wwwlanl: http://science.sciencemag.org/content/353/6306/aaf2157
   year: '2016'
+  month: Sep
 morro;jfeng18:
   author:
     - Morrow, Elizabeth A.
@@ -8235,6 +8249,7 @@ scard;aca16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/me0628.pdf
   year: '2016'
+  month: Nov
 schmi;jpcm03:
   author:
     - Schmidt, M.
@@ -8392,6 +8407,7 @@ shatn;prb16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/Shatnawi_PRB16.pdf
   year: '2016'
+  month: Apr
 shatna;phdt;07:
   author:
     - Shatnawi, Mouath Ghazi
@@ -8707,6 +8723,7 @@ stein;cm17:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/stein_cm2017.pdf
   year: '2017'
+  month: Aug
 terba;cgd15:
   author:
     - Terban, Maxwell W.
@@ -8756,6 +8773,7 @@ terba;ic17:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/terba_ic2017.pdf
   year: '2017'
+  month: Jul
 terba;macm16:
   author:
     - Terban, Maxwell W.
@@ -8780,6 +8798,7 @@ terba;macm16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/terba_macm16.pdf
   year: '2016'
+  month: Sep
 terba;nan15:
   author:
     - Terban, Maxwell W.
@@ -9167,6 +9186,7 @@ urban;nan17:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/urban_nan17.pdf
   year: '2017'
+  month: Nov
 vasic;jpcc13:
   author:
     - '{Vucinic-Vasic}, M.'
