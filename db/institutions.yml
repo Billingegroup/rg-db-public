@@ -1083,6 +1083,22 @@ uhouston:
   name: University of Houston
   state: TX
   zip: fixme
+uillinoischampaign:
+  aka:
+    - uiuc
+  city: champaign
+  country: usa
+  departments:
+    matsci:
+      name: Department of Materials Science and Engineering
+  day: 7
+  month: 2
+  name: uillinoischampaign
+  state: IL
+  updated: 2020-02-07 14:59:22.135702
+  uuid: f03e902b-b7bf-48dd-83a2-f5aa6bf9fa3f
+  year: 2020
+  zip: '61820'
 uinsubria:
   aka:
     - Universita Insubria
