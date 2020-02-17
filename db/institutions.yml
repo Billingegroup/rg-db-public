@@ -1088,10 +1088,10 @@ uillinoischampaign:
     - uiuc
   city: champaign
   country: usa
+  day: 7
   departments:
     matsci:
       name: Department of Materials Science and Engineering
-  day: 7
   month: 2
   name: uillinoischampaign
   state: IL

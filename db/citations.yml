@@ -9613,24 +9613,24 @@ xu;prb16:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/xu_prb16.pdf
   year: '2016'
 yang;aca20:
-  ackno: The authors thank Emil S. Bo\v{z}in and Cedomir Petrovic for sharing their unpublished
-    Ti4O7 and published CuIr2S4 x-ray experimental data, and thank Benjamin A. Frandsen
-    for sharing his published Ba0.8K0.2(Zn0.85Mn0.15)2As2 and MnO neutron experimental
-    data. Work in the S.J.L.B. group was supported by the U.S. National Science Foundation
-    through grant DMREF-1534910. L.Y. and M.G.T. acknowledge support from the ORNL Graduate
-    Opportunity (GO) program, which was funded by the Neutron science directorate, with
-    support from the Scientific User Facilities Division, Office of Basic Energy Science,
-    U.S. Department of Energy (DOE). P.J. was supported by the New York State BNL Big Data
-    Science Capital Project under the U.S. DOE Contract No. DE-SC0012704. M.W.T. gratefully
-    acknowledges support from BASF. X-ray PDF measurements were conducted on beamline
-    28-ID-2 of the National Synchrotron Light Source II, a U.S. DOE Office of Science
-    User Facility operated for the DOE Office of Science by Brookhaven National Laboratory
-    under Contract No. DE-SC0012704. Use of the NOMAD beamline of the Spallation Neutron
-    Source, Oak Ridge National Laboratory, was sponsored by the Scientific User Facilities
-    Division, Office of Basic Energy Science, U.S. DOE. Use of the NPDF beamline at LANSCE
-    was funded by the Office of Basic Energy Science, U.S. DOE. Los Alamos National
-    Laboratory is operated by Los Alamos National Security LLC under DOE Contract
-    No. DE-AC52-06NA25396.
+  ackno: The authors thank Emil S. Bo\v{z}in and Cedomir Petrovic for sharing their
+    unpublished Ti4O7 and published CuIr2S4 x-ray experimental data, and thank Benjamin
+    A. Frandsen for sharing his published Ba0.8K0.2(Zn0.85Mn0.15)2As2 and MnO neutron
+    experimental data. Work in the S.J.L.B. group was supported by the U.S. National
+    Science Foundation through grant DMREF-1534910. L.Y. and M.G.T. acknowledge support
+    from the ORNL Graduate Opportunity (GO) program, which was funded by the Neutron
+    science directorate, with support from the Scientific User Facilities Division,
+    Office of Basic Energy Science, U.S. Department of Energy (DOE). P.J. was supported
+    by the New York State BNL Big Data Science Capital Project under the U.S. DOE
+    Contract No. DE-SC0012704. M.W.T. gratefully acknowledges support from BASF. X-ray
+    PDF measurements were conducted on beamline 28-ID-2 of the National Synchrotron
+    Light Source II, a U.S. DOE Office of Science User Facility operated for the DOE
+    Office of Science by Brookhaven National Laboratory under Contract No. DE-SC0012704.
+    Use of the NOMAD beamline of the Spallation Neutron Source, Oak Ridge National
+    Laboratory, was sponsored by the Scientific User Facilities Division, Office of
+    Basic Energy Science, U.S. DOE. Use of the NPDF beamline at LANSCE was funded
+    by the Office of Basic Energy Science, U.S. DOE. Los Alamos National Laboratory
+    is operated by Los Alamos National Security LLC under DOE Contract No. DE-AC52-06NA25396.
   author:
     - Yang, Long
     - Juh\'{a}s, Pavol
