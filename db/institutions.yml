@@ -1447,10 +1447,8 @@ kyotou:
   city: Kyoto
   country: Japan
 ucla:
-  aka:
-    - University of California, Los Anglelos
-  name: University of California
-  city: Los Angelos
+  name: University of California, Los Angeles
+  city: Los Angeles
   country: USA
   zip: 90095
 hmi:
