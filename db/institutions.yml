@@ -331,6 +331,10 @@ fudanu:
   state: ''
   street: 220 Handan Rd.
   zip: '200433'
+gatech:
+  city: Atlanta
+  country: Giorgia
+  name: Giorgia Institute of Technology
 ghentu:
   aka:
     - University of Ghent
@@ -422,6 +426,14 @@ hashemiteu:
   updated: '2020-01-10 17:18:19.635036'
   uuid: 65f16cfa-e364-47c5-a7f1-0a1dcd4e68ce
   year: 2020
+hmi:
+  aka:
+    - ASML HMI
+    - Hermes Microvision, Inc. (USA)
+  city: San Jose
+  country: USA
+  name: Hermes Microvision
+  zip: 95131
 iccnrcomo:
   aka:
     - Crystallographic Institute, Como
@@ -443,6 +455,13 @@ icdd:
   uuid: 64d3043d-df1c-4d20-97a1-718cf93fc369
   year: 2020
   zip: '19073'
+icmm:
+  aka:
+    - Materials Science Institute of Madrid
+    - Institute of Materials Science of Madrid
+  city: Madrid
+  country: Spain
+  name: Instituto de Ciencia de Materiales de Madrid
 ill:
   aka:
     - ILL
@@ -513,6 +532,10 @@ kentstateu:
   state: OH
   street: 208 Schwartz Center, 800 E. Summit St.
   zip: '44242'
+kyotou:
+  city: Kyoto
+  country: Japan
+  name: Kyoto University
 lanl:
   aka:
     - LANL
@@ -551,6 +574,19 @@ lehighu:
   name: Lehigh University
   state: PA
   zip: '18015'
+massachusettsinstituteoftechnology:
+  aka:
+    - MIT
+  city: Boston
+  country: USA
+  day: 17
+  month: 2
+  name: Massachusetts Institute of Technology
+  state: MA
+  updated: 2020-02-17 18:19:28.624049
+  uuid: c18b5f2d-0370-41be-a671-96e2f2124739
+  year: 2020
+  zip: '02139'
 mcmasteru:
   aka:
     - mcmasteru
@@ -687,6 +723,12 @@ ohiou:
   name: Ohio University - Main Campus
   state: OH
   zip: 45701-2979
+ornl:
+  city: Oak Ridge
+  country: USA
+  name: Oak Ridge National Laboratory
+  state: Tennessee
+  zip: 37830
 oxfordu:
   aka:
     - Oxford
@@ -963,6 +1005,11 @@ ucdavis:
   name: University of California - Davis
   state: CA
   zip: '95616'
+ucla:
+  city: Los Angeles
+  country: USA
+  name: University of California, Los Angeles
+  zip: 90095
 uconn:
   aka:
     - UConn
@@ -1294,6 +1341,12 @@ urome:
   state: ''
   street: Piazzale Aldo Moro 5
   zip: '00185'
+utokyo:
+  aka:
+    - The University of Tokyo
+  city: Tokyo
+  country: Japan
+  name: University of Tokyo
 utoronto:
   aka:
     - UofT
@@ -1328,6 +1381,16 @@ utsinghua:
   state: Haidian
   street: 30 Shuangqing Rd
   zip: '100084'
+uvirginia:
+  city: Charlottesville
+  country: USA
+  name: University of Virginia
+  state: Virginia
+  zip: 22903
+uwarwick:
+  city: Coventry
+  country: England
+  name: University of Warwick
 uwashington:
   aka:
     - University of Washington
@@ -1409,53 +1472,3 @@ zhejiangu:
   updated: 2020-02-14 19:37:28.925621
   uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
   year: 2020
-ornl:
-  city: Oak Ridge
-  country: USA
-  name: Oak Ridge National Laboratory
-  state: Tennessee
-  zip: 37830
-gatech:
-  city: Atlanta
-  country: Giorgia
-  name: Giorgia Institute of Technology
-uvirginia:
-  city: Charlottesville
-  country: USA
-  name: University of Virginia
-  state: Virginia
-  zip: 22903
-uwarwick:
-  city: Coventry
-  country: England
-  name: University of Warwick
-utokyo:
-  aka:
-    - The University of Tokyo
-  name: University of Tokyo
-  city: Tokyo
-  country: Japan
-icmm:
-  aka:
-    - Materials Science Institute of Madrid
-    - Institute of Materials Science of Madrid
-  name: Instituto de Ciencia de Materiales de Madrid
-  city: Madrid
-  country: Spain
-kyotou:
-  name: Kyoto University
-  city: Kyoto
-  country: Japan
-ucla:
-  name: University of California, Los Angeles
-  city: Los Angeles
-  country: USA
-  zip: 90095
-hmi:
-  aka:
-    - ASML HMI
-    - Hermes Microvision, Inc. (USA)
-  name: Hermes Microvision
-  city: San Jose
-  country: USA
-  zip: 95131
