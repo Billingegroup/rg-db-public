@@ -103,6 +103,8 @@ chliu:
   education:
     - institution: Columbia University
       begin_year: 2014
+      end_year: 2020
+      end_month: 1
       group: bg
       other:
         - 'Advisor: Simon Billinge'
@@ -743,6 +745,7 @@ jgong:
     - begin_year: 2014
       degree: PhD in Physics
       institution: Columbia University
+      department: physics
       group: bg
   employment:
     - begin_year: 2018
@@ -844,6 +847,7 @@ mterban:
       begin_month: 1
       degree: PhD in Materials Science
       institution: Columbia University
+      department: apam
       end_year: 2017
       end_month: 8
   employment:
