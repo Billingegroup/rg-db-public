@@ -81,6 +81,12 @@ asu:
   state: Arizona
   street: ''
   zip: '85287'
+atladevices:
+  city: Sunnyvale
+  country: USA
+  name: Alta Devices
+  state: California
+  zip: 94085
 barnardu:
   aka: []
   city: New York
@@ -233,6 +239,17 @@ cornellu:
   state: New York
   street: ''
   zip: '14850'
+desy:
+  city: Hamburg
+  country: Germany
+  departments:
+    petra:
+      name: PETRA III
+    cfel:
+      name: Center for Free-Electron Laser Science
+    flash:
+      name: Free electron laser FLASH
+  name: Deutsches Elektronen Synchrotron
 doebes:
   aka:
     - Department of Energy
@@ -331,6 +348,10 @@ fudanu:
   state: ''
   street: 220 Handan Rd.
   zip: '200433'
+gatech:
+  city: Atlanta
+  country: Giorgia
+  name: Giorgia Institute of Technology
 ghentu:
   aka:
     - University of Ghent
@@ -443,6 +464,12 @@ icdd:
   uuid: 64d3043d-df1c-4d20-97a1-718cf93fc369
   year: 2020
   zip: '19073'
+icl:
+  aka:
+    - Imperial College
+  city: London
+  country: England
+  name: Imperial College London
 ill:
   aka:
     - ILL
@@ -551,6 +578,12 @@ lehighu:
   name: Lehigh University
   state: PA
   zip: '18015'
+mckinseyswitzerland:
+  aka:
+    - McKinsey & Company, Geneva
+  city: Geneva
+  country: Switzerland
+  name: McKinsey & Company, Inc. Switzerland
 mcmasteru:
   aka:
     - mcmasteru
@@ -687,6 +720,12 @@ ohiou:
   name: Ohio University - Main Campus
   state: OH
   zip: 45701-2979
+ornl:
+  city: Oak Ridge
+  country: USA
+  name: Oak Ridge National Laboratory
+  state: Tennessee
+  zip: 37830
 oxfordu:
   aka:
     - Oxford
@@ -893,6 +932,10 @@ sunysb:
   state: NY
   street: ''
   zip: '11794'
+tbilisistateu:
+  city: Tbilisi
+  country: Georgia
+  name: Ivane Javakhishvili Tbilisi State University
 theuofbritishcolumbia:
   aka:
     - University of British Columbia
@@ -1143,6 +1186,12 @@ umaine:
   name: University of Maine
   state: ME
   zip: fixme
+umanchester:
+  aka:
+    - University of Manchester
+  city: Manchester
+  country: England
+  name: The University of Manchester
 umontreal:
   aka:
     - UdeM
@@ -1328,6 +1377,16 @@ utsinghua:
   state: Haidian
   street: 30 Shuangqing Rd
   zip: '100084'
+uvirginia:
+  city: Charlottesville
+  country: USA
+  name: University of Virginia
+  state: Virginia
+  zip: 22903
+uwarwick:
+  city: Coventry
+  country: England
+  name: University of Warwick
 uwashington:
   aka:
     - University of Washington
@@ -1409,62 +1468,3 @@ zhejiangu:
   updated: 2020-02-14 19:37:28.925621
   uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
   year: 2020
-ornl:
-  city: Oak Ridge
-  country: USA
-  name: Oak Ridge National Laboratory
-  state: Tennessee
-  zip: 37830
-gatech:
-  city: Atlanta
-  country: Giorgia
-  name: Giorgia Institute of Technology
-uvirginia:
-  city: Charlottesville
-  country: USA
-  name: University of Virginia
-  state: Virginia
-  zip: 22903
-uwarwick:
-  city: Coventry
-  country: England
-  name: University of Warwick
-icl:
-  aka:
-    - Imperial College
-  name: Imperial College London
-  city: London
-  country: England
-umanchester:
-  aka:
-    - University of Manchester
-  name: The University of Manchester
-  city: Manchester
-  country: England
-atladevices:
-  name: Alta Devices
-  city: Sunnyvale
-  country: USA
-  zip: 94085
-  state: California
-mckinseyswitzerland:
-  aka:
-    - McKinsey & Company, Geneva
-  name: McKinsey & Company, Inc. Switzerland
-  city: Geneva
-  country: Switzerland
-desy:
-  name: Deutsches Elektronen Synchrotron
-  departments:
-    petra:
-      name: PETRA III
-    cfel:
-      name: Center for Free-Electron Laser Science
-    flash:
-      name: Free electron laser FLASH
-  city: Hamburg
-  country: Germany
-tbilisistateu:
-  name: Ivane Javakhishvili Tbilisi State University
-  city: Tbilisi
-  country: Georgia
