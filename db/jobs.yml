@@ -1,0 +1,82 @@
+phdr:
+  background_fields:
+    - No particular experience required but a keen interest in using, or learning
+      to use, computers to analyze data to answer interesting scientific questions.
+      Experience in coding in python is a plus as is any experience with data analysis,
+      including AI, and machine learning.
+  compensation:
+    - Fully supported on an RA or TA of Fellowship
+  contact: Please contact Prof. Simon Billinge at sb2896ATcolumbia.edu.
+  day: 1
+  description: <p> We usually have open research opportunities in the group for excellent
+    and motivated graduate students.  If this fits your description and you think
+    you may want to join us we would love to hear from you</p> <ol> <li>If you are
+    a Ph.D student at Columbia University in Materials Science, Applied Physics, Applied
+    Mathematics or any department in SEAS,  then please contact Professor Billinge
+    (sb2896@columbia.edu).</li> <li>If you are a Ph.D student at Columbia University
+    in the Physics or Chemistry Departments, or in some related discipline,  then
+    please contact Professor Billinge (sb2896@columbia.edu).</li> <li>If you would
+    like to study for your Ph.D in the group but you are not already admitted into
+    the PhD program at Columbia then you need to apply either for the Materials Science
+    PhD program or the Applied Physics PhD program (http://www.apam.columbia.edu).  Ph.D
+    students are generally admitted beginning in the fall semester and the deadline
+    for applications is usually around December of the previous year.  Start the process
+    early. You will need a valid GRE score, and TOEFL if you are applying from a non-english-speaking
+    country.</li> </ol> <p>There are multiple opportunities in the group to learn
+    how to understand atomic arrangements on the nanoscale (a billionth of a meter)
+    and the relationship of these to properties of those materials.  In the group
+    we study a wide range of materials, from the applied (HIV pharmaceuticals) to
+    the pure science (understanding novel magnetic and superconducting properties
+    of exotic quantum materials with no known applications).  We also develop new
+    experimental and computational methods for analyzing nanostructure.</p><p>  Depending
+    on your interests there are likely to be various options available to work on.
+    What all the projects have in common is the use of computers to carry out advanced
+    data analysis.  No prior experience is required for these positions, but for success
+    it is necessary that you have an interest in learning how to use advanced computing,
+    including for example, machine learning, AI and other statistical methods to answer
+    real scientific questions.  Experience in these areas, and in programming in Python,
+    is even better.</p>
+  month: Jan
+  open: true
+  positions:
+    - PhD research
+  start_date: Rolling
+  title: PhD research
+  year: 2020
+ugmr:
+  background_fields:
+    - No particular experience required but a keen interest in using, or learning
+      to use, computers to analyze data to answer interesting scientific questions.
+      Experience in coding in python is a plus as is any experience with data analysis,
+      including AI, and machine learning.
+  compensation:
+    - Unpaid
+    - 'Please see here for fellowship opportunities for Columbia/Barnard students:
+      https://studentresearch.engineering.columbia.edu/research-projects'
+    - 'And here for more fellowship opportunities more broadly: https://studentresearch.engineering.columbia.edu/content/research-opportunities'
+  contact: Please contact Prof. Simon Billinge at sb2896ATcolumbia.edu.
+  day: 1
+  description: <p>Local atomic structure of nanomaterials from advanced x-ray neutron
+    and electron diffraction data</p> <p> We love having undergraduate researchers
+    in our lab!</p> <p>There are multiple opportunities in the group for summer or
+    semester-time research to learn how to understand atomic arrangements on the nanoscale
+    (a billionth of a meter) and the relationship of these to properties of those
+    materials.  In the group we study a wide range of materials, from the applied
+    (HIV pharmaceuticals) to the pure science (understanding novel magnetic and superconducting
+    properties of exotic quantum materials with no known applications).  We also develop
+    new experimental and computational methods for analyzing nanostructure.</p><p>  Depending
+    on your interests there are likely to be various options available to work on.
+    What all the projects have in common is the use of computers to carry out advanced
+    data analysis.  No prior experience is required for these positions, but for success
+    it is necessary that you have an interest in learning how to use advanced computing,
+    including for example, machine learning, AI and other statistical methods to answer
+    real scientific questions.  Experience in these areas, and in programming in Python,
+    is even better.</p>
+  month: Jan
+  open: true
+  positions:
+    - Undergraduate research
+    - Masters research
+  start_date: Rolling
+  title: Undergraduate and Masters research
+  year: 2020
