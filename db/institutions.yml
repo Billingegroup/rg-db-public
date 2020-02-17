@@ -1429,3 +1429,33 @@ uwarwick:
   city: Coventry
   country: England
   name: University of Warwick
+utokyo:
+  aka:
+    - The University of Tokyo
+  name: University of Tokyo
+  city: Tokyo
+  country: Japan
+icmm:
+  aka:
+    - Materials Science Institute of Madrid
+    - Institute of Materials Science of Madrid
+  name: Instituto de Ciencia de Materiales de Madrid
+  city: Madrid
+  country: Spain
+kyotou:
+  name: Kyoto University
+  city: Kyoto
+  country: Japan
+ucla:
+  name: University of California, Los Angeles
+  city: Los Angeles
+  country: USA
+  zip: 90095
+hmi:
+  aka:
+    - ASML HMI
+    - Hermes Microvision, Inc. (USA)
+  name: Hermes Microvision
+  city: San Jose
+  country: USA
+  zip: 95131
