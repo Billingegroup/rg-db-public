@@ -1659,8 +1659,8 @@ zzgong:
   aka:
     - zgong
     - ZiZhou Gong
-  avatar:
-  bio:
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
   education:
     - institution: columbiau
       degree: MS/PhD in Physics
