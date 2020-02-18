@@ -617,6 +617,19 @@ missing:
   name: missing
   state: ''
   zip: ''
+mit:
+  aka:
+    - MIT
+  city: Boston
+  country: USA
+  day: 17
+  month: 2
+  name: Massachusetts Institute of Technology
+  state: MA
+  updated: 2020-02-17 18:19:28.624049
+  uuid: c18b5f2d-0370-41be-a671-96e2f2124739
+  year: 2020
+  zip: '02139'
 mpi:
   aka:
     - Max Planck
@@ -790,21 +803,6 @@ pacificnorthwestnationallaboratory:
   uuid: 2afc5352-77fe-49a0-840b-dfb971c0319a
   year: 2020
   zip: '99352'
-paulscherrerinstitute:
-  aka:
-    - psi
-    - PSI
-  city: Villigen
-  country: Switzerland
-  day: 14
-  departments:
-    muons:
-      name: Laboratory for Muon Spin Spectroscopy
-  month: 2
-  name: Paul Scherrer Institute
-  updated: 2020-02-14 19:29:10.702242
-  uuid: 5cc933be-dcd2-4289-8c58-51bf01d83c89
-  year: 2020
 pekingu:
   aka:
     - Peking University
@@ -827,7 +825,9 @@ psi:
     - Paul Scherrer Institute, Switzerland
   city: Villigen
   country: Switzerland
-  departments: {}
+  departments:
+    muons:
+      name: Laboratory for Muon Spin Spectroscopy
   name: Paul Scherrer Institute
   state: ''
   zip: ''
@@ -962,6 +962,19 @@ sunysb:
   state: NY
   street: ''
   zip: '11794'
+ubayreuth:
+  aka:
+    - Bayreuth
+    - bayreuth
+  city: Bayreuth
+  country: Germany
+  departments:
+    chemistry:
+      aka:
+        - chem
+      name: Biology, Chemistry & Earth Sciences
+  name: Universität Bayreuth
+  state: ''
 ubc:
   aka:
     - University of British Columbia
@@ -976,19 +989,6 @@ ubc:
   updated: 2020-02-14 19:40:42.838722
   uuid: 4562c391-b467-4fbc-9342-4a40150c8405
   year: 2020
-ubayreuth:
-  aka:
-    - Bayreuth
-    - bayreuth
-  city: Bayreuth
-  country: Germany
-  departments:
-    chemistry:
-      aka:
-        - chem
-      name: Biology, Chemistry & Earth Sciences
-  name: Universität Bayreuth
-  state: ''
 ubelgrade:
   aka:
     - University of Belgrade
