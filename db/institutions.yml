@@ -584,19 +584,6 @@ lehighu:
   name: Lehigh University
   state: PA
   zip: '18015'
-mit:
-  aka:
-    - MIT
-  city: Boston
-  country: USA
-  day: 17
-  month: 2
-  name: Massachusetts Institute of Technology
-  state: MA
-  updated: 2020-02-17 18:19:28.624049
-  uuid: c18b5f2d-0370-41be-a671-96e2f2124739
-  year: 2020
-  zip: '02139'
 mcmasteru:
   aka:
     - mcmasteru
