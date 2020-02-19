@@ -1493,73 +1493,65 @@ pal:
     - Pohang Accelerator Laboratory
   city: Pohang
   country: South Korea
-  departments:
   name: Pohang Accelerator Laboratory
-  state:
-  zip:
+  state: Gyeongsangbuk-do
+  zip: ''
 pust:
   aka:
     - Pohang University of Science and Technology
   city: Pohang
   country: South Korea
-  departments:
   name: Pohang University of Science and Technology
-  state:
-  zip:
+  state: Gyeongsangbuk-do
+  zip: ''
 sogangu:
   aka:
     - Sogang University
   city: Seoul
   country: South Korea
-  departments:
   name: Sogang University
-  state:
-  zip:
+  state: Gyeonggi-do
+  zip: ''
 tamu:
   aka:
     - tamu
   city: College Station
   country: USA
-  departments:
   name: Texas AM University
   state: Texas
-  zip: 77843
+  zip: '77843'
 rpi:
   aka:
     - rpi
   city: Troy
   country: USA
-  departments:
   name: Rensselaer Polytechnic Institute
   state: New York
-  zip: 12180
+  zip: '12180'
 lhmfcas:
   aka:
     - Laboratory of High Magnetic Field of Chinese Academy of Sciences
   city: Hefei
   country: China
-  departments:
   name: Laboratory of High Magnetic Field of Chinese Academy of Sciences
   state: Anhui
-  zip: 230031
+  zip: '230031'
 cmu:
   aka:
     - cmu
   city: New York City
   country: USA
-  departments:
   name: Carnegie Mellon University
   state: New York
-  zip: 10004
+  zip: '10004'
 nrl:
   aka:
     - nrl
   city: Washington D.C.
   country: USA
-  departments:
   name: United States Naval Research Laboratory
-  state:
-  zip:
+  state: ''
+  zip: ''
 stanfordu:
   aka:
     - stanfordu
@@ -1570,31 +1562,28 @@ stanfordu:
         name: Department of Physics
   name: Stanford University
   state: California
-  zip: 94305
+  zip: '94305'
 purdueu:
   aka:
     - purdueu
   city: West Lafayette
   country: USA
-  departments:
   name: Purdue University
   state: Indiana
-  zip: 47907
+  zip: '47907'
 iitkanpur:
   aka:
     - iitkanpur
   city: Kanpur
   country: India
-  departments:
   name: Indian Institute of Technology Kanpur
   state: Uttar Pradesh
-  zip: 208016
+  zip: '208016'
 uoficeland:
   aka:
     - uoficeland
   city: Reykjavik
   country: Iceland
-  departments:
   name: University of Iceland
-  state:
-  zip:
+  state: ''
+  zip: ''
