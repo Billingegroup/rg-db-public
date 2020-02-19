@@ -444,6 +444,16 @@ hmi:
   country: USA
   name: Hermes Microvision
   zip: 95131
+huawei:
+  aka: []
+  city: Shenzhen
+  country: China
+  day: 19
+  month: 2
+  name: Huawei
+  updated: 2020-02-19 14:24:02.039400
+  uuid: da403d71-cee7-4d50-8d75-0c59ff0ec437
+  year: 2020
 iccnrcomo:
   aka:
     - Crystallographic Institute, Como
