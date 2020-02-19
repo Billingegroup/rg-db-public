@@ -850,6 +850,17 @@ pohangacceleratorlaboratory:
   updated: 2020-02-19 14:34:52.528397
   uuid: b7c956ef-de27-4a1f-bea9-c2d9dc39077e
   year: 2020
+pohanguofscienceandtechnology:
+  aka:
+    - POSTECH
+  city: Pohang
+  country: South Korea
+  day: 19
+  month: 2
+  name: Pohang University of Science and Technology
+  updated: 2020-02-19 14:38:44.195006
+  uuid: 2acb8c42-b494-4274-9d8b-7a41bcce7a28
+  year: 2020
 psi:
   aka:
     - PSI
