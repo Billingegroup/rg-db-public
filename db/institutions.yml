@@ -556,6 +556,18 @@ kyotou:
   city: Kyoto
   country: Japan
   name: Kyoto University
+lab49:
+  aka: []
+  city: New York City
+  country: USA
+  day: 19
+  month: 2
+  name: Lab49
+  state: NY
+  updated: 2020-02-19 14:30:17.809965
+  uuid: ad770445-20c0-4c62-8da4-8899d182a7e9
+  year: 2020
+  zip: '10105'
 lanl:
   aka:
     - LANL
