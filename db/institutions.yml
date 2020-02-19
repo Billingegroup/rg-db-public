@@ -1274,6 +1274,19 @@ uoferlangen-nuremberg:
   updated: '2020-01-10 18:10:21.189617'
   uuid: c4210aab-cde7-428b-b1c4-d62bcab401e0
   year: 2020
+uofmichigan:
+  aka:
+    - UMich
+  city: Ann Arbor
+  country: USA
+  day: 18
+  month: 2
+  name: University of Michigan
+  state: MI
+  updated: 2020-02-18 23:19:11.141224
+  uuid: e46c0bd2-c467-4f2a-a5db-c1832be5dbe7
+  year: 2020
+  zip: '48109'
 uoftrento:
   aka:
     - utrento
