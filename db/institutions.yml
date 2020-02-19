@@ -618,7 +618,7 @@ maxplanckinstituteforchemicalphysicsofsolids:
   uuid: 15f283f2-0131-47b7-8e4d-4d14db0b973a
   year: 2020
   zip: '01187'
-maxplanckinstituteforsolidstateresearch:
+mpissr:
   aka:
     - mpissr
   city: Stuttgart
