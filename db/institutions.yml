@@ -681,6 +681,18 @@ natautoumexico:
   state: ''
   street: Av Universidad 3000, Cd. Universitaria, Coyoacán
   zip: '04510'
+newcastleu:
+  aka:
+    - University of Newcastle upon Tyne
+  city: Newcastle upon Tyne
+  country: UK
+  day: 18
+  month: 2
+  name: Newcastle University
+  updated: 2020-02-18 23:12:41.301558
+  uuid: b783d349-604f-4412-9310-84cc9e19cd14
+  year: 2020
+  zip: NE1 7RU
 nist:
   aka:
     - NIST
