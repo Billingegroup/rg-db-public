@@ -963,6 +963,17 @@ sns:
   uuid: 8e7cf53d-c0e0-421a-b990-cb5b36eacb92
   year: 2020
   zip: '37830'
+sogangu:
+  aka:
+    - SU
+  city: Seoul
+  country: South Korea
+  day: 19
+  month: 2
+  name: Sogang University
+  updated: 2020-02-19 14:43:53.829938
+  uuid: bda60291-b09e-4b29-929e-456862395895
+  year: 2020
 srtmu:
   aka:
     - SRTMU
