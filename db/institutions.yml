@@ -629,6 +629,18 @@ maxplanckinstituteforchemicalphysicsofsolids:
   uuid: 15f283f2-0131-47b7-8e4d-4d14db0b973a
   year: 2020
   zip: '01187'
+maxplanckinstituteforsolidstateresearch:
+  aka:
+    - mpissr
+  city: Stuttgart
+  country: Germany
+  day: 19
+  month: 2
+  name: Max Planck Institute for Solid State Research
+  updated: 2020-02-19 15:19:19.118716
+  uuid: d406ec28-d1e1-4024-a87e-704e04ba576c
+  year: 2020
+  zip: '70569'
 mcmasteru:
   aka:
     - mcmasteru
