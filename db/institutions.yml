@@ -807,6 +807,8 @@ ohiou:
   state: OH
   zip: 45701-2979
 ornl:
+  aka:
+    - ornl
   city: Oak Ridge
   country: USA
   name: Oak Ridge National Laboratory
@@ -1616,3 +1618,102 @@ zhejiangu:
   updated: 2020-02-14 19:37:28.925621
   uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
   year: 2020
+pal:
+  aka:
+    - Pohang Accelerator Laboratory
+  city: Pohang
+  country: South Korea
+  name: Pohang Accelerator Laboratory
+  state: Gyeongsangbuk-do
+  zip: ''
+pust:
+  aka:
+    - Pohang University of Science and Technology
+  city: Pohang
+  country: South Korea
+  name: Pohang University of Science and Technology
+  state: Gyeongsangbuk-do
+  zip: ''
+sogangu:
+  aka:
+    - Sogang University
+  city: Seoul
+  country: South Korea
+  name: Sogang University
+  state: Gyeonggi-do
+  zip: ''
+tamu:
+  aka:
+    - tamu
+  city: College Station
+  country: USA
+  name: Texas AM University
+  state: Texas
+  zip: '77843'
+rpi:
+  aka:
+    - rpi
+  city: Troy
+  country: USA
+  name: Rensselaer Polytechnic Institute
+  state: New York
+  zip: '12180'
+lhmfcas:
+  aka:
+    - Laboratory of High Magnetic Field of Chinese Academy of Sciences
+  city: Hefei
+  country: China
+  name: Laboratory of High Magnetic Field of Chinese Academy of Sciences
+  state: Anhui
+  zip: '230031'
+cmu:
+  aka:
+    - cmu
+  city: New York City
+  country: USA
+  name: Carnegie Mellon University
+  state: New York
+  zip: '10004'
+nrl:
+  aka:
+    - nrl
+  city: Washington D.C.
+  country: USA
+  name: United States Naval Research Laboratory
+  state: ''
+  zip: ''
+stanfordu:
+  aka:
+    - stanfordu
+  city: Stanford
+  country: USA
+  departments:
+      physics:
+        name: Department of Physics
+  name: Stanford University
+  state: California
+  zip: '94305'
+purdueu:
+  aka:
+    - purdueu
+  city: West Lafayette
+  country: USA
+  name: Purdue University
+  state: Indiana
+  zip: '47907'
+iitkanpur:
+  aka:
+    - iitkanpur
+  city: Kanpur
+  country: India
+  name: Indian Institute of Technology Kanpur
+  state: Uttar Pradesh
+  zip: '208016'
+uoficeland:
+  aka:
+    - uoficeland
+  city: Reykjavik
+  country: Iceland
+  name: University of Iceland
+  state: ''
+  zip: ''
