@@ -1326,6 +1326,19 @@ uofcampinas:
   updated: 2020-02-14 19:43:31.364928
   uuid: ba8d1f8a-9b72-4d0d-bb95-777f546a4833
   year: 2020
+uofchicago:
+  aka:
+    - UChicago
+  city: Chicago
+  country: USA
+  day: 19
+  month: 2
+  name: University of Chicago
+  state: IL
+  updated: 2020-02-19 14:50:13.991416
+  uuid: ba1226d9-99ae-444b-a9c5-50095f9c3aa1
+  year: 2020
+  zip: '60637'
 uofdayton:
   aka: []
   city: Dayton
