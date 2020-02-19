@@ -1027,6 +1027,19 @@ sunysb:
   state: NY
   street: ''
   zip: '11794'
+texasa&mu:
+  aka:
+    - Texas A&M
+  city: College Station
+  country: USA
+  day: 19
+  month: 2
+  name: Texas A&M University
+  state: TX
+  updated: 2020-02-19 14:54:55.040697
+  uuid: 9f1a6032-33b8-47bb-9d6f-f5b70c5e5645
+  year: 2020
+  zip: '77843'
 ubayreuth:
   aka:
     - Bayreuth
