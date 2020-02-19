@@ -444,6 +444,16 @@ hmi:
   country: USA
   name: Hermes Microvision
   zip: 95131
+huawei:
+  aka: []
+  city: Shenzhen
+  country: China
+  day: 19
+  month: 2
+  name: Huawei
+  updated: 2020-02-19 14:24:02.039400
+  uuid: da403d71-cee7-4d50-8d75-0c59ff0ec437
+  year: 2020
 iccnrcomo:
   aka:
     - Crystallographic Institute, Como
@@ -546,6 +556,18 @@ kyotou:
   city: Kyoto
   country: Japan
   name: Kyoto University
+lab49:
+  aka: []
+  city: New York City
+  country: USA
+  day: 19
+  month: 2
+  name: Lab49
+  state: NY
+  updated: 2020-02-19 14:30:17.809965
+  uuid: ad770445-20c0-4c62-8da4-8899d182a7e9
+  year: 2020
+  zip: '10105'
 lanl:
   aka:
     - LANL
@@ -584,6 +606,30 @@ lehighu:
   name: Lehigh University
   state: PA
   zip: '18015'
+mpicps:
+  aka:
+    - mpicps
+  city: Dresden
+  country: Germany
+  day: 19
+  month: 2
+  name: Max Planck Institute for Chemical Physics of Solids
+  updated: 2020-02-19 14:17:04.332919
+  uuid: 15f283f2-0131-47b7-8e4d-4d14db0b973a
+  year: 2020
+  zip: '01187'
+mpissr:
+  aka:
+    - mpissr
+  city: Stuttgart
+  country: Germany
+  day: 19
+  month: 2
+  name: Max Planck Institute for Solid State Research
+  updated: 2020-02-19 15:19:19.118716
+  uuid: d406ec28-d1e1-4024-a87e-704e04ba576c
+  year: 2020
+  zip: '70569'
 mcmasteru:
   aka:
     - mcmasteru
@@ -817,6 +863,28 @@ pekingu:
   state: ''
   street: 5 Yiheyuan Road
   zip: '100871'
+pohangacceleratorlaboratory:
+  aka:
+    - PAL
+  city: Pohang
+  country: South Korea
+  day: 19
+  month: 2
+  name: Pohang Accelerator Laboratory
+  updated: 2020-02-19 14:34:52.528397
+  uuid: b7c956ef-de27-4a1f-bea9-c2d9dc39077e
+  year: 2020
+pohanguofscienceandtechnology:
+  aka:
+    - POSTECH
+  city: Pohang
+  country: South Korea
+  day: 19
+  month: 2
+  name: Pohang University of Science and Technology
+  updated: 2020-02-19 14:38:44.195006
+  uuid: 2acb8c42-b494-4274-9d8b-7a41bcce7a28
+  year: 2020
 psi:
   aka:
     - PSI
@@ -919,6 +987,17 @@ sns:
   uuid: 8e7cf53d-c0e0-421a-b990-cb5b36eacb92
   year: 2020
   zip: '37830'
+sogangu:
+  aka:
+    - SU
+  city: Seoul
+  country: South Korea
+  day: 19
+  month: 2
+  name: Sogang University
+  updated: 2020-02-19 14:43:53.829938
+  uuid: bda60291-b09e-4b29-929e-456862395895
+  year: 2020
 srtmu:
   aka:
     - SRTMU
@@ -961,6 +1040,19 @@ sunysb:
   state: NY
   street: ''
   zip: '11794'
+texasa&mu:
+  aka:
+    - Texas A&M
+  city: College Station
+  country: USA
+  day: 19
+  month: 2
+  name: Texas A&M University
+  state: TX
+  updated: 2020-02-19 14:54:55.040697
+  uuid: 9f1a6032-33b8-47bb-9d6f-f5b70c5e5645
+  year: 2020
+  zip: '77843'
 ubayreuth:
   aka:
     - Bayreuth
@@ -1260,6 +1352,19 @@ uofcampinas:
   updated: 2020-02-14 19:43:31.364928
   uuid: ba8d1f8a-9b72-4d0d-bb95-777f546a4833
   year: 2020
+uofchicago:
+  aka:
+    - UChicago
+  city: Chicago
+  country: USA
+  day: 19
+  month: 2
+  name: University of Chicago
+  state: IL
+  updated: 2020-02-19 14:50:13.991416
+  uuid: ba1226d9-99ae-444b-a9c5-50095f9c3aa1
+  year: 2020
+  zip: '60637'
 uofdayton:
   aka: []
   city: Dayton
@@ -1286,6 +1391,19 @@ uoferlangen-nuremberg:
   updated: '2020-01-10 18:10:21.189617'
   uuid: c4210aab-cde7-428b-b1c4-d62bcab401e0
   year: 2020
+uofmichigan:
+  aka:
+    - UMich
+  city: Ann Arbor
+  country: USA
+  day: 18
+  month: 2
+  name: University of Michigan
+  state: MI
+  updated: 2020-02-18 23:19:11.141224
+  uuid: e46c0bd2-c467-4f2a-a5db-c1832be5dbe7
+  year: 2020
+  zip: '48109'
 uoftrento:
   aka:
     - utrento
