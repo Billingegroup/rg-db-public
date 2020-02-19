@@ -749,6 +749,8 @@ ohiou:
   state: OH
   zip: 45701-2979
 ornl:
+  aka:
+    - ornl
   city: Oak Ridge
   country: USA
   name: Oak Ridge National Laboratory
@@ -1486,15 +1488,6 @@ zhejiangu:
   updated: 2020-02-14 19:37:28.925621
   uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
   year: 2020
-ornl:
-  aka:
-    - ornl
-  city: Oak Ridge
-  country: USA
-  departments:
-  name: Oak Ridge National Laboratory
-  state: Tennessee
-  zip: 37830
 pal:
   aka:
     - Pohang Accelerator Laboratory
@@ -1567,15 +1560,6 @@ nrl:
   name: United States Naval Research Laboratory
   state:
   zip:
-iitkanpur:
-  aka:
-    - iitkanpur
-  city: Kanpur
-  country: India
-  departments:
-  name: Indian Institute of Technology Kanpur
-  state: Uttar Pradesh
-  zip: 208016
 stanfordu:
   aka:
     - stanfordu
@@ -1613,5 +1597,4 @@ uoficeland:
   departments:
   name: University of Iceland
   state:
-  zip: 
-
+  zip:
