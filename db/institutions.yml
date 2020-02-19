@@ -1486,3 +1486,132 @@ zhejiangu:
   updated: 2020-02-14 19:37:28.925621
   uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
   year: 2020
+ornl:
+  aka:
+    - ornl
+  city: Oak Ridge
+  country: USA
+  departments:
+  name: Oak Ridge National Laboratory
+  state: Tennessee
+  zip: 37830
+pal:
+  aka:
+    - Pohang Accelerator Laboratory
+  city: Pohang
+  country: South Korea
+  departments:
+  name: Pohang Accelerator Laboratory
+  state:
+  zip:
+pust:
+  aka:
+    - Pohang University of Science and Technology
+  city: Pohang
+  country: South Korea
+  departments:
+  name: Pohang University of Science and Technology
+  state:
+  zip:
+sogangu:
+  aka:
+    - Sogang University
+  city: Seoul
+  country: South Korea
+  departments:
+  name: Sogang University
+  state:
+  zip:
+tamu:
+  aka:
+    - tamu
+  city: College Station
+  country: USA
+  departments:
+  name: Texas AM University
+  state: Texas
+  zip: 77843
+rpi:
+  aka:
+    - rpi
+  city: Troy
+  country: USA
+  departments:
+  name: Rensselaer Polytechnic Institute
+  state: New York
+  zip: 12180
+lhmfcas:
+  aka:
+    - Laboratory of High Magnetic Field of Chinese Academy of Sciences
+  city: Hefei
+  country: China
+  departments:
+  name: Laboratory of High Magnetic Field of Chinese Academy of Sciences
+  state: Anhui
+  zip: 230031
+cmu:
+  aka:
+    - cmu
+  city: New York City
+  country: USA
+  departments:
+  name: Carnegie Mellon University
+  state: New York
+  zip: 10004
+nrl:
+  aka:
+    - nrl
+  city: Washington D.C.
+  country: USA
+  departments:
+  name: United States Naval Research Laboratory
+  state:
+  zip:
+iitkanpur:
+  aka:
+    - iitkanpur
+  city: Kanpur
+  country: India
+  departments:
+  name: Indian Institute of Technology Kanpur
+  state: Uttar Pradesh
+  zip: 208016
+stanfordu:
+  aka:
+    - stanfordu
+  city: Stanford
+  country: USA
+  departments:
+      physics:
+        name: Department of Physics
+  name: Stanford University
+  state: California
+  zip: 94305
+purdueu:
+  aka:
+    - purdueu
+  city: West Lafayette
+  country: USA
+  departments:
+  name: Purdue University
+  state: Indiana
+  zip: 47907
+iitkanpur:
+  aka:
+    - iitkanpur
+  city: Kanpur
+  country: India
+  departments:
+  name: Indian Institute of Technology Kanpur
+  state: Uttar Pradesh
+  zip: 208016
+uoficeland:
+  aka:
+    - uoficeland
+  city: Reykjavik
+  country: Iceland
+  departments:
+  name: University of Iceland
+  state:
+  zip: 
+
