@@ -839,6 +839,17 @@ pekingu:
   state: ''
   street: 5 Yiheyuan Road
   zip: '100871'
+pohangacceleratorlaboratory:
+  aka:
+    - PAL
+  city: Pohang
+  country: South Korea
+  day: 19
+  month: 2
+  name: Pohang Accelerator Laboratory
+  updated: 2020-02-19 14:34:52.528397
+  uuid: b7c956ef-de27-4a1f-bea9-c2d9dc39077e
+  year: 2020
 psi:
   aka:
     - PSI
