@@ -584,6 +584,18 @@ lehighu:
   name: Lehigh University
   state: PA
   zip: '18015'
+maxplanckinstituteforchemicalphysicsofsolids:
+  aka:
+    - mpicps
+  city: Dresden
+  country: Germany
+  day: 19
+  month: 2
+  name: Max Planck Institute for Chemical Physics of Solids
+  updated: 2020-02-19 14:17:04.332919
+  uuid: 15f283f2-0131-47b7-8e4d-4d14db0b973a
+  year: 2020
+  zip: '01187'
 mcmasteru:
   aka:
     - mcmasteru
