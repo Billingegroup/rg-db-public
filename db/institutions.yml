@@ -606,17 +606,6 @@ lehighu:
   name: Lehigh University
   state: PA
   zip: '18015'
-m.p.instituteofsocialscienceresearch:
-  aka:
-    - MPISSR
-  city: Ujjain
-  country: India
-  day: 19
-  month: 2
-  name: M.P. Institute of Social Science Research
-  updated: 2020-02-19 14:46:44.567315
-  uuid: d672284c-1bd4-4d79-8707-4fedc2f7a15c
-  year: 2020
 maxplanckinstituteforchemicalphysicsofsolids:
   aka:
     - mpicps
