@@ -482,6 +482,14 @@ icmm:
   city: Madrid
   country: Spain
   name: Instituto de Ciencia de Materiales de Madrid
+iitkanpur:
+  aka:
+    - iitkanpur
+  city: Kanpur
+  country: India
+  name: Indian Institute of Technology Kanpur
+  state: Uttar Pradesh
+  zip: '208016'
 ill:
   aka:
     - ILL
@@ -606,30 +614,14 @@ lehighu:
   name: Lehigh University
   state: PA
   zip: '18015'
-mpicps:
+lhmfcas:
   aka:
-    - mpicps
-  city: Dresden
-  country: Germany
-  day: 19
-  month: 2
-  name: Max Planck Institute for Chemical Physics of Solids
-  updated: 2020-02-19 14:17:04.332919
-  uuid: 15f283f2-0131-47b7-8e4d-4d14db0b973a
-  year: 2020
-  zip: '01187'
-mpissr:
-  aka:
-    - mpissr
-  city: Stuttgart
-  country: Germany
-  day: 19
-  month: 2
-  name: Max Planck Institute for Solid State Research
-  updated: 2020-02-19 15:19:19.118716
-  uuid: d406ec28-d1e1-4024-a87e-704e04ba576c
-  year: 2020
-  zip: '70569'
+    - Laboratory of High Magnetic Field of Chinese Academy of Sciences
+  city: Hefei
+  country: China
+  name: Laboratory of High Magnetic Field of Chinese Academy of Sciences
+  state: Anhui
+  zip: '230031'
 mcmasteru:
   aka:
     - mcmasteru
@@ -677,6 +669,30 @@ mpi:
       name: Institute for Solid State Physics
   name: Max Planck Institute
   state: ''
+mpicps:
+  aka:
+    - mpicps
+  city: Dresden
+  country: Germany
+  day: 19
+  month: 2
+  name: Max Planck Institute for Chemical Physics of Solids
+  updated: 2020-02-19 14:17:04.332919
+  uuid: 15f283f2-0131-47b7-8e4d-4d14db0b973a
+  year: 2020
+  zip: '01187'
+mpissr:
+  aka:
+    - mpissr
+  city: Stuttgart
+  country: Germany
+  day: 19
+  month: 2
+  name: Max Planck Institute for Solid State Research
+  updated: 2020-02-19 15:19:19.118716
+  uuid: d406ec28-d1e1-4024-a87e-704e04ba576c
+  year: 2020
+  zip: '70569'
 msk:
   aka:
     - MSK
@@ -762,6 +778,14 @@ northwesternu:
   updated: '2020-01-10 17:26:45.692690'
   uuid: 6bfefc1b-60a8-4ef3-bf24-85761fdadb9c
   year: 2020
+nrl:
+  aka:
+    - nrl
+  city: Washington D.C.
+  country: USA
+  name: United States Naval Research Laboratory
+  state: ''
+  zip: ''
 nslsii:
   aka:
     - NSLS-II
@@ -850,6 +874,14 @@ pacificnorthwestnationallaboratory:
   uuid: 2afc5352-77fe-49a0-840b-dfb971c0319a
   year: 2020
   zip: '99352'
+pal:
+  aka:
+    - Pohang Accelerator Laboratory
+  city: Pohang
+  country: South Korea
+  name: Pohang Accelerator Laboratory
+  state: Gyeongsangbuk-do
+  zip: ''
 pekingu:
   aka:
     - Peking University
@@ -913,6 +945,22 @@ puneu:
   name: Savitribai Phule Pune University
   state: Maharashtra
   zip: '411007'
+purdueu:
+  aka:
+    - purdueu
+  city: West Lafayette
+  country: USA
+  name: Purdue University
+  state: Indiana
+  zip: '47907'
+pust:
+  aka:
+    - Pohang University of Science and Technology
+  city: Pohang
+  country: South Korea
+  name: Pohang University of Science and Technology
+  state: Gyeongsangbuk-do
+  zip: ''
 qmul:
   aka:
     - QMUL
@@ -944,6 +992,14 @@ riceu:
   name: Rice University
   state: TX
   zip: '77251'
+rpi:
+  aka:
+    - rpi
+  city: Troy
+  country: USA
+  name: Rensselaer Polytechnic Institute
+  state: New York
+  zip: '12180'
 rutgersu:
   aka:
     - Rutgers
@@ -991,12 +1047,11 @@ sns:
   zip: '37830'
 sogangu:
   aka:
-    - SU
+    - Sogang University
   city: Seoul
   country: South Korea
-  day: 19
-  month: 2
   name: Sogang University
+  state: Gyeonggi-do
   updated: 2020-02-19 14:43:53.829938
   uuid: bda60291-b09e-4b29-929e-456862395895
   year: 2020
@@ -1012,6 +1067,17 @@ srtmu:
   name: Swami Ramanand Teerth Marathwada University
   state: Maharashtra
   zip: ''
+stanfordu:
+  aka:
+    - stanfordu
+  city: Stanford
+  country: USA
+  departments:
+    physics:
+      name: Department of Physics
+  name: Stanford University
+  state: California
+  zip: '94305'
 sunybuffalo:
   aka:
     - SUNY Buffalo
@@ -1042,6 +1108,14 @@ sunysb:
   state: NY
   street: ''
   zip: '11794'
+tamu:
+  aka:
+    - tamu
+  city: College Station
+  country: USA
+  name: Texas AM University
+  state: Texas
+  zip: '77843'
 texasa&mu:
   aka:
     - Texas A&M
@@ -1393,6 +1467,14 @@ uoferlangen-nuremberg:
   updated: '2020-01-10 18:10:21.189617'
   uuid: c4210aab-cde7-428b-b1c4-d62bcab401e0
   year: 2020
+uoficeland:
+  aka:
+    - uoficeland
+  city: Reykjavik
+  country: Iceland
+  name: University of Iceland
+  state: ''
+  zip: ''
 uofmichigan:
   aka:
     - UMich
@@ -1618,102 +1700,3 @@ zhejiangu:
   updated: 2020-02-14 19:37:28.925621
   uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
   year: 2020
-pal:
-  aka:
-    - Pohang Accelerator Laboratory
-  city: Pohang
-  country: South Korea
-  name: Pohang Accelerator Laboratory
-  state: Gyeongsangbuk-do
-  zip: ''
-pust:
-  aka:
-    - Pohang University of Science and Technology
-  city: Pohang
-  country: South Korea
-  name: Pohang University of Science and Technology
-  state: Gyeongsangbuk-do
-  zip: ''
-sogangu:
-  aka:
-    - Sogang University
-  city: Seoul
-  country: South Korea
-  name: Sogang University
-  state: Gyeonggi-do
-  zip: ''
-tamu:
-  aka:
-    - tamu
-  city: College Station
-  country: USA
-  name: Texas AM University
-  state: Texas
-  zip: '77843'
-rpi:
-  aka:
-    - rpi
-  city: Troy
-  country: USA
-  name: Rensselaer Polytechnic Institute
-  state: New York
-  zip: '12180'
-lhmfcas:
-  aka:
-    - Laboratory of High Magnetic Field of Chinese Academy of Sciences
-  city: Hefei
-  country: China
-  name: Laboratory of High Magnetic Field of Chinese Academy of Sciences
-  state: Anhui
-  zip: '230031'
-cmu:
-  aka:
-    - cmu
-  city: New York City
-  country: USA
-  name: Carnegie Mellon University
-  state: New York
-  zip: '10004'
-nrl:
-  aka:
-    - nrl
-  city: Washington D.C.
-  country: USA
-  name: United States Naval Research Laboratory
-  state: ''
-  zip: ''
-stanfordu:
-  aka:
-    - stanfordu
-  city: Stanford
-  country: USA
-  departments:
-      physics:
-        name: Department of Physics
-  name: Stanford University
-  state: California
-  zip: '94305'
-purdueu:
-  aka:
-    - purdueu
-  city: West Lafayette
-  country: USA
-  name: Purdue University
-  state: Indiana
-  zip: '47907'
-iitkanpur:
-  aka:
-    - iitkanpur
-  city: Kanpur
-  country: India
-  name: Indian Institute of Technology Kanpur
-  state: Uttar Pradesh
-  zip: '208016'
-uoficeland:
-  aka:
-    - uoficeland
-  city: Reykjavik
-  country: Iceland
-  name: University of Iceland
-  state: ''
-  zip: ''
