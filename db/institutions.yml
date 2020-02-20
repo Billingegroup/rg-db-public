@@ -9,16 +9,6 @@ aarhusu:
   name: Aarhus University
   state: ''
   zip: ''
-abbottpharmaceuticals:
-  aka: []
-  city: Chicago
-  country: USA
-  departments: {}
-  name: Abbott Pharmaceuticals
-  state: IL
-  updated: 2020-01-04 16:41:47.790527
-  uuid: ff1a6857-76aa-4c23-9758-7bb1aec8b4ed
-  year: 2020
 addisababau:
   aka:
     - University College of Addis Ababa
@@ -26,10 +16,10 @@ addisababau:
   city: Addis Ababa
   country: Ethiopia
   departments:
-    chemistry:
-      name: Department of Chemistry
     physics:
       name: Department of Physics
+    chemistry:
+      name: Department of Chemistry
   name: Addis Ababa University
   schools:
     cns:
@@ -96,10 +86,10 @@ barnardu:
   city: New York
   country: USA
   departments:
-    chemistry:
-      name: Department of Chemistry
     physics:
       name: Department of Physics
+    chemistry:
+      name: Department of Chemistry
   name: Barnard College
   state: NY
   zip: '10027'
@@ -131,18 +121,18 @@ bnl:
   city: Upton
   country: USA
   departments:
-    cfn:
-      name: Center for Functional Nanomaterials
-    chemistry:
-      name: Department of Chemistry
-    cmpms:
-      name: Condensed Matter and Materials Science Department
-    csi:
-      name: Computational Science Initiative
     psd:
       name: Photon Sciences Division
+    cmpms:
+      name: Condensed Matter and Materials Science Department
+    chemistry:
+      name: Department of Chemistry
+    cfn:
+      name: Center for Functional Nanomaterials
     setd:
       name: Sustainable Energy Technologies Department
+    csi:
+      name: Computational Science Initiative
   name: Brookhaven National Laboratory
   state: NY
   zip: '11973'
@@ -174,10 +164,10 @@ ccny:
   name: The City College of New York
   schools:
     grove:
+      name: The Grove School of Engineering
       aka:
         - Grove School
         - Grove
-      name: The Grove School of Engineering
   state: NY
   street: 160 Convent Avenue
   zip: '10031'
@@ -204,16 +194,16 @@ columbiau:
       aka:
         - APAM
       name: Department of Applied Physics and Applied Mathematics
-    cheme:
-      name: Department of Chemical Engineering
-    chemistry:
-      name: Department of Chemistry
     cs:
       name: Computer Science Department
-    eaee:
-      name: Department of Earth and Environmental Engineering
+    chemistry:
+      name: Department of Chemistry
     physics:
       name: Department of Physics
+    cheme:
+      name: Department of Chemical Engineering
+    eaee:
+      name: Department of Earth and Environmental Engineering
   name: Columbia University
   schools:
     seas:
@@ -233,12 +223,12 @@ cornellu:
   city: Ithaca
   country: USA
   departments:
+    physics:
+      name: Department of Physics
     chemistry:
       name: Department of Chemistry and Chemical Biology
     matsci:
       name: Department of Materials Science and Engineering
-    physics:
-      name: Department of Physics
   name: Cornell University
   state: New York
   street: ''
@@ -263,10 +253,10 @@ drexelu:
   city: Philadelphia
   country: USA
   departments:
-    mse:
-      name: Department of Materials Science and Engineering
     nano:
       name: A.J. Drexel Nanomaterials Institute
+    mse:
+      name: Department of Materials Science and Engineering
   name: Drexel University
   schools:
     eng:
@@ -432,24 +422,6 @@ hashemiteu:
   updated: '2020-01-10 17:18:19.635036'
   uuid: 65f16cfa-e364-47c5-a7f1-0a1dcd4e68ce
   year: 2020
-hmi:
-  aka:
-    - ASML HMI
-    - Hermes Microvision, Inc. (USA)
-  city: San Jose
-  country: USA
-  name: Hermes Microvision
-  zip: 95131
-huawei:
-  aka: []
-  city: Shenzhen
-  country: China
-  day: 19
-  month: 2
-  name: Huawei
-  updated: 2020-02-19 14:24:02.039400
-  uuid: da403d71-cee7-4d50-8d75-0c59ff0ec437
-  year: 2020
 iccnrcomo:
   aka:
     - Crystallographic Institute, Como
@@ -471,21 +443,6 @@ icdd:
   uuid: 64d3043d-df1c-4d20-97a1-718cf93fc369
   year: 2020
   zip: '19073'
-icmm:
-  aka:
-    - Materials Science Institute of Madrid
-    - Institute of Materials Science of Madrid
-  city: Madrid
-  country: Spain
-  name: Instituto de Ciencia de Materiales de Madrid
-iitkanpur:
-  aka:
-    - iitkanpur
-  city: Kanpur
-  country: India
-  name: Indian Institute of Technology Kanpur
-  state: Uttar Pradesh
-  zip: '208016'
 ill:
   aka:
     - ILL
@@ -541,14 +498,14 @@ kentstateu:
   city: Kent
   country: USA
   departments:
-    chemistry:
-      aka:
-        - Chemistry
-      name: Department of Chemistry
     physics:
       aka:
         - Physics
       name: Department of Physics
+    chemistry:
+      aka:
+        - Chemistry
+      name: Department of Chemistry
   name: Kent State University
   schools:
     cas:
@@ -556,22 +513,6 @@ kentstateu:
   state: OH
   street: 208 Schwartz Center, 800 E. Summit St.
   zip: '44242'
-kyotou:
-  city: Kyoto
-  country: Japan
-  name: Kyoto University
-lab49:
-  aka: []
-  city: New York City
-  country: USA
-  day: 19
-  month: 2
-  name: Lab49
-  state: NY
-  updated: 2020-02-19 14:30:17.809965
-  uuid: ad770445-20c0-4c62-8da4-8899d182a7e9
-  year: 2020
-  zip: '10105'
 lanl:
   aka:
     - LANL
@@ -610,14 +551,6 @@ lehighu:
   name: Lehigh University
   state: PA
   zip: '18015'
-lhmfcas:
-  aka:
-    - Laboratory of High Magnetic Field of Chinese Academy of Sciences
-  city: Hefei
-  country: China
-  name: Laboratory of High Magnetic Field of Chinese Academy of Sciences
-  state: Anhui
-  zip: '230031'
 mcmasteru:
   aka:
     - mcmasteru
@@ -634,23 +567,7 @@ missing:
   aka: []
   city: missing
   country: missing
-  departments: {}
-  name: missing
-  state: ''
-  zip: ''
-mit:
-  aka:
-    - MIT
-  city: Boston
-  country: USA
-  day: 17
-  month: 2
-  name: Massachusetts Institute of Technology
-  state: MA
-  updated: 2020-02-17 18:19:28.624049
-  uuid: c18b5f2d-0370-41be-a671-96e2f2124739
-  year: 2020
-  zip: '02139'
+  name: Missing
 mpi:
   aka:
     - Max Planck
@@ -665,42 +582,6 @@ mpi:
       name: Institute for Solid State Physics
   name: Max Planck Institute
   state: ''
-mpicps:
-  aka:
-    - mpicps
-  city: Dresden
-  country: Germany
-  day: 19
-  month: 2
-  name: Max Planck Institute for Chemical Physics of Solids
-  updated: 2020-02-19 14:17:04.332919
-  uuid: 15f283f2-0131-47b7-8e4d-4d14db0b973a
-  year: 2020
-  zip: '01187'
-mpissr:
-  aka:
-    - mpissr
-  city: Stuttgart
-  country: Germany
-  day: 19
-  month: 2
-  name: Max Planck Institute for Solid State Research
-  updated: 2020-02-19 15:19:19.118716
-  uuid: d406ec28-d1e1-4024-a87e-704e04ba576c
-  year: 2020
-  zip: '70569'
-msk:
-  aka:
-    - MSK
-    - Sloan Kettering
-    - Memorial Sloan Kettering Cancer Center
-  city: New York
-  country: USA
-  departments: {}
-  name: Memorial Sloan Kettering Cancer Center
-  state: New York
-  street: 1275 York Avenue
-  zip: 1006
 msu:
   aka:
     - MSU
@@ -708,10 +589,10 @@ msu:
   city: East Lansing
   country: USA
   departments:
-    chemistry:
-      name: Department of Chemistry
     physics:
       name: Department of Physics and Astronomy
+    chemistry:
+      name: Department of Chemistry
   name: Michigan State University
   state: MI
   street: 220 Trowbridge Rd
@@ -739,18 +620,6 @@ natautoumexico:
   state: ''
   street: Av Universidad 3000, Cd. Universitaria, Coyoacán
   zip: '04510'
-newcastleu:
-  aka:
-    - University of Newcastle upon Tyne
-  city: Newcastle upon Tyne
-  country: UK
-  day: 18
-  month: 2
-  name: Newcastle University
-  updated: 2020-02-18 23:12:41.301558
-  uuid: b783d349-604f-4412-9310-84cc9e19cd14
-  year: 2020
-  zip: NE1 7RU
 nist:
   aka:
     - NIST
@@ -774,14 +643,6 @@ northwesternu:
   updated: '2020-01-10 17:26:45.692690'
   uuid: 6bfefc1b-60a8-4ef3-bf24-85761fdadb9c
   year: 2020
-nrl:
-  aka:
-    - nrl
-  city: Washington D.C.
-  country: USA
-  name: United States Naval Research Laboratory
-  state: ''
-  zip: ''
 nslsii:
   aka:
     - NSLS-II
@@ -834,18 +695,18 @@ oxfordu:
   city: Oxford
   country: UK
   departments:
+    physics:
+      name: Department of Physics
     chemistry:
       name: Department of Chemistry
-    cs:
-      name: Department of Computer Science
     earthsci:
       name: Department of Earth Sciences
     eng:
       name: Department of Engineering Science
     matsci:
       name: Department of Materials
-    physics:
-      name: Department of Physics
+    cs:
+      name: Department of Computer Science
   name: Oxford University
   state: ''
 pacificnorthwestnationallaboratory:
@@ -862,14 +723,21 @@ pacificnorthwestnationallaboratory:
   uuid: 2afc5352-77fe-49a0-840b-dfb971c0319a
   year: 2020
   zip: '99352'
-pal:
+paulscherrerinstitute:
   aka:
-    - Pohang Accelerator Laboratory
-  city: Pohang
-  country: South Korea
-  name: Pohang Accelerator Laboratory
-  state: Gyeongsangbuk-do
-  zip: ''
+    - psi
+    - PSI
+  city: Villigen
+  country: Switzerland
+  day: 14
+  departments:
+    muons:
+      name: Laboratory for Muon Spin Spectroscopy
+  month: 2
+  name: Paul Scherrer Institute
+  updated: 2020-02-14 19:29:10.702242
+  uuid: 5cc933be-dcd2-4289-8c58-51bf01d83c89
+  year: 2020
 pekingu:
   aka:
     - Peking University
@@ -877,46 +745,20 @@ pekingu:
   city: Beijing
   country: China
   departments:
-    chemistry:
-      name: School of Chemistry
     physics:
       name: School of Physics
+    chemistry:
+      name: School of Chemistry
   name: Peking University
   state: ''
   street: 5 Yiheyuan Road
   zip: '100871'
-pohangacceleratorlaboratory:
-  aka:
-    - PAL
-  city: Pohang
-  country: South Korea
-  day: 19
-  month: 2
-  name: Pohang Accelerator Laboratory
-  updated: 2020-02-19 14:34:52.528397
-  uuid: b7c956ef-de27-4a1f-bea9-c2d9dc39077e
-  year: 2020
-pohanguofscienceandtechnology:
-  aka:
-    - POSTECH
-  city: Pohang
-  country: South Korea
-  day: 19
-  month: 2
-  name: Pohang University of Science and Technology
-  updated: 2020-02-19 14:38:44.195006
-  uuid: 2acb8c42-b494-4274-9d8b-7a41bcce7a28
-  year: 2020
 psi:
   aka:
     - PSI
     - Paul Scherrer Institute
-    - Paul Scherrer Institute, Switzerland
   city: Villigen
   country: Switzerland
-  departments:
-    muons:
-      name: Laboratory for Muon Spin Spectroscopy
   name: Paul Scherrer Institute
   state: ''
   zip: ''
@@ -933,22 +775,6 @@ puneu:
   name: Savitribai Phule Pune University
   state: Maharashtra
   zip: '411007'
-purdueu:
-  aka:
-    - purdueu
-  city: West Lafayette
-  country: USA
-  name: Purdue University
-  state: Indiana
-  zip: '47907'
-pust:
-  aka:
-    - Pohang University of Science and Technology
-  city: Pohang
-  country: South Korea
-  name: Pohang University of Science and Technology
-  state: Gyeongsangbuk-do
-  zip: ''
 qmul:
   aka:
     - QMUL
@@ -980,14 +806,6 @@ riceu:
   name: Rice University
   state: TX
   zip: '77251'
-rpi:
-  aka:
-    - rpi
-  city: Troy
-  country: USA
-  name: Rensselaer Polytechnic Institute
-  state: New York
-  zip: '12180'
 rutgersu:
   aka:
     - Rutgers
@@ -1033,16 +851,6 @@ sns:
   uuid: 8e7cf53d-c0e0-421a-b990-cb5b36eacb92
   year: 2020
   zip: '37830'
-sogangu:
-  aka:
-    - Sogang University
-  city: Seoul
-  country: South Korea
-  name: Sogang University
-  state: Gyeonggi-do
-  updated: 2020-02-19 14:43:53.829938
-  uuid: bda60291-b09e-4b29-929e-456862395895
-  year: 2020
 srtmu:
   aka:
     - SRTMU
@@ -1055,17 +863,6 @@ srtmu:
   name: Swami Ramanand Teerth Marathwada University
   state: Maharashtra
   zip: ''
-stanfordu:
-  aka:
-    - stanfordu
-  city: Stanford
-  country: USA
-  departments:
-    physics:
-      name: Department of Physics
-  name: Stanford University
-  state: California
-  zip: '94305'
 sunybuffalo:
   aka:
     - SUNY Buffalo
@@ -1086,51 +883,17 @@ sunysb:
   city: Stony Brook
   country: USA
   departments:
+    physics:
+      name: Department of Physics and Astronomy
     chemistry:
       name: Department of Chemistry
     earthsci:
       name: Department of Earth Science
-    physics:
-      name: Department of Physics and Astronomy
   name: Stony Brook University
   state: NY
   street: ''
   zip: '11794'
-tamu:
-  aka:
-    - tamu
-  city: College Station
-  country: USA
-  name: Texas AM University
-  state: Texas
-  zip: '77843'
-texasa&mu:
-  aka:
-    - Texas A&M
-  city: College Station
-  country: USA
-  day: 19
-  month: 2
-  name: Texas A&M University
-  state: TX
-  updated: 2020-02-19 14:54:55.040697
-  uuid: 9f1a6032-33b8-47bb-9d6f-f5b70c5e5645
-  year: 2020
-  zip: '77843'
-ubayreuth:
-  aka:
-    - Bayreuth
-    - bayreuth
-  city: Bayreuth
-  country: Germany
-  departments:
-    chemistry:
-      aka:
-        - chem
-      name: Biology, Chemistry & Earth Sciences
-  name: Universität Bayreuth
-  state: ''
-ubc:
+theuofbritishcolumbia:
   aka:
     - University of British Columbia
     - UBC
@@ -1144,6 +907,19 @@ ubc:
   updated: 2020-02-14 19:40:42.838722
   uuid: 4562c391-b467-4fbc-9342-4a40150c8405
   year: 2020
+ubayreuth:
+  aka:
+    - Bayreuth
+    - bayreuth
+  city: Bayreuth
+  country: Germany
+  departments:
+    chemistry:
+      aka:
+        - chem
+      name: Biology, Chemistry & Earth Sciences
+  name: Universität Bayreuth
+  state: ''
 ubelgrade:
   aka:
     - University of Belgrade
@@ -1187,11 +963,6 @@ ucdavis:
   name: University of California - Davis
   state: CA
   zip: '95616'
-ucla:
-  city: Los Angeles
-  country: USA
-  name: University of California, Los Angeles
-  zip: 90095
 uconn:
   aka:
     - UConn
@@ -1225,9 +996,9 @@ udelaware:
   country: USA
   departments:
     physics:
+      name: Department of Physics and Astronomy
       aka:
         - physics
-      name: Department of Physics and Astronomy
   name: University of Delaware
   state: DE
   street: ''
@@ -1269,32 +1040,32 @@ ufrankfurt:
   city: Frankfurt
   country: Germany
   departments:
-    appphy:
-      name: Institute of Applied Physics
+    theophy:
+      name: Institute of Theoretical Physics
     biophy:
       name: Institute of Biophysics
-    didchem:
-      name: Institute of Didactics of Chemistry
+    appphy:
+      name: Institute of Applied Physics
     inochem:
       name: Institute of Inorganic and Analytical Chemistry
-    nucphy:
-      name: Institute of Nuclear Physics
-    orgchem:
-      name: Institute of Organic Chemistry and Chemical Biology
+    phyedu:
+      name: Institute of Physics Education
+    didchem:
+      name: Institute of Didactics of Chemistry
     phy:
       name: Institute of Physics
     phychem:
       name: Institute of Physical and Theoretical Chemistry
-    phyedu:
-      name: Institute of Physics Education
-    theophy:
-      name: Institute of Theoretical Physics
+    orgchem:
+      name: Institute of Organic Chemistry and Chemical Biology
+    nucphy:
+      name: Institute of Nuclear Physics
   name: Goethe University Frankfurt
   schools:
-    chemistry:
-      name: Department of Chemistry
     physics:
       name: Department of Physics
+    chemistry:
+      name: Department of Chemistry
   state: ''
   zip: '60323'
 uhamburg:
@@ -1365,10 +1136,10 @@ umaine:
   city: fixme
   country: USA
   departments:
-    chemistry:
-      name: Department of Chemistry
     physics:
       name: Department of Physics
+    chemistry:
+      name: Department of Chemistry
   name: University of Maine
   state: ME
   zip: fixme
@@ -1385,10 +1156,10 @@ umontreal:
   city: Montreal
   country: Canada
   departments:
-    chemistry:
-      name: Département de chimie
     physics:
       name: Département de physique
+    chemistry:
+      name: Département de chimie
   name: Université de Montréal
   state: Québec
   street: 2900, boul. Édouard-Montpetit
@@ -1416,19 +1187,6 @@ uofcampinas:
   updated: 2020-02-14 19:43:31.364928
   uuid: ba8d1f8a-9b72-4d0d-bb95-777f546a4833
   year: 2020
-uofchicago:
-  aka:
-    - UChicago
-  city: Chicago
-  country: USA
-  day: 19
-  month: 2
-  name: University of Chicago
-  state: IL
-  updated: 2020-02-19 14:50:13.991416
-  uuid: ba1226d9-99ae-444b-a9c5-50095f9c3aa1
-  year: 2020
-  zip: '60637'
 uofdayton:
   aka: []
   city: Dayton
@@ -1455,27 +1213,6 @@ uoferlangen-nuremberg:
   updated: '2020-01-10 18:10:21.189617'
   uuid: c4210aab-cde7-428b-b1c4-d62bcab401e0
   year: 2020
-uoficeland:
-  aka:
-    - uoficeland
-  city: Reykjavik
-  country: Iceland
-  name: University of Iceland
-  state: ''
-  zip: ''
-uofmichigan:
-  aka:
-    - UMich
-  city: Ann Arbor
-  country: USA
-  day: 18
-  month: 2
-  name: University of Michigan
-  state: MI
-  updated: 2020-02-18 23:19:11.141224
-  uuid: e46c0bd2-c467-4f2a-a5db-c1832be5dbe7
-  year: 2020
-  zip: '48109'
 uoftrento:
   aka:
     - utrento
@@ -1528,10 +1265,10 @@ upenn:
       name: Department of Chemical Engineering
     chemistry:
       name: Department of Chemistry
-    cs:
-      name: Computer Science Department
     mse:
       name: Department of Materials Science and Engineering
+    cs:
+      name: Computer Science Department
   name: University of Pennsylvania
   schools:
     seas:
@@ -1557,12 +1294,6 @@ urome:
   state: ''
   street: Piazzale Aldo Moro 5
   zip: '00185'
-utokyo:
-  aka:
-    - The University of Tokyo
-  city: Tokyo
-  country: Japan
-  name: University of Tokyo
 utoronto:
   aka:
     - UofT
@@ -1570,12 +1301,12 @@ utoronto:
   city: Toronto
   country: Canada
   departments:
+    physics:
+      name: Department of Physics
     chemistry:
       name: Department of Chemistry
     matsci:
       name: Department of Materials Science and Engineering
-    physics:
-      name: Department of Physics
   name: University of Toronto
   state: Ontario
   street: 27 King's College Cir
@@ -1587,12 +1318,12 @@ utsinghua:
   city: Beijing
   country: China
   departments:
+    physics:
+      name: Department of Physics
     chemistry:
       name: Department of Chemistry
     matsci:
       name: Department of Materials Science and Engineering
-    physics:
-      name: Department of Physics
   name: Tsinghua University
   state: Haidian
   street: 30 Shuangqing Rd
@@ -1650,6 +1381,8 @@ vanderbiltu:
   country: USA
   day: 23
   departments:
+    physics:
+      name: Department of Physics and Astronomy
     chemistry:
       name: Department of Chemistry
     matsci:
@@ -1657,8 +1390,6 @@ vanderbiltu:
         - vinse
         - VINSE
       name: Vanderbilt Institute of Nanoscale Science and Engineering
-    physics:
-      name: Department of Physics and Astronomy
   month: Jan
   name: Vanderbilt University
   state: Tennessee
@@ -1736,3 +1467,4 @@ rutgers:
   country: USA
   state: NJ
   zip: 08854
+
