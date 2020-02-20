@@ -331,6 +331,10 @@ fudanu:
   state: ''
   street: 220 Handan Rd.
   zip: '200433'
+gatech:
+  city: Atlanta
+  country: Giorgia
+  name: Giorgia Institute of Technology
 ghentu:
   aka:
     - University of Ghent
@@ -687,6 +691,12 @@ ohiou:
   name: Ohio University - Main Campus
   state: OH
   zip: 45701-2979
+ornl:
+  city: Oak Ridge
+  country: USA
+  name: Oak Ridge National Laboratory
+  state: Tennessee
+  zip: 37830
 oxfordu:
   aka:
     - Oxford
@@ -806,6 +816,15 @@ riceu:
   name: Rice University
   state: TX
   zip: '77251'
+rutgers:
+  aka:
+    - The State University of New Jersey—Piscataway
+    - State University of New Jersey—Piscataway
+  city: Piscataway
+  country: USA
+  name: Rutgers, The State University of New Jersey—Piscataway
+  state: NJ
+  zip: 08854
 rutgersu:
   aka:
     - Rutgers
@@ -893,6 +912,10 @@ sunysb:
   state: NY
   street: ''
   zip: '11794'
+tbilisistateu:
+  city: Tbilisi
+  country: Gergia
+  name: Ivane Javakhishvili Tbilisi State University
 theuofbritishcolumbia:
   aka:
     - University of British Columbia
@@ -943,6 +966,13 @@ ubern:
   name: University of Bern
   state: ''
   zip: ''
+ucampinas:
+  aka:
+    - University of Campinas
+    - UNICAMP
+  city: Campinas
+  country: Brazil
+  name: Universidade Estadual de Campinas
 ucberkeley:
   aka:
     - Berkeley
@@ -1003,6 +1033,12 @@ udelaware:
   state: DE
   street: ''
   zip: '19716'
+uderennes:
+  aka:
+    - University of Rennes 1
+  city: Rennes
+  country: France
+  name: Université de Rennes 1
 uduisburgessen:
   aka:
     - The University of Duisburg-Essen
@@ -1278,6 +1314,19 @@ upenn:
       name: School of Engineering and Applied Science
   state: PA
   zip: '18015'
+upittsburgh:
+  city: Pittsburgh
+  country: USA
+  name: University of Pittsburgh
+  state: PA
+  zip: 15260
+upuertorico:
+  aka:
+    - Universidad de Puerto Rico
+    - UPR
+  city: San Juan
+  country: Puerto Rico
+  name: University of Puerto Rico
 urome:
   aka:
     - uroma
@@ -1328,6 +1377,16 @@ utsinghua:
   state: Haidian
   street: 30 Shuangqing Rd
   zip: '100084'
+uvirginia:
+  city: Charlottesville
+  country: USA
+  name: University of Virginia
+  state: Virginia
+  zip: 22903
+uwarwick:
+  city: Coventry
+  country: England
+  name: University of Warwick
 uwashington:
   aka:
     - University of Washington
@@ -1409,62 +1468,3 @@ zhejiangu:
   updated: 2020-02-14 19:37:28.925621
   uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
   year: 2020
-ornl:
-  city: Oak Ridge
-  country: USA
-  name: Oak Ridge National Laboratory
-  state: Tennessee
-  zip: 37830
-gatech:
-  city: Atlanta
-  country: Giorgia
-  name: Giorgia Institute of Technology
-uvirginia:
-  city: Charlottesville
-  country: USA
-  name: University of Virginia
-  state: Virginia
-  zip: 22903
-uwarwick:
-  city: Coventry
-  country: England
-  name: University of Warwick
-uderennes:
-  name: Université de Rennes 1
-  aka:
-    - University of Rennes 1
-  city: Rennes
-  country: France
-ucampinas:
-  name: Universidade Estadual de Campinas
-  aka:
-    - University of Campinas
-    - UNICAMP
-  city: Campinas
-  country: Brazil
-ufsc:
-  name: Universidade Federal de Santa Catarina
-  aka:
-    - Federal University of Santa Catarina
-  city: Florianópolis
-  country: Brazil
-princetonu:
-  name: Princeton University
-  city: Princeton
-  country: USA
-  state: NJ
-  zip: 08544
-tbilisistateu:
-  name: Ivane Javakhishvili Tbilisi State University
-  city: Tbsilisi
-  country: Gergia
-rutgers:
-  name: Rutgers, The State University of New Jersey—Piscataway
-  aka:
-    - The State University of New Jersey—Piscataway
-    - State University of New Jersey—Piscataway
-  city: Piscataway
-  country: USA
-  state: NJ
-  zip: 08854
-
