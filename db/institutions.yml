@@ -624,6 +624,18 @@ natautoumexico:
   state: ''
   street: Av Universidad 3000, Cd. Universitaria, Coyoacán
   zip: '04510'
+nmaist:
+  aka:
+    - NMAIST
+  city: Arusha
+  country: Tanzania
+  day: 18
+  month: 2
+  name: Nelson Mandela African Institution of Science and Technology
+  updated: 2020-02-18 22:51:23.990291
+  uuid: 8c0c942d-d718-4f23-b434-393bc723e493
+  year: 2020
+  zip: '23100'
 nist:
   aka:
     - NIST
