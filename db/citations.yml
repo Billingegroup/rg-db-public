@@ -10092,3 +10092,42 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
+lo;nc20:
+  author:
+    - Lo, Sheng-Han
+    - Feng, Liang
+    - Tan, Kui
+    - Huang, Zhehao
+    - Yuan, Shuai
+    - Wang, Kun-Yu
+    - Li, Bing-Han
+    - Liu, Wan-Ling
+    - Day, Gregory S.
+    - Tao, Songsheng
+    - Yang, Chun-Chuen
+    - Luo, Tzuoo-Tsair
+    - Lin, Chia-Her
+    - Wang, Sue-Lein
+    - Billinge, Simon J. L.
+    - Lu, Kuang-Lieh
+    - Chabal, Yves J.
+    - Zou, Xiaodong
+    - Zhou, Hong-Cai
+  doi: 10.1038/s41557-019-0364-0
+  entrytype: article-journal
+  facility: bnl
+  grant: tamu17
+  journal: Nature Chemistry
+  nb: ''
+  optannote: ''
+  optnote: ''
+  optwwwlanl: ''
+  optwwwpub: ''
+  pages: 90-97
+  title: Rapid desolvation-triggered domino lattice rearrangement in a metal–organic
+    framework
+  url: https://doi.org/10.1038/s41557-019-0364-0
+  volume: '12'
+  wwwemail: ''
+  wwwpub: ''
+  year: '2020'
