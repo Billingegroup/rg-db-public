@@ -131,6 +131,14 @@ bnl:
   city: Upton
   country: USA
   departments:
+    nslsii:
+      aka:
+        - nsls-ii
+        - nsls2
+        - nsls ii
+        - nsls 2
+        - National Synchrotron Light Source II Friday lunchtime seminar series
+      name: National Synchrotron Light Source II
     cfn:
       name: Center for Functional Nanomaterials
     chemistry:
@@ -200,6 +208,13 @@ columbiau:
   city: New York
   country: USA
   departments:
+    dsi:
+      name: Data Science Institute
+    mrsec:
+      aka:
+        - Columbia MRSEC
+        - PAS3
+      name: Center for Precision Assembly of Superstratic and Superatomic Solids (PAS3)
     apam:
       aka:
         - APAM
