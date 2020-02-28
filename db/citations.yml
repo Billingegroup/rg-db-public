@@ -10094,31 +10094,33 @@ zhu;gca11:
   year: '2012'
 lo;nc20:
   author:
-    - Lo, Sheng-Han
-    - Feng, Liang
-    - Tan, Kui
-    - Huang, Zhehao
-    - Yuan, Shuai
-    - Wang, Kun-Yu
-    - Li, Bing-Han
-    - Liu, Wan-Ling
-    - Day, Gregory S.
-    - Tao, Songsheng
-    - Yang, Chun-Chuen
-    - Luo, Tzuoo-Tsair
-    - Lin, Chia-Her
-    - Wang, Sue-Lein
-    - Billinge, Simon J. L.
-    - Lu, Kuang-Lieh
-    - Chabal, Yves J.
-    - Zou, Xiaodong
-    - Zhou, Hong-Cai
+    - Sheng-Han Lo
+    - Liang Feng
+    - Kui Tan
+    - Zhehao Huang
+    - Shuai Yuan
+    - Kun-Yu Wang
+    - Bing-Han Li
+    - Wan-Ling Liu
+    - Gregory S. Day
+    - Songsheng Tao
+    - Chun-Chuen Yang
+    - Tzuoo-Tsair Luo
+    - Chia-Her Lin
+    - Sue-Lein Wang
+    - Simon J. L. Billinge
+    - Kuang-Lieh Lu
+    - Yves J. Chabal
+    - Xiaodong Zou
+    - Hong-Cai Zhou
+  ackno: We dedicate this paper to the memory of H.-Y. Huang (Department of Chemistry, Chung Yuan Christian University) for her enthusiasm for—and encouragement of—this work. The gas adsorption–desorption studies and enzyme immobilization of this research were supported by the Ministry of Science and Technology, Taiwan (under MOST-106-2113-M-033-001) and Chung Yuan Christian University. Thermogravimetric analysis–mass spectrometry, transmission electron microscopy, and PXRD characterization and analysis were funded by the Robert A. Welch Foundation through a Welch Endowed Chair to H.-C.Z. (A-0030). Solid-state NMR and scanning electron microscopy were supported by the Ministry of Science and Technology, Taiwan (under MOST-106-2113-M-007-023-MY2) and the National Tsing Hua University. The material syntheses were funded by the Ministry of Science and Technology, Taiwan (under MOST-103-2113-M-001-005-MY3) and Academia Sinica. The spectroscopic characterization and analysis (infrared) work were supported by the US Department of Energy (under award no. DE-FG02-08ER46491, and finished under award no. DE-SC0019902). The authors acknowledge the support with a 01C2 beam line from the National Synchrotron Radiation Research Center (NSRRC), Taiwan. The PDF structural analyses were supported by the US Department of Energy, Office of Science and Office of Basic Energy Sciences (DOE‐BES) (under contract no. DE-SC0017864), the Knut and Alice Wallenberg Foundation (KAW) (3DEM-NATUR project no. 2012.0112) and the Swedish Research Council (VR, 2017–04321). S.J.L.B. and S.T. were supported for PDF analysis by the NSF MRSEC programme through Columbia University in the Center for Precision Assembly of Superstratic and Superatomic Solids (DMR-1420634). Use of the National Synchrotron Light Source II, Brookhaven National Laboratory, was supported by the US Department of Energy, Office of Science, Office of Basic Energy Sciences (under contract no. DE-SC0012704). The authors also acknowledge the valuable assistance and discussion from H. Deng and J. Li.
   doi: 10.1038/s41557-019-0364-0
-  entrytype: article-journal
-  facility: bnl
+  entrytype: article
+  facility: "nslsii, aps"
+  beamline: xpd
   grant: tamu17
   journal: Nature Chemistry
-  nb: ''
+  nb: 'art, hilite'
   optannote: ''
   optnote: ''
   optwwwlanl: ''
@@ -10130,4 +10132,5 @@ lo;nc20:
   volume: '12'
   wwwemail: ''
   wwwpub: ''
-  year: '2020'
+  year: '2019'
+  month: dec
