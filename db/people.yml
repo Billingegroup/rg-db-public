@@ -208,7 +208,7 @@ cwright:
       organization: Lab 49
       position: Associate
     - end_year: 2019
-      end_monght: 10
+      end_month: 10
       begin_year: 2016
       position: Graduate Research Assistant
       organization: columbiau
@@ -964,7 +964,7 @@ mwaddell:
       position: Graduate Research Assistant
       begin_year: 2018
       end_year: 2019
-      enc_month: Apr
+      end_month: Apr
       group: bg
       status: ms
   name: Michael A. Waddell
