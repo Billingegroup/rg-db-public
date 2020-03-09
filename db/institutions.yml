@@ -624,18 +624,6 @@ natautoumexico:
   state: ''
   street: Av Universidad 3000, Cd. Universitaria, Coyoacán
   zip: '04510'
-nmaist:
-  aka:
-    - NMAIST
-  city: Arusha
-  country: Tanzania
-  day: 18
-  month: 2
-  name: Nelson Mandela African Institution of Science and Technology
-  updated: 2020-02-18 22:51:23.990291
-  uuid: 8c0c942d-d718-4f23-b434-393bc723e493
-  year: 2020
-  zip: '23100'
 nist:
   aka:
     - NIST
@@ -648,6 +636,18 @@ nist:
   state: MD
   street: 100 Bureau Drive
   zip: '20899'
+nmaist:
+  aka:
+    - NMAIST
+  city: Arusha
+  country: Tanzania
+  day: 18
+  month: 2
+  name: Nelson Mandela African Institution of Science and Technology
+  updated: 2020-02-18 22:51:23.990291
+  uuid: 8c0c942d-d718-4f23-b434-393bc723e493
+  year: 2020
+  zip: '23100'
 northwesternu:
   aka:
     - nwu
@@ -836,7 +836,7 @@ rutgers:
   country: USA
   name: Rutgers, The State University of New Jersey—Piscataway
   state: NJ
-  zip: 08854
+  zip: '08854'
 rutgersu:
   aka:
     - Rutgers
@@ -1260,6 +1260,18 @@ uoferlangen-nuremberg:
   name: Friedrich-Alexander-Universität Erlangen-Nürnberg
   updated: '2020-01-10 18:10:21.189617'
   uuid: c4210aab-cde7-428b-b1c4-d62bcab401e0
+  year: 2020
+uofsoutherndenmark:
+  aka:
+    - SDU
+    - Southern Denmark University
+  city: Odense
+  country: Denmark
+  day: 9
+  month: 3
+  name: University of Southern Denmark
+  updated: 2020-03-09 11:41:56.810363
+  uuid: fd6dd99c-330f-4695-83d7-f1dd92ea8ecf
   year: 2020
 uoftrento:
   aka:

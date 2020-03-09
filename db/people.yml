@@ -38,6 +38,7 @@ aabeykoon:
       position: Post-doctoral Scholar
       organization: Brookhaven National Laboratory
       group: bg
+      status: postdoc
   name: A. M. Milinda Abeykoon
   position: Physicist
 bfrandsen:
@@ -62,6 +63,14 @@ bfrandsen:
       begin_month: 5
       position: Post-doctoral Scholar
       organization: University of California, Berkeley
+    - begin_year: 2012
+      begin_month: 9
+      position: Research Associate
+      organization: columbiau
+      status: phd
+      end_year: 2016
+      end_month: 4
+      group: bg
   name: Ben Frandsen
   position: assistant professor
 bozer:
@@ -86,8 +95,9 @@ bozer:
       organization: Columbia University
       end_year: 2020
       end_month: 5
-      position: Undergraduate Researcher
+      position: Masters Researcher
       group: bg
+      status: ms
   name: Berrak Ozer
   position: Undergraduate Researcher
 chliu:
@@ -111,6 +121,15 @@ chliu:
       department: apam
       degree: MS/PhD in Applied Physics
   email: cl3077@columbia.edu
+  employment:
+    - begin_year: 2014
+      begin_month: 6
+      position: Research Associate
+      organization: columbiau
+      status: phd
+      end_year: 2020
+      end_month: 1
+      group: bg
   honors:
     - name: Margaret C. Etter Student Lecturer Award of the American Crystallographic
         Association
@@ -189,9 +208,12 @@ cwright:
       organization: Lab 49
       position: Associate
     - end_year: 2019
+      end_month: 10
       begin_year: 2016
-      position: Graduate Student
+      position: Graduate Research Assistant
       organization: columbiau
+      group: bg
+      status: phd
     - end_year: 2015
       begin_year: 2015
       location: Upton, NY
@@ -400,6 +422,14 @@ cyshi:
       begin_month: 9
       position: Scientist
       organization: Abbott Pharmaceuticals
+    - begin_year: 2012
+      begin_month: 5
+      position: Research Associate
+      organization: columbiau
+      status: phd
+      end_year: 2015
+      end_month: 8
+      group: bg
   name: Chenyang Shi
   position: Scientist
 dyano:
@@ -425,6 +455,7 @@ dyano:
       end_month: 5
       position: Undergraduate Researcher
       group: bg
+      status: undergrad
   name: Daniela Hikari Yano
   position: Undergraduate Researcher
 ebozin:
@@ -492,6 +523,14 @@ ebozin:
       organization: Columbia University
       position: Associate Research Scientist
       status: postdoc
+    - begin_year: 1997
+      begin_month: 9
+      position: Graduate Research Assistant
+      organization: msu
+      status: phd
+      end_year: 2003
+      end_month: 4
+      group: bg
   name: Emil S. Bozin
   position: Associate Scientist
 eculbertson:
@@ -544,6 +583,14 @@ eculbertson:
       gpa: 3.85
   email: elizabeth.a.culbertson@gmail.com
   employment:
+    - begin_year: 2018
+      begin_month: 9
+      position: Graduate Research Assistant
+      organization: columbiau
+      status: ms
+      end_year: 2019
+      end_month: 6
+      group: bg
     - end_year: 2015
       begin_year: 2015
       location: Stanford, CA
@@ -617,11 +664,12 @@ ekjaer:
       begin_month: 1
       end_month: 12
       end_year: 2020
-      position: visiting Research Scholar
+      position: visiting PhD Researcher, U. Copenhagen
       organization: columbiau
       group: bg
+      status: visitor-unsupported
   name: Emil Kjaer
-  position: visitor
+  position: Visiting Researcher
 htvuong:
   active: true
   aka:
@@ -649,6 +697,13 @@ htvuong:
       end_year: 2019
       location: Grinnell, IA
   email: hung.t.vuong@columbia.edu
+  employment:
+    - begin_year: 2019
+      begin_month: 11
+      position: Graduate Researcher
+      organization: columbiau
+      status: phd
+      group: bg
   name: Hung Vuong
   position: graduate student
   skills:
@@ -733,28 +788,6 @@ jcalamari:
     - level: beginner
       category: Specialized Software
       name: SolidWorks
-jgong:
-  active: false
-  aka:
-    - James Gong
-    - Gong, Zizhou
-    - Gong, James
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
-  education:
-    - begin_year: 2014
-      degree: PhD in Physics
-      institution: Columbia University
-      department: physics
-      group: bg
-  employment:
-    - begin_year: 2018
-      begin_month: 4
-      organization: Hermes Microvision
-      location: San Jose, CA
-      position: Engineer
-  name: Zizhou Gong
-  position: Engineer
 kjensen:
   active: false
   aka:
@@ -786,6 +819,7 @@ kjensen:
       position: Post Doctoral Associate
       organization: columbiau
       group: bg
+      status: postdoc
   name: Kirsten Jensen
   position: assistant professor
 kseth:
@@ -804,10 +838,11 @@ kseth:
     - begin_year: 2020
       begin_month: 1
       organization: Columbia University
-      position: Visiting Researcher
+      position: Fulbright Research Scholar - PhD student GNDA University Amritsar
       end_year: 2020
       end_month: 7
       group: bg
+      status: visitor-unsupported
   name: Kriti Seth
   position: Visiting Researcher
 lyang:
@@ -829,8 +864,33 @@ lyang:
       end_month: 12
       degree: Masters in Materials Science
       institution: Columbia University
+  employment:
+    - begin_year: 2017
+      begin_month: 1
+      position: Graduate Research Assistant
+      organization: columbiau
+      status: phd
+      group: bg
   name: Long Yang
   position: Graduate Student
+mkarlsen:
+  active: true
+  aka: []
+  avatar: https://github.com/maak@sdu.dk.png
+  bio: bio
+  education: []
+  email: maak@sku.dk
+  employment:
+    - begin_year: 2020
+      begin_month: 9
+      end_year: 2021
+      end_month: 5
+      organization: columbiau
+      position: Visiting PhD Researcher, U. Southern Denmark
+      group: bg
+      status: visitor-unsupported
+  name: Martin A. Karlsen
+  position: Visiting PhD Researcher, U. Southern Denmark
 mterban:
   active: false
   aka:
@@ -855,6 +915,14 @@ mterban:
       begin_month: 9
       position: Post Doctoral Associate
       organization: Max Planck Institute
+    - begin_year: 2013
+      begin_month: 1
+      position: Graduate Research Assistant
+      organization: columbiau
+      status: phd
+      end_year: 2017
+      end_month: 8
+      group: bg
   name: Maxwell Terban
   position: Post-doctoral Associate
 mwaddell:
@@ -893,11 +961,12 @@ mwaddell:
       end_year: 2018
       group: bg
     - organization: Columbia University
-      position: PhD student
+      position: Graduate Research Assistant
       begin_year: 2018
       end_year: 2019
+      end_month: Apr
       group: bg
-      status: phd
+      status: ms
   name: Michael A. Waddell
   orcid_id: 0000-0003-0908-7571
   position: PhD student
@@ -919,6 +988,7 @@ nfuller:
       organization: Columbia University
       end_year: 2017
       end_month: 8
+      status: ms
       position: Researcher
       group: bg
   name: Neno Fuller
@@ -945,6 +1015,7 @@ nthomas:
       end_month: 5
       position: Undergraduate Researcher
       group: bg
+      status: undergrad
   name: Nonie Thomas
   position: Undergraduate Researcher
 pjuhas:
@@ -985,16 +1056,19 @@ pjuhas:
       position: Associate Physicist
       organization: bnl
       group: bg
+      status: postdoc
     - begin_year: 2008
       end_year: 2012
       position: Research Scientist
       organization: columbiau
       group: bg
+      status: postdoc
     - begin_year: 2003
       end_year: 2008
       position: Postdoctoral Research Associate
       organization: msu
       group: bg
+      status: postdoc
   name: Pavol Juhas
   position: Programmer
 rgu:
@@ -1077,11 +1151,12 @@ rpokratath:
   employment:
     - begin_year: 2020
       begin_month: 1
-      position: Visiting Researcher
+      position: Visiting PhD Researcher - U. Basel
       organization: columbiau
       end_year: 2020
       end_month: 7
       group: bg
+      status: visitor-unsupported
     - begin_year: 2015
       begin_month: 4
       position: Process Engineer
@@ -1107,8 +1182,17 @@ sbandi:
       institution: columbiau
       department: apam
       group: bg
+  employment:
+    - begin_year: 2018
+      begin_month: 9
+      position: Undergraduate Researcher
+      organization: columbiau
+      status: undergrad
+      end_year: 2019
+      end_month: 6
+      group: bg
   name: Sasaank Bandi
-  position: Graduate Studenet
+  position: Graduate Student
 sbanerjee:
   active: false
   aka:
@@ -1131,6 +1215,15 @@ sbanerjee:
       end_year: 2012
       location: Winston-Salem, NC
   email: sb3519@columbia.edu
+  employment:
+    - begin_year: 2013
+      begin_month: 9
+      position: Graduate Research Assistant
+      organization: columbiau
+      status: phd
+      end_year: 2019
+      end_month: 10
+      group: bg
   name: Soham Banerjee
   orcid_id: 0000-0001-9271-493X
   position: Graduate Student
@@ -1138,7 +1231,7 @@ sbanerjee:
     - level: proficient
       category: Programming Languages
       name: Python
-  title: Mr.
+  title: Dr.
 sbillinge:
   active: true
   aka:
@@ -1346,11 +1439,12 @@ sharouna-mayer:
   employment:
     - begin_year: 2019
       begin_month: 12
-      position: Visiting Researcher
+      position: Visiting Masters Researcher - U. Hamburg
       organization: Columbia University
       end_year: 2020
       end_month: 8
       group: bg
+      status: visitor-unsupported
     - begin_year: 2017
       begin_month: 8
       department: users
@@ -1380,6 +1474,7 @@ smayers:
       position: Undergraduate Researcher
       organization: Columbia University
       group: bg
+      status: undergrad
   name: Sam Mayers
   position: undergrad
 sstao:
@@ -1410,6 +1505,13 @@ sstao:
       end_year: 2017
       location: Beijing, China
   email: st3107@columbia.edu
+  employment:
+    - begin_year: 2017
+      begin_month: 9
+      position: Graduate Research Assistant
+      organization: columbiau
+      status: phd
+      group: bg
   name: Songsheng Tao
   orcid_id: 0000-0002-7565-3503
   position: Graduate Student
@@ -1455,6 +1557,7 @@ tcaswell:
       position: Visiting Associate Research Scientist
       organization: columbiau
       group: bg
+      status: Guest
     - begin_year: 2017
       begin_month: 1
       position: Associate Computational Scientist
@@ -1490,6 +1593,7 @@ vgharakhanyan:
       position: MS/PhD
       organization: columbiau
       group: bg
+      status: ms
   name: Vahe Gharakhanyan
   position: Graduate Student
 xhyang:
@@ -1529,6 +1633,14 @@ xhyang:
       organization: JP Morgan Chase
       end_month: 4
       end_year: 2018
+    - begin_year: 2012
+      begin_month: 9
+      position: Graduate Research Assistant
+      organization: columbiau
+      status: phd
+      end_year: 2015
+      end_month: 6
+      group: bg
   name: XiaoHao Yang
   position: Software Engineer
 xyun:
@@ -1555,7 +1667,7 @@ xyun:
       end_year: 2019
       group: bg
       status: undergrad
-      position: Undergraduate research
+      position: Undergraduate Researcher
       organization: Columbia University
   name: Xin Yun
   position: Graduate Student
@@ -1593,14 +1705,14 @@ yrakita:
       other:
         - (summa cum laude)
   employment:
-    - begin_year: 2015
+    - begin_year: 2019
       begin_month: 9
       end_month: 8
-      end_year: 2017
-      status: postdoc
+      end_year: 2021
       organization: Columbia University
       group: bg
       position: Post Doctoral Associate
+      status: postdoc
   name: Yevgeny Rakita
   position: Post Doctoral Associate
 ytao:
@@ -1617,13 +1729,13 @@ ytao:
       end_year: 2017
       end_month: 8
   employment:
-    - begin_year: 1971
-      begin_month: 1
-      end_month: 3
-      end_year: 1972
-      status: outsider
-      position: Graduate Student Assistant
-      organization: Jordan College-Oxford
+    - begin_year: 2018
+      begin_month: 9
+      position: Graduate Research Assistant
+      organization: columbiau
+      end_year: 2019
+      end_month: 6
+      status: phd
   name: Yunzhe Tao
   position: Post Doctoral Associate
 zguguchia:
@@ -1656,7 +1768,11 @@ zguguchia:
   name: Zurab Guguchia
   position: Scientist
 zzgong:
+  active: false
   aka:
+    - James Gong
+    - Gong, Zizhou
+    - Gong, James
     - zgong
     - ZiZhou Gong
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
@@ -1677,8 +1793,16 @@ zzgong:
         - ''
       position: Senior Optical Engineer
       organization: Hermes Microvision
-  name: ZiZhou Gong
+    - begin_year: 2013
+      begin_month: 9
+      position: Graduate Research Assistant
+      organization: columbiau
+      status: phd
+      end_year: 2018
+      end_month: 6
+      group: bg
+  name: Zizhou Gong
   position: Senior Optical Engineer
   service: []
   skills: []
-  title: ''
+  title: Dr.
