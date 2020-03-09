@@ -1,3 +1,21 @@
+mkarlsen:
+  active: true
+  aka: []
+  avatar: https://github.com/maak@sdu.dk.png
+  bio: bio
+  education: []
+  email: maak@sku.dk
+  employment:
+    - begin_year: 2020
+      begin_month: 9
+      end_year: 2021
+      end_month: 5
+      organization: columbiau
+      position: Visiting PhD Researcher, U. Southern Denmark
+      group: bg
+      status: visitor-unsupported
+  name: Martin A. Karlsen
+  position: Visiting PhD Researcher, U. Southern Denmark
 aabeykoon:
   active: false
   aka:
