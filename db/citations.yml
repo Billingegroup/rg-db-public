@@ -6402,7 +6402,7 @@ liu;jac19:
   day: ''
   doi: ''
   entrytype: article
-  facility: ''
+  facility: nslsii, 11bm, nsls, x17a
   grant: dmrefcheme16
   journal: J. Appl. Crystallogr.
   month: Nov
@@ -6418,7 +6418,7 @@ liu;jac19:
   url: https://arxiv.org/abs/1910.08186
   volume: ''
   wwwemail: ''
-  year: '2019'
+  year: '2020'
 liu;sr14:
   author:
     - Liu, Shuangyi
@@ -6794,7 +6794,7 @@ morro;jfeng19:
     - Elizabeth A. Morrow
     - Maxwell W. Terban
     - Joo Won Lee
-    - Leonard C.Thomas
+    - Leonard C. Thomas
     - Simon J. L. Billinge
     - Shelly J. Schmidt
   doi: 10.1016/j.jfoodeng.2019.05.026
