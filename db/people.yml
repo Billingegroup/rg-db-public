@@ -41,6 +41,42 @@ aabeykoon:
       status: postdoc
   name: A. M. Milinda Abeykoon
   position: Physicist
+achoudhry:
+  active: true
+  aka: []
+  avatar: https://github.com/tbd.png
+  bio: bio
+  education: []
+  email: ajc2289@columbia.edu
+  employment:
+    - begin_year: 2020
+      begin_month: 6
+      end_year: 2020
+      end_month: 8
+      organization: columbiau
+      position: Undergraduate Researcher
+      group: bg
+      status: undergrad
+  name: Akshay Choudhry
+  position: Undergraduate Researcher
+ashaaban:
+  active: true
+  aka: []
+  avatar: https://github.com/ahmeds343.png
+  bio: bio
+  education: []
+  email: ams2551@columbia.edu
+  employment:
+    - begin_year: 2020
+      begin_month: 6
+      end_year: 2020
+      end_month: 8
+      organization: columbiau
+      position: Undergraduate Researcher
+      group: bg
+      status: undergrad
+  name: Ahmed Shaaban
+  position: Undergraduate Researcher
 bfrandsen:
   active: false
   aka:
@@ -970,6 +1006,24 @@ mwaddell:
   name: Michael A. Waddell
   orcid_id: 0000-0003-0908-7571
   position: PhD student
+mwinitch:
+  active: true
+  aka: []
+  avatar: https://github.com/mwinitch.png
+  bio: bio
+  education: []
+  email: mlw2173@columbia.edu
+  employment:
+    - begin_year: 2020
+      begin_month: 6
+      end_year: 2020
+      end_month: 8
+      organization: columbiau
+      position: Undergraduate Researcher
+      group: bg
+      status: undergrad
+  name: Michael Winitch
+  position: Undergraduate Researcher
 nfuller:
   active: false
   aka:
@@ -1165,6 +1219,33 @@ rpokratath:
       end_month: 4
   name: Rohan Pokratath
   position: visitor
+rzyu:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2010
+      degree: PhD in Physics
+      institution: Chinese Academy of Sciences
+      end_year: 2015
+      end_month: 12
+  employment:
+    - begin_year: 2016
+      begin_month: 1
+      end_month: 10
+      end_year: 2017
+      status: postdoc
+      position: Post Doctoral Researcher
+      group: bg
+      organization: bnl
+    - begin_year: 2016
+      begin_month: 1
+      status: postdoc
+      position: Assistant Professor
+      organization: iopcas
+  name: Runze Yu
+  position: Assistant Professor
 sbandi:
   active: false
   aka:
@@ -1216,6 +1297,10 @@ sbanerjee:
       location: Winston-Salem, NC
   email: sb3519@columbia.edu
   employment:
+    - begin_year: 2019
+      begin_month: 11
+      position: Post Doctoral Fellow
+      organization: desy
     - begin_year: 2013
       begin_month: 9
       position: Graduate Research Assistant
@@ -1477,6 +1562,26 @@ smayers:
       status: undergrad
   name: Sam Mayers
   position: undergrad
+sskjaervoe:
+  active: false
+  aka:
+    - Sandra H. Skjærvø
+  avatar: https://github.com/sandraskj.png
+  bio: bio
+  education: []
+  email: sandraskj@gmail.com
+  employment:
+    - begin_year: 2020
+      begin_month: 7
+      end_year: 2022
+      end_month: 6
+      organization: columbiau
+      position: Research Associate
+      group: bg
+      status: postdoc
+  name: Sandra H. Skjaervoe
+  position: Research Associate
+  title: Dr.
 sstao:
   active: true
   aka:
