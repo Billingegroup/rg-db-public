@@ -1492,3 +1492,48 @@ zhejiangu:
   updated: 2020-02-14 19:37:28.925621
   uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
   year: 2020
+lhmfcas:
+  aka:
+    - Laboratory of High Magnetic Field of Chinese Academy of Sciences
+    - lhmfcas
+  city: Hefei
+  country: China
+  day: 15
+  month: 3
+  name: Laboratory of High Magnetic Field of Chinese Academy of Sciences
+  updated: 2020-02-14 19:37:28.925621
+  uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
+  year: 2020
+lab49:
+  aka:
+    - lab49
+  city: Dublin
+  country: Ireland
+  day: 15
+  month: 3
+  name: Lab49
+  updated: 2020-02-14 19:37:28.925621
+  uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
+  year: 2020
+kyotou:
+  aka:
+    - kyotou
+  city: Kyoto
+  country: Japan
+  day: 15
+  month: 3
+  name: Kyoto University
+  updated: 2020-02-14 19:37:28.925621
+  uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
+  year: 2020
+kenyattau:
+  aka:
+    - kenyattau
+  city: Kahawa
+  country: Kenya
+  day: 15
+  month: 3
+  name: Kenyatta University
+  updated: 2020-02-14 19:37:28.925621
+  uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
+  year: 2020
