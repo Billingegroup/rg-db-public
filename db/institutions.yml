@@ -9,6 +9,17 @@ aarhusu:
   name: Aarhus University
   state: ''
   zip: ''
+abbott:
+  aka:
+    - abbott
+    - Abbott Pharmaceuticals
+  city: Chicago
+  country: USA
+  day: 15
+  month: 3
+  name: Abbott Pharmaceuticals
+  state: IL
+  year: 2020
 addisababau:
   aka:
     - University College of Addis Ababa
@@ -26,6 +37,28 @@ addisababau:
       name: College of Natural Science
   state: ''
   zip: ''
+albemarlecorp:
+  aka:
+    - albemarlecorp
+    - Albermale Corporation
+  city: Charlotte
+  country: USA
+  day: 15
+  month: 3
+  name: Albermale Corporation
+  state: NC
+  year: 2020
+altadevices:
+  aka:
+    - altadevices
+    - Alta Devices
+  city: Sunnyvale
+  country: USA
+  day: 15
+  month: 3
+  name: Alta Devices
+  state: CA
+  year: 2020
 anl:
   aka:
     - ANL
@@ -115,6 +148,16 @@ batesc:
   state: Maine
   street: 2 Andrews Road
   zip: '04240'
+beijingit:
+  aka:
+    - beijingit
+    - Beijing Institute of Technology
+  city: Beijing
+  country: China
+  day: 15
+  month: 3
+  name: Beijing Institute of Technology
+  year: 2020
 bnl:
   aka:
     - Brookhaven National Laboratory
@@ -150,6 +193,15 @@ byu:
       name: Physics
   name: Brigham Young University
   state: UT
+cas:
+  aka:
+    - cas
+  city: Beijing
+  country: China
+  day: 15
+  month: 3
+  name: The Chinese Academy of Sciences
+  year: 2020
 ccny:
   aka:
     - City College
@@ -171,6 +223,26 @@ ccny:
   state: NY
   street: 160 Convent Avenue
   zip: '10031'
+cmu:
+  aka:
+    - cmu
+  city: Pittsburgh
+  country: USA
+  day: 15
+  month: 3
+  name: Carnegie Mellon University
+  state: PA
+  year: 2020
+cndr:
+  aka:
+    - cndr
+    - Consiglio Nazionale delle Ricerche
+  city: Rome
+  country: Italy
+  day: 15
+  month: 3
+  name: Consiglio Nazionale delle Ricerche
+  year: 2020
 coloradostateu:
   aka: []
   city: Fort Collins
@@ -233,6 +305,45 @@ cornellu:
   state: New York
   street: ''
   zip: '14850'
+cuny:
+  aka:
+    - cuny
+  city: New York
+  country: USA
+  day: 15
+  month: 3
+  name: The City University of New York
+  state: NY
+  year: 2020
+danishti:
+  aka:
+    - Danish Technological Institute
+    - danishti
+  city: Taastrup
+  country: Denmark
+  day: 15
+  month: 3
+  name: Danish Technological Institute
+  year: 2020
+delftutchnology:
+  aka:
+    - tudelft
+    - delftutchnology
+  city: Delft
+  country: Netherlands
+  day: 15
+  month: 3
+  name: Delft University of Technology
+  year: 2020
+desy:
+  aka:
+    - desy
+  city: Hamburg
+  country: Germany
+  day: 15
+  month: 3
+  name: Deutsche Electron Synchroton
+  year: 2020
 doebes:
   aka:
     - Department of Energy
@@ -263,6 +374,25 @@ drexelu:
       name: College of Engineering
   state: PA
   zip: '19104'
+dscsolutions:
+  aka:
+    - dscsolutions
+  city: Leola
+  country: USA
+  day: 15
+  month: 3
+  name: DSC Solutions
+  state: PA
+  year: 2020
+ebi:
+  aka:
+    - ebi
+  city: Hinxton
+  country: UK
+  day: 15
+  month: 3
+  name: European Bioinformatics Institute
+  year: 2020
 elettra:
   aka: []
   city: Trieste
@@ -319,6 +449,17 @@ fau:
   country: Germany
   name: Friedrich-Alexander-Universität Erlangen-Nürnberg
   state: ''
+formlabs:
+  aka:
+    - Formlabs
+    - formlabs
+  city: Somerville
+  country: USA
+  day: 15
+  month: 3
+  name: Formlabs
+  state: MA
+  year: 2020
 fudanu:
   aka:
     - Fudan
@@ -426,6 +567,46 @@ hashemiteu:
   updated: '2020-01-10 17:18:19.635036'
   uuid: 65f16cfa-e364-47c5-a7f1-0a1dcd4e68ce
   year: 2020
+hermesmicrovision:
+  aka:
+    - hermesm
+    - hermes
+    - hermesmicrovision
+  city: Veldhoven
+  country: The Netherlands
+  day: 15
+  month: 3
+  name: Hermes Microvision
+  year: 2020
+hmcollege:
+  aka:
+    - harveymuddcollege
+    - hmcollege
+  city: Claremont
+  country: USA
+  day: 15
+  month: 3
+  name: Harvey Mudd College
+  state: CA
+  year: 2020
+huawei:
+  aka:
+    - Huawei
+  city: Shenzhen
+  country: China
+  day: 15
+  month: 3
+  name: Huawei
+  year: 2020
+huazhongu:
+  aka:
+    - huazhongu
+  city: Wuhan
+  country: China
+  day: 15
+  month: 3
+  name: Huazhong University
+  year: 2020
 iccnrcomo:
   aka:
     - Crystallographic Institute, Como
@@ -447,6 +628,36 @@ icdd:
   uuid: 64d3043d-df1c-4d20-97a1-718cf93fc369
   year: 2020
   zip: '19073'
+icl:
+  aka:
+    - icl
+    - Imperial College, London
+  city: London
+  country: UK
+  day: 15
+  month: 3
+  name: Imperial College
+  year: 2020
+icmm:
+  aka:
+    - Instituto de Ciencia de Materiales de Madrid
+    - icmm
+  city: Madrid
+  country: Spain
+  day: 15
+  month: 3
+  name: Instituto de Ciencia de Materiales de Madrid
+  year: 2020
+ideas:
+  aka:
+    - ideas
+    - Institute for the Development of Energy for African Sustainability
+  city: Pretoria
+  country: South Africa
+  day: 15
+  month: 3
+  name: Institute for the Development of Energy for African Sustainability
+  year: 2020
 ill:
   aka:
     - ILL
@@ -517,6 +728,33 @@ kentstateu:
   state: OH
   street: 208 Schwartz Center, 800 E. Summit St.
   zip: '44242'
+kenyattau:
+  aka:
+    - kenyattau
+  city: Kahawa
+  country: Kenya
+  day: 15
+  month: 3
+  name: Kenyatta University
+  year: 2020
+kyotou:
+  aka:
+    - kyotou
+  city: Kyoto
+  country: Japan
+  day: 15
+  month: 3
+  name: Kyoto University
+  year: 2020
+lab49:
+  aka:
+    - lab49
+  city: Dublin
+  country: Ireland
+  day: 15
+  month: 3
+  name: Lab49
+  year: 2020
 lanl:
   aka:
     - LANL
@@ -555,6 +793,16 @@ lehighu:
   name: Lehigh University
   state: PA
   zip: '18015'
+lhmfcas:
+  aka:
+    - Laboratory of High Magnetic Field of the Chinese Academy of Sciences
+    - lhmfcas
+  city: Hefei
+  country: China
+  day: 15
+  month: 3
+  name: Laboratory of High Magnetic Field of the Chinese Academy of Sciences
+  year: 2020
 mcmasteru:
   aka:
     - mcmasteru
@@ -1491,252 +1739,4 @@ zhejiangu:
   name: Zhejiang University
   updated: 2020-02-14 19:37:28.925621
   uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
-  year: 2020
-lhmfcas:
-  aka:
-    - Laboratory of High Magnetic Field of the Chinese Academy of Sciences
-    - lhmfcas
-  city: Hefei
-  country: China
-  day: 15
-  month: 3
-  name: Laboratory of High Magnetic Field of the Chinese Academy of Sciences
-  year: 2020
-lab49:
-  aka:
-    - lab49
-  city: Dublin
-  country: Ireland
-  day: 15
-  month: 3
-  name: Lab49
-  year: 2020
-kyotou:
-  aka:
-    - kyotou
-  city: Kyoto
-  country: Japan
-  day: 15
-  month: 3
-  name: Kyoto University
-  year: 2020
-kenyattau:
-  aka:
-    - kenyattau
-  city: Kahawa
-  country: Kenya
-  day: 15
-  month: 3
-  name: Kenyatta University
-  year: 2020
-icmm:
-  aka:
-    - Instituto de Ciencia de Materiales de Madrid
-    - icmm
-  city: Madrid
-  country: Spain
-  day: 15
-  month: 3
-  name: Instituto de Ciencia de Materiales de Madrid
-  year: 2020
-ideas:
-  aka:
-    - ideas
-    - Institute for the Development of Energy for African Sustainability
-  city: Pretoria
-  country: South Africa
-  day: 15
-  month: 3
-  name: Institute for the Development of Energy for African Sustainability
-  year: 2020
-icl:
-  aka:
-    - icl
-    - Imperial College, London
-  city: London
-  country: UK
-  day: 15
-  month: 3
-  name: Imperial College
-  year: 2020
-huazhongu:
-  aka:
-    - huazhongu
-  city: Wuhan
-  country: China
-  day: 15
-  month: 3
-  name: Huazhong University
-  year: 2020
-huawei:
-  aka:
-    - Huawei
-  city: Shenzhen
-  country: China
-  day: 15
-  month: 3
-  name: Huawei
-  year: 2020
-hermesmicrovision:
-  aka:
-    - hermesm
-    - hermes
-    - hermesmicrovision
-  city: Veldhoven
-  country: The Netherlands
-  day: 15
-  month: 3
-  name: Hermes Microvision
-  year: 2020
-hmcollege:
-  aka:
-    - harveymuddcollege
-    - hmcollege
-  city: Claremont
-  country: USA
-  day: 15
-  month: 3
-  name: Harvey Mudd College
-  state: CA
-  year: 2020
-formlabs:
-  aka:
-    - Formlabs
-    - formlabs
-  city: Somerville
-  country: USA
-  day: 15
-  month: 3
-  name: Formlabs
-  state: MA
-  year: 2020
-ebi:
-  aka:
-    - ebi
-  city: Hinxton
-  country: UK
-  day: 15
-  month: 3
-  name: European Bioinformatics Institute
-  year: 2020
-dscsolutions:
-  aka:
-    - dscsolutions
-  city: Leola
-  country: USA
-  day: 15
-  month: 3
-  name: DSC Solutions
-  state: PA
-  year: 2020
-desy:
-  aka:
-    - desy
-  city: Hamburg
-  country: Germany
-  day: 15
-  month: 3
-  name: Deutsche Electron Synchroton
-  year: 2020
-delftutchnology:
-  aka:
-    - tudelft
-    - delftutchnology
-  city: Delft
-  country: Netherlands
-  day: 15
-  month: 3
-  name: Delft University of Technology
-  year: 2020
-danishti:
-  aka:
-    - Danish Technological Institute
-    - danishti
-  city: Taastrup
-  country: Denmark
-  day: 15
-  month: 3
-  name: Danish Technological Institute
-  year: 2020
-cuny:
-  aka:
-    - cuny
-  city: New York
-  country: USA
-  day: 15
-  month: 3
-  name: The City University of New York
-  state: NY
-  year: 2020
-cndr:
-  aka:
-    - cndr
-    - Consiglio Nazionale delle Ricerche
-  city: Rome
-  country: Italy
-  day: 15
-  month: 3
-  name: Consiglio Nazionale delle Ricerche
-  year: 2020
-cmu:
-  aka:
-    - cmu
-  city: Pittsburgh
-  country: USA
-  day: 15
-  month: 3
-  name: Carnegie Mellon University
-  state: PA
-  year: 2020
-beijingit:
-  aka:
-    - beijingit
-    - Beijing Institute of Technology
-  city: Beijing
-  country: China
-  day: 15
-  month: 3
-  name: Beijing Institute of Technology
-  year: 2020
-altadevices:
-  aka:
-    - altadevices
-    - Alta Devices
-  city: Sunnyvale
-  country: USA
-  day: 15
-  month: 3
-  name: Alta Devices
-  state: CA
-  year: 2020
-albemarlecorp:
-  aka:
-    - albemarlecorp
-    - Albermale Corporation
-  city: Charlotte
-  country: USA
-  day: 15
-  month: 3
-  name: Albermale Corporation
-  state: NC
-  year: 2020
-cas:
-  aka:
-    - cas
-  city: Beijing
-  country: China
-  day: 15
-  month: 3
-  name: The Chinese Academy of Sciences
-  year: 2020
-abbott:
-  aka:
-    - abbott
-    - Abbott Pharmaceuticals
-  city: Chicago
-  country: USA
-  day: 15
-  month: 3
-  name: Abbott Pharmaceuticals
-  state: IL
   year: 2020
