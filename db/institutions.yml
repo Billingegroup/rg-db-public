@@ -1501,8 +1501,6 @@ lhmfcas:
   day: 15
   month: 3
   name: Laboratory of High Magnetic Field of Chinese Academy of Sciences
-  updated: 2020-02-14 19:37:28.925621
-  uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
   year: 2020
 lab49:
   aka:
@@ -1512,8 +1510,6 @@ lab49:
   day: 15
   month: 3
   name: Lab49
-  updated: 2020-02-14 19:37:28.925621
-  uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
   year: 2020
 kyotou:
   aka:
@@ -1523,8 +1519,6 @@ kyotou:
   day: 15
   month: 3
   name: Kyoto University
-  updated: 2020-02-14 19:37:28.925621
-  uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
   year: 2020
 kenyattau:
   aka:
@@ -1534,6 +1528,216 @@ kenyattau:
   day: 15
   month: 3
   name: Kenyatta University
-  updated: 2020-02-14 19:37:28.925621
-  uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
   year: 2020
+icmm:
+  aka:
+    - Instituto de Ciencia de Materiales de Madrid
+    - icmm
+  city: Madrid
+  country: Spain
+  day: 15
+  month: 3
+  name: Instituto de Ciencia de Materiales de Madrid
+  year: 2020
+ideas:
+  aka:
+    - ideas
+    - Institute for the Development of Energy for African Sustainability
+  city: Pretoria
+  country: South Africa
+  day: 15
+  month: 3
+  name: Instituto de Ciencia de Materiales de Madrid
+  year: 2020
+icl:
+  aka:
+    - icl
+    - Imperial College of London
+  city: London
+  country: England
+  day: 15
+  month: 3
+  name: Instituto de Ciencia de Materiales de Madrid
+  year: 2020
+huazhongu:
+  aka:
+    - huazhongu
+  city: Wuhan
+  country: China
+  day: 15
+  month: 3
+  name: Huazhong University
+  year: 2020
+huawei:
+  aka:
+    - Huawei
+  city: Shenzhen
+  country: China
+  day: 15
+  month: 3
+  name: Huawei
+  year: 2020
+hermes:
+  aka:
+    - hermesm
+    - hermes
+    - hermesmicrovision
+  city: Veldhoven
+  country: The Netherlands
+  day: 15
+  month: 3
+  name: Hermes Microvision
+  year: 2020
+hmcollege:
+  aka:
+    - harveymuddcollege
+    - hmcollege
+  city: Claremont
+  country: USA
+  day: 15
+  month: 3
+  name: Harvey Mudd College
+  state: CA
+  year: 2020
+formlabs:
+  aka:
+    - Formlabs
+    - formlabs
+  city: Somerville
+  country: USA
+  day: 15
+  month: 3
+  name: Formlabs
+  state: MA
+  year: 2020
+ebi:
+  aka:
+    - ebi
+  city: Hinxton
+  country: England
+  day: 15
+  month: 3
+  name: European Bioinformatics Institute
+  year: 2020
+dscsolutions:
+  aka:
+    - dscsolutions
+  city: Leola
+  country: USA
+  day: 15
+  month: 3
+  name: DSC Solutions
+  state: PA
+  year: 2020
+desy:
+  aka:
+    - desy
+  city: Hamburg
+  country: Germany
+  day: 15
+  month: 3
+  name: German Electron Synchroton
+  year: 2020
+delftutchnology:
+  aka:
+    - tudelft
+    - delftutchnology
+  city: Delft
+  country: Netherlands
+  day: 15
+  month: 3
+  name: Delft University of Technology
+  year: 2020
+danishti:
+  aka:
+    - Danish Technological Institute
+    - danishti
+  city: Taastrup
+  country: Denmark
+  day: 15
+  month: 3
+  name: Danish Technological Institute
+  year: 2020
+cuny:
+  aka:
+    - cuny
+  city: New York
+  country: USA
+  day: 15
+  month: 3
+  name: The City University of New York
+  state: NY
+  year: 2020
+cndr:
+  aka:
+    - cndr
+    - Consiglio Nazionale delle Ricerche
+  city: Rome
+  country: Italy
+  day: 15
+  month: 3
+  name: Consiglio Nazionale delle Ricerche
+  year: 2020
+cmu:
+  aka:
+    - cmu
+  city: Pittsburgh
+  country: USA
+  day: 15
+  month: 3
+  name: Carnegie Mellon University
+  state: PA
+  year: 2020
+beijingit:
+  aka:
+    - beijingit
+    - Beijing Institute of Technology
+  city: Beijing
+  country: China
+  day: 15
+  month: 3
+  name: Beijing Institute of Technology
+  year: 2020
+altadevices:
+  aka:
+    - altadevices
+    - Alta Devices
+  city: Sunnyvale
+  country: USA
+  day: 15
+  month: 3
+  name: Alta Devices
+  state: CA
+  year: 2020
+albemarlecorp:
+  aka:
+    - albemarlecorp
+    - Albermale Corporation
+  city: Charlotte
+  country: USA
+  day: 15
+  month: 3
+  name: Albermale Corporation
+  state: NC
+  year: 2020
+cas:
+  aka:
+    - cas
+  city: Beijing
+  country: China
+  day: 15
+  month: 3
+  name: Chinese Academy of Sciences
+  year: 2020
+abbott:
+  aka:
+    - abbott
+    - Abbott Pharmaceuticals
+  city: Chicago
+  country: USA
+  day: 15
+  month: 3
+  name: Abbott Pharmaceuticals
+  state: IL
+  year: 2020
+  
