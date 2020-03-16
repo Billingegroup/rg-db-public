@@ -1494,13 +1494,13 @@ zhejiangu:
   year: 2020
 lhmfcas:
   aka:
-    - Laboratory of High Magnetic Field of Chinese Academy of Sciences
+    - Laboratory of High Magnetic Field of the Chinese Academy of Sciences
     - lhmfcas
   city: Hefei
   country: China
   day: 15
   month: 3
-  name: Laboratory of High Magnetic Field of Chinese Academy of Sciences
+  name: Laboratory of High Magnetic Field of the Chinese Academy of Sciences
   year: 2020
 lab49:
   aka:
@@ -1547,17 +1547,17 @@ ideas:
   country: South Africa
   day: 15
   month: 3
-  name: Instituto de Ciencia de Materiales de Madrid
+  name: Institute for the Development of Energy for African Sustainability
   year: 2020
 icl:
   aka:
     - icl
-    - Imperial College of London
+    - Imperial College, London
   city: London
-  country: England
+  country: UK
   day: 15
   month: 3
-  name: Instituto de Ciencia de Materiales de Madrid
+  name: Imperial College
   year: 2020
 huazhongu:
   aka:
@@ -1577,7 +1577,7 @@ huawei:
   month: 3
   name: Huawei
   year: 2020
-hermes:
+hermesmicrovision:
   aka:
     - hermesm
     - hermes
@@ -1614,7 +1614,7 @@ ebi:
   aka:
     - ebi
   city: Hinxton
-  country: England
+  country: UK
   day: 15
   month: 3
   name: European Bioinformatics Institute
@@ -1636,7 +1636,7 @@ desy:
   country: Germany
   day: 15
   month: 3
-  name: German Electron Synchroton
+  name: Deutsche Electron Synchroton
   year: 2020
 delftutchnology:
   aka:
@@ -1727,7 +1727,7 @@ cas:
   country: China
   day: 15
   month: 3
-  name: Chinese Academy of Sciences
+  name: The Chinese Academy of Sciences
   year: 2020
 abbott:
   aka:
@@ -1740,4 +1740,3 @@ abbott:
   name: Abbott Pharmaceuticals
   state: IL
   year: 2020
-  
