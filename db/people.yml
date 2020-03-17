@@ -2060,7 +2060,6 @@ rdifrancesco:
       position: Senior Support Consultant
       organization: SAP
     - begin_year: 1992
-      begin_month: 9
       position: Research Associate
       organization: msu
       status: phd
@@ -2069,4 +2068,191 @@ rdifrancesco:
       group: bg
   name: Remo DiFrancesco
   position: Senior Support Consultant
-  
+ppeterson:
+  active: false
+  aka:
+    - Peter Peterson
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 1999
+      degree: PhD
+      institution: msu
+      end_year: 2001
+      end_month: 12
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2003
+      begin_month: 01
+      position: Software Engineer
+      organization: Oak Ridge National Laboratory
+    - begin_year: 1999
+      position: Research Associate
+      organization: msu
+      status: phd
+      end_year: 2001
+      end_month: 12
+      group: bg
+  name: Peter Peterson
+  position: Software Engineer
+ebozin:
+  active: false
+  aka:
+    - Emil S. Bozin
+    - Emil Bozin
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 2001
+      degree: PhD
+      institution: msu
+      end_year: 2003
+      end_month: 5
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2011
+      position: Assistant Scientist
+      organization: Brookhaven National Laboratory
+    - begin_year: 2001
+      position: Research Associate
+      organization: msu
+      status: phd
+      end_year: 2003
+      end_month: 5
+      group: bg
+  name: Emil Bozin
+  position: Assistant Scientist
+xiangyun:
+  active: false
+  aka:
+    - Xiangyun
+    - Xiangyun Qiu
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 1999
+      degree: PhD
+      institution: msu
+      end_year: 2004
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2017
+      position: Assistant Professor
+      organization: georgewashingtonu
+    - begin_year: 1999
+      position: Research Associate
+      organization: msu
+      status: phd
+      end_year: 2004
+      group: bg
+  name: Xianhyun
+  position: Assistant Professor
+mouathshatnawi:
+  active: false
+  aka:
+    - Mouath Ghazi Shatnawi
+    - Mouath Shatnawi
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 2001
+      degree: PhD
+      institution: msu
+      end_year: 2007
+      end_month: 5
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2016
+      position: Assistant Professor
+      organization: Hashemite University
+    - begin_year: 2001
+      position: Research Associate
+      organization: msu
+      status: phd
+      end_year: 2007
+      end_month: 5
+      group: bg
+  name: Mouath Shatnawi
+  position: Assistant Professor
+moneedshatnawi:
+  active: false
+  aka:
+    - Moneeb Shatnawi
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 2004
+      degree: PhD
+      institution: msu
+      end_year: 2007
+      end_month: 7
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2008
+      position: Assistant Professor
+      organization: University of Jordan
+    - begin_year: 2004
+      position: Research Associate
+      organization: msu
+      status: phd
+      end_year: 2007
+      end_month: 7
+      group: bg
+  name: Moneed Shatnawi
+  position: Assistant Professor
+hyavas:
+  active: false
+  aka:
+    - Hasan Yavas
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 2001
+      degree: PhD
+      institution: msu
+      end_year: 2007
+      end_month: 10
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2018
+      position: Staff Scientist
+      organization: SLAC National Accelerator Laboratory
+    - begin_year: 2001
+      position: Research Associate
+      organization: msu
+      status: phd
+      end_year: 2007
+      end_month: 10
+      group: bg
+  name: Hasan Yavas
+  position: Staff Scientist
+tdykhne:
+  active: false
+  aka:
+    - Timur Dykhne
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 2009
+      degree: PhD
+      institution: columbiau
+      end_year: 2011
+      end_month: 6
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2009
+      position: Research Associate
+      organization: columbiau
+      status: phd
+      end_year: 2011
+      end_month: 6
+      group: bg
+  name: Timur Dykhne
+  position: unknown
