@@ -6500,7 +6500,7 @@ lo;nc20:
     - Yves J. Chabal
     - Xiaodong Zou
     - Hong-Cai Zhou
-  beamline: xpd
+  beamline: nslsii, xpd
   doi: 10.1038/s41557-019-0364-0
   entrytype: article
   facility: nslsii, aps
@@ -6508,7 +6508,7 @@ lo;nc20:
   journal: Nature Chemistry
   month: dec
   nb: art, hilite
-  optannote: ''
+  optannote: 'Require change to the acknowledgement. No MRSEC.'
   optnote: ''
   optwwwlanl: ''
   optwwwpub: ''
