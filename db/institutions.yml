@@ -871,7 +871,10 @@ mpi:
   name: Max Planck Institute
   state: ''
 mpicps:
-  aka: []
+  aka:
+    - MPI-CPS
+    - MPICPS
+    - MPI CPS
   city: Dresden
   country: Germany
   day: 17
@@ -881,9 +884,13 @@ mpicps:
   uuid: 4bc411c5-6e58-4b2e-b765-7d72403ee42d
   year: 2020
 mpihamburg:
-  aka: []
-  city: hamburg
-  country: germany
+  aka:
+    - MPI-SDM
+    - MPISDM
+    - MPI SDM
+    - mpihamburg
+  city: Hamburg
+  country: Germany
   day: 17
   month: 3
   name: Max Planck Institute for the Structure and Dynamics of Matter
@@ -891,9 +898,12 @@ mpihamburg:
   uuid: 7a4d8908-41f3-4681-9690-19567a49b22a
   year: 2020
 mpissr:
-  aka: []
-  city: stuttgart
-  country: germany
+  aka:
+    - MPI-SSR
+    - MPISSR
+    - MPI SSR
+  city: Stuttgart
+  country: Germany
   day: 17
   month: 3
   name: Max Planck Institute for Solid State Research
@@ -940,7 +950,7 @@ natautoumexico:
   zip: '04510'
 navalresearchlaboratory:
   aka: []
-  city: New York
+  city: Washington
   country: USA
   day: 17
   month: 3
@@ -1157,7 +1167,8 @@ pekingu:
   street: 5 Yiheyuan Road
   zip: '100871'
 pennstateu:
-  aka: []
+  aka:
+    - State College
   city: Pennsylvania
   country: USA
   day: 17
@@ -1323,7 +1334,7 @@ rutherfordappletonlaboratory:
   uuid: d48cb08d-d9a9-4f86-b12d-5751df57006a
   year: 2020
 sandianationallaboratories:
-  aka: []
+  aka: SNL
   city: Washington
   country: USA
   day: 17
@@ -1357,8 +1368,8 @@ singaporepolytechnic:
 slacnationalacceleratorlaboratory:
   aka:
     - slac
-  city: san mateo county
-  country: california
+  city: San Mateo County
+  country: California
   day: 16
   month: 3
   name: Slac National Accelerator Laboratory
