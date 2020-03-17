@@ -1007,6 +1007,16 @@ pacificnorthwestnationallaboratory:
   uuid: 2afc5352-77fe-49a0-840b-dfb971c0319a
   year: 2020
   zip: '99352'
+parisdiderotu:
+  aka: []
+  city: Paris
+  country: France
+  day: 17
+  month: 3
+  name: paris diderot university
+  updated: 2020-03-17 01:38:43.870461
+  uuid: 5f75c5c6-785a-4632-b527-279452858655
+  year: 2020
 paulscherrerinstitute:
   aka:
     - psi
