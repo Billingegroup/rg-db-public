@@ -2096,35 +2096,7 @@ ppeterson:
       group: bg
   name: Peter Peterson
   position: Software Engineer
-ebozin:
-  active: false
-  aka:
-    - Emil S. Bozin
-    - Emil Bozin
-  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
-  education:
-    - begin_year: 2001
-      degree: PhD
-      institution: msu
-      end_year: 2003
-      end_month: 5
-      group: bg
-      advisor: sbillinge
-  employment:
-    - begin_year: 2011
-      position: Assistant Scientist
-      organization: Brookhaven National Laboratory
-    - begin_year: 2001
-      position: Research Associate
-      organization: msu
-      status: phd
-      end_year: 2003
-      end_month: 5
-      group: bg
-  name: Emil Bozin
-  position: Assistant Scientist
-xiangyun:
+xyqiu:
   active: false
   aka:
     - Xiangyun
@@ -2178,7 +2150,7 @@ mouathshatnawi:
       group: bg
   name: Mouath Shatnawi
   position: Assistant Professor
-moneedshatnawi:
+moneebshatnawi:
   active: false
   aka:
     - Moneeb Shatnawi
@@ -2203,7 +2175,7 @@ moneedshatnawi:
       end_year: 2007
       end_month: 7
       group: bg
-  name: Moneed Shatnawi
+  name: Moneeb Shatnawi
   position: Assistant Professor
 hyavas:
   active: false
@@ -2232,10 +2204,11 @@ hyavas:
       group: bg
   name: Hasan Yavas
   position: Staff Scientist
-tdykhne:
+tdavis:
   active: false
   aka:
     - Timur Dykhne
+    - Timur Davis
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
   bio: bio
   education:
@@ -2247,6 +2220,13 @@ tdykhne:
       group: bg
       advisor: sbillinge
   employment:
+    - begin_year: 2019
+      position: Investment lead
+      organization: Munich Re Venture
+    - begin_year: 2013
+      position: Investment Manager
+      organization: Samsung Venture Investment
+      end_year: 2018
     - begin_year: 2009
       position: Research Associate
       organization: columbiau
@@ -2254,5 +2234,60 @@ tdykhne:
       end_year: 2011
       end_month: 6
       group: bg
-  name: Timur Dykhne
-  position: unknown
+  name: Timur Davis
+  position: Investment lead
+amasadeh:
+  active: false
+  aka:
+    - Ahmad Masadeh
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 2003
+      degree: PhD
+      institution: msu
+      end_year: 2008
+      end_month: 1
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2008
+        position: Assistant Professor
+        organization: University of Jordan
+    - begin_year: 2003
+      position: Research Associate
+      organization: msu
+      status: phd
+      end_year: 2008
+      end_month: 6
+      group: bg
+  name: Ahmad Masadeh
+  position: Assistant Professor
+hlin:
+  active: false
+  aka:
+    - He lin
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 2000
+      degree: PhD
+      institution: msu
+      end_year: 2006
+      end_month: 12
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2009
+      begin_month: 12
+      position: Staff Scientist
+      organization: Shangai Synchrotron Radiation Facility
+    - begin_year: 2000
+      position: Research Associate
+      organization: msu
+      status: phd
+      end_year: 2006
+      end_month: 12
+      group: bg
+  name: He Lin
+  position: Staff Scientist
