@@ -7,6 +7,39 @@
    "local": true}
  ],
  "schemas": {
+  "people": {
+   "employment": {
+    "type": "list",
+    "schema": {
+     "type": "dict",
+     "schema": {
+      "advisor": {
+       "required":  false,
+       "type": "string",
+       "description": "name or id of advisor"
+      },
+      "coworkers": {
+       "required":  false,
+       "type": "list",
+       "description": "list of names or ids of coworkers.  Used to find coeditors"
+      }
+     }
+    }
+   },
+   "education": {
+    "type": "list",
+    "schema": {
+     "type": "dict",
+     "schema": {
+      "advisor": {
+       "required":  false,
+       "type": "string",
+       "description": "name or id of advisor"
+      }
+     }
+    }
+   }
+  },
   "institutions": {
    "year": {
     "description": "The year when the entry was updated",
