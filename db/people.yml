@@ -38,6 +38,7 @@ aabeykoon:
       position: Post-doctoral Scholar
       organization: Brookhaven National Laboratory
       group: bg
+      advisor: sbillinge
       status: postdoc
   name: A. M. Milinda Abeykoon
   position: Physicist
@@ -94,6 +95,7 @@ bfrandsen:
       end_year: 2016
       end_month: 4
       group: bg
+      advisor: sbillinge
   employment:
     - begin_year: 2016
       begin_month: 5
@@ -1363,6 +1365,7 @@ sbillinge:
         - 'Disseration: Development of a novel ultra-high strength alloy steel for
           wire and cable'
     - institution: upenn
+      advisor: Takeshi Egami
       begin_year: 1987
       end_year: 1992
       department: mse
@@ -1425,6 +1428,7 @@ sbillinge:
     - department: Materials Science and Technology
       organization: Los Alamos National Laboratory
       position: Director's Post-doctoral Research Fellow
+      advisor: George Kwei
       begin_year: 1992
       end_year: 1994
       other:
