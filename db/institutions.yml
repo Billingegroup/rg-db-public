@@ -1077,6 +1077,18 @@ qmul:
   state: ''
   street: ''
   zip: ''
+rensselaerpolytechnicinstitute:
+  aka: []
+  city: Troy
+  country: USA
+  day: 17
+  month: 3
+  name: rensselaer polytechnic institute
+  state: NY
+  updated: 2020-03-17 01:03:23.615105
+  uuid: 00ccb56c-b14f-4f88-bbf2-bf86c64eb678
+  year: 2020
+  zip: '12180'
 riceu:
   aka:
     - Rice
