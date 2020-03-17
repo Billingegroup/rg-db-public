@@ -1339,7 +1339,7 @@ rutherfordappletonlaboratory:
   year: 2020
 sandianationallaboratories:
   aka:
-   - SNL
+    - SNL
   city: Washington
   country: USA
   day: 17
@@ -2249,6 +2249,18 @@ vanderbiltu:
   uuid: test
   year: 2020
   zip: 37235
+waterdistrictofsoutherncalifornia:
+  aka: []
+  city: Los Angeles
+  country: USA
+  day: 17
+  month: 3
+  name: Water District of Southern California
+  state: CA
+  updated: 2020-03-17 02:33:24.687682
+  uuid: f4a37279-1ccc-41f3-847b-94e0d117fafd
+  year: 2020
+  zip: '90012'
 westvirginiau:
   aka:
     - westvirginiau
@@ -2270,18 +2282,6 @@ wolfgreenfield:
   name: Wolf Greenfield
   state: MA
   year: 2020
-waterdistrictofsoutherncalifornia:
-  aka: []
-  city: Los Angeles
-  country: USA
-  day: 17
-  month: 3
-  name: Water District of Southern California
-  state: CA
-  updated: 2020-03-17 02:33:24.687682
-  uuid: f4a37279-1ccc-41f3-847b-94e0d117fafd
-  year: 2020
-  zip: '90012'
 zhejiangu:
   aka:
     - zhejiangu
