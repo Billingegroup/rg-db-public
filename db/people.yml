@@ -112,7 +112,57 @@ bfrandsen:
       end_month: 4
       group: bg
   name: Ben Frandsen
-  position: assistant professor
+  position: Assistant Professor
+ptian:
+  active: false
+  aka:
+    - Peng Tian
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 2008
+      begin_month: 9
+      degree: PhD in Physics
+      institution: MSU
+      end_year: 2011
+      end_month: 4
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2018
+      begin_month: 6
+      position: Rates Quant
+      organization: ExodusPoint Capital Management LP
+      end_year: 2014
+      end_month: 9
+    - begin_year: 2015
+      begin_month: 10
+      position: Quantitative Analyst
+      organization: Wells Fargo Securities
+      end_year: 2018
+      end_month: 6
+    - begin_year: 2014
+      begin_month: 10
+      position: Quant Researcher
+      organization: Carlson Capital
+      end_year: 2015
+      end_month: 9
+    - begin_year: 2011
+      begin_month: 5
+      position: Quantitative Analyst
+      organization: Hutchin Hill Capital
+      end_year: 2014
+      end_month: 9
+    - begin_year: 2008
+      begin_month: 9
+      position: Research Associate
+      organization: columbiau
+      status: phd
+      end_year: 2011
+      end_month: 4
+      group: bg
+  name: Peng Tian
+  position: Rates Quant
 bozer:
   active: true
   aka: []
@@ -1397,6 +1447,7 @@ sbillinge:
       end_year: 1986
       department: matsci
       degree: BA in Metallurgy and Materials Science
+      advisor: George Smith
       other:
         - 'Advisor: George Smith'
         - 'Disseration: Development of a novel ultra-high strength alloy steel for
