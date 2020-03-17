@@ -1037,6 +1037,18 @@ pekingu:
   state: ''
   street: 5 Yiheyuan Road
   zip: '100871'
+princetonu:
+  aka: []
+  city: princeton
+  country: USA
+  day: 17
+  month: 3
+  name: princeton university
+  state: NJ
+  updated: 2020-03-17 01:21:03.347677
+  uuid: 88b80a20-2af7-4b78-a6b4-8fd0473d7394
+  year: 2020
+  zip: '08544'
 psi:
   aka:
     - PSI
