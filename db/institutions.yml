@@ -834,6 +834,18 @@ missing:
   city: missing
   country: missing
   name: Missing
+mit:
+  aka: []
+  city: boston
+  country: USA
+  day: 17
+  month: 3
+  name: mit
+  state: MA
+  updated: 2020-03-17 02:30:29.709566
+  uuid: 8acc5248-f9f0-4b26-8deb-3f7dd54c041e
+  year: 2020
+  zip: '02139'
 mpi:
   aka:
     - Max Planck
