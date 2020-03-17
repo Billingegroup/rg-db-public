@@ -886,6 +886,18 @@ natautoumexico:
   state: ''
   street: Av Universidad 3000, Cd. Universitaria, Coyoacán
   zip: '04510'
+navalresearchlaboratory:
+  aka: []
+  city: washington
+  country: USA
+  day: 17
+  month: 3
+  name: naval research laboratory
+  state: DC
+  updated: 2020-03-17 01:52:10.463834
+  uuid: 87adc340-8b39-4e02-a154-1abc47758dc3
+  year: 2020
+  zip: '20375'
 nist:
   aka:
     - NIST
