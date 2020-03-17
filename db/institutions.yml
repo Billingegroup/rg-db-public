@@ -1037,6 +1037,18 @@ pekingu:
   state: ''
   street: 5 Yiheyuan Road
   zip: '100871'
+pomonacollege:
+  aka: []
+  city: claremont
+  country: USA
+  day: 17
+  month: 3
+  name: pomona college
+  state: CA
+  updated: 2020-03-17 01:25:00.837030
+  uuid: 772f31ea-2598-4210-91ee-d09b06c9c07c
+  year: 2020
+  zip: '91711'
 princetonu:
   aka: []
   city: princeton
