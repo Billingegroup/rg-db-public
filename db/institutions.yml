@@ -1194,14 +1194,20 @@ srtmu:
   zip: ''
 suny:
   aka:
-    - The State University of New York
-  city: Albany
+    - SBU
+    - SUNY-SB
+    - SUNY SB
+    - SUNYSB
+    - Stony Brook
+    - Stony Brook University
+  city: Stony Brook
   country: USA
   day: 15
   month: 3
-  name: State University of New York
+  name: State University of New York, Stony Brook
   state: NY
   year: 2020
+  zip: '11794'
 sunybuffalo:
   aka:
     - SUNY Buffalo
