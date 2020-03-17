@@ -932,6 +932,18 @@ nmaist:
   uuid: 8c0c942d-d718-4f23-b434-393bc723e493
   year: 2020
   zip: '23100'
+northcarolinastateu:
+  aka: []
+  city: Raleigh
+  country: USA
+  day: 17
+  month: 3
+  name: north carolina state university
+  state: NC
+  updated: 2020-03-17 02:03:02.889144
+  uuid: 907b56df-c900-4f51-903b-7128ae7a1afb
+  year: 2020
+  zip: '27695'
 northwesternu:
   aka:
     - nwu
