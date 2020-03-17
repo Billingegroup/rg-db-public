@@ -1117,6 +1117,17 @@ sci-tec:
   state: ''
   street: via A. Corti 12
   zip: '20133'
+singaporepolytechnic:
+  aka: []
+  city: Singapore
+  country: Singapore
+  day: 13
+  month: 3
+  name: Singapore Polytechnic
+  updated: 2020-03-13 21:45:03.583337
+  uuid: 695827de-7bff-4556-9fda-77b24d12c9b7
+  year: 2020
+  zip: '139651'
 sns:
   aka:
     - SNS
