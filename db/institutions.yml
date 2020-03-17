@@ -796,6 +796,7 @@ lehighu:
 lhmfcas:
   aka:
     - Laboratory of High Magnetic Field of the Chinese Academy of Sciences
+    - Laboratory of High Magnetic Field of Chinese Academy of Sciences
     - lhmfcas
   city: Hefei
   country: China
@@ -1739,4 +1740,251 @@ zhejiangu:
   name: Zhejiang University
   updated: 2020-02-14 19:37:28.925621
   uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
+  year: 2020
+wolfgreenfield:
+  aka:
+    - wolfgreenfield
+    - Wolf Greenfield
+  city: Boston
+  country: USA
+  day: 15
+  month: 3
+  name: Wolf Greenfield
+  state: MA
+  year: 2020
+westvirginiau:
+  aka:
+    - westvirginiau
+  city: Morgantown
+  country: USA
+  day: 15
+  month: 3
+  name: West Virginia University
+  state: WV
+  year: 2020
+uturku:
+  aka:
+    - uturku
+    - turkuu
+  city: Turku
+  country: Finland
+  day: 15
+  month: 3
+  name: University of Turku
+  year: 2020
+utsydney:
+  aka:
+    - utsydney
+    - sydneytu
+  city: Sydney
+  country: Australia
+  day: 15
+  month: 3
+  name: University of Technology Sydney
+  year: 2020
+utrechtu:
+  aka:
+    - utrechtu
+  city: Utrecht
+  country: Netherlands
+  day: 15
+  month: 3
+  name: Utrecht University
+  year: 2020
+utokyo:
+  aka:
+    - utokyo
+    - tokyou
+  city: Tokyo
+  country: Japan
+  day: 15
+  month: 3
+  name: University of Tokyo
+  year: 2020
+usc:
+  aka:
+    - usoutherncalifornia
+    - usc
+  city: Los Angeles
+  country: USA
+  day: 15
+  month: 3
+  name: University of Southern California
+  state: CA
+  year: 2020
+uoficeland:
+  aka:
+    - icelandu
+  city: Reykjavik
+  country: Iceland
+  day: 15
+  month: 3
+  name: University of Iceland
+  year: 2020
+uofduisbergessen:
+  aka:
+    - duisbergessenu
+    - Universitat Duisburg-Essen
+  city: Duisburg
+  country: Germany
+  day: 15
+  month: 3
+  name: University of Duisburg-Essen
+  year: 2020
+unina:
+  aka:
+    - University of Napoli Federico II
+    - Univeristy of Naples Federico II
+    - Universita degli Studo di Napoli Federico II
+  city: Naples
+  country: Italy
+  day: 15
+  month: 3
+  name: University of Napoli Federico II
+  year: 2020
+ufsc:
+  aka:
+    - Universidade Federal de Santa Catarina
+    - Federal University of Santa Catarina
+  city: Florianopolis
+  country: Brazil
+  day: 15
+  month: 3
+  name: Universidade Federal de Santa Catarina
+  year: 2020
+usda:
+  aka:
+    - United States Department of Agriculture
+  city: Washington
+  country: USA
+  day: 15
+  month: 3
+  name: United States Department of Agriculture
+  year: 2020
+umichigan:
+  aka:
+    - michiganu
+  city: Ann Arbor
+  country: USA
+  day: 15
+  month: 3
+  name: University of Michigan
+  state: MI
+  year: 2020
+umanchester:
+  aka:
+    - University of Manchester
+    - manchesteru
+  city: Manchester
+  country: UK
+  day: 15
+  month: 3
+  name: The University of Manchester
+  year: 2020
+uglasgow:
+  aka:
+    - glasgowu
+  city: Glasgow
+  country: Scotland
+  day: 15
+  month: 3
+  name: University of Glasgow
+  year: 2020
+udaressalaam:
+  aka:
+    - daressalaamu
+  city: Dar es Salaam
+  country: Tanzania
+  month: 3
+  name: University of Dar es Salaam
+  year: 2020
+ucorolado:
+  aka:
+    - coloradou
+  city: Boulder
+  country: USA
+  day: 15
+  month: 3
+  name: University of Colorado
+  state: CO
+  year: 2020
+ucla:
+  aka:
+    - University of California, Los Angeles
+  city: Los Angeles
+  country: USA
+  day: 15
+  month: 3
+  name: University of California Los Angeles
+  state: CA
+  year: 2020
+uchicago:
+  aka:
+    - chicagou
+    - University of Chicago
+  city: Chicago
+  country: USA
+  day: 15
+  month: 3
+  name: The University of Chicago
+  state: IL
+  year: 2020
+ucambridge:
+  aka:
+    - cambridgeu
+  city: Cambridge
+  country: UK
+  day: 15
+  month: 3
+  name: University of Cambridge
+  year: 2020
+ubuffalo:
+  aka:
+    - buffalou
+  city: Buffalo
+  country: USA
+  day: 15
+  month: 3
+  name: University at Buffalo
+  state: NY
+  year: 2020
+ubasel:
+  aka:
+    - baselu
+    - Universitat Basel
+    - The University of Basel
+  city: Basel
+  country: Switzerland
+  day: 15
+  month: 3
+  name: University of Basel
+  year: 2020
+tahokuu:
+  aka:
+    - Tohoko Daigako
+  city: Sendai
+  country: Japan
+  day: 15
+  month: 3
+  name: Tohoko University
+  year: 2020
+tamu:
+  aka:
+    - texasam
+  city: College Station
+  country: USA
+  day: 15
+  month: 3
+  name: Texas A&M University
+  state: TX
+  year: 2020
+suny:
+  aka:
+    - The State University of New York
+  city: Albany
+  country: USA
+  day: 15
+  month: 3
+  name: State University of New York
+  state: NY
   year: 2020
