@@ -56,6 +56,7 @@ achoudhry:
       end_month: 8
       organization: columbiau
       position: Undergraduate Researcher
+      advisor: sbillinge
       group: bg
       status: undergrad
   name: Akshay Choudhry
@@ -74,6 +75,7 @@ ashaaban:
       end_month: 8
       organization: columbiau
       position: Undergraduate Researcher
+      advisor: sbillinge
       group: bg
       status: undergrad
   name: Ahmed Shaaban
@@ -134,6 +136,7 @@ bozer:
       end_year: 2020
       end_month: 5
       position: Masters Researcher
+      advisor: sbillinge
       group: bg
       status: ms
   name: Berrak Ozer
@@ -154,6 +157,7 @@ chliu:
       end_year: 2020
       end_month: 1
       group: bg
+      advisor: sbillinge
       other:
         - 'Advisor: Simon Billinge'
       department: apam
@@ -167,6 +171,7 @@ chliu:
       status: phd
       end_year: 2020
       end_month: 1
+      advisor: sbillinge
       group: bg
   honors:
     - name: Margaret C. Etter Student Lecturer Award of the American Crystallographic
@@ -207,6 +212,7 @@ cwright:
     - department: apam
       institution: columbiau
       degree: PhD in Materials Science
+      advisor: sbillinge
       group: bg
       begin_year: 2017
       end_year: 2019
@@ -250,6 +256,7 @@ cwright:
       begin_year: 2016
       position: Graduate Research Assistant
       organization: columbiau
+      advisor: sbillinge
       group: bg
       status: phd
     - end_year: 2015
@@ -454,6 +461,7 @@ cyshi:
       institution: Columbia University
       end_year: 2015
       end_month: 8
+      advisor: sbillinge
       group: bg
   employment:
     - begin_year: 2015
@@ -465,6 +473,7 @@ cyshi:
       position: Research Associate
       organization: columbiau
       status: phd
+      advisor: sbillinge
       end_year: 2015
       end_month: 8
       group: bg
@@ -493,6 +502,7 @@ dyano:
       end_month: 5
       position: Undergraduate Researcher
       group: bg
+      advisor: sbillinge
       status: undergrad
   name: Daniela Hikari Yano
   position: Undergraduate Researcher
@@ -514,6 +524,7 @@ ebozin:
       location: East Lansing, MI
       department: physics
       degree: PhD in Physics
+      advisor: sbillinge
       other:
         - 'Advisor: Simon Billinge'
     - institution: Michigan State University
@@ -560,12 +571,14 @@ ebozin:
       group: bg
       organization: Columbia University
       position: Associate Research Scientist
+      advisor: sbillinge
       status: postdoc
     - begin_year: 1997
       begin_month: 9
       position: Graduate Research Assistant
       organization: msu
       status: phd
+      advisor: sbillinge
       end_year: 2003
       end_month: 4
       group: bg
@@ -625,6 +638,7 @@ eculbertson:
       begin_month: 9
       position: Graduate Research Assistant
       organization: columbiau
+      advisor: sbillinge
       status: ms
       end_year: 2019
       end_month: 6
@@ -704,6 +718,7 @@ ekjaer:
       end_year: 2020
       position: visiting PhD Researcher, U. Copenhagen
       organization: columbiau
+      advisor: sbillinge
       group: bg
       status: visitor-unsupported
   name: Emil Kjaer
@@ -723,6 +738,7 @@ htvuong:
     - institution: Columbia University
       begin_year: 2019
       group: bg
+      advisor: sbillinge
       other:
         - 'Advisor: Simon Billinge'
       department: chemistry
@@ -740,6 +756,7 @@ htvuong:
       begin_month: 11
       position: Graduate Researcher
       organization: columbiau
+      advisor: sbillinge
       status: phd
       group: bg
   name: Hung Vuong
@@ -776,6 +793,7 @@ jcalamari:
       location: New York, NY
       begin_year: 2015
       end_year: 2017
+      advisor: sbillinge
       group: bg
       organization: The Billinge Group, Columbia University
       status: undergrad
@@ -855,6 +873,7 @@ kjensen:
       end_month: 9
       begin_month: 10
       position: Post Doctoral Associate
+      advisor: sbillinge
       organization: columbiau
       group: bg
       status: postdoc
@@ -878,6 +897,7 @@ kseth:
       organization: Columbia University
       position: Fulbright Research Scholar - PhD student GNDA University Amritsar
       end_year: 2020
+      advisor: sbillinge
       end_month: 7
       group: bg
       status: visitor-unsupported
@@ -894,6 +914,7 @@ lyang:
     - begin_year: 2017
       begin_month: 1
       degree: PhD in Materials Science
+      advisor: sbillinge
       institution: Columbia University
       group: bg
     - begin_year: 2015
@@ -908,6 +929,7 @@ lyang:
       position: Graduate Research Assistant
       organization: columbiau
       status: phd
+      advisor: sbillinge
       group: bg
   name: Long Yang
   position: Graduate Student
@@ -925,6 +947,7 @@ mkarlsen:
       end_month: 5
       organization: columbiau
       position: Visiting PhD Researcher, U. Southern Denmark
+      advisor: sbillinge
       group: bg
       status: visitor-unsupported
   name: Martin A. Karlsen
@@ -946,6 +969,7 @@ mterban:
       degree: PhD in Materials Science
       institution: Columbia University
       department: apam
+      advisor: sbillinge
       end_year: 2017
       end_month: 8
   employment:
@@ -958,6 +982,7 @@ mterban:
       position: Graduate Research Assistant
       organization: columbiau
       status: phd
+      advisor: sbillinge
       end_year: 2017
       end_month: 8
       group: bg
@@ -1003,6 +1028,7 @@ mwaddell:
       begin_year: 2018
       end_year: 2019
       end_month: Apr
+      advisor: sbillinge
       group: bg
       status: ms
   name: Michael A. Waddell
@@ -1022,6 +1048,7 @@ mwinitch:
       end_month: 8
       organization: columbiau
       position: Undergraduate Researcher
+      advisor: sbillinge
       group: bg
       status: undergrad
   name: Michael Winitch
@@ -1044,6 +1071,7 @@ nfuller:
       organization: Columbia University
       end_year: 2017
       end_month: 8
+      advisor: sbillinge
       status: ms
       position: Researcher
       group: bg
@@ -1070,6 +1098,7 @@ nthomas:
       end_year: 2020
       end_month: 5
       position: Undergraduate Researcher
+      advisor: sbillinge
       group: bg
       status: undergrad
   name: Nonie Thomas
@@ -1118,6 +1147,7 @@ pjuhas:
       position: Research Scientist
       organization: columbiau
       group: bg
+      advisor: sbillinge
       status: postdoc
     - begin_year: 2003
       end_year: 2008
@@ -1146,6 +1176,7 @@ rgu:
       end_month: 9
       end_year: 2020
       status: postdoc
+      advisor: sbillinge
       position: Post Doctoral Researcher
       group: bg
       organization: Columbia University
@@ -1174,6 +1205,7 @@ rkoch:
       begin_year: 2018
       end_year: 2020
       end_month: 9
+      advisor: sbillinge
       group: bg
       organization: Brookhaven National Laboratory
       position: Post Doctoral Associate
@@ -1210,6 +1242,7 @@ rpokratath:
       position: Visiting PhD Researcher - U. Basel
       organization: columbiau
       end_year: 2020
+      advisor: sbillinge
       end_month: 7
       group: bg
       status: visitor-unsupported
@@ -1237,6 +1270,7 @@ rzyu:
       begin_month: 1
       end_month: 10
       end_year: 2017
+      advisor: sbillinge
       status: postdoc
       position: Post Doctoral Researcher
       group: bg
@@ -1270,6 +1304,7 @@ sbandi:
       begin_month: 9
       position: Undergraduate Researcher
       organization: columbiau
+      advisor: sbillinge
       status: undergrad
       end_year: 2019
       end_month: 6
@@ -1289,6 +1324,7 @@ sbanerjee:
       group: bg
       location: New York, NY
       department: apam
+      advisor: sbillinge
       degree: MS/PhD in Applied Physics
       other:
         - 'Advisor: Simon Billinge'
@@ -1307,6 +1343,7 @@ sbanerjee:
       begin_month: 9
       position: Graduate Research Assistant
       organization: columbiau
+      advisor: sbillinge
       status: phd
       end_year: 2019
       end_month: 10
@@ -1532,6 +1569,7 @@ sharouna-mayer:
       organization: Columbia University
       end_year: 2020
       end_month: 8
+      advisor: sbillinge
       group: bg
       status: visitor-unsupported
     - begin_year: 2017
@@ -1561,6 +1599,7 @@ smayers:
     - begin_year: 2020
       begin_month: 1
       position: Undergraduate Researcher
+      advisor: sbillinge
       organization: Columbia University
       group: bg
       status: undergrad
@@ -1580,6 +1619,7 @@ sskjaervoe:
       end_year: 2022
       end_month: 6
       organization: columbiau
+      advisor: sbillinge
       position: Research Associate
       group: bg
       status: postdoc
@@ -1604,6 +1644,7 @@ sstao:
       begin_year: 2017
       group: bg
       location: New York, NY
+      advisor: sbillinge
       department: apam
       degree: MS/PhD in Applied Physics
       other:
@@ -1619,6 +1660,7 @@ sstao:
       begin_month: 9
       position: Graduate Research Assistant
       organization: columbiau
+      advisor: sbillinge
       status: phd
       group: bg
   name: Songsheng Tao
@@ -1642,6 +1684,7 @@ syxue:
       group: bg
       organization: Columbia University
       position: Undergraduate Research Assistant
+      advisor: sbillinge
       status: undergrad
   name: Shuyue Xue
   position: Researcher
@@ -1701,6 +1744,7 @@ vgharakhanyan:
       begin_month: 10
       position: MS/PhD
       organization: columbiau
+      advisor: sbillinge
       group: bg
       status: ms
   name: Vahe Gharakhanyan
@@ -1716,6 +1760,7 @@ xhyang:
       begin_month: 1
       degree: PhD in Materials Science
       institution: Columbia University
+      advisor: sbillinge
       end_year: 2015
       end_month: 6
     - begin_year: 2010
@@ -1746,6 +1791,7 @@ xhyang:
       begin_month: 9
       position: Graduate Research Assistant
       organization: columbiau
+      advisor: sbillinge
       status: phd
       end_year: 2015
       end_month: 6
@@ -1774,6 +1820,7 @@ xyun:
       begin_month: 9
       end_month: 5
       end_year: 2019
+      advisor: sbillinge
       group: bg
       status: undergrad
       position: Undergraduate Researcher
@@ -1819,12 +1866,13 @@ yrakita:
       end_month: 8
       end_year: 2021
       organization: Columbia University
+      advisor: sbillinge
       group: bg
       position: Post Doctoral Associate
       status: postdoc
   name: Yevgeny Rakita
   position: Post Doctoral Associate
-ytao:
+yztao:
   active: false
   aka:
     - Yunzhe Tao
@@ -1872,6 +1920,7 @@ zguguchia:
       end_year: 2018
       group: bg
       status: postdoc
+      advisor: sbillinge
       organization: Columbia University
       position: Post Doctoral Associate
   name: Zurab Guguchia
@@ -1890,6 +1939,7 @@ zzgong:
     - institution: columbiau
       degree: MS/PhD in Physics
       group: bg
+      advisor: sbillinge
       other:
         - 'Adviser: Simon Billinge and Yasutomo Uemura'
       department: physics
@@ -1907,6 +1957,7 @@ zzgong:
       position: Graduate Research Assistant
       organization: columbiau
       status: phd
+      advisor: sbillinge
       end_year: 2018
       end_month: 6
       group: bg
