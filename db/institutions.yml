@@ -1133,6 +1133,19 @@ singaporepolytechnic:
   uuid: 695827de-7bff-4556-9fda-77b24d12c9b7
   year: 2020
   zip: '139651'
+slacnationalacceleratorlaboratory:
+  aka:
+    - slac
+  city: san mateo county
+  country: california
+  day: 16
+  month: 3
+  name: slac national accelerator laboratory
+  state: CA
+  updated: 2020-03-16 23:59:34.706335
+  uuid: a74122e0-8f59-4e8a-a65f-b35161128447
+  year: 2020
+  zip: '94025'
 sns:
   aka:
     - SNS
