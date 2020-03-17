@@ -1037,6 +1037,18 @@ pekingu:
   state: ''
   street: 5 Yiheyuan Road
   zip: '100871'
+pennstateu:
+  aka: []
+  city: Pennsylvania
+  country: USA
+  day: 17
+  month: 3
+  name: penn state university
+  state: PA
+  updated: 2020-03-17 01:34:58.029007
+  uuid: de98224b-cc3a-4fc1-bd2e-44b1a26a39be
+  year: 2020
+  zip: '16801'
 pohanguofscienceandtechnology:
   aka: []
   city: Pohang
