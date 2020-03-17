@@ -1413,6 +1413,28 @@ sbillinge:
           a pair distribution function study '
   email: sb2896@columbia.edu
   employment:
+    - organization: iucr
+      begin_year: 2011
+      other:
+        - 'Full title: Professor of Materials Science and of Applied Physics and of
+          Applied Mathematics'
+      department: aca
+      position: editor
+      coworkers:
+        - aallen
+        - aaltomare
+        - lbourgeois
+        - pdominiak
+        - jeon
+        - ugrimm
+        - dkeen
+        - wkuhs
+        - lmarks
+        - hschenk
+        - ktsuda
+        - ivartaniants
+        - pwillmott
+        - mnespolo
     - organization: Columbia University
       begin_year: 2008
       group: bg
