@@ -898,6 +898,18 @@ navalresearchlaboratory:
   uuid: 87adc340-8b39-4e02-a154-1abc47758dc3
   year: 2020
   zip: '20375'
+navigant:
+  aka: []
+  city: new york city
+  country: USA
+  day: 17
+  month: 3
+  name: navigant
+  state: NY
+  updated: 2020-03-17 02:13:03.136543
+  uuid: 849f52fd-2c8c-4644-b744-440a4d0facf1
+  year: 2020
+  zip: '10017'
 newcastleu:
   aka: []
   city: newcastle upon tyne
