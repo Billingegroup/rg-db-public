@@ -872,11 +872,11 @@ mpi:
   state: ''
 mpicps:
   aka: []
-  city: dresden
-  country: germany
+  city: Dresden
+  country: Germany
   day: 17
   month: 3
-  name: mpicps
+  name: Max Planck Institute for Chemical Physics of Solids
   updated: 2020-03-17 02:27:00.262253
   uuid: 4bc411c5-6e58-4b2e-b765-7d72403ee42d
   year: 2020
@@ -886,7 +886,7 @@ mpihamburg:
   country: germany
   day: 17
   month: 3
-  name: mpihamburg
+  name: Max Planck Institute for the Structure and Dynamics of Matter
   updated: 2020-03-17 02:23:15.063435
   uuid: 7a4d8908-41f3-4681-9690-19567a49b22a
   year: 2020
@@ -896,7 +896,7 @@ mpissr:
   country: germany
   day: 17
   month: 3
-  name: mpissr
+  name: Max Planck Institute for Solid State Research
   updated: 2020-03-17 02:19:01.825188
   uuid: d6d204b6-9c9c-4fe6-a307-d0ec82b3de00
   year: 2020
@@ -940,11 +940,11 @@ natautoumexico:
   zip: '04510'
 navalresearchlaboratory:
   aka: []
-  city: washington
+  city: New York
   country: USA
   day: 17
   month: 3
-  name: naval research laboratory
+  name: United States Naval Research Laboratory
   state: DC
   updated: 2020-03-17 01:52:10.463834
   uuid: 87adc340-8b39-4e02-a154-1abc47758dc3
@@ -952,11 +952,11 @@ navalresearchlaboratory:
   zip: '20375'
 navigant:
   aka: []
-  city: new york city
+  city: New York
   country: USA
   day: 17
   month: 3
-  name: navigant
+  name: Navigant Research
   state: NY
   updated: 2020-03-17 02:13:03.136543
   uuid: 849f52fd-2c8c-4644-b744-440a4d0facf1
@@ -964,11 +964,11 @@ navigant:
   zip: '10017'
 newcastleu:
   aka: []
-  city: newcastle upon tyne
+  city: Newcastle upon Tyne
   country: UK
   day: 17
   month: 3
-  name: newcastle university
+  name: Newcastle University
   updated: 2020-03-17 01:56:18.731875
   uuid: 35cae33b-4059-47cc-9b9c-d4b0bf3224e4
   year: 2020
@@ -1002,7 +1002,7 @@ northcarolinastateu:
   country: USA
   day: 17
   month: 3
-  name: north carolina state university
+  name: North Carolina State University
   state: NC
   updated: 2020-03-17 02:03:02.889144
   uuid: 907b56df-c900-4f51-903b-7128ae7a1afb
@@ -1026,7 +1026,7 @@ norwegianuofscienceandtechnology:
   country: Norway
   day: 17
   month: 3
-  name: norwegian university of science and technology
+  name: Norwegian University of Science and Technology
   updated: 2020-03-17 01:48:02.224636
   uuid: 232bd2af-4e4a-48cc-92d8-4a5a915fbb00
   year: 2020
@@ -1122,7 +1122,7 @@ parisdiderotu:
   country: France
   day: 17
   month: 3
-  name: paris diderot university
+  name: Paris Diderot University
   updated: 2020-03-17 01:38:43.870461
   uuid: 5f75c5c6-785a-4632-b527-279452858655
   year: 2020
@@ -1162,7 +1162,7 @@ pennstateu:
   country: USA
   day: 17
   month: 3
-  name: penn state university
+  name: Pennsylvania State University
   state: PA
   updated: 2020-03-17 01:34:58.029007
   uuid: de98224b-cc3a-4fc1-bd2e-44b1a26a39be
@@ -1174,17 +1174,17 @@ pohanguofscienceandtechnology:
   country: South Korea
   day: 17
   month: 3
-  name: pohang university of science and technology
+  name: Pohang University of Science and Technology
   updated: 2020-03-17 01:30:46.785825
   uuid: 4569e430-daa8-40a6-abd2-3e130df4b619
   year: 2020
 pomonacollege:
   aka: []
-  city: claremont
+  city: Claremont
   country: USA
   day: 17
   month: 3
-  name: pomona college
+  name: Pomona College
   state: CA
   updated: 2020-03-17 01:25:00.837030
   uuid: 772f31ea-2598-4210-91ee-d09b06c9c07c
@@ -1192,11 +1192,11 @@ pomonacollege:
   zip: '91711'
 princetonu:
   aka: []
-  city: princeton
+  city: Princeton
   country: USA
   day: 17
   month: 3
-  name: princeton university
+  name: Princeton University
   state: NJ
   updated: 2020-03-17 01:21:03.347677
   uuid: 88b80a20-2af7-4b78-a6b4-8fd0473d7394
@@ -1226,11 +1226,11 @@ puneu:
   zip: '411007'
 purdueu:
   aka: []
-  city: indiana
+  city: Indiana
   country: USA
   day: 17
   month: 3
-  name: purdue university
+  name: Purdue University
   state: IN
   updated: 2020-03-17 01:17:13.501190
   uuid: 0579805b-cd14-4e9d-ba87-5f7dd68e2945
@@ -1260,7 +1260,7 @@ queensu:
   country: Canada
   day: 17
   month: 3
-  name: queens university
+  name: Queen's University
   updated: 2020-03-17 01:12:07.599298
   uuid: 571bad37-df9d-4260-a8ae-a89711801997
   year: 2020
@@ -1270,7 +1270,7 @@ queensubelfast:
   country: Northern Ireland
   day: 17
   month: 3
-  name: queens university belfast
+  name: Queen's University Belfast
   updated: 2020-03-17 01:07:09.361753
   uuid: f7fdb0ba-2be2-419c-92c0-06343989769e
   year: 2020
@@ -1280,7 +1280,7 @@ rensselaerpolytechnicinstitute:
   country: USA
   day: 17
   month: 3
-  name: rensselaer polytechnic institute
+  name: Rensselaer Polytechnic Institute
   state: NY
   updated: 2020-03-17 01:03:23.615105
   uuid: 00ccb56c-b14f-4f88-bbf2-bf86c64eb678
@@ -1324,11 +1324,11 @@ rutherfordappletonlaboratory:
   year: 2020
 sandianationallaboratories:
   aka: []
-  city: washington
+  city: Washington
   country: USA
   day: 17
   month: 3
-  name: sandia national laboratories
+  name: Sandia National Laboratories
   state: DC
   updated: 2020-03-17 00:55:31.682359
   uuid: a82449b8-1821-4a74-8c8c-80ea897a9b46
@@ -1361,7 +1361,7 @@ slacnationalacceleratorlaboratory:
   country: california
   day: 16
   month: 3
-  name: slac national accelerator laboratory
+  name: Slac National Accelerator Laboratory
   state: CA
   updated: 2020-03-16 23:59:34.706335
   uuid: a74122e0-8f59-4e8a-a65f-b35161128447
@@ -1387,17 +1387,17 @@ sogangu:
   country: South Korea
   day: 16
   month: 3
-  name: sogangu
+  name: Sogang University
   updated: 2020-03-16 23:51:27.271208
   uuid: 6a0dfbef-af8c-4ee9-8e4d-92558807b123
   year: 2020
 sophiau:
   aka: []
-  city: tokyo
-  country: japan
+  city: Tokyo
+  country: Japan
   day: 16
   month: 3
-  name: sophia university
+  name: Sophia University
   updated: 2020-03-16 23:32:01.979862
   uuid: 813ad649-a1ed-4be0-9d66-535eba2d2474
   year: 2020
@@ -2255,11 +2255,11 @@ wolfgreenfield:
   year: 2020
 waterdistrictofsoutherncalifornia:
   aka: []
-  city: los angeles
+  city: Los Angeles
   country: USA
   day: 17
   month: 3
-  name: water district of southern california
+  name: Water District of Southern California
   state: CA
   updated: 2020-03-17 02:33:24.687682
   uuid: f4a37279-1ccc-41f3-847b-94e0d117fafd
