@@ -1147,6 +1147,16 @@ sns:
   uuid: 8e7cf53d-c0e0-421a-b990-cb5b36eacb92
   year: 2020
   zip: '37830'
+sophiau:
+  aka: []
+  city: tokyo
+  country: japan
+  day: 16
+  month: 3
+  name: sophia university
+  updated: 2020-03-16 23:32:01.979862
+  uuid: 813ad649-a1ed-4be0-9d66-535eba2d2474
+  year: 2020
 srtmu:
   aka:
     - SRTMU
