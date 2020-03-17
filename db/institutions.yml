@@ -1113,6 +1113,18 @@ rutherfordappletonlaboratory:
   updated: 2020-02-14 19:55:12.462021
   uuid: d48cb08d-d9a9-4f86-b12d-5751df57006a
   year: 2020
+sandianationallaboratories:
+  aka: []
+  city: washington
+  country: USA
+  day: 17
+  month: 3
+  name: sandia national laboratories
+  state: DC
+  updated: 2020-03-17 00:55:31.682359
+  uuid: a82449b8-1821-4a74-8c8c-80ea897a9b46
+  year: 2020
+  zip: '20024'
 sci-tec:
   aka: []
   city: Milan
