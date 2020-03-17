@@ -817,6 +817,16 @@ lhmfcas:
   month: 3
   name: Laboratory of High Magnetic Field of the Chinese Academy of Sciences
   year: 2020
+mckinsey&company:
+  aka: []
+  city: geneva
+  country: switzerland
+  day: 17
+  month: 3
+  name: mckinsey&company
+  updated: 2020-03-17 02:36:52.374116
+  uuid: 7e363f14-8e75-4944-8cb8-10cd89f2ea33
+  year: 2020
 mcmasteru:
   aka:
     - mcmasteru
