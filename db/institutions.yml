@@ -819,11 +819,11 @@ lhmfcas:
   year: 2020
 mckinsey&company:
   aka: []
-  city: geneva
-  country: switzerland
+  city: Geneva
+  country: Switzerland
   day: 17
   month: 3
-  name: mckinsey&company
+  name: McKinsey & Company, Inc.
   updated: 2020-03-17 02:36:52.374116
   uuid: 7e363f14-8e75-4944-8cb8-10cd89f2ea33
   year: 2020
@@ -846,11 +846,11 @@ missing:
   name: Missing
 mit:
   aka: []
-  city: boston
+  city: Boston
   country: USA
   day: 17
   month: 3
-  name: mit
+  name: Massachusetts Institute of Technology
   state: MA
   updated: 2020-03-17 02:30:29.709566
   uuid: 8acc5248-f9f0-4b26-8deb-3f7dd54c041e
