@@ -921,6 +921,17 @@ northwesternu:
   updated: '2020-01-10 17:26:45.692690'
   uuid: 6bfefc1b-60a8-4ef3-bf24-85761fdadb9c
   year: 2020
+norwegianuofscienceandtechnology:
+  aka:
+    - ntnu
+  city: Trondheim
+  country: Norway
+  day: 17
+  month: 3
+  name: norwegian university of science and technology
+  updated: 2020-03-17 01:48:02.224636
+  uuid: 232bd2af-4e4a-48cc-92d8-4a5a915fbb00
+  year: 2020
 nslsii:
   aka:
     - NSLS-II
