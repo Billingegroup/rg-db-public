@@ -7,6 +7,26 @@
    "local": true}
  ],
  "schemas": {
+  "people": {
+   "employment": {
+    "schema": {
+     "advisor": {
+      "required":  false,
+      "type": "string",
+      "description": "name or id of advisor"
+     }
+    }
+   },
+   "education": {
+    "schema": {
+     "advisor": {
+      "required":  false,
+      "type": "string",
+      "description": "name or id of advisor"
+     }
+    }
+   }
+  },
   "institutions": {
    "year": {
     "description": "The year when the entry was updated",
