@@ -1147,6 +1147,16 @@ sns:
   uuid: 8e7cf53d-c0e0-421a-b990-cb5b36eacb92
   year: 2020
   zip: '37830'
+sogangu:
+  aka: []
+  city: Seoul
+  country: South Korea
+  day: 16
+  month: 3
+  name: sogangu
+  updated: 2020-03-16 23:51:27.271208
+  uuid: 6a0dfbef-af8c-4ee9-8e4d-92558807b123
+  year: 2020
 sophiau:
   aka: []
   city: tokyo
