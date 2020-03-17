@@ -848,6 +848,16 @@ mpi:
       name: Institute for Solid State Physics
   name: Max Planck Institute
   state: ''
+mpissr:
+  aka: []
+  city: stuttgart
+  country: germany
+  day: 17
+  month: 3
+  name: mpissr
+  updated: 2020-03-17 02:19:01.825188
+  uuid: d6d204b6-9c9c-4fe6-a307-d0ec82b3de00
+  year: 2020
 msu:
   aka:
     - MSU
