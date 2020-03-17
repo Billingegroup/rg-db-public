@@ -1171,8 +1171,9 @@ pekingu:
   zip: '100871'
 pennstateu:
   aka:
-    - State College
-  city: Pennsylvania
+    - Penn State
+    - Penn State University
+  city: State College
   country: USA
   day: 17
   month: 3
@@ -1337,7 +1338,8 @@ rutherfordappletonlaboratory:
   uuid: d48cb08d-d9a9-4f86-b12d-5751df57006a
   year: 2020
 sandianationallaboratories:
-  aka: SNL
+  aka:
+    - SNL
   city: Washington
   country: USA
   day: 17
@@ -1371,11 +1373,12 @@ singaporepolytechnic:
 slacnationalacceleratorlaboratory:
   aka:
     - slac
-  city: San Mateo County
+    - Stanford Linear Accelerator Center
+  city: Menlo Park
   country: California
   day: 16
   month: 3
-  name: Slac National Accelerator Laboratory
+  name: SLAC National Accelerator Laboratory
   state: CA
   updated: 2020-03-16 23:59:34.706335
   uuid: a74122e0-8f59-4e8a-a65f-b35161128447
@@ -2246,6 +2249,18 @@ vanderbiltu:
   uuid: test
   year: 2020
   zip: 37235
+waterdistrictofsoutherncalifornia:
+  aka: []
+  city: Los Angeles
+  country: USA
+  day: 17
+  month: 3
+  name: Water District of Southern California
+  state: CA
+  updated: 2020-03-17 02:33:24.687682
+  uuid: f4a37279-1ccc-41f3-847b-94e0d117fafd
+  year: 2020
+  zip: '90012'
 westvirginiau:
   aka:
     - westvirginiau
@@ -2267,18 +2282,6 @@ wolfgreenfield:
   name: Wolf Greenfield
   state: MA
   year: 2020
-waterdistrictofsoutherncalifornia:
-  aka: []
-  city: Los Angeles
-  country: USA
-  day: 17
-  month: 3
-  name: Water District of Southern California
-  state: CA
-  updated: 2020-03-17 02:33:24.687682
-  uuid: f4a37279-1ccc-41f3-847b-94e0d117fafd
-  year: 2020
-  zip: '90012'
 zhejiangu:
   aka:
     - zhejiangu
