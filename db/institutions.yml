@@ -1077,6 +1077,16 @@ qmul:
   state: ''
   street: ''
   zip: ''
+queensu:
+  aka: []
+  city: Kingston
+  country: Canada
+  day: 17
+  month: 3
+  name: queens university
+  updated: 2020-03-17 01:12:07.599298
+  uuid: 571bad37-df9d-4260-a8ae-a89711801997
+  year: 2020
 queensubelfast:
   aka: []
   city: Belfast
