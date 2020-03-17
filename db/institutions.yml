@@ -40,12 +40,12 @@ addisababau:
 albemarlecorp:
   aka:
     - albemarlecorp
-    - Albermale Corporation
+    - Albemarle Corporation
   city: Charlotte
   country: USA
   day: 15
   month: 3
-  name: Albermale Corporation
+  name: Albemarle Corporation
   state: NC
   year: 2020
 altadevices:
@@ -61,7 +61,7 @@ altadevices:
   year: 2020
 anl:
   aka:
-    - ANL
+    - A
     - Argonne
   city: Argonne
   country: USA
@@ -73,6 +73,15 @@ anl:
   name: Argonne National Laboratory
   state: IL
   zip: '60439'
+apple:
+  aka:
+    - Apple
+    - Apple, San Francisco Bay Area
+  city: Cupertino
+  country: USA
+  name: Apple Inc.
+  state: CA
+  zip: '95014'
 aps:
   aka:
     - APS
@@ -179,6 +188,12 @@ bnl:
   name: Brookhaven National Laboratory
   state: NY
   zip: '11973'
+bupt:
+  aka:
+    - BUPT
+  city: Beijing
+  country: China
+  name: Beijing University of Posts and Telecommunications
 byu:
   aka:
     - BYU
@@ -355,6 +370,14 @@ desy:
   day: 15
   month: 3
   name: Deutsche Electron Synchroton
+  year: 2020
+deutschenanoschicht:
+  aka: []
+  city: Rheinbach
+  country: USA
+  day: 15
+  month: 3
+  name: Deutsche Nanoschicht GmbH
   year: 2020
 doebes:
   aka:
@@ -616,11 +639,12 @@ huawei:
 huazhongu:
   aka:
     - huazhongu
+    - Huazhong University
   city: Wuhan
   country: China
   day: 15
   month: 3
-  name: Huazhong University
+  name: Huazhong University of science and technology
   year: 2020
 iccnrcomo:
   aka:
@@ -674,6 +698,15 @@ ideas:
   month: 3
   name: Institute for the Development of Energy for African Sustainability
   year: 2020
+iitkanpur:
+  aka:
+    - IIT Kanpur
+  city: Kanpur
+  country: India
+  day: 17
+  month: 3
+  name: Indian Institute of Technology Kanpur
+  year: 2020
 ill:
   aka:
     - ILL
@@ -691,6 +724,7 @@ instituteofphysicschineseacademyofsciences:
     - IoP-CAS
     - IoP Chinese Academy of Sciences
     - IoPCAS
+    - Institute of Physics Chinese Academy of Sciences
   city: Beijing
   country: China
   day: 14
@@ -764,7 +798,7 @@ kyotou:
   year: 2020
 lab49:
   aka:
-    - lab49
+    - lab 49
   city: Dublin
   country: Ireland
   day: 15
@@ -821,7 +855,8 @@ lhmfcas:
   name: Laboratory of High Magnetic Field of the Chinese Academy of Sciences
   year: 2020
 mckinsey&company:
-  aka: []
+  aka:
+    - McKinsey & Company, Geneva
   city: Geneva
   country: Switzerland
   day: 17
@@ -952,7 +987,8 @@ natautoumexico:
   street: Av Universidad 3000, Cd. Universitaria, Coyoacán
   zip: '04510'
 navalresearchlaboratory:
-  aka: []
+  aka:
+    - NRL
   city: Washington
   country: USA
   day: 17
@@ -1010,7 +1046,9 @@ nmaist:
   year: 2020
   zip: '23100'
 northcarolinastateu:
-  aka: []
+  aka:
+    - ncstateu
+    - ncstate
   city: Raleigh
   country: USA
   day: 17
@@ -1183,6 +1221,16 @@ pennstateu:
   uuid: de98224b-cc3a-4fc1-bd2e-44b1a26a39be
   year: 2020
   zip: '16801'
+pohangacceleratorlaboratory:
+  aka: []
+  city: Pohang
+  country: South Korea
+  day: 17
+  month: 3
+  name: Pohang Accelerator Laboratory
+  updated: 2020-03-17 01:30:46.785825
+  uuid: 4569e430-daa8-40a6-abd2-3e130df4b619
+  year: 2020
 pohanguofscienceandtechnology:
   aka: []
   city: Pohang
@@ -1290,7 +1338,8 @@ queensubelfast:
   uuid: f7fdb0ba-2be2-419c-92c0-06343989769e
   year: 2020
 rensselaerpolytechnicinstitute:
-  aka: []
+  aka:
+    - RPI
   city: Troy
   country: USA
   day: 17
@@ -1314,11 +1363,18 @@ riceu:
   name: Rice University
   state: TX
   zip: '77251'
+rmitu:
+  aka:
+    - RMIT University
+  city: Saigon
+  country: Vietnam
+  name: RMIT University Vietnam
 rutgers:
   aka:
     - The State University of New Jersey—Piscataway
     - State University of New Jersey—Piscataway
     - Rutgers
+    - rutgersu
   city: New Brunswick
   country: USA
   name: Rutgers, The State University of New Jersey
@@ -1340,6 +1396,7 @@ rutherfordappletonlaboratory:
 sandianationallaboratories:
   aka:
     - SNL
+    - sandianl
   city: Washington
   country: USA
   day: 17
@@ -1430,9 +1487,16 @@ srtmu:
   name: Swami Ramanand Teerth Marathwada University
   state: Maharashtra
   zip: ''
+ssrf:
+  aka:
+    - SSRF
+  city: Shanghai
+  country: China
+  name: Shanghai Synchrotron Radiation Facility
 suny:
   aka:
     - SBU
+    - sbu
     - SUNY-SB
     - SUNY SB
     - SUNYSB
@@ -1476,15 +1540,6 @@ sunysb:
   state: NY
   street: ''
   zip: '11794'
-tahokuu:
-  aka:
-    - Tohoko Daigako
-  city: Sendai
-  country: Japan
-  day: 15
-  month: 3
-  name: Tohoko University
-  year: 2020
 tamu:
   aka:
     - texasam
@@ -1512,6 +1567,16 @@ theuofbritishcolumbia:
   state: BC
   updated: 2020-02-14 19:40:42.838722
   uuid: 4562c391-b467-4fbc-9342-4a40150c8405
+  year: 2020
+tohokuu:
+  aka:
+    - Tohoku Daigako
+    - Tohoku
+  city: Sendai
+  country: Japan
+  day: 15
+  month: 3
+  name: Tohoku University
   year: 2020
 ubasel:
   aka:
@@ -1627,6 +1692,18 @@ ucla:
   name: University of California Los Angeles
   state: CA
   year: 2020
+ucolorado:
+  aka:
+    - coloradou
+    - University of Colorado, Boulder
+    - ucoloradoboulder
+  city: Boulder
+  country: USA
+  day: 15
+  month: 3
+  name: University of Colorado
+  state: CO
+  year: 2020
 uconn:
   aka:
     - UConn
@@ -1651,16 +1728,6 @@ ucopenhagen:
   name: University of Copenhagen
   state: ''
   zip: ''
-ucorolado:
-  aka:
-    - coloradou
-  city: Boulder
-  country: USA
-  day: 15
-  month: 3
-  name: University of Colorado
-  state: CO
-  year: 2020
 udaressalaam:
   aka:
     - daressalaamu
@@ -2135,6 +2202,7 @@ utrechtu:
 utsinghua:
   aka:
     - Tsinghua
+    - tsinghuau
     - THU
   city: Beijing
   country: China
@@ -2250,12 +2318,13 @@ vanderbiltu:
   year: 2020
   zip: 37235
 waterdistrictofsoutherncalifornia:
-  aka: []
+  aka:
+    - Water District of Southern California
   city: Los Angeles
   country: USA
   day: 17
   month: 3
-  name: Water District of Southern California
+  name: Metropolitan Water District of Southern California
   state: CA
   updated: 2020-03-17 02:33:24.687682
   uuid: f4a37279-1ccc-41f3-847b-94e0d117fafd
