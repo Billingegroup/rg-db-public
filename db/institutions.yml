@@ -848,6 +848,16 @@ mpi:
       name: Institute for Solid State Physics
   name: Max Planck Institute
   state: ''
+mpicps:
+  aka: []
+  city: dresden
+  country: germany
+  day: 17
+  month: 3
+  name: mpicps
+  updated: 2020-03-17 02:27:00.262253
+  uuid: 4bc411c5-6e58-4b2e-b765-7d72403ee42d
+  year: 2020
 mpihamburg:
   aka: []
   city: hamburg
