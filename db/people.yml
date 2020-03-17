@@ -1397,6 +1397,7 @@ sbillinge:
       end_year: 1986
       department: matsci
       degree: BA in Metallurgy and Materials Science
+      advisor: George Smith
       other:
         - 'Advisor: George Smith'
         - 'Disseration: Development of a novel ultra-high strength alloy steel for

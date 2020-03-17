@@ -485,9 +485,12 @@ fudanu:
   street: 220 Handan Rd.
   zip: '200433'
 gatech:
+  aka: []
   city: Atlanta
-  country: Giorgia
-  name: Giorgia Institute of Technology
+  country: USA
+  name: Georgia Institute of Technology
+  state: GA
+  zip: 30332
 ghentu:
   aka:
     - University of Ghent
