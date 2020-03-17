@@ -325,6 +325,11 @@ danishti:
   month: 3
   name: Danish Technological Institute
   year: 2020
+deceased:
+  aka: []
+  city: ''
+  country: ''
+  name: Deceased
 delftutchnology:
   aka:
     - tudelft
@@ -632,6 +637,7 @@ icl:
   aka:
     - icl
     - Imperial College, London
+    - Imperial College London
   city: London
   country: UK
   day: 15
@@ -1080,20 +1086,12 @@ rutgers:
   aka:
     - The State University of New Jersey—Piscataway
     - State University of New Jersey—Piscataway
-  city: Piscataway
-  country: USA
-  name: Rutgers, The State University of New Jersey—Piscataway
-  state: NJ
-  zip: '08854'
-rutgersu:
-  aka:
     - Rutgers
-    - rutgers
   city: New Brunswick
   country: USA
-  name: Rutgers University
+  name: Rutgers, The State University of New Jersey
   state: NJ
-  zip: 08901-1281
+  zip: 08901
 rutherfordappletonlaboratory:
   aka:
     - ral
