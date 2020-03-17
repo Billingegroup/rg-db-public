@@ -898,6 +898,16 @@ navalresearchlaboratory:
   uuid: 87adc340-8b39-4e02-a154-1abc47758dc3
   year: 2020
   zip: '20375'
+newcastleu:
+  aka: []
+  city: newcastle upon tyne
+  country: UK
+  day: 17
+  month: 3
+  name: newcastle university
+  updated: 2020-03-17 01:56:18.731875
+  uuid: 35cae33b-4059-47cc-9b9c-d4b0bf3224e4
+  year: 2020
 nist:
   aka:
     - NIST
