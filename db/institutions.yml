@@ -1077,6 +1077,16 @@ qmul:
   state: ''
   street: ''
   zip: ''
+queensubelfast:
+  aka: []
+  city: Belfast
+  country: Northern Ireland
+  day: 17
+  month: 3
+  name: queens university belfast
+  updated: 2020-03-17 01:07:09.361753
+  uuid: f7fdb0ba-2be2-419c-92c0-06343989769e
+  year: 2020
 rensselaerpolytechnicinstitute:
   aka: []
   city: Troy
