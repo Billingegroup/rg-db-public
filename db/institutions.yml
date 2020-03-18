@@ -9,18 +9,6 @@ aarhusu:
   name: Aarhus University
   state: ''
   zip: ''
-academiasinica:
-  aka: []
-  city: Taipei
-  country: Taiwan
-  day: 17
-  departments:
-    - Institute of Chemistry
-  month: 3
-  name: Academia Sinica
-  updated: 2020-03-17 21:04:13.879916
-  uuid: cdc065a2-cceb-4957-9c83-6a8e36274fdf
-  year: 2020
 abbott:
   aka:
     - abbott
@@ -31,6 +19,19 @@ abbott:
   month: 3
   name: Abbott Pharmaceuticals
   state: IL
+  year: 2020
+academiasinica:
+  aka: []
+  city: Taipei
+  country: Taiwan
+  day: 17
+  departments:
+    chemistry:
+      name: Institute of Chemistry
+  month: 3
+  name: Academia Sinica
+  updated: 2020-03-17 21:04:13.879916
+  uuid: cdc065a2-cceb-4957-9c83-6a8e36274fdf
   year: 2020
 addisababau:
   aka:
@@ -256,7 +257,8 @@ chungyuanchristianu:
   country: Taiwan
   day: 17
   departments:
-    - Department of Physics
+    physics:
+      name: Department of Physics
   month: 3
   name: Chung Yuan Christian University
   updated: 2020-03-17 21:05:39.486688
@@ -1010,6 +1012,32 @@ natautoumexico:
   state: ''
   street: Av Universidad 3000, Cd. Universitaria, Coyoacán
   zip: '04510'
+nationaltaiwannormalu:
+  aka: []
+  city: Taipei
+  country: Taiwan
+  day: 17
+  departments:
+    chemistry:
+      name: Department of Chemistry
+  month: 3
+  name: National Taiwan Normal University
+  updated: 2020-03-17 21:07:27.358204
+  uuid: b57bca06-2bbe-408d-99e5-3a6d74b07f18
+  year: 2020
+nationaltsinghuau:
+  aka: []
+  city: Hsinchu
+  country: Taiwan
+  day: 17
+  departments:
+    chemistry:
+      name: Department of Chemistry
+  month: 3
+  name: National Tsing Hua University
+  updated: 2020-03-17 21:08:33.712720
+  uuid: cf329967-87fe-49eb-89d1-c94ecb77026d
+  year: 2020
 navalresearchlaboratory:
   aka:
     - NRL
@@ -1057,30 +1085,18 @@ nist:
   state: MD
   street: 100 Bureau Drive
   zip: '20899'
-nationaltaiwannormalu:
-  aka: []
-  city: Taipei
-  country: Taiwan
-  day: 17
-  departments:
-    - Department of Chemistry
-  month: 3
-  name: National Taiwan Normal University
-  updated: 2020-03-17 21:07:27.358204
-  uuid: b57bca06-2bbe-408d-99e5-3a6d74b07f18
+nmaist:
+  aka:
+    - NMAIST
+  city: Arusha
+  country: Tanzania
+  day: 18
+  month: 2
+  name: Nelson Mandela African Institution of Science and Technology
+  updated: 2020-02-18 22:51:23.990291
+  uuid: 8c0c942d-d718-4f23-b434-393bc723e493
   year: 2020
-nationaltsinghuau:
-  aka: []
-  city: Hsinchu
-  country: Taiwan
-  day: 17
-  departments:
-    - Department of Chemistry
-  month: 3
-  name: National Tsing Hua University
-  updated: 2020-03-17 21:08:33.712720
-  uuid: cf329967-87fe-49eb-89d1-c94ecb77026d
-  year: 2020
+  zip: '23100'
 northcarolinastateu:
   aka:
     - ncstateu
@@ -1095,18 +1111,6 @@ northcarolinastateu:
   uuid: 907b56df-c900-4f51-903b-7128ae7a1afb
   year: 2020
   zip: '27695'
-nmaist:
-  aka:
-    - NMAIST
-  city: Arusha
-  country: Tanzania
-  day: 18
-  month: 2
-  name: Nelson Mandela African Institution of Science and Technology
-  updated: 2020-02-18 22:51:23.990291
-  uuid: 8c0c942d-d718-4f23-b434-393bc723e493
-  year: 2020
-  zip: '23100'
 northwesternu:
   aka:
     - nwu
@@ -1542,26 +1546,29 @@ srtmu:
   name: Swami Ramanand Teerth Marathwada University
   state: Maharashtra
   zip: ''
-stockholmu:
-  aka: []
-  city: Stockholm
-  country: Sweden
-  day: 17
-  departments:
-    - Department of Materials and Environmental Chemistry
-  month: 3
-  name: Stockholm University
-  schools:
-    - Berzelii Centre EXSELENT on Porous Materials and Inorganic and Structural Chemistry
-  updated: 2020-03-17 21:15:14.610311
-  uuid: a968ff5a-a73c-4f95-8288-607d2b9911d6
-  year: 2020
 ssrf:
   aka:
     - SSRF
   city: Shanghai
   country: China
   name: Shanghai Synchrotron Radiation Facility
+stockholmu:
+  aka: []
+  city: Stockholm
+  country: Sweden
+  day: 17
+  departments:
+    mec:
+      name: Department of Materials and Environmental Chemistry
+  month: 3
+  name: Stockholm University
+  schools:
+    pmisc:
+      name: Berzelii Centre EXSELENT on Porous Materials and Inorganic and Structural
+        Chemistry
+  updated: 2020-03-17 21:15:14.610311
+  uuid: a968ff5a-a73c-4f95-8288-607d2b9911d6
+  year: 2020
 suny:
   aka:
     - SBU
@@ -1615,7 +1622,8 @@ tamu:
   country: USA
   day: 17
   departments:
-    - Department of Chemistry
+    chemsitry:
+      name: Department of Chemistry
   month: 3
   name: Texas A&M University
   state: TX
@@ -2100,19 +2108,6 @@ uoferlangen-nuremberg:
   updated: '2020-01-10 18:10:21.189617'
   uuid: c4210aab-cde7-428b-b1c4-d62bcab401e0
   year: 2020
-uoftexasatdallas:
-  aka: []
-  city: Richardson
-  country: USA
-  day: 17
-  departments:
-    - Department of Materials Science and Engineering
-  month: 3
-  name: University of Texas at Dallas
-  state: TX
-  updated: 2020-03-17 21:14:05.204167
-  uuid: 37a97804-1302-4a8b-a5a5-561f252a12c4
-  year: 2020
 uoficeland:
   aka:
     - icelandu
@@ -2133,6 +2128,20 @@ uofsoutherndenmark:
   name: University of Southern Denmark
   updated: 2020-03-09 11:41:56.810363
   uuid: fd6dd99c-330f-4695-83d7-f1dd92ea8ecf
+  year: 2020
+uoftexasatdallas:
+  aka: []
+  city: Richardson
+  country: USA
+  day: 17
+  departments:
+    mse:
+      name: Department of Materials Science and Engineering
+  month: 3
+  name: University of Texas at Dallas
+  state: TX
+  updated: 2020-03-17 21:14:05.204167
+  uuid: 37a97804-1302-4a8b-a5a5-561f252a12c4
   year: 2020
 uoftrento:
   aka:
