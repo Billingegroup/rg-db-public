@@ -2043,7 +2043,7 @@ zzgong:
 rdifrancesco:
   active: false
   aka:
-    - Remus DiFrancesco
+    - []
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
   bio: bio
   education:
@@ -2056,11 +2056,11 @@ rdifrancesco:
       advisor: sbillinge
   employment:
     - begin_year: 2006
-      begin_month: 01
+      begin_month: 1
       position: Senior Support Consultant
       organization: SAP
     - begin_year: 1992
-      position: Research Associate
+      position: Research Assistant
       advisor: sbillinge
       organization: msu
       status: phd
@@ -2089,7 +2089,7 @@ ppeterson:
       position: Software Engineer
       organization: Oak Ridge National Laboratory
     - begin_year: 1999
-      position: Research Associate
+      position: Research Assistant
       advisor: sbillinge
       organization: msu
       status: phd
@@ -2117,19 +2117,18 @@ xyqiu:
       position: Professor
       organization: georgewashingtonu
     - begin_year: 1999
-      position: Research Associate
+      position: Research Assistant
       advisor: sbillinge
       organization: msu
       status: phd
       end_year: 2004
       group: bg
-  name: Xianhyun Qiu
+  name: Xiangyun Qiu
   position: Professor
 mouathshatnawi:
   active: false
   aka:
     - Mouath Ghazi Shatnawi
-    - Mouath Shatnawi
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
   bio: bio
   education:
@@ -2142,10 +2141,10 @@ mouathshatnawi:
       advisor: sbillinge
   employment:
     - begin_year: 2016
-      position: Assistant Professor
+      position: Associate Professor
       organization: Hashemite University
     - begin_year: 2001
-      position: Research Associate
+      position: Research Assistant
       advisor: sbillinge
       organization: msu
       status: phd
@@ -2153,11 +2152,11 @@ mouathshatnawi:
       end_month: 5
       group: bg
   name: Mouath Shatnawi
-  position: Assistant Professor
+  position: Associate Professor
 moneebshatnawi:
   active: false
   aka:
-    - Moneeb Shatnawi
+    - []
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
   bio: bio
   education:
@@ -2170,10 +2169,10 @@ moneebshatnawi:
       advisor: sbillinge
   employment:
     - begin_year: 2008
-      position: Assistant Professor
+      position: Associate Professor
       organization: University of Jordan
     - begin_year: 2004
-      position: Research Associate
+      position: Research Assistant
       advisor: sbillinge
       organization: msu
       status: phd
@@ -2181,7 +2180,7 @@ moneebshatnawi:
       end_month: 7
       group: bg
   name: Moneeb Shatnawi
-  position: Assistant Professor
+  position: Associate Professor
 hyavas:
   active: false
   aka:
@@ -2201,7 +2200,7 @@ hyavas:
       position: Staff Scientist
       organization: SLAC National Accelerator Laboratory
     - begin_year: 2001
-      position: Research Associate
+      position: Research Assistant
       advisor: sbillinge
       organization: msu
       status: phd
@@ -2234,7 +2233,7 @@ tdavis:
       organization: Samsung Venture Investment
       end_year: 2018
     - begin_year: 2009
-      position: Research Associate
+      position: Research Assistant
       advisor: sbillinge
       organization: columbiau
       status: phd
@@ -2262,7 +2261,7 @@ amasadeh:
       position: Assistant Professor
       organization: University of Jordan
     - begin_year: 2003
-      position: Research Associate
+      position: Research Assistant
       advisor: sbillinge
       organization: msu
       status: phd
@@ -2289,9 +2288,9 @@ hlin:
     - begin_year: 2009
       begin_month: 12
       position: Staff Scientist
-      organization: Shangai Synchrotron Radiation Facility
+      organization: ssrf
     - begin_year: 2000
-      position: Research Associate
+      position: Research Assistant
       advisor: sbillinge
       organization: msu
       status: phd
