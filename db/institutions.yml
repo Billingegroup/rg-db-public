@@ -9,6 +9,18 @@ aarhusu:
   name: Aarhus University
   state: ''
   zip: ''
+academiasinica:
+  aka: []
+  city: Taipei
+  country: Taiwan
+  day: 17
+  departments:
+    - Institute of Chemistry
+  month: 3
+  name: Academia Sinica
+  updated: 2020-03-17 21:04:13.879916
+  uuid: cdc065a2-cceb-4957-9c83-6a8e36274fdf
+  year: 2020
 abbott:
   aka:
     - abbott
@@ -238,6 +250,18 @@ ccny:
   state: NY
   street: 160 Convent Avenue
   zip: '10031'
+chungyuanchristianu:
+  aka: []
+  city: Taoyuan City
+  country: Taiwan
+  day: 17
+  departments:
+    - Department of Physics
+  month: 3
+  name: Chung Yuan Christian University
+  updated: 2020-03-17 21:05:39.486688
+  uuid: 6a6433e5-cb6f-44a4-8634-90e3b823fbda
+  year: 2020
 cmu:
   aka:
     - cmu
@@ -1033,18 +1057,30 @@ nist:
   state: MD
   street: 100 Bureau Drive
   zip: '20899'
-nmaist:
-  aka:
-    - NMAIST
-  city: Arusha
-  country: Tanzania
-  day: 18
-  month: 2
-  name: Nelson Mandela African Institution of Science and Technology
-  updated: 2020-02-18 22:51:23.990291
-  uuid: 8c0c942d-d718-4f23-b434-393bc723e493
+nationaltaiwannormalu:
+  aka: []
+  city: Taipei
+  country: Taiwan
+  day: 17
+  departments:
+    - Department of Chemistry
+  month: 3
+  name: National Taiwan Normal University
+  updated: 2020-03-17 21:07:27.358204
+  uuid: b57bca06-2bbe-408d-99e5-3a6d74b07f18
   year: 2020
-  zip: '23100'
+nationaltsinghuau:
+  aka: []
+  city: Hsinchu
+  country: Taiwan
+  day: 17
+  departments:
+    - Department of Chemistry
+  month: 3
+  name: National Tsing Hua University
+  updated: 2020-03-17 21:08:33.712720
+  uuid: cf329967-87fe-49eb-89d1-c94ecb77026d
+  year: 2020
 northcarolinastateu:
   aka:
     - ncstateu
@@ -1059,6 +1095,18 @@ northcarolinastateu:
   uuid: 907b56df-c900-4f51-903b-7128ae7a1afb
   year: 2020
   zip: '27695'
+nmaist:
+  aka:
+    - NMAIST
+  city: Arusha
+  country: Tanzania
+  day: 18
+  month: 2
+  name: Nelson Mandela African Institution of Science and Technology
+  updated: 2020-02-18 22:51:23.990291
+  uuid: 8c0c942d-d718-4f23-b434-393bc723e493
+  year: 2020
+  zip: '23100'
 northwesternu:
   aka:
     - nwu
@@ -1373,6 +1421,13 @@ rutgers:
   aka:
     - The State University of New Jersey—Piscataway
     - State University of New Jersey—Piscataway
+  city: Piscataway
+  country: USA
+  name: Rutgers, The State University of New Jersey—Piscataway
+  state: NJ
+  zip: '08854'
+rutgersu:
+  aka:
     - Rutgers
     - rutgersu
   city: New Brunswick
@@ -1487,6 +1542,20 @@ srtmu:
   name: Swami Ramanand Teerth Marathwada University
   state: Maharashtra
   zip: ''
+stockholmu:
+  aka: []
+  city: Stockholm
+  country: Sweden
+  day: 17
+  departments:
+    - Department of Materials and Environmental Chemistry
+  month: 3
+  name: Stockholm University
+  schools:
+    - Berzelii Centre EXSELENT on Porous Materials and Inorganic and Structural Chemistry
+  updated: 2020-03-17 21:15:14.610311
+  uuid: a968ff5a-a73c-4f95-8288-607d2b9911d6
+  year: 2020
 ssrf:
   aka:
     - SSRF
@@ -1541,14 +1610,17 @@ sunysb:
   street: ''
   zip: '11794'
 tamu:
-  aka:
-    - texasam
+  aka: []
   city: College Station
   country: USA
-  day: 15
+  day: 17
+  departments:
+    - Department of Chemistry
   month: 3
   name: Texas A&M University
   state: TX
+  updated: 2020-03-17 20:52:04.127382
+  uuid: d179c2cc-af8f-4c1e-8e25-039581be4d8a
   year: 2020
 tbilisistateu:
   city: Tbilisi
@@ -2027,6 +2099,19 @@ uoferlangen-nuremberg:
   name: Friedrich-Alexander-Universität Erlangen-Nürnberg
   updated: '2020-01-10 18:10:21.189617'
   uuid: c4210aab-cde7-428b-b1c4-d62bcab401e0
+  year: 2020
+uoftexasatdallas:
+  aka: []
+  city: Richardson
+  country: USA
+  day: 17
+  departments:
+    - Department of Materials Science and Engineering
+  month: 3
+  name: University of Texas at Dallas
+  state: TX
+  updated: 2020-03-17 21:14:05.204167
+  uuid: 37a97804-1302-4a8b-a5a5-561f252a12c4
   year: 2020
 uoficeland:
   aka:
