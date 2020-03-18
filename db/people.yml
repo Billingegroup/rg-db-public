@@ -2061,6 +2061,7 @@ rdifrancesco:
       organization: SAP
     - begin_year: 1992
       position: Research Associate
+      advisor: sbillinge
       organization: msu
       status: phd
       end_year: 1999
@@ -2089,6 +2090,7 @@ ppeterson:
       organization: Oak Ridge National Laboratory
     - begin_year: 1999
       position: Research Associate
+      advisor: sbillinge
       organization: msu
       status: phd
       end_year: 2001
@@ -2112,16 +2114,17 @@ xyqiu:
       advisor: sbillinge
   employment:
     - begin_year: 2017
-      position: Assistant Professor
+      position: Professor
       organization: georgewashingtonu
     - begin_year: 1999
       position: Research Associate
+      advisor: sbillinge
       organization: msu
       status: phd
       end_year: 2004
       group: bg
-  name: Xianhyun
-  position: Assistant Professor
+  name: Xianhyun Qiu
+  position: Professor
 mouathshatnawi:
   active: false
   aka:
@@ -2143,6 +2146,7 @@ mouathshatnawi:
       organization: Hashemite University
     - begin_year: 2001
       position: Research Associate
+      advisor: sbillinge
       organization: msu
       status: phd
       end_year: 2007
@@ -2170,6 +2174,7 @@ moneebshatnawi:
       organization: University of Jordan
     - begin_year: 2004
       position: Research Associate
+      advisor: sbillinge
       organization: msu
       status: phd
       end_year: 2007
@@ -2197,6 +2202,7 @@ hyavas:
       organization: SLAC National Accelerator Laboratory
     - begin_year: 2001
       position: Research Associate
+      advisor: sbillinge
       organization: msu
       status: phd
       end_year: 2007
@@ -2229,6 +2235,7 @@ tdavis:
       end_year: 2018
     - begin_year: 2009
       position: Research Associate
+      advisor: sbillinge
       organization: columbiau
       status: phd
       end_year: 2011
@@ -2252,10 +2259,11 @@ amasadeh:
       advisor: sbillinge
   employment:
     - begin_year: 2008
-        position: Assistant Professor
-        organization: University of Jordan
+      position: Assistant Professor
+      organization: University of Jordan
     - begin_year: 2003
       position: Research Associate
+      advisor: sbillinge
       organization: msu
       status: phd
       end_year: 2008
@@ -2284,6 +2292,7 @@ hlin:
       organization: Shangai Synchrotron Radiation Facility
     - begin_year: 2000
       position: Research Associate
+      advisor: sbillinge
       organization: msu
       status: phd
       end_year: 2006
@@ -2291,4 +2300,3 @@ hlin:
       group: bg
   name: He Lin
   position: Staff Scientist
-
