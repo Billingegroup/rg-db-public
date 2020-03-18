@@ -2042,8 +2042,7 @@ zzgong:
   title: Dr.
 rdifrancesco:
   active: false
-  aka:
-    - []
+  aka: []
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
   bio: bio
   education:
@@ -2071,8 +2070,7 @@ rdifrancesco:
   position: Senior Support Consultant
 ppeterson:
   active: false
-  aka:
-    - Peter Peterson
+  aka: []
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
   bio: bio
   education:
@@ -2102,7 +2100,6 @@ xyqiu:
   active: false
   aka:
     - Xiangyun
-    - Xiangyun Qiu
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
   bio: bio
   education:
@@ -2155,8 +2152,7 @@ mouathshatnawi:
   position: Associate Professor
 moneebshatnawi:
   active: false
-  aka:
-    - []
+  aka: []
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
   bio: bio
   education:
@@ -2183,8 +2179,7 @@ moneebshatnawi:
   position: Associate Professor
 hyavas:
   active: false
-  aka:
-    - Hasan Yavas
+  aka: []
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
   bio: bio
   education:
@@ -2213,7 +2208,6 @@ tdavis:
   active: false
   aka:
     - Timur Dykhne
-    - Timur Davis
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
   bio: bio
   education:
@@ -2244,8 +2238,7 @@ tdavis:
   position: Investment lead
 amasadeh:
   active: false
-  aka:
-    - Ahmad Masadeh
+  aka:[]
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
   bio: bio
   education:
@@ -2272,8 +2265,7 @@ amasadeh:
   position: Assistant Professor
 hlin:
   active: false
-  aka:
-    - He lin
+  aka: []
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
   bio: bio
   education:
