@@ -20,6 +20,19 @@ abbott:
   name: Abbott Pharmaceuticals
   state: IL
   year: 2020
+academiasinica:
+  aka: []
+  city: Taipei
+  country: Taiwan
+  day: 17
+  departments:
+    chemistry:
+      name: Institute of Chemistry
+  month: 3
+  name: Academia Sinica
+  updated: 2020-03-17 21:04:13.879916
+  uuid: cdc065a2-cceb-4957-9c83-6a8e36274fdf
+  year: 2020
 addisababau:
   aka:
     - University College of Addis Ababa
@@ -238,6 +251,19 @@ ccny:
   state: NY
   street: 160 Convent Avenue
   zip: '10031'
+chungyuanchristianu:
+  aka: []
+  city: Taoyuan City
+  country: Taiwan
+  day: 17
+  departments:
+    physics:
+      name: Department of Physics
+  month: 3
+  name: Chung Yuan Christian University
+  updated: 2020-03-17 21:05:39.486688
+  uuid: 6a6433e5-cb6f-44a4-8634-90e3b823fbda
+  year: 2020
 cmu:
   aka:
     - cmu
@@ -986,6 +1012,32 @@ natautoumexico:
   state: ''
   street: Av Universidad 3000, Cd. Universitaria, Coyoacán
   zip: '04510'
+nationaltaiwannormalu:
+  aka: []
+  city: Taipei
+  country: Taiwan
+  day: 17
+  departments:
+    chemistry:
+      name: Department of Chemistry
+  month: 3
+  name: National Taiwan Normal University
+  updated: 2020-03-17 21:07:27.358204
+  uuid: b57bca06-2bbe-408d-99e5-3a6d74b07f18
+  year: 2020
+nationaltsinghuau:
+  aka: []
+  city: Hsinchu
+  country: Taiwan
+  day: 17
+  departments:
+    chemistry:
+      name: Department of Chemistry
+  month: 3
+  name: National Tsing Hua University
+  updated: 2020-03-17 21:08:33.712720
+  uuid: cf329967-87fe-49eb-89d1-c94ecb77026d
+  year: 2020
 navalresearchlaboratory:
   aka:
     - NRL
@@ -1373,6 +1425,13 @@ rutgers:
   aka:
     - The State University of New Jersey—Piscataway
     - State University of New Jersey—Piscataway
+  city: Piscataway
+  country: USA
+  name: Rutgers, The State University of New Jersey—Piscataway
+  state: NJ
+  zip: '08854'
+rutgersu:
+  aka:
     - Rutgers
     - rutgersu
   city: New Brunswick
@@ -1493,6 +1552,23 @@ ssrf:
   city: Shanghai
   country: China
   name: Shanghai Synchrotron Radiation Facility
+stockholmu:
+  aka: []
+  city: Stockholm
+  country: Sweden
+  day: 17
+  departments:
+    mec:
+      name: Department of Materials and Environmental Chemistry
+  month: 3
+  name: Stockholm University
+  schools:
+    pmisc:
+      name: Berzelii Centre EXSELENT on Porous Materials and Inorganic and Structural
+        Chemistry
+  updated: 2020-03-17 21:15:14.610311
+  uuid: a968ff5a-a73c-4f95-8288-607d2b9911d6
+  year: 2020
 suny:
   aka:
     - SBU
@@ -1541,14 +1617,18 @@ sunysb:
   street: ''
   zip: '11794'
 tamu:
-  aka:
-    - texasam
+  aka: []
   city: College Station
   country: USA
-  day: 15
+  day: 17
+  departments:
+    chemsitry:
+      name: Department of Chemistry
   month: 3
   name: Texas A&M University
   state: TX
+  updated: 2020-03-17 20:52:04.127382
+  uuid: d179c2cc-af8f-4c1e-8e25-039581be4d8a
   year: 2020
 tbilisistateu:
   city: Tbilisi
@@ -2048,6 +2128,20 @@ uofsoutherndenmark:
   name: University of Southern Denmark
   updated: 2020-03-09 11:41:56.810363
   uuid: fd6dd99c-330f-4695-83d7-f1dd92ea8ecf
+  year: 2020
+uoftexasatdallas:
+  aka: []
+  city: Richardson
+  country: USA
+  day: 17
+  departments:
+    mse:
+      name: Department of Materials Science and Engineering
+  month: 3
+  name: University of Texas at Dallas
+  state: TX
+  updated: 2020-03-17 21:14:05.204167
+  uuid: 37a97804-1302-4a8b-a5a5-561f252a12c4
   year: 2020
 uoftrento:
   aka:
