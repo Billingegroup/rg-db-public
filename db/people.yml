@@ -2291,3 +2291,25 @@ zzgong:
   service: []
   skills: []
   title: Dr.
+ylin:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2013
+      begin_month: 9
+      degree: MS in Materials Science
+      institution: Columbia University
+  employment:
+    - begin_year: 2014
+      begin_month: 1
+      organization: Columbia University
+      end_year: 2014
+      end_month: 5
+      position: Masters Researcher
+      advisor: sbillinge
+      group: bg
+      status: ms
+  name: Yarong Lin
+  position: Masters Researcher
