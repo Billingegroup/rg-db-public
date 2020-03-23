@@ -2310,6 +2310,10 @@ ylin:
       end_year: 2014
       end_month: 5
   employment:
+    - begin_year: 2015
+      begin_month: 7
+      position: Senior Process Engineer
+      organization: GLOBALFOUNDRIES
     - begin_year: 2014
       begin_month: 1
       organization: Columbia University
