@@ -1363,7 +1363,7 @@ ppeterson:
       advisor: sbillinge
   employment:
     - begin_year: 2003
-      begin_month: 01
+      begin_month: 1
       position: Software Engineer
       organization: Oak Ridge National Laboratory
     - begin_year: 1999
