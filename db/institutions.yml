@@ -86,6 +86,15 @@ anl:
   name: Argonne National Laboratory
   state: IL
   zip: '60439'
+missouris&t:
+  aka:
+    - MUST
+    - Missouri S&T
+  city: Rollo
+  country: USA
+  name: Missouri University of Science and Technology
+  state: MS
+  zip: '65409'
 apple:
   aka:
     - Apple
@@ -1380,7 +1389,8 @@ queensu:
   uuid: 571bad37-df9d-4260-a8ae-a89711801997
   year: 2020
 queensubelfast:
-  aka: []
+  aka:
+    - queensbelfast
   city: Belfast
   country: Northern Ireland
   day: 17
