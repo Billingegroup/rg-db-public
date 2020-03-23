@@ -61,6 +61,33 @@ achoudhry:
       status: undergrad
   name: Akshay Choudhry
   position: Undergraduate Researcher
+amasadeh:
+  active: false
+  aka: []
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 2003
+      degree: PhD
+      institution: msu
+      end_year: 2008
+      end_month: 1
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2008
+      position: Assistant Professor
+      organization: University of Jordan
+    - begin_year: 2003
+      position: Research Assistant
+      advisor: sbillinge
+      organization: msu
+      status: phd
+      end_year: 2008
+      end_month: 6
+      group: bg
+  name: Ahmad Masadeh
+  position: Assistant Professor
 ashaaban:
   active: true
   aka: []
@@ -723,6 +750,34 @@ ekjaer:
       status: visitor-unsupported
   name: Emil Kjaer
   position: Visiting Researcher
+hlin:
+  active: false
+  aka: []
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 2000
+      degree: PhD
+      institution: msu
+      end_year: 2006
+      end_month: 12
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2009
+      begin_month: 12
+      position: Staff Scientist
+      organization: ssrf
+    - begin_year: 2000
+      position: Research Assistant
+      advisor: sbillinge
+      organization: msu
+      status: phd
+      end_year: 2006
+      end_month: 12
+      group: bg
+  name: He Lin
+  position: Staff Scientist
 htvuong:
   active: true
   aka:
@@ -765,6 +820,33 @@ htvuong:
     - level: proficient
       category: Programming Languages
       name: Python
+hyavas:
+  active: false
+  aka: []
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 2001
+      degree: PhD
+      institution: msu
+      end_year: 2007
+      end_month: 10
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2018
+      position: Staff Scientist
+      organization: SLAC National Accelerator Laboratory
+    - begin_year: 2001
+      position: Research Assistant
+      advisor: sbillinge
+      organization: msu
+      status: phd
+      end_year: 2007
+      end_month: 10
+      group: bg
+  name: Hasan Yavas
+  position: Staff Scientist
 jcalamari:
   active: false
   aka:
@@ -952,6 +1034,61 @@ mkarlsen:
       status: visitor-unsupported
   name: Martin A. Karlsen
   position: Visiting PhD Researcher, U. Southern Denmark
+moneebshatnawi:
+  active: false
+  aka: []
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 2004
+      degree: PhD
+      institution: msu
+      end_year: 2007
+      end_month: 7
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2008
+      position: Associate Professor
+      organization: University of Jordan
+    - begin_year: 2004
+      position: Research Assistant
+      advisor: sbillinge
+      organization: msu
+      status: phd
+      end_year: 2007
+      end_month: 7
+      group: bg
+  name: Moneeb Shatnawi
+  position: Associate Professor
+mouathshatnawi:
+  active: false
+  aka:
+    - Mouath Ghazi Shatnawi
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 2001
+      degree: PhD
+      institution: msu
+      end_year: 2007
+      end_month: 5
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2016
+      position: Associate Professor
+      organization: Hashemite University
+    - begin_year: 2001
+      position: Research Assistant
+      advisor: sbillinge
+      organization: msu
+      status: phd
+      end_year: 2007
+      end_month: 5
+      group: bg
+  name: Mouath Shatnawi
+  position: Associate Professor
 mterban:
   active: false
   aka:
@@ -1157,6 +1294,34 @@ pjuhas:
       status: postdoc
   name: Pavol Juhas
   position: Programmer
+ppeterson:
+  active: false
+  aka: []
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 1999
+      degree: PhD
+      institution: msu
+      end_year: 2001
+      end_month: 12
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2003
+      begin_month: 01
+      position: Software Engineer
+      organization: Oak Ridge National Laboratory
+    - begin_year: 1999
+      position: Research Assistant
+      advisor: sbillinge
+      organization: msu
+      status: phd
+      end_year: 2001
+      end_month: 12
+      group: bg
+  name: Peter Peterson
+  position: Software Engineer
 ptian:
   active: false
   aka:
@@ -1207,6 +1372,34 @@ ptian:
       group: bg
   name: Peng Tian
   position: Rates Quant
+rdifrancesco:
+  active: false
+  aka: []
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 1992
+      degree: PhD
+      institution: msu
+      end_year: 1999
+      end_month: 12
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2006
+      begin_month: 1
+      position: Senior Support Consultant
+      organization: SAP
+    - begin_year: 1992
+      position: Research Assistant
+      advisor: sbillinge
+      organization: msu
+      status: phd
+      end_year: 1999
+      end_month: 4
+      group: bg
+  name: Remo DiFrancesco
+  position: Senior Support Consultant
 rgu:
   active: true
   aka:
@@ -1802,6 +1995,38 @@ tcaswell:
       organization: bnl
   name: Thomas Caswell
   position: Visiting Associate Research Scientist
+tdavis:
+  active: false
+  aka:
+    - Timur Dykhne
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 2009
+      degree: PhD
+      institution: columbiau
+      end_year: 2011
+      end_month: 6
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2019
+      position: Investment lead
+      organization: Munich Re Venture
+    - begin_year: 2013
+      position: Investment Manager
+      organization: Samsung Venture Investment
+      end_year: 2018
+    - begin_year: 2009
+      position: Research Assistant
+      advisor: sbillinge
+      organization: columbiau
+      status: phd
+      end_year: 2011
+      end_month: 6
+      group: bg
+  name: Timur Davis
+  position: Investment lead
 vgharakhanyan:
   active: true
   aka: []
@@ -1872,6 +2097,32 @@ xhyang:
       group: bg
   name: XiaoHao Yang
   position: Software Engineer
+xyqiu:
+  active: false
+  aka:
+    - Xiangyun
+  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
+  bio: bio
+  education:
+    - begin_year: 1999
+      degree: PhD
+      institution: msu
+      end_year: 2004
+      group: bg
+      advisor: sbillinge
+  employment:
+    - begin_year: 2017
+      position: Professor
+      organization: georgewashingtonu
+    - begin_year: 1999
+      position: Research Assistant
+      advisor: sbillinge
+      organization: msu
+      status: phd
+      end_year: 2004
+      group: bg
+  name: Xiangyun Qiu
+  position: Professor
 xyun:
   active: false
   aka:
@@ -2040,254 +2291,3 @@ zzgong:
   service: []
   skills: []
   title: Dr.
-rdifrancesco:
-  active: false
-  aka: []
-  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
-  education:
-    - begin_year: 1992
-      degree: PhD
-      institution: msu
-      end_year: 1999
-      end_month: 12
-      group: bg
-      advisor: sbillinge
-  employment:
-    - begin_year: 2006
-      begin_month: 1
-      position: Senior Support Consultant
-      organization: SAP
-    - begin_year: 1992
-      position: Research Assistant
-      advisor: sbillinge
-      organization: msu
-      status: phd
-      end_year: 1999
-      end_month: 4
-      group: bg
-  name: Remo DiFrancesco
-  position: Senior Support Consultant
-ppeterson:
-  active: false
-  aka: []
-  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
-  education:
-    - begin_year: 1999
-      degree: PhD
-      institution: msu
-      end_year: 2001
-      end_month: 12
-      group: bg
-      advisor: sbillinge
-  employment:
-    - begin_year: 2003
-      begin_month: 01
-      position: Software Engineer
-      organization: Oak Ridge National Laboratory
-    - begin_year: 1999
-      position: Research Assistant
-      advisor: sbillinge
-      organization: msu
-      status: phd
-      end_year: 2001
-      end_month: 12
-      group: bg
-  name: Peter Peterson
-  position: Software Engineer
-xyqiu:
-  active: false
-  aka:
-    - Xiangyun
-  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
-  education:
-    - begin_year: 1999
-      degree: PhD
-      institution: msu
-      end_year: 2004
-      group: bg
-      advisor: sbillinge
-  employment:
-    - begin_year: 2017
-      position: Professor
-      organization: georgewashingtonu
-    - begin_year: 1999
-      position: Research Assistant
-      advisor: sbillinge
-      organization: msu
-      status: phd
-      end_year: 2004
-      group: bg
-  name: Xiangyun Qiu
-  position: Professor
-mouathshatnawi:
-  active: false
-  aka:
-    - Mouath Ghazi Shatnawi
-  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
-  education:
-    - begin_year: 2001
-      degree: PhD
-      institution: msu
-      end_year: 2007
-      end_month: 5
-      group: bg
-      advisor: sbillinge
-  employment:
-    - begin_year: 2016
-      position: Associate Professor
-      organization: Hashemite University
-    - begin_year: 2001
-      position: Research Assistant
-      advisor: sbillinge
-      organization: msu
-      status: phd
-      end_year: 2007
-      end_month: 5
-      group: bg
-  name: Mouath Shatnawi
-  position: Associate Professor
-moneebshatnawi:
-  active: false
-  aka: []
-  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
-  education:
-    - begin_year: 2004
-      degree: PhD
-      institution: msu
-      end_year: 2007
-      end_month: 7
-      group: bg
-      advisor: sbillinge
-  employment:
-    - begin_year: 2008
-      position: Associate Professor
-      organization: University of Jordan
-    - begin_year: 2004
-      position: Research Assistant
-      advisor: sbillinge
-      organization: msu
-      status: phd
-      end_year: 2007
-      end_month: 7
-      group: bg
-  name: Moneeb Shatnawi
-  position: Associate Professor
-hyavas:
-  active: false
-  aka: []
-  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
-  education:
-    - begin_year: 2001
-      degree: PhD
-      institution: msu
-      end_year: 2007
-      end_month: 10
-      group: bg
-      advisor: sbillinge
-  employment:
-    - begin_year: 2018
-      position: Staff Scientist
-      organization: SLAC National Accelerator Laboratory
-    - begin_year: 2001
-      position: Research Assistant
-      advisor: sbillinge
-      organization: msu
-      status: phd
-      end_year: 2007
-      end_month: 10
-      group: bg
-  name: Hasan Yavas
-  position: Staff Scientist
-tdavis:
-  active: false
-  aka:
-    - Timur Dykhne
-  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
-  education:
-    - begin_year: 2009
-      degree: PhD
-      institution: columbiau
-      end_year: 2011
-      end_month: 6
-      group: bg
-      advisor: sbillinge
-  employment:
-    - begin_year: 2019
-      position: Investment lead
-      organization: Munich Re Venture
-    - begin_year: 2013
-      position: Investment Manager
-      organization: Samsung Venture Investment
-      end_year: 2018
-    - begin_year: 2009
-      position: Research Assistant
-      advisor: sbillinge
-      organization: columbiau
-      status: phd
-      end_year: 2011
-      end_month: 6
-      group: bg
-  name: Timur Davis
-  position: Investment lead
-amasadeh:
-  active: false
-  aka: []
-  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
-  education:
-    - begin_year: 2003
-      degree: PhD
-      institution: msu
-      end_year: 2008
-      end_month: 1
-      group: bg
-      advisor: sbillinge
-  employment:
-    - begin_year: 2008
-      position: Assistant Professor
-      organization: University of Jordan
-    - begin_year: 2003
-      position: Research Assistant
-      advisor: sbillinge
-      organization: msu
-      status: phd
-      end_year: 2008
-      end_month: 6
-      group: bg
-  name: Ahmad Masadeh
-  position: Assistant Professor
-hlin:
-  active: false
-  aka: []
-  avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
-  education:
-    - begin_year: 2000
-      degree: PhD
-      institution: msu
-      end_year: 2006
-      end_month: 12
-      group: bg
-      advisor: sbillinge
-  employment:
-    - begin_year: 2009
-      begin_month: 12
-      position: Staff Scientist
-      organization: ssrf
-    - begin_year: 2000
-      position: Research Assistant
-      advisor: sbillinge
-      organization: msu
-      status: phd
-      end_year: 2006
-      end_month: 12
-      group: bg
-  name: He Lin
-  position: Staff Scientist
