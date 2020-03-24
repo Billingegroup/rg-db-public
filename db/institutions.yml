@@ -86,15 +86,6 @@ anl:
   name: Argonne National Laboratory
   state: IL
   zip: '60439'
-missouris&t:
-  aka:
-    - MUST
-    - Missouri S&T
-  city: Rollo
-  country: USA
-  name: Missouri University of Science and Technology
-  state: MS
-  zip: '65409'
 apple:
   aka:
     - Apple
@@ -917,6 +908,16 @@ missing:
   city: missing
   country: missing
   name: Missing
+missouris&t:
+  aka:
+    - MUST
+    - Missouri S&T
+    - missouriust
+  city: Rollo
+  country: USA
+  name: Missouri University of Science and Technology
+  state: MS
+  zip: '65409'
 mit:
   aka: []
   city: Boston
@@ -1958,14 +1959,14 @@ uhouston:
 uillinoischampaign:
   aka:
     - uiuc
-  city: champaign
-  country: usa
+  city: Champaign
+  country: USA
   day: 7
   departments:
     matsci:
       name: Department of Materials Science and Engineering
   month: 2
-  name: uillinoischampaign
+  name: University of Illinois, Champaign Urbana
   state: IL
   updated: 2020-02-07 14:59:22.135702
   uuid: f03e902b-b7bf-48dd-83a2-f5aa6bf9fa3f
