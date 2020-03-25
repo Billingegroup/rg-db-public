@@ -2444,9 +2444,9 @@ kknox:
     - begin_year: 2006
       end_year: 2011
       group: bg
-      status: Graduate Researcher
+      status: phd
       advisor: sbillinge
       organization: Columbia University
-      position: phd
+      position: Graduate Researcher
   name: Kevin Knox
-  position: Scientist
+  position: Vice President
