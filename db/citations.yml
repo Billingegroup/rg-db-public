@@ -822,7 +822,7 @@ billi;b;imsadoceo03:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/03billi_ictp02.pdf
   year: '2003'
 billi;b;itoch18:
-  address: Buffalo, NY
+  address: Chester, UK
   author:
     - Billinge, S. J. L.
   booktitle: International Tables of Crystallography
@@ -903,7 +903,7 @@ billi;b;mrsp95:
   wwwlanl: ''
   year: '1995'
 billi;b;pdtap08:
-  address: London, England
+  address: Cambridge, UK
   author:
     - Billinge, S. J. L.
   booktitle: 'Powder diffraction: theory and practice'
@@ -3281,7 +3281,7 @@ difra;pb98:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/98difrapb.pdf
   year: '1998'
 dinne;b;itoch18:
-  address: Buffalo, NY
+  address: Chester, UK
   author:
     - Dinnebier, Robert E.
     - Billinge, Simon J. L.
@@ -3305,7 +3305,7 @@ dinne;b;itoch18:
   wwwemail: sb2896@columbia.edu
   year: '2019'
 dinne;b;pdtap08:
-  address: London, England
+  address: Cambridge, UK
   author: []
   doi: 10.1039/9781847558237
   editor: Dinnebier, Robert E. and Billinge, Simon J. L.
