@@ -7617,6 +7617,36 @@ petko;prl99:
   wwwlanl: http://xxx.lanl.gov/abs/cond-mat/9906099
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/99petkoprl.pdf
   year: '1999'
+pouch;b;hobdamlitps20:
+  ackno: tbd
+  address: Singapore
+  author:
+    - Line Pouchard
+    - Pavol Juhas 
+    - Gilchan Park
+    - Huub Van Dam
+    - Stuart I. Campbell
+    - Eli Stavitski
+    - Simon Billinge
+    - Christopher J. Wright
+  booktitle: Handbook on Big Data and Machine Learning in the Physical Sciences
+  day: ''
+  doi: 10.1142/9789811204579_0015
+  entrytype: inproceedings
+  facility: nslsii, xpd
+  grant: bnlldrd18
+  month: Mar
+  nb: proc
+  number: ''
+  optnote: ''
+  pages: 307-331
+  publisher: World Scientific
+  title: Provenance infrastructure for multi-modal x-ray experiments and reproducible
+    analysis
+  url: https://doi.org/10.1142/9789811204579_0015
+  volume: ''
+  wwwemail: ''
+  year: '2020'
 prill;aca16:
   author:
     - Prill, Dragica
