@@ -2431,7 +2431,6 @@ kknox:
     - begin_year: 2015
       begin_month: 7
       organization: J.P. Morgan
-      department: []
       position: Vice President
     - begin_year: 2011
       begin_month: 7
@@ -2443,8 +2442,6 @@ kknox:
       organization: Brookhaven National Laboratory
       position: Post Doctoral Associate
     - begin_year: 2006
-      begin_month: []
-      end_month: []
       end_year: 2011
       group: bg
       status: Graduate Researcher
