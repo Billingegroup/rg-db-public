@@ -2406,3 +2406,50 @@ zzgong:
   service: []
   skills: []
   title: Dr.
+kknox:
+  active: false
+  aka:
+    - Kevin Knox
+    - Knox, K.
+    - Knox, Kevin
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2006
+      degree: PhD
+      institution: Columbia University
+      end_year: 2011
+    - begin_year: 2004
+      degree: MA in Physics
+      institution: Columbia University
+      end_year: 2006
+    - begin_year: 1997
+      degree: BA in Physics
+      institution: Cornell University
+      end_year: 2001
+  employment:
+    - begin_year: 2015
+      begin_month: 7
+      organization: J.P. Morgan
+      department: []
+      position: Vice President
+    - begin_year: 2011
+      begin_month: 7
+      end_month: 6
+      end_year: 2015
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Brookhaven National Laboratory
+      position: Post Doctoral Associate
+    - begin_year: 2006
+      begin_month: []
+      end_month: []
+      end_year: 2011
+      group: bg
+      status: Graduate Researcher
+      advisor: sbillinge
+      organization: Columbia University
+      position: Graduate Researcher
+  name: Kevin Knox
+  position: Scientist
