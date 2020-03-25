@@ -2279,6 +2279,39 @@ yrakita:
       status: postdoc
   name: Yevgeny Rakita
   position: Post Doctoral Associate
+yrshang:
+  active: false
+  aka:
+    - Yingrui Shang
+    - Shang, Y.
+    - Shang, Yingrui
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2005
+      degree: PhD in Physics
+      institution: University of Massachusetts Lowell
+      end_year: 2008
+    - begin_year: 2000
+      degree: BS in Materials Science and Engineering
+      institution: Beijing University of Chemical Technology
+      end_year: 2004
+  employment:
+    - begin_year: 2012
+      begin_month: 1
+      organization: Tianjin University
+      position: Associate Professor
+    - begin_year: 2009
+      begin_month: 9
+      end_month: 9
+      end_year: 2011
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: columbiau
+      position: Post Doctoral Associate
+  name: Yingrui Shang
+  position: Associate Professor, Tianjin University
 yztao:
   active: false
   aka:
