@@ -2268,6 +2268,20 @@ usda:
   month: 3
   name: United States Department of Agriculture
   year: 2020
+utennessee:
+  aka:
+    - ut
+    - uoftennessee
+  city: Knoxville
+  country: USA
+  day: 25
+  month: 3
+  name: University of Tennesee
+  state: TN
+  updated: 2020-03-17 02:30:29.709566
+  uuid: 8acc5248-f9f0-4b26-8deb-3f7dd54c041e
+  year: 2020
+  zip: '37996'
 utokyo:
   aka:
     - utokyo

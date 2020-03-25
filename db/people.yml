@@ -808,6 +808,30 @@ hlin:
       group: bg
   name: He Lin
   position: Staff Scientist
+htiwari:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2010
+      begin_month: 9
+      degree: MS in Materials Science
+      institution: Columbia University
+      end_year: 2011
+      end_month: 5
+  employment:
+    - begin_year: 2010
+      begin_month: 11
+      organization: Columbia University
+      end_year: 2011
+      end_month: 5
+      position: Masters Researcher
+      advisor: sbillinge
+      group: bg
+      status: ms
+  name: Hrishi Tiwari
+  position: Former Masters Researcher
 htvuong:
   active: true
   aka:
@@ -2182,6 +2206,34 @@ xyun:
       organization: Columbia University
   name: Xin Yun
   position: Graduate Student
+ylin:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2013
+      begin_month: 9
+      degree: MS in Materials Science
+      institution: Columbia University
+      end_year: 2014
+      end_month: 5
+  employment:
+    - begin_year: 2015
+      begin_month: 7
+      position: Senior Process Engineer
+      organization: GLOBALFOUNDRIES
+    - begin_year: 2014
+      begin_month: 1
+      organization: Columbia University
+      end_year: 2014
+      end_month: 5
+      position: Masters Researcher
+      advisor: sbillinge
+      group: bg
+      status: ms
+  name: Yarong Lin
+  position: Senior Process Engineer
 yrakita:
   active: true
   aka:
@@ -2321,55 +2373,3 @@ zzgong:
   service: []
   skills: []
   title: Dr.
-ylin:
-  active: false
-  aka: []
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
-  education:
-    - begin_year: 2013
-      begin_month: 9
-      degree: MS in Materials Science
-      institution: Columbia University
-      end_year: 2014
-      end_month: 5
-  employment:
-    - begin_year: 2015
-      begin_month: 7
-      position: Senior Process Engineer
-      organization: GLOBALFOUNDRIES
-    - begin_year: 2014
-      begin_month: 1
-      organization: Columbia University
-      end_year: 2014
-      end_month: 5
-      position: Masters Researcher
-      advisor: sbillinge
-      group: bg
-      status: ms
-  name: Yarong Lin
-  position: Senior Process Engineer
-htiwari:
-  active: false
-  aka: []
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
-  education:
-    - begin_year: 2010
-      begin_month: 9
-      degree: MS in Materials Science
-      institution: Columbia University
-      end_year: 2011
-      end_month: 5
-  employment:
-    - begin_year: 2010
-      begin_month: 11
-      organization: Columbia University
-      end_year: 2011
-      end_month: 5
-      position: Masters Researcher
-      advisor: sbillinge
-      group: bg
-      status: ms
-  name: Hrishi Tiwari
-  position: Former Masters Researcher
