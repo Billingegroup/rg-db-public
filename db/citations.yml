@@ -741,7 +741,8 @@ billi;b;coecm91:
     - Egami, T.
     - Catlow, C. R. A.
   booktitle: Chemistry of Electronic Ceramic Materials
-  editor: Bar-Yam, Y. and  Egami, T. and Mustre-de Leon J. and Bishop, A. R.
+  editor: Bar-Yam, Y. and  Egami, T. and Mustre-de Leon J. and
+    Bishop, A. R.
   entrytype: book
   facility: ' ipns, sepd '
   grant: ''
@@ -9718,8 +9719,8 @@ xu;b;ainips18:
     - Maleki,
     - Arian,
   booktitle: Advances in Neural Information Processing Systems 31
-  editor: Bengio, S. and Wallach, H. and Larochelle, H. and Grauman, K. and Cesa-Bianchi,
-    N. and Garnett, R.
+  editor: Bengio, S. and Wallach, H. and Larochelle, H. and Grauman, K.
+    and Cesa-Bianchi, N. and Garnett, R.
   entrytype: incollection
   grant: dmref15
   pages: 10685--10695
