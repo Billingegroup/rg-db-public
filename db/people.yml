@@ -168,30 +168,6 @@ bozer:
       status: ms
   name: Berrak Ozer
   position: Master Student Researcher
-btabanpour:
-  active: false
-  aka: []
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
-  education:
-    - begin_year: 2014
-      begin_month: 9
-      end_year: 2015
-      end_month: Jun
-      degree: MS in Materials Science
-      institution: Columbia University
-  employment:
-    - begin_year: 2014
-      begin_month: 9
-      end_year: 2015
-      end_month: 6
-      organization: Columbia University
-      position: Masters Researcher
-      advisor: sbillinge
-      group: bg
-      status: ms
-  name: Baruch Tabanpour
-  position: Masters Student Researcher
 chliu:
   active: false
   aka:
@@ -1363,7 +1339,7 @@ ppeterson:
       advisor: sbillinge
   employment:
     - begin_year: 2003
-      begin_month: 01
+      begin_month: 1
       position: Software Engineer
       organization: Oak Ridge National Laboratory
     - begin_year: 1999
