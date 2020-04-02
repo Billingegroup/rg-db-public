@@ -838,6 +838,54 @@ ekjaer:
       status: visitor-unsupported
   name: Emil Kjaer
   position: Visiting Researcher
+hhu:
+  active: false
+  aka:
+    - Hefei Hu
+    - Hu, H.
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2006
+      degree: PhD in Physics
+      institution: University of Illinois at Urbana-Champaign
+      end_year: 2012
+    - begin_year: 2003
+      degree: MA in Physics
+      institution: University of Manitoba
+      end_year: 2006
+    - begin_year: 1999
+      degree: BA in Physics
+      institution: Wuhan University
+      end_year: 2003
+  employment:
+    - begin_year: 2014
+      begin_month: 6
+      organization: Intel Corporation
+      position: Engineer - 3D XPoint Memory Technology
+    - begin_year: 2013
+      begin_month: 1
+      end_month: 6
+      end_year: 2014
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Brookhaven National Laboratory
+      position: Post Doctoral Associate
+    - begin_year: 2006
+      begin_month: 8
+      end_month: 12
+      end_year: 2012
+      organization: University of Illinois at Urbana-Champaign
+      position: Research Assistant
+    - begin_year: 2003
+      begin_month: 9
+      end_month: 8
+      end_year: 2006
+      organization: University of Manitoba
+      position: Research Assistant
+  name: Hefei Hu
+  position: Engineer - 3D XPoint Memory Technology
 hlin:
   active: false
   aka: []
@@ -2509,51 +2557,31 @@ zzgong:
   service: []
   skills: []
   title: Dr.
-hhu:
+mgarciafernandez:
   active: false
   aka:
-    - Hefei Hu
-    - Hu, H.
+    - Mirian García-Fernández
+    - García-Fernández, Mirian.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
-  education:
-    - begin_year: 2006
-      degree: PhD in Physics
-      institution: University of Illinois at Urbana-Champaign
-      end_year: 2012
-    - begin_year: 2003
-      degree: MA in Physics
-      institution: University of Manitoba
-      end_year: 2006
-    - begin_year: 1999
-      degree: BA in Physics
-      institution: Wuhan University
-      end_year: 2003
   employment:
     - begin_year: 2014
-      begin_month: 6
-      organization: Intel Corporation
-      position: Engineer - 3D XPoint Memory Technology
-    - begin_year: 2013
-      begin_month: 1
-      end_month: 6
+      organization: Diamond Light Source
+      position: Beamline Scientist
+    - begin_year: 2011
+      begin_month: 5
+      end_month: 1
       end_year: 2014
       group: bg
       status: postdoc
       advisor: sbillinge
       organization: Brookhaven National Laboratory
       position: Post Doctoral Associate
-    - begin_year: 2006
-      begin_month: 8
-      end_month: 12
-      end_year: 2012
-      organization: University of Illinois at Urbana-Champaign
-      position: Research Assistant
-    - begin_year: 2003
+    - begin_year: 2009
       begin_month: 9
-      end_month: 8
-      end_year: 2006
-      organization: University of Manitoba
-      position: Research Assistant
-  name: Hefei Hu
-  position: Engineer - 3D XPoint Memory Technology
+      end_month: 2
+      end_year: 2011
+      organization: Université de Fribourg
+      position: Postdoc
+  name: Mirian García-Fernández
+  position: Beamline Scientist
