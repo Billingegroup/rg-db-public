@@ -1219,6 +1219,38 @@ lyang:
       group: bg
   name: Long Yang
   position: Graduate Student
+mgarciafernandez:
+  active: false
+  aka:
+    - Mirian García-Fernández
+    - García-Fernández, Mirian.
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 0
+      degree: Unknown
+      institution: Unknown
+  employment:
+    - begin_year: 2014
+      organization: Diamond Light Source
+      position: Beamline Scientist
+    - begin_year: 2011
+      begin_month: 5
+      end_month: 1
+      end_year: 2014
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Brookhaven National Laboratory
+      position: Post Doctoral Associate
+    - begin_year: 2009
+      begin_month: 9
+      end_month: 2
+      end_year: 2011
+      organization: Université de Fribourg
+      position: Postdoc
+  name: Mirian García-Fernández
+  position: Beamline Scientist
 mkarlsen:
   active: true
   aka: []
@@ -2557,32 +2589,3 @@ zzgong:
   service: []
   skills: []
   title: Dr.
-mgarciafernandez:
-  active: false
-  aka:
-    - Mirian García-Fernández
-    - García-Fernández, Mirian.
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
-  education: []
-  employment:
-    - begin_year: 2014
-      organization: Diamond Light Source
-      position: Beamline Scientist
-    - begin_year: 2011
-      begin_month: 5
-      end_month: 1
-      end_year: 2014
-      group: bg
-      status: postdoc
-      advisor: sbillinge
-      organization: Brookhaven National Laboratory
-      position: Post Doctoral Associate
-    - begin_year: 2009
-      begin_month: 9
-      end_month: 2
-      end_year: 2011
-      organization: Université de Fribourg
-      position: Postdoc
-  name: Mirian García-Fernández
-  position: Beamline Scientist
