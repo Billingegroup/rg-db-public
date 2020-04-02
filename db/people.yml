@@ -2451,3 +2451,61 @@ kknox:
       position: Graduate Researcher
   name: Kevin Knox
   position: Vice President
+ckkim:
+  active: false
+  aka:
+    - Chung Koo Kim
+    - Chung K. Kim
+    - C. K. Kim
+    - Kim, Chung Koo
+    - Kim, Chun. K.
+    - Kim, C. K.
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2007
+      degree: PhD
+      institution: Cornell University
+      end_year: 2013
+    - begin_year: 2005
+      degree: MA in Physics
+      institution: Seoul National University
+      end_year: 2007
+    - begin_year: 2002
+      degree: BA in Electrical, Electronics and Computer Engineering
+      institution: Seoul National University
+      end_year: 2005
+  employment:
+    - begin_year: 2019
+      begin_month: 12
+      organization: Intel Corporation
+      position: Manufacturing Integration Engineer
+    - begin_year: 2018
+      begin_month: 5
+      end_month: 11
+      end_year: 2019
+      organization: Cornell University
+      position: Visiting Scientist
+    - begin_year: 2013
+      begin_month: 4
+      end_month: 4
+      end_year: 2018
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Brookhaven National Laboratory
+      position: Research Associate
+    - begin_year: 2007
+      begin_month: 4
+      end_month: 1
+      end_year: 2013
+      organization: Cornell University
+      position: Graduate Research Assistant
+    - begin_year: 2005
+      begin_month: 8
+      end_month: 12
+      end_year: 2007
+      organization: Cornell University
+      position: Graduate Teaching Assistant
+  name: Chung Koo Kim
+  position: Manufacturing Integration Engineer
