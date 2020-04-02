@@ -236,6 +236,64 @@ chliu:
       category: Programming Languages
       name: Python
   title: Mr.
+ckkim:
+  active: false
+  aka:
+    - Chung Koo Kim
+    - Chung K. Kim
+    - C. K. Kim
+    - Kim, Chung Koo
+    - Kim, Chun. K.
+    - Kim, C. K.
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2007
+      degree: PhD
+      institution: Cornell University
+      end_year: 2013
+    - begin_year: 2005
+      degree: MA in Physics
+      institution: Seoul National University
+      end_year: 2007
+    - begin_year: 2002
+      degree: BA in Electrical, Electronics and Computer Engineering
+      institution: Seoul National University
+      end_year: 2005
+  employment:
+    - begin_year: 2019
+      begin_month: 12
+      organization: Intel Corporation
+      position: Manufacturing Integration Engineer
+    - begin_year: 2018
+      begin_month: 5
+      end_month: 11
+      end_year: 2019
+      organization: Cornell University
+      position: Visiting Scientist
+    - begin_year: 2013
+      begin_month: 4
+      end_month: 4
+      end_year: 2018
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Brookhaven National Laboratory
+      position: Research Associate
+    - begin_year: 2007
+      begin_month: 4
+      end_month: 1
+      end_year: 2013
+      organization: Cornell University
+      position: Graduate Research Assistant
+    - begin_year: 2005
+      begin_month: 8
+      end_month: 12
+      end_year: 2007
+      organization: Cornell University
+      position: Graduate Teaching Assistant
+  name: Chung Koo Kim
+  position: Manufacturing Integration Engineer
 cwright:
   active: false
   aka:
@@ -1015,6 +1073,50 @@ kjensen:
       status: postdoc
   name: Kirsten Jensen
   position: assistant professor
+kknox:
+  active: false
+  aka:
+    - Kevin Knox
+    - Knox, K.
+    - Knox, Kevin
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2006
+      degree: PhD
+      institution: Columbia University
+      end_year: 2011
+    - begin_year: 2004
+      degree: MA in Physics
+      institution: Columbia University
+      end_year: 2006
+    - begin_year: 1997
+      degree: BA in Physics
+      institution: Cornell University
+      end_year: 2001
+  employment:
+    - begin_year: 2015
+      begin_month: 7
+      organization: J.P. Morgan
+      position: Vice President
+    - begin_year: 2011
+      begin_month: 7
+      end_month: 6
+      end_year: 2015
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Brookhaven National Laboratory
+      position: Post Doctoral Associate
+    - begin_year: 2006
+      end_year: 2011
+      group: bg
+      status: phd
+      advisor: sbillinge
+      organization: Columbia University
+      position: Graduate Researcher
+  name: Kevin Knox
+  position: Vice President
 kseth:
   active: true
   aka: []
@@ -2407,105 +2509,51 @@ zzgong:
   service: []
   skills: []
   title: Dr.
-kknox:
+hhu:
   active: false
   aka:
-    - Kevin Knox
-    - Knox, K.
-    - Knox, Kevin
+    - Hefei Hu
+    - Hu, H.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 2006
-      degree: PhD
-      institution: Columbia University
-      end_year: 2011
-    - begin_year: 2004
+      degree: PhD in Physics
+      institution: University of Illinois at Urbana-Champaign
+      end_year: 2012
+    - begin_year: 2003
       degree: MA in Physics
-      institution: Columbia University
+      institution: University of Manitoba
       end_year: 2006
-    - begin_year: 1997
+    - begin_year: 1999
       degree: BA in Physics
-      institution: Cornell University
-      end_year: 2001
+      institution: Wuhan University
+      end_year: 2003
   employment:
-    - begin_year: 2015
-      begin_month: 7
-      organization: J.P. Morgan
-      position: Vice President
-    - begin_year: 2011
-      begin_month: 7
+    - begin_year: 2014
+      begin_month: 6
+      organization: Intel Corporation
+      position: Engineer - 3D XPoint Memory Technology
+    - begin_year: 2013
+      begin_month: 1
       end_month: 6
-      end_year: 2015
+      end_year: 2014
       group: bg
       status: postdoc
       advisor: sbillinge
       organization: Brookhaven National Laboratory
       position: Post Doctoral Associate
     - begin_year: 2006
-      end_year: 2011
-      group: bg
-      status: phd
-      advisor: sbillinge
-      organization: Columbia University
-      position: Graduate Researcher
-  name: Kevin Knox
-  position: Vice President
-ckkim:
-  active: false
-  aka:
-    - Chung Koo Kim
-    - Chung K. Kim
-    - C. K. Kim
-    - Kim, Chung Koo
-    - Kim, Chun. K.
-    - Kim, C. K.
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
-  education:
-    - begin_year: 2007
-      degree: PhD
-      institution: Cornell University
-      end_year: 2013
-    - begin_year: 2005
-      degree: MA in Physics
-      institution: Seoul National University
-      end_year: 2007
-    - begin_year: 2002
-      degree: BA in Electrical, Electronics and Computer Engineering
-      institution: Seoul National University
-      end_year: 2005
-  employment:
-    - begin_year: 2019
-      begin_month: 12
-      organization: Intel Corporation
-      position: Manufacturing Integration Engineer
-    - begin_year: 2018
-      begin_month: 5
-      end_month: 11
-      end_year: 2019
-      organization: Cornell University
-      position: Visiting Scientist
-    - begin_year: 2013
-      begin_month: 4
-      end_month: 4
-      end_year: 2018
-      group: bg
-      status: postdoc
-      advisor: sbillinge
-      organization: Brookhaven National Laboratory
-      position: Research Associate
-    - begin_year: 2007
-      begin_month: 4
-      end_month: 1
-      end_year: 2013
-      organization: Cornell University
-      position: Graduate Research Assistant
-    - begin_year: 2005
       begin_month: 8
       end_month: 12
-      end_year: 2007
-      organization: Cornell University
-      position: Graduate Teaching Assistant
-  name: Chung Koo Kim
-  position: Manufacturing Integration Engineer
+      end_year: 2012
+      organization: University of Illinois at Urbana-Champaign
+      position: Research Assistant
+    - begin_year: 2003
+      begin_month: 9
+      end_month: 8
+      end_year: 2006
+      organization: University of Manitoba
+      position: Research Assistant
+  name: Hefei Hu
+  position: Engineer - 3D XPoint Memory Technology
