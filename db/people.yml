@@ -1227,9 +1227,12 @@ mgarciafernandez:
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
-    - begin_year: 0
-      degree: Unknown
-      institution: Unknown
+    - begin_year: 2006
+      begin_month: 9
+      end_year: 2009
+      end_month: 5
+      degree: PhD
+      institution: tbd
   employment:
     - begin_year: 2014
       organization: Diamond Light Source
