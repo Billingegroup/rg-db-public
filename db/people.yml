@@ -1070,7 +1070,7 @@ lyang:
   name: Long Yang
   position: Graduate Student
 mkarlsen:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/maak@sdu.dk.png
   bio: bio
