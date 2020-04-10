@@ -2951,3 +2951,44 @@ zzgong:
   service: []
   skills: []
   title: Dr.
+akovyakh:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2015
+      degree: PhD in Physics
+      institution: ucopenhagen
+      end_year: 2018
+  employment:
+    - begin_year: 2016
+      begin_month: 7
+      position: Visiting PhD Researcher - U. Copenhagen
+      organization: columbiau
+      end_year: 2017
+      advisor: sbillinge
+      end_month: 4
+      group: bg
+      status: visitor-unsupported
+  name: Anton Kovyakh
+  position: visitor
+fbertolotti:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education: []
+  employment:
+    - begin_year: 2014
+      begin_month: 7
+      position: Visiting PhD Researcher - DESY
+      organization: columbiau
+      end_year: 2014
+      advisor: sbillinge
+      end_month: 7
+      group: bg
+      status: visitor-unsupported
+  name: Ann-Christin Dippen
+  position: visitor
+  
