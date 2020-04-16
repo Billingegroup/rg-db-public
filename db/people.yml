@@ -2592,3 +2592,46 @@ zzgong:
   service: []
   skills: []
   title: Dr.
+cfarrow:
+  active: false
+  aka:
+    - Chris Farrow
+    - Farrow, C.
+    - Farrow, Chris
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2002
+      degree: PhD
+      institution: Michigan State University
+      end_year: 2007
+    - begin_year: 1999
+      degree: MA in Physics and Mathematics
+      institution: University of Nebraska at Omaha
+      end_year: 2002
+    - begin_year: 1995
+      degree: BA in Physics and Mathematics
+      institution: University of Nebraska at Omaha
+      end_year: 1999
+  employment:
+    - begin_year: 2011
+      begin_month: 6
+      organization: Enthought
+      position: Vice President
+    - begin_year: 2007
+      begin_month: 9
+      end_month: 6
+      end_year: 2011
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Columbia University
+      position: Associate Research Scientist
+    - begin_year: 2007
+      end_year: 2009
+      status: postdoc
+      organization: Michigan State University
+      position: Post Doctoral Appointee
+  name: Chris Farrow
+  position: Vice President
+
