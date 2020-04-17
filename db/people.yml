@@ -1573,6 +1573,22 @@ mouathshatnawi:
       end_year: 2007
       end_month: 5
       group: bg
+    - begin_year: 2013
+      begin_month: 7
+      position: Visiting Researcher
+      organization: columbiau
+      advisor: sbillinge
+      group: bg
+      end_year: 2013
+      end_month: 8
+    - begin_year: 2011
+      begin_month: 6
+      position: Visiting Researcher
+      organization: columbiau
+      advisor: sbillinge
+      group: bg
+      end_year: 2011
+      end_month: 12
   name: Mouath Shatnawi
   position: Associate Professor
 mschmidt:
@@ -2962,6 +2978,8 @@ akovyakh:
       institution: ucopenhagen
       end_year: 2018
   employment:
+    - begin_year: 2019
+      organization: Danish Technological Institute
     - begin_year: 2016
       begin_month: 7
       position: Visiting PhD Researcher - U. Copenhagen
@@ -2970,25 +2988,252 @@ akovyakh:
       advisor: sbillinge
       end_month: 4
       group: bg
-      status: visitor-unsupported
   name: Anton Kovyakh
-  position: visitor
 fbertolotti:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
-  education: []
+  education:
+    - begin_year: 2010
+      degree: PhD
+      institution: uturin
+      end_year: 2012
   employment:
+    - begin_year: 2018
+      begin_month: 11
+      organization: uinsubria
+      position: assistant professor
+    - begin_year: 2016
+      begin_month: 2
+      position: Visiting PhD Researcher
+      organization: columbiau
+      end_year: 2016
+      advisor: sbillinge
+      end_month: 3
+      group: bg
+  name: Federica Bertolotti
+  position: assistant professor
+cfarrow:
+  active: false
+  aka:
+    - Chris Farrow
+    - Farrow, C.
+    - Farrow, Chris
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2002
+      degree: PhD
+      institution: Michigan State University
+      end_year: 2007
+    - begin_year: 1999
+      degree: MA in Physics and Mathematics
+      institution: University of Nebraska at Omaha
+      end_year: 2002
+    - begin_year: 1995
+      degree: BA in Physics and Mathematics
+      institution: University of Nebraska at Omaha
+      end_year: 1999
+  employment:
+    - begin_year: 2011
+      begin_month: 6
+      organization: Enthought
+      position: Vice President
+    - begin_year: 2007
+      begin_month: 9
+      end_month: 6
+      end_year: 2011
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Columbia University
+      position: Associate Research Scientist
+    - begin_year: 2007
+      end_year: 2009
+      status: postdoc
+      organization: Michigan State University
+      position: Post Doctoral Appointee
+  name: Chris Farrow
+  position: Vice President
+pdas:
+  active: false
+  aka:
+    - Partha Pratim Das
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2007
+      degree: PhD
+      institution: uzurich
+      end_year: 2012
+  employment:
+    - begin_year: 2012
+      organization: nanomegas
+      position: Application Specialist
+    - begin_year: 2015
+      begin_month: 12
+      organization: Electron Crystallography Solutions SL
+      position: director
     - begin_year: 2014
       begin_month: 7
-      position: Visiting PhD Researcher - DESY
+      position: Visiting Researcher
       organization: columbiau
       end_year: 2014
       advisor: sbillinge
       end_month: 7
       group: bg
-      status: visitor-unsupported
-  name: Ann-Christin Dippen
-  position: visitor
-  
+  name: Partha Das
+alappas:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - degree: PhD
+      institution: usussex
+      end_year: 1993
+  employment:
+    - begin_year: 2012
+      organization: forth
+      position: University Professor
+    - begin_year: 2014
+      begin_month: 6
+      position: Visiting Researcher
+      organization: columbiau
+      end_year: 2014
+      advisor: sbillinge
+      end_month: 7
+      group: bg
+  name: Alexandros Lapas
+  position: professor
+oprymak:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - degree: PhD
+      institution: uduisburgessen
+      end_year: 2005
+  employment:
+    - begin_year: 2015
+      organization: uduisburgessen
+      position: senior assistant lecturer
+    - begin_year: 2014
+      begin_month: 4
+      position: Visiting Researcher
+      organization: columbiau
+      advisor: sbillinge
+      group: bg
+  name: Oleg Prymak
+  position: 'senior assistant lecturer'
+yhu:
+  active: false
+  aka:
+    - Joey Hu
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - degree: PhD
+      institution: ucberkeley
+      end_year: 2011
+  employment:
+    - begin_year: 2017
+      organization: Toyota Research Institute
+      position: senior software engineer
+    - begin_year: 2012
+      position: Visiting Researcher
+      organization: columbiau
+      advisor: sbillinge
+      group: bg
+  name: Yung-Jin Hu
+  position: engineer
+sdisch:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - degree: PhD
+      institution: Forschungszentrum Jülich
+      end_year: 2010
+  employment:
+    - begin_year: 2014
+      organization: ucologne
+      position: research group leader
+    - begin_year: 2008
+      begin_month: 9
+      position: Visiting Researcher
+      organization: columbiau
+      advisor: sbillinge
+      group: bg
+  name: Sabrina Disch
+mdapiaggi:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - degree: PhD
+      institution: upavia
+      end_year: 1995
+  employment:
+    - organization: umilan
+      position: associate professor
+    - begin_year: 2006
+      begin_month: 9
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+      end_month: 10
+      end_year: 2006
+  name: Monica Dapiaggi
+  position: associate professor
+lmalavasi:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - degree: PhD
+      institution: upavia
+      end_year: 2003
+  employment:
+    - begin_year: 2015
+      organization: upavia
+      position: associate professor
+    - begin_year: 2005
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+      end_year: 2005
+  name: Lorenzo Malavasi
+  position: associate professor
+gcampi:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - degree: PhD
+      institution: uroma
+      end_year: 2005
+  employment:
+    - begin_year: 2008
+      organization: Institute of Crystallography of the Council of National Research
+      position: researcher
+    - begin_year: 2002
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+      end_year: 2003
+  name: Gaetano Campi
+  position: 'researcher'
+
+
+
+
