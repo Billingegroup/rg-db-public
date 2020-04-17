@@ -1128,6 +1128,25 @@ jcalamari:
     - level: beginner
       category: Specialized Software
       name: SolidWorks
+jumana:
+  active: true
+  aka: []
+  avatar: "https://github.com/\x16jc-umana.png"
+  bio: bio
+  education: []
+  email: jcu2108
+  employment:
+    - begin_year: 2020
+      begin_month: 4
+      end_year: 2024
+      end_month: 5
+      organization: columbiau
+      position: Undergraduate Researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  name: Jaylyn Umana
+  position: Undergraduate Researcher
 kjensen:
   active: false
   aka:
