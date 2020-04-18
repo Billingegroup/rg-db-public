@@ -1423,9 +1423,8 @@ kjensen:
       institution: aarhusu
       end_year: 2008
   employment:
-    - begin_year: 2018
-      begin_month: 9
-      position: Assistant Professor
+    - begin_year: 2020
+      position: Associate Professor
       organization: ucopenhagen
     - end_year: 2015
       begin_year: 2013
@@ -1437,7 +1436,7 @@ kjensen:
       group: bg
       status: postdoc
   name: Kirsten Jensen
-  position: assistant professor
+  position: associate professor
 kknox:
   active: false
   aka:
@@ -1482,6 +1481,27 @@ kknox:
       position: Graduate Researcher
   name: Kevin Knox
   position: Vice President
+kloza:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2011
+      degree: PhD
+      institution: University of Duisburg-Essen
+      end_year: 2016
+  employment:
+    - begin_year: 2011
+      organization: University of Duisburg-Essen
+      position: fix.me
+    - begin_year: 2014
+      begin_month: 4
+      position: Visiting Researcher
+      organization: columbiau
+      advisor: sbillinge
+      group: bg
+  name: Kateryna Loza
 kseth:
   active: true
   aka: []
