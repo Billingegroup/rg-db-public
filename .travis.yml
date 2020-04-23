@@ -34,8 +34,9 @@ script:
   - regolith validate
 
 deploy:
+  provider: script
   on:
-    branch: master
+    branch: debug_ci
   script:
     - git clone https://github.com/billingegroup/website.git;
       cd website;
