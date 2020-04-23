@@ -36,7 +36,8 @@ script:
 deploy:
   provider: script
   on:
-    branch: debug_ci
+#    branch: debug_ci
+    all_branches: true
   script:
     - git clone https://github.com/billingegroup/website.git;
       cd website;
