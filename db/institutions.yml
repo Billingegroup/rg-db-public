@@ -2518,6 +2518,19 @@ openu:
   name: Open University Foundation
   state: NY
   zip: '10020'
+ufederaldoriodejaneiro:
+  aka:
+    - Federal University of Rio de Janeiro
+  city: Rio de Janeiro
+  country: Brazil
+  name: Universidade Federal do Rio de Janeiro
+uwarsaw:
+  aka:
+    - University Warsaw
+  city: Warsaw
+  country: Poland
+  name: Uniwersytet Warszawski
+
 
 
 
