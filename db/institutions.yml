@@ -2503,6 +2503,21 @@ ugottingen:
   city: Göttingen
   country: Germany
   name: University of Gottingen
+udelorraine:
+  aka:
+    - Université de Lorraine
+    - University of Lorraine
+  city: Nancy
+  country: France
+  name: University of Lorraine
+openu:
+  aka:
+    - Open University
+  city: New York City
+  country: USA
+  name: Open University Foundation
+  state: NY
+  zip: '10020'
 
 
 
