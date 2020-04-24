@@ -32,14 +32,9 @@ script:
   - set -e
   - cd local
   - regolith validate
-
-deploy:
-  provider: script
-  on:
-    branch: master
-  script:
-    - git clone https://github.com/billingegroup/website.git;
-      cd website;
-      regolith build html;
-      cd ..;
-      doctr deploy --deploy-repo billingegroup/billingegroup.github.io --deploy-branch-name master --built-docs website/_build/html .;
+  - cd ..
+  - git clone https://github.com/billingegroup/website.git;
+    cd website;
+    regolith build html;
+    cd ..;
+    doctr deploy --deploy-repo billingegroup/billingegroup.github.io --deploy-branch-name master --built-docs website/_build/html .;
