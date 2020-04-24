@@ -2489,3 +2489,10 @@ uminnesota:
   name: University of Minnesota
   state: MN
   zip: '55455'
+uamsterdam:
+  aka:
+    - Universiteit van Amsterdam
+  city: Amsterdam
+  country: Netherlands
+  name: University of Amsterdam
+  
