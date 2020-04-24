@@ -2696,46 +2696,4 @@ zzgong:
   service: []
   skills: []
   title: Dr.
-ebozin:
-  active: false
-  aka:
-    - Emil Bozin
-    - Bozin, E.
-    - Bozin, Emil
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
-  education:
-    - begin_year: 2001
-      degree: PhD
-      institution: Michigan State University
-      end_year: 2003
-    - begin_year: 1999
-      degree: MS in Electrical and Computer Engineering
-      institution: Michigan State University
-      end_year: 2001
-    - begin_year: 1997
-      degree: MS in Physics
-      institution: Michigan State University
-      end_year: 1999
-    - begin_year: 1991
-      degree: BS in Theoretical Physics
-      institution: University of Belgrade
-      end_year: 1995
-  employment:
-    - begin_year: 2011
-      group: bg
-      status: postdoc
-      advisor: sbillinge
-      organization: Brookhaven National Laboratory
-      position: Post Doctoral Associate
-    - begin_year: 2004
-      end_year: 2011
-      begin_month: 9
-      end_month: 2
-      group: bg
-      status: phd
-      advisor: sbillinge
-      organization: Columbia University
-      position: Post Doctoral Associate
-  name: Emil Bozin
-  position: Post Doctoral Associate
+
