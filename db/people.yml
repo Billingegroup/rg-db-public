@@ -2348,6 +2348,25 @@ vgharakhanyan:
       status: ms
   name: Vahe Gharakhanyan
   position: Graduate Student
+vlin:
+  active: true
+  aka: []
+  avatar: https://github.com/vivianlin2000.png
+  bio: bio
+  education: []
+  email: "\x16vl2445@columbia.edu"
+  employment:
+    - begin_year: 2020
+      begin_month: 4
+      end_year: 2020
+      end_month: 8
+      organization: columbiau
+      position: Undergraduate Researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  name: Vivian Lin
+  position: Undergraduate Researcher
 xhyang:
   active: false
   aka:
@@ -2611,6 +2630,25 @@ zguguchia:
       position: Post Doctoral Associate
   name: Zurab Guguchia
   position: Scientist
+zthatcher:
+  active: true
+  aka: []
+  avatar: https://github.com/zthatch.png
+  bio: bio
+  education: []
+  email: "\x16"
+  employment:
+    - begin_year: 2020
+      begin_month: 4
+      end_year: 2024
+      end_month: 9
+      organization: columbiau
+      position: "PhD\e[D\e[D\e[DMS/PhD researcher"
+      group: bg
+      advisor: sbillinge
+      status: phd
+  name: Zach Thatcher
+  position: "PhD\e[D\e[D\e[DMS/PhD researcher"
 zzgong:
   active: false
   aka:
