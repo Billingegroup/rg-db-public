@@ -3616,3 +3616,46 @@ zzgong:
   service: []
   skills: []
   title: Dr.
+jliu:
+  active: false
+  aka:
+    - Jiwu Liu
+    - Liu, J.
+    - Liu, Jiwu
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2006
+      degree: PhD
+      institution: Michigan State University
+      end_year: 2009
+    - begin_year: 1996
+      degree: MS in Physics
+      institution: Institute of Solid State Physics
+      end_year: 1999
+    - begin_year: 1992
+      degree: BS in Physics
+      institution: Xinjiang University
+      end_year: 1996
+  employment:
+    - begin_year: 2013
+      begin_month: 1
+      organization: Microsoft
+      position: Software Development Engineer
+    - begin_year: 2010
+      begin_month: 7
+      end_month: 1
+      end_year: 2013
+      organization: Amazon.com
+      position: Software Development Engineer
+    - begin_year: 2009
+      begin_month: 10
+      end_month: 10
+      end_year: 2010
+      group: bg
+      status: phd
+      advisor: sbillinge
+      organization: Columbia University
+      position: Post Doctoral Associate
+  name: Jiwu Liu
+  position: Software Development Engineer
