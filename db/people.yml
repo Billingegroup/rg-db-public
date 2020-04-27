@@ -2328,7 +2328,7 @@ tdavis:
   name: Timur Davis
   position: Investment lead
 vgharakhanyan:
-  active: true
+  active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
@@ -2341,6 +2341,8 @@ vgharakhanyan:
   employment:
     - begin_year: 2019
       begin_month: 10
+      end_year: 2020
+      end_month: 25
       position: MS/PhD
       organization: columbiau
       advisor: sbillinge
@@ -2395,7 +2397,7 @@ xhyang:
       end_year: 2015
       end_month: 6
       group: bg
-  name: XiaoHao Yang
+  name: Xiaohao Yang
   position: Software Engineer
 xyqiu:
   active: false
