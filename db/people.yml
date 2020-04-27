@@ -2356,7 +2356,7 @@ vlin:
   avatar: https://github.com/vivianlin2000.png
   bio: bio
   education: []
-  email: "vl2445@columbia.edu"
+  email: vl2445@columbia.edu
   employment:
     - begin_year: 2020
       begin_month: 4
@@ -2645,12 +2645,12 @@ zthatcher:
       end_year: 2024
       end_month: 9
       organization: columbiau
-      position: "PhD researcher"
+      position: PhD researcher
       group: bg
       advisor: sbillinge
       status: phd
   name: Zach Thatcher
-  position: "PhD researcher"
+  position: PhD researcher
 zzgong:
   active: false
   aka:
