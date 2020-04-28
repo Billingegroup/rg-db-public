@@ -2355,14 +2355,20 @@ vlin:
   aka: []
   avatar: https://github.com/vivianlin2000.png
   bio: bio
-  education: []
+  education:
+    - begin_year: 2019
+      begin_month: 9
+      degree: BS in Applied Math + CS
+      institution: Columbia University
+      end_year: 2023
+      end_month: 5
   email: "vl2445@columbia.edu"
   employment:
     - begin_year: 2020
       begin_month: 4
       end_year: 2020
       end_month: 8
-      organization: columbiau
+      organization: Columbia University
       position: Undergraduate Researcher
       group: bg
       advisor: sbillinge
