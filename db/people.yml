@@ -3487,3 +3487,38 @@ zzgong:
   service: []
   skills: []
   title: Dr.
+wzhou:
+  active: false
+  aka:
+    - Wenduo Zhou
+    - Zhou, W.
+    - Zhou, Wenduo
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 1999
+      degree: PhD
+      institution: The University of Georgia
+      end_year: 2006
+  employment:
+    - begin_year: 2009
+      begin_month: 6
+      organization: Oak Ridge National Laboratory
+      position: Software Engineer
+    - begin_year: 2008
+      begin_month: 5
+      end_month: 6
+      end_year: 2009
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Columbia University
+      position: Assistant Research Scientist
+    - begin_year: 2006
+      begin_month: 9
+      end_month: 5
+      end_year: 2008
+      organization: Michigan State University
+      position: Assistant Research Scientist
+  name: Wenduo Zhou
+  position: Software Engineer
