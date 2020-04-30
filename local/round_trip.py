@@ -1,6 +1,6 @@
 import sys
 
-import yaml
+import ruamel.yaml as yaml
 import argparse
 from pathlib import Path
 
