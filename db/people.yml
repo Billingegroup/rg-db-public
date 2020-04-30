@@ -2875,3 +2875,52 @@ mkemali:
       position: Post Doctoral Associate
   name: Mohamed Kemali
   position: Uknown
+tproffen:
+  active: false
+  aka:
+    - Thomas Proffen
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 1988
+      degree: PhD in Physics
+      institution: Ludwig-Maximilians Universität München
+      end_year: 1995
+  employment:
+    - begin_year: 2017
+      begin_month: 10
+      organization: Oak Ridge National Laboratory
+      position: Director Science Initiative for High Permance Computing and Data Analytics
+    - begin_year: 2012
+      begin_month: 10
+      end_month: 10
+      end_year: 2017
+      organization: Oak Ridge National Laboratory
+      position: Director Neutron Data Analysis and Visualization Division
+    - begin_year: 2011
+      begin_month: 2
+      end_month: 10
+      end_year: 2012
+      organization: Oak Ridge National Laboratory
+      position: Diffraction Group Leader
+    - begin_year: 2017
+      begin_month: 1
+      organization: Oak Ridge Computer Science Girls
+      position: Founder and CEO
+    - begin_year: 2001
+      begin_month: 1
+      end_month: 2
+      end_year: 2011
+      organization: Los Alamos National Laboratory
+      position: Instrument Scientist
+    - begin_year: 1998
+      begin_month: 5
+      end_month: 1
+      end_year: 2001
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Michigan State University
+      position: Post Doctoral Associate
+  name: Thomas Proffen
+  position: Director
