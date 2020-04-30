@@ -1525,6 +1525,29 @@ mouathshatnawi:
       group: bg
   name: Mouath Shatnawi
   position: Associate Professor
+mschmidt:
+  active: false
+  aka:
+    - Marek Schmidt
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 1998
+      degree: PhD
+      institution: Somewhere
+      end_year: 2002
+  employment:
+    - begin_year: 2002
+      begin_month: 2
+      end_month: 12
+      end_year: 2004
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Michigan State University
+      position: Post Doctoral Associate
+  name: Marek Schmidt
+  position: Permanent position at Rigaku
 mterban:
   active: false
   aka:
@@ -2829,26 +2852,26 @@ zzgong:
   service: []
   skills: []
   title: Dr.
-mschmidt:
+mkemali:
   active: false
   aka:
-    - Marek Schmidt
+    - Mohamed Kemali
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
-    - begin_year: 1998
+    - begin_year: 1997
       degree: PhD
       institution: Somewhere
-      end_year: 2002
+      end_year: 2000
   employment:
-    - begin_year: 2002
-      begin_month: 2
-      end_month: 12
-      end_year: 2004
+    - begin_year: 2000
+      begin_month: 10
+      end_month: 3
+      end_year: 2002
       group: bg
       status: postdoc
       advisor: sbillinge
       organization: Michigan State University
       position: Post Doctoral Associate
-  name: Marek Schmidt
-  position: Permanent position at Rigaku
+  name: Mohamed Kemali
+  position: Uknown
