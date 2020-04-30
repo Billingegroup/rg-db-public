@@ -3518,6 +3518,9 @@ wzhou:
       begin_month: 9
       end_month: 5
       end_year: 2008
+      group: bg
+      status: postdoc
+      advisor: sbillinge
       organization: Michigan State University
       position: Assistant Research Scientist
   name: Wenduo Zhou
@@ -3566,5 +3569,12 @@ asartbaeva:
       end_year: 2011
       organization: University of Oxford
       position: Glasstone Fellow
+    - begin_year: 2005
+      end_year: 2007
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Arizona State University
+      position: Post Doctoral Associate
   name: Asel Sartbaeva
   position: Lecturer in Chemistry
