@@ -880,6 +880,69 @@ ekjaer:
       status: visitor-unsupported
   name: Emil Kjaer
   position: Visiting Researcher
+gpaglia:
+  active: false
+  aka:
+    - Gianluca Paglia
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2000
+      degree: PhD in Materials Science
+      institution: Curtin University
+      end_year: 2004
+    - begin_year: 1996
+      degree: BSc in Materials Science
+      institution: Curtin University of Technology
+      end_year: 1999
+  employment:
+    - begin_year: 2019
+      begin_month: 3
+      organization: Worley
+      position: Senior Project Manager - Analytics
+    - begin_year: 2014
+      begin_month: 9
+      end_month: 3
+      end_year: 2019
+      organization: Chevron
+      position: Program Manager - PCN Operations
+    - begin_year: 2008
+      begin_month: 4
+      end_month: 8
+      end_year: 2014
+      organization: Worley
+      position: Managing Consultant - Decision Support
+    - begin_year: 2008
+      begin_month: 4
+      end_month: 8
+      end_year: 2010
+      organization: Worley
+      position: Principal - Dynamic Simulation Services / Decision Support
+    - begin_year: 2010
+      begin_month: 8
+      end_month: 9
+      end_year: 2011
+      organization: Argonaut
+      position: Analyst
+    - begin_year: 2006
+      end_year: 2007
+      organization: Enerflex Systems
+      position: Project / Design / Process Engineer
+    - begin_year: 2004
+      begin_month: 4
+      end_month: 6
+      end_year: 2006
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Michigan State University
+      position: Post Doctoral Associate
+    - begin_year: 2000
+      end_year: 2003
+      organization: Curtin Consultancy Services
+      position: Analytical Consultant
+  name: Gianluca Paglia
+  position: Senior Project Manager - Analytics
 hhu:
   active: false
   aka:
@@ -1049,6 +1112,79 @@ hyavas:
       group: bg
   name: Hasan Yavas
   position: Staff Scientist
+jbloch:
+  active: false
+  aka:
+    - Jacques Bloch
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 1992
+      degree: PhD in Physics
+      institution: Durham University
+      end_year: 1995
+    - begin_year: 1982
+      degree: Licentiate in Informatics
+      institution: Ghent University
+      end_year: 1982
+    - begin_year: 1978
+      degree: Licentiate in Physics
+      institution: Ghent University
+      end_year: 1982
+  employment:
+    - begin_year: 2005
+      begin_month: 9
+      organization: University of Regensnurg
+      position: Research Fellow
+    - begin_year: 2010
+      begin_month: 4
+      end_month: 7
+      end_year: 2010
+      organization: University of Regensburg
+      position: Interim Full Professor
+    - begin_year: 2005
+      end_year: 2005
+      organization: Max Planck Institute for Molecular Genetics
+      position: Research Fellow
+    - begin_year: 2004
+      end_year: 2005
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Michigan State University
+      position: Research Fellow
+    - begin_year: 2003
+      begin_month: 1
+      end_month: 10
+      end_year: 2004
+      organization: Weierstrass Institute
+      position: Research Fellow
+    - begin_year: 2001
+      begin_month: 1
+      end_month: 12
+      end_year: 2002
+      organization: University of Tübingen
+      position: Research Fellow
+    - begin_year: 2000
+      begin_month: 1
+      end_month: 12
+      end_year: 2000
+      organization: University of Edinburgh
+      position: Research Fellow
+    - begin_year: 1998
+      begin_month: 9
+      end_month: 12
+      end_year: 1999
+      organization: Argonne National Laboratory
+      position: Research Fellow
+    - begin_year: 1996
+      begin_month: 9
+      end_month: 8
+      end_year: 1998
+      organization: University of Groningen
+      position: Research Fellow
+  name: Jacques Bloch
+  position: Research Fellow
 jcalamari:
   active: false
   aka:
@@ -1389,6 +1525,29 @@ mouathshatnawi:
       group: bg
   name: Mouath Shatnawi
   position: Associate Professor
+mschmidt:
+  active: false
+  aka:
+    - Marek Schmidt
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 1998
+      degree: PhD
+      institution: Somewhere
+      end_year: 2002
+  employment:
+    - begin_year: 2002
+      begin_month: 2
+      end_month: 12
+      end_year: 2004
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Michigan State University
+      position: Post Doctoral Associate
+  name: Marek Schmidt
+  position: Permanent position at Rigaku
 mterban:
   active: false
   aka:
@@ -2356,7 +2515,7 @@ vlin:
   avatar: https://github.com/vivianlin2000.png
   bio: bio
   education: []
-  email: "vl2445@columbia.edu"
+  email: vl2445@columbia.edu
   employment:
     - begin_year: 2020
       begin_month: 4
@@ -2645,12 +2804,12 @@ zthatcher:
       end_year: 2024
       end_month: 9
       organization: columbiau
-      position: "PhD researcher"
+      position: PhD researcher
       group: bg
       advisor: sbillinge
       status: phd
   name: Zach Thatcher
-  position: "PhD researcher"
+  position: PhD researcher
 zzgong:
   active: false
   aka:
@@ -2693,3 +2852,26 @@ zzgong:
   service: []
   skills: []
   title: Dr.
+mkemali:
+  active: false
+  aka:
+    - Mohamed Kemali
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 1997
+      degree: PhD
+      institution: Somewhere
+      end_year: 2000
+  employment:
+    - begin_year: 2000
+      begin_month: 10
+      end_month: 3
+      end_year: 2002
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Michigan State University
+      position: Post Doctoral Associate
+  name: Mohamed Kemali
+  position: Uknown
