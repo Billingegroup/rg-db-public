@@ -2892,12 +2892,33 @@ zguguchia:
   position: Scientist
 zthatcher:
   active: true
-  aka: []
+  aka: 
+    - Zach Thatcher
+    - Thatcher, Zachary A.
+    - Thatcher, Z. A. 
+    - Zachary A. Thatcher
   avatar: https://github.com/zthatch.png
   bio: bio
-  education: []
+  education:
+    - begin_year: 2013
+      begin_month: 9
+      degree: B.S. in Material Science and Engineering
+      institution: University of Connecticut
+      end_year: 2017
+      end_month: 3
+    - begin_year: 2020
+      begin_month: 8
+      degree: PhD in Material Science
+      institution: Columbia University
+      group: bg
   email: zachary.alan.thatcher@gmail.com
   employment:
+    - being_year: 2017
+      begin_month: 7
+      end_year: 2020
+      end_month: 4
+      Position: Engineering Consultant
+      Organization: MPR Associates, Inc.
     - begin_year: 2020
       begin_month: 4
       end_year: 2024
@@ -2908,7 +2929,7 @@ zthatcher:
       advisor: sbillinge
       status: phd
   name: Zach Thatcher
-  position: PhD researcher
+  position: PhD Researcher
 zzgong:
   active: false
   aka:
