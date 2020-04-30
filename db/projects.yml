@@ -43,3 +43,102 @@ conda-forge:
       name: Justin Calamari
       begin_year: 2018
   website: http://conda-forge.org
+xpdAcq:
+  description: Software for the XPD and PDF beamlines at the NSLS-II synchrotron
+  logo: ""
+  name: xpdAcq
+  other:
+    - A user-facing software layer over bluesky for data acquisition at NSLS-II
+    - packages include xpdAcq, xpdAn, xpdSim, xpdtools
+  repo: https://github.com/xpdAcq
+  team:
+    - position: Lead Developer
+      name: Songsheng Tao
+      begin_year: 2020
+    - position: Developer
+      name: Hung Vuong
+      begin_year: 2020
+    - position: Former Lead Developer
+      name: Christopher "CJ" Wright
+      begin_year: 2017
+    - position: Former Lead Developer
+      name: chliu
+      begin_year: 2016
+    - position: PI
+      name: sbillinge
+      begin_year: 2016
+    - position: NSLS-II DAMA group
+      name: tcaswell
+      begin_year: 2016
+    - position: NSLS-II DAMA group
+      name: dallen
+      begin_year: 2017
+    - position: NSLS-II DAMA group
+      name: scampbell
+      begin_year: 2016
+    - position: Beamline Staff
+      name: edooryhee
+      begin_year: 2016
+    - position: Beamline Staff
+      name: sghose
+      begin_year: 2016
+    - position: Beamline Staff
+      name: aabeykoon
+      begin_year: 2018
+    - position: Beamline Staff and Developer
+      name: dolds
+      begin_year: 2019
+  website: http://xpdacq.github.io
+pytentiostat:
+  description: Python controller and GUI for the arduino based JUAMI potentiostat
+  logo: https://github.com/juami.png
+  name: Pytentiostat
+  other: []
+  repo: https://github.com/juami/pytentiostat
+  team:
+    - position: Lead Developer
+      name: aplymill
+      begin_year: 2019
+    - position: Developer
+      name: mspencer
+      begin_year: 2019
+    - position: Developer
+      name: Yao Tong
+      begin_year: 2019
+    - position: Developer
+      name: jhitt
+      begin_year: 2019
+    - position: PI
+      name: sbillinge
+      begin_year: 2019
+    - position: Developer
+      name: wzyuan
+      begin_year: 2019
+  website: http://juami.github.io/pytentiostat
+JUAMI:
+  description: Collaboration to build research ties between PhD materials
+    science researchers in East Africa, the US, and beyond.
+  logo: https://www.juami.org/wp-content/uploads/2020/03/Juami-Words-240.png
+  name: "JUAMI: Joint Undertaking for an African Materials Institute"
+  other: []
+  repo: https://github.com/juami/pytentiostat
+  team:
+    - position: Lead Developer
+      name: aplymill
+      begin_year: 2019
+    - position: Developer
+      name: mspencer
+      begin_year: 2019
+    - position: Developer
+      name: Yao Tong
+      begin_year: 2019
+    - position: Developer
+      name: jhitt
+      begin_year: 2019
+    - position: PI
+      name: sbillinge
+      begin_year: 2019
+    - position: Developer
+      name: wzyuan
+      begin_year: 2019
+  website: http://juami.org
