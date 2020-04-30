@@ -1112,6 +1112,79 @@ hyavas:
       group: bg
   name: Hasan Yavas
   position: Staff Scientist
+jbloch:
+  active: false
+  aka:
+    - Jacques Bloch
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 1992
+      degree: PhD in Physics
+      institution: Durham University
+      end_year: 1995
+    - begin_year: 1982
+      degree: Licentiate in Informatics
+      institution: Ghent University
+      end_year: 1982
+    - begin_year: 1978
+      degree: Licentiate in Physics
+      institution: Ghent University
+      end_year: 1982
+  employment:
+    - begin_year: 2005
+      begin_month: 9
+      organization: University of Regensnurg
+      position: Research Fellow
+    - begin_year: 2010
+      begin_month: 4
+      end_month: 7
+      end_year: 2010
+      organization: University of Regensburg
+      position: Interim Full Professor
+    - begin_year: 2005
+      end_year: 2005
+      organization: Max Planck Institute for Molecular Genetics
+      position: Research Fellow
+    - begin_year: 2004
+      end_year: 2005
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Michigan State University
+      position: Research Fellow
+    - begin_year: 2003
+      begin_month: 1
+      end_month: 10
+      end_year: 2004
+      organization: Weierstrass Institute
+      position: Research Fellow
+    - begin_year: 2001
+      begin_month: 1
+      end_month: 12
+      end_year: 2002
+      organization: University of Tübingen
+      position: Research Fellow
+    - begin_year: 2000
+      begin_month: 1
+      end_month: 12
+      end_year: 2000
+      organization: University of Edinburgh
+      position: Research Fellow
+    - begin_year: 1998
+      begin_month: 9
+      end_month: 12
+      end_year: 1999
+      organization: Argonne National Laboratory
+      position: Research Fellow
+    - begin_year: 1996
+      begin_month: 9
+      end_month: 8
+      end_year: 1998
+      organization: University of Groningen
+      position: Research Fellow
+  name: Jacques Bloch
+  position: Research Fellow
 jcalamari:
   active: false
   aka:
@@ -2756,76 +2829,22 @@ zzgong:
   service: []
   skills: []
   title: Dr.
-jbloch:
+mschmidt:
   active: false
   aka:
-    - Jacques Bloch
+    - Marek Schmidt
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
-    - begin_year: 1992
-      degree: PhD in Physics
-      institution: Durham University
-      end_year: 1995
-    - begin_year: 1982
-      degree: Licentiate in Informatics
-      institution: Ghent University
-      end_year: 1982
-    - begin_year: 1978
-      degree: Licentiate in Physics
-      institution: Ghent University
-      end_year: 1982
   employment:
-    - begin_year: 2005
-      begin_month: 9
-      organization: University of Regensnurg
-      position: Research Fellow
-    - begin_year: 2010
-      begin_month: 4
-      end_month: 7
-      end_year: 2010
-      organization: University of Regensburg
-      position: Interim Full Professor
-    - begin_year: 2005
-      end_year: 2005
-      organization: Max Planck Institute for Molecular Genetics
-      position: Research Fellow
-    - begin_year: 2004
-      end_year: 2005
+    - begin_year: 2002
+      begin_month: 2
+      end_month: 12
+      end_year: 2004
       group: bg
       status: postdoc
       advisor: sbillinge
       organization: Michigan State University
-      position: Research Fellow
-    - begin_year: 2003
-      begin_month: 1
-      end_month: 10
-      end_year: 2004
-      organization: Weierstrass Institute
-      position: Research Fellow
-    - begin_year: 2001
-      begin_month: 1
-      end_month: 12
-      end_year: 2002
-      organization: University of Tübingen
-      position: Research Fellow
-    - begin_year: 2000
-      begin_month: 1
-      end_month: 12
-      end_year: 2000
-      organization: University of Edinburgh
-      position: Research Fellow
-    - begin_year: 1998
-      begin_month: 9
-      end_month: 12
-      end_year: 1999
-      organization: Argonne National Laboratory
-      position: Research Fellow
-    - begin_year: 1996
-      begin_month: 9
-      end_month: 8
-      end_year: 1998
-      organization: University of Groningen
-      position: Research Fellow
-  name: Jacques Bloch
-  position: Research Fellow
+      position: Post Doctoral Associate
+  name: Marek Schmidt
+  position: Permanent position at Rigaku
