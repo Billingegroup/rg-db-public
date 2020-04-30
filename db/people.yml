@@ -188,6 +188,59 @@ amasadeh:
       group: bg
   name: Ahmad Masadeh
   position: Assistant Professor
+asartbaeva:
+  active: false
+  aka:
+    - Asel Sartbaeva
+    - Sartbaeva, A.
+    - Sartbaeva, Asel
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2002
+      degree: PhD in Mineral Physics
+      institution: University of Cambridge
+      end_year: 2004
+    - begin_year: 2001
+      degree: MPhil in Mineral Physics
+      institution: University of Cambridge
+      end_year: 2002
+    - begin_year: 1994
+      degree: MSc in Natural Science
+      institution: Kyrgyzskij Rossijskij Slavjanskij Universitet
+      end_year: 1999
+  employment:
+    - begin_year: 2016
+      begin_month: 9
+      organization: University of Bath
+      position: Lecturer in Chemistry
+    - begin_year: 2012
+      begin_month: 12
+      end_month: 3
+      end_year: 2019
+      organization: University of Bath
+      position: Royal Society University Research Fellow
+    - begin_year: 2011
+      begin_month: 1
+      end_month: 11
+      end_year: 2012
+      organization: University of Oxford
+      position: Royal Society University Research Fellow
+    - begin_year: 2007
+      begin_month: 8
+      end_month: 12
+      end_year: 2011
+      organization: University of Oxford
+      position: Glasstone Fellow
+    - begin_year: 2005
+      end_year: 2007
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Arizona State University
+      position: Post Doctoral Associate
+  name: Asel Sartbaeva
+  position: Lecturer in Chemistry
 ashaaban:
   active: true
   aka: []
@@ -3123,6 +3176,44 @@ vlin:
       status: undergrad
   name: Vivian Lin
   position: Undergraduate Researcher
+wzhou:
+  active: false
+  aka:
+    - Wenduo Zhou
+    - Zhou, W.
+    - Zhou, Wenduo
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 1999
+      degree: PhD
+      institution: The University of Georgia
+      end_year: 2006
+  employment:
+    - begin_year: 2009
+      begin_month: 6
+      organization: Oak Ridge National Laboratory
+      position: Software Engineer
+    - begin_year: 2008
+      begin_month: 5
+      end_month: 6
+      end_year: 2009
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Columbia University
+      position: Assistant Research Scientist
+    - begin_year: 2006
+      begin_month: 9
+      end_month: 5
+      end_year: 2008
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Michigan State University
+      position: Assistant Research Scientist
+  name: Wenduo Zhou
+  position: Software Engineer
 vnield:
   active: false
   aka:
@@ -3487,94 +3578,3 @@ zzgong:
   service: []
   skills: []
   title: Dr.
-wzhou:
-  active: false
-  aka:
-    - Wenduo Zhou
-    - Zhou, W.
-    - Zhou, Wenduo
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
-  education:
-    - begin_year: 1999
-      degree: PhD
-      institution: The University of Georgia
-      end_year: 2006
-  employment:
-    - begin_year: 2009
-      begin_month: 6
-      organization: Oak Ridge National Laboratory
-      position: Software Engineer
-    - begin_year: 2008
-      begin_month: 5
-      end_month: 6
-      end_year: 2009
-      group: bg
-      status: postdoc
-      advisor: sbillinge
-      organization: Columbia University
-      position: Assistant Research Scientist
-    - begin_year: 2006
-      begin_month: 9
-      end_month: 5
-      end_year: 2008
-      group: bg
-      status: postdoc
-      advisor: sbillinge
-      organization: Michigan State University
-      position: Assistant Research Scientist
-  name: Wenduo Zhou
-  position: Software Engineer
-asartbaeva:
-  active: false
-  aka:
-    - Asel Sartbaeva
-    - Sartbaeva, A.
-    - Sartbaeva, Asel
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
-  education:
-    - begin_year: 2002
-      degree: PhD in Mineral Physics
-      institution: University of Cambridge
-      end_year: 2004
-    - begin_year: 2001
-      degree: MPhil in Mineral Physics
-      institution: University of Cambridge
-      end_year: 2002
-    - begin_year: 1994
-      degree: MSc in Natural Science
-      institution: Kyrgyzskij Rossijskij Slavjanskij Universitet
-      end_year: 1999
-  employment:
-    - begin_year: 2016
-      begin_month: 9
-      organization: University of Bath
-      position: Lecturer in Chemistry
-    - begin_year: 2012
-      begin_month: 12
-      end_month: 3
-      end_year: 2019
-      organization: University of Bath
-      position: Royal Society University Research Fellow
-    - begin_year: 2011
-      begin_month: 1
-      end_month: 11
-      end_year: 2012
-      organization: University of Oxford
-      position: Royal Society University Research Fellow
-    - begin_year: 2007
-      begin_month: 8
-      end_month: 12
-      end_year: 2011
-      organization: University of Oxford
-      position: Glasstone Fellow
-    - begin_year: 2005
-      end_year: 2007
-      group: bg
-      status: postdoc
-      advisor: sbillinge
-      organization: Arizona State University
-      position: Post Doctoral Associate
-  name: Asel Sartbaeva
-  position: Lecturer in Chemistry
