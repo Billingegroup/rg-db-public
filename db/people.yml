@@ -2836,6 +2836,10 @@ mschmidt:
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
+    - begin_year: 1998
+      degree: PhD
+      institution: Somewhere
+      end_year: 2002
   employment:
     - begin_year: 2002
       begin_month: 2
