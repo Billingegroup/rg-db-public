@@ -880,6 +880,33 @@ ekjaer:
       status: visitor-unsupported
   name: Emil Kjaer
   position: Visiting Researcher
+fmohiuddin-jacobs:
+  active: false
+  aka:
+    - Farida Mohiuddin-Jacobs
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 1992
+      degree: PhD
+      institution: Somewhere
+      end_year: 1995
+  employment:
+    - begin_year: 2006
+      begin_month: 1
+      organization: Organizational Science Consulting & Research
+      position: Lecturer
+    - begin_year: 1995
+      begin_month: 9
+      end_month: 8
+      end_year: 1997
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Michigan State University
+      position: Post Doctoral Associate
+  name: Farida Mohiuddin-Jacobs
+  position: Lecturer
 gpaglia:
   active: false
   aka:
@@ -2524,7 +2551,7 @@ tproffen:
     - begin_year: 2017
       begin_month: 10
       organization: Oak Ridge National Laboratory
-      position: Director Science Initiative for High Permance Computing and Data Analytics
+      position: Director Science Initiative for High Performance Computing and Data Analytics
     - begin_year: 2012
       begin_month: 10
       end_month: 10
@@ -2924,30 +2951,3 @@ zzgong:
   service: []
   skills: []
   title: Dr.
-fmohiuddin-jacobs:
-  active: false
-  aka:
-    - Farida Mohiuddin-Jacobs
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
-  education:
-    - begin_year: 1992
-      degree: PhD
-      institution: Somewhere
-      end_year: 1995
-  employment:
-    - begin_year: 2006
-      begin_month: 1
-      organization: Organizational Science Consulting & Research
-      position: Lecturer
-    - begin_year: 1995
-      begin_month: 9
-      end_month: 8
-      end_year: 1997
-      group: bg
-      status: postdoc
-      advisor: sbillinge
-      organization: Michigan State University
-      position: Post Doctoral Associate
-  name: Farida Mohiuddin-Jacobs
-  position: Lecturer
