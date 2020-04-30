@@ -2693,3 +2693,66 @@ zzgong:
   service: []
   skills: []
   title: Dr.
+gpaglia:
+  active: false
+  aka:
+    - Gianluca Paglia
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2000
+      degree: PhD in Materials Science
+      institution: Curtin University
+      end_year: 2004
+    - begin_year: 1996
+      degree: BSc in Materials Science
+      institution: Curtin University of Technology
+      end_year: 1999
+  employment:
+    - begin_year: 2019
+      begin_month: 3
+      organization: Worley
+      position: Senior Project Manager - Analytics
+    - begin_year: 2014
+      begin_month: 9
+      end_month: 3
+      end_year: 2019
+      organization: Chevron
+      position: Program Manager - PCN Operations
+    - begin_year: 2008
+      begin_month: 4
+      end_month: 8
+      end_year: 2014
+      organization: Worley
+      position: Managing Consultant - Decision Support
+    - begin_year: 2008
+      begin_month: 4
+      end_month: 8
+      end_year: 2010
+      organization: Worley
+      position: Principal - Dynamic Simulation Services / Decision Support
+    - begin_year: 2010
+      begin_month: 8
+      end_month: 9
+      end_year: 2011
+      organization: Argonaut
+      position: Analyst
+    - begin_year: 2006
+      end_year: 2007
+      organization: Enerflex Systems
+      position: Project / Design / Process Engineer
+    - begin_year: 2004
+      begin_month: 4
+      end_month: 6
+      end_year: 2006
+      group: bg
+      status: postdoc
+      advisor: sbillinge
+      organization: Michigan State University
+      position: Post Doctoral Associate
+    - begin_year: 2000
+      end_year: 2003
+      organization: Curtin Consultancy Services
+      position: Analytical Consultant
+  name: Gianluca Paglia
+  position: Senior Project Manager - Analytics
