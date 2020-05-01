@@ -2898,7 +2898,12 @@ zthatcher:
     - Thatcher, Z. A. 
     - Zachary A. Thatcher
   avatar: https://github.com/zthatch.png
-  bio: bio
+  bio: Zach grew up in Connecticut and has spent the last few years working as an engineering
+    consultant in Arlington, VA. At the University of Connecticut he worked on characterization 
+    of ferroelectric thin films as a member of HueyAFM Labs. As an consulting engineer, he acted 
+    primarily as a a firmware developer for the medical device industry, as well as a material 
+    scientist for the power industry. In his free time you may catch him on a run or desperately 
+    trying to land a good kickflip. 
   education:
     - begin_year: 2013
       begin_month: 9
@@ -2913,12 +2918,6 @@ zthatcher:
       group: bg
   email: zachary.alan.thatcher@gmail.com
   employment:
-    - being_year: 2017
-      begin_month: 7
-      end_year: 2020
-      end_month: 4
-      Position: Engineering Consultant
-      Organization: MPR Associates, Inc.
     - begin_year: 2020
       begin_month: 4
       end_year: 2024
@@ -2928,6 +2927,12 @@ zthatcher:
       group: bg
       advisor: sbillinge
       status: phd
+    - begin_year: 2017
+      begin_month: 7
+      end_year: 2020
+      end_month: 4
+      Position: Engineering Consultant
+      Organization: MPR Associates, Inc.
   name: Zach Thatcher
   position: PhD Researcher
 zzgong:
