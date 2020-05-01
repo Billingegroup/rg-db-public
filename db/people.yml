@@ -67,16 +67,17 @@ aday:
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
-    - begin_year: 0
-      institution: fix.me
-      degree: fix.me
+    - begin_year: 1980
+      institution: upenn
+      degree: PhD
+      end_year: 1984
   employment:
     - begin_year: 1999
       position: Visiting Researcher
       organization: msu
       advisor: sbillinge
       group: bg
-  name: A. R. Day
+  name: Anthony Roy Day
 adippel:
   active: false
   aka: []
@@ -100,8 +101,8 @@ aeberhadt:
   bio: bio
   education:
     - begin_year: 0
-      institution: fix.me
-      degree: fix.me
+      institution: unknown
+      degree: PhD
   employment:
     - begin_year: 1997
       position: Visiting Researcher
@@ -122,7 +123,7 @@ akovyakh:
   employment:
     - begin_year: 2019
       organization: Danish Technological Institute
-      position: fix.me
+      position: unknown
     - begin_year: 2016
       begin_month: 7
       position: Visiting PhD Researcher - U. Copenhagen
@@ -733,7 +734,8 @@ cyshi:
   position: Scientist
 dpodgorski:
   active: false
-  aka: []
+  aka:
+    - Dragica Prill
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
@@ -748,6 +750,8 @@ dpodgorski:
       organization: columbiau
       advisor: sbillinge
       group: bg
+      end_year: 2013
+      end_month: 1
     - begin_year: 2012
       begin_month: 3
       position: Visiting Researcher
@@ -1025,8 +1029,8 @@ fatassi:
   bio: bio
   education:
     - begin_year: 0
-      institution: fix.me
-      degree: fix.me
+      institution: purdueu
+      degree: PhD
   employment:
     - begin_year: 2005
       begin_month: 6
@@ -1034,7 +1038,7 @@ fatassi:
       organization: msu
       advisor: sbillinge
       group: bg
-  name: F. Atassi
+  name: Farad Atassi
 fmohiuddin-jacobs:
   active: false
   aka:
@@ -1340,15 +1344,15 @@ hyavas:
       group: bg
   name: Hasan Yavas
   position: Staff Scientist
-ijeong:
+ikjeong:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
     - begin_year: 0
-      institution: fix.me
-      degree: fix.me
+      institution: columbiau
+      degree: PhD
   employment:
     - begin_year: 2010
       begin_month: 6
@@ -1516,8 +1520,8 @@ jchung:
   bio: bio
   education:
     - begin_year: 0
-      institution: fix.me
-      degree: fix.me
+      institution: msu
+      degree: PhD
   employment:
     - begin_year: 2002
       position: Visiting Researcher
@@ -1790,8 +1794,8 @@ mkane:
   bio: bio
   education:
     - begin_year: 0
-      institution: fix.me
-      degree: fix.me
+      institution: unknown
+      degree: PhD
   employment:
     - begin_year: 1995
       position: Visiting Researcher
@@ -2115,8 +2119,8 @@ ostachs:
   bio: bio
   education:
     - begin_year: 0
-      institution: fix.me
-      degree: fix.me
+      institution: unknown
+      degree: PhD
   employment:
     - begin_year: 1999
       position: Visiting Researcher
@@ -2344,8 +2348,8 @@ rjacubinas:
   bio: bio
   education:
     - begin_year: 0
-      institution: fix.me
-      degree: fix.me
+      institution: unknown
+      degree: PhD
   employment:
     - begin_year: 1996
       position: Visiting Researcher
@@ -2763,8 +2767,8 @@ shan:
   bio: bio
   education:
     - begin_year: 0
-      institution: fix.me
-      degree: fix.me
+      institution: unknown
+      degree: PhD
   employment:
     - begin_year: 2004
       begin_month: 1
@@ -2845,8 +2849,8 @@ spattanaik:
   bio: bio
   education:
     - begin_year: 0
-      institution: fix.me
-      degree: fix.me
+      institution: unknown
+      degree: PhD
   employment:
     - begin_year: 1997
       position: Visiting Researcher
@@ -3088,8 +3092,8 @@ vnield:
   bio: bio
   education:
     - begin_year: 0
-      institution: fix.me
-      degree: fix.me
+      institution: unknown
+      degree: PhD
   employment:
     - begin_year: 1997
       position: Visiting Researcher
