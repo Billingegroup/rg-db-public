@@ -61,6 +61,102 @@ achoudhry:
       status: undergrad
   name: Akshay Choudhry
   position: Undergraduate Researcher
+aday:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 1980
+      institution: upenn
+      degree: PhD
+      end_year: 1984
+  employment:
+    - begin_year: 1999
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+  name: Anthony Roy Day
+adippel:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2002
+      institution: RWTH Aachen
+      degree: Master degree
+  employment:
+    - begin_year: 2014
+      position: Visiting Researcher
+      organization: columbiau
+      advisor: sbillinge
+      group: bg
+  name: Ann-Christin Dippel
+aeberhadt:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 0
+      institution: unknown
+      degree: PhD
+  employment:
+    - begin_year: 1997
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+  name: Ariane Eberhadt
+akovyakh:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2015
+      degree: PhD in Physics
+      institution: ucopenhagen
+      end_year: 2018
+  employment:
+    - begin_year: 2019
+      organization: Danish Technological Institute
+      position: unknown
+    - begin_year: 2016
+      begin_month: 7
+      position: Visiting PhD Researcher - U. Copenhagen
+      organization: columbiau
+      end_year: 2017
+      advisor: sbillinge
+      end_month: 4
+      group: bg
+  name: Anton Kovyakh
+alappas:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 1989
+      degree: PhD
+      institution: usussex
+      end_year: 1993
+  employment:
+    - begin_year: 2012
+      organization: forth
+      position: University Professor
+    - begin_year: 2014
+      begin_month: 6
+      position: Visiting Researcher
+      organization: columbiau
+      end_year: 2014
+      advisor: sbillinge
+      end_month: 7
+      group: bg
+  name: Alexandros Lapas
+  position: professor
 amasadeh:
   active: false
   aka: []
@@ -636,6 +732,52 @@ cyshi:
       group: bg
   name: Chenyang Shi
   position: Scientist
+dpodgorski:
+  active: false
+  aka:
+    - Dragica Prill
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2014
+      institution: ufrankfurt
+      degree: PhD
+      end_year: 2017
+  employment:
+    - begin_year: 2012
+      begin_month: 11
+      position: Visiting Researcher
+      organization: columbiau
+      advisor: sbillinge
+      group: bg
+      end_year: 2013
+      end_month: 1
+    - begin_year: 2012
+      begin_month: 3
+      position: Visiting Researcher
+      organization: columbiau
+      advisor: sbillinge
+      group: bg
+      end_year: 2012
+      end_month: 6
+  name: Dragica Podgorski
+dtordari:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 0
+      institution: uvalencia
+      degree: PhD
+  employment:
+    - begin_year: 2009
+      begin_month: 7
+      position: Visiting Researcher
+      organization: columbiau
+      advisor: sbillinge
+      group: bg
+  name: Daniel Tordera
 dyano:
   active: true
   aka:
@@ -880,6 +1022,23 @@ ekjaer:
       status: visitor-unsupported
   name: Emil Kjaer
   position: Visiting Researcher
+fatassi:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 0
+      institution: purdueu
+      degree: PhD
+  employment:
+    - begin_year: 2005
+      begin_month: 6
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+  name: Farad Atassi
 fmohiuddin-jacobs:
   active: false
   aka:
@@ -970,6 +1129,52 @@ gpaglia:
       position: Analytical Consultant
   name: Gianluca Paglia
   position: Senior Project Manager - Analytics
+fbertolotti:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2010
+      degree: PhD
+      institution: uturin
+      end_year: 2012
+  employment:
+    - begin_year: 2018
+      begin_month: 11
+      organization: uinsubria
+      position: assistant professor
+    - begin_year: 2016
+      begin_month: 2
+      position: Visiting PhD Researcher
+      organization: columbiau
+      end_year: 2016
+      advisor: sbillinge
+      end_month: 3
+      group: bg
+  name: Federica Bertolotti
+  position: assistant professor
+gcampi:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2005
+      degree: PostDoctoral researcher
+      institution: Institute of Crystallography of the Council of National Research
+      end_year: 2007
+  employment:
+    - begin_year: 2008
+      organization: Institute of Crystallography of the Council of National Research
+      position: researcher
+    - begin_year: 2002
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+      end_year: 2003
+  name: Gaetano Campi
 hhu:
   active: false
   aka:
@@ -1139,6 +1344,23 @@ hyavas:
       group: bg
   name: Hasan Yavas
   position: Staff Scientist
+ikjeong:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 0
+      institution: columbiau
+      degree: PhD
+  employment:
+    - begin_year: 2010
+      begin_month: 6
+      position: Visiting Researcher
+      organization: columbiau
+      advisor: sbillinge
+      group: bg
+  name: Il-Kyong Jeong
 jbloch:
   active: false
   aka:
@@ -1291,6 +1513,27 @@ jcalamari:
     - level: beginner
       category: Specialized Software
       name: SolidWorks
+jchung:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 0
+      institution: msu
+      degree: PhD
+  employment:
+    - begin_year: 2002
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+    - begin_year: 2001
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+  name: Jean Chung
 jumana:
   active: true
   aka: []
@@ -1330,9 +1573,8 @@ kjensen:
       institution: aarhusu
       end_year: 2008
   employment:
-    - begin_year: 2018
-      begin_month: 9
-      position: Assistant Professor
+    - begin_year: 2020
+      position: Associate Professor
       organization: ucopenhagen
     - end_year: 2015
       begin_year: 2013
@@ -1344,7 +1586,7 @@ kjensen:
       group: bg
       status: postdoc
   name: Kirsten Jensen
-  position: assistant professor
+  position: associate professor
 kknox:
   active: false
   aka:
@@ -1389,6 +1631,27 @@ kknox:
       position: Graduate Researcher
   name: Kevin Knox
   position: Vice President
+kloza:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2011
+      degree: PhD
+      institution: University of Duisburg-Essen
+      end_year: 2016
+  employment:
+    - begin_year: 2011
+      organization: University of Duisburg-Essen
+      position: unknown
+    - begin_year: 2014
+      begin_month: 4
+      position: Visiting Researcher
+      organization: columbiau
+      advisor: sbillinge
+      group: bg
+  name: Kateryna Loza
 kseth:
   active: true
   aka: []
@@ -1413,6 +1676,28 @@ kseth:
       status: visitor-unsupported
   name: Kriti Seth
   position: Visiting Researcher
+lmalavasi:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2000
+      degree: PhD
+      institution: upavia
+      end_year: 2003
+  employment:
+    - begin_year: 2015
+      organization: upavia
+      position: associate professor
+    - begin_year: 2005
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+      end_year: 2005
+  name: Lorenzo Malavasi
+  position: associate professor
 lyang:
   active: true
   aka:
@@ -1443,6 +1728,30 @@ lyang:
       group: bg
   name: Long Yang
   position: Graduate Student
+mdapiaggi:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 1991
+      degree: PhD
+      institution: upavia
+      end_year: 1995
+  employment:
+    - begin_year: 2015
+      organization: umilan
+      position: associate professor
+    - begin_year: 2006
+      begin_month: 9
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+      end_month: 10
+      end_year: 2006
+  name: Monica Dapiaggi
+  position: associate professor
 mgarciafernandez:
   active: false
   aka:
@@ -1478,6 +1787,22 @@ mgarciafernandez:
       position: Postdoc
   name: Mirian García-Fernández
   position: Beamline Scientist
+mkane:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 0
+      institution: unknown
+      degree: PhD
+  employment:
+    - begin_year: 1995
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+  name: Michael Kane
 mkarlsen:
   active: false
   aka: []
@@ -1573,6 +1898,22 @@ mouathshatnawi:
       end_year: 2007
       end_month: 5
       group: bg
+    - begin_year: 2013
+      begin_month: 7
+      position: Visiting Researcher
+      organization: columbiau
+      advisor: sbillinge
+      group: bg
+      end_year: 2013
+      end_month: 8
+    - begin_year: 2011
+      begin_month: 6
+      position: Visiting Researcher
+      organization: columbiau
+      advisor: sbillinge
+      group: bg
+      end_year: 2011
+      end_month: 12
   name: Mouath Shatnawi
   position: Associate Professor
 mschmidt:
@@ -1749,6 +2090,72 @@ nthomas:
       status: undergrad
   name: Nonie Thomas
   position: Undergraduate Researcher
+oprymak:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2002
+      degree: PhD
+      institution: uduisburgessen
+      end_year: 2005
+  employment:
+    - begin_year: 2015
+      organization: uduisburgessen
+      position: senior assistant lecturer
+    - begin_year: 2014
+      begin_month: 4
+      position: Visiting Researcher
+      organization: columbiau
+      advisor: sbillinge
+      group: bg
+  name: Oleg Prymak
+  position: senior assistant lecturer
+ostachs:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 0
+      institution: unknown
+      degree: PhD
+  employment:
+    - begin_year: 1999
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+  name: O Stachs
+pdas:
+  active: false
+  aka:
+    - Partha Pratim Das
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2007
+      degree: PhD
+      institution: uzurich
+      end_year: 2012
+  employment:
+    - begin_year: 2012
+      organization: nanomegas
+      position: Application Specialist
+    - begin_year: 2015
+      begin_month: 12
+      organization: Electron Crystallography Solutions SL
+      position: director
+    - begin_year: 2014
+      begin_month: 7
+      position: Visiting Researcher
+      organization: columbiau
+      end_year: 2014
+      advisor: sbillinge
+      end_month: 7
+      group: bg
+  name: Partha Das
 pjuhas:
   active: false
   aka:
@@ -1934,6 +2341,22 @@ rgu:
       organization: Columbia University
   name: Ran Gu
   position: Post Doctoral Associate
+rjacubinas:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 0
+      institution: unknown
+      degree: PhD
+  employment:
+    - begin_year: 1996
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+  name: Rick Jacubinas
 rkoch:
   active: true
   aka:
@@ -2316,6 +2739,44 @@ sbillinge:
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
   skills: []
+sdisch:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2007
+      degree: PhD
+      institution: Forschungszentrum Jülich
+      end_year: 2010
+  employment:
+    - begin_year: 2014
+      organization: ucologne
+      position: research group leader
+    - begin_year: 2008
+      begin_month: 9
+      position: Visiting Researcher
+      organization: columbiau
+      advisor: sbillinge
+      group: bg
+  name: Sabrina Disch
+swhan:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 0
+      institution: unknown
+      degree: PhD
+  employment:
+    - begin_year: 2004
+      begin_month: 1
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+  name: Sang-Wook Han
 sharouna-mayer:
   active: true
   aka: []
@@ -2381,6 +2842,22 @@ smayers:
       status: undergrad
   name: Sam Mayers
   position: undergrad
+spattanaik:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 0
+      institution: unknown
+      degree: PhD
+  employment:
+    - begin_year: 1997
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+  name: Sidharta Pattanaik
 sskjaervoe:
   active: false
   aka:
@@ -2608,6 +3085,23 @@ vgharakhanyan:
       status: ms
   name: Vahe Gharakhanyan
   position: Graduate Student
+vnield:
+  active: false
+  aka:
+    - Vicki Nield
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 0
+      institution: unknown
+      degree: PhD
+  employment:
+    - begin_year: 1997
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+  name: Victoria M. Nield
 vlin:
   active: true
   aka: []
@@ -2731,6 +3225,28 @@ xyun:
       organization: Columbia University
   name: Xin Yun
   position: Graduate Student
+yjhu:
+  active: false
+  aka:
+    - Joey Hu
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2006
+      degree: PhD
+      institution: ucberkeley
+      end_year: 2011
+  employment:
+    - begin_year: 2017
+      organization: Toyota Research Institute
+      position: senior software engineer
+    - begin_year: 2012
+      position: Visiting Researcher
+      organization: columbiau
+      advisor: sbillinge
+      group: bg
+  name: Yung-Jin Hu
+  position: engineer
 ylin:
   active: false
   aka: []
