@@ -737,7 +737,7 @@ dpodgorski:
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
-    - begin_year: 0
+    - begin_year: 2014
       institution: ufrankfurt
       degree: PhD
       end_year: 2017
