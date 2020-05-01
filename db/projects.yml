@@ -1,3 +1,30 @@
+JUAMI:
+  description: Collaboration to build research ties between PhD materials science
+    researchers in East Africa, the US, and beyond.
+  logo: https://www.juami.org/wp-content/uploads/2020/03/Juami-Words-240.png
+  name: 'JUAMI: Joint Undertaking for an African Materials Institute'
+  other: []
+  repo: https://github.com/juami/pytentiostat
+  team:
+    - position: Lead Developer
+      name: aplymill
+      begin_year: 2019
+    - position: Developer
+      name: mspencer
+      begin_year: 2019
+    - position: Developer
+      name: Yao Tong
+      begin_year: 2019
+    - position: Developer
+      name: jhitt
+      begin_year: 2019
+    - position: PI
+      name: sbillinge
+      begin_year: 2019
+    - position: Developer
+      name: wzyuan
+      begin_year: 2019
+  website: http://juami.org
 ReGro:
   description: Tools for managing software and research groups
   logo: https://regro.github.io/static/regro-logo.svg
@@ -43,9 +70,35 @@ conda-forge:
       name: Justin Calamari
       begin_year: 2018
   website: http://conda-forge.org
+pytentiostat:
+  description: Python controller and GUI for the arduino based JUAMI potentiostat
+  logo: https://github.com/juami.png
+  name: Pytentiostat
+  other: []
+  repo: https://github.com/juami/pytentiostat
+  team:
+    - position: Lead Developer
+      name: aplymill
+      begin_year: 2019
+    - position: Developer
+      name: mspencer
+      begin_year: 2019
+    - position: Developer
+      name: Yao Tong
+      begin_year: 2019
+    - position: Developer
+      name: jhitt
+      begin_year: 2019
+    - position: PI
+      name: sbillinge
+      begin_year: 2019
+    - position: Developer
+      name: wzyuan
+      begin_year: 2019
+  website: http://juami.github.io/pytentiostat
 xpdAcq:
   description: Software for the XPD and PDF beamlines at the NSLS-II synchrotron
-  logo: ""
+  logo: ''
   name: xpdAcq
   other:
     - A user-facing software layer over bluesky for data acquisition at NSLS-II
@@ -89,56 +142,3 @@ xpdAcq:
       name: dolds
       begin_year: 2019
   website: http://xpdacq.github.io
-pytentiostat:
-  description: Python controller and GUI for the arduino based JUAMI potentiostat
-  logo: https://github.com/juami.png
-  name: Pytentiostat
-  other: []
-  repo: https://github.com/juami/pytentiostat
-  team:
-    - position: Lead Developer
-      name: aplymill
-      begin_year: 2019
-    - position: Developer
-      name: mspencer
-      begin_year: 2019
-    - position: Developer
-      name: Yao Tong
-      begin_year: 2019
-    - position: Developer
-      name: jhitt
-      begin_year: 2019
-    - position: PI
-      name: sbillinge
-      begin_year: 2019
-    - position: Developer
-      name: wzyuan
-      begin_year: 2019
-  website: http://juami.github.io/pytentiostat
-JUAMI:
-  description: Collaboration to build research ties between PhD materials
-    science researchers in East Africa, the US, and beyond.
-  logo: https://www.juami.org/wp-content/uploads/2020/03/Juami-Words-240.png
-  name: "JUAMI: Joint Undertaking for an African Materials Institute"
-  other: []
-  repo: https://github.com/juami/pytentiostat
-  team:
-    - position: Lead Developer
-      name: aplymill
-      begin_year: 2019
-    - position: Developer
-      name: mspencer
-      begin_year: 2019
-    - position: Developer
-      name: Yao Tong
-      begin_year: 2019
-    - position: Developer
-      name: jhitt
-      begin_year: 2019
-    - position: PI
-      name: sbillinge
-      begin_year: 2019
-    - position: Developer
-      name: wzyuan
-      begin_year: 2019
-  website: http://juami.org
