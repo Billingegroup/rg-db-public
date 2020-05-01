@@ -488,6 +488,13 @@ esrf:
   state: Rhone-Alps
   street: 71 Avenue des Martyrs
   zip: '38000'
+ess:
+  aka:
+    - European Spallation Source
+    - ERIC
+  city: Lund
+  country: Sweden
+  name: European Spallation Source
 ethzurich:
   aka:
     - ETH
@@ -759,6 +766,13 @@ instituteofphysicschineseacademyofsciences:
   updated: 2020-02-14 19:36:33.253611
   uuid: 974bd857-25c3-465d-acbe-a841bcdb4eeb
   year: 2020
+iocbari:
+  aka:
+    - CNR
+    - Institute of Crystallography BARI
+  city: Bari
+  country: Italy
+  name: Istituto Di Cristallografia
 jaea:
   aka:
     - jaea
@@ -930,6 +944,12 @@ mit:
   uuid: 8acc5248-f9f0-4b26-8deb-3f7dd54c041e
   year: 2020
   zip: '02139'
+monashu:
+  aka:
+    - Monash University
+  city: Clayton
+  country: Australia
+  name: Monash University
 mpi:
   aka:
     - Max Planck
@@ -1187,6 +1207,14 @@ ohiou:
   name: Ohio University - Main Campus
   state: OH
   zip: 45701-2979
+openu:
+  aka:
+    - Open University
+  city: New York City
+  country: USA
+  name: Open University Foundation
+  state: NY
+  zip: '10020'
 ornl:
   city: Oak Ridge
   country: USA
@@ -1669,6 +1697,12 @@ tohokuu:
   month: 3
   name: Tohoku University
   year: 2020
+uamsterdam:
+  aka:
+    - Universiteit van Amsterdam
+  city: Amsterdam
+  country: Netherlands
+  name: University of Amsterdam
 ubasel:
   aka:
     - baselu
@@ -1843,6 +1877,13 @@ udelaware:
   state: DE
   street: ''
   zip: '19716'
+udelorraine:
+  aka:
+    - Université de Lorraine
+    - University of Lorraine
+  city: Nancy
+  country: France
+  name: University of Lorraine
 uderennes:
   aka:
     - University of Rennes 1
@@ -1875,6 +1916,12 @@ ufederaldoabc:
   name: Universidade Federal do ABC
   state: ''
   zip: ''
+ufederaldoriodejaneiro:
+  aka:
+    - Federal University of Rio de Janeiro
+  city: Rio de Janeiro
+  country: Brazil
+  name: Universidade Federal do Rio de Janeiro
 ufrankfurt:
   aka:
     - University of Frankfurt
@@ -1933,6 +1980,14 @@ uglasgow:
   month: 3
   name: University of Glasgow
   year: 2020
+ugottingen:
+  aka:
+    - Gottingen University
+    - Universität Göttingen
+    - Georg-August-Universität Göttingen
+  city: Göttingen
+  country: Germany
+  name: University of Gottingen
 uhamburg:
   aka:
     - University of Hamburg
@@ -2028,6 +2083,14 @@ umichigan:
   name: University of Michigan
   state: MI
   year: 2020
+uminnesota:
+  aka:
+    - uminnesota
+  city: Minnesota
+  country: USA
+  name: University of Minnesota
+  state: MN
+  zip: '55455'
 umontreal:
   aka:
     - UdeM
@@ -2362,6 +2425,12 @@ uvirginia:
   name: University of Virginia
   state: Virginia
   zip: 22903
+uwarsaw:
+  aka:
+    - University Warsaw
+  city: Warsaw
+  country: Poland
+  name: Uniwersytet Warszawski
 uwarwick:
   city: Coventry
   country: England
@@ -2481,76 +2550,3 @@ zhejiangu:
   updated: 2020-02-14 19:37:28.925621
   uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
   year: 2020
-uminnesota:
-  aka:
-    - uminnesota
-  city: Minnesota
-  country: USA
-  name: University of Minnesota
-  state: MN
-  zip: '55455'
-uamsterdam:
-  aka:
-    - Universiteit van Amsterdam
-  city: Amsterdam
-  country: Netherlands
-  name: University of Amsterdam
-ugottingen:
-  aka:
-    - Gottingen University 
-    - Universität Göttingen
-    - Georg-August-Universität Göttingen
-  city: Göttingen
-  country: Germany
-  name: University of Gottingen
-udelorraine:
-  aka:
-    - Université de Lorraine
-    - University of Lorraine
-  city: Nancy
-  country: France
-  name: University of Lorraine
-openu:
-  aka:
-    - Open University
-  city: New York City
-  country: USA
-  name: Open University Foundation
-  state: NY
-  zip: '10020'
-ufederaldoriodejaneiro:
-  aka:
-    - Federal University of Rio de Janeiro
-  city: Rio de Janeiro
-  country: Brazil
-  name: Universidade Federal do Rio de Janeiro
-uwarsaw:
-  aka:
-    - University Warsaw
-  city: Warsaw
-  country: Poland
-  name: Uniwersytet Warszawski
-monashu:
-  aka:
-    - Monash University
-  city: Clayton
-  country: Australia
-  name: Monash University
-ess:
-  aka:
-    - European Spallation Source 
-    - ERIC
-  city: Lund
-  country: Sweden
-  name: European Spallation Source
-iocbari:
-  aka:
-    - CNR
-    - Institute of Crystallography BARI
-  city: Bari
-  country: Italy
-  name: Istituto Di Cristallografia
-
-
-
-

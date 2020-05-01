@@ -78,6 +78,7 @@ aday:
       advisor: sbillinge
       group: bg
   name: Anthony Roy Day
+  position: Professor
 adippel:
   active: false
   aka: []
@@ -94,6 +95,7 @@ adippel:
       advisor: sbillinge
       group: bg
   name: Ann-Christin Dippel
+  position: Scientist
 aeberhadt:
   active: false
   aka: []
@@ -110,6 +112,7 @@ aeberhadt:
       advisor: sbillinge
       group: bg
   name: Ariane Eberhadt
+  position: unknown
 akovyakh:
   active: false
   aka: []
@@ -133,6 +136,7 @@ akovyakh:
       end_month: 4
       group: bg
   name: Anton Kovyakh
+  position: unknown
 alappas:
   active: false
   aka: []
@@ -553,7 +557,7 @@ cwright:
       organization: American Physical Society
   name: Christopher J. "CJ"  Wright
   orcid_id: 0000-0003-2522-7028
-  position: graduate research assistant
+  position: Developer
   service:
     - name: QSTEM Outreach Coordinator and Treasurer/Co-President
       year: 2016
@@ -761,6 +765,7 @@ dpodgorski:
       end_year: 2012
       end_month: 6
   name: Dragica Podgorski
+  position: unknown
 dtordari:
   active: false
   aka: []
@@ -778,6 +783,7 @@ dtordari:
       advisor: sbillinge
       group: bg
   name: Daniel Tordera
+  position: unknown
 dyano:
   active: true
   aka:
@@ -1039,6 +1045,7 @@ fatassi:
       advisor: sbillinge
       group: bg
   name: Farad Atassi
+  position: unknown
 fbertolotti:
   active: false
   aka: []
@@ -1112,6 +1119,7 @@ gcampi:
       group: bg
       end_year: 2003
   name: Gaetano Campi
+  position: unknown
 gpaglia:
   active: false
   aka:
@@ -1361,6 +1369,7 @@ ikjeong:
       advisor: sbillinge
       group: bg
   name: Il-Kyong Jeong
+  position: Professor
 jbloch:
   active: false
   aka:
@@ -1534,6 +1543,7 @@ jchung:
       advisor: sbillinge
       group: bg
   name: Jean Chung
+  position: unknown
 jumana:
   active: true
   aka: []
@@ -1652,6 +1662,7 @@ kloza:
       advisor: sbillinge
       group: bg
   name: Kateryna Loza
+  position: unknown
 kseth:
   active: true
   aka: []
@@ -1803,6 +1814,7 @@ mkane:
       advisor: sbillinge
       group: bg
   name: Michael Kane
+  position: unknown
 mkarlsen:
   active: false
   aka: []
@@ -2128,6 +2140,7 @@ ostachs:
       advisor: sbillinge
       group: bg
   name: O Stachs
+  position: unknown
 pdas:
   active: false
   aka:
@@ -2156,6 +2169,7 @@ pdas:
       end_month: 7
       group: bg
   name: Partha Das
+  position: unknown
 pjuhas:
   active: false
   aka:
@@ -2357,6 +2371,7 @@ rjacubinas:
       advisor: sbillinge
       group: bg
   name: Rick Jacubinas
+  position: unknown
 rkoch:
   active: true
   aka:
@@ -2526,7 +2541,7 @@ sbanerjee:
       group: bg
   name: Soham Banerjee
   orcid_id: 0000-0001-9271-493X
-  position: Graduate Student
+  position: Scientist
   skills:
     - level: proficient
       category: Programming Languages
@@ -2760,6 +2775,7 @@ sdisch:
       advisor: sbillinge
       group: bg
   name: Sabrina Disch
+  position: unknown
 sharouna-mayer:
   active: true
   aka: []
@@ -2841,6 +2857,7 @@ spattanaik:
       advisor: sbillinge
       group: bg
   name: Sidharta Pattanaik
+  position: unknown
 sskjaervoe:
   active: false
   aka:
@@ -2919,6 +2936,7 @@ swhan:
       advisor: sbillinge
       group: bg
   name: Sang-Wook Han
+  position: unknown
 syxue:
   active: false
   aka:
@@ -3122,6 +3140,7 @@ vnield:
       advisor: sbillinge
       group: bg
   name: Victoria M. Nield
+  position: unknown
 xhyang:
   active: false
   aka:
