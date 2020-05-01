@@ -1644,7 +1644,7 @@ kloza:
   employment:
     - begin_year: 2011
       organization: University of Duisburg-Essen
-      position: fix.me
+      position: unknown
     - begin_year: 2014
       begin_month: 4
       position: Visiting Researcher
@@ -2760,7 +2760,7 @@ sdisch:
       advisor: sbillinge
       group: bg
   name: Sabrina Disch
-shan:
+swhan:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
@@ -3087,7 +3087,8 @@ vgharakhanyan:
   position: Graduate Student
 vnield:
   active: false
-  aka: []
+  aka:
+    - Vicki Nield
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
@@ -3100,7 +3101,7 @@ vnield:
       organization: msu
       advisor: sbillinge
       group: bg
-  name: Vicki Nield
+  name: Victoria M. Nield
 vlin:
   active: true
   aka: []
@@ -3224,7 +3225,7 @@ xyun:
       organization: Columbia University
   name: Xin Yun
   position: Graduate Student
-yhu:
+yjhu:
   active: false
   aka:
     - Joey Hu
