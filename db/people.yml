@@ -1039,6 +1039,31 @@ fatassi:
       advisor: sbillinge
       group: bg
   name: Farad Atassi
+fbertolotti:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2010
+      degree: PhD
+      institution: uturin
+      end_year: 2012
+  employment:
+    - begin_year: 2018
+      begin_month: 11
+      organization: uinsubria
+      position: assistant professor
+    - begin_year: 2016
+      begin_month: 2
+      position: Visiting PhD Researcher
+      organization: columbiau
+      end_year: 2016
+      advisor: sbillinge
+      end_month: 3
+      group: bg
+  name: Federica Bertolotti
+  position: assistant professor
 fmohiuddin-jacobs:
   active: false
   aka:
@@ -1066,6 +1091,27 @@ fmohiuddin-jacobs:
       position: Post Doctoral Associate
   name: Farida Mohiuddin-Jacobs
   position: Lecturer
+gcampi:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2005
+      degree: PostDoctoral researcher
+      institution: Institute of Crystallography of the Council of National Research
+      end_year: 2007
+  employment:
+    - begin_year: 2008
+      organization: Institute of Crystallography of the Council of National Research
+      position: researcher
+    - begin_year: 2002
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+      end_year: 2003
+  name: Gaetano Campi
 gpaglia:
   active: false
   aka:
@@ -1129,52 +1175,6 @@ gpaglia:
       position: Analytical Consultant
   name: Gianluca Paglia
   position: Senior Project Manager - Analytics
-fbertolotti:
-  active: false
-  aka: []
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
-  education:
-    - begin_year: 2010
-      degree: PhD
-      institution: uturin
-      end_year: 2012
-  employment:
-    - begin_year: 2018
-      begin_month: 11
-      organization: uinsubria
-      position: assistant professor
-    - begin_year: 2016
-      begin_month: 2
-      position: Visiting PhD Researcher
-      organization: columbiau
-      end_year: 2016
-      advisor: sbillinge
-      end_month: 3
-      group: bg
-  name: Federica Bertolotti
-  position: assistant professor
-gcampi:
-  active: false
-  aka: []
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
-  education:
-    - begin_year: 2005
-      degree: PostDoctoral researcher
-      institution: Institute of Crystallography of the Council of National Research
-      end_year: 2007
-  employment:
-    - begin_year: 2008
-      organization: Institute of Crystallography of the Council of National Research
-      position: researcher
-    - begin_year: 2002
-      position: Visiting Researcher
-      organization: msu
-      advisor: sbillinge
-      group: bg
-      end_year: 2003
-  name: Gaetano Campi
 hhu:
   active: false
   aka:
@@ -2760,23 +2760,6 @@ sdisch:
       advisor: sbillinge
       group: bg
   name: Sabrina Disch
-swhan:
-  active: false
-  aka: []
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
-  education:
-    - begin_year: 0
-      institution: unknown
-      degree: PhD
-  employment:
-    - begin_year: 2004
-      begin_month: 1
-      position: Visiting Researcher
-      organization: msu
-      advisor: sbillinge
-      group: bg
-  name: Sang-Wook Han
 sharouna-mayer:
   active: true
   aka: []
@@ -2919,6 +2902,23 @@ sstao:
   name: Songsheng Tao
   orcid_id: 0000-0002-7565-3503
   position: Graduate Student
+swhan:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 0
+      institution: unknown
+      degree: PhD
+  employment:
+    - begin_year: 2004
+      begin_month: 1
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+  name: Sang-Wook Han
 syxue:
   active: false
   aka:
@@ -3028,7 +3028,8 @@ tproffen:
     - begin_year: 2017
       begin_month: 10
       organization: Oak Ridge National Laboratory
-      position: Director Science Initiative for High Performance Computing and Data Analytics
+      position: Director Science Initiative for High Performance Computing and Data
+        Analytics
     - begin_year: 2012
       begin_month: 10
       end_month: 10
@@ -3085,23 +3086,6 @@ vgharakhanyan:
       status: ms
   name: Vahe Gharakhanyan
   position: Graduate Student
-vnield:
-  active: false
-  aka:
-    - Vicki Nield
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
-  education:
-    - begin_year: 0
-      institution: unknown
-      degree: PhD
-  employment:
-    - begin_year: 1997
-      position: Visiting Researcher
-      organization: msu
-      advisor: sbillinge
-      group: bg
-  name: Victoria M. Nield
 vlin:
   active: true
   aka: []
@@ -3121,6 +3105,23 @@ vlin:
       status: undergrad
   name: Vivian Lin
   position: Undergraduate Researcher
+vnield:
+  active: false
+  aka:
+    - Vicki Nield
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 0
+      institution: unknown
+      degree: PhD
+  employment:
+    - begin_year: 1997
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+  name: Victoria M. Nield
 xhyang:
   active: false
   aka:
