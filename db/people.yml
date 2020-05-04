@@ -1102,6 +1102,7 @@ fatassi:
       advisor: sbillinge
       group: bg
   name: Farad Atassi
+  position: unknown
 fbertolotti:
   active: false
   aka: []
@@ -3164,10 +3165,11 @@ vlin:
   active: true
   aka: []
   avatar: https://github.com/vivianlin2000.png
-  bio: Vivian is an undergraduate researcher at Columbia University. She was born and raised in
-    Northern Virginia (which is completely different from the rest of VA) and is pursuing a BS in Applied Math
-    with a concentration in Computer Science. Vivian joined the Billinge group in the spring of 2020 and is
-    excited to contribute to the amazing work that Professor Billinge and his associates are doing.
+  bio: Vivian is an undergraduate researcher at Columbia University. She was born
+    and raised in Northern Virginia (which is completely different from the rest of
+    VA) and is pursuing a BS in Applied Math with a concentration in Computer Science.
+    Vivian joined the Billinge group in the spring of 2020 and is excited to contribute
+    to the amazing work that Professor Billinge and his associates are doing.
   education:
     - begin_year: 2019
       begin_month: 9
@@ -3188,6 +3190,24 @@ vlin:
       status: undergrad
   name: Vivian Lin
   position: Undergraduate Researcher
+vnield:
+  active: false
+  aka:
+    - Vicki Nield
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 0
+      institution: unknown
+      degree: PhD
+  employment:
+    - begin_year: 1997
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+  name: Victoria M. Nield
+  position: unknown
 wzhou:
   active: false
   aka:
@@ -3226,24 +3246,6 @@ wzhou:
       position: Post Doctoral Scholar
   name: Wenduo Zhou
   position: Software Engineer
-vnield:
-  active: false
-  aka:
-    - Vicki Nield
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
-  education:
-    - begin_year: 0
-      institution: unknown
-      degree: PhD
-  employment:
-    - begin_year: 1997
-      position: Visiting Researcher
-      organization: msu
-      advisor: sbillinge
-      group: bg
-  name: Victoria M. Nield
-  position: unknown
 xhyang:
   active: false
   aka:
@@ -3537,12 +3539,12 @@ zthatcher:
     - Thatcher, Z. A.
     - Zachary A. Thatcher
   avatar: https://github.com/zthatch.png
-  bio: Zach grew up in Connecticut and has spent the last few years working as an engineering
-    consultant in Arlington, VA. At the University of Connecticut he worked on characterization
-    of ferroelectric thin films as a member of HueyAFM Labs. As an consulting engineer, he acted
-    primarily as a a firmware developer for the medical device industry, as well as a material
-    scientist for the power industry. In his free time you may catch him on a run or desperately
-    trying to land a good kickflip.
+  bio: Zach grew up in Connecticut and has spent the last few years working as an
+    engineering consultant in Arlington, VA. At the University of Connecticut he worked
+    on characterization of ferroelectric thin films as a member of HueyAFM Labs. As
+    an consulting engineer, he acted primarily as a a firmware developer for the medical
+    device industry, as well as a material scientist for the power industry. In his
+    free time you may catch him on a run or desperately trying to land a good kickflip.
   education:
     - begin_year: 2013
       begin_month: 9
