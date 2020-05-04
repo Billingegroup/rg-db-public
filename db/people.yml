@@ -842,8 +842,12 @@ dyano:
   aka:
     - Daniela Hikari Yano
     - Daniela Yano
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  avatar: http://github.com/dy2403.png
+  bio: Daniela was born and raised in Brazil, and is a First-Year student at Barnard
+    College. She is part of the Science Pathways Scholars Program, a program to support
+    young women from minorities who convey strong interest in science. Daniela also
+    enjoys playing table tennis, and represented the Brazilian Table Tennis Team in
+    some opportunities.
   education:
     - begin_year: 2019
       begin_month: 9
@@ -1098,7 +1102,6 @@ fatassi:
       advisor: sbillinge
       group: bg
   name: Farad Atassi
-  position: unknown
 fbertolotti:
   active: false
   aka: []
@@ -3528,18 +3531,18 @@ zguguchia:
   position: Scientist
 zthatcher:
   active: true
-  aka: 
+  aka:
     - Zach Thatcher
     - Thatcher, Zachary A.
-    - Thatcher, Z. A. 
+    - Thatcher, Z. A.
     - Zachary A. Thatcher
   avatar: https://github.com/zthatch.png
   bio: Zach grew up in Connecticut and has spent the last few years working as an engineering
-    consultant in Arlington, VA. At the University of Connecticut he worked on characterization 
-    of ferroelectric thin films as a member of HueyAFM Labs. As an consulting engineer, he acted 
-    primarily as a a firmware developer for the medical device industry, as well as a material 
-    scientist for the power industry. In his free time you may catch him on a run or desperately 
-    trying to land a good kickflip. 
+    consultant in Arlington, VA. At the University of Connecticut he worked on characterization
+    of ferroelectric thin films as a member of HueyAFM Labs. As an consulting engineer, he acted
+    primarily as a a firmware developer for the medical device industry, as well as a material
+    scientist for the power industry. In his free time you may catch him on a run or desperately
+    trying to land a good kickflip.
   education:
     - begin_year: 2013
       begin_month: 9
