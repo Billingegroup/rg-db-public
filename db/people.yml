@@ -1548,9 +1548,10 @@ jumana:
   synthesis as well as first-principles calculations via density functional theory (DFT).
   education:
       - begin_year: 2019
+      end_year: 2023
       degree: BA
-      institution: Columbia University
-  email: jcu2108
+      institution: columbiau
+  email: jcu2108@columbia.edu
   employment:
     - begin_year: 2020
       begin_month: 4
