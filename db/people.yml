@@ -3108,11 +3108,10 @@ vlin:
   active: true
   aka: Viv
   avatar: https://github.com/vivianlin2000.png
-  bio: Vivian is an undergraduate researcher at Columbia University. She was born
-  and raised in Northern Virginia (which is completely different from the rest of VA) and is
-  pursuing a BS in Applied Math with a concentration in Computer Science. Vivian joined the Billinge group in
-  the spring of 2020 and is excited to contribute to the amazing work that Professor Billinge
-  and his associates are doing.
+  bio: Vivian is an undergraduate researcher at Columbia University. She was bornand raised in
+    Northern Virginia (which is completely different from the rest of VA) and is pursuing a BS in Applied Math
+    with a concentration in Computer Science. Vivian joined the Billinge group in the spring of 2020 and is
+    excited to contribute to the amazing work that Professor Billinge and his associates are doing.
   education:
     - begin_year: 2019
       begin_month: 9
