@@ -899,14 +899,20 @@ rgu:
   aka:
     - Ran Gu
     - Gu, Ran
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  avatar: https://github.com/guran1214.png
+  bio: Ran was born in Shandong Province, China in 1989. He attended Nankai University located in Tianjin where he earned a B. S. in Mathematics and earned a PhD in Computational Mathematics in Chinese Academy of Sciences located in Beijing. He joined the Billinge Group and Du's CM3 group in fall 2017 and is currently working on pair distribution functions analysis and nanostructure inverse problem. In his spare time, he likes to play bridge.
   education:
     - begin_year: 2012
-      degree: PhD in Applied Mathematics
+      degree: PhD in Computational Mathematics
       institution: Chinese Academy of Sciences
       end_year: 2017
       end_month: 6
+      location: Tianjin, China
+    - begin_year: 2008
+      degree: BS in Mathematics
+      institution: Nankai University
+      end_year: 2012
+      location: Tianjin, China
   employment:
     - begin_year: 2017
       begin_month: 9
