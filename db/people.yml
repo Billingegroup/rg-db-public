@@ -113,6 +113,25 @@ aeberhadt:
       group: bg
   name: Ariane Eberhadt
   position: unknown
+aejaz:
+  active: true
+  aka: []
+  avatar: https://github.com/adibaejaz.png
+  bio: bio
+  education: []
+  email: 'adiba.ejaz@columbia.edu '
+  employment:
+    - begin_year: 2020
+      begin_month: 5
+      end_year: 2020
+      end_month: 8
+      organization: columbiau
+      position: Undergrad Researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  name: Adiba Ejaz
+  position: Undergrad Researcher
 akovyakh:
   active: false
   aka: []
