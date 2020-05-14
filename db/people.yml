@@ -317,13 +317,13 @@ bozer:
   aka: []
   avatar: https://github.com/berrakozer.png
   bio: Berrak is from Istanbul, Turkey. She acquired her Bachelor of Science Degree
-    with a Major in Operations Research in Engineering Management Systems and a
-    Minor in Materials Science and Engineering from Columbia University. She is
-    currently pursuing her Master of Science Degree in Materials Science and
-    Engineering in Columbia University. She has started doing research with
-    Professor Billinge as a member of Billinge Group in the beginning of her second
-    semester as a Master’s Degree student. Her extracurricular interests include
-    playing the violin, volleyball and skiing.
+    with a Major in Operations Research in Engineering Management Systems and a Minor
+    in Materials Science and Engineering from Columbia University. She is currently
+    pursuing her Master of Science Degree in Materials Science and Engineering in
+    Columbia University. She has started doing research with Professor Billinge as
+    a member of Billinge Group in the beginning of her second semester as a Master’s
+    Degree student. Her extracurricular interests include playing the violin, volleyball
+    and skiing.
   education:
     - begin_year: 2019
       begin_month: 9
@@ -2462,7 +2462,12 @@ rgu:
     - Ran Gu
     - Gu, Ran
   avatar: https://github.com/guran1214.png
-  bio: Ran was born in Shandong Province, China in 1989. He attended Nankai University located in Tianjin where he earned a B. S. in Mathematics and earned a PhD in Computational Mathematics in Chinese Academy of Sciences located in Beijing. He joined the Billinge Group and Du's CM3 group in fall 2017 and is currently working on pair distribution functions analysis and nanostructure inverse problem. In his spare time, he likes to play bridge.
+  bio: Ran was born in Shandong Province, China in 1989. He attended Nankai University
+    located in Tianjin where he earned a B. S. in Mathematics and earned a PhD in
+    Computational Mathematics in Chinese Academy of Sciences located in Beijing. He
+    joined the Billinge Group and Du's CM3 group in fall 2017 and is currently working
+    on pair distribution functions analysis and nanostructure inverse problem. In
+    his spare time, he likes to play bridge.
   education:
     - begin_year: 2012
       degree: PhD in Computational Mathematics
@@ -2644,6 +2649,9 @@ sbanerjee:
   education:
     - institution: columbiau
       begin_year: 2013
+      begin_month: 9
+      end_year: 2019
+      end_month: Oct
       group: bg
       location: New York, NY
       department: apam
@@ -2697,9 +2705,11 @@ sbillinge:
     - sbillinge
     - Simon John Laird Billinge
   avatar: https://github.com/sbillinge.png
-  bio: "Prof. Billinge has more than 20 years experience developing and applying techniques\
-    \ to study local structure in materials using x-ray, neutron and electron diffraction.\
-    \ He earned his Ph.D in Materials Science and Engineering from University of Pennsylvania\
+  bio: "Prof. Billinge has more than 25 years of experience developing and  applying\
+    \ techniques to study local structure in materials using x-ray,  neutron and electron\
+    \ diffraction including the development of novel data analysis methods including\
+    \ graph theoretic, Artificial Intelligence and Machine Learning approaches. He\
+    \ earned his Ph.D in Materials Science and Engineering from University of Pennsylvania\
     \ in 1992. After 13 years as a faculty member at Michigan State University, in\
     \ 2008 he took up his current position as Professor of Materials Science and Applied\
     \ Physics and Applied Mathematics at Columbia University and Physicist at Brookhaven\
@@ -2908,6 +2918,25 @@ sdisch:
       group: bg
   name: Sabrina Disch
   position: unknown
+sghose:
+  active: true
+  aka: []
+  avatar: https://github.com/shogho0.png
+  bio: bio
+  education: []
+  email: sg3789@columbia.edu
+  employment:
+    - begin_year: 2020
+      begin_month: 5
+      end_year: 2020
+      end_month: 8
+      organization: columbiau
+      position: Undergraduate Researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  name: Shomik Ghose
+  position: Undergraduate Researcher
 sharouna-mayer:
   active: true
   aka: []
