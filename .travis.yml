@@ -24,7 +24,7 @@ before_install:
     git config --global user.name "Christopher J. Wright";
 
 install:
-  - conda install doctr regolith pandas;
+  - conda install regolith pandas;
     conda remove --force regolith;
     pip install git+git://github.com/regro/regolith@master;
 
@@ -37,4 +37,9 @@ script:
     cd website;
     regolith build html;
     cd ..;
-    doctr deploy --deploy-repo billingegroup/billingegroup.github.io --deploy-branch-name master --built-docs website/_build/html .;
+  - |
+    if [ $TRAVIS_BRANCH == "master" ]; then
+      # Pubish the documentation to GitHub Pages.
+      pip install doctr
+      doctr deploy --deploy-repo billingegroup/billingegroup.github.io --deploy-branch-name master --built-docs website/_build/html .
+    fi
