@@ -6952,6 +6952,48 @@ nguye;pnas19:
   wwwemail: ''
   wwwpub: ''
   year: '2019'
+onola;jac20:
+  ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
+    Center, an Energy Frontier Research Center funded by the US Department of Energy
+    (DOE), Office of Science, Basic Energy Sciences under award No. DE-SC0019212.
+    This research used beamline 11-ID-B of the Advanced Photon Source, a US DOE Office
+    of Science User Facility operated for the DOE Office of Science by Argonne National
+    Laboratory under contract No. DE-AC02-06CH11357. This research also used beamlines
+    28-ID-1 and 28-ID-2 of the National Synchrotron Light Source II, a US DOE Office
+    of Science User Facility operated for the DOE Office of Science by Brookhaven
+    National Laboratory under contract No. DE-SC0012704.'
+  author:
+    - D. O'Nolan
+    - G. Huang
+    - G. E. Kamm
+    - A. Grenier
+    - C.-H. Liu
+    - P. K. Todd
+    - A. Wustrow
+    - G. Thinh Tran
+    - D. Montiel
+    - J. R. Neilson
+    - S. J. L. Billinge
+    - P. J. Chupas
+    - K. S. Thornton
+    - K. W. Chapman
+  doi: 10.1107/S160057672000415X
+  entrytype: article
+  facility: aps, 11idb, nslsii, xpd, pdf
+  grant: mrsec18
+  journal: J. Appl. Crystallogr.
+  nb: ' art '
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: 39-55
+  tags: in situ, method development
+  title: A thermal-gradient approach to variable-temperature measurements resolved
+    in space
+  url: http://scripts.iucr.org/cgi-bin/paper?S160057672000415X
+  volume: '81'
+  year: '2020'
 pagli;cm06i:
   author:
     - Paglia, G.
@@ -9766,21 +9808,22 @@ yang;aca20:
   ackno: The authors thank Emil S. Bo\v{z}in and Cedomir Petrovic for sharing their
     unpublished Ti4O7 and published CuIr2S4 X-ray experimental data, and thank Benjamin
     A. Frandsen for sharing his published Ba0.8K0.2(Zn0.85Mn0.15)2As2 and MnO neutron
-    experimental data. Work in the S. J. L. Billinge group was supported by the US National
-    Science Foundation through grant DMREF-1534910. L. Yang and M. G. Tucker acknowledge support
-    from the ORNL Graduate Opportunity (GO) program, which was funded by the Neutron
-    Science Directorate, with support from the Scientific User Facilities Division,
-    Office of Basic Energy Science, US Department of Energy (DOE). P. Juh\'{a}s was supported
-    by the New York State BNL Big Data Science Capital Project under the US DOE
-    Contract No. DE-SC0012704. M. W. Terban gratefully acknowledges support from BASF. X-ray
-    PDF measurements were conducted on beamline 28-ID-2 of the National Synchrotron
-    Light Source II, a US DOE Office of Science User Facility operated for the DOE
-    Office of Science by Brookhaven National Laboratory under Contract No. DE-SC0012704.
-    Use of the NOMAD beamline of the Spallation Neutron Source, Oak Ridge National
-    Laboratory, was sponsored by the Scientific User Facilities Division, Office of
-    Basic Energy Science, US DOE. Use of the NPDF beamline at LANSCE was funded
-    by the Office of Basic Energy Science, US DOE. Los Alamos National Laboratory
-    is operated by Los Alamos National Security LLC under DOE Contract No. DE-AC52-06NA25396.
+    experimental data. Work in the S. J. L. Billinge group was supported by the US
+    National Science Foundation through grant DMREF-1534910. L. Yang and M. G. Tucker
+    acknowledge support from the ORNL Graduate Opportunity (GO) program, which was
+    funded by the Neutron Science Directorate, with support from the Scientific User
+    Facilities Division, Office of Basic Energy Science, US Department of Energy (DOE).
+    P. Juh\'{a}s was supported by the New York State BNL Big Data Science Capital
+    Project under the US DOE Contract No. DE-SC0012704. M. W. Terban gratefully acknowledges
+    support from BASF. X-ray PDF measurements were conducted on beamline 28-ID-2 of
+    the National Synchrotron Light Source II, a US DOE Office of Science User Facility
+    operated for the DOE Office of Science by Brookhaven National Laboratory under
+    Contract No. DE-SC0012704. Use of the NOMAD beamline of the Spallation Neutron
+    Source, Oak Ridge National Laboratory, was sponsored by the Scientific User Facilities
+    Division, Office of Basic Energy Science, US DOE. Use of the NPDF beamline at
+    LANSCE was funded by the Office of Basic Energy Science, US DOE. Los Alamos National
+    Laboratory is operated by Los Alamos National Security LLC under DOE Contract
+    No. DE-AC52-06NA25396.
   author:
     - Yang, Long
     - Juh\'{a}s, Pavol
@@ -9799,7 +9842,7 @@ yang;aca20:
   optannote: arXiv:1905.02677v2 [cond-mat.mtrl-sci]
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
-  pages: '395-409'
+  pages: 395-409
   title: 'Structure-mining: screening structure models by automated fitting to the
     atomic pair distribution function over large numbers of models'
   url: https://journals.iucr.org/a/issues/2020/03/00/vk5039/
@@ -10191,45 +10234,3 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
-onola;jac20:
-  ackno: "This work was supported as part of GENESIS: A Next Generation
-    Synthesis Center, an Energy Frontier Research Center funded by the US
-    Department of Energy (DOE), Office of Science, Basic Energy Sciences under
-    award No. DE-SC0019212. This research used beamline 11-ID-B of the Advanced
-    Photon Source, a US DOE Office of Science User Facility operated for the
-    DOE Office of Science by Argonne National Laboratory under contract No.
-    DE-AC02-06CH11357. This research also used beamlines 28-ID-1 and 28-ID-2 of
-    the National Synchrotron Light Source II, a US DOE Office of Science User
-    Facility operated for the DOE Office of Science by Brookhaven National
-    Laboratory under contract No. DE-SC0012704."
-  author:
-    - D. O'Nolan
-    - G. Huang
-    - G. E. Kamm
-    - A. Grenier
-    - C.-H. Liu
-    - P. K. Todd
-    - A. Wustrow
-    - G. Thinh Tran
-    - D. Montiel
-    - J. R. Neilson
-    - S. J. L. Billinge
-    - P. J. Chupas
-    - K. S. Thornton
-    - K. W. Chapman
-  doi: 10.1107/S160057672000415X
-  entrytype: article
-  facility: 'aps, 11idb, nslsii, xpd, pdf'
-  grant: mrsec18
-  journal: J. Appl. Crystallogr.
-  nb: ' art '
-  note: ''
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: 39-55
-  tags: in situ, method development
-  title: A thermal-gradient approach to variable-temperature measurements resolved in space
-  url: http://scripts.iucr.org/cgi-bin/paper?S160057672000415X
-  volume: '81'
-  year: '2020'
