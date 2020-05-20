@@ -3722,3 +3722,45 @@ zzgong:
   service: []
   skills: []
   title: Dr.
+jwzang:
+  active: true
+  aka:
+    - Jiawei Zang
+    - Zang, Jiawei
+  avatar: https://github.com/jiaweizang.png
+  bio: Jiawei grew up in Shandong, China. She earned her B.S. in Physics in 2019 from Fudan University in China. She is interested in applying data science to the analysis of materials. She also works on a spin-charge simulation project under supervision of Professor Yasutomo Uemura. In her spare time, she likes rock climbing and trying different foods.
+  education:
+    - begin_year: 2019
+      begin_month: 9
+      degree: PhD in Physics
+      advisor: sbillinge
+      institution: Columbia University
+      group: bg
+  employment:
+    - begin_year: 2020
+      begin_month: 5
+      position: Graduate Research Assistant
+      organization: columbiau
+      status: phd
+      advisor: sbillinge
+      group: bg
+  name: Jiawei Zang
+  position: Graduate Student
+swhan:
+  active: false
+  aka: []
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 0
+      institution: unknown
+      degree: PhD
+  employment:
+    - begin_year: 2004
+      begin_month: 1
+      position: Visiting Researcher
+      organization: msu
+      advisor: sbillinge
+      group: bg
+  name: Sang-Wook Han
+  position: unknown
