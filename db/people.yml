@@ -1366,7 +1366,7 @@ htiwari:
       status: ms
   name: Hrishi Tiwari
   position: Former Masters Researcher
-htvuong:
+hvuong:
   active: true
   aka:
     - Hung Vuong
@@ -1689,6 +1689,25 @@ jumana:
       status: undergrad
   name: Jaylyn Umana
   position: Undergraduate Researcher
+jwzang:
+  active: true
+  aka: []
+  avatar: https://github.com/jiaweizang.png
+  bio: bio
+  education: []
+  email: "\x16jz3122@columbia.edu"
+  employment:
+    - begin_year: 2020
+      begin_month: 5
+      end_year: 2024
+      end_month: 5
+      organization: columbiau
+      position: Graduate Student Researcher
+      group: bg
+      advisor: sbillinge
+      status: phd
+  name: Jiawei Zang
+  position: Graduate Student Researcher
 kjensen:
   active: false
   aka:
@@ -3643,6 +3662,25 @@ yztao:
       status: phd
   name: Yunzhe Tao
   position: Post Doctoral Associate
+zcliu:
+  active: true
+  aka: []
+  avatar: https://github.com/zichengliu1997.png
+  bio: bio
+  education: []
+  email: "\x16zl2754@columbia.edu"
+  employment:
+    - begin_year: 2020
+      begin_month: 5
+      end_year: 2020
+      end_month: 8
+      organization: columbiau
+      position: Undergrad Research
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  name: Zicheng Liu (Taylor)
+  position: Undergrad Research
 zguguchia:
   active: false
   aka:
@@ -3673,25 +3711,6 @@ zguguchia:
       position: Post Doctoral Associate
   name: Zurab Guguchia
   position: Scientist
-zcliu:
-  active: true
-  aka: []
-  avatar: https://github.com/zichengliu1997.png
-  bio: bio
-  education: []
-  email: "\x16zl2754@columbia.edu"
-  employment:
-    - begin_year: 2020
-      begin_month: 5
-      end_year: 2020
-      end_month: 8
-      organization: columbiau
-      position: Undergrad Research
-      group: bg
-      advisor: sbillinge
-      status: undergrad
-  name: Zicheng Liu (Taylor)
-  position: Undergrad Research
 zthatcher:
   active: true
   aka:
@@ -3718,7 +3737,7 @@ zthatcher:
       degree: PhD in Material Science
       institution: Columbia University
       group: bg
-  email: zachary.alan.thatcher@gmail.com
+  email: zt2275@columbia.edu
   employment:
     - begin_year: 2020
       begin_month: 4
