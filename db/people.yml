@@ -1366,7 +1366,7 @@ htiwari:
       status: ms
   name: Hrishi Tiwari
   position: Former Masters Researcher
-htvuong:
+hvuong:
   active: true
   aka:
     - Hung Vuong
@@ -1689,6 +1689,25 @@ jumana:
       status: undergrad
   name: Jaylyn Umana
   position: Undergraduate Researcher
+jwzang:
+  active: true
+  aka: []
+  avatar: https://github.com/jiaweizang.png
+  bio: bio
+  education: []
+  email: "\x16jz3122@columbia.edu"
+  employment:
+    - begin_year: 2020
+      begin_month: 5
+      end_year: 2024
+      end_month: 5
+      organization: columbiau
+      position: Graduate Student Researcher
+      group: bg
+      advisor: sbillinge
+      status: phd
+  name: Jiawei Zang
+  position: Graduate Student Researcher
 kjensen:
   active: false
   aka:
@@ -2208,7 +2227,10 @@ nthomas:
     - Nancy Thomas
     - Nancy Knight Thomas
   avatar: https://github.com/noniethomas.png
-  bio: Nonie is a senior studying Applied Mathematics in the School of Engineering and Applied Science at Columbia. She started working with the Billinge Group the second semester of her senior year. After graduating, she will be attending MIT Sloan to pursue a Master of Business Analytics.
+  bio: Nonie is a senior studying Applied Mathematics in the School of Engineering
+    and Applied Science at Columbia. She started working with the Billinge Group the
+    second semester of her senior year. After graduating, she will be attending MIT
+    Sloan to pursue a Master of Business Analytics.
   education:
     - begin_year: 2016
       begin_month: 9
@@ -2724,6 +2746,41 @@ sbillinge:
     \ of Acta Crystallographica Section A: Advances and Foundations. He regularly\
     \ chairs and participates in reviews of major facilities and federally funded\
     \ programs."
+  bio_long: "Prof. Billinge earned his Ph.D in Materials Science and Engineering from\
+    \ University of Pennsylvania in 1992, following a BA at Oxford University. He\
+    \ spent 2 years at Los Alamos National Laboratory in New Mexico as a post-doc\
+    \ before joining the faculty as an Assistant Professor in the Department of Physics\
+    \ and Astronomy at Michigan State University in 1994. He became Associate professor\
+    \ in 1999 and full professor in 2003. In 2008 he took up his current position\
+    \ as Professor of Applied Physics, Applied Mathematics and Materials Science at\
+    \ Columbia University and Physicist at Brookhaven National Laboratory.\nHis research\
+    \ focuses on the study of local-structure property relationships of disordered\
+    \ crystals and nanocrystals using advanced x-ray and neutron diffraction techniques.\
+    \ In particular he is a leader in the development of the atomic pair distribution\
+    \ function (PDF) method applied to complex materials. These methods are applied\
+    \ to the study of nanoscale structure and its role in the properties of diverse\
+    \ materials of interest, for example, in energy, catalysis, environmental remediation\
+    \ and pharmaceuticals. The approach is to use advanced x-ray, neutron and electron\
+    \ scattering methods, utilizing some of the world's most powerful sources, and\
+    \ applying advanced computation and analysis, including artificial intelligence,\
+    \ machine learning, and graph theoretic methods.  A major activity is the study\
+    \ of the nanostructure inverse problem (NIP) where the goal is to obtain the 3D\
+    \ arrangement of atoms from structures with nanoscale atomic structures from scattering\
+    \ data, and the synthesis inverse problem, where the goal is to find an unknown\
+    \ synthesis recipe given a desired material product. These are non trivial ill-posed\
+    \ inverse problems that require novel applied math and computational approaches\
+    \ to solve.\nProf. Billinge has published more than 300 papers in scholarly journals.\
+    \ He is a fellow of the American Physical Society and the Neutron Scattering Society\
+    \ of America, a former Fulbright and Sloan fellow and has earned a number of awards\
+    \ including being honored in 2011 for contributions to the nation as an immigrant\
+    \ by the Carnegie Corporation of New York, the 2020 distinguished powder diffraction\
+    \ prize of the European Powder Diffraction Conference, the 2018 Warren award of\
+    \ the American Crystallographic Association, the 2010 J. D. Hanawalt Award of\
+    \ the International Center for Diffraction Data, the University Distinguished\
+    \ Faculty award at Michigan State, and the Thomas H. Osgood Undergraduate Teaching\
+    \ Award. He is Section Editor of Acta Crystalographica Section A: Advances and\
+    \ Foundations. He regularly chairs and participates in reviews of major facilities\
+    \ and federally funded programs."
   education:
     - institution: uoxford
       begin_year: 1982
@@ -3605,6 +3662,25 @@ yztao:
       status: phd
   name: Yunzhe Tao
   position: Post Doctoral Associate
+zcliu:
+  active: true
+  aka: []
+  avatar: https://github.com/zichengliu1997.png
+  bio: bio
+  education: []
+  email: zl2754@columbia.edu
+  employment:
+    - begin_year: 2020
+      begin_month: 5
+      end_year: 2020
+      end_month: 8
+      organization: columbiau
+      position: Undergrad Research
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  name: Zicheng "Taylor" Liu
+  position: Undergrad Research
 zguguchia:
   active: false
   aka:
@@ -3661,7 +3737,7 @@ zthatcher:
       degree: PhD in Material Science
       institution: Columbia University
       group: bg
-  email: zachary.alan.thatcher@gmail.com
+  email: zt2275@columbia.edu
   employment:
     - begin_year: 2020
       begin_month: 4
