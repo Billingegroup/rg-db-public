@@ -3668,7 +3668,7 @@ zcliu:
   avatar: https://github.com/zichengliu1997.png
   bio: bio
   education: []
-  email: "\x16zl2754@columbia.edu"
+  email: zl2754@columbia.edu
   employment:
     - begin_year: 2020
       begin_month: 5
@@ -3679,7 +3679,7 @@ zcliu:
       group: bg
       advisor: sbillinge
       status: undergrad
-  name: Zicheng Liu (Taylor)
+  name: Zicheng "Taylor" Liu
   position: Undergrad Research
 zguguchia:
   active: false
