@@ -3746,21 +3746,3 @@ jwzang:
       group: bg
   name: Jiawei Zang
   position: Graduate Student
-swhan:
-  active: false
-  aka: []
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
-  education:
-    - begin_year: 0
-      institution: unknown
-      degree: PhD
-  employment:
-    - begin_year: 2004
-      begin_month: 1
-      position: Visiting Researcher
-      organization: msu
-      advisor: sbillinge
-      group: bg
-  name: Sang-Wook Han
-  position: unknown
