@@ -1691,10 +1691,24 @@ jumana:
   position: Undergraduate Researcher
 jwzang:
   active: true
-  aka: []
+  aka:
+    - Jiawei Zang
+    - Zang, Jiawei
+    - J. Zang
+    - Zang, J.
   avatar: https://github.com/jiaweizang.png
-  bio: bio
-  education: []
+  bio: Jiawei grew up in Shandong, China. She earned her B.S. in Physics in 2019 from Fudan University. She joined the Billinge Group in the summer of 2020 and is interested in applying data science to the analysis of materials. In her spare time, she likes rock climbing and trying different foods.
+  education:
+    - institution: Columbia University
+      begin_year: 2019
+      location: New York, NY
+      department: Physics
+      degree: MS/PhD in Physics
+    - institution: Fudan University
+      degree: BS in Physics
+      begin_year: 2015
+      end_year: 2019
+      location: Shanghai, China
   email: "\x16jz3122@columbia.edu"
   employment:
     - begin_year: 2020
