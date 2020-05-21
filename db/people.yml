@@ -1541,16 +1541,13 @@ jumana:
     - J.C. Umana
     - Jaylyn Umana
     - J. Umana
-  avatar: "https://s.gravatar.com/avatar/8ed1218c1874692a7474b58ed57d35b4?s=80"
-  bio: Jaylyn C. Umana grew up on Long Island, NY and is currently an undergraduate student 
-  and researcher at Columbia University pursuing a degrees in both physics and mathematics. His primary research 
-  interests are in condensed matter with a focus on transition metal oxides. He has experience with
-  synthesis as well as first-principles calculations via density functional theory (DFT).
-  education:
-      - begin_year: 2019
-      end_year: 2023
-      degree: BA
-      institution: columbiau
+  avatar: https://github.com/\x16jc-umana.png
+  bio: Jaylyn C. Umana grew up on Long Island, NY and is currently an undergraduate student
+    and researcher at Columbia University pursuing degrees in both physics and mathematics.
+    His primary research interests are in condensed matter with a focus on transition metal
+    oxides. He has experience with synthesis as well as first-principles calculations via
+    density functional theory (DFT).
+  education: []
   email: jcu2108@columbia.edu
   employment:
     - begin_year: 2020
