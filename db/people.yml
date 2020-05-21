@@ -1672,22 +1672,30 @@ jliu:
   position: Software Development Engineer
 jumana:
   active: true
-  aka: []
-  avatar: "https://github.com/\x16jc-umana.png"
-  bio: bio
+  aka:
+    - Jaylyn Cielo Umana
+    - J.C. Umana
+    - Jaylyn Umana
+    - J. Umana
+  avatar: https://github.com/\x16jc-umana.png
+  bio: Jaylyn C. Umana grew up on Long Island, NY and is currently an undergraduate student
+    and researcher at Columbia University pursuing degrees in both physics and mathematics.
+    His primary research interests are in condensed matter with a focus on transition metal
+    oxides. He has experience with synthesis as well as first-principles calculations via
+    density functional theory (DFT).
   education: []
-  email: jcu2108
+  email: jcu2108@columbia.edu
   employment:
     - begin_year: 2020
       begin_month: 4
-      end_year: 2024
+      end_year: 2023
       end_month: 5
       organization: columbiau
       position: Undergraduate Researcher
       group: bg
       advisor: sbillinge
       status: undergrad
-  name: Jaylyn Umana
+  name: Jaylyn C. Umana
   position: Undergraduate Researcher
 jwzang:
   active: true
