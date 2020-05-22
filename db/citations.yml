@@ -6963,25 +6963,26 @@ onola;jac20:
     of Science User Facility operated for the DOE Office of Science by Brookhaven
     National Laboratory under contract No. DE-SC0012704.'
   author:
-    - D. O'Nolan
-    - G. Huang
-    - G. E. Kamm
-    - A. Grenier
-    - C.-H. Liu
-    - P. K. Todd
-    - A. Wustrow
-    - G. Thinh Tran
-    - D. Montiel
-    - J. R. Neilson
-    - S. J. L. Billinge
-    - P. J. Chupas
-    - K. S. Thornton
-    - K. W. Chapman
+    - Daniel O'Nolan
+    - Guanglong Huang
+    - Gabrielle E. Kamm
+    - Antonin Grenier
+    - Chia-Hao Liu
+    - Paul Todd
+    - Allison Wustrow
+    - Gia Thinh Tran
+    - David Montiel
+    - James R. Neilson
+    - Simon J. L. Billinge
+    - Peter J. Chupas
+    - Katsuyo S. Thornton
+    - Karena W. Chapman
   doi: 10.1107/S160057672000415X
   entrytype: article
   facility: aps, 11idb, nslsii, xpd, pdf
-  grant: mrsec18
+  grant: efrc18
   journal: J. Appl. Crystallogr.
+  month: May
   nb: ' art '
   note: ''
   number: ''
