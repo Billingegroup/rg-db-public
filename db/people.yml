@@ -2133,14 +2133,14 @@ mterban:
   name: Maxwell Terban
   position: Post-doctoral Associate
 mwaddell:
-  active: false
+  active: true
   aka:
     - Michael Waddell
     - Michael A. Waddell
     - Waddell, Michael A.
     - Michael Alexander Waddell
-  avatar: https://github.com/mwaddell.png
-  bio: ''
+  avatar: https://github.com/Mwaddellcolumbia.png
+  bio: bio
   education:
     - institution: George Washington University
       begin_year: 2007
@@ -2157,7 +2157,17 @@ mwaddell:
       end_year: 2017
       department: Applied Analytics
       degree: MS in Applied Analytics
+  email: maw2240@columbia.edu
   employment:
+    - begin_year: 2020
+      begin_month: 5
+      end_year: 2021
+      end_month: 5
+      organization: columbiau
+      position: Adjunct Researcher
+      group: bg
+      advisor: sbillinge
+      status: visitor-unsupported
     - organization: ORNL
       begin_year: 2016
       end_year: 2016
@@ -2166,18 +2176,10 @@ mwaddell:
       position: Analyst
       begin_year: 2017
       end_year: 2018
-      group: bg
-    - organization: Columbia University
-      position: Graduate Research Assistant
-      begin_year: 2018
-      end_year: 2019
-      end_month: Apr
-      advisor: sbillinge
-      group: bg
-      status: ms
+  github_id: Mwaddellcolumbia
   name: Michael A. Waddell
   orcid_id: 0000-0003-0908-7571
-  position: PhD student
+  position: Adjunct Researcher"
 mwinitch:
   active: true
   aka: []
