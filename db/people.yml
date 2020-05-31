@@ -78,7 +78,7 @@ aday:
       advisor: sbillinge
       group: bg
   name: Anthony Roy Day
-  position: Professor
+  position: professor
 adippel:
   active: false
   aka: []
@@ -148,7 +148,7 @@ akovyakh:
       position: unknown
     - begin_year: 2016
       begin_month: 7
-      position: Visiting Student
+      position: visiting student
       position_full: Visiting PhD Researcher - U. Copenhagen
       organization: columbiau
       end_year: 2017
@@ -170,7 +170,7 @@ alappas:
   employment:
     - begin_year: 2012
       organization: forth
-      position: University Professor
+      position: professor
     - begin_year: 2014
       begin_month: 6
       position: visiting scientist
@@ -199,7 +199,7 @@ amasadeh:
       position: assistant professor
       organization: University of Jordan
     - begin_year: 2003
-      position: Research Assistant
+      position: graduate research assistant
       advisor: sbillinge
       organization: msu
       status: phd
@@ -233,25 +233,28 @@ asartbaeva:
     - begin_year: 2016
       begin_month: 9
       organization: University of Bath
-      position: Lecturer in Chemistry
+      position: lecturer
     - begin_year: 2012
       begin_month: 12
       end_month: 3
       end_year: 2019
       organization: University of Bath
-      position: Royal Society University Research Fellow
+      position: research fellow
+      position_full: Royal Society University research fellow
     - begin_year: 2011
       begin_month: 1
       end_month: 11
       end_year: 2012
       organization: University of Oxford
-      position: Royal Society University Research Fellow
+      position: research fellow
+      position_full: Royal Society University research fellow
     - begin_year: 2007
       begin_month: 8
       end_month: 12
       end_year: 2011
       organization: University of Oxford
-      position: Glasstone Fellow
+      position: research fellow
+      position_full: Glasstone Fellow
     - begin_year: 2005
       end_year: 2007
       group: bg
@@ -260,7 +263,7 @@ asartbaeva:
       organization: Arizona State University
       position: post-doctoral scholar
   name: Asel Sartbaeva
-  position: Lecturer in Chemistry
+  position: lecturer
 ashaaban:
   active: true
   aka: []
@@ -347,12 +350,12 @@ bozer:
       organization: Columbia University
       end_year: 2020
       end_month: 5
-      position: Masters Research Assistant
+      position: masters research assistant
       advisor: sbillinge
       group: bg
       status: ms
   name: Berrak Ozer
-  position: Masters Research Assistant
+  position: masters research assistant
 btabanpour:
   active: false
   aka: []
@@ -371,7 +374,7 @@ btabanpour:
       end_year: 2015
       end_month: 6
       organization: Columbia University
-      position: Masters Research Assistant
+      position: masters research assistant
       advisor: sbillinge
       group: bg
       status: ms
@@ -441,12 +444,12 @@ chliu:
       other:
         - 'Advisor: Simon Billinge'
       department: apam
-      degree: Masters Research Assistant in Applied Physics
+      degree: masters research assistant in Applied Physics
   email: cl3077@columbia.edu
   employment:
     - begin_year: 2014
       begin_month: 6
-      position: Research Associate
+      position: graduate research assistant
       organization: columbiau
       status: phd
       end_year: 2020
@@ -454,7 +457,7 @@ chliu:
       advisor: sbillinge
       group: bg
   honors:
-    - name: Margaret C. Etter Student Lecturer Award of the American Crystallographic
+    - name: Margaret C. Etter Student lecturer Award of the American Crystallographic
         Association
       year: 2019
   name: Chia-Hao (Timothy) Liu
@@ -493,7 +496,7 @@ ckkim:
     - begin_year: 2019
       begin_month: 12
       organization: Intel Corporation
-      positiont: engineer
+      position: engineer
       position_full: Manufacturing Integration Engineer
     - begin_year: 2018
       begin_month: 5
@@ -509,7 +512,7 @@ ckkim:
       status: postdoc
       advisor: sbillinge
       organization: Brookhaven National Laboratory
-      position: Research Associate
+      position: post-doctoral scholar
     - begin_year: 2007
       begin_month: 4
       end_month: 1
@@ -521,9 +524,10 @@ ckkim:
       end_month: 12
       end_year: 2007
       organization: Cornell University
-      position: Graduate Teaching Assistant
+      position: teaching assistant
   name: Chung Koo Kim
-  position: Manufacturing Integration Engineer
+  position: engineer
+  position_full: Manufacturing Integration Engineer
 cwright:
   active: false
   aka:
@@ -663,7 +667,7 @@ cwright:
         - Organized seminars with distinguished scientists, with an emphasis on talks
           on diversity and LGBTQ+ issues in STEM
       type: school
-    - name: 'Enhanced Learning Experience Lecturer: University of South Carolina'
+    - name: 'Enhanced Learning Experience lecturer: University of South Carolina'
       year: 2016
       other:
         - Presented a lecture and laboratory on electochemistry and catalysis
@@ -829,7 +833,7 @@ cyshi:
       organization: Abbott Pharmaceuticals
     - begin_year: 2012
       begin_month: 5
-      position: Research Associate
+      position: graduate research assistant
       organization: columbiau
       status: phd
       advisor: sbillinge
@@ -961,7 +965,7 @@ ebozin:
     - begin_year: 2015
       group: bg
       organization: bnl
-      position: Physicisit
+      position: physicist
       status: postdoc
     - begin_year: 2012
       end_year: 2015
@@ -1027,7 +1031,7 @@ eculbertson:
     soup and singing barbershop music.
   education:
     - institution: columbiau
-      degree: Masters Research Assistant in Applied Physics
+      degree: masters research assistant in Applied Physics
       group: bg
       other:
         - 'Advisor: Simon Billinge'
@@ -1127,14 +1131,14 @@ ekjaer:
       begin_month: 1
       end_month: 12
       end_year: 2020
-      position: Visiting Student
+      position: visiting student
       position_full: visiting PhD Researcher, U. Copenhagen
       organization: columbiau
       advisor: sbillinge
       group: bg
       status: visitor-unsupported
   name: Emil Kjaer
-  position: Visiting Student
+  position: visiting student
   position_full: visiting PhD Researcher, U. Copenhagen
 fatassi:
   active: false
@@ -1171,7 +1175,7 @@ fbertolotti:
       position: assistant professor
     - begin_year: 2016
       begin_month: 2
-      position: Visiting Student
+      position: visiting student
       organization: columbiau
       end_year: 2016
       advisor: sbillinge
@@ -1194,7 +1198,7 @@ fmohiuddin-jacobs:
     - begin_year: 2006
       begin_month: 1
       organization: Organizational Science Consulting & Research
-      position: Lecturer
+      position: lecturer
     - begin_year: 1995
       begin_month: 9
       end_month: 8
@@ -1205,7 +1209,7 @@ fmohiuddin-jacobs:
       organization: Michigan State University
       position: post-doctoral scholar
   name: Farida Mohiuddin-Jacobs
-  position: Lecturer
+  position: lecturer
 gcampi:
   active: false
   aka: []
@@ -1219,7 +1223,7 @@ gcampi:
   employment:
     - begin_year: 2008
       organization: Institute of Crystallography of the Council of National Research
-      position: researcher
+      position: scientist
     - begin_year: 2002
       position: visiting student
       organization: msu
@@ -1247,37 +1251,40 @@ gpaglia:
     - begin_year: 2019
       begin_month: 3
       organization: Worley
-      position: Manager
+      position: manager
       position_full: Senior Project Manager - Analytics
     - begin_year: 2014
       begin_month: 9
       end_month: 3
       end_year: 2019
       organization: Chevron
-      position: Manager
+      position: manager
       position_full: Program Manager - PCN Operations
     - begin_year: 2008
       begin_month: 4
       end_month: 8
       end_year: 2014
       organization: Worley
-      position: Managing Consultant - Decision Support
+      position: consultant
+      position_full: Managing Consultant - Decision Support
     - begin_year: 2008
       begin_month: 4
       end_month: 8
       end_year: 2010
       organization: Worley
-      position: Principal - Dynamic Simulation Services / Decision Support
+      position: engineer
+      position_full: Principal - Dynamic Simulation Services / Decision Support
     - begin_year: 2010
       begin_month: 8
       end_month: 9
       end_year: 2011
       organization: Argonaut
-      position: Analyst
+      position: engineer
     - begin_year: 2006
       end_year: 2007
       organization: Enerflex Systems
-      position: Project / Design / Process Engineer
+      position: engineer
+      position_full: Project / Design / Process Engineer
     - begin_year: 2004
       begin_month: 4
       end_month: 6
@@ -1290,9 +1297,10 @@ gpaglia:
     - begin_year: 2000
       end_year: 2003
       organization: Curtin Consultancy Services
-      position: Analytical Consultant
+      position: consultant
+      position_full: Analytical Consultant
   name: Gianluca Paglia
-  position: Manager
+  position: manager
   position_full: Senior Project Manager - Analytics
 hhu:
   active: false
@@ -1318,7 +1326,8 @@ hhu:
     - begin_year: 2014
       begin_month: 6
       organization: Intel Corporation
-      position: Engineer - 3D XPoint Memory Technology
+      position: engineer
+      position_full: Engineer - 3D XPoint Memory Technology
     - begin_year: 2013
       begin_month: 1
       end_month: 6
@@ -1333,15 +1342,16 @@ hhu:
       end_month: 12
       end_year: 2012
       organization: University of Illinois at Urbana-Champaign
-      position: Research Assistant
+      position: post-doctoral scholar
     - begin_year: 2003
       begin_month: 9
       end_month: 8
       end_year: 2006
       organization: University of Manitoba
-      position: Research Assistant
+      position: graduate research assistant
   name: Hefei Hu
-  position: Engineer - 3D XPoint Memory Technology
+  position: engineer
+  position_full: Engineer - 3D XPoint Memory Technology
 hlin:
   active: false
   aka: []
@@ -1361,7 +1371,7 @@ hlin:
       position: scientist
       organization: ssrf
     - begin_year: 2000
-      position: Research Assistant
+      position: graduate research assistant
       advisor: sbillinge
       organization: msu
       status: phd
@@ -1388,12 +1398,12 @@ htiwari:
       organization: Columbia University
       end_year: 2011
       end_month: 5
-      position: Masters Research Assistant
+      position: masters research assistant
       advisor: sbillinge
       group: bg
       status: ms
   name: Hrishi Tiwari
-  position: Unknown
+  position: unknown
 hvuong:
   active: true
   aka:
@@ -1431,7 +1441,7 @@ hvuong:
       status: phd
       group: bg
   name: Hung Vuong
-  position: graduate student
+  position: graduate research assistant
   skills:
     - level: proficient
       category: Programming Languages
@@ -1454,7 +1464,7 @@ hyavas:
       position: scientist
       organization: SLAC National Accelerator Laboratory
     - begin_year: 2001
-      position: Research Assistant
+      position: graduate research assistant
       advisor: sbillinge
       organization: msu
       status: phd
@@ -1480,7 +1490,7 @@ ikjeong:
       advisor: sbillinge
       group: bg
   name: Il-Kyong Jeong
-  position: Professor
+  position: professor
 jbloch:
   active: false
   aka:
@@ -1504,56 +1514,57 @@ jbloch:
     - begin_year: 2005
       begin_month: 9
       organization: University of Regensnurg
-      position: Research Fellow
+      position: research fellow
     - begin_year: 2010
       begin_month: 4
       end_month: 7
       end_year: 2010
       organization: University of Regensburg
-      position: Interim Full Professor
+      position: professor
+      position_full: Interim Full Professor
     - begin_year: 2005
       end_year: 2005
       organization: Max Planck Institute for Molecular Genetics
-      position: Research Fellow
+      position: research fellow
     - begin_year: 2004
       end_year: 2005
       group: bg
       status: postdoc
       advisor: sbillinge
       organization: Michigan State University
-      position: Research Fellow
+      position: research fellow
     - begin_year: 2003
       begin_month: 1
       end_month: 10
       end_year: 2004
       organization: Weierstrass Institute
-      position: Research Fellow
+      position: research fellow
     - begin_year: 2001
       begin_month: 1
       end_month: 12
       end_year: 2002
       organization: University of Tübingen
-      position: Research Fellow
+      position: research fellow
     - begin_year: 2000
       begin_month: 1
       end_month: 12
       end_year: 2000
       organization: University of Edinburgh
-      position: Research Fellow
+      position: research fellow
     - begin_year: 1998
       begin_month: 9
       end_month: 12
       end_year: 1999
       organization: Argonne National Laboratory
-      position: Research Fellow
+      position: research fellow
     - begin_year: 1996
       begin_month: 9
       end_month: 8
       end_year: 1998
       organization: University of Groningen
-      position: Research Fellow
+      position: research fellow
   name: Jacques Bloch
-  position: Research Fellow
+  position: research fellow
 jcalamari:
   active: false
   aka:
@@ -1587,7 +1598,7 @@ jcalamari:
       organization: The Billinge Group, Columbia University
       status: undergrad
     - end_year: 2017
-      position: Undergraduate Research Fellow
+      position: undergraduate research assistant
       location: Gaithersburg, MD
       begin_year: 2017
       organization: National Institute of Standards and Technology
@@ -1745,7 +1756,7 @@ jwzang:
       begin_year: 2019
       location: New York, NY
       department: Physics
-      degree: Masters Research Assistant in Physics
+      degree: masters research assistant in Physics
     - institution: Fudan University
       degree: BS in Physics
       begin_year: 2015
@@ -1823,7 +1834,8 @@ kknox:
     - begin_year: 2015
       begin_month: 7
       organization: J.P. Morgan
-      position: Vice President
+      position: president
+      position_full: Vice President
     - begin_year: 2011
       begin_month: 7
       end_month: 6
@@ -1841,7 +1853,8 @@ kknox:
       organization: Columbia University
       position: graduate research assistant
   name: Kevin Knox
-  position: Vice President
+  position: president
+  position_full: Vice President
 kloza:
   active: false
   aka: []
@@ -1858,7 +1871,7 @@ kloza:
       position: unknown
     - begin_year: 2014
       begin_month: 4
-      position: Visiting student
+      position: visiting student
       organization: columbiau
       advisor: sbillinge
       group: bg
@@ -1880,7 +1893,8 @@ kseth:
     - begin_year: 2020
       begin_month: 1
       organization: Columbia University
-      position: Fulbright Research Scholar - PhD student GNDA University Amritsar
+      position: visiting student
+      position_full: Fulbright Research Scholar - PhD student GNDA University Amritsar
       end_year: 2020
       advisor: sbillinge
       end_month: 7
@@ -1939,7 +1953,7 @@ lyang:
       advisor: sbillinge
       group: bg
   name: Long Yang
-  position: Graduate Student
+  position: graduate research assistant
 mdapiaggi:
   active: false
   aka: []
@@ -2029,13 +2043,13 @@ mkarlsen:
       end_year: 2021
       end_month: 5
       organization: columbiau
-      position: Visiting Student
+      position: visiting student
       position_full: Visiting PhD Researcher, U. Southern Denmark
       advisor: sbillinge
       group: bg
       status: visitor-unsupported
   name: Martin A. Karlsen
-  position: Visiting Student
+  position: visiting student
   position_full: Visiting PhD Researcher, U. Southern Denmark
 mkemali:
   active: false
@@ -2078,7 +2092,7 @@ moneebshatnawi:
       position: associate professor
       organization: University of Jordan
     - begin_year: 2004
-      position: Research Assistant
+      position: graduate research assistant
       advisor: sbillinge
       organization: msu
       status: phd
@@ -2106,7 +2120,7 @@ mouathshatnawi:
       position: associate professor
       organization: Hashemite University
     - begin_year: 2001
-      position: Research Assistant
+      position: graduate research assistant
       advisor: sbillinge
       organization: msu
       status: phd
@@ -2235,7 +2249,8 @@ mwaddell:
       end_year: 2016
       position: intern
     - organization: Goldman Sachs
-      position: Analyst
+      position: programmer
+      position_full: Analyst
       begin_year: 2017
       end_year: 2018
   github_id: Mwaddellcolumbia
@@ -2281,7 +2296,7 @@ nfuller:
       end_month: 8
       advisor: sbillinge
       status: ms
-      position: Researcher
+      position: masters research assistant
       group: bg
   name: Neno Fuller
   position: masters research assistant
@@ -2460,7 +2475,7 @@ ppeterson:
       position_full: Software Engineer
       organization: Oak Ridge National Laboratory
     - begin_year: 1999
-      position: Research Assistant
+      position: graduate research assistant
       advisor: sbillinge
       organization: msu
       status: phd
@@ -2545,7 +2560,7 @@ rdifrancesco:
       position_full: Senior Support Consultant
       organization: SAP
     - begin_year: 1992
-      position: Research Assistant
+      position: graduate research assistant
       advisor: sbillinge
       organization: msu
       status: phd
@@ -2665,7 +2680,7 @@ rpokratath:
   employment:
     - begin_year: 2020
       begin_month: 1
-      position: Visiting Student
+      position: visiting student
       position_full: Visiting PhD Researcher - U. Basel
       organization: columbiau
       end_year: 2020
@@ -2675,13 +2690,13 @@ rpokratath:
       status: visitor-unsupported
     - begin_year: 2015
       begin_month: 4
-      position: Engineer
+      position: engineer
       position_full: Process Engineer
       organization: Global SS Constructions Pvt. Ltd.
       end_year: 2017
       end_month: 4
   name: Rohan Pokratath
-  position: visitor
+  position: visiting student
 rzyu:
   active: false
   aka:
@@ -2724,7 +2739,7 @@ sbandi:
       institution: Columbia University
       group: bg
     - begin_year: 2019
-      degree: Masters Research Assistant
+      degree: masters research assistant
       institution: columbiau
       department: apam
       group: bg
@@ -2739,7 +2754,7 @@ sbandi:
       end_month: 6
       group: bg
   name: Sasaank Bandi
-  position: Graduate Student
+  position: graduate research assistant
 sbanerjee:
   active: false
   aka:
@@ -2757,7 +2772,7 @@ sbanerjee:
       location: New York, NY
       department: apam
       advisor: sbillinge
-      degree: Masters Research Assistant in Applied Physics
+      degree: masters research assistant in Applied Physics
       other:
         - 'Advisor: Simon Billinge'
     - institution: Wake Forest University
@@ -2905,7 +2920,7 @@ sbillinge:
         - 'Full title: Professor of Materials Science and of Applied Physics and of
           Applied Mathematics'
       department: Applied Physics and Applied Mathematics
-      position: Professor
+      position: professor
       status: pi
     - organization: iucr
       begin_year: 2011
@@ -2947,7 +2962,7 @@ sbillinge:
       status: pi
     - department: Physics and Astronomy
       organization: Michigan State University
-      position: Professor
+      position: professor
       begin_year: 2003
       end_year: 2007
       status: pi
@@ -2972,7 +2987,7 @@ sbillinge:
     - department: Materials Science and Technology
       organization: Los Alamos National Laboratory
       position: post-doctoral scholar
-      position_full: Director's Post-doctoral Research Fellow
+      position_full: Director's Post-doctoral research fellow
       advisor: George Kwei
       begin_year: 1992
       end_year: 1994
@@ -3016,7 +3031,7 @@ sbillinge:
     - year: 1998
       name: Thomas H. Osgood Undergraduate Teaching Award
     - year: 1995
-      name: Alfred P. Sloan Research Fellowship
+      name: Alfred P. Sloan research fellowship
     - year: 1992
       name: Sigma Xi Outstanding thesis award, U. Pennsylvania
     - year: 1992
@@ -3115,7 +3130,7 @@ sharouna-mayer:
     - begin_year: 2019
       begin_month: 12
       position: masters research assistant
-      position_full: Visiting Masters Research Assistant - U. Hamburg
+      position_full: Visiting masters research assistant - U. Hamburg
       organization: Columbia University
       end_year: 2020
       end_month: 8
@@ -3154,7 +3169,7 @@ smayers:
       group: bg
       status: undergrad
   name: Sam Mayers
-  position: undergrad
+  position: undergraduate research assistant
 spattanaik:
   active: false
   aka: []
@@ -3187,11 +3202,11 @@ sskjaervoe:
       end_month: 6
       organization: columbiau
       advisor: sbillinge
-      position: Research Associate
+      position: post-doctoral scholar
       group: bg
       status: postdoc
   name: Sandra H. Skjaervoe
-  position: Research Associate
+  position: post-doctoral scholar
   title: Dr.
 sstao:
   active: true
@@ -3202,7 +3217,7 @@ sstao:
     - Tao, S.
   avatar: https://github.com/st3107.png
   bio: Songsheng grew up in Beijing, China. He attended Peking University where he
-    earned a B. S. in physics. As a Masters Research Assistant track student in Columbia
+    earned a B. S. in physics. As a masters research assistant track student in Columbia
     University, he joined the Billinge Group in fall 2018 and is currently working
     on developing tools for texture analysis and using pair distribution functions
     for structure analysis. In his spare time, he enjoys board games and computer
@@ -3214,7 +3229,7 @@ sstao:
       location: New York, NY
       advisor: sbillinge
       department: apam
-      degree: Masters Research Assistant in Applied Physics
+      degree: masters research assistant in Applied Physics
       other:
         - 'Advisor: Simon Billinge'
     - institution: Peking University
@@ -3233,7 +3248,7 @@ sstao:
       group: bg
   name: Songsheng Tao
   orcid_id: 0000-0002-7565-3503
-  position: Graduate Student
+  position: graduate research assistant
 swhan:
   active: false
   aka: []
@@ -3273,7 +3288,7 @@ syxue:
       advisor: sbillinge
       status: undergrad
   name: Shuyue Xue
-  position: Researcher
+  position: undergraduate research assistant
 tcaswell:
   active: false
   aka:
@@ -3295,7 +3310,7 @@ tcaswell:
       position: adjunct professor
       organization: columbiau
       group: bg
-      status: guest
+      status: adjunct
     - begin_year: 2017
       begin_month: 1
       position: associate scientist
@@ -3312,7 +3327,7 @@ tcaswell:
       end_month: 4
       begin_year: 2014
       begin_month: 1
-      position: Research Associate
+      position: post-doctoral scholar
       organization: bnl
   name: Thomas Caswell
   position: associate scientist
@@ -3332,16 +3347,16 @@ tdavis:
       advisor: sbillinge
   employment:
     - begin_year: 2019
-      position: Manager
+      position: manager
       position_full: Investment lead
       organization: Munich Re Venture
     - begin_year: 2013
-      position: Manager
+      position: manager
       position_full: Investment Manager
       organization: Samsung Venture Investment
       end_year: 2018
     - begin_year: 2009
-      position: Research Assistant
+      position: graduate research assistant
       advisor: sbillinge
       organization: columbiau
       status: phd
@@ -3381,7 +3396,7 @@ tproffen:
       end_month: 10
       end_year: 2012
       organization: Oak Ridge National Laboratory
-      position: Manager
+      position: manager
       position_full: Diffraction Group Leader
     - begin_year: 2017
       begin_month: 1
@@ -3428,7 +3443,7 @@ vgharakhanyan:
       group: bg
       status: ms
   name: Vahe Gharakhanyan
-  position: Graduate Student
+  position: graduate research assistant
 vlin:
   active: true
   aka: []
@@ -3551,7 +3566,8 @@ xhyang:
       department: nyc
     - begin_year: 2015
       begin_month: 8
-      position: Associate
+      position: engineer
+      position_full: Associate
       organization: JP Morgan Chase
       end_month: 4
       end_year: 2018
@@ -3621,7 +3637,7 @@ xyun:
       position: undergraduate research assistant
       organization: Columbia University
   name: Xin Yun
-  position: Graduate Student
+  position: graduate research assistant
 yjhu:
   active: false
   aka:
@@ -3660,7 +3676,7 @@ ylin:
   employment:
     - begin_year: 2015
       begin_month: 7
-      position: Engineer
+      position: engineer
       position_full: Senior Process Engineer
       organization: GLOBALFOUNDRIES
     - begin_year: 2014
@@ -3673,7 +3689,7 @@ ylin:
       group: bg
       status: ms
   name: Yarong Lin
-  position: Engineer
+  position: engineer
   position_full: Senior Process Engineer
 yrakita:
   active: true
@@ -3884,7 +3900,7 @@ zzgong:
   bio: bio
   education:
     - institution: columbiau
-      degree: Masters Research Assistant in Physics
+      degree: masters research assistant in Physics
       group: bg
       advisor: sbillinge
       other:
