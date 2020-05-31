@@ -11,12 +11,663 @@
     "updated": {
      "description": "The time when the entry was updated",
      "required": false,
-     "type": "string",
+     "type": "string"
     },
    "uuid": {
     "description": "A universal ID for the entry",
     "required": false,
     "type": "string"}
-    }
- }
+    },
+ "people": {
+         "_description": {
+             "description": "This collection describes the members of the "
+         },
+         "_id": {
+             "description": "unique identifier for the group member",
+             "required": true,
+             "type": "string"
+         },
+         "active": {
+             "description": "If the person is an active member, default true.",
+             "required": false,
+             "type": "boolean"
+         },
+         "aka": {
+             "description": "list of aliases (also-known-as), useful for identifying the group member in citations or ",
+             "required": true,
+             "type": ["string", "list"]
+         },
+         "appointments": {
+             "type": "dict",
+             "required": false,
+             "description": "begin and end date, grant loading status and notes about appointments"
+         },
+         "activities": {
+             "type": "list",
+             "required": false,
+             "description": "activities may be teaching or research things",
+             "schema": {
+                 "type": "dict",
+                 "schema": {
+                     "day": {
+                         "required": false,
+                         "description": "the day the activity took place",
+                         "type": "integer"
+                     },
+ 
+                     "type": {
+                         "required": true,
+                         "description": "the type of the acitivity",
+                         "type": "string",
+                         "eallowed": ["teaching", "research"]
+                     },
+                     "month": {
+                         "required": false,
+                         "description": "the month the activity took place",
+                         "anyof_type": ["integer","string"]
+                     },
+                     "name": {
+                         "required": true,
+                         "description": "brief statement of the activity",
+                         "type": "string"
+                     },
+                     "other": {
+                         "required": false,
+                         "description": "longer statement of the activity",
+                         "type": "string"
+                     },
+                     "year": {
+                         "required": true,
+                         "description": "the year the activity took place",
+                         "type": "integer"
+                     }
+                 }
+             }
+         },
+         "avatar": {"description": "URL to avatar", "required": true,
+                    "type": "string"},
+         "bio": {
+             "description": "short biographical text",
+             "required": true,
+             "type": "string"
+         },
+         "bios": {
+             "description": "longer biographical text if needed",
+             "required": false,
+             "anyof_type": ["string","list"]
+         },
+         "collab": {
+             "description": "If the person is a collaborator, default false.",
+             "required": false,
+             "type": "boolean"
+         },
+         "committees": {
+             "description": "Committees that are served on",
+             "required": false,
+             "schema": {
+                 "type": "dict",
+                 "schema": {
+                     "name": {"required": true, "type": "string",
+                              "description": "name of committee, or person if it"},
+                     "day": {"required": false, "type": "integer"},
+                     "month": {"required": false,
+                               "anyof_type": ["string", "integer"]
+                                     },
+                     "notes": {"required": false,
+                               "description": "extra things you want to record about the thing",
+                               "anyof_type": ["string", "list"]
+                                     },
+                     "year": {"required": true, "type": "integer"},
+                     "unit": {"required": false, "type": "string",
+                              "description": "name of department or school etc."},
+                     "type": {"required": false, "type": "string",
+                              "description": "type of committee, department, school, university, external",
+                              "eallowed": ["phdoral", "phddefense", "phdproposal","promotion"]},
+                     "level": {
+                         "required": true,
+                         "type": "string",
+                         "description": "department or school or university, or external",
+                         "eallowed": ["department", "school", "university", "external"]
+                     },
+                     "group": {
+                         "required": false,
+                         "type": "string",
+                         "description": "this employment is/was in"
+                     }
+                 }
+             },
+             "type": "list"
+         },
+         "education": {
+             "description": "This contains the educational information for ",
+             "required": true,
+             "schema": {
+                 "type": "dict",
+                 "schema": {
+                     "advisor": {"required": false, "type": "string"},
+                     "begin_day": {"required": false,
+                                   "type": "integer"},
+                     "begin_month": {"required": false,
+                                     "anyof_type": ["string", "integer"]
+                                     },
+                     "begin_year": {"required": true, "type": "integer"},
+                     "degree": {"required": true, "type": "string"},
+                     "department": {
+                         "required": false,
+                         "type": "string",
+                         "description": "department withinthe institution"
+                     },
+                     "group": {
+                         "required": false,
+                         "type": "string",
+                         "description": "this employment is/was in"
+                     },
+                     "end_day": {"required": false,
+                                 "type": "integer"},
+                     "end_month": {"required": false,
+                                   "anyof_type": ["string", "integer"]
+                                   },
+                     "end_year": {"required": false, "type": "integer"},
+                     "gpa": {"required": false, "anyof_type": ["float", "string"]},
+                     "institution": {"required": true, "type": "string"},
+                     "location": {"required": false, "type": "string"},
+                     "other": {"required": false, "type": "list"}
+                 }
+             },
+             "type": "list"
+         },
+         "email": {
+             "description": "email address of the group member",
+             "required": false,
+             "type": "string"
+         },
+         "employment": {
+             "description": "Employment information, similar",
+             "required": false,
+             "type": "list",
+             "schema": {
+                 "type": "dict",
+                 "schema": {
+                     "advisor": {"required": false, "type": "string"},
+                     "begin_day": {"required": false, "type": "integer"},
+                     "begin_month": {"required": false,
+                                     "anyof_type": ["string", "integer"]
+                                     },
+                     "begin_year": {"required": true, "type": "integer"},
+                     "coworkers": {"required": false, "type": "list",
+                                   "description": "list of coworkers.  If"},
+                     "department": {"required": false, "type": "string"},
+                     "end_day": {"required": false, "type": "integer"},
+                     "end_month": {"required": false,
+                                   "anyof_type": ["string", "integer"]
+                                   },
+                     "end_year": {"required": false, "type": "integer"},
+                     "group": {
+                         "required": false,
+                         "type": "string",
+                         "description": "this employment is/was in"
+                     },
+                     "location": {"required": false, "type": "string"},
+                     "organization": {"required": true, "type": "string"},
+                     "other": {"required": false, "type": "list"},
+                     "position": {"required": true, "type": "string",
+                                  "eallowed": ["things"]},
+                     "position_full": {
+                         "description": "The full on title of the position.",
+                         "required": false,
+                         "type": "string"
+                     },
+                     "status": {"required": false, "type": "string", "eallowed": [
+                         "pi",
+                         "adjunct",
+                         "high-school",
+                         "undergrad",
+                         "ms",
+                         "phd",
+                         "postdoc",
+                         "visitor-supported",
+                         "visitor-unsupported"]
+                     }
+                 }
+             }
+         },
+         "facilities": {
+             "type": "list",
+             "required": false,
+             "description": "facilities may be teaching or research things",
+             "schema": {
+                 "type": "dict",
+                 "schema": {
+                     "begin_day": {
+                         "required": false,
+                         "description": "the day facility, or the wish for the ",
+                         "type": "integer"
+                     },
+                     "end_day": {
+                         "required": false,
+                         "description": "the day facility started",
+                         "type": "integer"
+                     },
+                     "type": {
+                         "required": true,
+                         "description": "the type of the facility. Columbia asks",
+                         "type": "string",
+                         "eallowed": ["teaching", "research", "shared", "other", "teaching_wish",
+                                      "research_wish"]
+                     },
+                     "begin_month": {
+                         "required": false,
+                         "description": "the month the facility (or wish) started",
+                         "anyof_type": ["integer","string"]
+                     },
+                     "end_month": {
+                         "required": false,
+                         "description": "the month the faclity went away",
+                         "anyof_type": ["integer","string"]
+                     },
+                     "name": {
+                         "required": true,
+                         "description": "description of the facility",
+                         "type": "string"
+                     },
+                     "notes": {
+                         "required": false,
+                         "description": "anything else you want to jot down",
+                         "anyof_type": ["string", "list"]
+                     },
+                     "begin_year": {
+                         "required": true,
+                         "description": "the year the facility (or wish) started",
+                         "type": "integer"
+                     },
+                     "end_year": {
+                         "required": false,
+                         "description": "the year the facility (or wish) went away",
+                         "type": "integer"
+                     }
+                 }
+             }
+         },
+         "funding": {
+             "description": "Funding and scholarship that the",
+             "required": false,
+             "schema": {
+                 "type": "dict",
+                 "schema": {
+                     "currency": {"required": false, "type": "string"},
+                     "duration": {"required": false, "type": "string"},
+                     "month": {"required": false,
+                               "anyof_type": ["string", "integer"]
+                               },
+                     "name": {"required": true, "type": "string"},
+                     "value": {"required": true, "anyof_type": ["float", "integer"]},
+                     "year": {"required": true, "type": "integer"}
+                 }
+             },
+             "type": "list"
+         },
+         "github_id": {"required": false, "type": "string",
+                        "description": "Your GitHub ID"},
+         "google_scholar_url": {"required": false, "type": "string",
+                                "description": "URL of your Google Scholar"},
+         "hindex": {
+             "description": "details of hindex pulled on a certain date",
+             "required": false,
+             "schema": {
+                 "type": "dict",
+                 "schema": {
+                     "h": {"description": "the value of the h index",
+                           "required": true, "type": "integer"},
+                     "h_last_five": {"description": "h index over past 5 years",
+                           "required": false, "type": "integer"},
+                     "citations": {"description": "total number of citations",
+                           "required": false, "type": "integer"},
+                     "citations_last_five": {"description": "number",
+                                   "required": false, "type": "integer"},
+                     "origin": {"description": "where the numbers came from",
+                                   "required": false, "type": "string"},
+                     "since": {"description": "year of first citation",
+                                   "required": false, "type": "integer"},
+                     "year": {"description": "year when the data were pulled",
+                                   "required": false, "type": "integer"},
+                     "month": {"description": "month when the data were pulled",
+                                "required": false, "anyof_type": ["string","integer"]},
+                     "day": {"description": "day when the data were pulled",
+                                   "required": false, "type": "integer"}
+                 }
+             },
+             "type": "list"
+         },
+         "home_address": {
+             "description": "The person's home address",
+             "type": "dict",
+             "schema": {
+                 "street": {"type": "string", "description": "street address"},
+                 "city": {"type": "string", "description": "name of home city"},
+                 "state": {"type": "string", "description": "name o home state"},
+                 "zip": {"type": "string", "description": "zip code"}
+             }
+         },
+         "honors": {
+             "description": "Honors that have been awarded to this",
+             "required": false,
+             "schema": {
+                 "type": "dict",
+                 "schema": {
+                     "description": {"required": false, "type": "string"},
+                     "month": {"required": false,
+                               "anyof_type": ["string", "integer"]
+                               },
+                     "name": {"required": true, "type": "string"},
+                     "year": {"required": true, "type": "integer"}
+                 }
+             },
+             "type": "list"
+         },
+         "initials": {
+             "description": "The canonical initials for this group member",
+             "required": false,
+             "type": "string"
+         },
+         "membership": {
+             "description": "Professional organizations this member is" ,
+             "required": false,
+             "schema": {
+                 "type": "dict",
+                 "schema": {
+                     "begin_month": {"required": false,
+                                     "anyof_type": ["string", "integer"]
+                                     },
+                     "begin_year": {"required": true, "type": "integer"},
+                     "description": {"required": false, "type": "string"},
+                     "end_month": {"required": false,
+                                   "anyof_type": ["string", "integer"]
+                                   },
+                     "end_year": {"required": false, "type": "integer"},
+                     "organization": {"required": true, "type": "string"},
+                     "position": {"required": true, "type": "string"},
+                     "website": {"required": false, "type": "string"}
+                 }
+             },
+             "type": "list"
+         },
+         "miscellaneous": {
+             "description": "Place to put weird things needed for special reporta",
+             "required": false,
+             "type": "dict",
+             "schema": {
+                 "metrics_for_success": {
+                     "description": "How do I want to be judged",
+                     "required": false,
+                     "type": "list"
+                 }
+             }
+         },
+         "name": {
+             "description": "Full, canonical name for the person",
+             "required": true,
+             "type": "string"
+         },
+         "office": {
+             "description": "The person's office",
+             "type": "string",
+             "required": false
+         },
+         "orcid_id": {
+             "description": "The ORCID ID of the person",
+             "required": false,
+             "type": "string"
+         },
+         "position": {
+             "description": "such as professor, graduate student, or scientist",
+             "required": false,
+             "type": "string",
+             "eallowed": ["things"]
+         },
+         "position_full": {
+             "description": "The full on title of the position. ",
+             "required": false,
+             "type": "string"
+         },
+         "publicity": {
+             "description": "summary of publicity that person has received",
+             "required": false,
+             "schema": {
+                 "type": "dict",
+                 "schema": {
+                     "type": {"required": true, "type": "string",
+                              "eallowed": ["online", "article"]},
+                     "topic": {"required": false, "type": "string",
+                               "description": "short blurb about what it was"},
+                     "title": {"required": true, "type": "string"},
+                     "day": {"required": false, "type": "integer"},
+                     "month": {"required": false, "anyof_type": ["string",
+                                                                 "integer"]},
+                     "publication": {"required": false, "type": "string"},
+                     "text": {"required": false, "type": "string"},
+                     "url": {"required": false, "type": "string"},
+                     "year": {"required": true, "type": "integer"},
+                     "grant": {"required": true, "type": "string"}
+                 }
+             },
+             "type": "list"
+         },
+         "research_focus_areas": {
+             "description": "summary of research projects that",
+             "required": false,
+             "schema": {
+                 "type": "dict",
+                 "schema": {
+                     "begin_year": {"required": false, "type": "integer"},
+                     "end_year": {"required": false, "type": "integer"},
+                     "description": {"required": false, "type": "string"}
+                 }
+             },
+             "type": "list"
+         },
+         "research_summary": {
+             "description": "Brief summary of overarching research goals",
+             "required": false,
+             "type": "string"
+         },
+         "service": {
+             "description": "Service that this group member has provided",
+             "required": false,
+             "schema": {
+                 "type": "dict",
+                 "schema": {
+                     "description": {"required": false, "type": "string"},
+                     "duration": {"required": false, "type": "string"},
+                     "month": {"description": "Use month and year if the service",
+                               "required": false,
+                               "anyof_type": ["string", "integer"]
+                               },
+                     "name": {"required": true, "type": "string"},
+                     "role": {"required": false, "type": "string",
+                              "description": "the role played in the activity, e.g., co-chair"},
+                     "notes": {"required": false, "anyof_type": ["string", "list"]},
+                     "year": {"required": false, "type": "integer"},
+                     "begin_year": {"required": false, "type": "integer"},
+                     "begin_day": {"required": false, "type": "integer"},
+                     "begin_month": {"description": "Use month and year if the service",
+                               "required": false,
+                               "anyof_type": ["string", "integer"]
+                               },
+                     "end_year": {"required": false, "type": "integer"},
+                     "end_month": {"description": "Use month and year if the service",
+                               "required": false,
+                               "anyof_type": ["string", "integer"]
+                               },
+                     "end_day": {"required": false, "type": "integer"},
+                     "other": {"required": false,
+                               "anyof_type": ["string", "list"]},
+                     "type": {"required": true, "type": "string",
+                              "description": "profession, department, school, university",
+                              "eallowed": ["profession", "university",
+                                           "school", "department"]}
+                 }
+             },
+             "type": "list"
+         },
+         "skills": {
+             "description": "Skill the group member has",
+             "required": false,
+             "schema": {
+                 "type": "dict",
+                 "schema": {
+                     "category": {"required": true, "type": "string"},
+                     "level": {"required": true, "type": "string"},
+                     "name": {"required": true, "type": "string"}
+                 }
+             },
+             "type": "list"
+         },
+         "teaching": {
+             "description": "Courses that this group member has taught, if any",
+             "required": false,
+             "type": "list",
+             "schema": {
+                 "type": "dict",
+                 "schema": {
+                     "course": {"required": true, "type": "string"},
+                     "courseid": {"required": true, "type": "string"},
+                     "description": {"required": false, "type": "string"},
+                     "end_month": {"required": false,
+                                   "anyof_type": ["string", "integer"]},
+                     "end_year": {"required": false, "type": "integer"},
+                     "enrollment": {"required": false, "anyof_type": ["integer","string"]},
+                     "evaluation": {
+                         "type": "dict",
+                         "required": false,
+                         "schema": {
+                             "response_rate": {"type": "number", "required": true},
+                             "amount_learned": {"type": "number", "required": true},
+                             "appropriateness_workload": {"type": "number", "required": true},
+                             "course_overall": {"type": "number", "required": true},
+                             "fairness_grading": {"type": "number", "required": true},
+                             "organization": {"type": "number", "required": true},
+                             "classroom_delivery": {"type": "number", "required": true},
+                             "approachability": {"type": "number", "required": true},
+                             "instructor_overall": {"type": "number", "required": true},
+                             "comments": {"type": "list","required": false,
+                                          "description": "student comments"}
+                             }
+                         },
+                     "materials": {"required": false, "type": "string"},
+                     "month": {"required": false,
+                               "anyof_type": ["string", "integer"]
+                               },
+                     "organization": {"required": true, "type": "string"},
+                     "position": {"required": true, "type": "string"},
+                     "semester": {"required": false, "type": "string"},
+                     "syllabus": {"required": false, "type": "string"},
+                     "video": {"required": false, "type": "string"},
+                     "website": {"required": false, "type": "string"},
+                     "year": {"required": true, "type": "integer"}
+                 }
+             }
+         },
+         "title": {
+             "description": "for example, Dr., etc.",
+             "required": false,
+             "type": "string"
+         }
+     },
+     "presentations": {
+         "_description": {
+             "description": "This collection describes presentations that group"
+         },
+         "_id": {
+             "description": "unique id for the presentation",
+             "required": true,
+             "type": "string"
+         },
+         "abstract": {
+             "description": "abstract of the presentation",
+             "required": false,
+             "type": "string"
+         },
+         "authors": {
+             "description": "Author list.",
+             "required": true,
+             "anyof_type": ["string", "list"]
+         },
+         "begin_year": {
+             "description": "year the conference or trip begins.",
+             "required": true,
+             "type": "integer"
+         },
+         "begin_month": {"required": true,
+                         "anyof_type": ["string", "integer"]
+                         },
+         "begin_day": {"required": false, "type": "integer"},
+         "department": {
+             "description": "department of the institution",
+             "required": false,
+             "type": "string"
+         },
+         "end_year": {
+             "description": "year the conference or trip ends",
+             "required": false,
+             "type": "integer"
+         },
+         "end_month": {"required": false,
+                       "anyof_type": ["string", "integer"]
+                       },
+         "end_day": {"required": false, "type": "integer"},
+         "institution": {
+             "description": "institution where the",
+             "required": false,
+             "type": "string"
+         },
+         "meeting_name": {
+             "description": "full name of the conference or",
+             "required": false,
+             "type": "string"
+         },
+         "location": {
+             "description": "city and {state or country} of meeting",
+             "required": false,
+             "type": "string"
+         },
+         "notes": {
+             "description": "any reminder or memory aid about anything",
+             "required": false,
+             "anyof_type": ["list", "string"]
+         },
+         "project": {
+             "description": "project or list of projects that this",
+             "required": false,
+             "anyof_type": ["string", "list"]
+         },
+         "status": {
+             "description": "Is the application in prep or submitted, ",
+             "required": true,
+             "type": "string",
+             "eallowed": ["in-prep", "submitted", "accepted", "declined",
+                          "cancelled"]
+         },
+         "title": {
+             "description": "title of the presentation",
+             "required": true,
+             "type": "string"
+         },
+         "type": {
+             "description": "type of presentation",
+             "eallowed": [
+                 "award",
+                 "colloquium",
+                 "contributed_oral",
+                 "invited",
+                 "keynote",
+                 "plenary",
+                 "poster",
+                 "seminar",
+                 "tutorial"
+             ],
+             "required": true,
+             "type": "string"
+         }
+     }
+  }
 }
