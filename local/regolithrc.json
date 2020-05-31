@@ -8,6 +8,12 @@
  ],
  "schemas": {
   "people": {
+   "position_full": {
+    "type": "string"
+   },
+   "bios": {
+    "anyof_type": ["string", "list"]
+   },
    "employment": {
     "type": "list",
     "schema": {
@@ -17,6 +23,10 @@
        "required":  false,
        "type": "string",
        "description": "name or id of advisor"
+      },
+      "position_full": {
+       "required":  false,
+       "type": "string"
       },
       "coworkers": {
        "required":  false,
@@ -35,6 +45,18 @@
        "required":  false,
        "type": "string",
        "description": "name or id of advisor"
+      }
+     }
+    }
+   },
+   "service": {
+    "type": "list",
+    "schema": {
+     "type": "dict",
+     "schema": {
+      "type": {
+       "required":  false,
+       "type": "string"
       }
      }
     }
