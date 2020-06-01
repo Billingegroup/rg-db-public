@@ -3089,8 +3089,14 @@ sghose:
   active: true
   aka: []
   avatar: https://github.com/shogho0.png
-  bio: bio
-  education: []
+  bio: Shomik is from Houston, Texas and is an undergraduate student studying computer
+    science in Columbia's School of Engineering and Applied Sciences. He joined in
+    the Billinge Group starting in summer 2020.
+  education:
+    - begin_year: 2019
+      degree: BS in Computer Science
+      institution: Columbia University (SEAS)
+      end_year: 2023
   email: sg3789@columbia.edu
   employment:
     - begin_year: 2020
