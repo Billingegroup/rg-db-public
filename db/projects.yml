@@ -77,6 +77,30 @@ pytentiostat:
   other: []
   repo: https://github.com/juami/pytentiostat
   team:
+    - name: sbillinge
+      position: mentor
+      begin_year: 2016
+    - name: mspence
+      position: developer
+      begin_year: 2019
+    - name: jhitt
+      position: developer
+      begin_year: 2019
+    - name: aplymill
+      position: lead developer
+      begin_year: 2019
+    - name: sbillinge
+      position: mentor
+      begin_year: 2016
+    - name: mspence
+      position: developer
+      begin_year: 2019
+    - name: jhitt
+      position: developer
+      begin_year: 2019
+    - name: aplymill
+      position: lead developer
+      begin_year: 2019
     - position: Lead Developer
       name: aplymill
       begin_year: 2019
@@ -105,6 +129,24 @@ xpdAcq:
     - packages include xpdAcq, xpdAn, xpdSim, xpdtools
   repo: https://github.com/xpdAcq
   team:
+    - name: sbillinge
+      position: mentor
+      begin_year: 2016
+    - name: cwright
+      position: leaddeveloper
+      begin_year: 2016
+    - name: chliu
+      position: developer
+      begin_year: 2016
+    - name: sbillinge
+      position: mentor
+      begin_year: 2016
+    - name: cwright
+      position: leaddeveloper
+      begin_year: 2016
+    - name: chliu
+      position: developer
+      begin_year: 2016
     - position: Lead Developer
       name: Songsheng Tao
       begin_year: 2020
