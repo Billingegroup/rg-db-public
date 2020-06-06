@@ -127,12 +127,12 @@ aejaz:
     enumerative discrete geometry on the optimal partitioning of n-dimensional spheres by hyperplanes. She is interested
     in the application of distance geometry to the nanostructure problem.
   education:
-    begin_year: 2019
-    begin_month: 9
-    institution: columbiau
-    degree: B.A. Mathematics and Computer Science
-    end_year: 2023
-    end_month: 5
+    - begin_year: 2019
+      begin_month: 9
+      institution: columbiau
+      degree: B.A. Mathematics and Computer Science
+      end_year: 2023
+      end_month: 5
   email: 'adiba.ejaz@columbia.edu '
   employment:
     - begin_year: 2020
