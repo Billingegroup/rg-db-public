@@ -3800,10 +3800,21 @@ yztao:
   position: post-doctoral scholar
 zcliu:
   active: true
-  aka: []
+  aka:
+    - Zicheng Liu
+    - Taylor Liu
   avatar: https://github.com/zichengliu1997.png
-  bio: bio
-  education: []
+  bio: Zicheng is from Guangzhou, China. He has spent the last year working as an undergraduate
+    rsearch assistant in the plasma physics laboratory at Columbia University while majoring
+    in applied physics. He joined Dr. Billinge's group in the summer of 2020 as a visiting
+    undergraduate research assistant. For his GitHub ID, use zichengliu1997.
+  education:
+    - begin_year: 2015
+      begin_month: 8
+      degree: BS in Applied Physics & BA in Pre-engineering
+      institution: Columbia University & Bard College at Simon's Rock
+      end_year: 2020
+      end_month: 5
   email: zl2754@columbia.edu
   employment:
     - begin_year: 2020
@@ -3815,6 +3826,13 @@ zcliu:
       group: bg
       advisor: sbillinge
       status: undergrad
+    - begin_year: 2019
+      begin_month: 5
+      organization: Plasma Physics Laboratory at Columbia University
+      department: Applied Physics and Applied Mathematics
+      position: undergraduate research assistant
+      end_year: 2020
+      end_month: 5
   name: Zicheng "Taylor" Liu
   position: undergraduate research assistant
 zguguchia:
