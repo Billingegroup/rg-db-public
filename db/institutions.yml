@@ -143,8 +143,8 @@ bardcsr:
   city: Great Barrington
   country: USA
   departments:
-    physics:
-      Department of Science, Mathematics, and Computing
+    smc:
+      name: Science, Mathematics, and Computing
   name: Bard College at Simon's Rock
   state: MA
   zip: '01230'
