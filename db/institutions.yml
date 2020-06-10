@@ -144,7 +144,7 @@ bardcsr:
   country: USA
   departments:
     smc:
-      name: Science, Mathematics, and Computing
+      name: Department of Science, Mathematics, and Computing
   name: Bard College at Simon's Rock
   state: MA
   zip: '01230'
