@@ -120,12 +120,13 @@ aejaz:
     - Adiba E.
     - Ejaz, Adiba
   avatar: https://github.com/adibaejaz.png
-  github_id: adibaejaz
-  bio: Adiba is an undergraduate at Columbia College from Dubai, U.A.E. majoring in Math and Computer Science. She
-    joined the Billinge Group as a research assistant in May 2020. She has experience with proof-based analysis and
-    algebra; introductory statistics; and data structures in Java and Python, and has previously done research in
-    enumerative discrete geometry on the optimal partitioning of n-dimensional spheres by hyperplanes. She is interested
-    in the application of distance geometry to the nanostructure problem.
+  bio: Adiba is an undergraduate at Columbia College from Dubai, U.A.E. majoring in
+    Math and Computer Science. She joined the Billinge Group as a research assistant
+    in May 2020. She has experience with proof-based analysis and algebra; introductory
+    statistics; and data structures in Java and Python, and has previously done research
+    in enumerative discrete geometry on the optimal partitioning of n-dimensional
+    spheres by hyperplanes. She is interested in the application of distance geometry
+    to the nanostructure problem.
   education:
     - begin_year: 2019
       begin_month: 9
@@ -144,6 +145,7 @@ aejaz:
       group: bg
       advisor: sbillinge
       status: undergrad
+  github_id: adibaejaz
   name: Adiba Ejaz
   position: undergraduate research assistant
 akovyakh:
@@ -3128,7 +3130,6 @@ sharouna-mayer:
   active: true
   aka: []
   avatar: https://github.com/SaniHarouna-Mayer.png
-  github_id: SaniHarouna-Mayer
   bio: Sani grew up in Kassel, Germany. He earned his Bachelors degree in nanoscience
     in 2018 at the University of Hamburg. During his Bachelor project he worked on
     PDF analysis of electrochromic thin films in Prof. Dorota Koziej's group. Ever
@@ -3165,6 +3166,7 @@ sharouna-mayer:
       organization: ill
       end_year: 2017
       end_month: 10
+  github_id: SaniHarouna-Mayer
   name: Sani Harouna-Mayer
   position: visiting student
 smayers:
@@ -3906,7 +3908,9 @@ zthatcher:
       position: engineer
       position_full: Engineering Consultant
       organization: MPR Associates, Inc.
+  github_id: zthatch
   name: Zach Thatcher
+  orcid_id: 0000-0002-8680-1540
   position: graduate research assistant
 zzgong:
   active: false
