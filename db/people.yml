@@ -120,12 +120,13 @@ aejaz:
     - Adiba E.
     - Ejaz, Adiba
   avatar: https://github.com/adibaejaz.png
-  github_id: adibaejaz
-  bio: Adiba is an undergraduate at Columbia College from Dubai, U.A.E. majoring in Math and Computer Science. She
-    joined the Billinge Group as a research assistant in May 2020. She has experience with proof-based analysis and
-    algebra; introductory statistics; and data structures in Java and Python, and has previously done research in
-    enumerative discrete geometry on the optimal partitioning of n-dimensional spheres by hyperplanes. She is interested
-    in the application of distance geometry to the nanostructure problem.
+  bio: Adiba is an undergraduate at Columbia College from Dubai, U.A.E. majoring in
+    Math and Computer Science. She joined the Billinge Group as a research assistant
+    in May 2020. She has experience with proof-based analysis and algebra; introductory
+    statistics; and data structures in Java and Python, and has previously done research
+    in enumerative discrete geometry on the optimal partitioning of n-dimensional
+    spheres by hyperplanes. She is interested in the application of distance geometry
+    to the nanostructure problem.
   education:
     - begin_year: 2019
       begin_month: 9
@@ -144,6 +145,7 @@ aejaz:
       group: bg
       advisor: sbillinge
       status: undergrad
+  github_id: adibaejaz
   name: Adiba Ejaz
   position: undergraduate research assistant
 akovyakh:
@@ -910,12 +912,12 @@ dyano:
     - Daniela Hikari Yano
     - Daniela Yano
   avatar: http://github.com/dy2403.png
-  bio: Daniela was born and raised in Brazil, and is a student at Barnard
-    College. She started working with the Billinge Group the
-    second semester of her first year, and is part of the Science Pathways Scholars
-    Program at Barnard, a program to support young women from minorities who convey
-    strong interest in science. Daniela also enjoys playing table tennis, and
-    represented the Brazilian Table Tennis Team in some opportunities.
+  bio: Daniela was born and raised in Brazil, and is a student at Barnard College.
+    She started working with the Billinge Group the second semester of her first year,
+    and is part of the Science Pathways Scholars Program at Barnard, a program to
+    support young women from minorities who convey strong interest in science. Daniela
+    also enjoys playing table tennis, and represented the Brazilian Table Tennis Team
+    in some opportunities.
   education:
     - begin_year: 2019
       begin_month: 9
@@ -3130,7 +3132,6 @@ sharouna-mayer:
   active: true
   aka: []
   avatar: https://github.com/SaniHarouna-Mayer.png
-  github_id: SaniHarouna-Mayer
   bio: Sani grew up in Kassel, Germany. He earned his Bachelors degree in nanoscience
     in 2018 at the University of Hamburg. During his Bachelor project he worked on
     PDF analysis of electrochromic thin films in Prof. Dorota Koziej's group. Ever
@@ -3167,6 +3168,7 @@ sharouna-mayer:
       organization: ill
       end_year: 2017
       end_month: 10
+  github_id: SaniHarouna-Mayer
   name: Sani Harouna-Mayer
   position: visiting student
 smayers:
