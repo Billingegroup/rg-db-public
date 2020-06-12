@@ -347,6 +347,7 @@ bozer:
       status: ms
   name: Berrak Ozer
   position: Master Student Researcher
+  github_id: berrakozer
 btabanpour:
   active: false
   aka: []
@@ -1678,11 +1679,11 @@ jumana:
     - Jaylyn Umana
     - J. Umana
   avatar: https://github.com/jc-umana.png
-  bio: Jaylyn C. Umana grew up on Long Island, NY and is currently an undergraduate student
-    and researcher at Columbia University pursuing degrees in both physics and mathematics.
-    His primary research interests are in condensed matter with a focus on transition metal
-    oxides. He has experience with synthesis as well as first-principles calculations via
-    density functional theory (DFT).
+  bio: Jaylyn C. Umana grew up on Long Island, NY and is currently an undergraduate
+    student and researcher at Columbia University pursuing degrees in both physics
+    and mathematics. His primary research interests are in condensed matter with a
+    focus on transition metal oxides. He has experience with synthesis as well as
+    first-principles calculations via density functional theory (DFT).
   education: []
   email: jcu2108@columbia.edu
   employment:
@@ -1705,7 +1706,10 @@ jwzang:
     - J. Zang
     - Zang, J.
   avatar: https://github.com/jiaweizang.png
-  bio: Jiawei grew up in Shandong, China. She earned her B.S. in Physics in 2019 from Fudan University. She joined the Billinge Group in the summer of 2020 and is interested in applying data science to the analysis of materials. In her spare time, she likes rock climbing and trying different foods.
+  bio: Jiawei grew up in Shandong, China. She earned her B.S. in Physics in 2019 from
+    Fudan University. She joined the Billinge Group in the summer of 2020 and is interested
+    in applying data science to the analysis of materials. In her spare time, she
+    likes rock climbing and trying different foods.
   education:
     - institution: Columbia University
       begin_year: 2019
