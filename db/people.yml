@@ -3911,7 +3911,9 @@ zthatcher:
       position: engineer
       position_full: Engineering Consultant
       organization: MPR Associates, Inc.
+  github_id: zthatch
   name: Zach Thatcher
+  orcid_id: 0000-0002-8680-1540
   position: graduate research assistant
 zzgong:
   active: false
