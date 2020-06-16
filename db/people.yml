@@ -120,12 +120,13 @@ aejaz:
     - Adiba E.
     - Ejaz, Adiba
   avatar: https://github.com/adibaejaz.png
-  github_id: adibaejaz
-  bio: Adiba is an undergraduate at Columbia College from Dubai, U.A.E. majoring in Math and Computer Science. She
-    joined the Billinge Group as a research assistant in May 2020. She has experience with proof-based analysis and
-    algebra; introductory statistics; and data structures in Java and Python, and has previously done research in
-    enumerative discrete geometry on the optimal partitioning of n-dimensional spheres by hyperplanes. She is interested
-    in the application of distance geometry to the nanostructure problem.
+  bio: Adiba is an undergraduate at Columbia College from Dubai, U.A.E. majoring in
+    Math and Computer Science. She joined the Billinge Group as a research assistant
+    in May 2020. She has experience with proof-based analysis and algebra; introductory
+    statistics; and data structures in Java and Python, and has previously done research
+    in enumerative discrete geometry on the optimal partitioning of n-dimensional
+    spheres by hyperplanes. She is interested in the application of distance geometry
+    to the nanostructure problem.
   education:
     - begin_year: 2019
       begin_month: 9
@@ -144,6 +145,7 @@ aejaz:
       group: bg
       advisor: sbillinge
       status: undergrad
+  github_id: adibaejaz
   name: Adiba Ejaz
   position: undergraduate research assistant
 akovyakh:
@@ -910,11 +912,12 @@ dyano:
     - Daniela Hikari Yano
     - Daniela Yano
   avatar: http://github.com/dy2403.png
-  bio: Daniela was born and raised in Brazil, and is a First-Year student at Barnard
-    College. She is part of the Science Pathways Scholars Program, a program to support
-    young women from minorities who convey strong interest in science. Daniela also
-    enjoys playing table tennis, and represented the Brazilian Table Tennis Team in
-    some opportunities.
+  bio: Daniela was born and raised in Brazil, and is a student at Barnard College.
+    She started working with the Billinge Group the second semester of her first year,
+    and is part of the Science Pathways Scholars Program at Barnard, a program to
+    support young women from minorities who convey strong interest in science. Daniela
+    also enjoys playing table tennis, and represented the Brazilian Table Tennis Team
+    in some opportunities.
   education:
     - begin_year: 2019
       begin_month: 9
@@ -928,11 +931,12 @@ dyano:
       begin_month: 1
       organization: Columbia University
       end_year: 2020
-      end_month: 5
+      end_month: 7
       position: undergraduate research assistant
       group: bg
       advisor: sbillinge
       status: undergrad
+  github_id: dy2403
   name: Daniela Hikari Yano
   position: undergraduate research assistant
 ebozin:
@@ -2278,7 +2282,8 @@ mwinitch:
   active: true
   aka: []
   avatar: https://github.com/mwinitch.png
-  bio: bio
+  bio: Michael is an undergraduate from New York. He is majoring in computer science
+    at Columbia Engineering. He joined the Billinge Group in Spring 2020.
   education: []
   email: mlw2173@columbia.edu
   employment:
@@ -2291,6 +2296,7 @@ mwinitch:
       advisor: sbillinge
       group: bg
       status: undergrad
+  github_id: mwinitch
   name: Michael Winitch
   position: undergraduate research assistant
 nfuller:
@@ -2344,6 +2350,7 @@ nthomas:
       advisor: sbillinge
       group: bg
       status: undergrad
+  github_id: noniethomas
   name: Nonie Thomas
   position: undergraduate research assistant
 oprymak:
@@ -3131,7 +3138,6 @@ sharouna-mayer:
   active: true
   aka: []
   avatar: https://github.com/SaniHarouna-Mayer.png
-  github_id: SaniHarouna-Mayer
   bio: Sani grew up in Kassel, Germany. He earned his Bachelors degree in nanoscience
     in 2018 at the University of Hamburg. During his Bachelor project he worked on
     PDF analysis of electrochromic thin films in Prof. Dorota Koziej's group. Ever
@@ -3168,6 +3174,7 @@ sharouna-mayer:
       organization: ill
       end_year: 2017
       end_month: 10
+  github_id: SaniHarouna-Mayer
   name: Sani Harouna-Mayer
   position: visiting student
 smayers:
@@ -3241,7 +3248,7 @@ sstao:
     - Tao, S.
   avatar: https://github.com/st3107.png
   bio: Songsheng grew up in Beijing, China. He attended Peking University where he
-    earned a B. S. in physics. As a masters research assistant track student in Columbia
+    earned a B. S. in physics. As Ph. D. student in Columbia
     University, he joined the Billinge Group in fall 2018 and is currently working
     on developing tools for texture analysis and using pair distribution functions
     for structure analysis. In his spare time, he enjoys board games and computer
@@ -3273,6 +3280,8 @@ sstao:
   name: Songsheng Tao
   orcid_id: 0000-0002-7565-3503
   position: graduate research assistant
+  github_id: st3107
+  google_scholar_url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=xe1JOIAAAAAJ
 swhan:
   active: false
   aka: []
@@ -3496,6 +3505,7 @@ vlin:
       group: bg
       advisor: sbillinge
       status: undergrad
+  github_id: vivlin2000
   name: Vivian Lin
   position: undergraduate research assistant
 vnield:
@@ -3909,7 +3919,9 @@ zthatcher:
       position: engineer
       position_full: Engineering Consultant
       organization: MPR Associates, Inc.
+  github_id: zthatch
   name: Zach Thatcher
+  orcid_id: 0000-0002-8680-1540
   position: graduate research assistant
 zzgong:
   active: false
