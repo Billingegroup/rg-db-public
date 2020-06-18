@@ -1459,9 +1459,9 @@ hvuong:
       status: phd
       group: bg
   github_id: tienhungvuong
-  orcid_id: 0000-0001-7965-379X
   google_scholar_url: https://scholar.google.com/citations?user=DST508IAAAAJ&hl=en&authuser=1
   name: Hung Vuong
+  orcid_id: 0000-0001-7965-379X
   position: graduate research assistant
   skills:
     - level: proficient
@@ -3248,11 +3248,10 @@ sstao:
     - Tao, S.
   avatar: https://github.com/st3107.png
   bio: Songsheng grew up in Beijing, China. He attended Peking University where he
-    earned a B. S. in physics. As Ph. D. student in Columbia
-    University, he joined the Billinge Group in fall 2018 and is currently working
-    on developing tools for texture analysis and using pair distribution functions
-    for structure analysis. In his spare time, he enjoys board games and computer
-    games.
+    earned a B. S. in physics. As Ph. D. student in Columbia University, he joined
+    the Billinge Group in fall 2018 and is currently working on developing tools for
+    texture analysis and using pair distribution functions for structure analysis.
+    In his spare time, he enjoys board games and computer games.
   education:
     - institution: Columbia University
       begin_year: 2017
@@ -3277,11 +3276,11 @@ sstao:
       advisor: sbillinge
       status: phd
       group: bg
+  github_id: st3107
+  google_scholar_url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=xe1JOIAAAAAJ
   name: Songsheng Tao
   orcid_id: 0000-0002-7565-3503
   position: graduate research assistant
-  github_id: st3107
-  google_scholar_url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=xe1JOIAAAAAJ
 swhan:
   active: false
   aka: []
