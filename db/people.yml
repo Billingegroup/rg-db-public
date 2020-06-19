@@ -45,9 +45,15 @@ aabeykoon:
 achoudhry:
   active: true
   aka: []
-  avatar:
+  avatar: https://avatars2.githubusercontent.com/u/57652492
   bio: Akshay is an incoming sophomore at Columbia Engineering studying Applied Mathematics.
-  education: BS - applied mathematics (expected - 2023)
+  education:
+    - begin_year: 2019
+      begin_month: 9
+      institution: columbiau
+      degree: BS - Applied Mathematics
+      end_year: 2023
+      end_month: 5
   email: ajc2289@columbia.edu
   employment:
     - begin_year: 2020
