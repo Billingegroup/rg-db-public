@@ -45,9 +45,9 @@ aabeykoon:
 achoudhry:
   active: true
   aka: []
-  avatar: https://github.com/tbd.png
-  bio: bio
-  education: []
+  avatar:
+  bio: Akshay is an incoming sophomore at Columbia Engineering studying Applied Mathematics.
+  education: BS - applied mathematics (expected - 2023)
   email: ajc2289@columbia.edu
   employment:
     - begin_year: 2020
@@ -60,6 +60,7 @@ achoudhry:
       group: bg
       status: undergrad
   name: Akshay Choudhry
+  github_id: akshayc-01
   position: undergraduate research assistant
 aday:
   active: false
