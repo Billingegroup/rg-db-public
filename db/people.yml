@@ -1760,6 +1760,32 @@ jumana:
       status: undergrad
   name: Jaylyn C. Umana
   position: undergraduate research assistant
+fsimpson:
+  active: false
+  aka: []
+  avatar: https://github.com/jc-umana.png
+  bio: Farrah Graduated from Columbia Applied Physics program in 2017 and is 
+    doing a PhD in experimental high energy physics at Brown University
+  education:
+    - institution: Columbia University
+      begin_year: 2013
+      end_year: 2017
+      location: New York, NY
+      department: apam
+      degree: BS in Applied Physics
+  email: ""
+  employment:
+    - begin_year: 2016
+      begin_month: 4
+      end_year: 2017
+      end_month: 5
+      organization: columbiau
+      position: undergraduate research assistant
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  name: Farrah Simpson
+  position: undergraduate research assistant
 jwzang:
   active: true
   aka:
@@ -1776,8 +1802,8 @@ jwzang:
     - institution: Columbia University
       begin_year: 2019
       location: New York, NY
-      department: Physics
-      degree: masters research assistant in Physics
+      department: physics
+      degree: MS/PhD in Physics
     - institution: Fudan University
       degree: BS in Physics
       begin_year: 2015
@@ -1794,9 +1820,9 @@ jwzang:
       group: bg
       advisor: sbillinge
       status: phd
+  github_id: jiaweizang
   name: Jiawei Zang
   orcid_id: 0000-0002-3671-9282
-  github_id: jiaweizang
   position: graduate research assistant
 kjensen:
   active: false
@@ -2631,9 +2657,9 @@ rgu:
       group: bg
       organization: Columbia University
   github_id: guran1214
-  orcid_id: 0000-0002-4416-5021
   google_scholar_url: https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F7z7xLHLAfG-0KjERWe7zeuQgGtwaYiHFOad01S66fU1UZDsC9gMhfU2okIFbtvgeXHRtYu6igeFqbLBqKw12J1zF2K3g&user=3MveL9IAAAAJ
   name: Ran Gu
+  orcid_id: 0000-0002-4416-5021
   position: post-doctoral scholar
 rjacubinas:
   active: false
