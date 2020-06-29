@@ -370,6 +370,7 @@ bozer:
       advisor: sbillinge
       group: bg
       status: ms
+  github_id: berrakozer
   name: Berrak Ozer
   position: masters research assistant
 btabanpour:
@@ -1758,7 +1759,10 @@ jumana:
       group: bg
       advisor: sbillinge
       status: undergrad
+  github_id: jc-umana
+  google_scholar_url: https://scholar.google.com/citations?user=sapBk3kAAAAJ&hl=en
   name: Jaylyn C. Umana
+  orcid_id: 0000-0002-1882-8653
   position: undergraduate research assistant
 fsimpson:
   active: false
@@ -2706,7 +2710,9 @@ rkoch:
       organization: Brookhaven National Laboratory
       position: post-doctoral scholar
       status: postdoc
+  github_id: rjkoch
   name: Robert Koch
+  orcid_id: 0000-0003-4995-2101
   position: associate scientist
 rpokratath:
   active: true
@@ -3050,6 +3056,7 @@ sbillinge:
         - 'Advisor: George Kwei'
       status: postdoc
   funding: []
+  github_id: sbillinge
   google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
   honors:
     - name: Distinguished Powder Diffractionist Prize of the European Powder Diffraction
