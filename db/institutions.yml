@@ -136,6 +136,18 @@ asu:
   state: Arizona
   street: ''
   zip: '85287'
+bardcsr:
+  aka:
+    - Simon's Rock
+    - BCSR
+  city: Great Barrington
+  country: USA
+  departments:
+    smc:
+      name: Department of Science, Mathematics, and Computing
+  name: Bard College at Simon's Rock
+  state: MA
+  zip: '01230'
 barnardu:
   aka: []
   city: New York
