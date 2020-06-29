@@ -10235,3 +10235,30 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
+anker;hdcc20:
+  author:
+    - Andy S. Anker
+    - Emil T. S. Kjaer
+    - Eric B. Dam
+    - Simon J. L. Billinge
+    - Kirsten M. Ø. Jensen
+    - Raghavendra Selvan
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: dmref15
+  journal: KDD
+  nb: ''
+  note: 'Submitted to the conference International Workshop on Deep Learning on Graphs (KDD-DLG)'
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  title: Characterising the atomic structure of mono-metallic
+    nanoparticles from x-ray scattering data using conditional
+    generative models
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: 2020

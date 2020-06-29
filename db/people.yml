@@ -1228,6 +1228,32 @@ fmohiuddin-jacobs:
       position: post-doctoral scholar
   name: Farida Mohiuddin-Jacobs
   position: lecturer
+fsimpson:
+  active: false
+  aka: []
+  avatar: https://github.com/jc-umana.png
+  bio: Farrah Graduated from Columbia Applied Physics program in 2017 and is doing
+    a PhD in experimental high energy physics at Brown University
+  education:
+    - institution: Columbia University
+      begin_year: 2013
+      end_year: 2017
+      location: New York, NY
+      department: apam
+      degree: BS in Applied Physics
+  email: ''
+  employment:
+    - begin_year: 2016
+      begin_month: 4
+      end_year: 2017
+      end_month: 5
+      organization: columbiau
+      position: undergraduate research assistant
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  name: Farrah Simpson
+  position: undergraduate research assistant
 gcampi:
   active: false
   aka: []
@@ -1759,32 +1785,6 @@ jumana:
       advisor: sbillinge
       status: undergrad
   name: Jaylyn C. Umana
-  position: undergraduate research assistant
-fsimpson:
-  active: false
-  aka: []
-  avatar: https://github.com/jc-umana.png
-  bio: Farrah Graduated from Columbia Applied Physics program in 2017 and is 
-    doing a PhD in experimental high energy physics at Brown University
-  education:
-    - institution: Columbia University
-      begin_year: 2013
-      end_year: 2017
-      location: New York, NY
-      department: apam
-      degree: BS in Applied Physics
-  email: ""
-  employment:
-    - begin_year: 2016
-      begin_month: 4
-      end_year: 2017
-      end_month: 5
-      organization: columbiau
-      position: undergraduate research assistant
-      group: bg
-      advisor: sbillinge
-      status: undergrad
-  name: Farrah Simpson
   position: undergraduate research assistant
 jwzang:
   active: true
