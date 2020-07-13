@@ -3087,7 +3087,8 @@ sdisch:
   position: unknown
 sghose:
   active: true
-  aka: []
+  aka:
+    - shogho0 (github id)
   avatar: https://github.com/shogho0.png
   bio: Shomik is from Houston, Texas and is an undergraduate student studying computer
     science in Columbia's School of Engineering and Applied Sciences. He joined in
