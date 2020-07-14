@@ -1159,6 +1159,27 @@ ekjaer:
   name: Emil Kjaer
   position: visiting student
   position_full: visiting PhD Researcher, U. Copenhagen
+eshen:
+  active: true
+  aka: []
+  avatar: https://github.com/sheneric88.png
+  bio: bio
+  education: []
+  email: "\x16ejs2228@columbia.edu"
+  employment:
+    - begin_year: 2020
+      begin_month: 6
+      end_year: 2020
+      end_month: 5
+      organization: columbiau
+      position: graduate research assistant
+      group: bg
+      advisor: sbillinge
+      status: phd
+  github_id: sheneric88
+  name: Eric Shen
+  orcid_id: 0000-0001-6715-7262
+  position: graduate research assistant
 fatassi:
   active: false
   aka: []
@@ -2356,7 +2377,7 @@ nfuller:
   name: Neno Fuller
   position: masters research assistant
 nthomas:
-  active: true
+  active: false
   aka:
     - Nancy Thomas
     - Nancy Knight Thomas
@@ -2366,6 +2387,12 @@ nthomas:
     second semester of her senior year. After graduating, she will be attending MIT
     Sloan to pursue a Master of Business Analytics.
   education:
+    - begin_year: 2020
+      begin_month: 9
+      degree: MS in Business Analytics
+      institution: mit
+      end_year: 2021
+      end_month: 5
     - begin_year: 2016
       begin_month: 9
       degree: BS in Applied Math
@@ -2377,7 +2404,7 @@ nthomas:
       begin_month: 1
       organization: Columbia University
       end_year: 2020
-      end_month: 5
+      end_month: 7
       position: undergraduate research assistant
       advisor: sbillinge
       group: bg
@@ -3870,10 +3897,10 @@ zcliu:
     - Zicheng Liu
     - Taylor Liu
   avatar: https://github.com/zichengliu1997.png
-  bio: Zicheng is from Guangzhou, China. He has spent the last year working as an undergraduate
-    research assistant in the plasma physics laboratory at Columbia University while majoring
-    in applied physics. He joined Dr. Billinge's group in the summer of 2020 as a visiting
-    undergraduate research assistant.
+  bio: Zicheng is from Guangzhou, China. He has spent the last year working as an
+    undergraduate research assistant in the plasma physics laboratory at Columbia
+    University while majoring in applied physics. He joined Dr. Billinge's group in
+    the summer of 2020 as a visiting undergraduate research assistant.
   education:
     - begin_year: 2015
       begin_month: 8
