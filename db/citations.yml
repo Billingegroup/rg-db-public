@@ -164,6 +164,33 @@ andon;c;tacolt:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/17andoni17a.pdf
   year: '2017'
+anker;hdcc20:
+  author:
+    - Andy S. Anker
+    - Emil T. S. Kjaer
+    - Eric B. Dam
+    - Simon J. L. Billinge
+    - Kirsten M. Ø. Jensen
+    - Raghavendra Selvan
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: dmref15
+  journal: KDD
+  nb: ''
+  note: Submitted to the conference International Workshop on Deep Learning on Graphs
+    (KDD-DLG)
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  title: Characterising the atomic structure of mono-metallic nanoparticles from x-ray
+    scattering data using conditional generative models
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: 2020
 antic;jpcm13:
   author:
     - Antic, B.
@@ -9012,6 +9039,36 @@ terba;macm16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/terba_macm16.pdf
   year: '2016'
+terba;mp20:
+  author:
+    - Terban, Maxwell
+    - Russo, Luca
+    - Pham, Tran
+    - Barich, Dewey
+    - Sun, Yan
+    - Burke, Matthew
+    - Brum, Jeffrey
+    - Billinge, Simon
+  doi: https://doi.org/10.1021/acs.molpharmaceut.0c00122
+  entrytype: article
+  facility: xpd, nslsii
+  grant: gsk16
+  journal: Molecular Pharmaceutics
+  month: April
+  nb: ''
+  notes: ''
+  number: ''
+  optannote: ''
+  optnote: Submitted
+  optwwwlanl: ''
+  pages: ''
+  title: Local structural effects due to micronization and amorphization on an HIV
+    treatment active pharmaceutical ingredient
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2020'
 terba;nan15:
   author:
     - Terban, Maxwell W.
@@ -10235,30 +10292,3 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
-anker;hdcc20:
-  author:
-    - Andy S. Anker
-    - Emil T. S. Kjaer
-    - Eric B. Dam
-    - Simon J. L. Billinge
-    - Kirsten M. Ø. Jensen
-    - Raghavendra Selvan
-  doi: ''
-  entrytype: article
-  facility: ''
-  grant: dmref15
-  journal: KDD
-  nb: ''
-  note: 'Submitted to the conference International Workshop on Deep Learning on Graphs (KDD-DLG)'
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
-  title: Characterising the atomic structure of mono-metallic
-    nanoparticles from x-ray scattering data using conditional
-    generative models
-  url: ''
-  volume: ''
-  wwwemail: ''
-  wwwpub: ''
-  year: 2020

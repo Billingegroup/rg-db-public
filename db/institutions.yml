@@ -529,6 +529,17 @@ fau:
   country: Germany
   name: Friedrich-Alexander-Universität Erlangen-Nürnberg
   state: ''
+flatironinstitute:
+  aka:
+    - flatiron
+  city: New York
+  country: USA
+  date: 2020-07-07
+  name: The Flatiron Institute
+  state: NY
+  updated: 2020-07-07 04:45:25.008649
+  uuid: ea28bcef-fc0e-415d-91e9-f48b37464e91
+  zip: '10010'
 formlabs:
   aka:
     - Formlabs
