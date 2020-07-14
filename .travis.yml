@@ -26,6 +26,7 @@ before_install:
 install:
   - conda install -c conda-forge --file https://raw.githubusercontent.com/regro/regolith/master/requirements/run.txt;
     pip install git+git://github.com/regro/regolith@master;
+    pip install doctor
 
 script:
   - set -e
