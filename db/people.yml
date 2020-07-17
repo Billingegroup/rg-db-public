@@ -120,8 +120,7 @@ aejaz:
     - Adiba E.
     - Ejaz, Adiba
   avatar: https://github.com/adibaejaz.png
-  bio:
-    Adiba is an undergraduate at Columbia College from Dubai, U.A.E. majoring in
+  bio: Adiba is an undergraduate at Columbia College from Dubai, U.A.E. majoring in
     Math and Computer Science. She joined the Billinge Group as a research assistant
     in May 2020. She has experience with proof-based analysis and algebra; introductory
     statistics; and data structures in Java and Python, and has previously done research
@@ -135,7 +134,7 @@ aejaz:
       degree: B.A. Mathematics and Computer Science
       end_year: 2023
       end_month: 5
-  email: "adiba.ejaz@columbia.edu "
+  email: 'adiba.ejaz@columbia.edu '
   employment:
     - begin_year: 2020
       begin_month: 5
@@ -285,8 +284,7 @@ ashaaban:
   active: true
   aka: []
   avatar: https://github.com/ahmeds343.png
-  bio:
-    Ahmed is an undergraduate student from Cairo, Egypt. Ahmed is majoring in computer
+  bio: Ahmed is an undergraduate student from Cairo, Egypt. Ahmed is majoring in computer
     science with interests in Mathematics, and Physics.
   education:
     - begin_year: 2018
@@ -343,8 +341,7 @@ bozer:
   active: true
   aka: []
   avatar: https://github.com/berrakozer.png
-  bio:
-    Berrak is from Istanbul, Turkey. She acquired her Bachelor of Science Degree
+  bio: Berrak is from Istanbul, Turkey. She acquired her Bachelor of Science Degree
     with a Major in Operations Research in Engineering Management Systems and a Minor
     in Materials Science and Engineering from Columbia University. She is currently
     pursuing her Master of Science Degree in Materials Science and Engineering in
@@ -462,7 +459,7 @@ chliu:
       group: bg
       advisor: sbillinge
       other:
-        - "Advisor: Simon Billinge"
+        - 'Advisor: Simon Billinge'
       department: apam
       degree: masters research assistant in Applied Physics
   email: cl3077@columbia.edu
@@ -477,8 +474,7 @@ chliu:
       advisor: sbillinge
       group: bg
   honors:
-    - name:
-        Margaret C. Etter Student lecturer Award of the American Crystallographic
+    - name: Margaret C. Etter Student lecturer Award of the American Crystallographic
         Association
       year: 2019
   name: Chia-Hao (Timothy) Liu
@@ -559,8 +555,7 @@ cwright:
     - CJ Wright
     - Christopher J. ``CJ" Wright
   avatar: https://github.com/CJ-Wright.png
-  bio:
-    Christopher grew up in Rockville Centre, New York. He attended Brown University
+  bio: Christopher grew up in Rockville Centre, New York. He attended Brown University
     where he earned a BS with honors in Chemical Physics. He worked with Prof. Shouheng
     Sun on electrochemical CO2 reduction and the structural dynamics of nanoparticles.
     After working at Brookhaven National Laboratory as a summer intern, he attended
@@ -582,8 +577,8 @@ cwright:
       begin_year: 2017
       end_year: 2019
       other:
-        - "Advisor: Simon J.L. Billinge"
-        - "Thesis: Towards Real Time Characterization of Grain Growth From the Melt"
+        - 'Advisor: Simon J.L. Billinge'
+        - 'Thesis: Towards Real Time Characterization of Grain Growth From the Melt'
     - institution: columbiau
       begin_year: 2016
       group: bg
@@ -594,19 +589,19 @@ cwright:
       begin_year: 2014
       end_year: 2014
       other:
-        - "Advisor: Xiao-Dong Zhou"
-        - "Thesis: Solving Atomic Structures using Statistical Mechanical Searches
-          on X-ray Scattering Derived Potential Energy Surfaces"
-        - "Website: https://github.com/CJ-Wright/Masters_Thesis/raw/master/thesis.pdf"
+        - 'Advisor: Xiao-Dong Zhou'
+        - 'Thesis: Solving Atomic Structures using Statistical Mechanical Searches
+          on X-ray Scattering Derived Potential Energy Surfaces'
+        - 'Website: https://github.com/CJ-Wright/Masters_Thesis/raw/master/thesis.pdf'
       degree: MS in Chemical Engineering
       location: Columbia, SC
     - institution: Brown University
       begin_year: 2010
       end_year: 2014
       other:
-        - "Advisor: Shouheng Sun"
-        - "Thesis: Solving Atomic Structures using Statistical Mechanical Searches
-          on X-ray Scattering Derived Potential Energy Surfaces"
+        - 'Advisor: Shouheng Sun'
+        - 'Thesis: Solving Atomic Structures using Statistical Mechanical Searches
+          on X-ray Scattering Derived Potential Energy Surfaces'
       degree: ScB in Chemical Physics with Honors
       location: Providence, RI
       gpa: 3.49
@@ -629,16 +624,16 @@ cwright:
       begin_year: 2015
       location: Upton, NY
       other:
-        - "pyIID: The Python Infinite Improbability Drive, Monte Carlo Searches of
-          X-ray Scattering Derived Structures"
+        - 'pyIID: The Python Infinite Improbability Drive, Monte Carlo Searches of
+          X-ray Scattering Derived Structures'
       position: visiting student
       organization: National Synchrotron Light Source-II, Brookhaven National Laboratory
     - end_year: 2014
       begin_year: 2014
       location: Upton, NY
       other:
-        - "pyXPD: prototype controls software for the x-ray powder diffraction beamline,
-          28-ID"
+        - 'pyXPD: prototype controls software for the x-ray powder diffraction beamline,
+          28-ID'
       position: programmer
       position_full: Software Engineer, SURP
       organization: National Synchrotron Light Source-II, Brookhaven National Laboratory
@@ -689,14 +684,13 @@ cwright:
         - Organized seminars with distinguished scientists, with an emphasis on talks
           on diversity and LGBTQ+ issues in STEM
       type: school
-    - name: "Enhanced Learning Experience lecturer: University of South Carolina"
+    - name: 'Enhanced Learning Experience lecturer: University of South Carolina'
       year: 2016
       other:
         - Presented a lecture and laboratory on electochemistry and catalysis
       type: department
-    - name:
-        "Electrochemical Society Student Chapter President: University of South
-        Carolina"
+    - name: 'Electrochemical Society Student Chapter President: University of South
+        Carolina'
       year: 2015
       other:
         - Organized seminars and outreach
@@ -717,8 +711,7 @@ cwright:
         - Organized an panel of chemistry alumni to discuss their careers both inside
           and outside of academia
       type: department
-    - name:
-        Brown-Yale CCI Presenter at the Brown Science Conference at the Vartan
+    - name: Brown-Yale CCI Presenter at the Brown Science Conference at the Vartan
         Gregorian Elementary School
       year: 2013
       other:
@@ -726,13 +719,12 @@ cwright:
           water splitting, and associated pH changes, titled: "The Colorful Chemistry
           of Electricity"'
       type: profession
-    - name:
-        'Master of Ceremonies and Organizer Brown University "Chemistry: Believe
+    - name: 'Master of Ceremonies and Organizer Brown University "Chemistry: Believe
         it or Not" public chemistry demonstration'
       year: 2013
       type: department
     - end_year: 2013
-      name: " Chemistry STEM Panelist Brown University A Day on College Hill"
+      name: ' Chemistry STEM Panelist Brown University A Day on College Hill'
       begin_year: 2012
       other:
         - Discussed the Brown STEM program, especially the Chemical Physics program
@@ -742,11 +734,10 @@ cwright:
       other:
         - Prepared and presented demonstrations of guncotton, liquid nitrogen, and
           others
-        - "Youtube video: https://www.youtube.com/watch?v=k8GxX7D2PI0"
+        - 'Youtube video: https://www.youtube.com/watch?v=k8GxX7D2PI0'
       type: department
     - end_year: 2014
-      name:
-        Renewable Energy Presenter and Facility Tour Guide at the NSLS "Science
+      name: Renewable Energy Presenter and Facility Tour Guide at the NSLS "Science
         Sunday" laboratory open house at Brookhaven National Laboratory
       begin_year: 2012
       other:
@@ -922,8 +913,7 @@ dyano:
     - Daniela Hikari Yano
     - Daniela Yano
   avatar: http://github.com/dy2403.png
-  bio:
-    Daniela was born and raised in Brazil, and is a student at Barnard College.
+  bio: Daniela was born and raised in Brazil, and is a student at Barnard College.
     She started working with the Billinge Group the second semester of her first year,
     and is part of the Science Pathways Scholars Program at Barnard, a program to
     support young women from minorities who convey strong interest in science. Daniela
@@ -970,7 +960,7 @@ ebozin:
       degree: PhD in Physics
       advisor: sbillinge
       other:
-        - "Advisor: Simon Billinge"
+        - 'Advisor: Simon Billinge'
     - institution: Michigan State University
       begin_year: 1996
       end_year: 1999
@@ -1052,8 +1042,7 @@ eculbertson:
     - Culbertson, Elizabeth A.
     - Culbertson, Elizabeth Audrey
   avatar: https://github.com/eaculb.png
-  bio:
-    Elizabeth grew up in Northern Virginia and earned her bachelors degree from
+  bio: Elizabeth grew up in Northern Virginia and earned her bachelors degree from
     Stanford University in 2016, studying engineering physics and computer science.
     After starting her Ph.D. in applied physics at Columbia, she joined the Billinge
     group in fall 2017. She is excited to apply PDF techniques to the characterization
@@ -1064,7 +1053,7 @@ eculbertson:
       degree: masters research assistant in Applied Physics
       group: bg
       other:
-        - "Advisor: Simon Billinge"
+        - 'Advisor: Simon Billinge'
       department: apam
       begin_year: 2016
       gpa: 3.83
@@ -1072,8 +1061,8 @@ eculbertson:
       begin_year: 2012
       end_year: 2016
       other:
-        - "Concentration: Renewable Energy"
-        - "Minor: Computer Science"
+        - 'Concentration: Renewable Energy'
+        - 'Minor: Computer Science'
       degree: BS in Engineering Physics
       location: Stanford, CA
       gpa: 3.85
@@ -1092,21 +1081,21 @@ eculbertson:
       begin_year: 2015
       location: Stanford, CA
       other:
-        - "Course: Physics 45: Light and Heat"
+        - 'Course: Physics 45: Light and Heat'
       position: teaching assistant
       organization: Stanford University Department of Physics
     - end_year: 2015
       begin_year: 2015
       location: Stanford, CA
       other:
-        - "Courses: Theory of Relativity, Quantum Mechanics"
+        - 'Courses: Theory of Relativity, Quantum Mechanics'
       position: teaching assistant
       organization: Stanford Pre-Collegiate Studies Summer Institutues
     - end_year: 2015
       begin_year: 2013
       location: Stanford, CA
       other:
-        - "Course: Inquiry-Based Physics"
+        - 'Course: Inquiry-Based Physics'
       position: teaching assistant
       organization: Stanford Online High School
     - end_year: 2014
@@ -1119,7 +1108,7 @@ eculbertson:
       begin_year: 2013
       location: Stanford, CA
       other:
-        - "Courses: Theory of Relativity, Quantum Mechanics"
+        - 'Courses: Theory of Relativity, Quantum Mechanics'
       position: teaching assistant
       organization: Stanford Pre-Collegiate Studies Summer Institutues
   membership:
@@ -1131,7 +1120,7 @@ eculbertson:
   position: graduate research assistant
   service: []
   skills: []
-  title: ""
+  title: ''
 ekjaer:
   active: true
   aka:
@@ -1174,17 +1163,17 @@ eshen:
   active: true
   aka:
     - Eric Shen
-    - Eric Jyh-Yu Shen
     - Eric J. Shen
+    - Eric Jyh-Yu Shen
     - Shen, Eric
-    - Shen Eric J.
+    - Shen, Eric J.
     - Shen, E. J.
   avatar: https://github.com/sheneric88.png
-  bio:
-    Eric is a Materials Science Ph.D. student from Detroit/Houston. He graduated from Cornell
-    University with a B.A. in Physics, B.A. in Chemistry, and minor in Music. In his free
-    time, you can find him playing violin, conducting, cooking Taiwanese food, taking an
-    excessive amount of photos, or going on runs (to play Pokemon).
+  bio: Eric is a Materials Science Ph.D. student from Detroit/Houston. He graduated
+    from Cornell University with a B.A. in Physics, B.A. in Chemistry, and minor in
+    Music. In his free time, you can find him playing violin, conducting, cooking
+    Taiwanese food, taking an excessive amount of photos, or going on runs (to play
+    Pokemon).
   education:
     - begin_year: 2016
       begin_month: 8
@@ -1197,12 +1186,12 @@ eshen:
       degree: Ph.D. in Material Science
       institution: Columbia University
       group: bg
-  email: ejs2228@columbia.edu
+  email: "\x16ejs2228@columbia.edu"
   employment:
     - begin_year: 2020
-      begin_month: 7
-      end_year: 2024
-      end_month: 9
+      begin_month: 6
+      end_year: 2020
+      end_month: 5
       organization: columbiau
       position: graduate research assistant
       group: bg
@@ -1286,8 +1275,7 @@ fsimpson:
   active: false
   aka: []
   avatar: https://github.com/jc-umana.png
-  bio:
-    Farrah Graduated from Columbia Applied Physics program in 2017 and is doing
+  bio: Farrah Graduated from Columbia Applied Physics program in 2017 and is doing
     a PhD in experimental high energy physics at Brown University
   education:
     - institution: Columbia University
@@ -1296,7 +1284,7 @@ fsimpson:
       location: New York, NY
       department: apam
       degree: BS in Applied Physics
-  email: ""
+  email: ''
   employment:
     - begin_year: 2016
       begin_month: 4
@@ -1509,8 +1497,7 @@ hvuong:
     - Hung Vuong
     - Vuong, H-T.
   avatar: https://github.com/tienhungvuong.png
-  bio:
-    Hung Vuong is a Chemical Physics Ph.D student from Hanoi, Vietnam. Before coming
+  bio: Hung Vuong is a Chemical Physics Ph.D student from Hanoi, Vietnam. Before coming
     to Columbia, he graduated from Grinnell College in Iowa with a B.A. in Mathematics
     and Chemistry. His research in the Billinge group will be about applying Machine
     Learning in analyzing PDF data. Outside academics, he's interested in photography
@@ -1521,7 +1508,7 @@ hvuong:
       group: bg
       advisor: sbillinge
       other:
-        - "Advisor: Simon Billinge"
+        - 'Advisor: Simon Billinge'
       department: chemistry
       degree: PhD in Chemical Physics
       location: New York, NY
@@ -1677,8 +1664,7 @@ jcalamari:
     - Justin S Calamari
     - Calamari
   avatar: https://github.com/justcalamari.png
-  bio:
-    Justin grew up in Port Washington, New York. He is currently a senior at Columbia
+  bio: Justin grew up in Port Washington, New York. He is currently a senior at Columbia
     University, pursuing a BS in Applied Physics with a minor in Computer Science.
     With the Billinge Group, Justin is developing software for group data management.
   education:
@@ -1689,7 +1675,7 @@ jcalamari:
       department: apam
       begin_year: 2014
       other:
-        - "Minor: Computer Science"
+        - 'Minor: Computer Science'
       gpa: 4.11
   email: jsc2223@columbia.edu
   employment:
@@ -1824,8 +1810,7 @@ jumana:
     - Jaylyn Umana
     - J. Umana
   avatar: https://github.com/jc-umana.png
-  bio:
-    Jaylyn C. Umana grew up on Long Island, NY and is currently an undergraduate
+  bio: Jaylyn C. Umana grew up on Long Island, NY and is currently an undergraduate
     student and researcher at Columbia University pursuing degrees in both physics
     and mathematics. His primary research interests are in condensed matter with a
     focus on transition metal oxides. He has experience with synthesis as well as
@@ -1855,8 +1840,7 @@ jwzang:
     - J. Zang
     - Zang, J.
   avatar: https://github.com/jiaweizang.png
-  bio:
-    Jiawei grew up in Shandong, China. She earned her B.S. in Physics in 2019 from
+  bio: Jiawei grew up in Shandong, China. She earned her B.S. in Physics in 2019 from
     Fudan University. She joined the Billinge Group in the summer of 2020 and is interested
     in applying data science to the analysis of materials. In her spare time, she
     likes rock climbing and trying different foods.
@@ -2372,8 +2356,7 @@ mwinitch:
   active: true
   aka: []
   avatar: https://github.com/mwinitch.png
-  bio:
-    Michael is an undergraduate from New York. He is majoring in computer science
+  bio: Michael is an undergraduate from New York. He is majoring in computer science
     at Columbia Engineering. He joined the Billinge Group in Spring 2020.
   education: []
   email: mlw2173@columbia.edu
@@ -2420,8 +2403,7 @@ nthomas:
     - Nancy Thomas
     - Nancy Knight Thomas
   avatar: https://github.com/noniethomas.png
-  bio:
-    Nonie is a senior studying Applied Mathematics in the School of Engineering
+  bio: Nonie is a senior studying Applied Mathematics in the School of Engineering
     and Applied Science at Columbia. She started working with the Billinge Group the
     second semester of her senior year. After graduating, she will be attending MIT
     Sloan to pursue a Master of Business Analytics.
@@ -2692,8 +2674,7 @@ rgu:
     - Ran Gu
     - Gu, Ran
   avatar: https://github.com/guran1214.png
-  bio:
-    Ran was born in Shandong Province, China in 1989. He attended Nankai University
+  bio: Ran was born in Shandong Province, China in 1989. He attended Nankai University
     located in Tianjin where he earned a B. S. in Mathematics and earned a PhD in
     Computational Mathematics in Chinese Academy of Sciences located in Beijing. He
     joined the Billinge Group and Du's CM3 group in fall 2017 and is currently working
@@ -2759,7 +2740,7 @@ rkoch:
       department: physics
       degree: PhD in Physics
       other:
-        - "Advisors: Paolo Scardi, Matteo Leoni"
+        - 'Advisors: Paolo Scardi, Matteo Leoni'
   email: rkoch@bnl.gov
   employment:
     - begin_month: 9
@@ -2780,8 +2761,7 @@ rpokratath:
   aka:
     - Rohan Pokratath
   avatar: https://www.github.com/rohanpok.png
-  bio:
-    Rohan was born in Calicut, India in 1993. He did his masters in Material Science
+  bio: Rohan was born in Calicut, India in 1993. He did his masters in Material Science
     from Indian Institute of Technology Bombay and currently enrolled as a PhD student
     at University of Basel, on the topic of characterizing metal oxide nanocrystals
     using X-ray Pair Distribution Function Analysis. At Columbia Univertsity, he is
@@ -2884,7 +2864,7 @@ sbanerjee:
     - Banerjee, Soham
     - Banerjee, S.
   avatar: https://github.com/sbanerjee23.png
-  bio: ""
+  bio: ''
   education:
     - institution: columbiau
       begin_year: 2013
@@ -2897,7 +2877,7 @@ sbanerjee:
       advisor: sbillinge
       degree: masters research assistant in Applied Physics
       other:
-        - "Advisor: Simon Billinge"
+        - 'Advisor: Simon Billinge'
     - institution: Wake Forest University
       degree: BS in Physics
       begin_year: 2008
@@ -2944,8 +2924,7 @@ sbillinge:
     - sbillinge
     - Simon John Laird Billinge
   avatar: https://github.com/sbillinge.png
-  bio:
-    "Prof. Billinge has more than 25 years of experience developing and  applying\
+  bio: "Prof. Billinge has more than 25 years of experience developing and  applying\
     \ techniques to study local structure in materials using x-ray,  neutron and electron\
     \ diffraction including the development of novel data analysis methods including\
     \ graph theoretic, Artificial Intelligence and Machine Learning approaches. He\
@@ -3023,8 +3002,8 @@ sbillinge:
       degree: BA in Metallurgy and Materials Science
       advisor: George Smith
       other:
-        - "Disseration: Development of a novel ultra-high strength alloy steel for
-          wire and cable"
+        - 'Disseration: Development of a novel ultra-high strength alloy steel for
+          wire and cable'
     - institution: upenn
       advisor: Takeshi Egami
       begin_year: 1987
@@ -3032,25 +3011,25 @@ sbillinge:
       department: mse
       degree: PhD in Materials Science and Engineering
       other:
-        - "Advisors: Takeshi Egami and Peter Davies"
-        - "Disseration: Local atomic structure and superconducivity of Nd2-xCexCuO4-y:
-          a pair distribution function study "
+        - 'Advisors: Takeshi Egami and Peter Davies'
+        - 'Disseration: Local atomic structure and superconducivity of Nd2-xCexCuO4-y:
+          a pair distribution function study '
   email: sb2896@columbia.edu
   employment:
     - organization: Columbia University
       begin_year: 2008
       group: bg
       other:
-        - "Full title: Professor of Materials Science and of Applied Physics and of
-          Applied Mathematics"
+        - 'Full title: Professor of Materials Science and of Applied Physics and of
+          Applied Mathematics'
       department: Applied Physics and Applied Mathematics
       position: professor
       status: pi
     - organization: iucr
       begin_year: 2011
       other:
-        - "Full title: Professor of Materials Science and of Applied Physics and of
-          Applied Mathematics"
+        - 'Full title: Professor of Materials Science and of Applied Physics and of
+          Applied Mathematics'
       department: aca
       position: editor
       coworkers:
@@ -3116,14 +3095,13 @@ sbillinge:
       begin_year: 1992
       end_year: 1994
       other:
-        - "Advisor: George Kwei"
+        - 'Advisor: George Kwei'
       status: postdoc
   funding: []
   github_id: sbillinge
   google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
   honors:
-    - name:
-        Distinguished Powder Diffractionist Prize of the European Powder Diffraction
+    - name: Distinguished Powder Diffractionist Prize of the European Powder Diffraction
         Conference
       year: 2020
     - name: Warren Award of the American Crystallographic Association
@@ -3137,15 +3115,14 @@ sbillinge:
     - year: 2012
       name: Neutron Scattering Society of America Service Award for outstanding service
     - year: 2012
-      name: "Editor of Acta Crystallographica Section A: Foundations of Crystallography"
+      name: 'Editor of Acta Crystallographica Section A: Foundations of Crystallography'
     - year: 2011
       name: Fulbright Research Scholar
     - year: 2011
       name: Carnegie Foundation of New York honored as one of 24 Outstanding Immigrants
     - year: 2011
-      name:
-        "Co-editor of Journal Acta Crystallographica Section A: Foundations of
-        Crystallography"
+      name: 'Co-editor of Journal Acta Crystallographica Section A: Foundations of
+        Crystallography'
     - year: 2010
       name: J. D.  Hanawalt Award of the International Center for Diffraction Data
     - year: 2007
@@ -3153,8 +3130,7 @@ sbillinge:
     - year: 2006
       name: Fellow, American Physical Society
     - year: 2006
-      name:
-        Michigan State University, College of  Natural Science, Distinguished
+      name: Michigan State University, College of  Natural Science, Distinguished
         Faculty Award
     - year: 1998
       name: Thomas H. Osgood Undergraduate Teaching Award
@@ -3170,29 +3146,24 @@ sbillinge:
   orcid_id: 0000-0002-9734-4998
   position: professor
   research_focus_areas:
-    - description:
-        Solving the nanostructure inverse problem (finding the location
+    - description: Solving the nanostructure inverse problem (finding the location
         of atoms in nanomaterials and nanostructured bulk materials)
       begin_year: 2010
-    - description:
-        Developing concepts in materials genomics, towards predictive synthesis
+    - description: Developing concepts in materials genomics, towards predictive synthesis
         of new materials, by developing and applying concepts in graph theory, machine
         learning and statistics
       begin_year: 2014
     - description: Broadening the use of the atomic pair distribution function method
       begin_year: 1987
-    - description:
-        Understanding the physics of strongly correlated electron materials
+    - description: Understanding the physics of strongly correlated electron materials
         by studying their nanoscale electronic and magnetic textures
       begin_year: 1987
-    - description:
-        Local structure property relationships of disordered crystals and
+    - description: Local structure property relationships of disordered crystals and
         nanocrystals using advanced x-ray and neutron diffraction techniques.
       begin_year: 1987
     - description: Local structure of organic molecules and materials.
       begin_year: 1987
-    - description:
-        More information about my research, (p)reprints, and a complete
+    - description: More information about my research, (p)reprints, and a complete
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
   skills: []
@@ -3222,8 +3193,7 @@ sghose:
   active: true
   aka: []
   avatar: https://github.com/shogho0.png
-  bio:
-    Shomik is from Houston, Texas and is an undergraduate student studying computer
+  bio: Shomik is from Houston, Texas and is an undergraduate student studying computer
     science in Columbia's School of Engineering and Applied Sciences. He joined in
     the Billinge Group starting in summer 2020.
   education:
@@ -3248,8 +3218,7 @@ sharouna-mayer:
   active: true
   aka: []
   avatar: https://github.com/SaniHarouna-Mayer.png
-  bio:
-    Sani grew up in Kassel, Germany. He earned his Bachelors degree in nanoscience
+  bio: Sani grew up in Kassel, Germany. He earned his Bachelors degree in nanoscience
     in 2018 at the University of Hamburg. During his Bachelor project he worked on
     PDF analysis of electrochromic thin films in Prof. Dorota Koziej's group. Ever
     scince he continued working in her group as a research assistant, where he focuses
@@ -3359,8 +3328,7 @@ sstao:
     - S. Tao
     - Tao, S.
   avatar: https://github.com/st3107.png
-  bio:
-    Songsheng grew up in Beijing, China. He attended Peking University where he
+  bio: Songsheng grew up in Beijing, China. He attended Peking University where he
     earned a B. S. in physics. As Ph. D. student in Columbia University, he joined
     the Billinge Group in fall 2018 and is currently working on developing tools for
     texture analysis and using pair distribution functions for structure analysis.
@@ -3374,7 +3342,7 @@ sstao:
       department: apam
       degree: masters research assistant in Applied Physics
       other:
-        - "Advisor: Simon Billinge"
+        - 'Advisor: Simon Billinge'
     - institution: Peking University
       degree: BS in Physics
       begin_year: 2013
@@ -3439,8 +3407,7 @@ tcaswell:
   aka:
     - Thomas Alexander Caswell
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio:
-    Tom, all around great guy, is a computational scientist at Brookhaven National
+  bio: Tom, all around great guy, is a computational scientist at Brookhaven National
     Lab, an Adjunct faculty at Columbia, and a very welcome honorary member of the
     Billinge group for as long as he wants to be.
   education:
@@ -3528,8 +3495,7 @@ tproffen:
       begin_month: 10
       organization: Oak Ridge National Laboratory
       position: scientist
-      position_full:
-        Director Science Initiative for High Performance Computing and
+      position_full: Director Science Initiative for High Performance Computing and
         Data Analytics
     - begin_year: 2012
       begin_month: 10
@@ -3595,8 +3561,7 @@ vlin:
   active: true
   aka: []
   avatar: https://github.com/vivianlin2000.png
-  bio:
-    Vivian is an undergraduate research assistant  at Columbia University. She
+  bio: Vivian is an undergraduate research assistant  at Columbia University. She
     was born and raised in Northern Virginia (which is completely different from the
     rest of VA) and is pursuing a BS in Applied Math with a concentration in Computer
     Science. Vivian joined the Billinge group in the spring of 2020 and is excited
@@ -3853,18 +3818,18 @@ yrakita:
       department: Materials and Interfaces
       end_year: 2018
       other:
-        - "Advisors: Profs. Gary Hodes and David Cahen"
-        - "Thesis title: Between Structure and Performance in Halide Perovskites for
-          Photovoltaic Applications: the Role of Defects"
+        - 'Advisors: Profs. Gary Hodes and David Cahen'
+        - 'Thesis title: Between Structure and Performance in Halide Perovskites for
+          Photovoltaic Applications: the Role of Defects'
     - begin_year: 2010
       degree: M.Sc.
       institution: Tel-Aviv University
       department: Materials Engineering & Nanotechnology
       end_year: 2014
       other:
-        - "Advisors: Dr. Amir Natan and Prof. Dianna Golodnitsky"
-        - "Thesis title: Modelling the effect of adsorbed polyelectrolytes on the
-          electric potential at charged surfaces"
+        - 'Advisors: Dr. Amir Natan and Prof. Dianna Golodnitsky'
+        - 'Thesis title: Modelling the effect of adsorbed polyelectrolytes on the
+          electric potential at charged surfaces'
         - (summa cum laude)
     - begin_year: 2005
       degree: B.Sc.
@@ -3947,11 +3912,10 @@ zcliu:
     - Zicheng Liu
     - Taylor Liu
   avatar: https://github.com/zichengliu1997.png
-  bio:
-    Zicheng is from Guangzhou, China. He has spent the last year working as an undergraduate
-    research assistant in the plasma physics laboratory at Columbia University while majoring
-    in applied physics. He joined Dr. Billinge's group in the summer of 2020 as a visiting
-    undergraduate research assistant.
+  bio: Zicheng is from Guangzhou, China. He has spent the last year working as an
+    undergraduate research assistant in the plasma physics laboratory at Columbia
+    University while majoring in applied physics. He joined Dr. Billinge's group in
+    the summer of 2020 as a visiting undergraduate research assistant.
   education:
     - begin_year: 2015
       begin_month: 8
@@ -4024,8 +3988,7 @@ zthatcher:
     - Thatcher, Z. A.
     - Zachary A. Thatcher
   avatar: https://github.com/zthatch.png
-  bio:
-    Zach grew up in Connecticut and has spent the last few years working as an
+  bio: Zach grew up in Connecticut and has spent the last few years working as an
     engineering consultant in Arlington, VA. At the University of Connecticut he worked
     on characterization of ferroelectric thin films as a member of HueyAFM Labs. As
     an consulting engineer, he acted primarily as a a firmware developer for the medical
@@ -4083,7 +4046,7 @@ zzgong:
       group: bg
       advisor: sbillinge
       other:
-        - "Adviser: Simon Billinge and Yasutomo Uemura"
+        - 'Adviser: Simon Billinge and Yasutomo Uemura'
       department: physics
       begin_year: 2013
       end_year: 2018
@@ -4091,7 +4054,7 @@ zzgong:
     - begin_year: 2018
       location: San Jose, CA
       other:
-        - ""
+        - ''
       position: engineer
       position_full: Senior Optical Engineer
       organization: Hermes Microvision
