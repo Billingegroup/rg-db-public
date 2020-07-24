@@ -2283,7 +2283,7 @@ mterban:
   name: Maxwell Terban
   position: post-doctoral scholar
 mwaddell:
-  active: true
+  active: false
   aka:
     - Michael Waddell
     - Michael A. Waddell
@@ -3152,7 +3152,6 @@ sbillinge:
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
   skills: []
-  todos: []
 sdisch:
   active: false
   aka: []
