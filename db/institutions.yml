@@ -532,9 +532,13 @@ fau:
 flatironinstitute:
   aka:
     - flatiron
+    - flatironi
   city: New York
   country: USA
   date: 2020-07-07
+  departments:
+    ccm:
+      name: Center for Computational Mathematics
   name: The Flatiron Institute
   state: NY
   updated: 2020-07-07 04:45:25.008649

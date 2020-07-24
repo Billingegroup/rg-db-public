@@ -1952,7 +1952,7 @@ kloza:
   name: Kateryna Loza
   position: unknown
 kseth:
-  active: true
+  active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
@@ -2742,7 +2742,7 @@ rkoch:
   orcid_id: 0000-0003-4995-2101
   position: associate scientist
 rpokratath:
-  active: true
+  active: false
   aka:
     - Rohan Pokratath
   avatar: https://www.github.com/rohanpok.png
@@ -3152,6 +3152,7 @@ sbillinge:
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
   skills: []
+  todos: []
 sdisch:
   active: false
   aka: []
@@ -3243,7 +3244,7 @@ sharouna-mayer:
   name: Sani Harouna-Mayer
   position: visiting student
 smayers:
-  active: true
+  active: false
   aka:
     - Sam Mayers
   avatar: https://github.com/samrmayers.png
@@ -3259,6 +3260,8 @@ smayers:
   employment:
     - begin_year: 2020
       begin_month: 1
+      end_year: 2020
+      end_month: 7
       position: undergraduate research assistant
       advisor: sbillinge
       organization: Columbia University
