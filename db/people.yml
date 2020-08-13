@@ -4078,3 +4078,39 @@ zzgong:
   service: []
   skills: []
   title: Dr.
+llan:
+  active: True
+  aka:
+    - Ling Lan
+    - Lan, Ling
+  avatar: https://github.com/lanikaling.png
+  bio: bio
+  education:
+    - begin_year: 2019
+      begin_month: 6
+      degree: PhD in Applied Mathematics
+      institution: Columbia University
+      end_year: 2024
+      end_month: 12
+    - begin_year: 2018
+      begin_month: 6
+      degree: MS in Mathematics
+      institution: New York University
+      end_year: 2019
+      end_month: 9
+    - begin_year: 2015
+      begin_month: 9
+      degree: BA in Mathematics
+      institution: New York University
+      end_year: 2018
+      end_month: 5
+  employment:
+    - begin_year: 2020
+      begin_month: 9
+      position: phd research assistant
+      organization: Columbia University
+      group: bg
+      advisor: sbillinge
+      status: phd
+  name: Ling Lan
+  position: research assistant
