@@ -59,6 +59,7 @@ achoudhry:
       advisor: sbillinge
       group: bg
       status: undergrad
+  github_id: akshayc-01
   name: Akshay Choudhry
   position: undergraduate research assistant
 aday:
@@ -73,6 +74,7 @@ aday:
       end_year: 1984
   employment:
     - begin_year: 1999
+      end_year: 1999
       position: visiting scientist
       organization: msu
       advisor: sbillinge
@@ -90,6 +92,7 @@ adippel:
       degree: Master degree
   employment:
     - begin_year: 2014
+      end_year: 2014
       position: visiting scientist
       organization: columbiau
       advisor: sbillinge
@@ -107,6 +110,7 @@ aeberhadt:
       degree: PhD
   employment:
     - begin_year: 1997
+      end_year: 1997
       position: visiting scientist
       organization: msu
       advisor: sbillinge
@@ -902,6 +906,7 @@ dtordari:
   employment:
     - begin_year: 2009
       begin_month: 7
+      end_year: 2009
       position: visiting student
       organization: columbiau
       advisor: sbillinge
@@ -983,6 +988,7 @@ ebozin:
   email: ebozin@bnl.gov
   employment:
     - begin_year: 2015
+      end_year: 2100
       group: bg
       organization: bnl
       position: physicist
@@ -1190,8 +1196,7 @@ eshen:
   employment:
     - begin_year: 2020
       begin_month: 6
-      end_year: 2020
-      end_month: 5
+      end_year: 2024
       organization: columbiau
       position: graduate research assistant
       group: bg
@@ -1212,6 +1217,7 @@ fatassi:
       degree: PhD
   employment:
     - begin_year: 2005
+      end_year: 2005
       begin_month: 6
       position: visiting student
       organization: msu
@@ -1522,6 +1528,8 @@ hvuong:
   employment:
     - begin_year: 2019
       begin_month: 11
+      end_year: 2024
+      end_month: 6
       position: graduate research assistant
       organization: columbiau
       advisor: sbillinge
@@ -1569,12 +1577,16 @@ ikjeong:
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
-    - begin_year: 0
-      institution: columbiau
+    - begin_year: 1998
+      end_year: 2003
+      institution: msu
       degree: PhD
+      advisor: sbillinge
+      group: bg
   employment:
     - begin_year: 2010
       begin_month: 6
+      end_year: 2010
       position: visiting scientist
       organization: columbiau
       advisor: sbillinge
@@ -1744,12 +1756,8 @@ jchung:
       institution: msu
       degree: PhD
   employment:
-    - begin_year: 2002
-      position: visiting scientist
-      organization: msu
-      advisor: sbillinge
-      group: bg
     - begin_year: 2001
+      end_year: 2002
       position: visiting scientist
       organization: msu
       advisor: sbillinge
@@ -1859,8 +1867,8 @@ jwzang:
   employment:
     - begin_year: 2020
       begin_month: 5
-      end_year: 2024
-      end_month: 5
+      end_year: 2020
+      end_month: 8
       organization: columbiau
       position: graduate research assistant
       group: bg
@@ -1965,6 +1973,7 @@ kloza:
       organization: University of Duisburg-Essen
       position: unknown
     - begin_year: 2014
+      end_year: 2014
       begin_month: 4
       position: visiting student
       organization: columbiau
@@ -1973,7 +1982,7 @@ kloza:
   name: Kateryna Loza
   position: unknown
 kseth:
-  active: true
+  active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
@@ -1997,6 +2006,27 @@ kseth:
       status: visitor-unsupported
   name: Kriti Seth
   position: visiting student
+llan:
+  active: true
+  aka: []
+  avatar: https://github.com/lanikaling.png
+  bio: bio
+  education: []
+  email: ll3350@columbia.edu
+  employment:
+    - begin_year: 2020
+      begin_month: 8
+      end_year: 2024
+      end_month: 8
+      organization: columbiau
+      position: MS/PhD student
+      group: bg
+      advisor: sbillinge
+      status: phd
+  github_id: lanikaling
+  name: Ling Lan
+  orcid_id: 0000-0001-6267-4834
+  position: MS/PhD student
 lmalavasi:
   active: false
   aka: []
@@ -2041,6 +2071,8 @@ lyang:
       institution: Columbia University
   employment:
     - begin_year: 2017
+      end_year: 2020
+      end_month: 10
       begin_month: 1
       position: graduate research assistant
       organization: columbiau
@@ -2119,6 +2151,7 @@ mkane:
       degree: PhD
   employment:
     - begin_year: 1995
+      end_year: 1995
       position: visiting student
       organization: msu
       advisor: sbillinge
@@ -2304,7 +2337,7 @@ mterban:
   name: Maxwell Terban
   position: post-doctoral scholar
 mwaddell:
-  active: true
+  active: false
   aka:
     - Michael Waddell
     - Michael A. Waddell
@@ -2332,8 +2365,8 @@ mwaddell:
   employment:
     - begin_year: 2020
       begin_month: 5
-      end_year: 2021
-      end_month: 5
+      end_year: 2020
+      end_month: 8
       organization: columbiau
       position: adjunct scientist
       group: bg
@@ -2448,6 +2481,8 @@ oprymak:
       organization: uduisburgessen
       position: senior assistant lecturer
     - begin_year: 2014
+      end_year: 2014
+      end_month: 6
       begin_month: 4
       position: visiting scientist
       organization: columbiau
@@ -2466,6 +2501,7 @@ ostachs:
       degree: PhD
   employment:
     - begin_year: 1999
+      end_year: 1999
       position: visiting scientist
       organization: msu
       advisor: sbillinge
@@ -2724,6 +2760,7 @@ rjacubinas:
       degree: PhD
   employment:
     - begin_year: 1996
+      end_year: 1996
       position: visiting student
       organization: msu
       advisor: sbillinge
@@ -2763,7 +2800,7 @@ rkoch:
   orcid_id: 0000-0003-4995-2101
   position: associate scientist
 rpokratath:
-  active: true
+  active: false
   aka:
     - Rohan Pokratath
   avatar: https://www.github.com/rohanpok.png
@@ -3188,6 +3225,7 @@ sdisch:
       organization: ucologne
       position: professor
     - begin_year: 2008
+      end_year: 2008
       begin_month: 9
       position: visiting student
       organization: columbiau
@@ -3264,7 +3302,7 @@ sharouna-mayer:
   name: Sani Harouna-Mayer
   position: visiting student
 smayers:
-  active: true
+  active: false
   aka:
     - Sam Mayers
   avatar: https://github.com/samrmayers.png
@@ -3280,6 +3318,8 @@ smayers:
   employment:
     - begin_year: 2020
       begin_month: 1
+      end_year: 2020
+      end_month: 7
       position: undergraduate research assistant
       advisor: sbillinge
       organization: Columbia University
@@ -3299,6 +3339,7 @@ spattanaik:
       degree: PhD
   employment:
     - begin_year: 1997
+      end_year: 1997
       position: visiting student
       organization: msu
       advisor: sbillinge
@@ -3357,6 +3398,8 @@ sstao:
   email: st3107@columbia.edu
   employment:
     - begin_year: 2017
+      end_year: 2022
+      end_month: 3
       begin_month: 9
       position: graduate research assistant
       organization: columbiau
@@ -3379,6 +3422,8 @@ swhan:
       degree: PhD
   employment:
     - begin_year: 2004
+      end_year: 2004
+      end_month: 6
       begin_month: 1
       position: visiting student
       organization: msu
@@ -3425,6 +3470,7 @@ tcaswell:
       institution: cu
   employment:
     - begin_year: 2019
+      end_year: 2034
       begin_month: 10
       position: adjunct professor
       organization: columbiau
@@ -3606,6 +3652,7 @@ vnield:
       degree: PhD
   employment:
     - begin_year: 1997
+      end_year: 1997
       position: visiting scientist
       organization: msu
       advisor: sbillinge
@@ -3775,6 +3822,7 @@ yjhu:
       position: engineer
       position_full: senior software engineer
     - begin_year: 2012
+      end_year: 2012
       position: visiting scientist
       organization: columbiau
       advisor: sbillinge
@@ -3910,6 +3958,7 @@ yztao:
       end_year: 2019
       end_month: 6
       status: phd
+      group: bg
   name: Yunzhe Tao
   position: post-doctoral scholar
 zcliu:
