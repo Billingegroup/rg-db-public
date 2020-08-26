@@ -1025,6 +1025,7 @@ ebozin:
       group: bg
   name: Emil S. Bozin
   position: associate scientist
+  title: Dr.
 eculbertson:
   active: false
   aka:
@@ -2749,6 +2750,7 @@ rgu:
   name: Ran Gu
   orcid_id: 0000-0002-4416-5021
   position: post-doctoral scholar
+  title: Dr.
 rjacubinas:
   active: false
   aka: []
@@ -2799,6 +2801,7 @@ rkoch:
   name: Robert Koch
   orcid_id: 0000-0003-4995-2101
   position: associate scientist
+  title: Dr.
 rpokratath:
   active: false
   aka:
@@ -3210,6 +3213,7 @@ sbillinge:
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
   skills: []
+  title: Prof.
 sdisch:
   active: false
   aka: []
@@ -3904,6 +3908,7 @@ yrakita:
       status: postdoc
   name: Yevgeny Rakita
   position: post-doctoral scholar
+  title: Dr.
 yrshang:
   active: false
   aka:
