@@ -955,7 +955,7 @@ ebozin:
     - Bozin, Emil S.
     - Bozin, E. S.
     - Bozin, E.
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://gitlab.thebillingegroup.com/uploads/-/system/user/avatar/25/avatar.png
   bio: bio
   education:
     - institution: Michigan State University
@@ -3863,7 +3863,7 @@ yrakita:
   active: true
   aka:
     - Yevgeny Rakita
-  avatar: https://www.gitbub.com/yevgenyr.png
+  avatar: https://github.com/yevgenyr.png
   bio: bio
   education:
     - begin_year: 2014
