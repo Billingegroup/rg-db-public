@@ -46,8 +46,14 @@ achoudhry:
   active: true
   aka: []
   avatar: https://github.com/akshayc-01.png
-  bio: bio
-  education: []
+  bio: Akshay is a rising sophomore at Columbia Engineering studying Applied Mathematics.
+  education:
+    - begin_year: 2019
+      begin_month: 9
+      institution: columbiau
+      degree: BS - Applied Mathematics
+      end_year: 2023
+      end_month: 5
   email: ajc2289@columbia.edu
   employment:
     - begin_year: 2020
@@ -3260,6 +3266,7 @@ sghose:
       group: bg
       advisor: sbillinge
       status: undergrad
+  github_id: shogho0
   name: Shomik Ghose
   position: undergraduate research assistant
 sharouna-mayer:
