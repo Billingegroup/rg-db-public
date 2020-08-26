@@ -3077,6 +3077,7 @@ sbillinge:
       department: Applied Physics and Applied Mathematics
       position: professor
       status: pi
+      permanent: true
     - organization: iucr
       begin_year: 2011
       other:
