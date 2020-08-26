@@ -45,9 +45,15 @@ aabeykoon:
 achoudhry:
   active: true
   aka: []
-  avatar: https://github.com/tbd.png
-  bio: bio
-  education: []
+  avatar: https://github.com/akshayc-01.png
+  bio: Akshay is a rising sophomore at Columbia Engineering studying Applied Mathematics.
+  education:
+    - begin_year: 2019
+      begin_month: 9
+      institution: columbiau
+      degree: BS - Applied Mathematics
+      end_year: 2023
+      end_month: 5
   email: ajc2289@columbia.edu
   employment:
     - begin_year: 2020
@@ -955,7 +961,7 @@ ebozin:
     - Bozin, Emil S.
     - Bozin, E. S.
     - Bozin, E.
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://gitlab.thebillingegroup.com/uploads/-/system/user/avatar/25/avatar.png
   bio: bio
   education:
     - institution: Michigan State University
@@ -1024,7 +1030,8 @@ ebozin:
       end_month: 4
       group: bg
   name: Emil S. Bozin
-  position: scientist
+  position: associate scientist
+  title: Dr.
 eculbertson:
   active: false
   aka:
@@ -2749,6 +2756,7 @@ rgu:
   name: Ran Gu
   orcid_id: 0000-0002-4416-5021
   position: post-doctoral scholar
+  title: Dr.
 rjacubinas:
   active: false
   aka: []
@@ -2773,7 +2781,7 @@ rkoch:
     - Robert Koch
     - R. Koch
     - Koch, R. J.
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  avatar: https://gitlab.thebillingegroup.com/uploads/-/system/user/avatar/107/avatar.png
   bio: bio
   education:
     - institution: University of Trento
@@ -2798,7 +2806,8 @@ rkoch:
   github_id: rjkoch
   name: Robert Koch
   orcid_id: 0000-0003-4995-2101
-  position: associate scientist
+  position: post-doctoral scholar
+  title: Dr.
 rpokratath:
   active: false
   aka:
@@ -3210,6 +3219,7 @@ sbillinge:
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
   skills: []
+  title: Prof.
 sdisch:
   active: false
   aka: []
@@ -3256,6 +3266,7 @@ sghose:
       group: bg
       advisor: sbillinge
       status: undergrad
+  github_id: shogho0
   name: Shomik Ghose
   position: undergraduate research assistant
 sharouna-mayer:
@@ -3863,7 +3874,7 @@ yrakita:
   active: true
   aka:
     - Yevgeny Rakita
-  avatar: https://www.gitbub.com/yevgenyr.png
+  avatar: https://github.com/yevgenyr.png
   bio: bio
   education:
     - begin_year: 2014
@@ -3904,6 +3915,7 @@ yrakita:
       status: postdoc
   name: Yevgeny Rakita
   position: post-doctoral scholar
+  title: Dr.
 yrshang:
   active: false
   aka:
