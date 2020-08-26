@@ -1024,7 +1024,7 @@ ebozin:
       end_month: 4
       group: bg
   name: Emil S. Bozin
-  position: post-doctoral scholar
+  position: scientist
 eculbertson:
   active: false
   aka:
@@ -1168,7 +1168,7 @@ ekjaer:
   position_full: visiting PhD Researcher, U. Copenhagen
 eshen:
   active: true
-  aka: 
+  aka:
     - Eric Shen
     - Eric Jyh-Yu Shen
     - Eric J. Shen
@@ -1176,11 +1176,11 @@ eshen:
     - Shen, Eric J.
     - Shen, E. J.
   avatar: https://github.com/sheneric88.png
-  bio:
-    Eric is a Materials Science Ph.D. student from Detroit/Houston. He graduated from
-    Cornell University with a B.A. in Physics, B.A. in Chemistry, and minor in Music.
-    In his free time, you can find him playing violin, conducting, cooking Taiwanese
-    food, taking an excessive amount of photos, or going on runs (to play Pokemon).
+  bio: Eric is a Materials Science Ph.D. student from Detroit/Houston. He graduated
+    from Cornell University with a B.A. in Physics, B.A. in Chemistry, and minor in
+    Music. In his free time, you can find him playing violin, conducting, cooking
+    Taiwanese food, taking an excessive amount of photos, or going on runs (to play
+    Pokemon).
   education:
     - begin_year: 2016
       begin_month: 8
@@ -2026,7 +2026,7 @@ llan:
   github_id: lanikaling
   name: Ling Lan
   orcid_id: 0000-0001-6267-4834
-  position: MS/PhD student
+  position: graduate research assistant
 lmalavasi:
   active: false
   aka: []
@@ -3347,7 +3347,7 @@ spattanaik:
   name: Sidharta Pattanaik
   position: unknown
 sskjaervoe:
-  active: false
+  active: true
   aka:
     - Sandra H. Skjærvø
   avatar: https://github.com/sandraskj.png
@@ -3356,9 +3356,9 @@ sskjaervoe:
   email: sandraskj@gmail.com
   employment:
     - begin_year: 2020
-      begin_month: 7
+      begin_month: 8
       end_year: 2022
-      end_month: 6
+      end_month: 10
       organization: columbiau
       advisor: sbillinge
       position: post-doctoral scholar
