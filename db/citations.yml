@@ -2082,6 +2082,49 @@ boolc;pm05:
   wwwemail: ' sb2896@columbia.edu'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/boolc_pm05.pdf
   year: '2005'
+boota;cm20:
+  ackno: This work was supported as part of the Fluid Interface Reactions, Structures
+    and Transport (FIRST) Center, an Energy Frontier Research Center funded by the
+    U.S. Department of Energy, Office of Science, and Office of Basic Energy Sciences.
+    C. C. was supported by the Chinese Scholarship Council. L.Y. and S.J.L.B.’s effort
+    on PDF analysis and modeling was supported by the NSF MRSEC program through Columbia
+    in the Center for Precision Assembly of Superstratic and Superatomic Solids (DMR-1420634).
+    X-ray PDF measurements were conducted on beamline 28-ID2 of the National Synchrotron
+    Light Source II (NSLSII), a U.S. Department of Energy (DOE) Office of Science
+    User Facility operated for the DOE Office of Science by Brookhaven National Laboratory
+    under Contract No. DE-SC0012704. Use of the beamline X17A of the NSLS was supported
+    by the DOE-BES under Contract No. DEAC02-98CH10886 This research used resources
+    at the Spallation Neutron Source, a DOE Office of Science User Facility operated
+    by the Oak Ridge National Laboratory. Oak Ridge National Laboratory is managed
+    by UT-Battelle, LLC, for the U.S. DOE under Contract No. DEAC05-00OR22725.
+  author:
+    - Muhammad Boota
+    - Chi Chen
+    - Long Yang
+    - Alexander I. Kolesnikov
+    - Naresh C. Osti
+    - William Porzio
+    - Luisa Barba
+    - Jianjun Jiang
+  doi: ''
+  entrytype: article
+  facility: xpd, nslsii, x17a, nsls
+  grant: mrsec14
+  journal: Chem. Mater.
+  month: tbd
+  nb: art
+  note: 'to be published'
+  notes: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  title: Probing molecular interactions at MXene—organic heterointerfaces
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2020'
 booth;jpconfs10:
   author:
     - Booth, C. H.
