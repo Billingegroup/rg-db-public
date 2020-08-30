@@ -294,42 +294,6 @@ assef;sa20:
   wwwemail: ''
   wwwpub: ''
   year: '2020'
-cao;ami19:
-  author:
-    - Yue Cao
-    - Tadesse Assefa
-    - Soham Banerjee
-    - Andrew Wieteska
-    - Dennis Wang
-    - Abhay Pasupathy
-    - Xiao Tong
-    - Yu Liu
-    - Wenjian Lu
-    - Yu-Ping Sun
-    - Yan He
-    - Xiaojing Huang
-    - Hanfei Yan
-    - Yong S. Chu
-    - Simon J. L. Billinge
-    - Ian K. Robinson
-  doi: ''
-  entrytype: article
-  facility: ''
-  grant: fwp17
-  journal: ACS Appl. Mater. Interf.
-  month: tbd
-  nb: fy19, typeA
-  note: to be published
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
-  title: Complete Strain Mapping of Nanosheets of Transition Metal Chalcogenides
-  url: ''
-  volume: ''
-  wwwemail: ''
-  wwwpub: ''
-  year: '2020'
 aydt;acsami19:
   author:
     - Aydt, Alexander P.
@@ -2083,20 +2047,20 @@ boolc;pm05:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/boolc_pm05.pdf
   year: '2005'
 boota;cm20:
-  ackno: This work was supported as part of the Fluid Interface Reactions, Structures
-    and Transport (FIRST) Center, an Energy Frontier Research Center funded by the
-    U.S. Department of Energy, Office of Science, and Office of Basic Energy Sciences.
-    C. C. was supported by the Chinese Scholarship Council. L.Y. and S.J.L.B.’s effort
-    on PDF analysis and modeling was supported by the NSF MRSEC program through Columbia
-    in the Center for Precision Assembly of Superstratic and Superatomic Solids (DMR-1420634).
-    X-ray PDF measurements were conducted on beamline 28-ID2 of the National Synchrotron
-    Light Source II (NSLSII), a U.S. Department of Energy (DOE) Office of Science
-    User Facility operated for the DOE Office of Science by Brookhaven National Laboratory
-    under Contract No. DE-SC0012704. Use of the beamline X17A of the NSLS was supported
-    by the DOE-BES under Contract No. DEAC02-98CH10886 This research used resources
-    at the Spallation Neutron Source, a DOE Office of Science User Facility operated
-    by the Oak Ridge National Laboratory. Oak Ridge National Laboratory is managed
-    by UT-Battelle, LLC, for the U.S. DOE under Contract No. DEAC05-00OR22725.
+  ackno: We thank Prof. Yury Gogotsi and Prof. Simon J. L. Billinge for the helpful discussion
+    and advice. This work was supported as part of the Fluid Interface Reactions, Structures
+    and Transport (FIRST) Center, an Energy Frontier Research Center funded by the U.S. Department
+    of Energy, Office of Science, and Office of Basic Energy Sciences. C. C. was supported by
+    the Chinese Scholarship Council. L.Y.’s effort on PDF analysis and modeling was supported
+    by the NSF MRSEC program through Columbia in the Center for Precision Assembly of Superstratic
+    and Superatomic Solids (DMR-1420634). X-ray PDF measurements were conducted on beamline 28-ID2
+    of the National Synchrotron Light Source II (NSLSII), a U.S. Department of Energy (DOE) Office
+    of Science User Facility operated for the DOE Office of Science by Brookhaven National Laboratory
+    under Contract No. DE-SC0012704. Use of the beamline X17A of the NSLS was supported by the
+    DOE-BES under Contract No. DEAC02-98CH10886 This research used resources at the Spallation
+    Neutron Source, a DOE Office of Science User Facility operated by the Oak Ridge National
+    Laboratory. Oak Ridge National Laboratory is managed by UT-Battelle, LLC, for the U.S. DOE under
+    Contract No. DEAC05-00OR22725.
   author:
     - Muhammad Boota
     - Chi Chen
@@ -2113,7 +2077,7 @@ boota;cm20:
   journal: Chem. Mater.
   month: tbd
   nb: art
-  note: 'to be published'
+  note: to be published
   notes: ''
   number: ''
   optannote: ''
@@ -2919,6 +2883,42 @@ campi;jsnm07:
   wwwemail: ' sb2896@columbia.edu'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/campi_jsnm07.pdf
   year: '2007'
+cao;ami19:
+  author:
+    - Yue Cao
+    - Tadesse Assefa
+    - Soham Banerjee
+    - Andrew Wieteska
+    - Dennis Wang
+    - Abhay Pasupathy
+    - Xiao Tong
+    - Yu Liu
+    - Wenjian Lu
+    - Yu-Ping Sun
+    - Yan He
+    - Xiaojing Huang
+    - Hanfei Yan
+    - Yong S. Chu
+    - Simon J. L. Billinge
+    - Ian K. Robinson
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: fwp17
+  journal: ACS Appl. Mater. Interf.
+  month: tbd
+  nb: fy19, typeA
+  note: to be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  title: Complete Strain Mapping of Nanosheets of Transition Metal Chalcogenides
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2020'
 cherb;gecco05:
   abstract: "A genetic algorithm is proposed with real value\nvariables, spatially\
     \ based crossover operator, a small mutation,\nlarge scale mutation, vector sum\
