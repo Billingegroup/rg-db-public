@@ -43,7 +43,7 @@ aabeykoon:
   name: A. M. Milinda Abeykoon
   position: assistant scientist
 achoudhry:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/akshayc-01.png
   bio: Akshay is a rising sophomore at Columbia Engineering studying Applied Mathematics.
@@ -156,6 +156,7 @@ aejaz:
       advisor: sbillinge
       status: undergrad
   github_id: adibaejaz
+  grp_mtg_active: false
   name: Adiba Ejaz
   position: undergraduate research assistant
 akovyakh:
@@ -313,6 +314,7 @@ ashaaban:
       group: bg
       status: undergrad
   github_id: AhmedS343
+  grp_mtg_active: true
   name: Ahmed Shaaban
   position: undergraduate research assistant
 bfrandsen:
@@ -382,6 +384,7 @@ bozer:
       group: bg
       status: ms
   github_id: berrakozer
+  grp_mtg_active: true
   name: Berrak Ozer
   position: masters research assistant
 btabanpour:
@@ -950,6 +953,7 @@ dyano:
       advisor: sbillinge
       status: undergrad
   github_id: dy2403
+  grp_mtg_active: true
   name: Daniela Hikari Yano
   position: undergraduate research assistant
 ebozin:
@@ -994,11 +998,11 @@ ebozin:
   email: ebozin@bnl.gov
   employment:
     - begin_year: 2015
-      end_year: 2100
       group: bg
       organization: bnl
       position: physicist
       status: postdoc
+      permanent: true
     - begin_year: 2012
       end_year: 2015
       group: bg
@@ -1029,6 +1033,7 @@ ebozin:
       end_year: 2003
       end_month: 4
       group: bg
+  grp_mtg_active: false
   name: Emil S. Bozin
   position: associate scientist
   title: Dr.
@@ -1170,6 +1175,7 @@ ekjaer:
       advisor: sbillinge
       group: bg
       status: visitor-unsupported
+  grp_mtg_active: true
   name: Emil Kjaer
   position: visiting student
   position_full: visiting PhD Researcher, U. Copenhagen
@@ -1210,6 +1216,7 @@ eshen:
       advisor: sbillinge
       status: phd
   github_id: sheneric88
+  grp_mtg_active: true
   name: Eric Shen
   orcid_id: 0000-0001-6715-7262
   position: graduate research assistant
@@ -1544,6 +1551,7 @@ hvuong:
       group: bg
   github_id: tienhungvuong
   google_scholar_url: https://scholar.google.com/citations?user=DST508IAAAAJ&hl=en&authuser=1
+  grp_mtg_active: true
   name: Hung Vuong
   orcid_id: 0000-0001-7965-379X
   position: graduate research assistant
@@ -1844,11 +1852,12 @@ jumana:
       status: undergrad
   github_id: jc-umana
   google_scholar_url: https://scholar.google.com/citations?user=sapBk3kAAAAJ&hl=en
+  grp_mtg_active: true
   name: Jaylyn C. Umana
   orcid_id: 0000-0002-1882-8653
   position: undergraduate research assistant
 jwzang:
-  active: true
+  active: false
   aka:
     - Jiawei Zang
     - Zang, Jiawei
@@ -2031,6 +2040,7 @@ llan:
       advisor: sbillinge
       status: phd
   github_id: lanikaling
+  grp_mtg_active: true
   name: Ling Lan
   orcid_id: 0000-0001-6267-4834
   position: graduate research assistant
@@ -2079,13 +2089,14 @@ lyang:
   employment:
     - begin_year: 2017
       end_year: 2020
-      end_month: 10
+      end_month: 9
       begin_month: 1
       position: graduate research assistant
       organization: columbiau
       status: phd
       advisor: sbillinge
       group: bg
+  grp_mtg_active: true
   name: Long Yang
   position: graduate research assistant
 mdapiaggi:
@@ -2393,7 +2404,7 @@ mwaddell:
   orcid_id: 0000-0003-0908-7571
   position: adjunct scientist
 mwinitch:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/mwinitch.png
   bio: Michael is an undergraduate from New York. He is majoring in computer science
@@ -2687,6 +2698,28 @@ ptian:
   name: Peng Tian
   position: programmer
   position_full: Rates Quant
+raidun:
+  active: true
+  aka: []
+  avatar: https://github.com/raidun99.png
+  bio: bio
+  education: []
+  email: ra2912@columbia.edu
+  employment:
+    - begin_year: 2020
+      begin_month: 9
+      end_year: 2021
+      end_month: 5
+      organization: columbiau
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: raidun99
+  grp_mtg_active: true
+  name: Ruby Aidun
+  orcid_id: '0000'
+  position: undergraduate researcher
 rdifrancesco:
   active: false
   aka: []
@@ -2744,7 +2777,7 @@ rgu:
   employment:
     - begin_year: 2017
       begin_month: 9
-      end_month: 9
+      end_month: 11
       end_year: 2020
       status: postdoc
       advisor: sbillinge
@@ -2753,6 +2786,7 @@ rgu:
       organization: Columbia University
   github_id: guran1214
   google_scholar_url: https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F7z7xLHLAfG-0KjERWe7zeuQgGtwaYiHFOad01S66fU1UZDsC9gMhfU2okIFbtvgeXHRtYu6igeFqbLBqKw12J1zF2K3g&user=3MveL9IAAAAJ
+  grp_mtg_active: true
   name: Ran Gu
   orcid_id: 0000-0002-4416-5021
   position: post-doctoral scholar
@@ -2804,6 +2838,7 @@ rkoch:
       position: post-doctoral scholar
       status: postdoc
   github_id: rjkoch
+  grp_mtg_active: false
   name: Robert Koch
   orcid_id: 0000-0003-4995-2101
   position: post-doctoral scholar
@@ -3153,6 +3188,7 @@ sbillinge:
   funding: []
   github_id: sbillinge
   google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
+  grp_mtg_active: true
   honors:
     - name: Distinguished Powder Diffractionist Prize of the European Powder Diffraction
         Conference
@@ -3245,7 +3281,7 @@ sdisch:
   name: Sabrina Disch
   position: unknown
 sghose:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/shogho0.png
   bio: Shomik is from Houston, Texas and is an undergraduate student studying computer
@@ -3268,6 +3304,7 @@ sghose:
       advisor: sbillinge
       status: undergrad
   github_id: shogho0
+  grp_mtg_active: false
   name: Shomik Ghose
   position: undergraduate research assistant
 sharouna-mayer:
@@ -3311,6 +3348,7 @@ sharouna-mayer:
       end_year: 2017
       end_month: 10
   github_id: SaniHarouna-Mayer
+  grp_mtg_active: true
   name: Sani Harouna-Mayer
   position: visiting student
 smayers:
@@ -3376,6 +3414,7 @@ sskjaervoe:
       position: post-doctoral scholar
       group: bg
       status: postdoc
+  grp_mtg_active: true
   name: Sandra H. Skjaervoe
   position: post-doctoral scholar
   title: Dr.
@@ -3420,6 +3459,7 @@ sstao:
       group: bg
   github_id: st3107
   google_scholar_url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=xe1JOIAAAAAJ
+  grp_mtg_active: true
   name: Songsheng Tao
   orcid_id: 0000-0002-7565-3503
   position: graduate research assistant
@@ -3650,6 +3690,7 @@ vlin:
       advisor: sbillinge
       status: undergrad
   github_id: vivlin2000
+  grp_mtg_active: false
   name: Vivian Lin
   position: undergraduate research assistant
 vnield:
@@ -3914,6 +3955,7 @@ yrakita:
       group: bg
       position: post-doctoral scholar
       status: postdoc
+  grp_mtg_active: true
   name: Yevgeny Rakita
   position: post-doctoral scholar
   title: Dr.
@@ -3975,7 +4017,7 @@ yztao:
   name: Yunzhe Tao
   position: post-doctoral scholar
 zcliu:
-  active: true
+  active: false
   aka:
     - Zicheng Liu
     - Taylor Liu
@@ -4094,6 +4136,7 @@ zthatcher:
       organization: MPR Associates, Inc.
   github_id: zthatch
   google_scholar_url: https://scholar.google.com/citations?user=Vhe9fvkAAAAJ&hl=en&oi=ao
+  grp_mtg_active: true
   name: Zach Thatcher
   orcid_id: 0000-0002-8680-1540
   position: graduate research assistant
