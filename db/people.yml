@@ -455,6 +455,25 @@ cfarrow:
   name: Chris Farrow
   position: president
   position_full: Vice President
+cgutierrez:
+  active: false
+  aka: []
+  avatar: https://github.com/.png
+  bio: bio
+  education: []
+  email: 'gutierrez@physics.ucla.edu '
+  employment:
+    - begin_date: 2011-01-01
+      end_date: 2016-08-15
+      organization: columbiau
+      position: Graduate Research Assistant
+      group: bg
+      advisor: sbillinge
+      status: phd
+  github_id: ''
+  name: Christopher Gutierrez
+  orcid_id: ''
+  position: Graduate Research Assistant
 chliu:
   active: false
   aka:
@@ -3751,6 +3770,25 @@ wzhou:
       position: post-doctoral scholar
   name: Wenduo Zhou
   position: programmer
+xchen:
+  active: false
+  aka: []
+  avatar: https://github.com/.png
+  bio: bio
+  education: []
+  email: xc2421@columbia.edu
+  employment:
+    - begin_date: 2017-09-04
+      end_date: 2019-05-20
+      organization: columbiau
+      position: Undergraduate Research Assistant
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: ''
+  name: Xin Chen
+  orcid_id: ''
+  position: Undergraduate Research Assistant
 xhyang:
   active: false
   aka:
