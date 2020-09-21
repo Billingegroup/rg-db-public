@@ -4222,3 +4222,22 @@ zzgong:
   service: []
   skills: []
   title: Dr.
+raidun:
+  active: true
+  aka: []
+  avatar: 
+  bio: Undergraduate student studying Materials Science and Engineering
+  education:
+    - begin_year: 2017
+      institution: columbiau
+      degree: BS
+  employment:
+    - begin_year: 2020
+      position: Undergraduate Assistant
+      organization: columbiau
+      advisor: sbillinge
+      group: bg
+  name: Ruby Aidun
+  position: Undergraduate Assistant
+
+
