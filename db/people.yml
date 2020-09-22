@@ -2721,7 +2721,8 @@ raidun:
   active: true
   aka: []
   avatar: https://github.com/raidun99.png
-  bio: bio
+  bio: Ruby grew up in Albuquerque, NM. She is currently an undergraduate student studying Materials Science and
+    Engineering with a minor in Computer Science. In her spare time she enjoys baking and listening to podcasts.
   education: []
   email: ra2912@columbia.edu
   employment:
@@ -4222,3 +4223,5 @@ zzgong:
   service: []
   skills: []
   title: Dr.
+
+
