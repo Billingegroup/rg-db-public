@@ -800,6 +800,16 @@ iocbari:
   city: Bari
   country: Italy
   name: Istituto Di Cristallografia
+iucr:
+  aka:
+    - IUCR
+    - IUCr
+  city: Chester
+  country: UK
+  departments:
+    aca:
+      name: 'Acta Crystallographica Section A: Foundations and Advances'
+  name: International Union of Crystallography
 jaea:
   aka:
     - jaea
