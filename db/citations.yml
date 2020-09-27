@@ -10010,6 +10010,47 @@ yang;arxiv15:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/15yangxpdfsuite.pdf
   year: '2015'
+yang;arxiv20:
+  ackno: 'Work at Brookhaven National Laboratory was supported by the U.S. Department of Energy (US DOE),
+  Office of Science, Office of Basic Energy Sciences under contract DE-SC0012704. LY and MGT acknowledge
+  support from the ORNL Graduate Opportunity (GO) program, which was funded by the Neutron Science
+  Directorate, with support from the Scientific User Facilities Division, Office of Basic Energy Science,
+  US DOE. Work in the Materials Science Division at Argonne National Laboratory (sample synthesis and
+  characterization) was sponsored by the US DOE Office of Science, Basic Energy Sciences, Materials Science
+   and Engineering Division. X-ray PDF measurements were conducted at 28-ID-1 and 28-ID-2 beamlines of the
+   National Synchrotron Light Source II, a US DOE Office of Science User Facility operated for the DOE Office
+  of Science by Brookhaven National Laboratory. Neutron diffraction experiments were carried out at the NOMAD
+  beamline of the Spallation Neutron Source, Oak Ridge National Laboratory, which was sponsored by the
+  Scientific User Facilities Division, Office of Basic Energy Science, US DOE.'
+  author:
+    - Long Yang
+    - Robert J. Koch
+    - Hong Zheng
+    - John F. Mitchell
+    - Weiguo Yin
+    - Matthew G. Tucker
+    - Simon J. L. Billinge
+    - Emil S. Bozin
+  doi: ''
+  entrytype: article
+  facility: xpd, pdf, nslsii, nomad, sns
+  grant: ornlgo17
+  journal: arXiv
+  month: tbd
+  nb: art
+  note: '2009.08923 [cond-mat.mtrl-sci]'
+  notes: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  title: Orbital degeneracy lifted state as a local precursor to the metal-insulator
+    transition of {MgTi$_2$O$_4$}
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2020'
 yang;jac14:
   author:
     - Yang, Xiaohao
