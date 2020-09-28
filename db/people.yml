@@ -3208,7 +3208,7 @@ sbillinge:
   funding: []
   github_id: sbillinge
   google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
-  grp_mtg_active: true
+  grp_mtg_active: false
   honors:
     - name: Distinguished Powder Diffractionist Prize of the European Powder Diffraction
         Conference
@@ -3354,9 +3354,9 @@ sharouna-mayer:
       begin_month: 12
       position: masters research assistant
       position_full: Visiting masters research assistant - U. Hamburg
-      organization: Columbia University
+      organization: uhamburg
       end_year: 2020
-      end_month: 8
+      end_month: 12
       advisor: sbillinge
       group: bg
       status: visitor-unsupported
@@ -3423,7 +3423,7 @@ sskjaervoe:
   avatar: https://github.com/sandraskj.png
   bio: bio
   education: []
-  email: sandraskj@gmail.com
+  email: shs2196@columbia.edu
   employment:
     - begin_year: 2020
       begin_month: 8
@@ -3986,8 +3986,8 @@ yrakita:
         - (summa cum laude)
   employment:
     - begin_year: 2019
-      begin_month: 9
-      end_month: 8
+      begin_month: 6
+      end_month: 5
       end_year: 2021
       organization: Columbia University
       advisor: sbillinge
