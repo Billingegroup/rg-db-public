@@ -9986,6 +9986,41 @@ yang;aca20:
   volume: '76'
   wwwemail: ''
   year: '2020'
+yang;aca20i:
+  ackno: Work in the S.J.L.B. group was supported by the U.S. National Science Foundation
+    through grant DMREF-1534910. L.Y. and M.G.T. acknowledge support from the ORNL
+    Graduate Opportunity (GO) program, which was funded by the Neutron Science Directorate,
+    with support from the Scientific User Facilities Division, Office of Basic Energy
+    Science, U.S. Department of Energy (DOE). K.M.\O.J. and E.T.S.K. acknowledge funding
+    from the European Research Council. This work is part of a project that has received
+    funding from the European Research Council (ERC) under the European Union’s Horizon
+    2020 Research and Innovation Programme (grant agreement No. 804066)
+  author:
+    - Long Yang
+    - Elizabeth A. Culbertson
+    - Nancy K. Thomas
+    - Hung T. Vuong
+    - Emil T. S. Kj{\ae}r
+    - Kirsten M. {\O}. Jensen
+    - Matthew G. Tucker
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: dmref15, ornlgo17
+  journal: Acta Crystallogr. A
+  month: tbd
+  nb: art
+  note: 'accepted'
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  title: 'A cloud platform for atomic pair distribution function analysis: PDFitc'
+  url: ''
+  volume: ''
+  wwwemail: ''
+  year: '2020'
 yang;arxiv15:
   author:
     - Yang, Xiaohao
