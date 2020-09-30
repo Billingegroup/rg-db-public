@@ -2057,12 +2057,12 @@ boota;cm20:
     Solids (DMR-1420634). X-ray PDF measurements were conducted on beamline 28-ID2
     of the National Synchrotron Light Source II (NSLSII), a U.S. Department of Energy
     (DOE) Office of Science User Facility operated for the DOE Office of Science by
-    Brookhaven National Laboratory under Contract No. DE-SC0012704. Use of the beamline
-    X17A of the NSLS was supported by the DOE-BES under Contract No. DEAC02-98CH10886
+    Brookhaven National Laboratory under contract no. DE-SC0012704. Use of the beamline
+    X17A of the NSLS was supported by the DOE-BES under contract no. DEAC02-98CH10886
     This research used resources at the Spallation Neutron Source, a DOE Office of
     Science User Facility operated by the Oak Ridge National Laboratory. Oak Ridge
     National Laboratory is managed by UT-Battelle, LLC, for the U.S. DOE under Contract
-    No. DEAC05-00OR22725.
+    no. DEAC05-00OR22725.
   author:
     - Muhammad Boota
     - Chi Chen
@@ -2072,22 +2072,22 @@ boota;cm20:
     - William Porzio
     - Luisa Barba
     - Jianjun Jiang
-  doi: ''
+  doi: '10.1021/acs.chemmater.0c02662'
   entrytype: article
   facility: xpd, nslsii, x17a, nsls
   grant: mrsec14
   journal: Chem. Mater.
-  month: tbd
+  month: Aug
   nb: art
-  note: to be published
+  note: ''
   notes: ''
-  number: ''
+  number: '18'
   optannote: ''
   optwwwlanl: ''
-  pages: ''
+  pages: '7884–7894'
   title: Probing molecular interactions at MXene—organic heterointerfaces
-  url: ''
-  volume: ''
+  url: 'https://pubs.acs.org/doi/10.1021/acs.chemmater.0c02662'
+  volume: '32'
   wwwemail: ''
   wwwpub: ''
   year: '2020'
