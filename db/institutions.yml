@@ -651,9 +651,15 @@ harvardu:
   departments:
     chemistry:
       name: Department of Chemistry and Chemical Biology
+    rowlandinst:
+      name: The Rowland Institute
+      aka:
+        - The Rowland Institute at Harvard University
+        - Rowland Institute
   name: Harvard University
   state: MA
   street: ''
+  updated: 2020-10-07 07:12:55.714540
   zip: '02138'
 hashemiteu:
   aka: []
