@@ -2072,7 +2072,7 @@ boota;cm20:
     - William Porzio
     - Luisa Barba
     - Jianjun Jiang
-  doi: '10.1021/acs.chemmater.0c02662'
+  doi: 10.1021/acs.chemmater.0c02662
   entrytype: article
   facility: xpd, nslsii, x17a, nsls
   grant: mrsec14
@@ -2084,9 +2084,9 @@ boota;cm20:
   number: '18'
   optannote: ''
   optwwwlanl: ''
-  pages: '7884–7894'
+  pages: 7884–7894
   title: Probing molecular interactions at MXene—organic heterointerfaces
-  url: 'https://pubs.acs.org/doi/10.1021/acs.chemmater.0c02662'
+  url: https://pubs.acs.org/doi/10.1021/acs.chemmater.0c02662
   volume: '32'
   wwwemail: ''
   wwwpub: ''
@@ -10050,7 +10050,7 @@ yang;aca20i:
   journal: Acta Crystallogr. A
   month: tbd
   nb: art
-  note: 'accepted'
+  note: accepted
   number: ''
   optannote: ''
   optwwwlanl: ''
@@ -10085,17 +10085,20 @@ yang;arxiv15:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/15yangxpdfsuite.pdf
   year: '2015'
 yang;arxiv20:
-  ackno: 'Work at Brookhaven National Laboratory was supported by the U.S. Department of Energy (US DOE),
-  Office of Science, Office of Basic Energy Sciences under contract DE-SC0012704. LY and MGT acknowledge
-  support from the ORNL Graduate Opportunity (GO) program, which was funded by the Neutron Science
-  Directorate, with support from the Scientific User Facilities Division, Office of Basic Energy Science,
-  US DOE. Work in the Materials Science Division at Argonne National Laboratory (sample synthesis and
-  characterization) was sponsored by the US DOE Office of Science, Basic Energy Sciences, Materials Science
-   and Engineering Division. X-ray PDF measurements were conducted at 28-ID-1 and 28-ID-2 beamlines of the
-   National Synchrotron Light Source II, a US DOE Office of Science User Facility operated for the DOE Office
-  of Science by Brookhaven National Laboratory. Neutron diffraction experiments were carried out at the NOMAD
-  beamline of the Spallation Neutron Source, Oak Ridge National Laboratory, which was sponsored by the
-  Scientific User Facilities Division, Office of Basic Energy Science, US DOE.'
+  ackno: Work at Brookhaven National Laboratory was supported by the U.S. Department
+    of Energy (US DOE), Office of Science, Office of Basic Energy Sciences under contract
+    DE-SC0012704. LY and MGT acknowledge support from the ORNL Graduate Opportunity
+    (GO) program, which was funded by the Neutron Science Directorate, with support
+    from the Scientific User Facilities Division, Office of Basic Energy Science,
+    US DOE. Work in the Materials Science Division at Argonne National Laboratory
+    (sample synthesis and characterization) was sponsored by the US DOE Office of
+    Science, Basic Energy Sciences, Materials Science and Engineering Division. X-ray
+    PDF measurements were conducted at 28-ID-1 and 28-ID-2 beamlines of the National
+    Synchrotron Light Source II, a US DOE Office of Science User Facility operated
+    for the DOE Office of Science by Brookhaven National Laboratory. Neutron diffraction
+    experiments were carried out at the NOMAD beamline of the Spallation Neutron Source,
+    Oak Ridge National Laboratory, which was sponsored by the Scientific User Facilities
+    Division, Office of Basic Energy Science, US DOE.
   author:
     - Long Yang
     - Robert J. Koch
@@ -10112,7 +10115,7 @@ yang;arxiv20:
   journal: arXiv
   month: tbd
   nb: art
-  note: '2009.08923 [cond-mat.mtrl-sci]'
+  note: 2009.08923 [cond-mat.mtrl-sci]
   notes: ''
   number: ''
   optannote: ''
