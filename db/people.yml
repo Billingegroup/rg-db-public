@@ -2632,6 +2632,26 @@ pjuhas:
       status: postdoc
   name: Pavol Juhas
   position: programmer
+pnehra:
+  active: true
+  aka: []
+  avatar: "https://github.com/priyankaanehra.png"
+  bio: bio
+  education: []
+  email: pn2365@columbia.edu
+  employment:
+    - begin_date: 2020-10-14
+      end_date: 2020-05-01
+      organization: columbiau
+      position: Undergraduate Researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: "priyankaanehra"
+  grp_mtg_active: false
+  name: Priyanka Nehra
+  orcid_id: ''
+  position: Undergraduate Researcher
 ppeterson:
   active: false
   aka: []
