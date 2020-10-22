@@ -172,21 +172,21 @@ anker;hdcc20:
     - Simon J. L. Billinge
     - Kirsten M. Ø. Jensen
     - Raghavendra Selvan
-  doi: ''
+  doi: 10.26434/chemrxiv.12662222
   entrytype: article
   facility: ''
-  grant: dmref15
+  grant: dmref19
   journal: KDD
   nb: ''
-  note: Submitted to the conference International Workshop on Deep Learning on Graphs
-    (KDD-DLG)
+  note: Accepted to the conference International Workshop on Deep Learning on Graphs
+    (KDD-DLG).  Available on ChemArxiv (doi is 10.26434/chemrxiv.12662222)
   number: ''
   optannote: ''
   optwwwlanl: ''
   pages: ''
   title: Characterising the atomic structure of mono-metallic nanoparticles from x-ray
     scattering data using conditional generative models
-  url: ''
+  url: https://chemrxiv.org/articles/preprint/Characterising_the_Atomic_Structure_of_Mono-Metallic_Nanoparticles_from_X-Ray_Scattering_Data_Using_Conditional_Generative_Models/12662222/1
   volume: ''
   wwwemail: ''
   wwwpub: ''
@@ -6630,6 +6630,7 @@ lo;nc20:
   optwwwlanl: ''
   optwwwpub: ''
   pages: 90-97
+  tags: mof
   title: Rapid desolvation-triggered domino lattice rearrangement in a metal–organic
     framework
   url: https://doi.org/10.1038/s41557-019-0364-0
@@ -8156,6 +8157,35 @@ qiu;prl05:
   wwwlanl: http://arXiv.org/abs/cond-mat/0408304
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/05qiu_prl.pdf
   year: '2005'
+rakit;jacs20:
+  ackno: ''
+  author:
+    - Rakita, Yevgeny
+    - O'Nolan, Daniel
+    - McAuliffe, Rebecca
+    - Veith, Gabriel
+    - Chupas, Peter
+    - Billinge, Simon
+    - Chapman, Karena
+  doi: ''
+  entrytype: article
+  facility: aps, 7bm
+  grant: efrc18
+  journal: J. American Chem. Soc.
+  month: Nov
+  nb: art
+  note: to be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  optwwwpub: ''
+  pages: ''
+  title: Active Reaction Control of Cu Redox State Based on Real-Time Feedback from
+    {\it in situ} Synchrotron Measurements
+  url: ''
+  volume: ''
+  wwwemail: ''
+  year: '2020'
 ranga;cm99:
   author:
     - Rangan, K. Kasthuri
@@ -9197,12 +9227,12 @@ terba;nan18:
   journal: Nanoscale
   month: Feb
   nb: ''
-  note: DOI:10.1039/C7NR07949D
   number: ''
   optannote: ''
+  optnote: DOI:10.1039/C7NR07949D
   optwwwlanl: ''
   pages: 4291--4300
-  tags: in_situ, synthesis
+  tags: in_situ, synthesis, mof
   title: Early stage structural development of prototypical zeolitic imidazolate framework
     (ZIF) in solution
   url: http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07949d/unauth\#!divAbstract
@@ -9433,41 +9463,59 @@ toby;aca04:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/03tobyaca.pdf
   year: '2004'
 todd;ic20:
-  ackno: ''
+  ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
+    Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,
+    Office of Science, Basic En- Energy Sciences under Award Number DE-SC0019212.
+    This research used resources at beamline 28-ID-2 of the National Synchrotron Light
+    Source II, a U.S. Department of Energy (DOE) Office of Science User Facility operated
+    for the DOE Office of Science by Brookhaven National Laboratory under Contract
+    No. DE-SC0012704. Research was performed at Oak Ridge National Laboratory (ORNL),
+    managed by UT Battelle, LLC for the U.S. Department of Energy (DOE) under contract
+    DE-AC05-00OR22725. A portion of this research used resources at the Spallation
+    Neutron Source a DOE Office of Science User Facility operated by the Oak Ridge
+    National Laboratory. We would like to acknowledge C. Rom for his assistance with
+    SXRD experiments. We would also like to acknowledge the facilities at 17-BM-B
+    at the Advanced Photon Source at Argonne National Laboratory and, in particular,
+    the support of A. Yakovenko, W. Wu. Theoretical calculations completed in this
+    research used resources of the National Energy Research Scientific Computing Center
+    (NERSC), a U.S. Department of Energy Office of Science User Facility operated
+    under Contract No. DE-AC02-05CH11231.'
   author:
-    - Paul Todd
+    - Paul K. Todd
     - Allison Wustrow
-    - Rebecca McAuliffe
-    - Matthew McDermott
-    - Gia Tran
-    - Brennan McBride
-    - Ethan Boeding
+    - Rebecca D. McAuliffe
+    - Matthew J. McDermott
+    - Gia Thinh Tran
+    - Brennan C. McBride
+    - Ethan D. Boeding
     - Daniel O'Nolan
     - Chia-Hao Liu
-    - Shyam Dwaraknath
-    - Karena Chapman
+    - Shyam S. Dwaraknath
+    - Karena W. Chapman
     - Simon J. L. Billinge
-    - Kristin Persson
+    - Kristin A. Persson
     - Ashfia Huq
-    - Gabriel Veith
-    - James Neilson
-  doi: ''
+    - Gabriel M. Veith
+    - James R. Neilson
+  day: '31'
+  doi: 10.1021/acs.inorgchem.0c02023
   entrytype: article
-  facility: ''
+  facility: nslslii, xpd, aps, 17bmb
   grant: efrc18
   journal: Inorg. Chem.
-  month: Sep
-  nb: ' art '
-  note: ''
+  month: Aug
+  nb: art
+  notes: ''
   number: ''
   optannote: ''
   optwwwlanl: ''
-  pages: ''
-  tags: in situ, method development
+  pages: 13639–13650
   title: Defect-accommodating intermediates yield selective low-temperature synthesis
-    of YMnO$_3$ polymorphs
-  url: ''
-  volume: ''
+    of {YMnO$_3$} polymorphs
+  url: https://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.0c02023
+  volume: '59'
+  wwwemail: ''
+  wwwpub: ''
   year: '2020'
 torch;nm13:
   author:
@@ -9904,7 +9952,7 @@ xiao;am19:
   doi: 10.1002/adma.201902393
   entrytype: article
   facility: ' xpd, nslsii '
-  grant: ' mrsec14 '
+  grant: mrsec14
   journal: Adv. Mater.
   month: June
   nb: ' art '
@@ -10111,7 +10159,7 @@ yang;arxiv20:
   doi: ''
   entrytype: article
   facility: xpd, pdf, nslsii, nomad, sns
-  grant: ornlgo17
+  grant: fwp17, ornlgo17
   journal: arXiv
   month: tbd
   nb: art
