@@ -5770,6 +5770,48 @@ knox;prb14:
   volume: '89'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/knox_prb14.pdf
   year: '2014'
+koch;arxiv20:
+  ackno: Work  at  Brookhaven  National  Laboratory  was  supported by U.S. Department
+    of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
+    contract No.  DE-SC0012704.  R.S. and H.Z. thank the support from the U.S. Department
+    of Energy under award DE-SC-0020254.  Neutron total scattering data were collected
+    at the NOMAD beamline (BL-1B) at the Spallation Neutron Source, a U.S. Department
+    of Energy Officeof Science User Facility operated by the Oak Ridge tional Laboratory.  X-ray
+    PDF measurements were conducted on beamline 28-ID-1 of the National SynchrotronLight  Source
+    II,  a  U.S.  Department  of  Energy  (DOE) Office of Science User Facility operated
+    for the DOE Office of Science by Brookhaven National Laboratory underContract
+    No.  DE-SC001270
+  author:
+    - R. J. Koch
+    - R. Sinclair
+    - M. T. McDonnell
+    - R. Yu
+    - M. Abeykoon
+    - M. G. Tucker
+    - A. M. Tsvelik
+    - S. J. L. Billinge
+    - H. D. Zhou
+    - W.-G. Yin
+    - E. S. Bozin
+  doi: ''
+  entrytype: article
+  facility: nomad, sns
+  grant: fwp17, ornlgo17, nslsii, pdf
+  journal: arXiv
+  month: tbd
+  nb: art
+  note: 2009.14288 [cond-mat.str-el]
+  notes: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  title: Dual Orbital Degeneracy Lifting in a Strongly Correlated Electron System
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2020'
 koch;prb19:
   author:
     - Koch, R. J.
@@ -7098,7 +7140,7 @@ onola;jac20:
   optannote: ''
   optwwwlanl: ''
   pages: 39-55
-  tags: in situ, method development
+  tags: in_situ, method_development
   title: A thermal-gradient approach to variable-temperature measurements resolved
     in space
   url: http://scripts.iucr.org/cgi-bin/paper?S160057672000415X
@@ -8167,7 +8209,7 @@ rakit;jacs20:
     - Chupas, Peter
     - Billinge, Simon
     - Chapman, Karena
-  doi: ''
+  doi: 10.1021/jacs.0c09418
   entrytype: article
   facility: aps, 7bm
   grant: efrc18
@@ -9510,6 +9552,7 @@ todd;ic20:
   optannote: ''
   optwwwlanl: ''
   pages: 13639–13650
+  tags: in_situ, synthesis, nmf
   title: Defect-accommodating intermediates yield selective low-temperature synthesis
     of {YMnO$_3$} polymorphs
   url: https://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.0c02023
