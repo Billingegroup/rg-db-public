@@ -2067,10 +2067,7 @@ lkranis:
   avatar: https://github.com/lkranis.png
   bio: bio
   education: []
-  email: "lmk2211@columbia.edu\e[1;2D\e[1;2D\e[1;2D\e[1;2D\e[1;2D\e[1;2D\e[1;2D\e\
-    [1;2D\e[1;2D\e[C\e[C\e[C\e[C\e[C\e[C\e[C\e[C\e[C\e[1;2D\e[1;2D\e[1;2D\e[1;2D\e\
-    [C\e[C\e[C\e[C\e[C\e[C\e[C\e[C\e[C\e[C\e[C\e[C\e[C\e[C\e[C\e[D\e[D\e[D\e[D\e[D\e\
-    [D\e[D\e[D\e[D\e[D\e[D"
+  email: lmk2211@columbia.edu
   employment:
     - begin_date: 2020-11-06
       end_date: 2021-05-31

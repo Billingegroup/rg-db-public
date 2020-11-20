@@ -1,4 +1,5 @@
 language: python
+
 env:
   global:
     - secure: "Sjhtn9gzLiStJq+TZ30LtID51O78GLd4+QH2YyTfviKtArTpJ7RX/Kqen3q2RM/c8MXBXzgSzzHmwTfSLVWzGJayCBPZn0rBwlD4ZjWLACRHm/m8AD684brJvh/Q/dJlMSu8Ry8SLnvaoEt8Swk9kwsSfYBR2W+ygcnGIk8bWWoBnlVDBPUwx0xItA7NBZvjKxFG7psCDP/JtIB70FYRpOEAMslX3mh/ZxvFrJM0m7NZ8kV7npWcPH5SWVJedyrhkJ1FzS238UNoaCb9i7y9gOdAG52Juyl8GqcBOyyv+jbfYEvYcPOYG/nj45HonR0GtYkMRFrcasfitPWA8y78T3FDoePSUa+WQBteN+Xn/ybvNjBU3JryyNrEf6yFqjqou2zNeQ6NMUOYq6D6RETNfl4oSPt5Bva8cVIIoWJuuSiL7XafUCRIuEcLu3DG3eDlyQ3Ctut9kAvL5MDWOvKfDLtb/3UfE2jaYdpAEvqvnn4xPj3t+xmvITtqhlKk+UCAHDqeG9DqH0SnTyrFYTbmEK8qphGTjgvR2HRyKA/m6M79Qn7T4QdI/H0Nb3y/NkuwRonV0qP3CNa7BRu/GWepyrjZQK2Apqyv9TFOZwkxf/3I1HWY0pyxNhWvC/CzJJKxxh2YwQRmkhQ92zavD3Ymew+F/SPpyvtaAVii5CsxtJ8="
@@ -20,8 +21,8 @@ before_install:
     conda config --add channels conda-forge;
     conda update -q conda;
     conda info -a;
-    git config --global user.email "cjwright4242@gmail.com";
-    git config --global user.name "Christopher J. Wright";
+    git config --global user.email "simon.billinge@gmail.com";
+    git config --global user.name "Simon Billinge";
 
 install:
   - conda install -c conda-forge --file https://raw.githubusercontent.com/regro/regolith/master/requirements/run.txt;
