@@ -10177,19 +10177,19 @@ yang;arxiv15:
   year: '2015'
 yang;arxiv20:
   ackno: Work at Brookhaven National Laboratory was supported by the U.S. Department
-    of Energy (US DOE), Office of Science, Office of Basic Energy Sciences under contract
-    DE-SC0012704. LY and MGT acknowledge support from the ORNL Graduate Opportunity
-    (GO) program, which was funded by the Neutron Science Directorate, with support
+    of Energy (DOE), Office of Science, Office of Basic Energy Sciences under Contract
+    No. DE-SC0012704. L.Y. and M.G.T. acknowledge support from the ORNL Graduate Opportunity
+    program, which was funded by the Neutron Science Directorate, with support
     from the Scientific User Facilities Division, Office of Basic Energy Science,
-    US DOE. Work in the Materials Science Division at Argonne National Laboratory
-    (sample synthesis and characterization) was sponsored by the US DOE Office of
+    U.S. DOE. Work in the Materials Science Division at Argonne National Laboratory
+    (sample synthesis and characterization) was sponsored by the U.S. DOE Office of
     Science, Basic Energy Sciences, Materials Science and Engineering Division. X-ray
     PDF measurements were conducted at 28-ID-1 and 28-ID-2 beamlines of the National
-    Synchrotron Light Source II, a US DOE Office of Science User Facility operated
+    Synchrotron Light Source II, a U.S. DOE Office of Science User Facility operated
     for the DOE Office of Science by Brookhaven National Laboratory. Neutron diffraction
     experiments were carried out at the NOMAD beamline of the Spallation Neutron Source,
     Oak Ridge National Laboratory, which was sponsored by the Scientific User Facilities
-    Division, Office of Basic Energy Science, US DOE.
+    Division, Office of Basic Energy Science, U.S. DOE.
   author:
     - Long Yang
     - Robert J. Koch
@@ -10206,14 +10206,15 @@ yang;arxiv20:
   journal: arXiv
   month: tbd
   nb: art
-  note: 2009.08923 [cond-mat.mtrl-sci]
+  note: to be published
   notes: ''
   number: ''
   optannote: ''
+  optnote: 2009.08923 [cond-mat.mtrl-sci]
   optwwwlanl: ''
   pages: ''
-  title: Orbital degeneracy lifted state as a local precursor to the metal-insulator
-    transition of {MgTi$_2$O$_4$}
+  title: Two-orbital degeneracy lifted local precursor to a metal-insulator
+    transition in {MgTi$_2$O$_4$}
   url: ''
   volume: ''
   wwwemail: ''
