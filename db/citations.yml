@@ -10175,7 +10175,7 @@ yang;arxiv15:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/15yangxpdfsuite.pdf
   year: '2015'
-yang;arxiv20:
+yang;prb20:
   ackno: Work at Brookhaven National Laboratory was supported by the U.S. Department
     of Energy (DOE), Office of Science, Office of Basic Energy Sciences under Contract
     No. DE-SC0012704. L.Y. and M.G.T. acknowledge support from the ORNL Graduate Opportunity
@@ -10203,14 +10203,14 @@ yang;arxiv20:
   entrytype: article
   facility: xpd, pdf, nslsii, nomad, sns
   grant: fwp17, ornlgo17
-  journal: arXiv
+  journal: prb
   month: tbd
   nb: art
   note: to be published
   notes: ''
   number: ''
   optannote: ''
-  optnote: 2009.08923 [cond-mat.mtrl-sci]
+  optnote: arXiv:2009.08923 [cond-mat.mtrl-sci]
   optwwwlanl: ''
   pages: ''
   title: Two-orbital degeneracy lifted local precursor to a metal-insulator
