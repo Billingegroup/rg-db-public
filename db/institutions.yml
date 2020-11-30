@@ -246,7 +246,9 @@ caltech:
     mrl:
       name: Materials Research Laboratory
       aka:
+        - materials research laboratory
         - materials
+        - materials department
   name: California Institute of Technology
   state: CA
   updated: 2020-11-10 19:37:08.009990
@@ -260,6 +262,17 @@ cas:
   day: 15
   month: 3
   name: The Chinese Academy of Sciences
+  schools:
+    iop:
+      aka:
+        - IoP-CAS
+        - IoP Chinese Academy of Sciences
+        - IoPCAS
+        - Institute of Physics Chinese Academy of Sciences
+      name: Institute of Physics
+    iocmasec:
+      aka: []
+      name: Institute of Computational Mathematics and Scientific/Engineering Computing
   year: 2020
 ccny:
   aka:
