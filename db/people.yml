@@ -2843,7 +2843,7 @@ rdifrancesco:
   position: manager
   position_full: Senior Support Consultant
 rgu:
-  active: true
+  active: false
   aka:
     - Ran Gu
     - Gu, Ran
@@ -2867,6 +2867,10 @@ rgu:
       end_year: 2012
       location: Tianjin, China
   employment:
+    - begin_year: 2020
+      begin_month: 11
+      position: Assistant Professor
+      organization: Nankai University
     - begin_year: 2017
       begin_month: 9
       end_month: 11
