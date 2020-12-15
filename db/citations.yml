@@ -10373,24 +10373,24 @@ yang;prb20:
     - Matthew G. Tucker
     - Simon J. L. Billinge
     - Emil S. Bozin
-  doi: ''
+  doi: 10.1103/PhysRevB.102.235128
   entrytype: article
   facility: xpd, pdf, nslsii, nomad, sns
   grant: fwp17, ornlgo17
   journal: prb
   month: tbd
   nb: art
-  note: to be published
+  note: ''
   notes: ''
-  number: ''
+  number: 23
   optannote: ''
   optnote: arXiv:2009.08923 [cond-mat.mtrl-sci]
   optwwwlanl: ''
-  pages: ''
+  pages: 235128
   title: Two-orbital degeneracy lifted local precursor to a metal-insulator transition
     in {MgTi$_2$O$_4$}
   url: ''
-  volume: ''
+  volume: 102
   wwwemail: ''
   wwwpub: ''
   year: '2020'
