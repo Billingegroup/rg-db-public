@@ -10382,15 +10382,15 @@ yang;prb20:
   nb: art
   note: ''
   notes: ''
-  number: 23
+  number: '23'
   optannote: ''
   optnote: arXiv:2009.08923 [cond-mat.mtrl-sci]
   optwwwlanl: ''
-  pages: 235128
+  pages: '235128'
   title: Two-orbital degeneracy lifted local precursor to a metal-insulator transition
     in {MgTi$_2$O$_4$}
   url: ''
-  volume: 102
+  volume: '102'
   wwwemail: ''
   wwwpub: ''
   year: '2020'
