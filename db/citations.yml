@@ -10249,7 +10249,7 @@ yang;aca21:
     Science, US Department of Energy (DOE). KM\OJ and ETSK acknowledge funding from
     the European Research Council. This work is part of a project that has received
     funding from the European Research Council (ERC) under the European Union’s Horizon
-    2020 Research and Innovation Programme (grant agreement No. 804066)
+    2020 Research and Innovation Programme (grant agreement No. 804066).
   author:
     - Long Yang
     - Elizabeth A. Culbertson
@@ -10264,10 +10264,10 @@ yang;aca21:
   facility: ''
   grant: dmref15, ornlgo17
   journal: Acta Crystallogr. A
-  month: tbd
+  month: Jan
   nb: art
-  note: to be published
-  number: ''
+  note: ''
+  number: '1'
   optannote: ''
   optwwwlanl: ''
   pages: ''
@@ -10377,8 +10377,8 @@ yang;prb20:
   entrytype: article
   facility: xpd, pdf, nslsii, nomad, sns
   grant: fwp17, ornlgo17
-  journal: prb
-  month: tbd
+  journal: Phys. Rev. B
+  month: Dec
   nb: art
   note: ''
   notes: ''
