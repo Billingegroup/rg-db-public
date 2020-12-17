@@ -3495,6 +3495,28 @@ doann;acsn14:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/doann_acsn14.pdf
   year: '2014'
+dudej;arxiv20:
+  author:
+    - Rishabh Dudeja
+    - Daniel Hsu
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: dmref15
+  journal: arXiv
+  month: Aug
+  nb: ''
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: 2008.04101
+  title: Statistical Query Lower Bounds for Tensor PCA
+  url: https://arxiv.org/abs/2008.04101
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2020'
 duxbu;4or16:
   author:
     - Billinge, Simon J. L.
@@ -9584,6 +9606,29 @@ torch;nm13:
   volume: '12'
   wwwemail: ''
   year: '2013'
+tosh;arxiv20:
+  author:
+    - Christopher Tosh
+    - Akshay Krishnamurthy
+    - Daniel Hsu
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: dmref15
+  journal: arXiv
+  month: Aug
+  nb: ''
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: 2008.10150
+  title: Contrastive learning, multi-view redundancy, and linear models
+  url: https://arxiv.org/abs/2008.10150
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2020'
 tyrst;acie12:
   author:
     - Tyrsted, Christoffer
@@ -9942,7 +9987,7 @@ wrigh;phdt;19:
   school: Columbia University
   title: Towards Real Time Characterization of Grain Growth from the Melt
   type: PhD Thesis
-  year: '2019'
+  year: '2020'
 xiao;afm19:
   author:
     - Xiao, Xu
