@@ -191,6 +191,39 @@ anker;hdcc20:
   wwwemail: ''
   wwwpub: ''
   year: '2020'
+wang;prb20:
+  ackno: We would like to thank Emil S. Božin for insightful discussions, and for
+    sharing data from ref46. The work in the Zunger group and Billinge group was supported
+    by the US National Science Foundation through grant DMREF- 1921949. The calculations
+    were done using the Extreme Science and Engineering Discovery Environment (XSEDE),
+    which is supported by the National Science Foundation grant number ACI-1548562.
+  author:
+    - Zhi Wang
+    - Xin-Gang Zhao
+    - Robert Koch
+    - Simon J. L. Billinge
+    - Alex Zunger
+  day: '9'
+  doi: 10.1103/PhysRevB.102.235121
+  entrytype: article
+  facility: ''
+  grant: dmref19
+  journal: Phys. Rev. B
+  month: Dec
+  nb: art
+  note: ''
+  notes: ''
+  number: '23'
+  optannote: ''
+  optwwwlanl: ''
+  pages: 235121
+  title: Understanding electronic peculiarities in tetragonal {FeSe} as local structural
+    symmetry breaking
+  url: https://link.aps.org/doi/10.1103/PhysRevB.102.235121
+  volume: '102'
+  wwwemail: ''
+  wwwpub: ''
+  year: '2020'
 antic;jpcm13:
   author:
     - Antic, B.
