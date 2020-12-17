@@ -992,6 +992,13 @@ mcmasteru:
   updated: 2020-02-14 19:38:46.027775
   uuid: bf1b9da0-ab1a-42e9-9f7d-06e80f5e2fc9
   year: 2020
+missing:
+  aka: []
+  city: missing
+  country: missing
+  name: missing
+  state: ''
+  zip: ''
 missouris&t:
   aka:
     - MUST
@@ -1020,13 +1027,6 @@ monashu:
   city: Clayton
   country: Australia
   name: Monash University
-missing:
-  aka: []
-  city: missing
-  country: missing
-  name: missing
-  state: ''
-  zip: ''
 mpi:
   aka:
     - Max Planck
@@ -2462,15 +2462,6 @@ utrechtu:
   day: 15
   month: 3
   name: Utrecht University
-  year: 2020
-utrento:
-  aka: []
-  country: Italy
-  day: 4
-  month: 1
-  name: University of Trento
-  updated: 2020-01-04 16:58:41.471245
-  uuid: 11ed0c1b-660d-43cd-ba94-c30a1c9b4c1f
   year: 2020
 utsinghua:
   aka:
