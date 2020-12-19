@@ -137,6 +137,58 @@ anaso;nh16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/c5nh00125k.pdf
   year: '2016'
+ander;iucrj20:
+  ackno: The authors are grateful for the instrumental beam times allocated at the
+    large-scale radiation facilities. The synchrotron-radiation powder-diffraction
+    experiments were performed at BL44B2 in SPring-8 with the approval of RIKEN. The
+    X-ray total-scattering experiments were performed on beamline ID11 at the ESRF,
+    Grenoble, France. We are grateful to Gavin Vaughan at the ESRF for providing assistance
+    in using beamline ID11. A portion of this research used resources at the SNS,
+    a DOE Office of Science User Facility operated by the Oak Ridge National Laboratory.
+    We are grateful to Mikhail Feygenson at the SNS for providing assistance in using
+    the NOMAD instrument. Affiliation with the Center for Integrated Materials Research
+    (iMAT) at Aarhus University is gratefully acknowledged. Funding information. This
+    work was financially supported by the Danish National Research Foundation (Center
+    for Materials Crystallography, DNRF93), Innovation Fund Denmark (Green Chemistry
+    for Advanced Materials, GCAM-4107-00008B), and the Danish Agency for Science,
+    Technology and Innovation via the instrument center DanScatt. Work in the Billinge
+    group was supported by US Department of Energy, Office of Science, Office of Basic
+    Energy Sciences (DOE-BES) under contract No. DE-SC0012704. Use of the NOMAD beamline
+    was sponsored by the Scientific User Facilities Division, Office of BES, US DOE.
+    Oak Ridge National Laboratory is operated under DOE Contract No. DE-AC05-00OR22725.
+    KMØJ is grateful to the Carlsberg Foundation for support through grant CF14-0652.
+  author:
+    - Henrik L. Andersen
+    - Benjamin A. Frandsen
+    - Haraldur P. Gunnlaugsson
+    - Mads R. V. Jørgensen
+    - Simon J. L. Billinge
+    - Kirsten M. Ø. Jensen
+    - Mogens Christensen
+  doi: 10.1107/S2052252520013585
+  entrytype: article
+  facility: nomad, sns, id11, esrf, bl44b2, spring8
+  grant: fwp20
+  journal: IUCrJ
+  month: Jan
+  nb: fy21, typeB2
+  number: '1'
+  optannote: ''
+  optnote: to be published
+  optwwwlanl: ''
+  pages: 2052-2525
+  summary_professional: ''
+  summary_public:
+    text: 'One of the first ever discovered magnetic materials is magnetite, \ce{Fe3O4},
+      known since ancient times.  It is a naturally '
+    figure: ''
+  title: Local and long-range atomic/magnetic structure of non-stoichiometric spinel
+    iron oxide nanocrystallites
+  url: https://doi.org/10.1107/S2052252520013585
+  volume: '8'
+  wwwemail: ''
+  wwwpub: ''
+  year: '2021'
 andon;c;tacolt:
   address: Amsterdam, Netherlands
   author:
@@ -188,39 +240,6 @@ anker;hdcc20:
     scattering data using conditional generative models
   url: https://chemrxiv.org/articles/preprint/Characterising_the_Atomic_Structure_of_Mono-Metallic_Nanoparticles_from_X-Ray_Scattering_Data_Using_Conditional_Generative_Models/12662222/1
   volume: ''
-  wwwemail: ''
-  wwwpub: ''
-  year: '2020'
-wang;prb20:
-  ackno: We would like to thank Emil S. Božin for insightful discussions, and for
-    sharing data from ref46. The work in the Zunger group and Billinge group was supported
-    by the US National Science Foundation through grant DMREF- 1921949. The calculations
-    were done using the Extreme Science and Engineering Discovery Environment (XSEDE),
-    which is supported by the National Science Foundation grant number ACI-1548562.
-  author:
-    - Zhi Wang
-    - Xin-Gang Zhao
-    - Robert Koch
-    - Simon J. L. Billinge
-    - Alex Zunger
-  day: '9'
-  doi: 10.1103/PhysRevB.102.235121
-  entrytype: article
-  facility: ''
-  grant: dmref19
-  journal: Phys. Rev. B
-  month: Dec
-  nb: art
-  note: ''
-  notes: ''
-  number: '23'
-  optannote: ''
-  optwwwlanl: ''
-  pages: 235121
-  title: Understanding electronic peculiarities in tetragonal {FeSe} as local structural
-    symmetry breaking
-  url: https://link.aps.org/doi/10.1103/PhysRevB.102.235121
-  volume: '102'
   wwwemail: ''
   wwwpub: ''
   year: '2020'
@@ -9655,7 +9674,7 @@ tosh;arxiv20:
   number: ''
   optannote: ''
   optwwwlanl: ''
-  pages: 2008.10150
+  pages: 2008.1015
   title: Contrastive learning, multi-view redundancy, and linear models
   url: https://arxiv.org/abs/2008.10150
   volume: ''
@@ -9931,6 +9950,39 @@ wang;prb16ii:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/wang_prb16ii.pdf
   year: '2016'
+wang;prb20:
+  ackno: We would like to thank Emil S. Božin for insightful discussions, and for
+    sharing data from ref46. The work in the Zunger group and Billinge group was supported
+    by the US National Science Foundation through grant DMREF- 1921949. The calculations
+    were done using the Extreme Science and Engineering Discovery Environment (XSEDE),
+    which is supported by the National Science Foundation grant number ACI-1548562.
+  author:
+    - Zhi Wang
+    - Xin-Gang Zhao
+    - Robert Koch
+    - Simon J. L. Billinge
+    - Alex Zunger
+  day: '9'
+  doi: 10.1103/PhysRevB.102.235121
+  entrytype: article
+  facility: ''
+  grant: dmref19
+  journal: Phys. Rev. B
+  month: Dec
+  nb: art
+  note: ''
+  notes: ''
+  number: '23'
+  optannote: ''
+  optwwwlanl: ''
+  pages: 235121
+  title: Understanding electronic peculiarities in tetragonal {FeSe} as local structural
+    symmetry breaking
+  url: https://link.aps.org/doi/10.1103/PhysRevB.102.235121
+  volume: '102'
+  wwwemail: ''
+  wwwpub: ''
+  year: '2020'
 wesle;acscat18:
   author:
     - Transue, Wesley J.
@@ -10253,51 +10305,6 @@ yang;arxiv15:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/15yangxpdfsuite.pdf
   year: '2015'
-yang;prb20:
-  ackno: Work at Brookhaven National Laboratory was supported by the U.S. Department
-    of Energy (DOE), Office of Science, Office of Basic Energy Sciences under Contract
-    No. DE-SC0012704. L.Y. and M.G.T. acknowledge support from the ORNL Graduate Opportunity
-    program, which was funded by the Neutron Science Directorate, with support
-    from the Scientific User Facilities Division, Office of Basic Energy Science,
-    U.S. DOE. Work in the Materials Science Division at Argonne National Laboratory
-    (sample synthesis and characterization) was sponsored by the U.S. DOE Office of
-    Science, Basic Energy Sciences, Materials Science and Engineering Division. X-ray
-    PDF measurements were conducted at 28-ID-1 and 28-ID-2 beamlines of the National
-    Synchrotron Light Source II, a U.S. DOE Office of Science User Facility operated
-    for the DOE Office of Science by Brookhaven National Laboratory. Neutron diffraction
-    experiments were carried out at the NOMAD beamline of the Spallation Neutron Source,
-    Oak Ridge National Laboratory, which was sponsored by the Scientific User Facilities
-    Division, Office of Basic Energy Science, U.S. DOE.
-  author:
-    - Long Yang
-    - Robert J. Koch
-    - Hong Zheng
-    - John F. Mitchell
-    - Weiguo Yin
-    - Matthew G. Tucker
-    - Simon J. L. Billinge
-    - Emil S. Bozin
-  doi: ''
-  entrytype: article
-  facility: xpd, pdf, nslsii, nomad, sns
-  grant: fwp17, ornlgo17
-  journal: prb
-  month: tbd
-  nb: art
-  note: to be published
-  notes: ''
-  number: ''
-  optannote: ''
-  optnote: arXiv:2009.08923 [cond-mat.mtrl-sci]
-  optwwwlanl: ''
-  pages: ''
-  title: Two-orbital degeneracy lifted local precursor to a metal-insulator
-    transition in {MgTi$_2$O$_4$}
-  url: ''
-  volume: ''
-  wwwemail: ''
-  wwwpub: ''
-  year: '2020'
 yang;jac14:
   author:
     - Yang, Xiaohao
@@ -10347,6 +10354,51 @@ yang;pccp13:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/yang_pccp13.pdf
   year: '2013'
+yang;prb20:
+  ackno: Work at Brookhaven National Laboratory was supported by the U.S. Department
+    of Energy (DOE), Office of Science, Office of Basic Energy Sciences under Contract
+    No. DE-SC0012704. L.Y. and M.G.T. acknowledge support from the ORNL Graduate Opportunity
+    program, which was funded by the Neutron Science Directorate, with support from
+    the Scientific User Facilities Division, Office of Basic Energy Science, U.S.
+    DOE. Work in the Materials Science Division at Argonne National Laboratory (sample
+    synthesis and characterization) was sponsored by the U.S. DOE Office of Science,
+    Basic Energy Sciences, Materials Science and Engineering Division. X-ray PDF measurements
+    were conducted at 28-ID-1 and 28-ID-2 beamlines of the National Synchrotron Light
+    Source II, a U.S. DOE Office of Science User Facility operated for the DOE Office
+    of Science by Brookhaven National Laboratory. Neutron diffraction experiments
+    were carried out at the NOMAD beamline of the Spallation Neutron Source, Oak Ridge
+    National Laboratory, which was sponsored by the Scientific User Facilities Division,
+    Office of Basic Energy Science, U.S. DOE.
+  author:
+    - Long Yang
+    - Robert J. Koch
+    - Hong Zheng
+    - John F. Mitchell
+    - Weiguo Yin
+    - Matthew G. Tucker
+    - Simon J. L. Billinge
+    - Emil S. Bozin
+  doi: ''
+  entrytype: article
+  facility: xpd, pdf, nslsii, nomad, sns
+  grant: fwp17, ornlgo17
+  journal: prb
+  month: tbd
+  nb: art
+  note: to be published
+  notes: ''
+  number: ''
+  optannote: ''
+  optnote: arXiv:2009.08923 [cond-mat.mtrl-sci]
+  optwwwlanl: ''
+  pages: ''
+  title: Two-orbital degeneracy lifted local precursor to a metal-insulator transition
+    in {MgTi$_2$O$_4$}
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2020'
 yao;jncs05:
   author:
     - Yao, W.
