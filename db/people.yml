@@ -1126,6 +1126,11 @@ eculbertson:
       gpa: 3.85
   email: elizabeth.a.culbertson@gmail.com
   employment:
+    - begin_year: 2019
+      location: New York City
+      other: []
+      position: Software Engineer
+      organization: Butterfly Network, Inc.
     - begin_year: 2018
       begin_month: 9
       position: graduate research assistant
