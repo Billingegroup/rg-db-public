@@ -963,32 +963,6 @@ dtordari:
       group: bg
   name: Daniel Tordera
   position: unknown
-mgutmann:
-  active: false
-  aka:
-    - Gutmann, M.
-  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
-  education:
-    - begin_year: 0
-      institution: unknown
-      degree: PhD
-  employment:
-    - begin_year: 2001
-      begin_month: 2
-      position: scientist
-      organization: isis
-    - begin_year: 1999
-      begin_month: 1
-      end_year: 2001
-      end_month: 1
-      position: postdoctoral associate
-      organization: msu
-      advisor: sbillinge
-      group: bg
-      status: postdoc
-  name: Matthias Gutmann
-  position: Scientist
 dyano:
   active: true
   aka:
@@ -2250,6 +2224,33 @@ mgarciafernandez:
       position: post-doctoral scholar
   name: Mirian García-Fernández
   position: scientist
+mgutmann:
+  active: false
+  aka:
+    - Gutmann, M.
+    - Gutmann, M
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 0
+      institution: unknown
+      degree: PhD
+  employment:
+    - begin_year: 2001
+      begin_month: 2
+      position: scientist
+      organization: rutherfordappletonlaboratory
+    - begin_year: 1999
+      begin_month: 1
+      end_year: 2001
+      end_month: 1
+      position: postdoctoral associate
+      organization: msu
+      advisor: sbillinge
+      group: bg
+      status: postdoc
+  name: Matthias Gutmann
+  position: Scientist
 mkane:
   active: false
   aka: []
@@ -3247,9 +3248,6 @@ sbillinge:
       permanent: true
     - organization: iucr
       begin_year: 2011
-      other:
-        - 'Full title: Professor of Materials Science and of Applied Physics and of
-          Applied Mathematics'
       department: aca
       position: editor
       coworkers:
