@@ -5,6 +5,7 @@ aabeykoon:
     - Abeykoon, A. M. Milinda
     - Abeykoon, M.
     - Abeykoon, Milinda
+    - Abeykoon, A. M. M.
   avatar: https://github.com/benfrandsen.png
   bio: bio
   education:
@@ -437,6 +438,7 @@ cfarrow:
     - Chris Farrow
     - Farrow, C.
     - Farrow, Chris
+    - Farrow, Christopher L.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
@@ -961,6 +963,32 @@ dtordari:
       group: bg
   name: Daniel Tordera
   position: unknown
+mgutmann:
+  active: false
+  aka:
+    - Gutmann, M.
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 0
+      institution: unknown
+      degree: PhD
+  employment:
+    - begin_year: 2001
+      begin_month: 2
+      position: scientist
+      organization: isis
+    - begin_year: 1999
+      begin_month: 1
+      end_year: 2001
+      end_month: 1
+      position: postdoctoral associate
+      organization: msu
+      advisor: sbillinge
+      group: bg
+      status: postdoc
+  name: Matthias Gutmann
+  position: Scientist
 dyano:
   active: true
   aka:
@@ -1382,6 +1410,8 @@ gpaglia:
   active: false
   aka:
     - Gianluca Paglia
+    - Paglia G.
+    - Paglia, G.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
@@ -1627,7 +1657,8 @@ hyavas:
   position: scientist
 ikjeong:
   active: false
-  aka: []
+  aka:
+    - Jeong, {I. -K. }
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
@@ -1973,6 +2004,8 @@ kknox:
     - Kevin Knox
     - Knox, K.
     - Knox, Kevin
+    - Knox, K. R.
+    - Knox, Kevin R.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
@@ -2310,6 +2343,7 @@ mouathshatnawi:
   active: false
   aka:
     - Mouath Ghazi Shatnawi
+    - Shatnawi, M.
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
   bio: bio
   education:
@@ -2705,7 +2739,8 @@ pnehra:
   position: Undergraduate Researcher
 ppeterson:
   active: false
-  aka: []
+  aka:
+    - Peterson, P. F.
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
   bio: bio
   education:
@@ -2866,6 +2901,7 @@ rgu:
       institution: Nankai University
       end_year: 2012
       location: Tianjin, China
+  email: guran@lsec.cc.ac.cn
   employment:
     - begin_year: 2020
       begin_month: 11
@@ -3683,6 +3719,8 @@ tproffen:
   active: false
   aka:
     - Thomas Proffen
+    - Proffen, {Th. }
+    - Proffen, {Th.}
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
@@ -3870,6 +3908,7 @@ xhyang:
   active: false
   aka:
     - Xiaohao Yang
+    - Yang, Xiaohao
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
@@ -3922,6 +3961,7 @@ xyqiu:
   active: false
   aka:
     - Xiangyun
+    - Qiu, Xiangyun
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
   bio: bio
   education:
