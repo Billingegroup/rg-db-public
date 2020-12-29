@@ -20,6 +20,13 @@ abbott:
   name: Abbott Pharmaceuticals
   state: IL
   year: 2020
+aca:
+  aka:
+    - Acta A
+    - acta crystallographica A
+  city: Chester
+  country: UK
+  name: 'Acta Crystallographica Section A: Foundations and Advances'
 academiasinica:
   aka: []
   city: Taipei
@@ -517,6 +524,15 @@ emba:
   name: EMBA
   state: ''
   zip: ''
+enthought:
+  city: Austin
+  country: USA
+  date: 2020-12-29
+  name: Enthought
+  state: TX
+  updated: 2020-12-29 04:16:46.030159
+  uuid: 358f4e2b-e0dc-44e6-8cf4-605409118494
+  zip: '78701'
 esrf:
   aka:
     - European Synchrotron Radiation Facility
@@ -606,6 +622,17 @@ gatech:
   name: Georgia Institute of Technology
   state: GA
   zip: 30332
+georgewashingtonu:
+  aka:
+    - GWU
+  city: Washington
+  country: USA
+  date: 2020-12-29
+  name: George Washington University
+  state: DC
+  updated: 2020-12-29 04:00:13.840468
+  uuid: 29d7d28e-0ac7-462b-82b1-b789cc8276b5
+  zip: '20052'
 ghentu:
   aka:
     - University of Ghent
@@ -657,9 +684,8 @@ google:
   zip: '10011'
 gsk:
   aka:
-    - Oxford
-    - University of Oxford
-  city: Oxford
+    - gsk
+  city: Stevenage
   country: UK
   departments:
     crystallogr:
@@ -670,7 +696,7 @@ gsk:
       name: Physical Properties
     platsci:
       name: Platform Technology & Science
-  state: Hertfordshire
+  state: Kent
   street: Gunnels Wood Road
   zip: SG1 2NY
 harvardu:
@@ -859,6 +885,19 @@ jaea:
   updated: 2020-02-14 19:14:05.971352
   uuid: e1772b7b-a4ee-43ff-96bf-d723b673b6e2
   year: 2020
+jpmorgan:
+  aka:
+    - J. P. Morgan
+    - J P Morgan
+    - J.P. Morgan
+  city: New York
+  country: USA
+  date: 2020-12-29
+  name: J.P.Morgan
+  state: NY
+  updated: 2020-12-29 04:03:48.958488
+  uuid: a883cf4b-a816-4359-b946-328243b1ef34
+  zip: '10017'
 jülichcentreforneutronscience:
   aka:
     - Julich Centre for Neutron Science
@@ -1420,6 +1459,18 @@ pomonacollege:
   uuid: 772f31ea-2598-4210-91ee-d09b06c9c07c
   year: 2020
   zip: '91711'
+portlandstateu:
+  city: Portland
+  country: USA
+  date: 2020-12-29
+  departments:
+    geology:
+      name: Department of Geology
+  name: Portland State University
+  state: OR
+  updated: 2020-12-29 04:10:33.674667
+  uuid: 229c8719-fe58-40b9-ae80-ec834ab9ae69
+  zip: '97207'
 princetonu:
   aka: []
   city: Princeton
@@ -2070,6 +2121,16 @@ ugottingen:
   city: Göttingen
   country: Germany
   name: University of Gottingen
+ugreifswald:
+  city: Greifswald
+  country: Germany
+  date: 2020-12-29
+  departments:
+    geology:
+      name: "Institute for Geograpy and Geology\n"
+  name: University of Greifswald
+  updated: 2020-12-29 04:21:46.017246
+  uuid: a46aaefe-7901-434f-b9c9-432d7e7a63bc
 uhamburg:
   aka:
     - University of Hamburg
@@ -2173,6 +2234,17 @@ uminnesota:
   name: University of Minnesota
   state: MN
   zip: '55455'
+umodena:
+  city: Modena
+  country: Italy
+  date: 2020-12-29
+  departments:
+    earthscience:
+      name: Earth Sciences Department
+  name: University of Modena and Reggio Emilia
+  updated: 2020-12-29 03:35:29.119124
+  uuid: cf819f68-4953-4a9b-b1ce-33b47d39b1da
+  zip: '41100'
 umontreal:
   aka:
     - UdeM
@@ -2621,6 +2693,13 @@ wolfgreenfield:
   name: Wolf Greenfield
   state: MA
   year: 2020
+worley:
+  city: Perth
+  country: Australia
+  date: 2020-12-29
+  name: Worley
+  updated: 2020-12-29 04:26:21.532174
+  uuid: cb97060f-4c65-4541-99c0-1be25b8ba84d
 zhejiangu:
   aka:
     - zhejiangu

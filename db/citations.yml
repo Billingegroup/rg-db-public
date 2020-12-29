@@ -177,11 +177,6 @@ ander;iucrj20:
   optnote: to be published
   optwwwlanl: ''
   pages: 2052-2525
-  summary_professional: ''
-  summary_public:
-    text: 'One of the first ever discovered magnetic materials is magnetite, \ce{Fe3O4},
-      known since ancient times.  It is a naturally '
-    figure: ''
   title: Local and long-range atomic/magnetic structure of non-stoichiometric spinel
     iron oxide nanocrystallites
   url: https://doi.org/10.1107/S2052252520013585
@@ -1255,7 +1250,7 @@ billi;cpdn00:
   author:
     - Billinge, S. J. L.
     - Petkov, V.
-    - Proffen, {Th. }
+    - Proffen, {Th.}
   entrytype: article
   facility: ' gem, isis, '
   grant: ' cfmr, doe97 '
@@ -5435,7 +5430,7 @@ jeong;jac01:
 jeong;jpc99:
   author:
     - Jeong, {I. -K. }
-    - Proffen, {Th. }
+    - Proffen, {Th.}
     - Mohiuddin-Jacobs, F.
     - Billinge, S. J. L.
   doi: 10.1021/jp9836978
@@ -7372,7 +7367,7 @@ peter;jac00:
   author:
     - Peterson, P. F.
     - Gutmann, M
-    - Proffen, {Th. }
+    - Proffen, {Th.}
     - Billinge, S. J. L.
   doi: 10.1107/S0021889800007123
   entrytype: article
