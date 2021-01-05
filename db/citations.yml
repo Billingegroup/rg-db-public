@@ -10270,9 +10270,9 @@ yang;aca21:
   number: '1'
   optannote: ''
   optwwwlanl: ''
-  pages: ''
+  pages: 2-6
   title: 'A cloud platform for atomic pair distribution function analysis: PDFitc'
-  url: 'https://journals.iucr.org/a/issues/2021/01/00/ae5091/index.html'
+  url: https://journals.iucr.org/a/issues/2021/01/00/ae5091/index.html
   volume: '77'
   wwwemail: ''
   year: '2021'
@@ -10389,7 +10389,7 @@ yang;prb20:
   pages: '235128'
   title: Two-orbital degeneracy lifted local precursor to a metal-insulator transition
     in {MgTi$_2$O$_4$}
-  url: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.235128'
+  url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.235128
   volume: '102'
   wwwemail: ''
   wwwpub: ''
