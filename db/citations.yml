@@ -10266,9 +10266,9 @@ yang;aca21:
   journal: Acta Crystallogr. A
   month: Jan
   nb: art
-  note: ''
   number: '1'
   optannote: ''
+  optnote: ''
   optwwwlanl: ''
   pages: 2-6
   title: 'A cloud platform for atomic pair distribution function analysis: PDFitc'
@@ -10380,8 +10380,6 @@ yang;prb20:
   journal: Phys. Rev. B
   month: Dec
   nb: art
-  note: ''
-  notes: ''
   number: '23'
   optannote: ''
   optnote: arXiv:2009.08923 [cond-mat.mtrl-sci]
