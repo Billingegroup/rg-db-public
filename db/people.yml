@@ -2065,8 +2065,9 @@ lkranis:
   active: true
   aka: []
   avatar: https://github.com/lkranis.png
-  bio: Lauren is from Long Island, New York. She is a combined plan student currently
-studying material science and engineering and previously studied mathematics at Franklin and Marshall College. In her free time she enjoys playing soccer and running. 
+  bio:Lauren is from Long Island, New York. She is a combined plan student currently
+    studying material science and engineering and previously studied mathematics at
+    Franklin and Marshall College. In her free time she enjoys playing soccer and running. 
   education:     
     - degree: BS in Material Science and Engineering
       institution: Columbia University
