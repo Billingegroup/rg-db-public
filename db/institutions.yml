@@ -1802,6 +1802,17 @@ tbilisistateu:
   city: Tbilisi
   country: Georgia
   name: Ivane Javakhishvili Tbilisi State University
+technion:
+  aka: []
+  city: Haifa
+  country: Israel
+  departments:
+    mse:
+      name: Materials Science and Engineering Department
+  name: Technion-Israel Institute of Technology
+  state: ''
+  street: Technion City
+  zip: 3200003
 theuofbritishcolumbia:
   aka:
     - University of British Columbia
@@ -2044,7 +2055,7 @@ ufederaldoabc:
   country: Brazil
   departments:
     physics:
-      name: Department of physics
+      name: Department of Physics
   name: Universidade Federal do ABC
   state: ''
   zip: ''
