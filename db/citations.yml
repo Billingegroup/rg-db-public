@@ -5019,6 +5019,45 @@ gutma;unpub00:
   wwwlanl: http://arXiv.org/abs/cond-mat/0009141
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/00billi_ijmpb_pre.pdf
   year: '2003'
+hitt;nc21:
+  ackno: This work was supported by the Office of Basic Energy Sciences, Division
+    of Chemical Sciences, Geosciences, and Energy Bioscience, Department of Energy
+    under contract (SC-0019781), and by the Canadian Institute for Advanced Research.
+    J.L.H. acknowledges support as a graduate fellow of the Vagelos Institute for
+    Energy Science and Technology at the University of Pennsylvania. PDF data collection
+    and analysis was supported by U.S. Department of Energy, Office of Science, Office
+    of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0012704. Use of the
+    National Synchrotron Light Source II, Brookhaven National Laboratory, was supported
+    by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences,
+    under Contract No. DE-SC0012704.
+  author:
+    - Jeremy L. Hitt
+    - Yuguang C. Li
+    - Songsheng Tao
+    - Zhifei Yan
+    - Yue Gao
+    - Simon J. L. Billinge
+    - Thomas E. Mallouk
+  doi: ''
+  entrytype: article
+  facility: xpd, nslsii
+  grant: fwp20
+  journal: Nature Commun.
+  month: ''
+  nb: art
+  note: to be published
+  notes: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  title: A High Throughput Optical Method for Studying Composition Effects in Electrochemical
+    {CO$_2$} Reduction Catalysts
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2021'
 hsu2017linear:
   author:
     - Hsu,
@@ -7414,46 +7453,6 @@ peter;jac03:
   wwwlanl: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/02peterjac.pdf
   year: '2003'
-hitt;nc21:
-  ackno: This work was supported by the Office of Basic Energy Sciences,
-    Division of Chemical Sciences, Geosciences, and Energy Bioscience,
-    Department of Energy under contract (SC-0019781), and by the Canadian
-    Institute for Advanced Research. J.L.H. acknowledges support as a graduate
-    fellow of the Vagelos Institute for Energy Science and Technology at the
-    University of Pennsylvania. PDF data collection and analysis was supported
-    by U.S. Department of Energy, Office of Science, Office of Basic Energy
-    Sciences (DOE-BES) under contract No. DE-SC0012704. Use of the National
-    Synchrotron Light Source II, Brookhaven National Laboratory, was supported
-    by the U.S. Department of Energy, Office of Science, Office of Basic Energy
-    Sciences, under Contract No. DE-SC0012704.
-  author:
-    - Jeremy L. Hitt
-    - Yuguang C. Li
-    - Songsheng Tao
-    - Zhifei Yan
-    - Yue Gao
-    - Simon J. L. Billinge
-    - Thomas E. Mallouk
-  doi: ''
-  entrytype: article
-  facility: xpd, nslsii
-  grant: fwp20
-  journal: Nature Commun.
-  month: ''
-  nb: art
-  note: to be published
-  notes: ''
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
-  title: A High Throughput Optical Method for Studying Composition Effects in Electrochemical
-    {CO$_2$} Reduction Catalysts
-  url: ''
-  volume: ''
-  wwwemail: ''
-  wwwpub: ''
-  year: '2021'
 peter;prb01:
   author:
     - Peterson, P. F.

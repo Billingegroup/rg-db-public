@@ -1560,7 +1560,7 @@ htiwari:
   name: Hrishi Tiwari
   position: unknown
 hvuong:
-  active: true
+  active: false
   aka:
     - Hung Vuong
     - Vuong, H-T.
@@ -1577,6 +1577,7 @@ hvuong:
       advisor: sbillinge
       other:
         - 'Advisor: Simon Billinge'
+        - 'Advisor: Richard Friesner'
       department: chemistry
       degree: PhD in Chemical Physics
       location: New York, NY
@@ -1590,8 +1591,8 @@ hvuong:
   employment:
     - begin_year: 2019
       begin_month: 11
-      end_year: 2024
-      end_month: 6
+      end_year: 2020
+      end_month: 11
       position: graduate research assistant
       organization: columbiau
       advisor: sbillinge
@@ -2739,7 +2740,7 @@ pnehra:
       advisor: sbillinge
       status: undergrad
   github_id: priyankaanehra
-  grp_mtg_active: false
+  grp_mtg_active: true
   name: Priyanka Nehra
   orcid_id: ''
   position: Undergraduate Researcher
