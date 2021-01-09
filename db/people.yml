@@ -1221,7 +1221,7 @@ ekjaer:
       advisor: sbillinge
       group: bg
       status: visitor-unsupported
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Emil Kjaer
   position: visiting student
   position_full: visiting PhD Researcher, U. Copenhagen
@@ -1600,7 +1600,7 @@ hvuong:
       group: bg
   github_id: tienhungvuong
   google_scholar_url: https://scholar.google.com/citations?user=DST508IAAAAJ&hl=en&authuser=1
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Hung Vuong
   orcid_id: 0000-0001-7965-379X
   position: graduate research assistant
@@ -2168,7 +2168,7 @@ lyang:
       status: phd
       advisor: sbillinge
       group: bg
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Long Yang
   position: graduate research assistant
 mdapiaggi:
@@ -2925,7 +2925,7 @@ rgu:
       organization: Columbia University
   github_id: guran1214
   google_scholar_url: https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F7z7xLHLAfG-0KjERWe7zeuQgGtwaYiHFOad01S66fU1UZDsC9gMhfU2okIFbtvgeXHRtYu6igeFqbLBqKw12J1zF2K3g&user=3MveL9IAAAAJ
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Ran Gu
   orcid_id: 0000-0002-4416-5021
   position: post-doctoral scholar
