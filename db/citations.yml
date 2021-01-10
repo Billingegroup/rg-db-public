@@ -184,6 +184,46 @@ ander;iucrj20:
   wwwemail: ''
   wwwpub: ''
   year: '2021'
+liu;jac21:
+  ackno: "This work was supported as part of GENESIS: A Next Generation
+    Synthesis Center, an Energy Frontier Research Center funded by the US
+    Department of Energy (DOE), Office of Science, Basic Energy Sciences under
+    award No. DESC0019212. Work done at Argonne and use of the Advanced Photon
+    Source, an Office of Science User Facility operated for the US Department
+    of Energy (DOE) Office of Science by Argonne National Laboratory, was
+    supported by the US DOE under Contract No. DE-AC02-06CH11357."
+  author:
+    - Chia-Hao Liu
+    - Christopher J. Wright
+    - Ran Gu
+    - Sasaank Bandi,
+    - Allison Wustrow
+    - Paul K. Todd
+    - Daniel O'Nolan
+    - Michelle L. Beauvais
+    - James R. Neilson
+    - Peter J. Chupas
+    - Karena W. Chapman
+    - Simon J. L. Billinge
+  doi: ""
+  entrytype: article
+  facility: aps, 11idb
+  grant: efrc18
+  journal: J. Appl. Crystallogr.
+  month: Jan
+  nb: fy21, typeA
+  number: ''
+  optannote: ''
+  note: arXiv:2010.11807 [cond-mat.mtrl-sci]
+  optwwwlanl: ''
+  pages: ''
+  title: Validation of non-negative matrix factorization for assessment of
+    atomic pair-distribution function (PDF) data in a real-time streaming context
+  url: https://arxiv.org/abs/2010.11807
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2020'
 andon;c;tacolt:
   address: Amsterdam, Netherlands
   author:
