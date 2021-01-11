@@ -4078,24 +4078,28 @@ yrakita:
     - Y. Rakita
     - Yevgeny Rakita Shlafstein
   avatar: https://github.com/yevgenyr.png
-  bio: Yevgeny Rakita Shlafstein joined Simon Billinge’s group and explores data
-   harvesting during chemical synthesis using an approach known as MOSY - 
-   Movement Motivated Synthesis. The goal of his project is to harvest the entire 
-   history of a chemical reaction by parsing the components and sequences during 
-   synthesis of materials into a consequent set of actions that characterize a 
-   material with all of its physical properties. His aim is to create a 
-   “global-intuition” that is based on every experiment (successful and failed 
-   ones) relating to the process and property of materials. His background is 
-   in chemistry and material-sciences, with a focus on energy-related and 
-   biomedical materials, and he has an expertise in developing multidisciplinary 
-   frameworks for material fabrication and characterization. He completed his 
-   Ph.D. at the Weizmann Institute in Israel, where he studied the mechanical, 
-   structural, and opto-electronic properties of thin films and single crystals 
-   of photovoltaic materials. During his doctoral studies, he focused on halide 
-   perovskites and oxides that were self-fabricated using novel fabrication methods. 
-   Previously, he was involved in a research project on simulating soft-matter 
-   interactions (poly-electrolytes) in an ionic medium for energy-storage applications. 
-   He likes hiking, cooking and coding.
+  bio: Yevgeny Rakita (Shlafstein) grew up in Israel, and after finishe his PhD, 
+  joined Simon Billinge’s group. In the Billige group Yevgeny developes 
+  electron-beam based Pair Distribution Function (PDF) analysis techniques, 
+  focusing on derivation and mapping of PDF-based quantities.
+  In addition, he explores data harvesting during chemical synthesis using 
+  an approach known as MOSY - Movement Motivated Synthesis. 
+  The goal of his project is to harvest the entire history of a chemical reaction 
+  by parsing the components and sequences during synthesis of materials into a 
+  consequent set of actions that characterize a material with all of its 
+  physical properties. His aim is to create a “global-intuition” that is based 
+  on every experiment (successful and failed ones) relating to the process and 
+  property of materials. 
+  His background is in chemistry and material-sciences, with a focus on energy-related 
+  and biomedical materials, and he has an expertise in developing multidisciplinary 
+  frameworks for material fabrication and characterization. He completed his Ph.D. 
+  at the Weizmann Institute in Israel, where he studied the mechanical, structural, 
+  and opto-electronic properties of thin films and single crystals of photovoltaic 
+  materials. During his doctoral studies, he focused on halide perovskites and 
+  oxides that were self-fabricated using novel fabrication methods. Previously, 
+  he was involved in a research project on simulating soft-matter interactions 
+  (poly-electrolytes) in an ionic medium for energy-storage applications. 
+  He likes hiking, cooking and coding.
   education:
     - begin_year: 2014
       degree: PhD
