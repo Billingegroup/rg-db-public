@@ -4075,14 +4075,33 @@ yrakita:
   active: true
   aka:
     - Yevgeny Rakita
+    - Y. Rakita
+    - Yevgeny Rakita Shlafstein
   avatar: https://github.com/yevgenyr.png
-  bio: bio
+  bio: Yevgeny Rakita Shlafstein joined Simon Billinge’s group and explores data
+   harvesting during chemical synthesis using an approach known as MOSY - 
+   Movement Motivated Synthesis. The goal of his project is to harvest the entire 
+   history of a chemical reaction by parsing the components and sequences during 
+   synthesis of materials into a consequent set of actions that characterize a 
+   material with all of its physical properties. His aim is to create a 
+   “global-intuition” that is based on every experiment (successful and failed 
+   ones) relating to the process and property of materials. His background is 
+   in chemistry and material-sciences, with a focus on energy-related and 
+   biomedical materials, and he has an expertise in developing multidisciplinary 
+   frameworks for material fabrication and characterization. He completed his 
+   Ph.D. at the Weizmann Institute in Israel, where he studied the mechanical, 
+   structural, and opto-electronic properties of thin films and single crystals 
+   of photovoltaic materials. During his doctoral studies, he focused on halide 
+   perovskites and oxides that were self-fabricated using novel fabrication methods. 
+   Previously, he was involved in a research project on simulating soft-matter 
+   interactions (poly-electrolytes) in an ionic medium for energy-storage applications. 
+   He likes hiking, cooking and coding.
   education:
     - begin_year: 2014
       degree: PhD
       institution: Weizmann Institute of Science
       department: Materials and Interfaces
-      end_year: 2018
+      end_year: 2019
       other:
         - 'Advisors: Profs. Gary Hodes and David Cahen'
         - 'Thesis title: Between Structure and Performance in Halide Perovskites for
@@ -4116,8 +4135,12 @@ yrakita:
       status: postdoc
   grp_mtg_active: true
   name: Yevgeny Rakita
+  title: Dr.  
   position: post-doctoral scholar
-  title: Dr.
+  github_id: yevgenyr
+  google_scholar_url: https://scholar.google.com/citations?hl=en&user=PxH3u7wAAAAJ
+  linkedin_url: https://www.linkedin.com/in/yevgeny-rakita-006b6871
+  orcid_id: 0000-0003-0448-3735
 yrshang:
   active: false
   aka:
