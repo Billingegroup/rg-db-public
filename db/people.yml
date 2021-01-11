@@ -2078,8 +2078,18 @@ lkranis:
   active: true
   aka: []
   avatar: https://github.com/lkranis.png
-  bio: bio
-  education: []
+  bio: Lauren is from Long Island, New York. She is a combined plan student currently studying material
+    science and engineering in SEAS and studied mathematics at Franklin and Marshall College. In her free
+    time she enjoys playing soccer and running. 
+  education:     
+    - degree: BS in Material Science and Engineering
+      institution: Columbia University
+      end_year: 2021
+      begin_year: 2019
+    - degree: BA in Mathematics
+      institution: Franklin and Marshall College
+      end_year: 2019
+      begin_year: 2015
   email: lmk2211@columbia.edu
   employment:
     - begin_date: 2020-11-06
