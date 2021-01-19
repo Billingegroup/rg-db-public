@@ -10783,9 +10783,9 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
-gu;ieeesp21:
+gu;ieeetsp21:
   ackno: "This research was supported by the US National Science Foundation (NSF) through
-    grant DMR-1922234 and CCF-1740833"
+    grant DMR-1922234 (for R.G., Q.D. and S.B.) and CCF-1740833 (for Q.D.)"
   author:
     - Ran Gu
     - Qiang Du
@@ -10793,9 +10793,9 @@ gu;ieeesp21:
   doi: ""
   entrytype: article
   facility: ""
-  grant: dmr19
+  grant: dmref19
   journal: IEEE Trans. Signal Process.
-  month: Jan
+  month: ''
   nb: fy21, typeA
   number: ''
   optannote: ''
