@@ -10783,3 +10783,28 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
+gu;ieeetsp21:
+  ackno: "This research was supported by the US National Science Foundation (NSF) through
+    grant DMR-1922234 (for R.G., Q.D. and S.B.) and CCF-1740833 (for Q.D.)"
+  author:
+    - Ran Gu
+    - Qiang Du
+    - Simon J. L. Billinge
+  doi: ""
+  entrytype: article
+  facility: ""
+  grant: dmref19
+  journal: IEEE Trans. Signal Process.
+  month: ''
+  nb: fy21, typeA
+  number: ''
+  optannote: ''
+  note: ''
+  optwwwlanl: ''
+  pages: ''
+  title: A fast two-stage algorithm for non-negative matrix factorization in streaming data
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2021'
