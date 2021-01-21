@@ -184,46 +184,6 @@ ander;iucrj20:
   wwwemail: ''
   wwwpub: ''
   year: '2021'
-liu;jac21:
-  ackno: "This work was supported as part of GENESIS: A Next Generation
-    Synthesis Center, an Energy Frontier Research Center funded by the US
-    Department of Energy (DOE), Office of Science, Basic Energy Sciences under
-    award No. DESC0019212. Work done at Argonne and use of the Advanced Photon
-    Source, an Office of Science User Facility operated for the US Department
-    of Energy (DOE) Office of Science by Argonne National Laboratory, was
-    supported by the US DOE under Contract No. DE-AC02-06CH11357."
-  author:
-    - Chia-Hao Liu
-    - Christopher J. Wright
-    - Ran Gu
-    - Sasaank Bandi,
-    - Allison Wustrow
-    - Paul K. Todd
-    - Daniel O'Nolan
-    - Michelle L. Beauvais
-    - James R. Neilson
-    - Peter J. Chupas
-    - Karena W. Chapman
-    - Simon J. L. Billinge
-  doi: ""
-  entrytype: article
-  facility: aps, 11idb
-  grant: efrc18
-  journal: J. Appl. Crystallogr.
-  month: Jan
-  nb: fy21, typeA
-  number: ''
-  optannote: ''
-  note: arXiv:2010.11807 [cond-mat.mtrl-sci]
-  optwwwlanl: ''
-  pages: ''
-  title: Validation of non-negative matrix factorization for assessment of
-    atomic pair-distribution function (PDF) data in a real-time streaming context
-  url: https://arxiv.org/abs/2010.11807
-  volume: ''
-  wwwemail: ''
-  wwwpub: ''
-  year: '2020'
 andon;c;tacolt:
   address: Amsterdam, Netherlands
   author:
@@ -6726,6 +6686,91 @@ liu;jac19:
   volume: ''
   wwwemail: ''
   year: '2020'
+liu;jac21:
+  ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
+    Center, an Energy Frontier Research Center funded by the US Department of Energy
+    (DOE), Office of Science, Basic Energy Sciences under award No. DESC0019212. Work
+    done at Argonne and use of the Advanced Photon Source, an Office of Science User
+    Facility operated for the US Department of Energy (DOE) Office of Science by Argonne
+    National Laboratory, was supported by the US DOE under Contract No. DE-AC02-06CH11357.'
+  author:
+    - Chia-Hao Liu
+    - Christopher J. Wright
+    - Ran Gu
+    - Sasaank Bandi,
+    - Allison Wustrow
+    - Paul K. Todd
+    - Daniel O'Nolan
+    - Michelle L. Beauvais
+    - James R. Neilson
+    - Peter J. Chupas
+    - Karena W. Chapman
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: aps, 11idb
+  grant: efrc18
+  journal: J. Appl. Crystallogr.
+  month: Jan
+  nb: fy21, typeA
+  note: arXiv:2010.11807 [cond-mat.mtrl-sci]
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  tags: nmf, streaming
+  title: Validation of non-negative matrix factorization for assessment of atomic
+    pair-distribution function (PDF) data in a real-time streaming context
+  url: https://arxiv.org/abs/2010.11807
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2020'
+liu;jacs21:
+  ackno: This research was partially supported by the Arnold and Mabel Beckman Foundation
+    through a Beckman Young Investigator grant awarded to J.A.M. and Beckman Postdoctoral
+    Fellowships to M.I.G. and A.H.S. Synthesis, crystallography, thermal characterization,
+    and EXAFS experiments were supported by the Office of Naval Research under award
+    N00014-19-1-2148. Studies of metal–bis(acetamide) glass formation were supported
+    by the U.S. Department of Energy (DoE) under award DE-SC0021145. The PDF work
+    was supported by the NSF MRSEC program through Columbia in the Center for Precision
+    Assembly of Quantum Materials (PAQM) (DMR-2011738). We thank Dr. ShaoLiang Zheng
+    for assistance with crystallography experiments and data analysis. We thank Dr.
+    Sungsik Lee for assistance with EXAFS experiments and data analysis. EXAFS measurements
+    were conducted on beamline 12-BM at the Advanced Photon Source, a DoE Office of
+    Science User Facility operated for the DoE Office of Science by Argonne National
+    Laboratory under Contract No. DE-AC02-06CH11357. We thank Dr. Maxwell Terban for
+    assistance with PDF data analysis. X-ray PDF measurements were conducted on beamline
+    28-ID-2 of the National Synchrotron Light Source II, a U.S. Department of Energy
+    (DOE) Office of Science User Facility operated for the DOE Office of Science by
+    Brookhaven National Laboratory under Contract No. DESC0012704.
+  author:
+    - Mengtan Liu
+    - Ryan D. McGillicuddy
+    - Hung Vuong
+    - Songsheng Tao
+    - Adam H. Slavney
+    - Miguel I. Gonzalez
+    - Simon J. L. Billinge
+    - Jarad A. Mason
+  doi: ''
+  entrytype: article
+  facility: nslsii, xpd
+  grant: mrsec20
+  journal: J. Amer. Chem. Soc.
+  month: ''
+  nb: art
+  note: submitted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  tags: ''
+  title: Network-Forming Liquids from Metal–Bis(acetamide) Frameworks with Low Melting
+    Temperatures
+  url: ''
+  volume: ''
+  year: '2021'
 liu;sr14:
   author:
     - Liu, Shuangyi
