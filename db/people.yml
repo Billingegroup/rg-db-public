@@ -2074,14 +2074,34 @@ kseth:
       status: visitor-unsupported
   name: Kriti Seth
   position: visiting student
+lcheng:
+  active: true
+  aka: []
+  avatar: "https://github.com/\x16OpusXI.png"
+  bio: bio
+  education: []
+  email: yc3733@columbia.edu
+  employment:
+    - begin_date: 2021-02-01
+      end_date: 2021-05-31
+      organization: columbiau
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: "\x16OpusXI"
+  grp_mtg_active: true
+  name: Louis Cheng
+  orcid_id: ''
+  position: undergraduate researcher
 lkranis:
   active: true
   aka: []
   avatar: https://github.com/lkranis.png
-  bio: Lauren is from Long Island, New York. She is a combined plan student currently studying material
-    science and engineering in SEAS and studied mathematics at Franklin and Marshall College. In her free
-    time she enjoys playing soccer and running. 
-  education:     
+  bio: Lauren is from Long Island, New York. She is a combined plan student currently
+    studying material science and engineering in SEAS and studied mathematics at Franklin
+    and Marshall College. In her free time she enjoys playing soccer and running.
+  education:
     - degree: BS in Material Science and Engineering
       institution: Columbia University
       end_year: 2021
@@ -4088,28 +4108,26 @@ yrakita:
     - Y. Rakita
     - Yevgeny Rakita Shlafstein
   avatar: https://github.com/yevgenyr.png
-  bio: "Yevgeny Rakita (Shlafstein) grew up in Israel and, after finishing his PhD,\
-    \ joined Simon Billinge's group. In the Billige group Yevgeny developes\
-    \ electron-beam based Pair Distribution Function (PDF) analysis techniques,\ 
-    \ focusing on derivation and mapping of PDF-based quantities.\
-    \ In addition, he explores data harvesting during chemical synthesis using\
-    \ an approach known as MOSY - Movement Motivated Synthesis.\
-    \ The goal of his project is to harvest the entire history of a chemical reaction\
-    \ by parsing the components and sequences during synthesis of materials into a\
-    \ consequent set of actions that characterize a material with all of its\
-    \ physical properties. His aim is to create a “global-intuition” that is based\
-    \ on every experiment (successful and failed ones) relating to the process and\
-    \ property of materials.\ 
-    \ His background is in chemistry and material-sciences, with a focus on energy-related\ 
-    \ and biomedical materials, and he has an expertise in developing multidisciplinary\
-    \ frameworks for material fabrication and characterization. He completed his Ph.D.\
-    \ at the Weizmann Institute in Israel, where he studied the mechanical, structural,\
-    \ and opto-electronic properties of thin films and single crystals of photovoltaic\
-    \ materials. During his doctoral studies, he focused on halide perovskites and\
-    \ oxides that were self-fabricated using novel fabrication methods. Previously,\
-    \ he was involved in a research project on simulating soft-matter interactions\
-    \ (poly-electrolytes) in an ionic medium for energy-storage applications.\
-    \ He likes hiking, cooking and coding."
+  bio: Yevgeny Rakita (Shlafstein) grew up in Israel and, after finishing his PhD,
+    joined Simon Billinge's group. In the Billige group Yevgeny developes electron-beam
+    based Pair Distribution Function (PDF) analysis techniques,   focusing on derivation
+    and mapping of PDF-based quantities. In addition, he explores data harvesting
+    during chemical synthesis using an approach known as MOSY - Movement Motivated
+    Synthesis. The goal of his project is to harvest the entire history of a chemical
+    reaction by parsing the components and sequences during synthesis of materials
+    into a consequent set of actions that characterize a material with all of its
+    physical properties. His aim is to create a “global-intuition” that is based on
+    every experiment (successful and failed ones) relating to the process and property
+    of materials.   His background is in chemistry and material-sciences, with a focus
+    on energy-related   and biomedical materials, and he has an expertise in developing
+    multidisciplinary frameworks for material fabrication and characterization. He
+    completed his Ph.D. at the Weizmann Institute in Israel, where he studied the
+    mechanical, structural, and opto-electronic properties of thin films and single
+    crystals of photovoltaic materials. During his doctoral studies, he focused on
+    halide perovskites and oxides that were self-fabricated using novel fabrication
+    methods. Previously, he was involved in a research project on simulating soft-matter
+    interactions (poly-electrolytes) in an ionic medium for energy-storage applications.
+    He likes hiking, cooking and coding.
   education:
     - begin_year: 2014
       degree: PhD
@@ -4147,14 +4165,14 @@ yrakita:
       group: bg
       position: post-doctoral scholar
       status: postdoc
-  grp_mtg_active: true
-  name: Yevgeny Rakita
-  title: Dr.  
-  position: post-doctoral scholar
   github_id: yevgenyr
   google_scholar_url: https://scholar.google.com/citations?hl=en&user=PxH3u7wAAAAJ
+  grp_mtg_active: true
   linkedin_url: https://www.linkedin.com/in/yevgeny-rakita-006b6871
+  name: Yevgeny Rakita
   orcid_id: 0000-0003-0448-3735
+  position: post-doctoral scholar
+  title: Dr.
 yrshang:
   active: false
   aka:
