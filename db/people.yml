@@ -414,10 +414,37 @@ btabanpour:
   position: masters research assistant
 cbracy:
   active: true
-  aka: []
-  avatar: https://github.com/.png
-  bio: bio
-  education: []
+  aka:
+    - Connor Bracy
+    - Connor J. Bracy
+    - Bracy, Connor
+    - Bracy, Connor J.
+    - Bracy, C. J.
+  avatar: https://avatars.githubusercontent.com/u/7377785
+  bio: Connor was born and raised in a suburb just outside of Seattle Washington
+       where he continued to live until coming to Columbia. Having originally
+       started his higher education pursuing programming physics engines, he
+       eventually transitioned to pursuing physics research. When he’s not
+       working, you might find him running, rock climbing, skateboarding, or
+       just having a night in playing video games.
+  education:
+    - begin_year: 2014
+      begin_month: 9
+      degree: B.S. in Computer Science
+      institution: DigiPen Institute of Technology
+      end_year: 2017
+      end_month: 8
+    - begin_year: 2016
+      begin_month: 6
+      degree: B.S. in Physics
+      institution: University of Washington
+      end_year: 2020
+      end_month: 3
+    - begin_year: 2020
+      begin_month: 9
+      degree: PhD in Applied Physics
+      institution: Columbia University
+      group: bg
   email: cjb2250@columbia.edu"
   employment:
     - begin_date: 2020-11-16
@@ -427,7 +454,7 @@ cbracy:
       group: bg
       advisor: sbillinge
       status: phd
-  github_id: ''
+  github_id: connorjbracy
   grp_mtg_active: true
   name: Connor Bracy
   orcid_id: 0000-0001-8049-356X
@@ -2078,10 +2105,10 @@ lkranis:
   active: true
   aka: []
   avatar: https://github.com/lkranis.png
-  bio: Lauren is from Long Island, New York. She is a combined plan student currently studying material
-    science and engineering in SEAS and studied mathematics at Franklin and Marshall College. In her free
-    time she enjoys playing soccer and running. 
-  education:     
+  bio: Lauren is from Long Island, New York. She is a combined plan student currently
+    studying material science and engineering in SEAS and studied mathematics at Franklin
+    and Marshall College. In her free time she enjoys playing soccer and running.
+  education:
     - degree: BS in Material Science and Engineering
       institution: Columbia University
       end_year: 2021
@@ -4088,28 +4115,26 @@ yrakita:
     - Y. Rakita
     - Yevgeny Rakita Shlafstein
   avatar: https://github.com/yevgenyr.png
-  bio: "Yevgeny Rakita (Shlafstein) grew up in Israel and, after finishing his PhD,\
-    \ joined Simon Billinge's group. In the Billige group Yevgeny developes\
-    \ electron-beam based Pair Distribution Function (PDF) analysis techniques,\ 
-    \ focusing on derivation and mapping of PDF-based quantities.\
-    \ In addition, he explores data harvesting during chemical synthesis using\
-    \ an approach known as MOSY - Movement Motivated Synthesis.\
-    \ The goal of his project is to harvest the entire history of a chemical reaction\
-    \ by parsing the components and sequences during synthesis of materials into a\
-    \ consequent set of actions that characterize a material with all of its\
-    \ physical properties. His aim is to create a “global-intuition” that is based\
-    \ on every experiment (successful and failed ones) relating to the process and\
-    \ property of materials.\ 
-    \ His background is in chemistry and material-sciences, with a focus on energy-related\ 
-    \ and biomedical materials, and he has an expertise in developing multidisciplinary\
-    \ frameworks for material fabrication and characterization. He completed his Ph.D.\
-    \ at the Weizmann Institute in Israel, where he studied the mechanical, structural,\
-    \ and opto-electronic properties of thin films and single crystals of photovoltaic\
-    \ materials. During his doctoral studies, he focused on halide perovskites and\
-    \ oxides that were self-fabricated using novel fabrication methods. Previously,\
-    \ he was involved in a research project on simulating soft-matter interactions\
-    \ (poly-electrolytes) in an ionic medium for energy-storage applications.\
-    \ He likes hiking, cooking and coding."
+  bio: Yevgeny Rakita (Shlafstein) grew up in Israel and, after finishing his PhD,
+    joined Simon Billinge's group. In the Billige group Yevgeny developes electron-beam
+    based Pair Distribution Function (PDF) analysis techniques,   focusing on derivation
+    and mapping of PDF-based quantities. In addition, he explores data harvesting
+    during chemical synthesis using an approach known as MOSY - Movement Motivated
+    Synthesis. The goal of his project is to harvest the entire history of a chemical
+    reaction by parsing the components and sequences during synthesis of materials
+    into a consequent set of actions that characterize a material with all of its
+    physical properties. His aim is to create a “global-intuition” that is based on
+    every experiment (successful and failed ones) relating to the process and property
+    of materials.   His background is in chemistry and material-sciences, with a focus
+    on energy-related   and biomedical materials, and he has an expertise in developing
+    multidisciplinary frameworks for material fabrication and characterization. He
+    completed his Ph.D. at the Weizmann Institute in Israel, where he studied the
+    mechanical, structural, and opto-electronic properties of thin films and single
+    crystals of photovoltaic materials. During his doctoral studies, he focused on
+    halide perovskites and oxides that were self-fabricated using novel fabrication
+    methods. Previously, he was involved in a research project on simulating soft-matter
+    interactions (poly-electrolytes) in an ionic medium for energy-storage applications.
+    He likes hiking, cooking and coding.
   education:
     - begin_year: 2014
       degree: PhD
@@ -4147,14 +4172,14 @@ yrakita:
       group: bg
       position: post-doctoral scholar
       status: postdoc
-  grp_mtg_active: true
-  name: Yevgeny Rakita
-  title: Dr.  
-  position: post-doctoral scholar
   github_id: yevgenyr
   google_scholar_url: https://scholar.google.com/citations?hl=en&user=PxH3u7wAAAAJ
+  grp_mtg_active: true
   linkedin_url: https://www.linkedin.com/in/yevgeny-rakita-006b6871
+  name: Yevgeny Rakita
   orcid_id: 0000-0003-0448-3735
+  position: post-doctoral scholar
+  title: Dr.
 yrshang:
   active: false
   aka:
