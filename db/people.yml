@@ -2323,6 +2323,7 @@ mkarlsen:
       advisor: sbillinge
       group: bg
       status: visitor-unsupported
+  grp_mtg_active: true
   name: Martin A. Karlsen
   position: visiting student
   position_full: Visiting PhD Researcher, U. Southern Denmark

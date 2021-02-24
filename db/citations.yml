@@ -811,6 +811,30 @@ billi;aca15:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/15billiacaed.pdf
   year: '2015'
+billi;aca21:
+  ackno: ''
+  author:
+    - A. Altomare
+    - S. J. L. Billinge
+  doi: 10.1107/S2053273320016678
+  entrytype: article
+  facility: ''
+  grant: frap
+  journal: Acta Crystallogr. A
+  month: Jan
+  nb: ''
+  note: ''
+  number: '1'
+  optannote: ''
+  optwwwlanl: ''
+  pages: '1'
+  tags: editorial
+  title: Modern crystallography and its foundations
+  url: https://doi.org/10.1107/S2053273320016678
+  volume: '77'
+  wwwemail: ''
+  wwwpub: ''
+  year: '2021'
 billi;b;coecm91:
   address: Gaithersburg
   author:
@@ -4735,6 +4759,32 @@ gu;aca19:
   volume: '75'
   wwwemail: ''
   year: '2019'
+gu;ieeetsp21:
+  ackno: This research was supported by the US National Science Foundation (NSF) through
+    grant DMR-1922234 (for R.G., Q.D. and S.B.) and CCF-1740833 (for Q.D.)
+  author:
+    - Ran Gu
+    - Qiang Du
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: dmref19
+  journal: IEEE Trans. Signal Process.
+  month: ''
+  nb: fy21, typeA
+  note: arXiv:2101.08431 [math.OC]
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  title: A fast two-stage algorithm for non-negative matrix factorization in streaming
+    data
+  url: https://arxiv.org/abs/2101.08431
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2021'
 gualt;jac08:
   author:
     - Gualtieri, A. F.
@@ -6753,22 +6803,27 @@ liu;jacs21:
     - Miguel I. Gonzalez
     - Simon J. L. Billinge
     - Jarad A. Mason
-  doi: ''
+  day: '11'
+  doi: 10.1021/jacs.0c11718
   entrytype: article
   facility: nslsii, xpd
   grant: mrsec20
   journal: J. Amer. Chem. Soc.
-  month: ''
+  month: Feb
   nb: art
-  note: submitted
+  note: to be published
   number: ''
   optannote: ''
   optwwwlanl: ''
   pages: ''
-  tags: ''
+  summary_prof_fig: ''
+  summary_prof_text: ''
+  summary_publ_fig: ''
+  summary_publ_text: ''
+  tags: mof, liquid, molecular
   title: Network-Forming Liquids from Metal–Bis(acetamide) Frameworks with Low Melting
     Temperatures
-  url: ''
+  url: https://doi.org/10.1021/jacs.0c11718
   volume: ''
   year: '2021'
 liu;sr14:
@@ -8365,7 +8420,7 @@ qiu;phdt;04:
   author:
     - Qiu, Xiangyun
   entrytype: phdthesis
-  nb: ' thesis '
+  nb: thesis
   school: Michigan State University
   title: Local Structure Study Of Disordered Crystalline Materials With The Atomic
     Pair Distribution Function Method
@@ -9335,6 +9390,15 @@ terba;cgd15:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/terba_cgd15.pdf
   year: '2015'
 terba;ic17:
+  abstract: We thank the U.S. Department of Energy NEUP DE-NE 0000746 for support
+    of this research. This research used beamlines X17A of the National Synchrotron
+    Light Source and 28-ID-2 of the National Synchrotron Light Source II, U.S. Department
+    of Energy (DOE) Office of Science User Facilities operated for the DOE Office
+    of Science by Brookhaven National Laboratory under Contract Nos. DE-AC02- 98CH10886
+    and DE-SC0012704 respectively. This work is also based upon research conducted
+    at the Cornell High Energy Synchrotron Source (CHESS) which is supported by the
+    National Science Foundation and the National Institutes of Health/National Institute
+    of General Medical Sciences under NSF award DMR-1332208.
   author:
     - Terban, Maxwell W.
     - Shi, Chenyang
@@ -10187,11 +10251,11 @@ wrigh;phdt;19:
   facility: ' nslsii, xpd  '
   grant: dmref15, efrc18, bnlctpdf18, bnlldrd18, dmrefcheme16
   month: Nov
-  nb: ' thesis '
+  nb: thesis
   school: Columbia University
   title: Towards Real Time Characterization of Grain Growth from the Melt
   type: PhD Thesis
-  year: '2020'
+  year: '2019'
 xiao;afm19:
   author:
     - Xiao, Xu
@@ -10828,52 +10892,3 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
-gu;ieeetsp21:
-  ackno: "This research was supported by the US National Science Foundation (NSF) through
-    grant DMR-1922234 (for R.G., Q.D. and S.B.) and CCF-1740833 (for Q.D.)"
-  author:
-    - Ran Gu
-    - Qiang Du
-    - Simon J. L. Billinge
-  doi: ""
-  entrytype: article
-  facility: ""
-  grant: dmref19
-  journal: IEEE Trans. Signal Process.
-  month: ''
-  nb: fy21, typeA
-  number: ''
-  optannote: ''
-  note: arXiv:2101.08431 [math.OC]
-  optwwwlanl: ''
-  pages: ''
-  title: A fast two-stage algorithm for non-negative matrix factorization in streaming data
-  url: https://arxiv.org/abs/2101.08431
-  volume: ''
-  wwwemail: ''
-  wwwpub: ''
-  year: '2021'
-billi;aca21:
-  ackno: ""
-  author:
-    - A. Altomare
-    - S. J. L. Billinge
-  doi: 10.1107/S2053273320016678
-  entrytype: article
-  facility: ""
-  grant: frap
-  journal: Acta Crystallogr. A
-  month: Jan
-  nb: ''
-  number: '1'
-  optannote: ''
-  note: ''
-  optwwwlanl: ''
-  pages: '1'
-  tags: 'editorial'
-  title: Modern crystallography and its foundations
-  url: https://doi.org/10.1107/S2053273320016678
-  volume: '77'
-  wwwemail: ''
-  wwwpub: ''
-  year: '2021'
