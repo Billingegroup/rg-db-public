@@ -123,7 +123,7 @@ anaso;nh16:
   facility: ' xpd, nslsii '
   grant: dmref15
   journal: Nanoscale Horiz.
-  month: Feb
+  month: feb
   nb: ' art, highlight '
   note: ''
   number: '3'
@@ -170,7 +170,7 @@ ander;iucrj20:
   facility: nomad, sns, id11, esrf, bl44b2, spring8
   grant: fwp20
   journal: IUCrJ
-  month: Jan
+  month: jan
   nb: fy21, typeB2
   number: '1'
   optannote: ''
@@ -199,7 +199,7 @@ andon;c;tacolt:
   entrytype: inproceedings
   facility: ''
   grant: dmref15
-  month: Jul
+  month: jul
   optwwwlanl: ''
   pages: 105--126
   pdf: http://proceedings.mlr.press/v65/andoni17a/andoni17a.pdf
@@ -328,7 +328,7 @@ assef;sa20:
   facility: xss, palxfel
   grant: fwp17
   journal: Science Adv.
-  month: Jan
+  month: jan
   nb: fy20
   number: '3'
   optannote: ''
@@ -356,7 +356,7 @@ aydt;acsami19:
   facility: nslsii, xpd
   grant: mrsec14
   journal: ACS Appl. Mater. Interfaces
-  month: Mar
+  month: mar
   nb: art
   note: ''
   number: '12'
@@ -399,7 +399,7 @@ baner;aca20:
   facility: nslsii, xpd, aps, 11idb
   grant: dmref15
   journal: Acta Crystallogr. A
-  month: Jan
+  month: jan
   nb: article, highlight, fy20
   number: '1'
   optannote: ''
@@ -438,7 +438,7 @@ baner;acsanm19:
   facility: xpd, nslsii
   grant: fwp17, TypeA, fy19
   journal: ACS Appl. Nano Mater.
-  month: Sep
+  month: sep
   nb: fy19
   number: '10'
   optannote: ''
@@ -504,7 +504,7 @@ baner;jpcc18:
   facility: 'nsls, x17a, nslsii, xpd, pdf, esrf, id11, aps, 11idb '
   grant: fwp17, fy19, typeA
   journal: J. Phys. Chem. C
-  month: Nov
+  month: nov
   nb: art, highlight, fy19, typeA
   number: '51'
   optannote: ''
@@ -524,7 +524,7 @@ baner;phdt;19:
   entrytype: phdthesis
   facility: ' nsls, x17a, nslsii, xpd  '
   grant: dmref15, efrc18, fwp17
-  month: Oct
+  month: oct
   nb: ' thesis '
   school: Columbia University
   title: Improved modeling of nanocrystals from atomic pair distribution function
@@ -575,7 +575,7 @@ beech;acsel16:
   facility: nslsii, xpd, aps, herix
   grant: ' dmref15 '
   journal: ACS Energy Lett.
-  month: Sep
+  month: sep
   nb: ' highlight '
   note: ''
   number: '4'
@@ -645,7 +645,7 @@ beech;prl19:
   facility: aps, herix, nslsii, xpd
   grant: fwp17, typeA, fy19
   journal: Phys. Rev. Lett.
-  month: Jan
+  month: jan
   nb: typeA, fy19
   note: ''
   number: ''
@@ -811,6 +811,30 @@ billi;aca15:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/15billiacaed.pdf
   year: '2015'
+billi;aca21:
+  ackno: ''
+  author:
+    - A. Altomare
+    - S. J. L. Billinge
+  doi: 10.1107/S2053273320016678
+  entrytype: article
+  facility: ''
+  grant: frap
+  journal: Acta Crystallogr. A
+  month: jan
+  nb: ''
+  note: ''
+  number: '1'
+  optannote: ''
+  optwwwlanl: ''
+  pages: '1'
+  tags: editorial
+  title: Modern crystallography and its foundations
+  url: https://doi.org/10.1107/S2053273320016678
+  volume: '77'
+  wwwemail: ''
+  wwwpub: ''
+  year: '2021'
 billi;b;coecm91:
   address: Gaithersburg
   author:
@@ -4735,6 +4759,32 @@ gu;aca19:
   volume: '75'
   wwwemail: ''
   year: '2019'
+gu;ieeetsp21:
+  ackno: This research was supported by the US National Science Foundation (NSF) through
+    grant DMR-1922234 (for R.G., Q.D. and S.B.) and CCF-1740833 (for Q.D.)
+  author:
+    - Ran Gu
+    - Qiang Du
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: dmref19
+  journal: IEEE Trans. Signal Process.
+  month: ''
+  nb: fy21, typeA
+  note: arXiv:2101.08431 [math.OC]
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  title: A fast two-stage algorithm for non-negative matrix factorization in streaming
+    data
+  url: https://arxiv.org/abs/2101.08431
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2021'
 gualt;jac08:
   author:
     - Gualtieri, A. F.
@@ -6719,8 +6769,8 @@ liu;jac21:
   optwwwlanl: ''
   pages: ''
   tags: nmf, streaming
-  title: Validation of non-negative matrix factorization for assessment of atomic
-    pair-distribution function (PDF) data in a real-time streaming context
+  title: Validation of non-negative matrix factorization for rapid assessment of large
+    sets of atomic pair-distribution function (PDF) data
   url: https://arxiv.org/abs/2010.11807
   volume: ''
   wwwemail: ''
@@ -6753,22 +6803,27 @@ liu;jacs21:
     - Miguel I. Gonzalez
     - Simon J. L. Billinge
     - Jarad A. Mason
-  doi: ''
+  day: '11'
+  doi: 10.1021/jacs.0c11718
   entrytype: article
   facility: nslsii, xpd
   grant: mrsec20
   journal: J. Amer. Chem. Soc.
-  month: ''
+  month: Feb
   nb: art
-  note: submitted
+  note: to be published
   number: ''
   optannote: ''
   optwwwlanl: ''
   pages: ''
-  tags: ''
+  summary_prof_fig: ''
+  summary_prof_text: ''
+  summary_publ_fig: ''
+  summary_publ_text: ''
+  tags: mof, liquid, molecular
   title: Network-Forming Liquids from Metal–Bis(acetamide) Frameworks with Low Melting
     Temperatures
-  url: ''
+  url: https://doi.org/10.1021/jacs.0c11718
   volume: ''
   year: '2021'
 liu;sr14:
@@ -8178,9 +8233,14 @@ proff;jac01:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/01proffjac.pdf
   year: '2001'
 proff;jac99:
+  ackno: We would like to acknowledge funding from NSF through DMR-9700966, DOE through
+    DE FG02 97ER45651 and the Alfred P. Sloan Foundation. X-ray data were collected
+    at the National Synchrotron Light Source, Brookhaven National Laboratory which
+    is funded under contract DE-AC02- 76CH00016.
   author:
     - Proffen, {Th. }
     - Billinge, S. J. L.
+  doi: 10.1107/S0021889899003532
   entrytype: article
   facility: ' nsls, x7a'
   grant: 'cfmr, nsf-dmr97, doe97 '
@@ -8192,11 +8252,13 @@ proff;jac99:
   optnote: ''
   optnumber: ''
   pages: 572--575
+  tags: modeling method
   title: '{PDFFIT}, a program for full profile structural refinement of the atomic
     pair distribution function'
+  url: http://journals.iucr.org./j/issues/1999/03/00/gl0603/gl0603.pdf
   volume: '32'
   wwwemail: sb2896@columbia.edu
-  wwwjour: http://journals.iucr.org./j/issues/1999/03/00/gl0603/gl0603.pdf
+  wwwjour: ''
   wwwlanl: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/99proffjac.pdf
   year: '1999'
@@ -8365,7 +8427,7 @@ qiu;phdt;04:
   author:
     - Qiu, Xiangyun
   entrytype: phdthesis
-  nb: ' thesis '
+  nb: thesis
   school: Michigan State University
   title: Local Structure Study Of Disordered Crystalline Materials With The Atomic
     Pair Distribution Function Method
@@ -8393,7 +8455,15 @@ qiu;prl05:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/05qiu_prl.pdf
   year: '2005'
 rakit;jacs20:
-  ackno: ''
+  ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
+    Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,
+    Office of Science, Basic Energy Sciences under Award Number DESC0019212. This
+    research used beamline 9-BM of the Advanced Photon Source, a U.S. Department of
+    Energy (DOE) Office of Science User Facility operated for the DOE Office of Science
+    by Argonne National Laboratory under Contract No. DE-AC02-06CH11357. Parts of
+    the research were performed at Oak Ridge National Laboratory (ORNL), managed by
+    UT Battelle, LLC for the U.S. Department of Energy (DOE) under contract DE-AC05-00OR22725.
+    We thank George Sterbinsky for support in using the 9-BM beamline.'
   author:
     - Rakita, Yevgeny
     - O'Nolan, Daniel
@@ -8404,21 +8474,22 @@ rakit;jacs20:
     - Chapman, Karena
   doi: 10.1021/jacs.0c09418
   entrytype: article
-  facility: aps, 7bm
+  facility: aps, 9bm
   grant: efrc18
-  journal: J. American Chem. Soc.
+  journal: J. Am. Chem. Soc.
   month: Nov
-  nb: art
-  note: to be published
-  number: ''
+  nb: art, hilight
+  number: '44'
   optannote: ''
+  optnote: ''
   optwwwlanl: ''
   optwwwpub: ''
-  pages: ''
+  pages: 18758–18762
+  tags: autonomous, highlight
   title: Active Reaction Control of Cu Redox State Based on Real-Time Feedback from
     {\it in situ} Synchrotron Measurements
-  url: ''
-  volume: ''
+  url: https://pubs.acs.org/doi/10.1021/jacs.0c09418
+  volume: '142'
   wwwemail: ''
   year: '2020'
 ranga;cm99:
@@ -9335,6 +9406,15 @@ terba;cgd15:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/terba_cgd15.pdf
   year: '2015'
 terba;ic17:
+  abstract: We thank the U.S. Department of Energy NEUP DE-NE 0000746 for support
+    of this research. This research used beamlines X17A of the National Synchrotron
+    Light Source and 28-ID-2 of the National Synchrotron Light Source II, U.S. Department
+    of Energy (DOE) Office of Science User Facilities operated for the DOE Office
+    of Science by Brookhaven National Laboratory under Contract Nos. DE-AC02- 98CH10886
+    and DE-SC0012704 respectively. This work is also based upon research conducted
+    at the Cornell High Energy Synchrotron Source (CHESS) which is supported by the
+    National Science Foundation and the National Institutes of Health/National Institute
+    of General Medical Sciences under NSF award DMR-1332208.
   author:
     - Terban, Maxwell W.
     - Shi, Chenyang
@@ -9386,6 +9466,15 @@ terba;macm16:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/terba_macm16.pdf
   year: '2016'
 terba;mp20:
+  ackno: MWT’s Ph.D. studentship was partially funded by GSK. The authors thank Mike
+    Probert and William Clegg (Newcastle University) for crystal structure determination.
+    This research used beamlines 28-ID-2 of the National Synchrotron Light Source
+    II and 11-ID-B of the Advanced Photon Source, U.S. Department of Energy (DOE)
+    Office of Science User Facilities operated for the DOE Office of Science respectively
+    by Brookhaven National Laboratory under Contract No. DESC0012704 and by Argonne
+    National Laboratory under Contract No. DE-AC02-06CH11357. The authors thank Olaf
+    Borkiewicz and Kevin Beyer for assistance at 11-ID-B and Anton Kovyakh for help
+    measuring samples.
   author:
     - Terban, Maxwell
     - Russo, Luca
@@ -9395,23 +9484,24 @@ terba;mp20:
     - Burke, Matthew
     - Brum, Jeffrey
     - Billinge, Simon
-  doi: https://doi.org/10.1021/acs.molpharmaceut.0c00122
+  doi: 10.1021/acs.molpharmaceut.0c00122
   entrytype: article
-  facility: xpd, nslsii
+  facility: xpd, nslsii, 11idb, aps
   grant: gsk16
   journal: Molecular Pharmaceutics
   month: April
-  nb: ''
+  nb: art, hilite
   notes: ''
-  number: ''
+  number: '7'
   optannote: ''
   optnote: Submitted
   optwwwlanl: ''
-  pages: ''
+  pages: 2370-2389
+  tags: molecular, drug, highlight
   title: Local structural effects due to micronization and amorphization on an HIV
     treatment active pharmaceutical ingredient
-  url: ''
-  volume: ''
+  url: https://doi.org/10.1021/acs.molpharmaceut.0c00122
+  volume: '17'
   wwwemail: ''
   wwwpub: ''
   year: '2020'
@@ -10180,6 +10270,31 @@ worha;cm08:
   wwwemail: ' sb2896@columbia.edu'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/worhatch_08_cm.pdf
   year: '2008'
+wrigh;joss21:
+  ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
+    Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,
+    Office of Science, Basic Energy Sciences under Award Number DE-SC0019212'
+  author:
+    - Christopher ``CJ" Wright
+    - Songsheng Tao
+    - Simon J. L. Billinge
+  doi: 10.21105/joss.02796
+  entrytype: article
+  facility: ''
+  grant: efrc18
+  journal: J. Open Source Software
+  month: tbd
+  nb: art
+  note: submitted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  title: 'SHED: Streaming Heterogeneous Event Data Tracking with Provenance'
+  url: https://github.com/openjournals/joss-papers/blob/joss.02796/joss.02796/10.21105.joss.02796.pdf
+  volume: ''
+  wwwemail: ''
+  year: '2021'
 wrigh;phdt;19:
   author:
     - Christopher J. Wright
@@ -10187,11 +10302,11 @@ wrigh;phdt;19:
   facility: ' nslsii, xpd  '
   grant: dmref15, efrc18, bnlctpdf18, bnlldrd18, dmrefcheme16
   month: Nov
-  nb: ' thesis '
+  nb: thesis
   school: Columbia University
   title: Towards Real Time Characterization of Grain Growth from the Melt
   type: PhD Thesis
-  year: '2020'
+  year: '2019'
 xiao;afm19:
   author:
     - Xiao, Xu
@@ -10828,52 +10943,3 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
-gu;ieeetsp21:
-  ackno: "This research was supported by the US National Science Foundation (NSF) through
-    grant DMR-1922234 (for R.G., Q.D. and S.B.) and CCF-1740833 (for Q.D.)"
-  author:
-    - Ran Gu
-    - Qiang Du
-    - Simon J. L. Billinge
-  doi: ""
-  entrytype: article
-  facility: ""
-  grant: dmref19
-  journal: IEEE Trans. Signal Process.
-  month: ''
-  nb: fy21, typeA
-  number: ''
-  optannote: ''
-  note: arXiv:2101.08431 [math.OC]
-  optwwwlanl: ''
-  pages: ''
-  title: A fast two-stage algorithm for non-negative matrix factorization in streaming data
-  url: https://arxiv.org/abs/2101.08431
-  volume: ''
-  wwwemail: ''
-  wwwpub: ''
-  year: '2021'
-billi;aca21:
-  ackno: ""
-  author:
-    - A. Altomare
-    - S. J. L. Billinge
-  doi: 10.1107/S2053273320016678
-  entrytype: article
-  facility: ""
-  grant: frap
-  journal: Acta Crystallogr. A
-  month: Jan
-  nb: ''
-  number: '1'
-  optannote: ''
-  note: ''
-  optwwwlanl: ''
-  pages: '1'
-  tags: 'editorial'
-  title: Modern crystallography and its foundations
-  url: https://doi.org/10.1107/S2053273320016678
-  volume: '77'
-  wwwemail: ''
-  wwwpub: ''
-  year: '2021'

@@ -964,7 +964,7 @@ dtordari:
   name: Daniel Tordera
   position: unknown
 dyano:
-  active: true
+  active: false
   aka:
     - Daniela Hikari Yano
     - Daniela Yano
@@ -2323,6 +2323,7 @@ mkarlsen:
       advisor: sbillinge
       group: bg
       status: visitor-unsupported
+  grp_mtg_active: true
   name: Martin A. Karlsen
   position: visiting student
   position_full: Visiting PhD Researcher, U. Southern Denmark
