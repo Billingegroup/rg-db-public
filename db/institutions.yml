@@ -226,6 +226,15 @@ bupt:
   city: Beijing
   country: China
   name: Beijing University of Posts and Telecommunications
+butterflynetwork:
+  city: New
+  country: USA
+  date: 2021-03-09
+  name: Butterfly Network Inc.
+  state: NY
+  updated: 2021-03-09 11:14:43.555039
+  uuid: a3f65d6b-f310-4fe6-a3e0-50d1dacf711c
+  zip: '10010'
 byu:
   aka:
     - BYU
@@ -456,6 +465,15 @@ deutschenanoschicht:
   month: 3
   name: Deutsche Nanoschicht GmbH
   year: 2020
+doe:
+  city: Germantown
+  country: USA
+  date: 2021-03-09
+  name: Department of Energy, Office of Science
+  state: MD
+  updated: 2021-03-09 09:35:11.082791
+  uuid: df891fa6-08c3-4d5c-b44e-b627f51f0528
+  zip: '20874'
 doebes:
   aka:
     - Department of Energy
@@ -717,7 +735,7 @@ harvardu:
   name: Harvard University
   state: MA
   street: ''
-  updated: 2020-10-07 07:12:55.714540
+  updated: 2021-03-09 11:06:08.230552
   zip: '02138'
 hashemiteu:
   aka: []
@@ -1135,6 +1153,13 @@ msu:
   state: MI
   street: 220 Trowbridge Rd
   zip: '48824'
+nankaiu:
+  city: Nankai
+  country: China
+  date: 2021-03-09
+  name: Nankai University
+  updated: 2021-03-09 11:14:21.154071
+  uuid: fee5a129-5f4b-49cd-9db2-7780085ea04a
 natautoumexico:
   aka:
     - Universidad Nacional Autónoma de México

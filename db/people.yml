@@ -987,14 +987,14 @@ dyano:
     - begin_year: 2020
       begin_month: 1
       organization: Columbia University
-      end_year: 2020
-      end_month: 7
       position: undergraduate research assistant
       group: bg
       advisor: sbillinge
       status: undergrad
+      begin_day: 1
+      end_date: 2021-03-07
   github_id: dy2403
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Daniela Hikari Yano
   position: undergraduate research assistant
 ebozin:
@@ -1132,7 +1132,7 @@ eculbertson:
       location: New York City
       other: []
       position: Software Engineer
-      organization: Butterfly Network, Inc.
+      organization: butterflynetwork
     - begin_year: 2018
       begin_month: 9
       position: graduate research assistant
@@ -1190,6 +1190,7 @@ ekjaer:
   active: true
   aka:
     - Emil Kjaer
+    - Emil T. S. Kj{\ae}r
   avatar: https://github.com/EmilSkaaning.png
   bio: bio
   education:
@@ -1564,6 +1565,7 @@ hvuong:
   aka:
     - Hung Vuong
     - Vuong, H-T.
+    - Hung T. Vuong
   avatar: https://github.com/tienhungvuong.png
   bio: Hung Vuong is a Chemical Physics Ph.D student from Hanoi, Vietnam. Before coming
     to Columbia, he graduated from Grinnell College in Iowa with a B.A. in Mathematics
@@ -1952,6 +1954,7 @@ kjensen:
     - Jensen, Kirsten M. Ø.
     - Kirsten M. Ø. Jensen
     - Jensen, Kirsten M. O.
+    - Kirsten M. {\O}. Jensen
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
@@ -2584,6 +2587,7 @@ nthomas:
   aka:
     - Nancy Thomas
     - Nancy Knight Thomas
+    - Nancy K. Thomas
   avatar: https://github.com/noniethomas.png
   bio: Nonie is a senior studying Applied Mathematics in the School of Engineering
     and Applied Science at Columbia. She started working with the Billinge Group the
@@ -2936,7 +2940,7 @@ rgu:
       location: Tianjin, China
     - begin_year: 2008
       degree: BS in Mathematics
-      institution: Nankai University
+      institution: nankaiu
       end_year: 2012
       location: Tianjin, China
   email: guran@lsec.cc.ac.cn
@@ -2944,7 +2948,7 @@ rgu:
     - begin_year: 2020
       begin_month: 11
       position: Assistant Professor
-      organization: Nankai University
+      organization: nankaiu
     - begin_year: 2017
       begin_month: 9
       end_month: 11
@@ -2985,6 +2989,7 @@ rkoch:
     - Robert Koch
     - R. Koch
     - Koch, R. J.
+    - Robert J. Koch
   avatar: https://gitlab.thebillingegroup.com/uploads/-/system/user/avatar/107/avatar.png
   bio: bio
   education:
@@ -3088,8 +3093,7 @@ rzyu:
   position: assistant professor
 sbandi:
   active: false
-  aka:
-    - Sasaank Bandi
+  aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
@@ -4108,6 +4112,7 @@ yrakita:
     - Yevgeny Rakita
     - Y. Rakita
     - Yevgeny Rakita Shlafstein
+    - Rakita, Yevgeny
   avatar: https://github.com/yevgenyr.png
   bio: Yevgeny Rakita (Shlafstein) grew up in Israel and, after finishing his PhD,
     joined Simon Billinge's group. In the Billige group Yevgeny developes electron-beam

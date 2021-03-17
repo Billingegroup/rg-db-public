@@ -6747,7 +6747,7 @@ liu;jac21:
     - Chia-Hao Liu
     - Christopher J. Wright
     - Ran Gu
-    - Sasaank Bandi,
+    - Sasaank Bandi
     - Allison Wustrow
     - Paul K. Todd
     - Daniel O'Nolan
@@ -7291,6 +7291,56 @@ morro;jfeng19:
   volume: '261'
   wwwemail: ''
   year: '2019'
+nakam;jmca21:
+  ackno: B.R.J. and N.N. acknowledge the U.S. Department of Defense (DoD), Air Force
+    Office of Scientific Research (AFOSR) award number FA9550-17-1-0120, directed
+    by Dr. Ali Sayir. N.N. is supported by the DoD through the National Defense Science
+    & Engineering Graduate Fellowship (NDSEG) Program. PDF data collection by S.J.L.B.
+    and E.C. was supported by US DOE, Office of Science, Office of Basic Energy Sciences
+    under contract DE-SC0012704. C.S.H. and N.B. were supported by the Office of Naval
+    Research and in part by a grant of computer time from the DoD High Performance
+    Computing Modernization Program at the AFRL Supercomputing Resource Center. H.W.
+    and H.W. acknowledge support for TEM measurements from the Office of Naval Research
+    (contract no. N00014-16-1-2778). For PDF measurements, this research used beamline
+    28-ID-2 of the National Synchrotron Light Source II, a U.S. Department of Energy
+    (DOE) Office of Science User Facility operated for the DOE Office of Science by
+    Brookhaven National Laboratory under Contract No. DE-SC0012704. For EXAFS measurements,
+    MRCAT operations are supported by the Department of Energy and the MRCAT member
+    institutions. This research used resources of the Advanced Photon Source, a U.S.
+    Department of Energy (DOE) Office of Science User Facility operated for the DOE
+    Office of Science by Argonne National Laboratory under Contract No. DE-AC02-06CH11357.
+    The authors acknowledge use of the Materials Characterization Facility at Carnegie
+    Mellon University supported by grant MCF-677785.
+  author:
+    - Nathan Nakamura
+    - Laisuo Su
+    - Han Wang
+    - Noam Bernstein
+    - Shikhar Krishn Jha
+    - Elizabeth Culbertson
+    - Haiyan Wang
+    - Simon J. L. Billinge
+    - C. Stephen Hellberg
+    - B. Reeja-Jayan
+  doi: ''
+  entrytype: article
+  facility: xpd, nslsii
+  grant: fwp20
+  journal: J. Mater. Chem. A
+  month: mar
+  nb: typeB2, fy21
+  note: To be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  title: Linking Far-from-Equilibrium Defect Structures in Ceramics to Electromagnetic
+    Driving Forces
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2021'
 nakam;jmchema17:
   author:
     - Nakamura, Nathan
@@ -10307,6 +10357,49 @@ wrigh;phdt;19:
   title: Towards Real Time Characterization of Grain Growth from the Melt
   type: PhD Thesis
   year: '2019'
+wustr;cm21:
+  ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
+    Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,
+    Office of Science, Basic Energy Sciences under Award Number DE-SC0019212. This
+    research used resources at beamline 28-ID-2 of the National Synchrotron Light
+    Source II, a U.S. Department of Energy (DOE) Office of Science User Facility operated
+    for the DOE Office of Science by Brookhaven National Laboratory under Contract
+    No. DE-SC0012704. Use of the Advanced Photon Source at Argonne National Laboratory
+    was supported by the U. S. Department of Energy, Office of Science, Office of
+    Basic Energy Sciences, under Contract No. DE-AC02-06CH11357. We thank Christopher
+    L. Rom for XRD plotting software (github.com/CLRom)'
+  author:
+    - Allison Wustrow
+    - Guanglong Huang
+    - Matthew J. McDermott
+    - Daniel O’Nolan
+    - Chia-Hao Liu
+    - Gia Thinh Tran
+    - Brennan C. McBride
+    - Shyam S. Dwaraknath
+    - Karena W. Chapman
+    - Simon J. L. Billinge
+    - Kristin A. Persson
+    - Katsuyo Thornton
+    - James R. Neilson
+  doi: ''
+  entrytype: article
+  facility: xpd, nslsii, aps, 11bm
+  grant: efrc18
+  journal: Chem. Mater.
+  month: mar
+  nb: ' art '
+  note: to be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  tags: synthesis, in-situ
+  title: Lowering Ternary Oxide Synthesis Temperatures by Solid State Cometathesis
+    Reactions
+  url: ''
+  volume: ''
+  year: '2021'
 xiao;afm19:
   author:
     - Xiao, Xu
@@ -10562,6 +10655,43 @@ yang;jac14:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/14yangjac.pdf
   year: '2014'
+yang;nc21:
+  ackno: ''
+  author:
+    - Jingjing Yang
+    - Jake Russell
+    - Songsheng Tao
+    - Martina Lessio
+    - Feifan Wang
+    - Alaina Hartnett
+    - Samuel Peurifoy
+    - Evan Doud
+    - Evan O'Brien
+    - Natalia Gadjieva
+    - David Reichman
+    - X-Y. Zhu
+    - Andrew Crowther
+    - Simon Billinge
+    - Xavier Roy
+    - Michael Steigerwald
+    - Colin Nuckolls
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: mrsec20
+  journal: Nature Chem.
+  month: tbd
+  nb: ' art '
+  note: to be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  tags: superatoms
+  title: Superatomic Solid Solutions
+  url: ''
+  volume: ''
+  year: '2021'
 yang;pccp13:
   author:
     - Yang, Xiaohao
