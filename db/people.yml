@@ -415,10 +415,37 @@ btabanpour:
   position: masters research assistant
 cbracy:
   active: true
-  aka: []
-  avatar: https://github.com/.png
-  bio: bio
-  education: []
+  aka:
+    - Connor Bracy
+    - Connor J. Bracy
+    - Bracy, Connor
+    - Bracy, Connor J.
+    - Bracy, C. J.
+  avatar: https://avatars.githubusercontent.com/u/7377785
+  bio: Connor was born and raised in a suburb just outside of Seattle Washington
+       where he continued to live until coming to Columbia. Having originally
+       started his higher education pursuing programming physics engines, he
+       eventually transitioned to pursuing physics research. When he’s not
+       working, you might find him running, rock climbing, skateboarding, or
+       just having a night in playing video games.
+  education:
+    - begin_year: 2014
+      begin_month: 9
+      degree: B.S. in Computer Science
+      institution: DigiPen Institute of Technology
+      end_year: 2017
+      end_month: 8
+    - begin_year: 2016
+      begin_month: 6
+      degree: B.S. in Physics
+      institution: University of Washington
+      end_year: 2020
+      end_month: 3
+    - begin_year: 2020
+      begin_month: 9
+      degree: PhD in Applied Physics
+      institution: Columbia University
+      group: bg
   email: cjb2250@columbia.edu"
   employment:
     - begin_date: 2020-11-16
@@ -428,7 +455,7 @@ cbracy:
       group: bg
       advisor: sbillinge
       status: phd
-  github_id: ''
+  github_id: connorjbracy
   grp_mtg_active: true
   name: Connor Bracy
   orcid_id: 0000-0001-8049-356X
