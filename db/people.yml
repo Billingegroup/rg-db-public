@@ -2109,12 +2109,19 @@ lcheng:
   active: true
   aka: []
   avatar: "https://github.com/\x16OpusXI.png"
-  bio: bio
-  education: []
+  bio: Louis is from Singapore and Hong Kong. He is currently a GS student studying Data
+    Science, and he wishes to pursue a Business Analytics master's. Previously, he has
+    worked for Valencia Club de Futbol and Singapore Civil Defence Force. In his free
+    time, he enjoys playing soccer and tennis.
+  education:
+      - degree: BA in Data Science
+        institution: Columbia University
+        end_year: 2023
+        begin_year: 2019
   email: yc3733@columbia.edu
   employment:
     - begin_date: 2021-02-01
-      end_date: 2021-05-31
+      end_date: 2021-07-31
       organization: columbiau
       position: undergraduate researcher
       group: bg
