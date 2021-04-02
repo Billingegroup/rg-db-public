@@ -350,6 +350,7 @@ bfrandsen:
       end_month: 4
       group: bg
   name: Ben Frandsen
+  orcid_id: 0000-0002-4047-9453
   position: assistant professor
 bozer:
   active: true
@@ -2176,9 +2177,11 @@ lyang:
   avatar: https://github.com/dragonyanglong.png
   bio: bio
   education:
-    - begin_year: 2017
-      begin_month: 1
+    - begin_year: 2015
+      begin_month: 9
       degree: PhD in Materials Science
+      end_month: 9
+      end_year: 2020
       advisor: sbillinge
       institution: Columbia University
       group: bg
@@ -2200,6 +2203,7 @@ lyang:
       group: bg
   grp_mtg_active: false
   name: Long Yang
+  orcid_id: 0000-0001-8731-0172
   position: graduate research assistant
 mdapiaggi:
   active: false
@@ -2306,17 +2310,17 @@ mkane:
   name: Michael Kane
   position: unknown
 mkarlsen:
-  active: false
+  active: true
   aka: []
   avatar: https://github.com/maak@sdu.dk.png
   bio: bio
   education: []
   email: maak@sku.dk
   employment:
-    - begin_year: 2020
-      begin_month: 9
+    - begin_year: 2021
+      begin_month: 3
       end_year: 2021
-      end_month: 5
+      end_month: 12
       organization: columbiau
       position: visiting student
       position_full: Visiting PhD Researcher, U. Southern Denmark
@@ -2484,6 +2488,7 @@ mterban:
       end_month: 8
       group: bg
   name: Maxwell Terban
+  orcid_id: 0000-0002-7094-1266
   position: post-doctoral scholar
 mwaddell:
   active: false
@@ -4320,17 +4325,17 @@ zthatcher:
     device industry, as well as a material scientist for the power industry. In his
     free time you may catch him on a run or desperately trying to land a good kickflip.
   education:
+    - begin_year: 2020
+      begin_month: 8
+      degree: PhD in Material Science
+      institution: Columbia University
+      group: bg
     - begin_year: 2013
       begin_month: 9
       degree: B.S. in Material Science and Engineering
       institution: University of Connecticut
       end_year: 2017
       end_month: 3
-    - begin_year: 2020
-      begin_month: 8
-      degree: PhD in Material Science
-      institution: Columbia University
-      group: bg
   email: zt2275@columbia.edu
   employment:
     - begin_year: 2020

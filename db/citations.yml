@@ -5088,23 +5088,25 @@ hitt;nc21:
     - Yue Gao
     - Simon J. L. Billinge
     - Thomas E. Mallouk
-  doi: ''
+  day: '18'
+  doi: 10.1038/s41467-021-21342-w
   entrytype: article
   facility: xpd, nslsii
   grant: fwp20
   journal: Nature Commun.
-  month: ''
+  month: 'feb'
   nb: art
   note: to be published
   notes: ''
-  number: ''
+  number: '1'
   optannote: ''
   optwwwlanl: ''
-  pages: ''
+  pages: '1114'
+  tags: 'lab-on-a-chip, high-throughput, screening, in-situ'
   title: A High Throughput Optical Method for Studying Composition Effects in Electrochemical
     {CO$_2$} Reduction Catalysts
-  url: ''
-  volume: ''
+  url: https://www.nature.com/articles/s41467-021-21342-w
+  volume: '12'
   wwwemail: ''
   wwwpub: ''
   year: '2021'
@@ -5971,6 +5973,14 @@ koch;arxiv20:
   wwwpub: ''
   year: '2020'
 koch;prb19:
+  ackno: This work was supported by US Department of Energy, Office
+    of Science, Office of Basic Energy Sciences (DOE-BES)
+    under Contract No. DE-SC0012704. X-ray PDF measurements
+    were conducted on beamline 28-ID-1 of the National
+    Synchrotron Light Source II, a US Department of Energy
+    (DOE) Office of Science User Facility operated for the DOE
+    Office of Science by Brookhaven National Laboratory under
+    Contract No. DE-SC0012704.
   author:
     - Koch, R. J.
     - Bozin, E. S.
@@ -5981,7 +5991,7 @@ koch;prb19:
   day: '3'
   doi: 10.1103/PhysRevB.100.020501
   entrytype: article
-  facility: xpd, nslsii
+  facility: pdf, nslsii
   grant: fwp17, typeA, fy19
   journal: Phys. Rev. B., Rapid Communications
   month: July
@@ -5992,6 +6002,7 @@ koch;prb19:
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: 020501(R)
+  tags: odl, superconductor
   title: Room temperature local nematicity in an iron-selenide superconducing sample
   url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.020501
   volume: '100'
@@ -6711,29 +6722,29 @@ liu;jac19:
     under the grant No. DE-SC0008772.
   author:
     - Liu, Chia-Hao
-    - Janke, Eric
+    - Janke,  Eric M.
     - Ruipen, Li
     - Juh\'{a}s, Pavol
     - Gang, Oleg
     - Talapin, Dimitri V.
     - Billinge, Simon J. L.
-  doi: ''
+  doi: 10.1107/S1600576720004628
   entrytype: article
   facility: nslsii, 11bm, nsls, x17a
   grant: dmrefcheme16
-  journal: J. Appl. Crystallogr.
+  journal: J. Appl. Cryst.
   month: Nov
   nb: art
-  note: arXiv:1910.08186 [cond-mat.mtrl-sci]
+  optnote: arXiv:1910.08186 [cond-mat.mtrl-sci]
   number: ''
   optannote: ''
   optwwwlanl: ''
   optwwwpub: ''
-  pages: ''
+  pages: '699-709'
   title: 'sasPDF: pair distribution function analysis of nanoparticle assemblies from
     small-angle-scattering data'
-  url: https://arxiv.org/abs/1910.08186
-  volume: ''
+  url: https://scripts.iucr.org/cgi-bin/paper?kc5104
+  volume: '53'
   wwwemail: ''
   year: '2020'
 liu;jac21:
@@ -6809,13 +6820,13 @@ liu;jacs21:
   facility: nslsii, xpd
   grant: mrsec20
   journal: J. Amer. Chem. Soc.
-  month: Feb
+  month: feb
   nb: art
-  note: to be published
-  number: ''
+  note: ''
+  number: '7'
   optannote: ''
   optwwwlanl: ''
-  pages: ''
+  pages: 2801-2811
   summary_prof_fig: ''
   summary_prof_text: ''
   summary_publ_fig: ''
@@ -6824,7 +6835,7 @@ liu;jacs21:
   title: Network-Forming Liquids from Metal–Bis(acetamide) Frameworks with Low Melting
     Temperatures
   url: https://doi.org/10.1021/jacs.0c11718
-  volume: ''
+  volume: '143'
   year: '2021'
 liu;sr14:
   author:
@@ -8343,6 +8354,7 @@ proff;zk03:
   optnumber: ''
   optwwwlanl: ''
   pages: 132--143
+  tags: review
   title: Structural analysis of complex materials using the atomic pair distribution
     function - a practical guide
   url: https://www.degruyter.com/view/j/zkri.2003.218.issue-2/zkri.218.2.132.20664/zkri.218.2.132.20664.xml
@@ -9406,7 +9418,7 @@ terba;cgd15:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/terba_cgd15.pdf
   year: '2015'
 terba;ic17:
-  abstract: We thank the U.S. Department of Energy NEUP DE-NE 0000746 for support
+  ackno: We thank the U.S. Department of Energy NEUP DE-NE 0000746 for support
     of this research. This research used beamlines X17A of the National Synchrotron
     Light Source and 28-ID-2 of the National Synchrotron Light Source II, U.S. Department
     of Energy (DOE) Office of Science User Facilities operated for the DOE Office
