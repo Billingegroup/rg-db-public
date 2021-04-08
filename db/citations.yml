@@ -193,9 +193,7 @@ andon;c;tacolt:
     - Sun, Xiaorui
   booktitle: Proceedings of the 2017 Conference on Learning Theory
   doi: ''
-  editor:
-    - Kale, Satyen
-    - Shamir, Ohad
+  editor: Kale, Satyan and Shamir, Ohad
   entrytype: inproceedings
   facility: ''
   grant: dmref15
@@ -407,6 +405,10 @@ baner;aca20:
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: 24-31
+  synopsis: The clusterMining database searching approach is introduced to find good
+    candidate close-packed decahedral and icosahedral structural models from large
+    numbers of candidate structures.
+  tags: nanoparticle, metallic, metallic_nanoparticle, ml, datamining, clustermining
   title: 'Cluster-mining: An approach for determining core structures of metallic
     nanoparticles from atomic pair distribution function data'
   url: https://doi.org/10.1107/S2053273319013214
@@ -445,6 +447,9 @@ baner;acsanm19:
   optnote: To be published
   optwwwlanl: ''
   pages: 6268-6276
+  synopsis: Commercially used TiO2 catalysts are analyzed using PDF to understand
+    why they have different catalytic properties
+  tags: nanoparticle, tio2, catalysis
   title: Quantitative structural characterization of catalytically active {TiO$_2$}
     nanoparticles
   url: https://pubs.acs.org/doi/10.1021/acsanm.9b01246
@@ -511,6 +516,11 @@ baner;jpcc18:
   optnote: Advance online copy at 10.1021/acs.jpcc.8b05897
   optwwwlanl: ''
   pages: 29498-29506
+  synopsis: PDFs from many metallic nanoparticle samples have poor fits to simple
+    crystallographic models.  This paper shows that for a wide array of different
+    metallic nanoparticles, greatly improved fits are possible by introducing non-space-filling
+    decahedral models for the structure.
+  tags: nanoparticle, metallic_nanoparticle
   title: Improved models for metallic nanoparticle cores from atomic pair distribution
     function ({PDF}) analysis
   url: https://pubs.acs.org/doi/10.1021/acs.jpcc.8b05897
@@ -3560,6 +3570,10 @@ doann;acsn14:
   optannote: ''
   optwwwlanl: http://pubs.acs.org/doi/abs/10.1021/nn501591g
   pages: 6163-6170
+  synopsis: very small nickel nanoparticles are observed to amorphize with a PDF signal
+    that is indistinguishable from that of a bulk metallic glass despite being made
+    from a single elemental species.
+  tags: nanoparticle, metallic_nanoparticle, bmg
   title: Bulk metallic glass-like scattering signal in small metallic nanoparticles
   url: http://dx.doi.org/10.1021/nn501591g
   volume: '8'
@@ -3919,6 +3933,10 @@ farro;aca09:
   number: '3'
   optwwwlanl: ''
   pages: 232--239
+  synopsis: The PDF equations are rederived from scratch with interesting new insights
+    that yield a better understanding of the relationship between the small angle
+    signal in the data and the PDF.
+  tags: pdf_theory, sas
   title: 'Relationship between the atomic pair distribution function and small angle
     scattering: implications for modeling of nanoparticles'
   url: http://scripts.iucr.org/cgi-bin/paper?cn5017
@@ -3998,6 +4016,8 @@ farro;jpcm07:
   optwwwlanl: http://arxiv.org/abs/cond-mat/0609485
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/farrow-jpcm07-pdfgui.pdf
   pages: '335219'
+  synopsis: The paper that describes PDFgui
+  tags: modeling, pdfgui
   title: '{PDFfit2} and {PDFgui}: Computer programs for studying nanostructure in
     crystals'
   url: http://iopscience.iop.org/0953-8984/19/33/335219/
@@ -4017,6 +4037,10 @@ farro;prb10:
   note: ''
   optwwwlanl: ''
   pages: '124104'
+  synopsis: It is shown that PDFs from metallic gold nanoparticles obtained from a
+    low energy electron microscope can be successfully modelled with quantitative
+    discrete nanoparticle models.
+  tags: nanoparticle, metallic_nanoparticle, epdf
   title: Quantitative nanoparticle structures from electron crystallography data
   url: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.81.134104
   volume: '81'
@@ -5069,6 +5093,51 @@ gutma;unpub00:
   wwwlanl: http://arXiv.org/abs/cond-mat/0009141
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/00billi_ijmpb_pre.pdf
   year: '2003'
+hao;jmcc19:
+  acknowledgements: The work was supported by National Natural Science Foundation
+    of China (Grant Nos. 51972032, 51802023, 61774020 and 51802021), Ministry of Sciences
+    and Technology of China through National Basic Research Program of China (973
+    Program 2015CB654604), National Key Research and Development Program of China
+    (No. 2017YFB0406302), Science and Technology Plan of Shenzhen City (Grant No.
+    201887776), Fund of IPOC BUPT (Grant No. IPOC2020ZT09). Key area research plan
+    of Guangdong (Grant No. 2019B010937001). We acknowledge the help from Beijing
+    Synchrotron Radiation Facility in synchrotron XRD and Prof. Zhiyi Wei group for
+    providing the laser line for the detection of frequency-doubled effect. Work in
+    the Billinge group was supported by U.S. Department of Energy, Office of Science,
+    Office of Basic Energy Sciences (DOE-BES) under contract No. DESC00112704. Banerjee
+    acknowledges support from the National Defense cience and Engineering Graduate
+    Fellowship (DOD-NDSEG) program. X-ray PDF measurements were conducted on beamline
+    28-ID-2 of the National
+  author:
+    - Yanan Hao
+    - Zunpeng Feng
+    - Soham Banerjee
+    - Xiaohui Wang
+    - Simon J. L. Billinge
+    - Jiesu Wang
+    - Kuijuan Jin
+    - Ke Bi
+    - Longtu Li
+  day: '16'
+  doi: 10.1039/D0TC05975G
+  entrytype: article
+  facility: nslsii, xpd
+  grant: fwp20
+  journal: J. Mater. Chem. C
+  month: mar
+  nb: fy21, typeB2
+  note: advance article
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  title: Ferroelectric Structure and Polarization Switching Behaviour of Ultrafine
+    {BaTiO$_3$} Nanoparticles with Large-Scale Size Uniformity
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2021'
 hitt;nc21:
   ackno: This work was supported by the Office of Basic Energy Sciences, Division
     of Chemical Sciences, Geosciences, and Energy Bioscience, Department of Energy
@@ -5094,15 +5163,19 @@ hitt;nc21:
   facility: xpd, nslsii
   grant: fwp20
   journal: Nature Commun.
-  month: 'feb'
+  month: feb
   nb: art
-  note: to be published
   notes: ''
   number: '1'
   optannote: ''
+  optnote: to be published
   optwwwlanl: ''
   pages: '1114'
-  tags: 'lab-on-a-chip, high-throughput, screening, in-situ'
+  synopsis: A lab-on-a-chip combinatorial search method is used to find metallic alloy
+    nanoparticle electrocatalysts that are good for CO2 reduction.  PDF is used to
+    to study the structure of the resulting good performing catalyst nanoparticles
+  tags: lab-on-a-chip, high-throughput, screening, in-situ, metallic_nanoparticle,
+    nanoparticle
   title: A High Throughput Optical Method for Studying Composition Effects in Electrochemical
     {CO$_2$} Reduction Catalysts
   url: https://www.nature.com/articles/s41467-021-21342-w
@@ -5318,7 +5391,13 @@ jacqu;nc13:
   optnote: ''
   optwwwlanl: ''
   pages: '2536'
-  tags: ctpdf
+  synopsis: Computed tomography PDF is demonstrated for the first time and applied
+    to study the distribution of palladium nanoparticles on a catalyst body (the form
+    that supports catalytic nanoparticles in a catalysis stack).  It is possible to
+    see how the particles change structure as oxidizing and reducing atmospheres are
+    flowed over the sample and how this varies with position of the particle on the
+    catalyst body.
+  tags: ctpdf, nanoparticle, highlight, metallic_nanoparticle, catalyst, mapping
   title: Pair distribution function computed tomography
   url: http://www.nature.com/ncomms/2013/130930/ncomms3536/full/ncomms3536.html
   volume: '4'
@@ -5973,14 +6052,12 @@ koch;arxiv20:
   wwwpub: ''
   year: '2020'
 koch;prb19:
-  ackno: This work was supported by US Department of Energy, Office
-    of Science, Office of Basic Energy Sciences (DOE-BES)
-    under Contract No. DE-SC0012704. X-ray PDF measurements
-    were conducted on beamline 28-ID-1 of the National
-    Synchrotron Light Source II, a US Department of Energy
-    (DOE) Office of Science User Facility operated for the DOE
-    Office of Science by Brookhaven National Laboratory under
-    Contract No. DE-SC0012704.
+  ackno: This work was supported by US Department of Energy, Office of Science, Office
+    of Basic Energy Sciences (DOE-BES) under Contract No. DE-SC0012704. X-ray PDF
+    measurements were conducted on beamline 28-ID-1 of the National Synchrotron Light
+    Source II, a US Department of Energy (DOE) Office of Science User Facility operated
+    for the DOE Office of Science by Brookhaven National Laboratory under Contract
+    No. DE-SC0012704.
   author:
     - Koch, R. J.
     - Bozin, E. S.
@@ -6735,12 +6812,12 @@ liu;jac19:
   journal: J. Appl. Cryst.
   month: Nov
   nb: art
-  optnote: arXiv:1910.08186 [cond-mat.mtrl-sci]
   number: ''
   optannote: ''
+  optnote: arXiv:1910.08186 [cond-mat.mtrl-sci]
   optwwwlanl: ''
   optwwwpub: ''
-  pages: '699-709'
+  pages: 699-709
   title: 'sasPDF: pair distribution function analysis of nanoparticle assemblies from
     small-angle-scattering data'
   url: https://scripts.iucr.org/cgi-bin/paper?kc5104
@@ -7218,6 +7295,10 @@ miao;s16:
   optnote: to be published
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: aaf2157
+  synopsis: A summary is presented of recent progress in solving the exact structure
+    of individual nanoparticles using atomic electron tomography methods
+  tags: cluster,  nanoparticle, metallic_nanoparticle, structure_solution, epdf, aet,
+    highlight
   title: 'Atomic electron tomography: 3D structures without crystals'
   url: http://science.sciencemag.org/content/353/6306/aaf2157
   volume: '353'
@@ -8594,9 +8675,11 @@ redmo;acsn11:
   note: submitted
   number: ''
   optannote: ''
+  opttags: nanoparticles, metallic_nanoparticles, catalyst
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: ''
+  synopsis: ''
   title: Surface energy of supported platinum nanoparticles
   url: ''
   volume: ''
@@ -8620,7 +8703,10 @@ redmo;ecssl12:
   optannote: ''
   optwwwlanl: ''
   pages: B72-B74
-  tags: in_situ
+  synopsis: Carbon supported Pt nanoparticle catalysts are observed by PDF in a cycling
+    PEM fuel-cell and are observed to coarsen as a function of number of cycles.  This
+    was an in situ experiment at the synchrotron.
+  tags: in_situ, nanoparticle, metallic_nanoparticle, catalyst, fuel_cell
   title: In-situ monitoring of particle growth at {PEMFC} cathode under accelerated
     cycling conditions
   url: http://dx.doi.org/10.1149/2.004206esl
@@ -9187,6 +9273,9 @@ shi;jpcc13:
   optannote: ''
   optwwwlanl: ''
   pages: 7226-7230
+  synopsis: An observation is made that very small Pt nanoparticles may be undergoing
+    bond softening on heating
+  tags: nanoparticle, metallic_nanoparticle
   title: Evidence for anomalous bond softening and disorder below 2 nm diameter in
     carbon supported platinum nanoparticles from the temperature dependent peak width
     of the atomic pair distribution function
@@ -9468,9 +9557,9 @@ terba;cgd15:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/terba_cgd15.pdf
   year: '2015'
 terba;ic17:
-  ackno: We thank the U.S. Department of Energy NEUP DE-NE 0000746 for support
-    of this research. This research used beamlines X17A of the National Synchrotron
-    Light Source and 28-ID-2 of the National Synchrotron Light Source II, U.S. Department
+  ackno: We thank the U.S. Department of Energy NEUP DE-NE 0000746 for support of
+    this research. This research used beamlines X17A of the National Synchrotron Light
+    Source and 28-ID-2 of the National Synchrotron Light Source II, U.S. Department
     of Energy (DOE) Office of Science User Facilities operated for the DOE Office
     of Science by Brookhaven National Laboratory under Contract Nos. DE-AC02- 98CH10886
     and DE-SC0012704 respectively. This work is also based upon research conducted
@@ -9619,7 +9708,7 @@ terba;nan18:
   optnote: DOI:10.1039/C7NR07949D
   optwwwlanl: ''
   pages: 4291--4300
-  tags: in_situ, synthesis, mof
+  tags: in_situ, synthesis, mof, polymer
   title: Early stage structural development of prototypical zeolitic imidazolate framework
     (ZIF) in solution
   url: http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07949d/unauth\#!divAbstract
@@ -10590,7 +10679,7 @@ yang;aca21:
     through grant DMREF-1534910. LY and MGT acknowledge support from the ORNL Graduate
     Opportunity (GO) program, which was funded by the Neutron Science Directorate,
     with support from the Scientific User Facilities Division, Office of Basic Energy
-    Science, US Department of Energy (DOE). KM\OJ and ETSK acknowledge funding from
+    Science, US Department of Energy (DOE). KMOJ and ETSK acknowledge funding from
     the European Research Council. This work is part of a project that has received
     funding from the European Research Council (ERC) under the European Union’s Horizon
     2020 Research and Innovation Programme (grant agreement No. 804066).

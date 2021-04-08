@@ -449,7 +449,7 @@ cbracy:
   email: cjb2250@columbia.edu"
   employment:
     - begin_date: 2020-11-16
-      end_date: 2021-05-31
+      end_date: 2021-08-31
       organization: columbiau
       position: PhD Researcher
       group: bg
@@ -940,6 +940,7 @@ cyshi:
       end_year: 2015
       end_month: 8
       group: bg
+  google_scholar_profile: https://scholar.google.com/citations?user=W32kTkEAAAAJ
   name: Chenyang Shi
   position: scientist
 dpodgorski:
@@ -1282,9 +1283,8 @@ eshen:
       institution: Columbia University
   email: ejs2228@columbia.edu
   employment:
-    - begin_year: 2020
-      begin_month: 6
-      end_year: 2024
+    - begin_date: 2020-06-01
+      end_date: 2024-05-31
       organization: columbiau
       position: graduate research assistant
       group: bg
@@ -3611,7 +3611,7 @@ sskjaervoe:
     - begin_year: 2020
       begin_month: 8
       end_year: 2022
-      end_month: 10
+      end_month: 8
       organization: columbiau
       advisor: sbillinge
       position: post-doctoral scholar
