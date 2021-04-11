@@ -213,15 +213,17 @@ anker;hdcc20:
   author:
     - Andy S. Anker
     - Emil T. S. Kjaer
-    - Eric B. Dam
+    - Erik B. Dam
     - Simon J. L. Billinge
     - Kirsten M. Ø. Jensen
     - Raghavendra Selvan
+  day: '17'
   doi: 10.26434/chemrxiv.12662222
   entrytype: article
   facility: ''
   grant: dmref19
   journal: KDD
+  month: jul
   nb: ''
   note: Accepted to the conference International Workshop on Deep Learning on Graphs
     (KDD-DLG).  Available on ChemArxiv (doi is 10.26434/chemrxiv.12662222)
@@ -1353,9 +1355,9 @@ billi;ijmpb02:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/billinge_02_int_modern_phys.pdf
   year: '2002'
 billi;iucr19:
-  acknowledgement: SJLB would like to acknowledge funding from the U.S. Department
-    of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
-    contract No. DE-SC00112704.
+  ackno: SJLB would like to acknowledge funding from the U.S. Department of Energy,
+    Office of Science, Office of Basic Energy Sciences (DOE-BES) under contract No.
+    DE-SC00112704.
   author:
     - Simon J. L. Billinge
   booktitle: IUCr newsletter
@@ -4795,7 +4797,7 @@ gu;ieeetsp21:
   facility: ''
   grant: dmref19
   journal: IEEE Trans. Signal Process.
-  month: ''
+  month: jan
   nb: fy21, typeA
   note: arXiv:2101.08431 [math.OC]
   number: ''
@@ -5093,21 +5095,20 @@ gutma;unpub00:
   wwwlanl: http://arXiv.org/abs/cond-mat/0009141
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/00billi_ijmpb_pre.pdf
   year: '2003'
-hao;jmcc19:
-  acknowledgements: The work was supported by National Natural Science Foundation
-    of China (Grant Nos. 51972032, 51802023, 61774020 and 51802021), Ministry of Sciences
-    and Technology of China through National Basic Research Program of China (973
-    Program 2015CB654604), National Key Research and Development Program of China
-    (No. 2017YFB0406302), Science and Technology Plan of Shenzhen City (Grant No.
-    201887776), Fund of IPOC BUPT (Grant No. IPOC2020ZT09). Key area research plan
-    of Guangdong (Grant No. 2019B010937001). We acknowledge the help from Beijing
-    Synchrotron Radiation Facility in synchrotron XRD and Prof. Zhiyi Wei group for
-    providing the laser line for the detection of frequency-doubled effect. Work in
-    the Billinge group was supported by U.S. Department of Energy, Office of Science,
-    Office of Basic Energy Sciences (DOE-BES) under contract No. DESC00112704. Banerjee
-    acknowledges support from the National Defense cience and Engineering Graduate
-    Fellowship (DOD-NDSEG) program. X-ray PDF measurements were conducted on beamline
-    28-ID-2 of the National
+hao;jmcc21:
+  ackno: The work was supported by National Natural Science Foundation of China (Grant
+    Nos. 51972032, 51802023, 61774020 and 51802021), Ministry of Sciences and Technology
+    of China through National Basic Research Program of China (973 Program 2015CB654604),
+    National Key Research and Development Program of China (No. 2017YFB0406302), Science
+    and Technology Plan of Shenzhen City (Grant No. 201887776), Fund of IPOC BUPT
+    (Grant No. IPOC2020ZT09). Key area research plan of Guangdong (Grant No. 2019B010937001).
+    We acknowledge the help from Beijing Synchrotron Radiation Facility in synchrotron
+    XRD and Prof. Zhiyi Wei group for providing the laser line for the detection of
+    frequency-doubled effect. Work in the Billinge group was supported by U.S. Department
+    of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
+    contract No. DESC00112704. Banerjee acknowledges support from the National Defense
+    cience and Engineering Graduate Fellowship (DOD-NDSEG) program. X-ray PDF measurements
+    were conducted on beamline 28-ID-2 of the National
   author:
     - Yanan Hao
     - Zunpeng Feng
