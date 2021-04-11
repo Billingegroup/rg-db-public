@@ -57,6 +57,15 @@ addisababau:
       name: College of Natural Science
   state: ''
   zip: ''
+afrl:
+  city: Wright-Patterson Air Force Base
+  country: USA
+  date: 2021-04-11
+  name: Air Force Research Laboratory
+  state: OH
+  updated: 2021-04-11 17:30:07.571638
+  uuid: e7db51d4-0fa1-4690-8ea6-0a1e9716b642
+  zip: '45433'
 albemarlecorp:
   aka:
     - albemarlecorp
@@ -155,7 +164,7 @@ bardcsr:
   name: Bard College at Simon's Rock
   state: MA
   zip: '01230'
-barnardu:
+barnardc:
   aka: []
   city: New York
   country: USA
@@ -220,6 +229,24 @@ bnl:
   name: Brookhaven National Laboratory
   state: NY
   zip: '11973'
+bostonu:
+  city: Boston
+  country: USA
+  date: 2021-04-11
+  name: Boston University
+  state: MA
+  updated: 2021-04-11 17:45:04.473145
+  uuid: 211de403-28d9-4640-95a4-5722bdf2b369
+  zip: '02215'
+bruker:
+  city: Billerica
+  country: USA
+  date: 2021-04-11
+  name: Bruker
+  state: MA
+  updated: 2021-04-11 17:22:43.762798
+  uuid: 85ed8753-6a73-479b-b90c-d726aedefb0f
+  zip: '01821'
 bupt:
   aka:
     - BUPT
@@ -413,6 +440,13 @@ cornellu:
   state: New York
   street: ''
   zip: '14850'
+csiro:
+  city: Melbourne
+  country: Australia
+  date: 2021-04-11
+  name: 'CSIRO: Commonwealth Scientific and Industrial Research Organization'
+  updated: 2021-04-11 17:35:36.730975
+  uuid: 7e82dee3-b38c-44f6-8cb8-cd88a8014f85
 cuny:
   aka:
     - cuny
@@ -465,7 +499,7 @@ deutschenanoschicht:
   month: 3
   name: Deutsche Nanoschicht GmbH
   year: 2020
-doe:
+doebes:
   city: Germantown
   country: USA
   date: 2021-03-09
@@ -474,14 +508,13 @@ doe:
   updated: 2021-03-09 09:35:11.082791
   uuid: df891fa6-08c3-4d5c-b44e-b627f51f0528
   zip: '20874'
-doebes:
+doe:
   aka:
     - Department of Energy
-    - Basic Energy Sciences
     - BES
   city: Washington
   country: USA
-  name: Department of Energy, Office of Science, Office of Basic Energy Sciences
+  name: Department of Energy
   state: DC
   street: 1000 Independence Avenue., SW
   zip: '20585'
@@ -587,6 +620,24 @@ ethzurich:
   state: ''
   street: Wolfgang-Pauli-Strasse 27
   zip: CH-8093
+famu:
+  city: Tallahassee
+  country: USA
+  date: 2021-04-11
+  name: Florida A&M University
+  state: FL
+  updated: 2021-04-11 17:37:39.210167
+  uuid: 305e2d22-a7c8-4a96-8331-9f0662417986
+  zip: '32307'
+famu-fsu:
+  city: Tallahassee
+  country: USA
+  date: 2021-04-11
+  name: Florida A&M University-Florida State University
+  state: FL
+  updated: 2021-04-11 17:38:51.173304
+  uuid: 9aba8e43-5018-4fe8-8293-14f213e0cd74
+  zip: '32310'
 fau:
   aka:
     - FAU
@@ -610,6 +661,15 @@ flatironinstitute:
   updated: 2020-07-07 04:45:25.008649
   uuid: ea28bcef-fc0e-415d-91e9-f48b37464e91
   zip: '10010'
+fordhamu:
+  city: The Bronx
+  country: USA
+  date: 2021-04-11
+  name: Fordham University
+  state: NY
+  updated: 2021-04-11 17:46:18.186011
+  uuid: 80cd4956-bb84-4a0d-8142-9dd053c0f1f0
+  zip: '10458'
 formlabs:
   aka:
     - Formlabs
@@ -903,6 +963,15 @@ jaea:
   updated: 2020-02-14 19:14:05.971352
   uuid: e1772b7b-a4ee-43ff-96bf-d723b673b6e2
   year: 2020
+johnshopkinsu:
+  city: Baltimore
+  country: USA
+  date: 2021-04-11
+  name: Johns Hopkins University
+  state: MD
+  updated: 2021-04-11 17:44:03.092387
+  uuid: 36941e0e-8310-42aa-ae8f-4eee06871bd5
+  zip: '21218'
 jpmorgan:
   aka:
     - J. P. Morgan
@@ -928,6 +997,15 @@ jülichcentreforneutronscience:
   updated: 2020-02-14 19:35:03.622668
   uuid: 5b85b7b6-95dc-4a08-8bd7-abc383af8303
   year: 2020
+kebotix:
+  city: Cambridge
+  country: USA
+  date: 2021-04-11
+  name: Kebotix
+  state: MA
+  updated: 2021-04-11 17:48:12.762845
+  uuid: 6d15e033-1380-4f09-ae82-49a8443c2d30
+  zip: '02139'
 kentstateu:
   aka:
     - kent state
@@ -1153,6 +1231,13 @@ msu:
   state: MI
   street: 220 Trowbridge Rd
   zip: '48824'
+nanomegas:
+  city: Brussels
+  country: Belgium
+  date: 2021-04-11
+  name: Nanomegas
+  updated: 2021-04-11 17:34:50.948485
+  uuid: 784b0361-2a5a-447b-9c73-3f8eab6ed86a
 nankaiu:
   city: Nankai
   country: China
