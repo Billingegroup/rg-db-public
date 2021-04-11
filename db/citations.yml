@@ -2206,13 +2206,14 @@ bozin;b;coshan13:
     - Juh\'{a}s, Pavol
     - Billinge, Simon J. L.
   booktitle: Characterization of semiconductor heterostructures and nanostructures
+  day: '11'
   doi: ''
   edition: 2nd
   editor: Agostini, Giovanni and Lamberti, Carlo
   entrytype: incollection
   facility: ' '
   grant: ' fwp11 '
-  month: ''
+  month: 'apr'
   nb: ' chap, typeA'
   note: ''
   number: ''
@@ -3022,12 +3023,12 @@ cherb;gecco05:
     - Duxbury, Phil
     - Billinge, Simon J. L.
     - Juh\'{a}s, Pavol
-  booktitle: "{GECCO-2005}, Genetic and Evolutionary Computation\nConference Proceedings"
+  booktitle: "{GECCO-2005}, Genetic and Evolutionary Computation Conference Proceedings"
   entrytype: inproceedings
   facility: ''
   grant: doe03
   key: ''
-  month: ''
+  month: 'jun'
   nb: 'conf '
   optnote: Unpublished
   pages: ''
@@ -4646,12 +4647,13 @@ gorel;mam15:
     - Schmidt, Martin U.
     - Kolb, Ute
     - Billinge, Simon J. L.
+  day: '1'
   doi: 10.1017/S1431927614014561
   entrytype: article
   facility: ''
   grant: ldrd12
   journal: Microsc. Microanal.
-  month: ''
+  month: 'jan'
   nb: 'art, fy15 '
   number: ''
   optnote: 'Published online December 16th 2014, doi:10.1017/S1431927614014561 '
