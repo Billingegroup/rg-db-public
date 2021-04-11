@@ -422,6 +422,13 @@ cornellu:
   state: New York
   street: ''
   zip: '14850'
+csiro:
+  city: Melbourne
+  country: Australia
+  date: 2021-04-11
+  name: 'CSIRO: Commonwealth Scientific and Industrial Research Organization'
+  updated: 2021-04-11 17:35:36.730975
+  uuid: 7e82dee3-b38c-44f6-8cb8-cd88a8014f85
 cuny:
   aka:
     - cuny
@@ -587,6 +594,24 @@ ethzurich:
   state: ''
   street: Wolfgang-Pauli-Strasse 27
   zip: CH-8093
+famu:
+  city: Tallahassee
+  country: USA
+  date: 2021-04-11
+  name: Florida A&M University
+  state: FL
+  updated: 2021-04-11 17:37:39.210167
+  uuid: 305e2d22-a7c8-4a96-8331-9f0662417986
+  zip: '32307'
+famu-fsu:
+  city: Tallahassee
+  country: USA
+  date: 2021-04-11
+  name: Florida A&M University-Florida State University
+  state: FL
+  updated: 2021-04-11 17:38:51.173304
+  uuid: 9aba8e43-5018-4fe8-8293-14f213e0cd74
+  zip: '32310'
 fau:
   aka:
     - FAU
@@ -903,6 +928,15 @@ jaea:
   updated: 2020-02-14 19:14:05.971352
   uuid: e1772b7b-a4ee-43ff-96bf-d723b673b6e2
   year: 2020
+johnshopkinsu:
+  city: Baltimore
+  country: USA
+  date: 2021-04-11
+  name: Johns Hopkins University
+  state: MD
+  updated: 2021-04-11 17:44:03.092387
+  uuid: 36941e0e-8310-42aa-ae8f-4eee06871bd5
+  zip: '21218'
 jpmorgan:
   aka:
     - J. P. Morgan
@@ -1158,7 +1192,7 @@ nanomegas:
   country: Belgium
   date: 2021-04-11
   name: Nanomegas
-  updated: 2021-04-11 17:29:54.081036
+  updated: 2021-04-11 17:34:50.948485
   uuid: 784b0361-2a5a-447b-9c73-3f8eab6ed86a
 natautoumexico:
   aka:
@@ -1472,6 +1506,15 @@ pohanguofscienceandtechnology:
   updated: 2020-03-17 01:30:46.785825
   uuid: 4569e430-daa8-40a6-abd2-3e130df4b619
   year: 2020
+polycrystallography:
+  city: Naperville
+  country: USA
+  date: 2021-04-11
+  name: Polycrystallography
+  state: IL
+  updated: 2021-04-11 17:32:14.085778
+  uuid: 62d57d73-dc3e-4b06-98f8-fe482aa58322
+  zip: '60540'
 pomonacollege:
   aka: []
   city: Claremont
@@ -1862,6 +1905,15 @@ tohokuu:
   month: 3
   name: Tohoku University
   year: 2020
+toyotaresearch:
+  city: Ann Arbor
+  country: USA
+  date: 2021-04-11
+  name: Toyota Research Institute
+  state: MI
+  updated: 2021-04-11 17:40:40.387237
+  uuid: 1c7ac2c3-465c-4c2c-80cf-8dc316afeef1
+  zip: '48105'
 uamsterdam:
   aka:
     - Universiteit van Amsterdam
@@ -2252,6 +2304,15 @@ umanchester:
   month: 3
   name: The University of Manchester
   year: 2020
+umaryland:
+  city: College Park
+  country: USA
+  date: 2021-04-11
+  name: University of Maryland
+  state: MD
+  updated: 2021-04-11 17:42:27.636838
+  uuid: 4a7a6c09-7d2b-4fe2-9573-0ae40f7482ff
+  zip: '20742'
 umichigan:
   aka:
     - michiganu
@@ -2323,6 +2384,13 @@ unisa:
   name: University of Salerno
   state: ''
   zip: '84084'
+unsw:
+  city: Sydney
+  country: Australia
+  date: 2021-04-11
+  name: University of New South Wales
+  updated: 2021-04-11 17:41:18.624448
+  uuid: 1a62f4cc-e452-4402-916b-4ce5fb7ffd5b
 uofcampinas:
   aka:
     - State University of Campinas
