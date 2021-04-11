@@ -6,6 +6,7 @@ aabeykoon:
     - Abeykoon, M.
     - Abeykoon, Milinda
     - Abeykoon, A. M. M.
+    - M. Abeykoon
   avatar: https://github.com/benfrandsen.png
   bio: bio
   education:
@@ -449,7 +450,7 @@ cbracy:
   email: cjb2250@columbia.edu"
   employment:
     - begin_date: 2020-11-16
-      end_date: 2021-05-31
+      end_date: 2021-08-31
       organization: columbiau
       position: PhD Researcher
       group: bg
@@ -637,6 +638,7 @@ cwright:
     - C. J. Wright
     - CJ Wright
     - Christopher J. ``CJ" Wright
+    - Christopher ``CJ" Wright
   avatar: https://github.com/CJ-Wright.png
   bio: Christopher grew up in Rockville Centre, New York. He attended Brown University
     where he earned a BS with honors in Chemical Physics. He worked with Prof. Shouheng
@@ -940,6 +942,7 @@ cyshi:
       end_year: 2015
       end_month: 8
       group: bg
+  google_scholar_url: https://scholar.google.com/citations?user=W32kTkEAAAAJ
   name: Chenyang Shi
   position: scientist
 dpodgorski:
@@ -1218,6 +1221,8 @@ ekjaer:
   active: true
   aka:
     - Emil Kjaer
+    - Emil T. S. Kjaer
+    - Emil T. S. Kj{\\ae}r
     - Emil T. S. Kj{\ae}r
   avatar: https://github.com/EmilSkaaning.png
   bio: bio
@@ -1251,7 +1256,7 @@ ekjaer:
       group: bg
       status: visitor-unsupported
   grp_mtg_active: false
-  name: Emil Kjaer
+  name: Emil T. S. Kjaer
   position: visiting student
   position_full: visiting PhD Researcher, U. Copenhagen
 eshen:
@@ -1282,9 +1287,8 @@ eshen:
       institution: Columbia University
   email: ejs2228@columbia.edu
   employment:
-    - begin_year: 2020
-      begin_month: 6
-      end_year: 2024
+    - begin_date: 2020-06-01
+      end_date: 2024-05-31
       organization: columbiau
       position: graduate research assistant
       group: bg
@@ -1631,7 +1635,7 @@ hvuong:
   github_id: tienhungvuong
   google_scholar_url: https://scholar.google.com/citations?user=DST508IAAAAJ&hl=en&authuser=1
   grp_mtg_active: false
-  name: Hung Vuong
+  name: Hung T. Vuong
   orcid_id: 0000-0001-7965-379X
   position: graduate research assistant
   skills:
@@ -3021,6 +3025,7 @@ rkoch:
     - Robert Koch
     - R. Koch
     - Koch, R. J.
+    - R. J. Koch
     - Robert J. Koch
   avatar: https://gitlab.thebillingegroup.com/uploads/-/system/user/avatar/107/avatar.png
   bio: bio
@@ -3046,7 +3051,7 @@ rkoch:
       status: postdoc
   github_id: rjkoch
   grp_mtg_active: false
-  name: Robert Koch
+  name: Robert J. Koch
   orcid_id: 0000-0003-4995-2101
   position: post-doctoral scholar
   title: Dr.
@@ -3125,7 +3130,8 @@ rzyu:
   position: assistant professor
 sbandi:
   active: false
-  aka: []
+  aka:
+    - Sasaank Bandi
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education:
@@ -3512,7 +3518,8 @@ sghose:
   position: undergraduate research assistant
 sharouna-mayer:
   active: true
-  aka: []
+  aka:
+    - Sani Y. Harouna-Mayer
   avatar: https://github.com/SaniHarouna-Mayer.png
   bio: Sani grew up in Kassel, Germany. He earned his Bachelors degree in nanoscience
     in 2018 at the University of Hamburg. During his Bachelor project he worked on
@@ -3611,7 +3618,7 @@ sskjaervoe:
     - begin_year: 2020
       begin_month: 8
       end_year: 2022
-      end_month: 10
+      end_month: 8
       organization: columbiau
       advisor: sbillinge
       position: post-doctoral scholar
