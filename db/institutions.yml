@@ -229,6 +229,15 @@ bnl:
   name: Brookhaven National Laboratory
   state: NY
   zip: '11973'
+bostonu:
+  city: Boston
+  country: USA
+  date: 2021-04-11
+  name: Boston University
+  state: MA
+  updated: 2021-04-11 17:45:04.473145
+  uuid: 211de403-28d9-4640-95a4-5722bdf2b369
+  zip: '02215'
 bruker:
   city: Billerica
   country: USA
@@ -635,6 +644,15 @@ flatironinstitute:
   updated: 2020-07-07 04:45:25.008649
   uuid: ea28bcef-fc0e-415d-91e9-f48b37464e91
   zip: '10010'
+fordhamu:
+  city: The Bronx
+  country: USA
+  date: 2021-04-11
+  name: Fordham University
+  state: NY
+  updated: 2021-04-11 17:46:18.186011
+  uuid: 80cd4956-bb84-4a0d-8142-9dd053c0f1f0
+  zip: '10458'
 formlabs:
   aka:
     - Formlabs
@@ -962,6 +980,15 @@ jülichcentreforneutronscience:
   updated: 2020-02-14 19:35:03.622668
   uuid: 5b85b7b6-95dc-4a08-8bd7-abc383af8303
   year: 2020
+kebotix:
+  city: Cambridge
+  country: USA
+  date: 2021-04-11
+  name: Kebotix
+  state: MA
+  updated: 2021-04-11 17:48:12.762845
+  uuid: 6d15e033-1380-4f09-ae82-49a8443c2d30
+  zip: '02139'
 kentstateu:
   aka:
     - kent state
@@ -1268,6 +1295,13 @@ navigant:
   uuid: 849f52fd-2c8c-4644-b744-440a4d0facf1
   year: 2020
   zip: '10017'
+neilsbohrinstitute:
+  city: Copenhagen
+  country: Denmark
+  date: 2021-04-11
+  name: The Neils Bohr Institute
+  updated: 2021-04-11 17:47:17.253563
+  uuid: 157008c2-67a5-4f20-b125-cfc726d7a3f9
 newcastleu:
   aka: []
   city: Newcastle upon Tyne
