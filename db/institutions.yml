@@ -499,15 +499,6 @@ deutschenanoschicht:
   month: 3
   name: Deutsche Nanoschicht GmbH
   year: 2020
-doebes:
-  city: Germantown
-  country: USA
-  date: 2021-03-09
-  name: Department of Energy, Office of Science
-  state: MD
-  updated: 2021-03-09 09:35:11.082791
-  uuid: df891fa6-08c3-4d5c-b44e-b627f51f0528
-  zip: '20874'
 doe:
   aka:
     - Department of Energy
@@ -518,6 +509,15 @@ doe:
   state: DC
   street: 1000 Independence Avenue., SW
   zip: '20585'
+doebes:
+  city: Germantown
+  country: USA
+  date: 2021-03-09
+  name: Department of Energy, Office of Science
+  state: MD
+  updated: 2021-03-09 09:35:11.082791
+  uuid: df891fa6-08c3-4d5c-b44e-b627f51f0528
+  zip: '20874'
 drexelu:
   aka:
     - drexel university
@@ -629,13 +629,13 @@ famu:
   updated: 2021-04-11 17:37:39.210167
   uuid: 305e2d22-a7c8-4a96-8331-9f0662417986
   zip: '32307'
-famu-fsu:
+famufsu:
   city: Tallahassee
   country: USA
   date: 2021-04-11
   name: Florida A&M University-Florida State University
   state: FL
-  updated: 2021-04-11 17:38:51.173304
+  updated: 2021-04-11 18:25:01.593878
   uuid: 9aba8e43-5018-4fe8-8293-14f213e0cd74
   zip: '32310'
 fau:
@@ -1231,13 +1231,6 @@ msu:
   state: MI
   street: 220 Trowbridge Rd
   zip: '48824'
-nanomegas:
-  city: Brussels
-  country: Belgium
-  date: 2021-04-11
-  name: Nanomegas
-  updated: 2021-04-11 17:34:50.948485
-  uuid: 784b0361-2a5a-447b-9c73-3f8eab6ed86a
 nankaiu:
   city: Nankai
   country: China
@@ -1245,6 +1238,13 @@ nankaiu:
   name: Nankai University
   updated: 2021-03-09 11:14:21.154071
   uuid: fee5a129-5f4b-49cd-9db2-7780085ea04a
+nanomegas:
+  city: Brussels
+  country: Belgium
+  date: 2021-04-11
+  name: Nanomegas
+  updated: 2021-04-11 17:34:50.948485
+  uuid: 784b0361-2a5a-447b-9c73-3f8eab6ed86a
 natautoumexico:
   aka:
     - Universidad Nacional Autónoma de México
@@ -1319,6 +1319,13 @@ navigant:
   uuid: 849f52fd-2c8c-4644-b744-440a4d0facf1
   year: 2020
   zip: '10017'
+neilsbohrinstitute:
+  city: Copenhagen
+  country: Denmark
+  date: 2021-04-11
+  name: The Neils Bohr Institute
+  updated: 2021-04-11 19:10:21.760184
+  uuid: cb6308b9-d0e8-4e62-9635-d09bd2356116
 newcastleu:
   aka: []
   city: Newcastle upon Tyne
@@ -1557,6 +1564,15 @@ pohanguofscienceandtechnology:
   updated: 2020-03-17 01:30:46.785825
   uuid: 4569e430-daa8-40a6-abd2-3e130df4b619
   year: 2020
+polycrystallography:
+  city: Naperville
+  country: USA
+  date: 2021-04-11
+  name: Polycrystallography
+  state: IL
+  updated: 2021-04-11 18:22:34.685316
+  uuid: dfc8c912-a15e-4034-868a-e9a288b360f4
+  zip: '60540'
 pomonacollege:
   aka: []
   city: Claremont
@@ -1730,6 +1746,13 @@ rutherfordappletonlaboratory:
   updated: 2020-02-14 19:55:12.462021
   uuid: d48cb08d-d9a9-4f86-b12d-5751df57006a
   year: 2020
+rwthaachen:
+  city: Aachen
+  country: Germany
+  date: 2021-04-11
+  name: RWTH Aachen
+  updated: 2021-04-11 18:28:43.892245
+  uuid: df3e6a07-9821-4ce8-b165-012ee4d8eec3
 sandianationallaboratories:
   aka:
     - SNL
@@ -1947,6 +1970,15 @@ tohokuu:
   month: 3
   name: Tohoku University
   year: 2020
+toyotaresearch:
+  city: Ann Arbor
+  country: USA
+  date: 2021-04-11
+  name: Toyota Research Institute
+  state: MI
+  updated: 2021-04-11 19:11:23.196767
+  uuid: 62a93967-5a0d-4c2a-9255-e72e469a63ad
+  zip: '48105'
 uamsterdam:
   aka:
     - Universiteit van Amsterdam
@@ -2224,6 +2256,13 @@ ufsc:
   month: 3
   name: Universidade Federal de Santa Catarina
   year: 2020
+ugeneva:
+  city: Geneva
+  country: Switzerland
+  date: 2021-04-11
+  name: University of Geneva
+  updated: 2021-04-11 19:12:42.776412
+  uuid: dfc4ec5e-2d6a-45cf-b3ef-9330e0a87fed
 uglasgow:
   aka:
     - glasgowu
@@ -2337,6 +2376,15 @@ umanchester:
   month: 3
   name: The University of Manchester
   year: 2020
+umaryland:
+  city: College Park
+  country: USA
+  date: 2021-04-11
+  name: University of Maryland
+  state: MD
+  updated: 2021-04-11 18:23:56.146390
+  uuid: 9f5f197d-444f-4d40-9121-6b4cbe61879b
+  zip: '20742'
 umichigan:
   aka:
     - michiganu
@@ -2408,6 +2456,13 @@ unisa:
   name: University of Salerno
   state: ''
   zip: '84084'
+unsw:
+  city: Sydney
+  country: Australia
+  date: 2021-04-11
+  name: University of New South Wales
+  updated: 2021-04-11 18:24:38.870198
+  uuid: 298d7701-9970-42e1-b7d5-8744884384ad
 uofcampinas:
   aka:
     - State University of Campinas
@@ -2821,6 +2876,15 @@ worley:
   name: Worley
   updated: 2020-12-29 04:26:21.532174
   uuid: cb97060f-4c65-4541-99c0-1be25b8ba84d
+x-themoonshotco:
+  city: Mountain View
+  country: USA
+  date: 2021-04-11
+  name: X - The Moonshot Company
+  state: CA
+  updated: 2021-04-11 18:26:06.334303
+  uuid: b6ae5aab-cf42-4318-9f14-9d50795d862c
+  zip: '94043'
 zhejiangu:
   aka:
     - zhejiangu

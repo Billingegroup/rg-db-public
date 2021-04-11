@@ -96,7 +96,7 @@ adippel:
   bio: bio
   education:
     - begin_year: 2002
-      institution: RWTH Aachen
+      institution: rwthaachen
       degree: Master degree
   employment:
     - begin_year: 2014
@@ -423,12 +423,11 @@ cbracy:
     - Bracy, Connor J.
     - Bracy, C. J.
   avatar: https://avatars.githubusercontent.com/u/7377785
-  bio: Connor was born and raised in a suburb just outside of Seattle Washington
-       where he continued to live until coming to Columbia. Having originally
-       started his higher education pursuing programming physics engines, he
-       eventually transitioned to pursuing physics research. When he’s not
-       working, you might find him running, rock climbing, skateboarding, or
-       just having a night in playing video games.
+  bio: Connor was born and raised in a suburb just outside of Seattle Washington where
+    he continued to live until coming to Columbia. Having originally started his higher
+    education pursuing programming physics engines, he eventually transitioned to
+    pursuing physics research. When he’s not working, you might find him running,
+    rock climbing, skateboarding, or just having a night in playing video games.
   education:
     - begin_year: 2014
       begin_month: 9
