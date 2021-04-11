@@ -57,6 +57,15 @@ addisababau:
       name: College of Natural Science
   state: ''
   zip: ''
+afrl:
+  city: Wright-Patterson Air Force Base
+  country: USA
+  date: 2021-04-11
+  name: Air Force Research Laboratory
+  state: OH
+  updated: 2021-04-11 17:30:07.571638
+  uuid: e7db51d4-0fa1-4690-8ea6-0a1e9716b642
+  zip: '45433'
 albemarlecorp:
   aka:
     - albemarlecorp
@@ -220,6 +229,15 @@ bnl:
   name: Brookhaven National Laboratory
   state: NY
   zip: '11973'
+bruker:
+  city: Billerica
+  country: USA
+  date: 2021-04-11
+  name: Bruker
+  state: MA
+  updated: 2021-04-11 17:22:43.762798
+  uuid: 85ed8753-6a73-479b-b90c-d726aedefb0f
+  zip: '01821'
 bupt:
   aka:
     - BUPT
@@ -1135,6 +1153,13 @@ msu:
   state: MI
   street: 220 Trowbridge Rd
   zip: '48824'
+nanomegas:
+  city: Brussels
+  country: Belgium
+  date: 2021-04-11
+  name: Nanomegas
+  updated: 2021-04-11 17:29:54.081036
+  uuid: 784b0361-2a5a-447b-9c73-3f8eab6ed86a
 natautoumexico:
   aka:
     - Universidad Nacional Autónoma de México
@@ -2711,6 +2736,15 @@ worley:
   name: Worley
   updated: 2020-12-29 04:26:21.532174
   uuid: cb97060f-4c65-4541-99c0-1be25b8ba84d
+x-themoonshotco:
+  city: Mountain View
+  country: USA
+  date: 2021-04-11
+  name: X - The Moonshot Company
+  state: CA
+  updated: 2021-04-11 17:22:05.000692
+  uuid: d88ebf18-5511-436e-82cf-6a30052ad9ec
+  zip: '94043'
 zhejiangu:
   aka:
     - zhejiangu
