@@ -2206,13 +2206,14 @@ bozin;b;coshan13:
     - Juh\'{a}s, Pavol
     - Billinge, Simon J. L.
   booktitle: Characterization of semiconductor heterostructures and nanostructures
+  day: '11'
   doi: ''
   edition: 2nd
   editor: Agostini, Giovanni and Lamberti, Carlo
   entrytype: incollection
   facility: ' '
   grant: ' fwp11 '
-  month: ''
+  month: apr
   nb: ' chap, typeA'
   note: ''
   number: ''
@@ -2969,6 +2970,34 @@ campi;jsnm07:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/campi_jsnm07.pdf
   year: '2007'
 cao;ami19:
+  ackno: Y.C., I.K.R., S.B., and S.J.L.B. conceived the experiment. Y.C., T.A., S.B.,
+    Y.H., X.H., H.Y., and Y.S.C performed the nano XRD measurement. Y.L., W.L., and
+    Y.-P.S. grew the bulk 1T-TaS2 crystals. S.B., A.W., D.Z.-R.W., and A.P. further
+    prepared the thin 1T-TaS2 flakes used in the nano XRD experiments. X.T. performed
+    the AFM characterization. Data analysis and interpretation was carried out by
+    Y.C, I.K.R, and S.J.L.B. Y.C. and I.K.R. wrote the majority of the article with
+    input from all coauthors. The authors declare no competing financial interest.
+    Y.C. thanks Jing Tao, Jun Li, and Chang-Yong Nam for valuable discussions and
+    acknowledges Stephan O. Hruszkewycz and Martin Holt for helpful earlier explorations.
+    The work at Brookhaven National Laboratory and Columbia University was supported
+    by the U.S. Department of Energy, Office of Basic Energy Sciences, Division of
+    Materials Sciences and Engineering, under contract no. DE-SC0012704. The work
+    at Argonne National Laboratory was supported by the U.S. Department of Energy,
+    Office of Basic Energy Sciences, under contract no. DE-AC0206CH11357. This research
+    used Beamline 3-ID HXN (Hard X-ray Nanoprobe) of the National Synchrotron Light
+    Source II, a U.S. Department of Energy (DOE) Office of Science User Facilities
+    operated for the DOE Office of Science by Brookhaven National Laboratory under
+    contract no. DE-SC0012704. Sample characterization was carried out using resources
+    at the Center for Functional Nanomaterials, which is a U.S. DOE Office of Science
+    Facility, at Brookhaven National Laboratory under contract no. DE-SC0012704. S.B.
+    acknowledges support from the National Defense Science and Engineering Graduate
+    Fellowship (DOD-NDSEG) program. D.-Z.R.W. is funded by the Department of Energy
+    under contract no. DE-SC0016703. Y.L., W.L., and Y.-P.S. acknowledge support from
+    the National Key Research and Development Program (grant 2016YFA0300404), the
+    National Nature Science Foundation of China (grants 11674326,11774352, and 11874357),
+    the Joint Funds of the National Natural Science Foundation of China, and the Chinese
+    Academy of Sciences' Large-scale Scientific Facility (GrantU1832141). Y.H. is
+    supported by the Natural Science Foundation of Shanghai (17ZR1436800).
   author:
     - Yue Cao
     - Tadesse Assefa
@@ -2986,21 +3015,29 @@ cao;ami19:
     - Yong S. Chu
     - Simon J. L. Billinge
     - Ian K. Robinson
+  day: '24'
   doi: 10.1021/acsami.0c06517
   entrytype: article
-  facility: ''
+  facility: hxn, nslsii
   grant: fwp17
   journal: ACS Appl. Mater. Interf.
-  month: tbd
-  nb: fy19, typeA
-  note: to be published
+  month: aug
+  nb: fy20, typeA
   number: ''
   optannote: ''
+  optnote: to be published
   optwwwlanl: ''
-  pages: ''
+  pages: 43173−43179
+  synopsis: Thin sheets of the layered van Der Waals material, TaS2, laying on a substrate
+    were scanned with a nanosized x-ray beam and very small strains in the material
+    could be measured from small shifts in the position on the detector of Bragg peaks
+    being tracked.  The strains were very small, resulting from bubbles of trapped
+    gas under the material, but could nonetheless be clearly observed and measured
+    as a function of position resulting in characteristic ``coffee-bean" images.
+  tags: strain mapping, xray nanoprobe, vdw materials, TaS2
   title: Complete Strain Mapping of Nanosheets of Transition Metal Chalcogenides
   url: https://doi.org/10.1021/acsami.0c06517
-  volume: ''
+  volume: '12'
   wwwemail: ''
   wwwpub: ''
   year: '2020'
@@ -3022,12 +3059,12 @@ cherb;gecco05:
     - Duxbury, Phil
     - Billinge, Simon J. L.
     - Juh\'{a}s, Pavol
-  booktitle: "{GECCO-2005}, Genetic and Evolutionary Computation\nConference Proceedings"
+  booktitle: '{GECCO-2005}, Genetic and Evolutionary Computation Conference Proceedings'
   entrytype: inproceedings
   facility: ''
   grant: doe03
   key: ''
-  month: ''
+  month: jun
   nb: 'conf '
   optnote: Unpublished
   pages: ''
@@ -4646,12 +4683,13 @@ gorel;mam15:
     - Schmidt, Martin U.
     - Kolb, Ute
     - Billinge, Simon J. L.
+  day: '1'
   doi: 10.1017/S1431927614014561
   entrytype: article
   facility: ''
   grant: ldrd12
   journal: Microsc. Microanal.
-  month: ''
+  month: jan
   nb: 'art, fy15 '
   number: ''
   optnote: 'Published online December 16th 2014, doi:10.1017/S1431927614014561 '
@@ -5132,8 +5170,8 @@ hao;jmcc21:
   optannote: ''
   optwwwlanl: ''
   pages: ''
-  title: Ferroelectric Structure and Polarization Switching Behaviour of Ultrafine
-    {BaTiO$_3$} Nanoparticles with Large-Scale Size Uniformity
+  title: Ferroelectric State and Polarization Switching Behaviour of Ultrafine {BaTiO$_3$}
+    Nanoparticles with Large-Scale Size Uniformity
   url: ''
   volume: ''
   wwwemail: ''
@@ -6827,11 +6865,11 @@ liu;jac19:
   year: '2020'
 liu;jac21:
   ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
-    Center, an Energy Frontier Research Center funded by the US Department of Energy
-    (DOE), Office of Science, Basic Energy Sciences under award No. DESC0019212. Work
-    done at Argonne and use of the Advanced Photon Source, an Office of Science User
-    Facility operated for the US Department of Energy (DOE) Office of Science by Argonne
-    National Laboratory, was supported by the US DOE under Contract No. DE-AC02-06CH11357.'
+    Center; an Energy Frontier Research Center funded by the US Department of Energy
+    (DOE), Office of Science, Basic Energy Sciences, under award No. DESC0019212.
+    Work carried out at Argonne and use of the Advanced Photon Source, an Office of
+    Science User Facility operated for the US DOE Office of Science by Argonne National
+    Laboratory, was supported by the US DOE under contract No. DE-AC02-06CH11357.'
   author:
     - Chia-Hao Liu
     - Christopher J. Wright
@@ -6845,26 +6883,33 @@ liu;jac21:
     - Peter J. Chupas
     - Karena W. Chapman
     - Simon J. L. Billinge
-  doi: ''
+  doi: 10.1107/S160057672100265X.
   entrytype: article
   facility: aps, 11idb
   grant: efrc18
   journal: J. Appl. Crystallogr.
-  month: Jan
+  month: apr
   nb: fy21, typeA
-  note: arXiv:2010.11807 [cond-mat.mtrl-sci]
+  note: advanced online publication
   number: ''
   optannote: ''
   optwwwlanl: ''
   pages: ''
+  synopsis: Non negative matrix factorization was tested against simulated and real
+    PDF data from the discharge of a battery electrode.  It was shown that, although
+    this is a purely mathematical data reduction process, it resulted in mathematical
+    components that strongly resembled real physical components in the system, and
+    weights that closely followed the time evolution of the real physical components.  Software
+    was also presented that allowed nmf to take place even when data were streaming
+    from an experiment as well as in batch mode from a finished experiment.
   tags: nmf, streaming
   title: Validation of non-negative matrix factorization for rapid assessment of large
     sets of atomic pair-distribution function (PDF) data
-  url: https://arxiv.org/abs/2010.11807
+  url: https://doi.org/10.1107/S160057672100265X
   volume: ''
   wwwemail: ''
   wwwpub: ''
-  year: '2020'
+  year: '2021'
 liu;jacs21:
   ackno: This research was partially supported by the Arnold and Mabel Beckman Foundation
     through a Beckman Young Investigator grant awarded to J.A.M. and Beckman Postdoctoral
@@ -8625,7 +8670,16 @@ rakit;jacs20:
   nb: art, hilight
   number: '44'
   optannote: ''
-  optnote: ''
+  optnote: toc caption.  Schematic of an experiment to make a target material, cuprous
+    oxide (Cu2O), run by an AI "creative co-pilot". Starting at the top and moving
+    anti-clockwise, the "knobs" on the apparatus that control gas flow and temperature
+    are set by computer control. The subsequent reaction takes place in the apparatus
+    (left) that is mounted in an x-ray beam resulting in an x-ray absorption spectrum
+    (lower left) that is measured in real-time. Software computes whether the changes
+    in the spectrum (bottom) are producing a trajectory taking us towards the target
+    (lower right). The AI agent uses this information to decide on new settings for
+    the knobs on the apparatus that it thinks will take us closer to the target (top
+    right), and sets them (top) and the cycle repeats. There is no human in the loop.
   optwwwlanl: ''
   optwwwpub: ''
   pages: 18758–18762
@@ -10422,6 +10476,65 @@ worha;cm08:
   wwwemail: ' sb2896@columbia.edu'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/worhatch_08_cm.pdf
   year: '2008'
+wrigh;cm21:
+  ackno: 'The authors thank Tyrel McQueen (JHU), Jonathan Denney (SBU), and Yusu Wang
+    (SBU) for helpful discussions.  This work was supported as part of GENESIS: A
+    Next Generation Synthesis Center, an Energy Frontier Research Center funded by
+    the U.S. Department of Energy, Office of Science, Basic Energy Sciences under
+    Award Number DE-SC0019212. Use of the National Synchrotron Light Source II, Brookhaven
+    National Laboratory, was supported by the U.S. Department of Energy, Office of
+    Science, Office of Basic Energy Sciences, under Contract No. DE-SC0012704. This
+    material is based upon work (crystal growth through a user proposal) supported
+    by the National Science Foundation (Platform for the Accelerated Realization,
+    Analysis, and Discovery of Interface Materials (PARADIM)) under Cooperative Agreement
+    No. DMR-1539918.'
+  author:
+    - Christopher J. ``CJ" Wright
+    - Eric Dooryhee
+    - Lucas A. Pressley
+    - W. Adam Phelan
+    - Peter G. Khalifah
+    - Simon J. L. Billinge
+  doi: 10.1021/acs.chemmater.1c00602
+  entrytype: article
+  facility: xpd, nslsii
+  grant: efrc18
+  journal: Chem. Mater.
+  month: apr
+  nb: ''
+  note: To be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  summary_professional: The optical float-zone furnace approach for growing large
+    single crystals is a foundational practice in science as it is the best and sometimes
+    only way to grow such crystals from complex materials. However, the practice is
+    considered as something of a ``black art" where the outcomes are sensitively dependent
+    on parameters used in the growth.  There is little fundamental understanding of
+    the underlying physics and chemistry of the nucleation and growth processes.  Progress
+    will be made if the positions, shapes and qualities of crystallites that form
+    during the growth process could be tracked in a non-destructive way, such as in
+    an in situ growth at an x-ray synchrotron.  For this to succeed it is necessary
+    to have data analysis protocols and analysis tools that can do this mapping in
+    a rapid fashion. This work demonstrated a proof of principle of such grain mapping
+    from previously grown TiO2 boules, making use of advanced image processing tools
+    for tracking and mapping the grains.
+  synopsis: Spatial mapping of diffraction patterns from a boule that was grown in
+    an optical float zone furnace was carried out and automated tools for tracking
+    the grains were developed.  The regions that were good powders were separated
+    from those that had a few crystals of a single crystal.  In the latter regions,
+    image processing methods such as blob tracking were used to map the positions
+    and crystal quality of crystallites in the beam.  The ultimate goal will be to
+    carry out these measurements in an in situ crystal growth context.
+  tags: 2D mapping, spatially resolved, peak tracking, crystal growth
+  title: Towards In Situ Synchrotron Mapping of Crystal Selection Processes During
+    Crystal Growth
+  url: https://doi.org/10.1021/acs.chemmater.1c00602
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2021'
 wrigh;joss21:
   ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
     Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,
@@ -10442,6 +10555,19 @@ wrigh;joss21:
   optannote: ''
   optwwwlanl: ''
   pages: ''
+  summary_professional: 'A major challenge when doing experiments at modern high intensity
+    x-ray synchrotron sources is the data velocity: the amount of data and the speed
+    of the data.  For scientists to be able to make assessments of their experiment
+    in real time it is important for them to be able to set up analysis protocols
+    that can consume the data as it arrives and does preliminary analyses and plotting.  Here
+    we developed a software infrastructure for doing this.  The SHED (Streaming Heterogeneous
+    Event Data) software package is a software framework that can be used by researchers
+    to pre-build data analysis pipelines that can be deployed at an instrument at
+    NSLS-II (National Synchrotron Light Source II) at Brookhaven National Laboratory
+    that will take data coming from the instrument, carry out the analysis and then
+    create plots of the results even as the data are streaming off the instrument.  It
+    is written in python and is available on Github at https://github.com/xpdAcq/SHED.'
+  tags: software, streaming
   title: 'SHED: Streaming Heterogeneous Event Data Tracking with Provenance'
   url: https://github.com/openjournals/joss-papers/blob/joss.02796/joss.02796/10.21105.joss.02796.pdf
   volume: ''
@@ -10474,7 +10600,7 @@ wustr;cm21:
     - Allison Wustrow
     - Guanglong Huang
     - Matthew J. McDermott
-    - Daniel O’Nolan
+    - Daniel O'Nolan
     - Chia-Hao Liu
     - Gia Thinh Tran
     - Brennan C. McBride
