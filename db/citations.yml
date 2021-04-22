@@ -6888,10 +6888,10 @@ liu;jac21:
   facility: aps, 11idb
   grant: efrc18
   journal: J. Appl. Crystallogr.
-  month: apr
+  month: may
   nb: fy21, typeA
   note: advanced online publication
-  number: ''
+  number: 3
   optannote: ''
   optwwwlanl: ''
   pages: ''
@@ -6906,7 +6906,7 @@ liu;jac21:
   title: Validation of non-negative matrix factorization for rapid assessment of large
     sets of atomic pair-distribution function (PDF) data
   url: https://doi.org/10.1107/S160057672100265X
-  volume: ''
+  volume: 54
   wwwemail: ''
   wwwpub: ''
   year: '2021'
