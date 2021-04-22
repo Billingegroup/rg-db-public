@@ -451,7 +451,7 @@ cbracy:
     - begin_date: 2020-11-16
       end_date: 2021-08-31
       organization: columbiau
-      position: PhD Researcher
+      position: masters researcher
       group: bg
       advisor: sbillinge
       status: phd
@@ -1165,7 +1165,7 @@ eculbertson:
       organization: butterflynetwork
     - begin_year: 2018
       begin_month: 9
-      position: graduate research assistant
+      position: masters research assistant
       organization: columbiau
       advisor: sbillinge
       status: ms
@@ -1289,7 +1289,7 @@ eshen:
     - begin_date: 2020-06-01
       end_date: 2024-05-31
       organization: columbiau
-      position: graduate research assistant
+      position: masters researcher
       group: bg
       advisor: sbillinge
       status: phd
@@ -1489,6 +1489,26 @@ gpaglia:
   name: Gianluca Paglia
   position: manager
   position_full: Senior Project Manager - Analytics
+hcchiu:
+  active: true
+  aka: []
+  avatar: https://github.com/jasonchiu1997.png
+  bio: bio
+  education: []
+  email: hc3209@columbia.edu
+  employment:
+    - begin_date: 2021-04-19
+      end_date: 2021-08-31
+      organization: columbiau
+      position: masters researcher
+      group: bg
+      advisor: sbillinge
+      status: masters
+  github_id: jasonchiu1997
+  grp_mtg_active: true
+  name: Hoi Chun Chiu
+  orcid_id: 0000-0001-6788-2106
+  position: masters researcher
 hhu:
   active: false
   aka:
@@ -1626,7 +1646,7 @@ hvuong:
       begin_month: 11
       end_year: 2020
       end_month: 11
-      position: graduate research assistant
+      position: masters researcher
       organization: columbiau
       advisor: sbillinge
       status: phd
@@ -1682,11 +1702,11 @@ ikjeong:
       advisor: sbillinge
       group: bg
   employment:
-    - begin_year: 2010
+    - begin_year: 2000
       begin_month: 6
-      end_year: 2010
-      position: visiting scientist
-      organization: columbiau
+      end_year: 2005
+      position: graduate research assistant
+      organization: msu
       advisor: sbillinge
       group: bg
   name: Il-Kyong Jeong
@@ -1969,7 +1989,7 @@ jwzang:
       end_year: 2020
       end_month: 8
       organization: columbiau
-      position: graduate research assistant
+      position: masters research assistant
       group: bg
       advisor: sbillinge
       status: phd
@@ -2171,7 +2191,7 @@ llan:
       end_year: 2024
       end_month: 8
       organization: columbiau
-      position: MS/PhD student
+      position: graduate research assistant
       group: bg
       advisor: sbillinge
       status: phd
@@ -2317,7 +2337,7 @@ mgutmann:
       begin_month: 1
       end_year: 2001
       end_month: 1
-      position: postdoctoral associate
+      position: post-doctoral scholar
       organization: msu
       advisor: sbillinge
       group: bg
@@ -3541,7 +3561,7 @@ sharouna-mayer:
   employment:
     - begin_year: 2019
       begin_month: 12
-      position: masters research assistant
+      position: visiting student
       position_full: Visiting masters research assistant - U. Hamburg
       organization: uhamburg
       end_year: 2020
@@ -3733,7 +3753,7 @@ tcaswell:
     - begin_year: 2019
       end_year: 2034
       begin_month: 10
-      position: adjunct professor
+      position: associate physicist
       organization: columbiau
       group: bg
       status: adjunct
