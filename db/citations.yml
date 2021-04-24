@@ -6895,6 +6895,24 @@ liu;jac21:
   optannote: ''
   optwwwlanl: ''
   pages: ''
+  professional_summary: In situ experiments taking place in the x-ray beam at
+    modern synchrotrons, for example, in situ synthesis, produce data at very
+    high velocities.  It becomes very difficult to assess the results of the
+    experiment in real time, and the scientist is left with terabytes of data on
+    return to their institution.  In situ powder diffraction and atomic pair
+    distribution function (PDF) data has the structure that it is a time-series
+    of spectra that evolve continuously in time which is well suited to principal
+    component analysis (PCA) and non negative matrix factorization (NMF).  Here
+    we showed that NMR can work in this context and furthermore, produces
+    components that match signals from real materials, and weights that resemble
+    the time evolution of those chemical constituents in the real system.
+    This was validated against synthetic data where we knew the exact answer,
+    and also against real measured data that are subject to experimental
+    aberrations.  The NMF was shown to perform well and can rapidly give a
+    clear picture of what is going on in the experiment in a completely model-free
+    way.  We demonstrated it operating in a streaming context, allowing
+    experiments to be followed in real time, and also in batch mode to help
+    speed up post-experiment analysis.
   synopsis: Non negative matrix factorization was tested against simulated and real
     PDF data from the discharge of a battery electrode.  It was shown that, although
     this is a purely mathematical data reduction process, it resulted in mathematical
@@ -10477,17 +10495,20 @@ worha;cm08:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/worhatch_08_cm.pdf
   year: '2008'
 wrigh;cm21:
-  ackno: 'The authors thank Tyrel McQueen (JHU), Jonathan Denney (SBU), and Yusu Wang
-    (SBU) for helpful discussions.  This work was supported as part of GENESIS: A
-    Next Generation Synthesis Center, an Energy Frontier Research Center funded by
-    the U.S. Department of Energy, Office of Science, Basic Energy Sciences under
-    Award Number DE-SC0019212. Use of the National Synchrotron Light Source II, Brookhaven
-    National Laboratory, was supported by the U.S. Department of Energy, Office of
-    Science, Office of Basic Energy Sciences, under Contract No. DE-SC0012704. This
-    material is based upon work (crystal growth through a user proposal) supported
-    by the National Science Foundation (Platform for the Accelerated Realization,
-    Analysis, and Discovery of Interface Materials (PARADIM)) under Cooperative Agreement
-    No. DMR-1539918.'
+  ackno: 'The authors
+          thank Tyrel McQueen (JHU), Jonathan Denney (SBU), and Yusu Wang (SBU)
+          for helpful discussions. This work was supported as part of GENESIS:
+          A Next Generation Synthesis Center, an Energy Frontier Research Center
+          funded by the U.S. Department of Energy, Office of Science, Basic
+          Energy Sciences under Award No. DE-SC0019212. Use of beamline 28-ID-1
+          at the National
+          Synchrotron Light Source-II, Brookhaven National Laboratory, was supported
+          by the U.S. Department of Energy, Office of Science, Office of Basic
+          Energy Sciences, under Contract No. DE-SC0012704. This material is
+          based upon work (crystal growth through a user proposal) supported
+          by the National Science Foundation (Platform for the Accelerated Realization,
+          Analysis, and Discovery of Interface Materials (PARADIM)) under Cooperative
+          Agreement No. DMR-1539918.'
   author:
     - Christopher J. ``CJ" Wright
     - Eric Dooryhee
@@ -10501,7 +10522,7 @@ wrigh;cm21:
   grant: efrc18
   journal: Chem. Mater.
   month: apr
-  nb: ''
+  nb: art, fy21, typeA
   note: To be published
   number: ''
   optannote: ''
