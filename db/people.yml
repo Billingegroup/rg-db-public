@@ -459,7 +459,7 @@ cbracy:
   grp_mtg_active: true
   name: Connor Bracy
   orcid_id: 0000-0001-8049-356X
-  position: PhD Researcher
+  position: graduate research assistant
 cfarrow:
   active: false
   aka:
@@ -516,14 +516,14 @@ cgutierrez:
     - begin_date: 2011-01-01
       end_date: 2016-08-15
       organization: columbiau
-      position: Graduate Research Assistant
+      position: graduate research assistant
       group: bg
       advisor: sbillinge
       status: phd
   github_id: ''
   name: Christopher Gutierrez
   orcid_id: ''
-  position: Graduate Research Assistant
+  position: graduate research assistant
 chliu:
   active: false
   aka:
@@ -1161,7 +1161,8 @@ eculbertson:
     - begin_year: 2019
       location: New York City
       other: []
-      position: Software Engineer
+      position: programmer
+      position_full: Software Engineer
       organization: butterflynetwork
     - begin_year: 2018
       begin_month: 9
@@ -1503,7 +1504,7 @@ hcchiu:
       position: masters researcher
       group: bg
       advisor: sbillinge
-      status: masters
+      status: ms
   github_id: jasonchiu1997
   grp_mtg_active: true
   name: Hoi Chun Chiu
@@ -2132,15 +2133,15 @@ lcheng:
   active: true
   aka: []
   avatar: "https://github.com/\x16OpusXI.png"
-  bio: Louis is from Singapore and Hong Kong. He is currently a GS student studying Data
-    Science, and he wishes to pursue a Business Analytics master's. Previously, he has
-    worked for Valencia Club de Futbol and Singapore Civil Defence Force. In his free
-    time, he enjoys playing soccer and tennis.
+  bio: Louis is from Singapore and Hong Kong. He is currently a GS student studying
+    Data Science, and he wishes to pursue a Business Analytics master's. Previously,
+    he has worked for Valencia Club de Futbol and Singapore Civil Defence Force. In
+    his free time, he enjoys playing soccer and tennis.
   education:
-      - degree: BA in Data Science
-        institution: Columbia University
-        end_year: 2023
-        begin_year: 2019
+    - degree: BA in Data Science
+      institution: Columbia University
+      end_year: 2023
+      begin_year: 2019
   email: yc3733@columbia.edu
   employment:
     - begin_date: 2021-02-01
@@ -2150,7 +2151,7 @@ lcheng:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: "OpusXI"
+  github_id: OpusXI
   grp_mtg_active: true
   name: Louis Cheng
   orcid_id: ''
@@ -2350,7 +2351,7 @@ mgutmann:
       group: bg
       status: postdoc
   name: Matthias Gutmann
-  position: Scientist
+  position: scientist
 mkane:
   active: false
   aka: []
@@ -2832,7 +2833,7 @@ pnehra:
     - begin_date: 2020-10-14
       end_date: 2021-05-01
       organization: columbiau
-      position: Undergraduate Researcher
+      position: undergraduate researcher
       group: bg
       advisor: sbillinge
       status: undergrad
@@ -2840,7 +2841,7 @@ pnehra:
   grp_mtg_active: true
   name: Priyanka Nehra
   orcid_id: ''
-  position: Undergraduate Researcher
+  position: undergraduate researcher
 ppeterson:
   active: false
   aka:
@@ -3009,7 +3010,7 @@ rgu:
   employment:
     - begin_year: 2020
       begin_month: 11
-      position: Assistant Professor
+      position: assistant professor
       organization: nankaiu
     - begin_year: 2017
       begin_month: 9
@@ -4000,14 +4001,14 @@ xchen:
     - begin_date: 2017-09-04
       end_date: 2019-05-20
       organization: columbiau
-      position: Undergraduate Research Assistant
+      position: undergraduate research assistant
       group: bg
       advisor: sbillinge
       status: undergrad
   github_id: ''
   name: Xin Chen
   orcid_id: ''
-  position: Undergraduate Research Assistant
+  position: undergraduate research assistant
 xhyang:
   active: false
   aka:
