@@ -1492,10 +1492,27 @@ gpaglia:
   position_full: Senior Project Manager - Analytics
 hcchiu:
   active: true
-  aka: []
-  avatar: https://github.com/jasonchiu1997.png
-  bio: bio
-  education: []
+  aka:
+    - Jason Chiu
+    - Jason
+    - Hoi Chun Chiu
+    - Hoi Chun
+  avatar: https://github.com/jasonhcc.png
+  bio: Hoi Chun is an Applied Physics PhD student from Hong Kong. Prior to joining Columbia, he obtained a BSc
+    in Physics from HKUST. He joined the Billinge group in summer 2021. He loves listening to Cantonese music
+    and watching movies during his free time.
+  education:
+    - begin_year: 2016
+      begin_month: 9
+      degree: BSc in Physics
+      institution: Hong Kong University of Science & Technology
+      end_year: 2020
+      end_month: 7
+    - begin_year: 2020
+      begin_month: 9
+      degree: PhD in Applied Physics
+      institution: Columbia University
+      group: bg
   email: hc3209@columbia.edu
   employment:
     - begin_date: 2021-04-19
@@ -1504,12 +1521,12 @@ hcchiu:
       position: masters researcher
       group: bg
       advisor: sbillinge
-      status: ms
-  github_id: jasonchiu1997
+      status: phd
+  github_id: jasonhcc
   grp_mtg_active: true
   name: Hoi Chun Chiu
   orcid_id: 0000-0001-6788-2106
-  position: masters researcher
+  position: graduate research assistant
 hhu:
   active: false
   aka:
