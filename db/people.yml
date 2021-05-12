@@ -1509,10 +1509,10 @@ hcchiu:
       end_year: 2020
       end_month: 7
     - begin_year: 2020
-        begin_month: 9
-        degree: PhD in Applied Physics
-        institution: Columbia University
-        group: bg
+      begin_month: 9
+      degree: PhD in Applied Physics
+      institution: Columbia University
+      group: bg
   email: hc3209@columbia.edu
   employment:
     - begin_date: 2021-04-19
