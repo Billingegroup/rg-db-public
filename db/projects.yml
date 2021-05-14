@@ -25,51 +25,371 @@ JUAMI:
       name: wzyuan
       begin_year: 2019
   website: http://juami.org
-ReGro:
-  description: Tools for managing software and research groups
-  logo: https://regro.github.io/static/regro-logo.svg
-  name: Re(search) Gro(up)
-  repo: https://github.com/regro
+coder:
+  active: true
+  description: ''
+  group: bg
+  highlights:
+    - year: 2020
+      month: 6
+      description: Established in the group CODER, the committee on diversity and
+        equity in research.  The committee currently has a mission to increase inclusivity
+        in the research group with a longer term goal of increasing the racial, ethnic
+        and gender diversity of the group.  Committee members present a discussion
+        segment on these issues to be had by the whole group every two weeks during
+        group meeting, and also lead other social efforts in the group such as group
+        movie nights and a stress-reducing intentional breathing segment during group
+        meeting every week.
+  name: Committee on diversity and equity in research (CODER)
   team:
-    - position: Developer
-      name: Christopher J. Wright
-      begin_year: 2017
-    - position: Lead Developer
-      name: Anthony Scopatz
-      begin_year: 2017
-  website: https://github.com/regro
-Regolith:
-  description: Research Group Content Managment System
-  logo: https://regro.github.io/regolith-docs/_static/regolith-logo.svg
-  name: Regolith
-  repo: https://github.com/regro/regolith
+    - name: sbillinge
+      position: co-pi
+      begin_year: 2021
+    - name: sskjaervoe
+      position: postdoc
+      begin_year: 2021
+    - name: jumana
+      position: ug
+      begin_year: 2021
+    - name: zthathcher
+      position: gra
+      begin_year: 2021
+    - name: ashaaban
+      position: ug
+      begin_year: 2021
+    - name: raiden
+      position: ug
+      begin_year: 2021
+  type: outreach
+  website: ''
+diffpy:
+  active: true
+  description: software for modeling nanostructures principally from atomic pair distribution
+    function (PDF) data.
+  group: bg
+  highlights:
+    - year: 2019
+      month: 4
+      description: Major new release (3.0) this year, upgrading diffpy to use python
+        3
+  name: The Diffpy Suite
   team:
-    - position: Developer
-      name: Christopher J. Wright
+    - name: sbillinge
+      position: mentor
+      begin_year: 2005
+    - name: pjuhas
+      position: lead developer
+      begin_year: 2005
+    - name: chliu
       begin_year: 2017
-    - position: Lead Developer
-      name: Anthony Scopatz
-      begin_year: 2017
-    - position: Developer
-      name: Simon Billinge
-      begin_year: 2017
-  website: https://github.com/regro/regolith
-conda-forge:
-  description: Conda driven packaging ecosystem
-  logo: https://avatars0.githubusercontent.com/u/11897326?s=200&v=4
-  name: Conda-Forge
-  other:
-    - A community led collection of recipes, build infrastructure and distributions
-      for the conda package manager.
-  repo: https://github.com/conda-forge
-  team:
-    - position: Core Developer, Staged-Recipes Reviewer
-      name: Christopher J. Wright
-      begin_year: 2017
-    - position: Google Summer of Code Developer
-      name: Justin Calamari
+      position: developer
+    - name: Long Yang
       begin_year: 2018
-  website: http://conda-forge.org
+      position: developer
+  type: ossoftware
+  website: https://github.com/xpdAcq/SHED
+dmref15:
+  active: true
+  description: Advancing applied mathematics and computational approaches to the study
+    of the nanostructure of materials
+  grant: dmref15
+  group: bg
+  highlights:
+    - year: 2021
+      month: 1
+      description: Launched PDF in the cloud (PDFitc) website, the first atomic pair
+        distribution function data analysis website.  Instead of downloading group
+        software and using it on their local computers, users can now upload their
+        measured PDFs and search for candidate structures that are pulled from large
+        structural databases.
+    - year: 2021
+      month: 1
+      description: Published a series of papers that applied artificial intelligence
+        (AI) and machine learning (ML) to the study of nanostructure inverse problems,
+        including using a convolutional neural net (CNN) to predict the space group
+        of a material given an atomic pair distribution function (PDF) measured from
+        x-ray or neutron powder diffraction data.
+    - year: 2020
+      month: 3
+      description: Launched PDF in the cloud (PDFitc) website, the first atomic pair
+        distribution function data analysis website.  Instead of downloading group
+        software and using it on their local computers, users can now upload their
+        measured PDFs and search for candidate structures that are pulled from large
+        structural databases.
+    - year: 2018
+      month: 6
+      description: Discovered a novel approach to model metallic nanoparticle structures
+        by building discrete models algoritmically for databases. published in Acta
+        Crystallographica A.
+  name: 'NSF funded DMREF center: Using data analytics to regularize the nanostructure
+    inverse problem'
+  team:
+    - name: sbillinge
+      position: pi
+      begin_year: 2015
+    - name: qdu
+      position: co-pi
+      begin_year: 2015
+    - name: dhsu
+      position: co-pi
+      begin_year: 2015
+    - name: chliu
+      position: gra
+      begin_year: 2017
+      end_year: 2018
+    - name: cwright
+      position: gra
+      begin_year: 2017
+      end_year: 2018
+    - name: jgong
+      position: gra
+      begin_year: 2017
+      end_year: 2018
+    - name: mwaddell
+      position: gra
+      begin_year: 2018
+      end_year: 2018
+    - name: sbanerjee
+      position: gra
+      begin_year: 2018
+      end_year: 2018
+    - name: jgong
+      position: gra
+      begin_year: 2015
+      end_year: 2017
+    - name: rgu
+      position: postdoc
+      begin_year: 2017
+    - name: ytao
+      position: gra
+      begin_year: 2017
+      end_year: 2017
+  type: funded
+dmref19:
+  active: true
+  description: We recently identified that intrinsic orbital degeneracy lifting can
+    result in broken symmetry states existing in d-electron materials at high temperatures.  The
+    group of A. Zunger, Co-PI on this project, recently independently found that standard
+    density functional theory quantum mechanical calculations can sometimes predict
+    symmetry broken ground-states in materials where the most stable structure is
+    lower in energy, and in symmetry, than the observed crystal structure.  This project
+    is to try and gain insight into this novel phenomenon through a combined mathematics,
+    AI, theory, and experimental campaign.
+  grant: dmref19
+  group: bg
+  highlights:
+    - year: 2019
+      month: 6
+      description: Received funding
+  name: Searching for novel polymorphous network materials among d-electron metals
+  team:
+    - name: sbillinge
+      position: pi
+      begin_year: 2019
+    - name: qdu
+      position: co-pi
+      begin_year: 2019
+    - name: jowen
+      position: co-pi
+      begin_year: 2019
+    - name: azunger
+      position: co-pi
+      begin_year: 2019
+  type: funded
+dmrefcheme16:
+  active: false
+  description: Apply AI and machine learning to get better gas separation membranes
+  grant: dmrefcheme16
+  group: bg
+  highlights:
+    - year: 2019
+      month: 9
+      description: developed a novel method, sasPDF, to study the arrangement of nanoparticles
+        in superlattice assemblies
+  name: Better gas separation membranes from nanoparticle polymer composites
+  team:
+    - name: sbillinge
+      position: co-pi
+      begin_year: 2017
+    - name: skumar
+      position: pi
+      begin_year: 2017
+    - name: chliu
+      position: gra
+      begin_year: 2017
+      end_year: 2019
+    - name: cwright
+      position: gra
+      begin_year: 2017
+      end_year: 2019
+    - name: mterban
+      position: gra
+      begin_year: 2017
+      end_year: 2017
+    - name: sbanerjee
+      position: gra
+      begin_year: 2017
+      end_year: 2018
+  type: funded
+efrc18:
+  active: true
+  description: A group project led from Stony Brook University.  Columbia is a major
+    partner with myself leading one of the thrusts.  The goal is to use in-situ synthesis
+    and data analytics to try and understand the science behind materials synthesis
+  grant: efrc18
+  group: bg
+  highlights:
+    - year: 2020
+      month: 11
+      description: Developed and validated the use of non-negative matrix factorization
+        to automatically extract chemical components from \textit{in situ} chemical
+        reactions taking place in an x-ray beam.  As a chemical reaction proceeds,
+        reagents transform into products as a function of time, and in general form
+        intermediate chemical species along the chemical reaction pathway.  By following
+        this process in an x-ray beam, and automating the data analysis we can understand
+        the reaction as it progresses. NMF  allows us to extract the physical components
+        mathematically with no prior knowledge or models of the chemical species that
+        appear and disappear during the process.
+    - year: 2020
+      month: 11
+      description: Used automated image processing methods such as blob tracking and
+        segmentation to map out from \textit{in situ} x-ray diffraction data the position,
+        orientation and quality of crystal grains that are growing in a single-crystal
+        growth experiment, for example, from an optical float zone furnace.
+    - year: 2020
+      month: 12
+      description: Published results from an autonomously controlled x-ray diffraction
+        measurement demonstrated at the Advanced Photon Source, Argonne National Laboratory.
+        The experiment used an algorithm to control the charge-state of Cu as oxidising
+        and reducing gases were passed over it \textit{in situ} in a synchrotron x-ray
+        beam while monitoring its charge state by measuring its x-ray absorption spectrum
+        in real time.
+    - year: 2018
+      month: 8
+      description: Grant funded
+    - year: 2019
+      month: 12
+      description: Columbia files a provisional patent for the MOSY concept which
+        is a graph theoretic way of representing tasks accomplished by human actions.
+  name: DOE funded Energy Frontier Research Center, centered at Stony Brook University,
+    on Next Generation Chemical Synthesis
+  team:
+    - name: sbillinge
+      position: co-pi
+      begin_year: 2018
+    - name: yrakita
+      position: postdoc
+      begin_year: 2019
+    - name: cwright
+      position: gra
+      begin_year: 2018
+      end_year: 2019
+    - name: chliu
+      position: gra
+      begin_year: 2018
+      end_year: 2020
+    - name: sbanerjee
+      position: gra
+      begin_year: 2018
+      end_year: 2019
+    - name: rgu
+      position: postdoc
+      begin_year: 2019
+    - name: John Parise
+      position: pi
+      begin_year: 2018
+  type: funded
+  website: ''
+fwp17:
+  description: Searching for local structural effects in strongly correlated electron
+    materials using x-ray and neutron scattering
+  grant: fwp17
+  group: bg
+  highlights:
+    - year: 2021
+      month: 1
+      description: Found our previously discovered phenomenon of orbital degeneracy
+        lifting (ODL), which results in local symmetry breaking in quantum materials,
+        in a series of new materials establishing its ubiquity.
+    - year: 2020
+      month: 1
+      description: Paper published in Science Advances reporting the observation of
+        a novel melting mechanism for gold from an ultrafast time-resolved diffraction
+        experiment.  A femto-second laser pulse dumps energy into a gold thin film
+        and we probed how it responded on the ps - ns timescale using ultrafast diffraction
+        pulses.
+    - year: 2019
+      month: 12
+      description: Two editor's choice papers in Phys. Rev. B that report ODL symmetry
+        breaking in the "hot" superconducting material iron-selenide (FeSe).
+    - year: 2019
+      month: 9
+      description: Paper published in Nature Communications that reports the discovery
+        of symmetry breaking due to orbital degeneracy lifting (ODL) in a transition
+        metal system in a completely unexpected way.
+    - year: 2019
+      month: 3
+      description: A paper was accepted in Physical Review Letters that was the first
+        measurement of phonons in a well characterized semiconducting nanoparticle
+        system.  This experimnet was a tour de force and a collaboration with Jon
+        Owen in Chemistry at Columbia, as well as researchers at Argonne National
+        Laboratory.
+  name: 'DOE funded project at Brookhaven National Laboratory: Local structure of
+    complex transition metal systems'
+  team:
+    - name: sbillinge
+      position: pi
+      begin_year: 2017
+    - name: ebozin
+      position: co-pi
+      begin_year: 2017
+    - name: rkoch
+      position: postdoc
+      begin_year: 2018
+  type: funded
+mrsec14:
+  description: Study of nanoparticle assemblies and superatom systems
+  grant: mrsec14
+  group: bg
+  highlights:
+    - year: 2018
+      month: 6
+      description: Published a Nature Communications paper where we characterized
+        the structure of nanoparticles arranged into a metal-organic expanded structure.
+  name: Assembly of superatoms
+  team:
+    - name: sbillinge
+      position: co-pi
+      begin_year: 2015
+    - name: Xavier Roy
+      position: co-pi
+      begin_year: 2014
+    - name: James Hone
+      position: pi
+      begin_year: 2014
+    - name: Collin Nuckolls
+      position: co-pi
+      begin_year: 2014
+    - name: Michael Steigerwald
+      position: co-pi
+      begin_year: 2014
+    - name: chliu
+      position: gra
+      begin_year: 2018
+      end_year: 2018
+    - name: eculbertson
+      position: gra
+      begin_year: 2017
+      end_year: 2018
+    - name: lyang
+      position: gra
+      begin_year: 2017
+      end_year: 2017
+    - name: sbanerjee
+      position: gra
+      begin_year: 2019
+      end_year: 2019
+  type: funded
 pytentiostat:
   description: Python controller and GUI for the arduino based JUAMI potentiostat
   logo: https://github.com/juami.png
@@ -89,266 +409,4 @@ pytentiostat:
     - name: aplymill
       position: lead developer
       begin_year: 2019
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: mspence
-      position: developer
-      begin_year: 2019
-    - name: jhitt
-      position: developer
-      begin_year: 2019
-    - name: aplymill
-      position: lead developer
-      begin_year: 2019
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: mspence
-      position: developer
-      begin_year: 2019
-    - name: jhitt
-      position: developer
-      begin_year: 2019
-    - name: aplymill
-      position: lead developer
-      begin_year: 2019
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: mspence
-      position: developer
-      begin_year: 2019
-    - name: jhitt
-      position: developer
-      begin_year: 2019
-    - name: aplymill
-      position: lead developer
-      begin_year: 2019
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: mspence
-      position: developer
-      begin_year: 2019
-    - name: jhitt
-      position: developer
-      begin_year: 2019
-    - name: aplymill
-      position: lead developer
-      begin_year: 2019
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: mspence
-      position: developer
-      begin_year: 2019
-    - name: jhitt
-      position: developer
-      begin_year: 2019
-    - name: aplymill
-      position: lead developer
-      begin_year: 2019
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: mspence
-      position: developer
-      begin_year: 2019
-    - name: jhitt
-      position: developer
-      begin_year: 2019
-    - name: aplymill
-      position: lead developer
-      begin_year: 2019
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: mspence
-      position: developer
-      begin_year: 2019
-    - name: jhitt
-      position: developer
-      begin_year: 2019
-    - name: aplymill
-      position: lead developer
-      begin_year: 2019
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: mspence
-      position: developer
-      begin_year: 2019
-    - name: jhitt
-      position: developer
-      begin_year: 2019
-    - name: aplymill
-      position: lead developer
-      begin_year: 2019
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: mspence
-      position: developer
-      begin_year: 2019
-    - name: jhitt
-      position: developer
-      begin_year: 2019
-    - name: aplymill
-      position: lead developer
-      begin_year: 2019
-    - position: Lead Developer
-      name: aplymill
-      begin_year: 2019
-    - position: Developer
-      name: mspencer
-      begin_year: 2019
-    - position: Developer
-      name: Yao Tong
-      begin_year: 2019
-    - position: Developer
-      name: jhitt
-      begin_year: 2019
-    - position: PI
-      name: sbillinge
-      begin_year: 2019
-    - position: Developer
-      name: wzyuan
-      begin_year: 2019
   website: http://juami.github.io/pytentiostat
-xpdAcq:
-  description: Software for the XPD and PDF beamlines at the NSLS-II synchrotron
-  logo: ''
-  name: xpdAcq
-  other:
-    - A user-facing software layer over bluesky for data acquisition at NSLS-II
-    - packages include xpdAcq, xpdAn, xpdSim, xpdtools
-  repo: https://github.com/xpdAcq
-  team:
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: cwright
-      position: leaddeveloper
-      begin_year: 2016
-    - name: chliu
-      position: developer
-      begin_year: 2016
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: cwright
-      position: leaddeveloper
-      begin_year: 2016
-    - name: chliu
-      position: developer
-      begin_year: 2016
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: cwright
-      position: leaddeveloper
-      begin_year: 2016
-    - name: chliu
-      position: developer
-      begin_year: 2016
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: cwright
-      position: leaddeveloper
-      begin_year: 2016
-    - name: chliu
-      position: developer
-      begin_year: 2016
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: cwright
-      position: leaddeveloper
-      begin_year: 2016
-    - name: chliu
-      position: developer
-      begin_year: 2016
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: cwright
-      position: leaddeveloper
-      begin_year: 2016
-    - name: chliu
-      position: developer
-      begin_year: 2016
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: cwright
-      position: leaddeveloper
-      begin_year: 2016
-    - name: chliu
-      position: developer
-      begin_year: 2016
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: cwright
-      position: leaddeveloper
-      begin_year: 2016
-    - name: chliu
-      position: developer
-      begin_year: 2016
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: cwright
-      position: leaddeveloper
-      begin_year: 2016
-    - name: chliu
-      position: developer
-      begin_year: 2016
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: cwright
-      position: leaddeveloper
-      begin_year: 2016
-    - name: chliu
-      position: developer
-      begin_year: 2016
-    - position: Lead Developer
-      name: Songsheng Tao
-      begin_year: 2020
-    - position: Developer
-      name: Hung Vuong
-      begin_year: 2020
-    - position: Former Lead Developer
-      name: Christopher "CJ" Wright
-      begin_year: 2017
-    - position: Former Lead Developer
-      name: chliu
-      begin_year: 2016
-    - position: PI
-      name: sbillinge
-      begin_year: 2016
-    - position: NSLS-II DAMA group
-      name: tcaswell
-      begin_year: 2016
-    - position: NSLS-II DAMA group
-      name: dallen
-      begin_year: 2017
-    - position: NSLS-II DAMA group
-      name: scampbell
-      begin_year: 2016
-    - position: Beamline Staff
-      name: edooryhee
-      begin_year: 2016
-    - position: Beamline Staff
-      name: sghose
-      begin_year: 2016
-    - position: Beamline Staff
-      name: aabeykoon
-      begin_year: 2018
-    - position: Beamline Staff and Developer
-      name: dolds
-      begin_year: 2019
-  website: http://xpdacq.github.io

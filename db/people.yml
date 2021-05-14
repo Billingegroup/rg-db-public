@@ -316,7 +316,7 @@ ashaaban:
       group: bg
       status: undergrad
   github_id: AhmedS343
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Ahmed Shaaban
   position: undergraduate research assistant
 bfrandsen:
@@ -454,7 +454,7 @@ cbracy:
       position: masters researcher
       group: bg
       advisor: sbillinge
-      status: phd
+      status: ms
   github_id: connorjbracy
   grp_mtg_active: true
   name: Connor Bracy
@@ -519,7 +519,7 @@ cgutierrez:
       position: graduate research assistant
       group: bg
       advisor: sbillinge
-      status: phd
+      status: ms
   github_id: ''
   name: Christopher Gutierrez
   orcid_id: ''
@@ -1293,7 +1293,7 @@ eshen:
       position: masters researcher
       group: bg
       advisor: sbillinge
-      status: phd
+      status: ms
   github_id: sheneric88
   grp_mtg_active: true
   name: Eric Shen
@@ -1521,8 +1521,8 @@ hcchiu:
       position: masters researcher
       group: bg
       advisor: sbillinge
-      status: phd
-  github_id: jasonhcc
+      status: ms
+  github_id: jasonchiu1997
   grp_mtg_active: true
   name: Hoi Chun Chiu
   orcid_id: 0000-0001-6788-2106
@@ -1667,7 +1667,7 @@ hvuong:
       position: masters researcher
       organization: columbiau
       advisor: sbillinge
-      status: phd
+      status: ms
       group: bg
   github_id: tienhungvuong
   google_scholar_url: https://scholar.google.com/citations?user=DST508IAAAAJ&hl=en&authuser=1
@@ -2010,7 +2010,7 @@ jwzang:
       position: masters research assistant
       group: bg
       advisor: sbillinge
-      status: phd
+      status: ms
   github_id: jiaweizang
   name: Jiawei Zang
   orcid_id: 0000-0002-3671-9282
@@ -2248,7 +2248,7 @@ lmalavasi:
   name: Lorenzo Malavasi
   position: associate professor
 lyang:
-  active: true
+  active: false
   aka:
     - Long Yang
     - Yang, Long
@@ -3167,7 +3167,6 @@ rzyu:
       organization: bnl
     - begin_year: 2016
       begin_month: 1
-      status: postdoc
       position: assistant professor
       organization: iopcas
   name: Runze Yu
@@ -3781,7 +3780,7 @@ tcaswell:
       position: associate physicist
       organization: columbiau
       group: bg
-      status: adjunct
+      status: visitor-unsupported
     - begin_year: 2017
       begin_month: 1
       position: associate scientist
@@ -3918,7 +3917,7 @@ vgharakhanyan:
   name: Vahe Gharakhanyan
   position: graduate research assistant
 vlin:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/vivianlin2000.png
   bio: Vivian is an undergraduate research assistant  at Columbia University. She
@@ -4315,7 +4314,7 @@ yztao:
       organization: columbiau
       end_year: 2019
       end_month: 6
-      status: phd
+      status: ms
       group: bg
   name: Yunzhe Tao
   position: post-doctoral scholar

@@ -231,6 +231,7 @@ anker;hdcc20:
   optannote: ''
   optwwwlanl: ''
   pages: ''
+  peer_rev_conf: true
   title: Characterising the atomic structure of mono-metallic nanoparticles from x-ray
     scattering data using conditional generative models
   url: https://chemrxiv.org/articles/preprint/Characterising_the_Atomic_Structure_of_Mono-Metallic_Nanoparticles_from_X-Ray_Scattering_Data_Using_Conditional_Generative_Models/12662222/1
@@ -2996,8 +2997,8 @@ cao;ami19:
     the National Key Research and Development Program (grant 2016YFA0300404), the
     National Nature Science Foundation of China (grants 11674326,11774352, and 11874357),
     the Joint Funds of the National Natural Science Foundation of China, and the Chinese
-    Academy of Sciences' Large-scale Scientific Facility (GrantU1832141). Y.H. is
-    supported by the Natural Science Foundation of Shanghai (17ZR1436800).
+    Academy of Sciences Large-scale Scientific Facility (GrantU1832141). Y.H. is supported
+    by the Natural Science Foundation of Shanghai (17ZR1436800).
   author:
     - Yue Cao
     - Tadesse Assefa
@@ -3027,7 +3028,7 @@ cao;ami19:
   optannote: ''
   optnote: to be published
   optwwwlanl: ''
-  pages: 43173−43179
+  pages: 43173-43179
   synopsis: Thin sheets of the layered van Der Waals material, TaS2, laying on a substrate
     were scanned with a nanosized x-ray beam and very small strains in the material
     could be measured from small shifts in the position on the detector of Bragg peaks
@@ -10900,40 +10901,56 @@ yang;jac14:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/14yangjac.pdf
   year: '2014'
 yang;nc21:
-  ackno: ''
+  ackno: C.N. thanks S. Buckler and D. Buckler for their generous support. Support
+    for this research was provided by the Center for Precision Assembly of Superstratic
+    and Superatomic Solids, an NSF MRSEC (award nos. DMR-2011738 and DMR-1420634)
+    and the Air Force Office of Scientific Research (award no. FA9550-18-1-0020).
+    Shared Materials Characterization Laboratory at Columbia University, maintained
+    using funding from Columbia University for which we are grateful. J.C.R. is supported
+    by the NDSEG fellowship programme. Raman spectroscopy measurements were supported
+    by the Barnard College Department of Chemistry and Office of the Provost. Electrical
+    conductivity measurements were supported by the Army Research Office grant no.
+    ARO#71641-MS. Use of the National Synchrotron Light Source II, Brookhaven National
+    Laboratory, was supported by the US Department of Energy, Office of Science, Office
+    of Basic Energy Sciences, under contract no. DE-SC0012704. The DFT calculations
+    were undertaken with the assistance of resources and services from the National
+    Computational nfrastructure (NCI), which is supported by the Australian Government,
+    and the computational cluster Katana supported by Research Technology Services
+    at UNSW Sydney.
   author:
     - Jingjing Yang
-    - Jake Russell
+    - Jake C. Russell
     - Songsheng Tao
     - Martina Lessio
     - Feifan Wang
-    - Alaina Hartnett
-    - Samuel Peurifoy
-    - Evan Doud
-    - Evan O'Brien
+    - Alaina C. Hartnett
+    - Samuel R. Peurifoy
+    - Evan A. Doud
+    - Evan S. O'Brien
     - Natalia Gadjieva
-    - David Reichman
-    - X-Y. Zhu
-    - Andrew Crowther
-    - Simon Billinge
+    - David R. Reichman
+    - Xiaoyang Zhu
+    - Andrew C. Crowther
+    - Simon J. L. Billinge
     - Xavier Roy
-    - Michael Steigerwald
+    - Michael L. Steigerwald
     - Colin Nuckolls
-  doi: ''
+  day: '26'
+  doi: 10.1038/s41557-021-00680-8
   entrytype: article
-  facility: ''
+  facility: nslsii, xpd
   grant: mrsec20
   journal: Nature Chem.
-  month: tbd
+  month: apr
   nb: ' art '
-  note: to be published
+  note: advanced online publication
   number: ''
   optannote: ''
   optwwwlanl: ''
   pages: ''
   tags: superatoms
   title: Superatomic Solid Solutions
-  url: ''
+  url: https://doi.org/10.1038/s41557-021-00680-8
   volume: ''
   year: '2021'
 yang;pccp13:
