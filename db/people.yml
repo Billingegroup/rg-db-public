@@ -1498,9 +1498,10 @@ hcchiu:
     - Hoi Chun Chiu
     - Hoi Chun
   avatar: https://github.com/jasonhcc.png
-  bio: Hoi Chun is an Applied Physics PhD student from Hong Kong. Prior to joining Columbia, he obtained a BSc
-    in Physics from HKUST. He joined the Billinge group in summer 2021. He loves listening to Cantonese music
-    and watching movies during his free time.
+  bio: Hoi Chun is an Applied Physics PhD student from Hong Kong. Prior to joining
+    Columbia, he obtained a BSc in Physics from HKUST. He joined the Billinge group
+    in summer 2021. He loves listening to Cantonese music and watching movies during
+    his free time.
   education:
     - begin_year: 2016
       begin_month: 9
@@ -1977,6 +1978,26 @@ jumana:
   name: Jaylyn C. Umana
   orcid_id: 0000-0002-1882-8653
   position: undergraduate research assistant
+jwilley:
+  active: true
+  aka: []
+  avatar: "https://github.com/\x16jwilley44.png"
+  bio: bio
+  education: []
+  email: "\x16jjw2188@columbia.edu"
+  employment:
+    - begin_date: 2021-05-21
+      end_date: 2021-08-31
+      organization: columbiau
+      position: masters researcher
+      group: bg
+      advisor: sbillinge
+      status: masters
+  github_id: "\x16jwilley44"
+  grp_mtg_active: true
+  name: John J. Willey
+  orcid_id: ''
+  position: masters researcher
 jwzang:
   active: false
   aka:
@@ -2174,7 +2195,7 @@ lcheng:
   orcid_id: ''
   position: undergraduate researcher
 lkranis:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/lkranis.png
   bio: Lauren is from Long Island, New York. She is a combined plan student currently
@@ -2192,14 +2213,14 @@ lkranis:
   email: lmk2211@columbia.edu
   employment:
     - begin_date: 2020-11-06
-      end_date: 2021-05-31
+      end_date: 2021-05-14
       organization: columbiau
       position: undergraduate researcher
       group: bg
       advisor: sbillinge
       status: undergrad
   github_id: lkranis
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Lauren Kranis
   orcid_id: ''
   position: undergraduate researcher
@@ -2946,7 +2967,7 @@ ptian:
   position: programmer
   position_full: Rates Quant
 raidun:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/raidun99.png
   bio: Ruby grew up in Albuquerque, NM. She is currently an undergraduate student
@@ -2957,15 +2978,15 @@ raidun:
   employment:
     - begin_year: 2020
       begin_month: 9
-      end_year: 2021
-      end_month: 5
       organization: columbiau
       position: undergraduate researcher
       group: bg
       advisor: sbillinge
       status: undergrad
+      begin_day: 1
+      end_date: 2021-05-14
   github_id: raidun99
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Ruby Aidun
   orcid_id: '0000'
   position: undergraduate researcher
