@@ -1981,10 +1981,10 @@ jumana:
 jwilley:
   active: true
   aka: []
-  avatar: "https://github.com/\x16jwilley44.png"
+  avatar: "https://github.com/jwilley44.png"
   bio: bio
   education: []
-  email: "\x16jjw2188@columbia.edu"
+  email: "jjw2188@columbia.edu"
   employment:
     - begin_date: 2021-05-21
       end_date: 2021-08-31
@@ -1993,8 +1993,8 @@ jwilley:
       group: bg
       advisor: sbillinge
       status: masters
-  github_id: "\x16jwilley44"
-  grp_mtg_active: true
+  github_id: "jwilley44"
+  grp_mtg_active: false
   name: John J. Willey
   orcid_id: ''
   position: masters researcher
