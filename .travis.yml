@@ -35,6 +35,7 @@ script:
   - set -e
   - cd local
   - regolith validate
+  - regolith build publist --no-pdf
   - cd ..
   - git clone https://github.com/billingegroup/website.git;
     cd website;
