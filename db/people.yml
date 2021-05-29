@@ -1981,10 +1981,10 @@ jumana:
 jwilley:
   active: true
   aka: []
-  avatar: "https://github.com/jwilley44.png"
+  avatar: https://github.com/jwilley44.png
   bio: bio
   education: []
-  email: "jjw2188@columbia.edu"
+  email: jjw2188@columbia.edu
   employment:
     - begin_date: 2021-05-21
       end_date: 2021-08-31
@@ -1993,7 +1993,7 @@ jwilley:
       group: bg
       advisor: sbillinge
       status: masters
-  github_id: "jwilley44"
+  github_id: jwilley44
   grp_mtg_active: false
   name: John J. Willey
   orcid_id: ''
@@ -3389,25 +3389,6 @@ sbillinge:
       position: professor
       status: pi
       permanent: true
-    - organization: iucr
-      begin_year: 2011
-      department: aca
-      position: editor
-      coworkers:
-        - aallen
-        - aaltomare
-        - lbourgeois
-        - pdominiak
-        - jeon
-        - ugrimm
-        - dkeen
-        - wkuhs
-        - lmarks
-        - hschenk
-        - ktsuda
-        - ivartaniants
-        - pwillmott
-        - mnespolo
     - department: Condensed Matter Physics and Materials Science
       organization: Brookhaven National Laboratory
       position: physicist
@@ -3528,6 +3509,183 @@ sbillinge:
     - description: More information about my research, (p)reprints, and a complete
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
+  service:
+    - type: profession
+      name: Member of the National Academy of Sciences panel reviewing the operations
+        of the National Center for Neutron Research at NIST
+      year: 2021
+    - type: outreach
+      name: Group diversity and inclusion effort CODER (the committee on diversity
+        and equity in research).
+      other: The committee currently has a mission to increase inclusivity in the
+        research group with a longer term goal of increasing the racial, ethnic and
+        gender diversity of the group.  Committee members present a discussion segment
+        on these issues to be had by the whole group every two weeks during group
+        meeting, and also lead other social efforts in the group such as group movie
+        nights and a stress-reducing intentional breathing segment during group meeting
+        every week. It is formed and led by a set of volunteers from among group members
+        with a shared interest in these issues with oversight from me.  Arguably,
+        this is an inreach rather than outreach activity, but we feel that bringing
+        meaningful change starts by addressing these issues internally first. As we
+        make progress the plan is to reach outside the group to find similar activities
+        in other research groups, departments and across the school, univesity and
+        the academy.  The results of this activity have been eye opening, bringing
+        to light the extent and ingrainedness of implicit biases while helping us
+        to recognize them without feeling bad that they are there, and underscoring
+        that the inreach before outreach approach is warranted.
+      begin_date: 2021-06-01
+    - type: profession
+      name: Member of the Hanawalt Award committee of the International Center for
+        Diffraction Data (ICDD)
+      year: 2021
+    - type: profession
+      name: Member of the Future Leaders–African Independent Research (FLAIR) panel
+        of the African Academy of Sciences panel.
+      begin_date: 2021-02-08
+      end_date: 2023-12-31
+    - type: profession
+      name: Chair of the Second Target Station Instrument Review Committee of the
+        DOE-funded Spallation Neutron Source at Oak Ridge National Laboratory.
+      notes: This committee will review and make recommendations for the initial suite
+        of 8 instruments to be built as part of the second target station construction
+        project.
+      date: 2021-08-01
+    - type: profession
+      name: Organizing committee of the meeting "Autonomous Discovery in Science and
+        Engineering.", held at Lawrence Berkeley Laboratory.
+      year: 2021
+      month: April
+    - type: profession
+      name: Reviewer for the Cyberinfrastructure for Sustained Scientific Innovation
+        solicitation (CSSI) program, NSF.
+      year: 2021
+      month: Feb
+    - type: profession
+      name: member of the scientific expert team for the Petra IV synchrotron development
+        project, DESY, Hamburg, Germany.
+      begin_year: 2021
+      begin_month: Jan
+    - type: profession
+      name: Proposal review panel for the Linear Coherent Light Source
+      year: 2020
+      month: Dec
+    - type: profession
+      name: External examiner for Masters Diploma Thesis for Mr. Sani Harouna-Mayer,
+        University of Hamburg, Germany
+      year: 2020
+      month: Nov
+    - type: profession
+      name: Chair, National Science Foundation (NSF) oversight virtual site visit
+        review team of the Center for High Energy X-ray Science (CHEXS) at the Cornell
+        High Energy X-ray Source (CHESS)
+      year: 2020
+      month: Oct
+    - type: profession
+      name: External evaluation of Anthony Phillips for promotion to Reader at Queen
+        Mary University London
+      year: 2020
+      month: July
+    - type: profession
+      name: Member of the International review committee of the Mantid neutron data
+        analysis software project
+      year: 2020
+      month: May
+    - type: profession
+      name: Co-organizer of the Chemistry, Chemical Engineering, and Materials Science
+        track of the Machine Learning in Science & Engineering conference at Columbia
+        University, New York, June 1 - 3, 2020
+      year: 2020
+      month: Jun
+    - type: profession
+      name: External Thesis examiner, Nathan Nakamura, Carnegie Mellon University
+        Department of Chemical Engineering
+      year: 2020
+      month: Apr
+    - type: profession
+      name: 'CCQ: Machine Learning Quantum Matter Data Workshop, Flatiron Institute
+        New York, NY'
+      year: 2020
+      month: Jan
+    - type: profession
+      name: NSF proposal review panel, SSMC CAREER Inorganics
+      year: 2019
+      month: Oct
+    - type: profession
+      name: 'Organizer, Microsymposium on Disordered materials: spectroscopic and
+        scattering techniques at the 25th General Assembly and Congress of the International
+        Union of Crystallography, Prague, Czech Republic, August 22-29th 2020'
+      begin_year: 2019
+      begin_month: Aug
+      end_year: 2020
+      end_month: Aug
+    - type: profession
+      name: 2021 Warren Award Committee
+      year: 2020
+      month: Jan
+    - type: profession
+      name: Proposal to organize a symposium at the 2020 American Physical Society
+        March Meeting entitled "Emergent local symmetry breaking in transition metal
+        compounds due to orbital degeneracy lifting (ODL)"
+      year: 2019
+      month: August
+    - type: profession
+      name: Review of our SNS & HFIR Data Analysis Plan
+      year: 2020
+      month: 9
+    - type: profession
+      name: Review of the Data Reduction Handling and Analysis at the instruments
+        suite at the High Flux Isotope Reactor (HFIR) and the Spallation Neutron Source
+        (SNS)" at Oak Ridge National Laboratory
+      year: 2019
+      month: July
+    - type: profession
+      name: Mentor for week-long NSF Harnessing the Data Revolution Ideas Lab workshop
+      year: 2019
+      month: May
+      description: Labs organized by NSF to put together groups of people who can
+        work together to solve big problems.
+    - type: profession
+      name: Organizer of a one-day JUAMI symposium on materials for sustainable energy
+        at the 2019 African MRS meeting in Arusha, Tanzania.
+      year: 2019
+      month: 12
+    - type: profession
+      name: 'Section Editor of Journal Acta Crystallographica Section A: Advances
+        and Foundations of Crystallography'
+      begin_year: 2011
+      end_year: 2020
+    - type: profession
+      name: National Academy of Science Panel on the Review of the Center for Neutron
+        Research at the National Institute of Standards and Technology
+      year: 2018
+    - type: profession
+      name: Member of the Italian Association of Crystallography, Commission for the
+        Mammi Prize
+      year: 2019
+    - type: profession
+      name: Member of the External Advisory Board for NSF Science and Technology Center
+        (STROBE) at U. Colorado
+      begin_year: 2018
+    - type: profession
+      name: Member, Artificial intelligence task force of the Materials Research Society
+      begin_year: 2017
+    - type: profession
+      name: Member, Steering committee of the African Light Source
+      begin_year: 2015
+    - type: profession
+      name: Co-organizer with Prof Sossina Haile (Northwestern) and Tom Mallouk (Penn
+        State) of the third 2-week JUAMI Materials for Sustainable Development workshop
+        in Kampala, Uganda
+      month: 6
+      year: 2018
+      role: co-organizer
+      other: These schools are NSF funded, take place in an East African location
+        and bring together ~35 African PhD students and 25 US-based PhD students to
+        learn research-grade materials science as well as to develop cross-cultural
+        relationships and learn to work in teams to achieve research goals.  This
+        was the third school in the series.  The first was in Addis Ababa, Ethiopia
+        in 2012, the second in Arusha, Tanzania, in 2016.  This one was in Kampala,
+        Uganda.
   skills: []
   title: Prof.
 sdisch:

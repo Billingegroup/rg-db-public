@@ -1,0 +1,473 @@
+08_FWP-I:
+  amount: 3600000.0
+  awardnr: DE-SC0012704
+  begin_date: 2008-01-01
+  end_date: 2014-09-30
+  funder: DOE-BES
+  proposal_id: 08_FWP-I
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 3600000.0
+  title: Towards an understanding of nano-scale fluctuations in strongly correlated
+    electron systems
+09_Columbia_EFRC:
+  amount: 15254325.0
+  awardnr: DE-SC0001085
+  begin_date: 2009-10-01
+  end_date: 2014-08-31
+  funder: DOE-BES-EFRC
+  team:
+    - email: Columbia U
+      institution: columbiau
+      name: James Hone
+      position: pi
+    - institution: columbiau
+      name: Simon Billinge
+      position: co-pi
+      subaward_amount: 320000.0
+  title: Re-Defining Photovoltaic Efficiency Through Molecule Scale Control
+10_PIRE_with_Tomo:
+  amount: 1820000.0
+  awardnr: OISE-0968226
+  begin_date: 2010-08-01
+  end_date: 2015-07-31
+  funder: NSF-OISE
+  proposal_id: 10_PIRE_with_Tomo
+  team:
+    - email: sb2896@columbia.edu
+      institution: columbiau
+      name: Yasutomo Uemura
+      position: pi
+    - institution: columbiau
+      name: Simon Billinge
+      position: co-pi
+      subaward_amount: 285000
+    - institution: columbiau
+      name: Abhay Pasupathy
+      position: co-pi
+    - institution: lanl
+      name: Aleksanda Balatsky
+      position: co-pi
+    - institution: riceu
+      name: Pengcheng Dai
+      position: co-pi
+    - institution: ''
+      name: Christopher Wiebe
+      position: co-pi
+  title: PIRE:International consortium for probing novel superconductors with neutrons,
+    muons, photons and STM
+11_JUAMI-I:
+  amount: 200000.0
+  awardnr: DMR-1069120
+  begin_day: 1
+  begin_month: 9
+  begin_year: 2011
+  end_day: 30
+  end_month: 10
+  end_year: 2014
+  funder: NSF-DMR
+  proposal_id: 11_JUAMI-I
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 200000.0
+    - institution: northwesternu
+      name: Sossina Haile
+      position: co-pi
+  title: 'Joint US - Africa Materials Science Institute (JUAMI)  '
+12_SIXNS:
+  amount: 300000.0
+  awardnr: DMR-1216643
+  begin_day: 1
+  begin_month: Jul
+  begin_year: 2012
+  end_day: 30
+  end_month: Jun
+  end_year: 2014
+  proposal_id: 12_SIXNS
+  team:
+    - email: Caltech
+      institution: caltech
+      name: Brent Fultz
+      position: pi
+    - institution: columbiau
+      name: Simon Billinge
+      position: co-pi
+      subaward_amount: 100000.0
+    - institution: uwashington
+      name: John Rehr
+      position: co-pi
+  title: 'Collaborative Research: Scientific Software Innovation Institute for Advanced
+    Analysis of X-Ray and Neutron Scattering Data (SIXNS)'
+12_complex_modeling_LDRD:
+  amount: 1500000.0
+  awardnr: 12-007
+  begin_day: 1
+  begin_month: Jul
+  begin_year: 2012
+  end_day: 30
+  end_month: Jun
+  end_year: 2015
+  funder: BNL-LDRD
+  pi: sbillinge
+  proposal_id: 12_complex_modeling_LDRD
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 1500000.0
+  title: 'Complex Modeling: leveraging data with theory and computation to push back
+    the materials complexity frontier (Software development project)'
+14_CU/Glasgow_student_fellowship:
+  amount: 10000.0
+  begin_day: 30
+  begin_month: 9
+  begin_year: 2014
+  end_day: 30
+  end_month: Jun
+  end_year: 2099
+  pi: Terban Max
+  proposal_id: 14_CU/Glasgow_student_fellowship
+  team:
+    - email: sb2896@columbia.edu
+      institution: columbiau
+      name: Terban Max
+      position: pi
+    - institution: columbiau
+      name: Billinge Simon
+      position: co-pi
+      subaward_amount: 10000.0
+  title: Study of spatial distribution of degradation products in hull wood from the
+    Mary Rose
+14_FWP:
+  amount: 2850000.0
+  awardnr: DE-SC0012704
+  begin_date: 2014-10-01
+  end_date: 2017-09-30
+  funder: DOE-BES
+  pi: sbillinge
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 500000
+  title: Towards an understanding of nano-scale fluctuations in strongly correlated
+    electron systems
+14_mrsec:
+  amount: 10092792.0
+  awardnr: DMR-1420634
+  begin_date: 2014-11-01
+  end_date: 2020-10-31
+  team:
+    - institution: columbiau
+      name: James Hone
+      position: pi
+      subaward_amount: 10092792.0
+    - institution: columbiau
+      name: Simon Billinge
+      position: co-pi
+      subaward_amount: 240000.0
+  title: Center for Precision Assembly of Superstratic and Superatomic Solids
+15_JUAMI-II:
+  amount: 326530.0
+  awardnr: DMR-1539724
+  begin_day: 1
+  begin_month: 09
+  begin_year: 2015
+  end_day: 31
+  end_month: 08
+  end_year: 2016
+  funder: NSF
+  pi: Sossina Haile
+  proposal_id: 15_JUAMI-II
+  team:
+    - email: Northwestern U
+      institution: northwesternu
+      name: Sossina Haile
+      position: pi
+    - institution: columbiau
+      name: Simon Billinge
+      position: co-pi
+      subaward_amount: 16769.0
+    - institution: umichigan
+      name: Peter Green
+      position: co-pi
+  title: Joint US-Africa Materials Advanced Studies Institute
+15_NSF_DMREF_:
+  amount: 1082785.0
+  awardnr: DMREF-1534910
+  begin_date: 2015-09-01
+  end_date: 2021-03-31
+  funder: NSF
+  pi: sbillinge
+  proposal_id: 15_NSF_DMREF_
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 430000.0
+    - institution: columbiau
+      name: Qiang Du
+      position: copi
+      subaward_amount: 330000.0
+    - institution: columbiau
+      name: Daniel Hsu
+      position: copi
+      subaward_amount: 322785
+  title: 'DMREF: Novel, data validated, nanostructure determination methods for accelerating
+    materials discovery'
+15_ROADs:
+  amount: 99062.0
+  awardnr: ROADS
+  begin_date: 2015-07-01
+  end_date: 2017-06-30
+  funder: Columbia University
+  pi: sbillinge
+  team:
+    - email: sb2896@columbia.edu
+      institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 98000.0
+    - institution: columbiau
+      name: Lauren Hannah
+      position: co-pi
+    - institution: columbiau
+      name: Andy Millis
+      position: co-pi
+    - institution: columbiau
+      name: Qiang Du
+      position: co-pi
+  title: 'Advancing Materials Genomics: Quantifying Uncertainties for Nanostructure
+    Determination and Optimization (QUNDO) (ROADS)'
+16_GSK_proposal:
+  amount: 92734.0
+  awardnr: ''
+  begin_date: 2016-03-15
+  end_date: 2017-09-14
+  funder: GlaxoSmithKline
+  pi: sbillinge
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 92734.0
+  title: 'Prediction of amorphous stability, quantification of amorphous content,
+    and characterization of nano-particles using PDF methods '
+16_dmref_sanat:
+  amount: 1271974.0
+  awardnr: CBET-1629502
+  begin_date: 2016-10-01
+  end_date: 2020-09-30
+  pi: Sanat Kumar
+  team:
+    - email: Columbia U
+      institution: columbiau
+      name: Sanat Kumar
+      position: pi
+    - institution: columbiau
+      name: Simon Billinge
+      position: co-pi
+      subaward_amount: 300000.0
+    - institution: usouthcarolina
+      name: Brian Benicewicz
+      position: co-pi
+  title: 'DMREF: Collaborative Research: Designing Optimal Nanoparticle Shapes and
+    Ligand Parameters for Polymer-Grafted Nanoparticle Membranes '
+17_Clearfield_DOE:
+  amount: 333813.0
+  awardnr: DE-SC0017864
+  begin_date: 2017-09-01
+  end_date: 2021-01-31
+  funder: DOE-CHE
+  pi: Abe Clearfield
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: copi
+      subaward_amount: 333813
+    - institution: tamu
+      name: Abraham Clearfield
+      position: pi
+  title: Unconventional Metal Organic Frameworks for actinide-lanthanide separation
+17_NOMAD_GO!_student:
+  amount: 232514.0
+  awardnr: ORNL sub
+  begin_date: 2017-07-17
+  end_date: 2020-12-31
+  funder: ORNL
+  pi: sbillinge
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+    - institution: ornl
+      name: Matt Tucker
+      position: co-pi
+  title: NOMAD as a high throughput instrument for materials genomics studies
+17_fwp:
+  amount: 5100000.0
+  awardnr: DE-SC0012704
+  begin_date: 2017-10-01
+  end_date: 2020-09-30
+  funder: DOE-BES
+  pi: sbillinge
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 1700000.0
+  title: X-ray Scattering
+18_SUNY-SB_EFRC:
+  amount: 14850000.0
+  awardnr: DE-SC0019212
+  begin_date: 2018-08-01
+  end_date: 2022-07-31
+  funder: DOE-BES
+  pi: John Parise
+  team:
+    - institution: stonybrooku
+      name: John Parise
+      position: pi
+      subaward_amount: 13910000.0
+    - institution: columbiau
+      name: Simon Billinge
+      position: co-pi
+      subaward_amount: 940000.0
+      admin_people:
+        - Ria Miranda
+        - Daniel Alicea
+  title: 'GENESIS: A Next Generation Synthesis Center'
+18_ctPDF@NSLS-II:
+  amount: 70103
+  begin_date: 2018-05-31
+  end_date: 2019-10-31
+  funder: BNL
+  pi: sbillinge
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 70103
+  title: Nuclear Energy Enabling Technology and Nuclear Science User Facility Activities
+18_fwp_sub_for_Soham:
+  amount: 40000
+  awardnr: tbd
+  begin_date: 2017-10-01
+  end_date: 2018-09-30
+  funder: BNL
+  pi: sbillinge
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 40000
+  title: PDF studies of Quantum Materials
+18_ldrd@NSLS-II:
+  amount: 42577
+  awardnr: tbd
+  begin_date: 2018-06-01
+  end_date: 2019-05-31
+  funder: BNL
+  pi: Line Pouchard
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: co-pi
+      subaward_amount: 42577
+    - institution: bnl
+      name: scampbell
+      position: co-pi
+    - institution: bnl
+      name: lpouchard
+      position: pi
+  title: Data analysis pipelines with provenance for in-situ x-ray powder diffraction
+    and atomic pair distribution function analysis
+19_Nanofeatures_in_crystals:
+  amount: 1749995
+  awardnr: DMR-1922234
+  begin_date: 2019-10-01
+  end_date: 2024-09-30
+  funder: NSF
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 878599
+    - institution: coloradostateu
+      name: Alex Zunger
+      position: co-pi
+    - institution: columbiau
+      name: Qiang Du
+      position: co-pi
+    - institution: columbiau
+      name: Jon Owen
+      position: co-pi
+  title: 'DMREF: Collaborative Research: Complex Nanofeatures in Crystals: Theory
+    and Experiment meet in the Cloud'
+20_fwp:
+  amount: 4100000.0
+  awardnr: DE-SC0012704
+  begin_date: 2020-10-01
+  end_date: 2023-09-30
+  funder: DOE-BES
+  pi: Ian Robinson
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 707921
+    - institution: columbiau
+      name: Ian Robinson
+      position: co-pi
+    - institution: columbiau
+      name: Emil  Bozin
+      position: co-pi
+  title: X-ray Scattering
+20_rise:
+  amount: 42577
+  awardnr: n/a
+  begin_date: 2020-09-01
+  end_date: 2022-08-31
+  funder: Columbia University
+  pi: Ngai Yin Yip
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: copi
+      subaward_amount: 0
+    - institution: columbiau
+      name: Ngai Yin Yip
+      position: pi
+      subaward_amount: 42577
+  title: Towards a Mechanistic Understanding of Inter- and Intra-molecular Interactions
+    in Temperature Swing Solvent Extraction Desalination with Novel Atomistic Measurements
+21_3m:
+  amount: 101638
+  awardnr: n/a
+  begin_date: 2021-06-01
+  end_date: 2022-05-31
+  funder: 3M
+  pi: sbillinge
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 101638
+  title: Pair Distribution Function (PDF) Methodology and Advanced Computing for Nanostructure
+    Determination
+21_jhu_mitra:
+  amount: 45000
+  begin_date: 2021-06-01
+  end_date: 2022-06-01
+  funder: Johns Hopkins University
+  pi: sbillinge
+  team:
+    - institution: columbiau
+      name: sbillinge
+      position: pi
+      subaward_amount: 45000
+  title: Development of scanning nanostructre electron microscopy

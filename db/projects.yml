@@ -72,7 +72,7 @@ diffpy:
       month: 4
       description: Major new release (3.0) this year, upgrading diffpy to use python
         3
-  name: The Diffpy Suite
+  name: Diffpy
   team:
     - name: sbillinge
       position: mentor
@@ -121,8 +121,8 @@ dmref15:
       description: Discovered a novel approach to model metallic nanoparticle structures
         by building discrete models algoritmically for databases. published in Acta
         Crystallographica A.
-  name: 'NSF funded DMREF center: Using data analytics to regularize the nanostructure
-    inverse problem'
+  name: 'DMREF center: Using data analytics to regularize the nanostructure inverse
+    problem'
   team:
     - name: sbillinge
       position: pi

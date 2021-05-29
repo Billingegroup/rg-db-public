@@ -39,5 +39,7 @@ script:
   - git clone https://github.com/billingegroup/website.git;
     cd website;
     regolith build html;
+    regolith build cv --no-pdf;
+    regolith build publist --no-pdf;
     cd ..;
     doctr deploy --deploy-repo billingegroup/billingegroup.github.io --deploy-branch-name master --built-docs website/_build/html .;
