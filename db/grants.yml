@@ -3,7 +3,6 @@
   begin_date: 2000-10-01
   end_date: 2002-03-31
   funder: CRDF-cooperative grant program
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -22,7 +21,6 @@
   begin_date: 2000-07-01
   end_date: 2003-06-30
   funder: NSF-DMR
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -34,7 +32,6 @@
   begin_date: 2000-09-01
   end_date: 2003-08-31
   funder: DOE-BES
-  pi: Alan Goldman
   team:
     - institution: iowastateu
       name: Alan Goldman
@@ -58,7 +55,6 @@
   begin_date: 2000-09-01
   end_date: 2002-08-31
   funder: NSF instrumentation grant
-  pi: Takeshi Egami
   team:
     - institution: upenn
       name: Takeshi Egami
@@ -73,7 +69,6 @@
   begin_date: 2001-09-01
   end_date: 2004-08-31
   funder: DOE-BES
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -89,7 +84,6 @@
   begin_date: 2001-01-15
   end_date: 2003-01-14
   funder: DOE-BES
-  pi: sbillinge
   team:
     - institution: columbiau
       name: sbillinge
@@ -102,7 +96,6 @@
   begin_date: 2002-08-16
   end_date: 2007-08-15
   funder: DOE-ANL
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -115,7 +108,6 @@
   begin_date: 2002-08-01
   end_date: 2005-07-31
   funder: NSF-CHE
-  pi: tpinnavaia
   team:
     - institution: msu
       name: sbillinge
@@ -142,7 +134,6 @@
   begin_date: 2003-08-01
   end_date: 2008-07-31
   funder: NSF-NIRT
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -163,7 +154,6 @@
   begin_date: 2004-09-01
   end_date: 2005-08-31
   funder: NSF-IMR-MIP
-  pi: Brent Fultz
   team:
     - institution: msu
       name: sbillinge
@@ -181,7 +171,6 @@
   begin_date: 2004-09-01
   end_date: 2008-08-31
   funder: DOE-BES
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -196,7 +185,6 @@
   begin_date: 2005-08-01
   end_date: 2010-07-31
   funder: NSF-IMR-MIP
-  pi: Brent Fultz
   team:
     - institution: msu
       name: sbillinge
@@ -215,7 +203,6 @@
   begin_date: 2006-06-01
   end_date: 2009-05-31
   funder: DOE-BES
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -227,7 +214,6 @@
   begin_date: 2007-08-01
   end_date: 2011-07-31
   funder: NSF-DMR
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -264,8 +250,7 @@
   end_date: 2014-08-31
   funder: DOE-BES-EFRC
   team:
-    - email: Columbia U
-      institution: columbiau
+    - institution: columbiau
       name: James Hone
       position: pi
     - institution: columbiau
@@ -281,8 +266,7 @@
   funder: NSF-OISE
   proposal_id: 10_PIRE_with_Tomo
   team:
-    - email: sb2896@columbia.edu
-      institution: columbiau
+    - institution: columbiau
       name: Yasutomo Uemura
       position: pi
     - institution: columbiau
@@ -308,7 +292,6 @@
   begin_date: 2010-09-01
   end_date: 2011-03-31
   funder: Toyota Corporation and Georgia Institute of Technology
-  pi: sbillinge
   team:
     - institution: columbiau
       name: sbillinge
@@ -345,10 +328,10 @@
   end_day: 30
   end_month: Jun
   end_year: 2014
+  funder: NSF-DMR
   proposal_id: 12_SIXNS
   team:
-    - email: Caltech
-      institution: caltech
+    - institution: caltech
       name: Brent Fultz
       position: pi
     - institution: columbiau
@@ -370,7 +353,6 @@
   end_month: Jun
   end_year: 2015
   funder: BNL-LDRD
-  pi: sbillinge
   proposal_id: 12_complex_modeling_LDRD
   team:
     - institution: columbiau
@@ -387,11 +369,10 @@
   end_day: 30
   end_month: Jun
   end_year: 2099
-  pi: Terban Max
+  funder: Columbia University
   proposal_id: 14_CU/Glasgow_student_fellowship
   team:
-    - email: sb2896@columbia.edu
-      institution: columbiau
+    - institution: columbiau
       name: Terban Max
       position: pi
     - institution: columbiau
@@ -406,7 +387,6 @@
   begin_date: 2014-10-01
   end_date: 2017-09-30
   funder: DOE-BES
-  pi: sbillinge
   team:
     - institution: columbiau
       name: Simon Billinge
@@ -419,6 +399,7 @@
   awardnr: DMR-1420634
   begin_date: 2014-11-01
   end_date: 2020-10-31
+  funder: NSF-DMR
   team:
     - institution: columbiau
       name: James Hone
@@ -439,11 +420,9 @@
   end_month: 08
   end_year: 2016
   funder: NSF
-  pi: Sossina Haile
   proposal_id: 15_JUAMI-II
   team:
-    - email: Northwestern U
-      institution: northwesternu
+    - institution: northwesternu
       name: Sossina Haile
       position: pi
     - institution: columbiau
@@ -460,7 +439,6 @@
   begin_date: 2015-09-01
   end_date: 2021-03-31
   funder: NSF
-  pi: sbillinge
   proposal_id: 15_NSF_DMREF_
   team:
     - institution: columbiau
@@ -483,10 +461,8 @@
   begin_date: 2015-07-01
   end_date: 2017-06-30
   funder: Columbia University
-  pi: sbillinge
   team:
-    - email: sb2896@columbia.edu
-      institution: columbiau
+    - institution: columbiau
       name: Simon Billinge
       position: pi
       subaward_amount: 98000.0
@@ -507,7 +483,6 @@
   begin_date: 2016-03-15
   end_date: 2017-09-14
   funder: GlaxoSmithKline
-  pi: sbillinge
   team:
     - institution: columbiau
       name: Simon Billinge
@@ -520,10 +495,9 @@
   awardnr: CBET-1629502
   begin_date: 2016-10-01
   end_date: 2020-09-30
-  pi: Sanat Kumar
+  funder: NSF-CBET
   team:
-    - email: Columbia U
-      institution: columbiau
+    - institution: columbiau
       name: Sanat Kumar
       position: pi
     - institution: columbiau
@@ -541,7 +515,6 @@
   begin_date: 2017-09-01
   end_date: 2021-01-31
   funder: DOE-CHE
-  pi: Abe Clearfield
   team:
     - institution: columbiau
       name: Simon Billinge
@@ -557,7 +530,6 @@
   begin_date: 2017-07-17
   end_date: 2020-12-31
   funder: ORNL
-  pi: sbillinge
   team:
     - institution: columbiau
       name: Simon Billinge
@@ -572,7 +544,6 @@
   begin_date: 2017-10-01
   end_date: 2020-09-30
   funder: DOE-BES
-  pi: sbillinge
   team:
     - institution: columbiau
       name: Simon Billinge
@@ -585,7 +556,6 @@
   begin_date: 2018-08-01
   end_date: 2022-07-31
   funder: DOE-BES
-  pi: John Parise
   team:
     - institution: stonybrooku
       name: John Parise
@@ -604,7 +574,6 @@
   begin_date: 2018-05-31
   end_date: 2019-10-31
   funder: BNL
-  pi: sbillinge
   team:
     - institution: columbiau
       name: Simon Billinge
@@ -617,7 +586,6 @@
   begin_date: 2017-10-01
   end_date: 2018-09-30
   funder: BNL
-  pi: sbillinge
   team:
     - institution: columbiau
       name: Simon Billinge
@@ -630,7 +598,6 @@
   begin_date: 2018-06-01
   end_date: 2019-05-31
   funder: BNL
-  pi: Line Pouchard
   team:
     - institution: columbiau
       name: Simon Billinge
@@ -672,7 +639,6 @@
   begin_date: 2020-10-01
   end_date: 2023-09-30
   funder: DOE-BES
-  pi: Ian Robinson
   team:
     - institution: columbiau
       name: Simon Billinge
@@ -691,7 +657,6 @@
   begin_date: 2020-09-01
   end_date: 2022-08-31
   funder: Columbia University
-  pi: Ngai Yin Yip
   team:
     - institution: columbiau
       name: Simon Billinge
@@ -709,7 +674,6 @@
   begin_date: 2021-06-01
   end_date: 2022-05-31
   funder: 3M
-  pi: sbillinge
   team:
     - institution: columbiau
       name: Simon Billinge
@@ -722,7 +686,6 @@
   begin_date: 2021-06-01
   end_date: 2022-06-01
   funder: Johns Hopkins University
-  pi: sbillinge
   team:
     - institution: columbiau
       name: sbillinge
@@ -735,7 +698,6 @@
   begin_date: 1997-01-01
   end_date: 1999-01-01
   funder: NSF-DMR
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -750,7 +712,6 @@
   begin_date: 1995-12-15
   end_date: 1997-12-14
   funder: Alfred P Sloan Foundation
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -762,7 +723,6 @@
   begin_date: 1996-08-01
   end_date: 1999-07-31
   funder: lanl
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -776,7 +736,6 @@
   begin_date: 1996-08-01
   end_date: 1999-07-31
   funder: NSF-CHE
-  pi: Thomas Pinnavaia
   team:
     - institution: msu
       name: sbillinge
@@ -800,7 +759,6 @@
   begin_year: 1996
   end_year: 1996
   funder: DOE Energy Research financial assistance program
-  pi: Robert A Robinson
   team:
     - institution: lanl
       name: Robert Robinson
@@ -829,7 +787,6 @@
   begin_date: 1997-08-01
   end_date: 2000-07-31
   funder: NSF-DMR
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -843,7 +800,6 @@
   begin_date: 1997-08-01
   end_date: 2001-07-31
   funder: DOE-BES
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -859,7 +815,6 @@
   begin_date: 1999-07-01
   end_date: 2001-06-30
   funder: USDC-NIST
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -875,7 +830,6 @@
   begin_date: 1999-07-01
   end_date: 2002-06-30
   funder: NSF-CHE
-  pi: tpinnavaia
   team:
     - institution: msu
       name: sbillinge
@@ -899,7 +853,6 @@ aurig_95:
   begin_date: 1995-05-01
   end_date: 1996-08-31
   funder: AURIG grant program at Michigan State University
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -911,7 +864,6 @@ cfmr_00:
   begin_date: 2000-06-15
   end_date: 2001-06-14
   funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -926,7 +878,6 @@ cfmr_01:
   begin_date: 2001-06-15
   end_date: 2002-06-14
   funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -941,7 +892,6 @@ cfmr_01_duxbury:
   begin_date: 2001-06-15
   end_date: 2001-06-14
   funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -957,7 +907,6 @@ cfmr_03:
   begin_date: 2003-06-15
   end_date: 2004-06-14
   funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -978,7 +927,6 @@ cfmr_95:
   begin_date: 1995-06-15
   end_date: 1996-06-14
   funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -991,7 +939,6 @@ cfmr_96:
   begin_date: 1996-06-15
   end_date: 1997-06-14
   funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -1004,7 +951,6 @@ cfmr_96_kaplan:
   begin_date: 1996-06-15
   end_date: 1997-06-14
   funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -1023,7 +969,6 @@ cfmr_96_pinnavaia:
   begin_date: 1996-06-15
   end_date: 1997-06-14
   funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
-  pi: Tom Pinnavaia
   team:
     - institution: msu
       name: Tom Pinnavaia
@@ -1047,7 +992,6 @@ cfmr_97:
   begin_date: 1997-06-15
   end_date: 1998-06-14
   funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -1063,7 +1007,6 @@ cfmr_97_kaplan:
   begin_date: 1997-06-15
   end_date: 1998-06-14
   funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -1082,7 +1025,6 @@ cfmr_97_pinnavaia:
   begin_date: 1997-06-15
   end_date: 1998-06-14
   funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
-  pi: Tom Pinnavaia
   team:
     - institution: msu
       name: Tom Pinnavaia
@@ -1106,7 +1048,6 @@ cfmr_98:
   begin_date: 1998-06-15
   end_date: 1999-06-14
   funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -1122,7 +1063,6 @@ cfmr_98_kaplan:
   begin_date: 1998-06-15
   end_date: 1999-06-14
   funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge
@@ -1144,7 +1084,6 @@ cfmr_99:
   begin_date: 1999-06-15
   end_date: 2000-06-14
   funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
-  pi: sbillinge
   team:
     - institution: msu
       name: sbillinge

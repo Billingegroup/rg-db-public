@@ -3488,18 +3488,23 @@ sbillinge:
     - organization: Association for Computing Machinery
       begin_year: 2015
       begin_month: Mar
+      position: Member
     - organization: American Physical society
       begin_year: 1990
       begin_month: Mar
+      position: Fellow
     - organization: American Crystallographic Association
       begin_year: 1991
       begin_month: Jun
+      position: Member
     - organization: Materials Research Society
       begin_year: 1991
       begin_month: Aug
+      position: Member
     - organization: Neutron Scattering Society of America
       begin_year: 1993
       begin_month: May
+      position: Fellow
   name: Simon J. L. Billinge
   orcid_id: 0000-0002-9734-4998
   position: professor
@@ -3783,7 +3788,7 @@ sbillinge:
       name: 'Chair Advanced Analysis of X-Ray and Neutron Scattering Data: Getting
         from data to science Workshop, Brookhaven National Laboratory'
       year: 2013
-      Month: July
+      month: July
     - type: profession
       name: Chair, microsymposium on total pattern fitting, Accuracy in Powder Diffraction
         Conference, NIST
