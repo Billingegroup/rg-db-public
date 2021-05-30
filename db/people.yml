@@ -3660,6 +3660,57 @@ sbillinge:
       description: Labs organized by NSF to put together groups of people who can
         work together to solve big problems.
     - type: profession
+      name: Powder Instrument Next Generation (PING) collaboration beamline advisory
+        team
+      begin_year: 2012
+      end_year: 2015
+      role: Spokesperson
+      description: For the powder diffraction and PDF beamlines that will be constructed
+        as part of the construction project for NSLS-II at Brookhaven National Laboratory
+    - type: profession
+      name: PDF beamline development team at the National Synchrotron Light Source
+        (NSLS) beam-port X17A.
+      begin_year: 2008
+      end_year: 2010
+      role: Co-leader with Lars Ehm, SUNY-Stony Brook
+      description: The development of a PDF beamline development at NSLS.
+    - type: profession
+      name: High-intensity, high-Q, high-resolution powder diffraction (H3PD) instrument
+        for the LANSCE beamline
+      begin_year: 2000
+      end_year: 2002
+      role: Co-leader with Takeshi Egami, U. Pennsylvania
+      description: to build a neutron powder diffractometer at Los Alamos for materials
+        science and the study of complex materials using Rietveld and PDF methods
+        (see NSF instrumentation grant, above). Diffractometer is now called NPDF
+        and was constructed on time and under budget. It has entered the Manuel Lujan,
+        jr., Neutron Scattering Center user program. It is currently the highest resolution
+        and highest data-rate (5-times faster than SEPD at IPNS) powder diffractometer
+        at a spallation source in the US.
+    - type: profession
+      name: Midwest Universities Collaborative Access Team (CAT)
+      begin_year: 2000
+      end_year: 2008
+      role: Member of team led by Alan Goldman, Iowa State University
+      description: Collaboration to build and operate an x-ray beamline at the Advanced
+        Photon Source at Argonne National Laboratory for local structure studies of
+        complex materials (see DOE-BES grant above).  I am lead Co-PI with Prof. Alan
+        Goldman on this project. The hutches and upstream beam transport components
+        are in place.  The optics and beam-line components are ordered and detailed
+        designs are in place. The objective is to make a beamline that is stable and
+        easy to use for high-resolution PDF studies.  Two ID beamlines and three experimental
+        stations are already built and operated by the CAT, that includes researchers
+        from 8 Universities, for surface studies under high vacuum conditions, magnetic
+        scattering and high energy diffraction
+    - type: profession
+      name: Collaboration to build a wide angle capability for the high-resolution
+        chopper spectrometer PHAROS at Los Alamos
+      begin_year: 1996
+      end_year: 1997
+      role: Member of team led by Robert Robinson, Los Alamos National Laboratory
+      description: This project was funded and the Pharos uprade has been carried
+        out at LANSCE.
+    - type: profession
       name: Organizer of a one-day JUAMI symposium on materials for sustainable energy
         at the 2019 African MRS meeting in Arusha, Tanzania.
       year: 2019
