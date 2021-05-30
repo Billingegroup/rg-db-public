@@ -174,7 +174,7 @@
 06_rapdf_detector:
   amount: 279894
   begin_date: 2006-06-01
-  end_date: 2007-05-31
+  end_date: 2009-05-31
   funder: DOE-BES
   pi: sbillinge
   team:
@@ -183,6 +183,73 @@
       position: pi
       subaward_amount: 279894
   title: Detector for new Rapid Acquisition PDF beam-line development at NSLS
+00_mucat_bmbeamlines:
+  amount: 1200000
+  begin_date: 2000-09-01
+  end_date: 2003-08-31
+  funder: DOE-BES
+  pi: Alan Goldman
+  team:
+    - institution: iowastateu
+      name: Alan Goldman
+      position: pi
+    - institution: msu
+      name: sbillinge
+      position: co-pi
+      subaward_amount: 0
+    - institution: uwisconsin
+      name: Michael Winokur
+      position: co-pi
+    - institution: umissouri
+      name: Paul Micelli
+      position: co-pi
+    - institution: uwashington
+      name: Ken Kelton
+      position: co-pi
+  title: Development of the bending magnet beamlines in the MUCAT sector at the
+    APS
+00_npdf:
+  amount: 800000
+  begin_date: 2000-09-01
+  end_date: 2002-08-31
+  funder: NSF instrumentation grant
+  pi: Takeshi Egami
+  team:
+    - institution: upenn
+      name: Takeshi Egami
+      position: pi
+    - institution: msu
+      name: sbillinge
+      position: co-pi
+      subaward_amount: 0
+  title: High-intensity, high-Q, high-resolution powder diffraction (H3PD)
+96_pharos_lanl:
+  amount: 536000
+  year: 1996
+  funder: DOE Energy Research financial assistance program
+  pi: Robert A Robinson
+  team:
+    - institution: lanl
+      name: Robert Robinson
+      position: pi
+    - institution: msu
+      name: sbillinge
+      position: co-pi
+      subaward_amount: 0
+    - institution: lanl
+      name: Meigan Aranson
+      position: co-pi
+    - institution: jhu
+      name: Collin Broholm
+      position: co-pi
+    - institution: lanl
+      name: Juergen Eckert
+      position: co-pi
+    - institution: upenn
+      name: Takeshi Egami
+      position: co-pi
+  title: Wide angle capability for the high-resolution chopper spectrometer
+    PHAROS at Los Alamos
 07_nsf_frg:
   amount: 1000000
   begin_date: 2007-08-01
@@ -827,3 +894,278 @@
       name: Bhanu Mahanti
       position: co-pi
   title: Disordered inorganic nanostructures
+cfmr_96_pinnavaia:
+  amount: 65000
+  begin_date: 1996-06-15
+  end_date: 1997-06-14
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
+  pi: Tom Pinnavaia
+  team:
+    - institution: msu
+      name: Tom Pinnavaia
+      position: pi
+    - institution: msu
+      name: sbillinge
+      position: co-pi
+      subaward_amount: 0
+    - institution: msu
+      name: Mercouri Kanatzidis
+      position: co-pi
+    - institution: msu
+      name: Banu Mahanti
+      position: co-pi
+    - institution: msu
+      name: Michael Thorpe
+      position: co-pi
+  title: Disordered and lower dimensional porous materials
+cfmr_97_pinnavaia:
+  amount: 65000
+  begin_date: 1997-06-15
+  end_date: 1998-06-14
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
+  pi: Tom Pinnavaia
+  team:
+    - institution: msu
+      name: Tom Pinnavaia
+      position: pi
+    - institution: msu
+      name: sbillinge
+      position: co-pi
+      subaward_amount: 0
+    - institution: msu
+      name: Mercouri Kanatzidis
+      position: co-pi
+    - institution: msu
+      name: Banu Mahanti
+      position: co-pi
+    - institution: msu
+      name: Michael Thorpe
+      position: co-pi
+  title: Disordered and lower dimensional porous materials
+cfmr_03:
+  amount: 40000
+  begin_date: 2003-06-15
+  end_date: 2004-06-14
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 16500
+    - institution: msu
+      name: Mercouri Kanatzidis
+      position: co-pi
+    - institution: msu
+      name: Banu Mahanti
+      position: co-pi
+    - institution: msu
+      name: Stuart Tessmer
+      position: co-pi
+  title: Nanoscale Inhomogenieties in Novel Electronic Materials
+cfmr_96_kaplan:
+  amount: 45000
+  begin_date: 1996-06-15
+  end_date: 1997-06-14
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 23000
+    - institution: msu
+      name: James Harrison
+      position: co-pi
+    - institution: msu
+      name: Tom Kaplan
+      position: co-pi
+  title: Electronic and magnetic structure of transition metal oxides and
+    related systems
+cfmr_97_kaplan:
+  amount: 45000
+  begin_date: 1997-06-15
+  end_date: 1998-06-14
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 23000
+    - institution: msu
+      name: James Harrison
+      position: co-pi
+    - institution: msu
+      name: Tom Kaplan
+      position: co-pi
+  title: Electronic and magnetic structure of transition metal oxides and
+    related systems
+cfmr_98_kaplan:
+  amount: 33000
+  begin_date: 1998-06-15
+  end_date: 1999-06-14
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 13000
+    - institution: msu
+      name: James Harrison
+      position: co-pi
+    - institution: msu
+      name: Tom Kaplan
+      position: co-pi
+    - institution: msu
+      name: Bhanu Mahanti
+      position: co-pi
+  title: Theoretical and Experimental studies of electronic and structural
+    properties of pristine and doped manganites
+cfmr_95:
+  amount: 20000
+  begin_date: 1995-06-15
+  end_date: 1996-06-14
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 20000
+  title: Local structure and properties of transition metal oxides using pair
+    distribution function analysis
+cfmr_01_duxbury:
+  amount: 20000
+  begin_date: 2001-06-15
+  end_date: 2001-06-14
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 10000
+    - institution: msu
+      name: Phillip Duxbury
+      position: co-pi
+  title: 'Cluster Refinement Method for PDF Analysis:  Application to Cuprates
+    and Manganites'
+cfmr_01:
+  amount: 28000
+  begin_date: 2001-06-15
+  end_date: 2002-06-14
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 14000
+    - institution: msu
+      name: Michael Thorpe
+      position: co-pi
+  title: Modeling molecular structure in the atomic pair distribution function
+cfmr_00:
+  amount: 26000
+  begin_date: 2000-06-15
+  end_date: 2001-06-14
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 13000
+    - institution: msu
+      name: Michael Thorpe
+      position: co-pi
+  title: Stability and lattice dynamics of delta plutonium
+cfmr_99:
+  amount: 10000
+  begin_date: 1999-06-15
+  end_date: 2000-06-14
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 10000
+    - institution: msu
+      name: Michael Thorpe
+      position: co-pi
+  title: Atomic resolution of local structure in semiconductor alloys
+cfmr_98:
+  amount: 13000
+  begin_date: 1998-06-15
+  end_date: 1999-06-14
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 13000
+    - institution: msu
+      name: Michael Thorpe
+      position: co-pi
+  title: 'Modelling defects in topologically connected networks: Application to
+    perovskite structures'
+cfmr_97:
+  amount: 13000
+  begin_date: 1997-06-15
+  end_date: 1998-06-14
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 13000
+    - institution: msu
+      name: Michael Thorpe
+      position: co-pi
+  title: Local atomic structure of semiconductor alloys using pair distribution
+    function analysis
+cfmr_96:
+  amount: 13000
+  begin_date: 1996-06-15
+  end_date: 1997-06-14
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 20000
+  title: Local atomic structure of semiconductor alloys using pair distribution
+    function analysis
+aurig_95:
+  amount: 15000
+  begin_date: 1995-05-01
+  end_date: 1996-08-31
+  funder: AURIG grant program at Michigan State
+    University
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 15000
+  title: Local atomic structure of small clusters in host lattices
