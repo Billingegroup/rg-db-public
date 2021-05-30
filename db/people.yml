@@ -3395,7 +3395,7 @@ sbillinge:
       begin_year: 2008
       group: xray
       status: pi
-    - organization: Institute Laue Langevin
+    - organization: Institut Laue Langevin
       position: visiting scientist
       begin_year: 2012
       end_year: 2012
@@ -3484,7 +3484,22 @@ sbillinge:
     - year: 1992
       name: Electro-science Laboratories Award, U. Pennsylvania
   initials: SJLB
-  membership: []
+  membership:
+    - organization: Association for Computing Machinery
+      begin_year: 2015
+      begin_month: Mar
+    - organization: American Physical society
+      begin_year: 1990
+      begin_month: Mar
+    - organization: American Crystallographic Association
+      begin_year: 1991
+      begin_month: Jun
+    - organization: Materials Research Society
+      begin_year: 1991
+      begin_month: Aug
+    - organization: Neutron Scattering Society of America
+      begin_year: 1993
+      begin_month: May
   name: Simon J. L. Billinge
   orcid_id: 0000-0002-9734-4998
   position: professor
@@ -4083,8 +4098,7 @@ sbillinge:
       end_date: 1999-08-13
       role: Co-Organizer
     - type: outreach
-      name: Developed online peer-instruction platform for use in flipped
-        classrooms
+      name: Developed online peer-instruction platform for use in flipped classrooms
       year: 2014
     - type: outreach
       name: Developed online research portal for JUAMI researchers
@@ -4093,13 +4107,13 @@ sbillinge:
       name: Co-Organizer of a series of East African Materials Science Schools, JUAMI
       begin_year: 2012
     - type: outreach
-      name: Science Advisory Committee to the NSF funded PROMSE project to
-        improve math and science eduction in the K-12 sector
+      name: Science Advisory Committee to the NSF funded PROMSE project to improve
+        math and science eduction in the K-12 sector
       begin_year: 2003
       end_year: 2010
     - type: outreach
-      name: Curriculum development for an AP course in nanotechnology at Everett
-        High school in Lansing, MI
+      name: Curriculum development for an AP course in nanotechnology at Everett High
+        school in Lansing, MI
       begin_year: 2006
       end_year: 2007
   skills: []

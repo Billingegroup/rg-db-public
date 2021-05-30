@@ -1879,6 +1879,7 @@ suny:
     - SUNYSB
     - Stony Brook
     - Stony Brook University
+    - stonybrooku
   city: Stony Brook
   country: USA
   day: 15
@@ -2632,6 +2633,7 @@ urome:
     - University of Roma
     - La Sapienza
     - Università di Roma
+    - Università di Roma, La Sapienza
   city: Rome
   country: Italy
   departments:

@@ -1,3 +1,209 @@
+00_crdf_balagurov:
+  amount: 50000
+  begin_date: 2000-10-01
+  end_date: 2002-03-31
+  funder: CRDF-cooperative grant program
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 7167
+    - institution: jinr
+      name: A. Balagurov
+      position: co-pi
+    - institution: moscowstateu
+      name: E. Antipov
+      position: co-pi
+  title: Charge Inhomogeneities on Different Length-scales probed with high-resolution
+    neutron diffraction
+00_dmr:
+  amount: 330000
+  begin_date: 2000-07-01
+  end_date: 2003-06-30
+  funder: NSF-DMR
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 330000
+  title: Probing the Electronic State of Novel Materials using the Local Atomic Structure
+01_doe_bes:
+  amount: 330000
+  begin_date: 2001-09-01
+  end_date: 2004-08-31
+  funder: DOE-BES
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 210000
+    - institution: msu
+      name: Michael Thorpe
+      position: co-pi
+  title: Local atomic structure of functional materials using pair distribution function
+    analysis of neutron and x-ray data
+01_isis_postdoc:
+  amount: 200000
+  begin_date: 2001-01-15
+  end_date: 2003-01-14
+  funder: DOE-BES
+  pi: sbillinge
+  team:
+    - institution: columbiau
+      name: sbillinge
+      position: pi
+      subaward_amount: 200000
+  title: Local Structure-Property relationship of electronic oxides (funds a post-doc
+    at ISIS)
+02_anl_merix:
+  amount: 109670
+  begin_date: 2002-08-16
+  end_date: 2007-08-15
+  funder: DOE-ANL
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 109670
+  title: Development of medium resolution inelastic x-ray scattering (MERIX) spectrometer
+    for the study of correlated electron systems
+02_nsfche_pinnavaia:
+  amount: 2232644
+  begin_date: 2002-08-01
+  end_date: 2005-07-31
+  funder: NSF-CHE
+  pi: tpinnavaia
+  team:
+    - institution: msu
+      name: sbillinge
+      position: co-pi
+      subaward_amount: 300000
+    - institution: msu
+      name: Mercouri Kanatzidis
+      position: co-pi
+    - institution: msu
+      name: Michael Thorpe
+      position: co-pi
+    - institution: msu
+      name: Thomas Pinnavaia
+      position: pi
+    - institution: msu
+      name: Bhanu Mahanti
+      position: co-pi
+    - institution: msu
+      name: Tim Hogan
+      position: co-pi
+  title: Disordered oxidic and non-oxidic mesostructures
+03_nsf_nirt:
+  amount: 1350000
+  begin_date: 2003-08-01
+  end_date: 2008-07-31
+  funder: NSF-NIRT
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 596567
+    - institution: cmu
+      name: Valeri Petkov
+      position: co-pi
+    - institution: msu
+      name: Michael Thorpe
+      position: co-pi
+    - institution: msu
+      name: Mercouri Kanatzidis
+      position: co-pi
+  title: Structure of Nanocrystals
+04_brent_danse_design:
+  amount: 985414
+  begin_date: 2004-09-01
+  end_date: 2005-08-31
+  funder: NSF-IMR-MIP
+  pi: Brent Fultz
+  team:
+    - institution: msu
+      name: sbillinge
+      position: co-pi
+      subaward_amount: 121295
+    - institution: caltech
+      name: Michael Aivazis
+      position: co-pi
+    - institution: caltech
+      name: Brent Fultz
+      position: pi
+  title: Distributed Data Analysis for Neutron Scattering Experiments (Design proposal)
+04_doe_bes:
+  amount: 288195
+  begin_date: 2004-09-01
+  end_date: 2008-08-31
+  funder: DOE-BES
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 288195
+    - institution: msu
+      name: Phillip Duxbury
+      position: co-pi
+  title: Nanostructure determination by co-refining models to multiple data-sets
+05_danse:
+  amount: 11973270
+  begin_date: 2005-08-01
+  end_date: 2010-07-31
+  funder: NSF-IMR-MIP
+  pi: Brent Fultz
+  team:
+    - institution: msu
+      name: sbillinge
+      position: co-pi
+      subaward_amount: 1430000
+    - institution: caltech
+      name: Michael Aivazis
+      position: co-pi
+    - institution: caltech
+      name: Brent Fultz
+      position: pi
+  title: Distributed Data Analysis for Neutron Scattering Experiments (Construction
+    proposal)
+06_rapdf_detector:
+  amount: 279894
+  begin_date: 2006-06-01
+  end_date: 2007-05-31
+  funder: DOE-BES
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 279894
+  title: Detector for new Rapid Acquisition PDF beam-line development at NSLS
+07_nsf_frg:
+  amount: 1000000
+  begin_date: 2007-08-01
+  end_date: 2011-07-31
+  funder: NSF-DMR
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 520000
+    - institution: msu
+      name: Chong-Yu Ruan
+      position: co-pi
+    - institution: msu
+      name: Mercouri Kanatzidis
+      position: co-pi
+    - institution: msu
+      name: Michael F. Thorpe
+      position: co-pi
+  title: 'FRG: Beyond Crystallography: Structure of  Nanostructured Materials'
 08_FWP-I:
   amount: 3600000.0
   awardnr: DE-SC0012704
@@ -58,6 +264,19 @@
       position: co-pi
   title: PIRE:International consortium for probing novel superconductors with neutrons,
     muons, photons and STM
+10_toyota:
+  amount: 20228
+  begin_date: 2010-09-01
+  end_date: 2011-03-31
+  funder: Toyota Corporation and Georgia Institute of Technology
+  pi: sbillinge
+  team:
+    - institution: columbiau
+      name: sbillinge
+      position: pi
+      subaward_amount: 20228
+  title: Use of Pair Distribution Function Analysis to determine the Surface Energy
+    of Nanoparticle Catalysts
 11_JUAMI-I:
   amount: 200000.0
   awardnr: DMR-1069120
@@ -382,7 +601,7 @@
       name: scampbell
       position: co-pi
     - institution: bnl
-      name: lpouchard
+      name: Line Pouchard
       position: pi
   title: Data analysis pipelines with provenance for in-situ x-ray powder diffraction
     and atomic pair distribution function analysis
@@ -471,3 +690,140 @@
       position: pi
       subaward_amount: 45000
   title: Development of scanning nanostructre electron microscopy
+79_mrsec_seed:
+  amount: 66000
+  awardnr: seed-grant
+  begin_date: 1997-01-01
+  end_date: 1999-01-01
+  funder: NSF-DMR
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 22000
+    - institution: msu
+      name: Rong Liu
+      position: co-pi
+  title: Electronic and structural properties of colossal magnetoresistant oxides
+95_sloan:
+  amount: 30000
+  begin_date: 1995-12-15
+  end_date: 1997-12-14
+  funder: Alfred P Sloan Foundation
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 30000
+  title: Alfred P Sloan Research Fellowship
+96_lanl:
+  amount: 210000
+  begin_date: 1996-08-01
+  end_date: 1999-07-31
+  funder: lanl
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 210000
+  title: A study of the local structure of transition metal oxides using pair distribution
+    function analysis
+96_nsfche_pinnavaia:
+  amount: 1760865
+  awardnr: CHE-9633798
+  begin_date: 1996-08-01
+  end_date: 1999-07-31
+  funder: NSF-CHE
+  pi: Thomas Pinnavaia
+  team:
+    - institution: msu
+      name: sbillinge
+      position: co-pi
+      subaward_amount: 120000
+    - institution: msu
+      name: Mercouri Kanatzidis
+      position: co-pi
+    - institution: msu
+      name: Michael Thorpe
+      position: co-pi
+    - institution: msu
+      name: Thomas Pinnavaia
+      position: pi
+    - institution: msu
+      name: Bhanu Mahanti
+      position: co-pi
+  title: Disordered and lower-dimensional porous materials
+97_dmr:
+  amount: 270000
+  awardnr: DMR-9700966
+  begin_date: 1997-08-01
+  end_date: 2000-07-31
+  funder: NSF-DMR
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 270000
+  title: Local atomic structure and properties of transition metal oxides using pair
+    distribution function analysis
+97_doe_thorpe:
+  amount: 431395
+  awardnr: DE-FG02-97ER45651
+  begin_date: 1997-08-01
+  end_date: 2001-07-31
+  funder: DOE-BES
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 300000
+    - institution: msu
+      name: Michael Thorpe
+      position: co-pi
+  title: Local atomic structure of semiconductor alloys using pair distribution function
+    analysis
+99_nist_pinnavaia:
+  amount: 155030
+  begin_date: 1999-07-01
+  end_date: 2001-06-30
+  funder: USDC-NIST
+  pi: sbillinge
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 155030
+    - institution: msu
+      name: Tom Pinnavaia
+      position: co-pi
+  title: Neutron Scattering Studies of Structure and Dynamics in Disordered Mesoporous
+    Materials
+99_nsfche_pinnavaia:
+  amount: 1917858
+  begin_date: 1999-07-01
+  end_date: 2002-06-30
+  funder: NSF-CHE
+  pi: tpinnavaia
+  team:
+    - institution: msu
+      name: sbillinge
+      position: co-pi
+      subaward_amount: 200000
+    - institution: msu
+      name: Mercouri Kanatzidis
+      position: co-pi
+    - institution: msu
+      name: Michael Thorpe
+      position: co-pi
+    - institution: msu
+      name: Thomas Pinnavaia
+      position: pi
+    - institution: msu
+      name: Bhanu Mahanti
+      position: co-pi
+  title: Disordered inorganic nanostructures
