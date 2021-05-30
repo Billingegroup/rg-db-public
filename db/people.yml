@@ -3537,22 +3537,24 @@ sbillinge:
     - type: outreach
       name: Group diversity and inclusion effort CODER (the committee on diversity
         and equity in research).
-      other: The committee currently has a mission to increase inclusivity in the
-        research group with a longer term goal of increasing the racial, ethnic and
-        gender diversity of the group.  Committee members present a discussion segment
-        on these issues to be had by the whole group every two weeks during group
-        meeting, and also lead other social efforts in the group such as group movie
-        nights and a stress-reducing intentional breathing segment during group meeting
-        every week. It is formed and led by a set of volunteers from among group members
-        with a shared interest in these issues with oversight from me.  Arguably,
-        this is an inreach rather than outreach activity, but we feel that bringing
-        meaningful change starts by addressing these issues internally first. As we
-        make progress the plan is to reach outside the group to find similar activities
-        in other research groups, departments and across the school, univesity and
-        the academy.  The results of this activity have been eye opening, bringing
-        to light the extent and ingrainedness of implicit biases while helping us
-        to recognize them without feeling bad that they are there, and underscoring
-        that the inreach before outreach approach is warranted.
+      other:
+        - The committee currently has a mission to increase inclusivity in the research
+          group with a longer term goal of increasing the racial, ethnic and gender
+          diversity of the group.  Committee members present a discussion segment
+          on these issues to be had by the whole group every two weeks during group
+          meeting, and also lead other social efforts in the group such as group movie
+          nights and a stress-reducing intentional breathing segment during group
+          meeting every week. It is formed and led by a set of volunteers from among
+          group members with a shared interest in these issues with oversight from
+          me.  Arguably, this is an inreach rather than outreach activity, but we
+          feel that bringing meaningful change starts by addressing these issues internally
+          first. As we make progress the plan is to reach outside the group to find
+          similar activities in other research groups, departments and across the
+          school, univesity and the academy.  The results of this activity have been
+          eye opening, bringing to light the extent and ingrainedness of implicit
+          biases while helping us to recognize them without feeling bad that they
+          are there, and underscoring that the inreach before outreach approach is
+          warranted.
       begin_date: 2021-06-01
     - type: profession
       name: Member of the Hanawalt Award committee of the International Center for
@@ -3753,13 +3755,14 @@ sbillinge:
       month: 6
       year: 2018
       role: co-organizer
-      other: These schools are NSF funded, take place in an East African location
-        and bring together ~35 African PhD students and 25 US-based PhD students to
-        learn research-grade materials science as well as to develop cross-cultural
-        relationships and learn to work in teams to achieve research goals.  This
-        was the third school in the series.  The first was in Addis Ababa, Ethiopia
-        in 2012, the second in Arusha, Tanzania, in 2016.  This one was in Kampala,
-        Uganda.
+      other:
+        - These schools are NSF funded, take place in an East African location and
+          bring together ~35 African PhD students and 25 US-based PhD students to
+          learn research-grade materials science as well as to develop cross-cultural
+          relationships and learn to work in teams to achieve research goals.  This
+          was the third school in the series.  The first was in Addis Ababa, Ethiopia
+          in 2012, the second in Arusha, Tanzania, in 2016.  This one was in Kampala,
+          Uganda.
     - type: profession
       name: Data Acquisition, Management and Analysis (DAMA) review panel, at NSLS-II,
         BNL
@@ -3867,11 +3870,6 @@ sbillinge:
         structure, Traverse City, MI.'
       year: 2001
       month: Aug
-    - type: profession
-      name: Chair, Neutron scattering Special Interest Group, American Crystallographic
-        Association
-      begin_date: 2001-08-01
-      end_date: 2002-08-01
     - type: profession
       name: Chair, Neutron scattering Special Interest Group, American Crystallographic
         Association
