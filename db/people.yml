@@ -158,7 +158,7 @@ aejaz:
       advisor: sbillinge
       status: undergrad
   github_id: adibaejaz
-  grp_mtg_active: false
+  grp_mtg_active: true
   name: Adiba Ejaz
   position: undergraduate research assistant
 akovyakh:
@@ -547,6 +547,10 @@ chliu:
       degree: masters research assistant in Applied Physics
   email: cl3077@columbia.edu
   employment:
+    - begin_year: 2020
+      begin_month: 4
+      position: quantitative researcher
+      organization: Neo Ivy Capital Management
     - begin_year: 2014
       begin_month: 6
       position: graduate research assistant

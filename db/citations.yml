@@ -231,7 +231,7 @@ anker;hdcc20:
   optannote: ''
   optwwwlanl: ''
   pages: ''
-  peer_rev_conf: true
+  peer_rev_conf: 'true'
   title: Characterising the atomic structure of mono-metallic nanoparticles from x-ray
     scattering data using conditional generative models
   url: https://chemrxiv.org/articles/preprint/Characterising_the_Atomic_Structure_of_Mono-Metallic_Nanoparticles_from_X-Ray_Scattering_Data_Using_Conditional_Generative_Models/12662222/1
@@ -6892,7 +6892,7 @@ liu;jac21:
   month: may
   nb: fy21, typeA
   note: advanced online publication
-  number: 3
+  number: '3'
   optannote: ''
   optwwwlanl: ''
   pages: ''
@@ -6923,7 +6923,7 @@ liu;jac21:
   title: Validation of non-negative matrix factorization for rapid assessment of large
     sets of atomic pair-distribution function (PDF) data
   url: https://doi.org/10.1107/S160057672100265X
-  volume: 54
+  volume: '54'
   wwwemail: ''
   wwwpub: ''
   year: '2021'
