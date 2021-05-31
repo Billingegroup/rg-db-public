@@ -1981,10 +1981,10 @@ jumana:
 jwilley:
   active: true
   aka: []
-  avatar: "https://github.com/jwilley44.png"
+  avatar: https://github.com/jwilley44.png
   bio: bio
   education: []
-  email: "jjw2188@columbia.edu"
+  email: jjw2188@columbia.edu
   employment:
     - begin_date: 2021-05-21
       end_date: 2021-08-31
@@ -1993,7 +1993,7 @@ jwilley:
       group: bg
       advisor: sbillinge
       status: masters
-  github_id: "jwilley44"
+  github_id: jwilley44
   grp_mtg_active: false
   name: John J. Willey
   orcid_id: ''
@@ -3389,32 +3389,13 @@ sbillinge:
       position: professor
       status: pi
       permanent: true
-    - organization: iucr
-      begin_year: 2011
-      department: aca
-      position: editor
-      coworkers:
-        - aallen
-        - aaltomare
-        - lbourgeois
-        - pdominiak
-        - jeon
-        - ugrimm
-        - dkeen
-        - wkuhs
-        - lmarks
-        - hschenk
-        - ktsuda
-        - ivartaniants
-        - pwillmott
-        - mnespolo
     - department: Condensed Matter Physics and Materials Science
       organization: Brookhaven National Laboratory
       position: physicist
       begin_year: 2008
       group: xray
       status: pi
-    - organization: Institute Laue Langevin
+    - organization: Institut Laue Langevin
       position: visiting scientist
       begin_year: 2012
       end_year: 2012
@@ -3503,7 +3484,27 @@ sbillinge:
     - year: 1992
       name: Electro-science Laboratories Award, U. Pennsylvania
   initials: SJLB
-  membership: []
+  membership:
+    - organization: Association for Computing Machinery
+      begin_year: 2015
+      begin_month: Mar
+      position: Member
+    - organization: American Physical society
+      begin_year: 1990
+      begin_month: Mar
+      position: Fellow
+    - organization: American Crystallographic Association
+      begin_year: 1991
+      begin_month: Jun
+      position: Member
+    - organization: Materials Research Society
+      begin_year: 1991
+      begin_month: Aug
+      position: Member
+    - organization: Neutron Scattering Society of America
+      begin_year: 1993
+      begin_month: May
+      position: Fellow
   name: Simon J. L. Billinge
   orcid_id: 0000-0002-9734-4998
   position: professor
@@ -3528,6 +3529,647 @@ sbillinge:
     - description: More information about my research, (p)reprints, and a complete
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
+  service:
+    - type: profession
+      name: Member of the National Academy of Sciences panel reviewing the operations
+        of the National Center for Neutron Research at NIST
+      year: 2021
+    - type: outreach
+      name: Group diversity and inclusion effort CODER (the committee on diversity
+        and equity in research).
+      other:
+        - The committee currently has a mission to increase inclusivity in the research
+          group with a longer term goal of increasing the racial, ethnic and gender
+          diversity of the group.  Committee members present a discussion segment
+          on these issues to be had by the whole group every two weeks during group
+          meeting, and also lead other social efforts in the group such as group movie
+          nights and a stress-reducing intentional breathing segment during group
+          meeting every week. It is formed and led by a set of volunteers from among
+          group members with a shared interest in these issues with oversight from
+          me.  Arguably, this is an inreach rather than outreach activity, but we
+          feel that bringing meaningful change starts by addressing these issues internally
+          first. As we make progress the plan is to reach outside the group to find
+          similar activities in other research groups, departments and across the
+          school, univesity and the academy.  The results of this activity have been
+          eye opening, bringing to light the extent and ingrainedness of implicit
+          biases while helping us to recognize them without feeling bad that they
+          are there, and underscoring that the inreach before outreach approach is
+          warranted.
+      begin_date: 2021-06-01
+    - type: profession
+      name: Member of the Hanawalt Award committee of the International Center for
+        Diffraction Data (ICDD)
+      year: 2021
+    - type: profession
+      name: Member of the Future Leaders–African Independent Research (FLAIR) panel
+        of the African Academy of Sciences panel.
+      begin_date: 2021-02-08
+      end_date: 2023-12-31
+    - type: profession
+      name: Chair of the Second Target Station Instrument Review Committee of the
+        DOE-funded Spallation Neutron Source at Oak Ridge National Laboratory.
+      notes: This committee will review and make recommendations for the initial suite
+        of 8 instruments to be built as part of the second target station construction
+        project.
+      date: 2021-08-01
+    - type: profession
+      name: Organizing committee of the meeting "Autonomous Discovery in Science and
+        Engineering.", held at Lawrence Berkeley Laboratory.
+      year: 2021
+      month: April
+    - type: profession
+      name: Reviewer for the Cyberinfrastructure for Sustained Scientific Innovation
+        solicitation (CSSI) program, NSF.
+      year: 2021
+      month: Feb
+    - type: profession
+      name: member of the scientific expert team for the Petra IV synchrotron development
+        project, DESY, Hamburg, Germany.
+      begin_year: 2021
+      begin_month: Jan
+    - type: profession
+      name: Proposal review panel for the Linear Coherent Light Source
+      year: 2020
+      month: Dec
+    - type: profession
+      name: External examiner for Masters Diploma Thesis for Mr. Sani Harouna-Mayer,
+        University of Hamburg, Germany
+      year: 2020
+      month: Nov
+    - type: profession
+      name: Chair, National Science Foundation (NSF) oversight virtual site visit
+        review team of the Center for High Energy X-ray Science (CHEXS) at the Cornell
+        High Energy X-ray Source (CHESS)
+      year: 2020
+      month: Oct
+    - type: profession
+      name: External evaluation of Anthony Phillips for promotion to Reader at Queen
+        Mary University London
+      year: 2020
+      month: July
+    - type: profession
+      name: Member of the International review committee of the Mantid neutron data
+        analysis software project
+      year: 2020
+      month: May
+    - type: profession
+      name: Co-organizer of the Chemistry, Chemical Engineering, and Materials Science
+        track of the Machine Learning in Science & Engineering conference at Columbia
+        University, New York, June 1 - 3, 2020
+      year: 2020
+      month: Jun
+    - type: profession
+      name: External Thesis examiner, Nathan Nakamura, Carnegie Mellon University
+        Department of Chemical Engineering
+      year: 2020
+      month: Apr
+    - type: profession
+      name: 'CCQ: Machine Learning Quantum Matter Data Workshop, Flatiron Institute
+        New York, NY'
+      year: 2020
+      month: Jan
+    - type: profession
+      name: NSF proposal review panel, SSMC CAREER Inorganics
+      year: 2019
+      month: Oct
+    - type: profession
+      name: 'Organizer, Microsymposium on Disordered materials: spectroscopic and
+        scattering techniques at the 25th General Assembly and Congress of the International
+        Union of Crystallography, Prague, Czech Republic, August 22-29th 2020'
+      begin_year: 2019
+      begin_month: Aug
+      end_year: 2020
+      end_month: Aug
+    - type: profession
+      name: 2021 Warren Award Committee
+      year: 2020
+      month: Jan
+    - type: profession
+      name: Proposal to organize a symposium at the 2020 American Physical Society
+        March Meeting entitled "Emergent local symmetry breaking in transition metal
+        compounds due to orbital degeneracy lifting (ODL)"
+      year: 2019
+      month: August
+    - type: profession
+      name: Review of our SNS & HFIR Data Analysis Plan
+      year: 2020
+      month: 9
+    - type: profession
+      name: Review of the Data Reduction Handling and Analysis at the instruments
+        suite at the High Flux Isotope Reactor (HFIR) and the Spallation Neutron Source
+        (SNS)" at Oak Ridge National Laboratory
+      year: 2019
+      month: July
+    - type: profession
+      name: Mentor for week-long NSF Harnessing the Data Revolution Ideas Lab workshop
+      year: 2019
+      month: May
+      description: Labs organized by NSF to put together groups of people who can
+        work together to solve big problems.
+    - type: profession
+      name: Powder Instrument Next Generation (PING) collaboration beamline advisory
+        team
+      begin_year: 2012
+      end_year: 2015
+      role: Spokesperson
+      description: For the powder diffraction and PDF beamlines that will be constructed
+        as part of the construction project for NSLS-II at Brookhaven National Laboratory
+    - type: profession
+      name: PDF beamline development team at the National Synchrotron Light Source
+        (NSLS) beam-port X17A.
+      begin_year: 2008
+      end_year: 2010
+      role: Co-leader with Lars Ehm, SUNY-Stony Brook
+      description: The development of a PDF beamline development at NSLS.
+    - type: profession
+      name: High-intensity, high-Q, high-resolution powder diffraction (H3PD) instrument
+        for the LANSCE beamline
+      begin_year: 2000
+      end_year: 2002
+      role: Co-leader with Takeshi Egami, U. Pennsylvania
+      description: to build a neutron powder diffractometer at Los Alamos for materials
+        science and the study of complex materials using Rietveld and PDF methods
+        (see NSF instrumentation grant, above). Diffractometer is now called NPDF
+        and was constructed on time and under budget. It has entered the Manuel Lujan,
+        jr., Neutron Scattering Center user program. It is currently the highest resolution
+        and highest data-rate (5-times faster than SEPD at IPNS) powder diffractometer
+        at a spallation source in the US.
+    - type: profession
+      name: Midwest Universities Collaborative Access Team (CAT)
+      begin_year: 2000
+      end_year: 2008
+      role: Member of team led by Alan Goldman, Iowa State University
+      description: Collaboration to build and operate an x-ray beamline at the Advanced
+        Photon Source at Argonne National Laboratory for local structure studies of
+        complex materials (see DOE-BES grant above).  I am lead Co-PI with Prof. Alan
+        Goldman on this project. The hutches and upstream beam transport components
+        are in place.  The optics and beam-line components are ordered and detailed
+        designs are in place. The objective is to make a beamline that is stable and
+        easy to use for high-resolution PDF studies.  Two ID beamlines and three experimental
+        stations are already built and operated by the CAT, that includes researchers
+        from 8 Universities, for surface studies under high vacuum conditions, magnetic
+        scattering and high energy diffraction
+    - type: profession
+      name: Collaboration to build a wide angle capability for the high-resolution
+        chopper spectrometer PHAROS at Los Alamos
+      begin_year: 1996
+      end_year: 1997
+      role: Member of team led by Robert Robinson, Los Alamos National Laboratory
+      description: This project was funded and the Pharos uprade has been carried
+        out at LANSCE.
+    - type: profession
+      name: Organizer of a one-day JUAMI symposium on materials for sustainable energy
+        at the 2019 African MRS meeting in Arusha, Tanzania.
+      year: 2019
+      month: 12
+    - type: profession
+      name: 'Section Editor of Journal Acta Crystallographica Section A: Advances
+        and Foundations of Crystallography'
+      begin_year: 2011
+      end_year: 2020
+    - type: profession
+      name: National Academy of Science Panel on the Review of the Center for Neutron
+        Research at the National Institute of Standards and Technology
+      year: 2018
+    - type: profession
+      name: Member of the Italian Association of Crystallography, Commission for the
+        Mammi Prize
+      year: 2019
+    - type: profession
+      name: Member of the External Advisory Board for NSF Science and Technology Center
+        (STROBE) at U. Colorado
+      begin_year: 2018
+    - type: profession
+      name: Member, Artificial intelligence task force of the Materials Research Society
+      begin_year: 2017
+    - type: profession
+      name: Member, Steering committee of the African Light Source
+      begin_year: 2015
+    - type: profession
+      name: Workshop, Local Structure from Diffraction, Traverse City, MI, July 1998.
+      begin_year: 1998
+    - type: profession
+      name: Co-organizer with Prof Sossina Haile (Northwestern) and Tom Mallouk (Penn
+        State) of the third 2-week JUAMI Materials for Sustainable Development workshop
+        in Kampala, Uganda
+      month: 6
+      year: 2018
+      role: co-organizer
+      other:
+        - These schools are NSF funded, take place in an East African location and
+          bring together ~35 African PhD students and 25 US-based PhD students to
+          learn research-grade materials science as well as to develop cross-cultural
+          relationships and learn to work in teams to achieve research goals.  This
+          was the third school in the series.  The first was in Addis Ababa, Ethiopia
+          in 2012, the second in Arusha, Tanzania, in 2016.  This one was in Kampala,
+          Uganda.
+    - type: profession
+      name: Data Acquisition, Management and Analysis (DAMA) review panel, at NSLS-II,
+        BNL
+      year: 2017
+      month: Mar
+    - type: profession
+      name: Review panel for CHRNS at the NCNR at NIST
+      year: 2017
+      month: Apr
+    - type: profession
+      name: Chair, Materials Special Interest Group of the American Crystallographic
+        Association
+      year: 2015
+    - type: profession
+      name: Lead of the crosscutting panel on In situ characterization at the DOE-BES
+        workshop on Basic Research Needs for Synthesis Science for Energy Relevant
+        Technology, May 2-4, 2016
+      year: 2016
+      month: May
+    - type: profession
+      name: Chair, XPD beamline project Beamline Advisory Team (BAT), National Synchrotron
+        Light Source II, Brookhaven National Laboratory
+      begin_year: 2008
+      end_year: 2014
+    - type: profession
+      name: 'Chair Advanced Analysis of X-Ray and Neutron Scattering Data: Getting
+        from data to science Workshop, Brookhaven National Laboratory'
+      year: 2013
+      month: July
+    - type: profession
+      name: Chair, microsymposium on total pattern fitting, Accuracy in Powder Diffraction
+        Conference, NIST
+      year: 2013
+    - type: profession
+      name: Chair of the J.D. Hanawalt Prize selection committee of the ICDD
+      year: 2013
+    - type: profession
+      name: Chair of the Joint US/Africa Materials Initiative Materials Research School,
+        Addis Ababa, Ethiopia
+      year: 2012
+      month: Dec
+    - type: profession
+      name: Co-Chair of ZING 2012 Nanoscience Conference, Lanzarotte
+      year: 2012
+      month: Feb
+    - type: profession
+      name: Chair of the symposium Amorphous, Activated and Nanomaterials at the 10th
+        Annual Pharmaceutical Powder X-ray Diffraction Symposium (PPXRD), Lyon, France
+      year: 2011
+      month: May
+    - type: profession
+      name: Chair of the microsymposium SAXS/SANS, total scattering and the nanostructure
+        problem at the  XXII congress of  the International Union of Crystallography
+        (IUCr), Madrid, Spain
+      year: 2011
+    - type: profession
+      name: Co-Chair, 2011 NSLS/CFN Joint Users' Meeting, Brookhaven National Laboratory
+      year: 2011
+      month: May
+    - type: profession
+      name: Conference Chair of the American Conference on Neutron Scattering, Ottawa
+      year: 2010
+    - type: profession
+      name: Co-Chair of the Chair of the NSF-DMR committee to Review the Center for
+        High Resolution Neutron Scattering (CHRNS) at NIST, Gaithersburg, MD
+      year: 2010
+      month: Oct
+    - type: profession
+      name: Chair of the Chair of the NSF-DMR committee to Review the Center for High
+        Resolution Neutron Scattering (CHRNS) at NIST, Gaithersburg, MD
+      year: 2009
+      month: Sep
+    - type: profession
+      name: Conference Chair of the International  Conference on Neutron Scattering,
+        Knoxville, NM
+      year: 2009
+      month: May
+    - type: profession
+      name: Conference Chair of the American Conference on Neutron Scattering, Santa
+        Fe, NM
+      year: 2008
+      month: May
+    - type: profession
+      name: Member, NSF-DMR steering committee on Cyber-Infrastructure for the Materials
+        Sciences
+      begin_year: 2005
+      end_year: 2007
+    - type: profession
+      name: Conference chair, American Conference on Neutron Scattering, Chicago,
+        IL
+      year: 2006
+      month: Jun
+    - type: profession
+      name: Workshop participant, Cyber Infrastructure for Materials Science, NSF
+        supported workshop to identify CI needs for the materials science community,
+        Washington DC
+      year: 2006
+      month: May
+    - type: profession
+      name: Conference organizer, Local Structure from Diffraction, Traverse City,
+        MI, July 1998.
+      year: 1998
+    - type: profession
+      name: 'Conference organizer, From Semiconductors to Proteins: beyond the average
+        structure, Traverse City, MI.'
+      year: 2001
+      month: Aug
+    - type: profession
+      name: Chair, Neutron scattering Special Interest Group, American Crystallographic
+        Association
+      begin_date: 2001-08-01
+      end_date: 2002-08-01
+    - type: profession
+      name: Italian Association of Crystallography commission for the Mammi Prize
+      year: 2019
+      role: Member
+    - type: profession
+      name: External Advisory Board for NSF Science and Technology Center (STROBE)
+        at U. Colorado
+      begin_year: 2018
+      role: Member
+    - type: profession
+      name: Artificial intelligence task force of the Materials Research Society
+      begin_year: 2017
+      role: Member
+    - type: profession
+      name: 'Journal Acta Crystallographica Section A: Foundations of Crystallography'
+      begin_year: 2011
+      role: Editor
+    - type: profession
+      name: Steering committee of the African Light Source
+      begin_year: 2015
+      role: Member
+    - type: profession
+      name: NSLS and NSLS-II user’s executive committee
+      begin_year: 2010
+      end_year: 2012
+      role: Vice president
+    - type: profession
+      name: Executive Committee of the International Commission on Powder Diffraction
+        of the Union of Crystallography
+      begin_year: 2005
+      end_year: 2010
+      role: Member
+    - type: profession
+      name: Neutron Scattering Society of America
+      begin_year: 2005
+      end_year: 2010
+      role: Vice President
+    - type: profession
+      name: Executive committee of the Neutron Scattering Society of America
+      begin_year: 2003
+      end_year: 2005
+      role: Secretary
+    - type: profession
+      name: Executive Committee of the Advanced Photon Source Users Organization
+      begin_year: 2005
+      end_year: 2007
+      role: Member
+    - type: profession
+      name: 'Symposium Electronic Oxides: Properties and Applications, CFMR spring
+        symposium , Michigan State University'
+      year: 1997
+      role: Organizer
+    - type: profession
+      name: Continuing Education Committee of the American Crystallographic Association
+      begin_year: 2003
+      end_year: 2007
+      role: Member
+    - type: profession
+      name: Joint US/Africa Materials Initiative Materials Research School, Arusha,
+        Tanzania
+      begin_date: 2016-05-29
+      end_date: 2016-06-12
+      role: Co-Organizer
+    - type: profession
+      name: Symposium ``Powder Pair Distribution Function and Pharmaceuticals” at
+        ACA annual meeting, Philadelphia
+      year: 2015
+      month: July
+      role: Co-Organizer
+    - type: profession
+      name: JUAMI symposium at the African-MRS, Addis Ababa, Ethiopia
+      date: 2013-12-10
+      role: Co-Organizer
+    - type: profession
+      name: Joint US/Africa Materials Initiative Materials Research School, Addis
+        Ababa, Ethiopia
+      begin_date: 2012-12-17
+      end_date: 2012-12-22
+      role: Co-Organizer
+    - type: profession
+      name: Symposium “Nanoscale Materials Diffraction” at the NSLS/CFN users meeting,
+        Brookhaven National Laboratory
+      date: 2010-05-24
+      role: Co-Organizer
+    - type: profession
+      name: 'Workshop Beyond crystallography: Structure of nanostructured materials,
+        Tempe, AZ'
+      begin_date: 2008-05-17
+      end_date: 2008-05-21
+      role: Co-Organizer
+    - type: profession
+      name: National Academy of Sciences Panel on the Review of the Center for Neutron
+        Research at the National Institute of Standards and Technology
+      year: 2018
+      role: Reviewer
+    - type: profession
+      name: DISCOVER instrument advisory committee, Spallation Neutron Source, Oak
+        Ridge National Laboratory
+      begin_year: 2017
+      role: Advisory Committee Member
+    - type: profession
+      name: Committee to review NSF funded CHRNS program at NIST neutron reactor
+      year: 2017
+      month: Apr
+      role: Reviewer
+    - type: profession
+      name: Data Acquisition, Management and Analysis (DAMA) group at NSLS-II
+      year: 2017
+      month: March
+      role: Chair of the review committee
+    - type: profession
+      name: Powder Diffraction Beamline Review Panel, Spallation Neutron Source, Oak
+        Ridge National Laboratory
+      year: 2016
+      month: Aug
+      role: Reviewer
+    - type: profession
+      name: DOE-BES Basic Research Needs Workshop, Rockville MD
+      year: 2016
+      role: Panel Lead
+    - type: profession
+      name: Advisory Committee, MICCoM (http://miccom-center.org/), computational
+        materials science center Argonne National Laboratory
+      begin_year: 2016
+      role: Reviewer
+    - type: profession
+      name: Triannual Review of Photon Sciences Division at Oak Ridge National Laboratory
+      year: 2015
+      role: Reviewer
+    - type: profession
+      name: Review Panel for the ANL Director’s Grand Challenge in “Big Data”
+      year: 2013
+      role: Reviewer
+    - type: profession
+      name: User Working Group, XPDF beamline construction project, Diamond Light
+        Source, UK
+      begin_year: 2013
+      end_year: 2016
+      role: Reviewer
+    - type: profession
+      name: Advisory board member of the Materials Research Institute, Queen Mary’s
+        College, London
+      year: 2013
+      role: Advisory Board Member
+    - type: profession
+      name: NSF Focus group for Science and Engineering Gateways
+      begin_year: 2013
+      end_year: 2008
+      role: Advisory Committee Member
+    - type: profession
+      name: Program committee of the International Conference on Neutron Scattering,
+        Edinburgh
+      year: 2013
+      role: Committee member
+    - type: profession
+      name: International Advisory Committee, International Conference on Communication,
+        Computational skills and Nanotechnology,  Swami Ramanand Teerth Marathwada
+        University, Nanded, Maharashtra State,  India
+      year: 2011
+      month: Jan
+      role: Reviewer
+    - type: profession
+      name: Visiting Committee, Energy Recovery Linac Project, Cornell University
+      begin_year: 2010
+      end_year: 2012
+      role: Advisory Committee Member
+    - type: profession
+      name: Advisory Committee for the Expansion Initiative of the NIST Center for
+        Neutron Research (NCNR), NIST
+      begin_year: 2010
+      end_year: 2011
+      role: Advisory Committee member
+    - type: profession
+      name: DOE-BES review committee of  Neutron Scattering Science Division at Oak
+        Ridge National Laboratory
+      begin_year: 2010
+      end_year: 2012
+      role: Reviewer
+    - type: profession
+      name: DOEANL Heavy Element Separation Site Review, Argonne, IL
+      year: 2009
+      month: Nov
+      role: Reviewer
+    - type: profession
+      name: NSF-DMR review of the Center for High Resolution Neutron Scattering (CHRNS)
+        at NIST
+      year: 2009
+      month: Sep
+      role: Reviewer
+    - type: profession
+      name: DOE-BES review committee of Neutron scattering at Oak Ridge National Laboratory
+      year: 2009
+      role: Reviewer
+    - type: profession
+      name: NSF steering committee on Cyber-Infrastructure for the materials sciences
+      begin_year: 2005
+      end_year: 2007
+      role: Reviewer
+    - type: profession
+      name: NSLS beamline review committee (with Eric Isaacs (chair), and J.D. Jorgensen)
+      begin_year: 2004
+      role: Reviewer
+    - type: profession
+      name: NSF-MRI-IMR review panel
+      year: 2004
+      role: Reviewer
+    - type: profession
+      name: NSF-CHRNS program review committee
+      year: 2004
+      role: Reviewer
+    - type: profession
+      name: NSLS beamtime proposal review panel
+      begin_year: 2002
+      end_year: 2007
+      role: Reviewer
+    - type: profession
+      name: ISIS facility access panel
+      begin_year: 2005
+      end_year: 2008
+      role: Reviewer
+    - type: profession
+      name: Workshop on PDF on the nanoscale, ESRF, Grenoble, France
+      begin_date: 1999-08-04
+      end_date: 1999-08-13
+      role: Co-Organizer
+    - type: profession
+      name: Symposium, `Under the Bonnet' Powder Diffraction Software Workshop, European
+        Powder Diffraction Conference, Geneva, Switzerland
+      begin_date: 2006-09-01
+      end_date: 2006-09-04
+      role: Co-Organizer
+    - type: profession
+      name: Conference, ``Structure of Nanocrystals”, Tempe, AZ
+      begin_date: 2004-12-05
+      end_date: 2004-12-08
+      role: Co-Organizer
+    - type: profession
+      name: Workshop, "Local Atomic Structure Using Neutron Pair Distribution Function
+        (PDF) Analysis" at the American Conference on Neutron Scattering”, College
+        Park, MD
+      begin_date: 2004-06-06
+      end_date: 2004-06-10
+      role: Co-Organizer
+    - type: profession
+      name: Symposium, “B. E. Warren Award Symposium” at the 2003 annual meeting of
+        the American Crystallographic Association, Cincinnati
+      year: 2003
+      month: Jul
+      role: Co-Organizer
+    - type: profession
+      name: Workshop, ``Real-space Pair Distribution Function Methods" at the meeting
+        ``Neutrons In solid state Chemistry and the Earth Sciences Today and tomorrow
+        (NICEST)”, Oak Ridge, TN
+      year: 2003
+      month: Mar
+      role: Co-Organizer
+    - type: profession
+      name: Symposia, ``Impact of Scattering on Nanoscience and Nanotechnology” and
+        ``From Structures to Materials Science”, at the annual meeting of the American
+        Crystallographic Association, San Antonio, TX
+      year: 2002
+      month: May
+      role: Co-Organizer
+    - type: profession
+      name: Workshop, Real-space Pair Distribution Function Methods, at the annual
+        meeting of the American Crystallographic Association 2001, Los Angeles
+      begin_date: 2001-07-21
+      end_date: 2001-07-26
+      role: Co-Organizer
+    - type: profession
+      name: Symposium, “Microstructure and Texture of Real Materials", at the XVIIIth
+        International Union of Crystrystallography congress and General Assembly,
+        Glasgow, Scotland
+      begin_date: 1999-08-04
+      end_date: 1999-08-13
+      role: Co-Organizer
+    - type: outreach
+      name: Developed online peer-instruction platform for use in flipped classrooms
+      year: 2014
+    - type: outreach
+      name: Developed online research portal for JUAMI researchers
+      year: 2013
+    - type: outreach
+      name: Co-Organizer of a series of East African Materials Science Schools, JUAMI
+      begin_year: 2012
+    - type: outreach
+      name: Science Advisory Committee to the NSF funded PROMSE project to improve
+        math and science eduction in the K-12 sector
+      begin_year: 2003
+      end_year: 2010
+    - type: outreach
+      name: Curriculum development for an AP course in nanotechnology at Everett High
+        school in Lansing, MI
+      begin_year: 2006
+      end_year: 2007
   skills: []
   title: Prof.
 sdisch:
