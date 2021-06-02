@@ -20,14 +20,20 @@ JUAMI:
       begin_year: 2019
     - position: PI
       name: sbillinge
-      begin_year: 2019
+      begin_year: 2010
     - position: Developer
       name: wzyuan
       begin_year: 2019
   website: http://juami.org
 coder:
   active: true
-  description: ''
+  description: CODER, the committee on diversity and equity in research, is a Billinge
+    group initiative.  The committee currently has a mission to increase inclusivity
+    in the research group with a longer term goal of increasing the racial, ethnic
+    and gender diversity of the group.  Committee members present a discussion segment
+    on these issues to be had by the whole group every two weeks during group meeting,
+    and also lead other social efforts in the group such as group movie nights and
+    a stress-reducing intentional breathing segment during group meeting every week.
   group: bg
   highlights:
     - year: 2020
@@ -43,7 +49,7 @@ coder:
   name: Committee on diversity and equity in research (CODER)
   team:
     - name: sbillinge
-      position: co-pi
+      position: Mentor
       begin_year: 2021
     - name: sskjaervoe
       position: postdoc
@@ -75,7 +81,7 @@ diffpy:
   name: Diffpy
   team:
     - name: sbillinge
-      position: mentor
+      position: Mentor and developer
       begin_year: 2005
     - name: pjuhas
       position: lead developer
@@ -87,7 +93,7 @@ diffpy:
       begin_year: 2018
       position: developer
   type: ossoftware
-  website: https://github.com/xpdAcq/SHED
+  website: https://github.com/diffpy
 dmref15:
   active: true
   description: Advancing applied mathematics and computational approaches to the study
@@ -121,11 +127,11 @@ dmref15:
       description: Discovered a novel approach to model metallic nanoparticle structures
         by building discrete models algoritmically for databases. published in Acta
         Crystallographica A.
-  name: 'DMREF center: Using data analytics to regularize the nanostructure inverse
-    problem'
+  name: Using data analytics to regularize the nanostructure inverse problem, and
+    NSF funded DMREF center
   team:
     - name: sbillinge
-      position: pi
+      position: PI
       begin_year: 2015
     - name: qdu
       position: co-pi
@@ -181,10 +187,11 @@ dmref19:
     - year: 2019
       month: 6
       description: Received funding
-  name: Searching for novel polymorphous network materials among d-electron metals
+  name: Searching for novel polymorphous network materials among d-electron metals,
+    an NSF funded DMREF center.
   team:
     - name: sbillinge
-      position: pi
+      position: PI
       begin_year: 2019
     - name: qdu
       position: co-pi
@@ -206,10 +213,11 @@ dmrefcheme16:
       month: 9
       description: developed a novel method, sasPDF, to study the arrangement of nanoparticles
         in superlattice assemblies
-  name: Better gas separation membranes from nanoparticle polymer composites
+  name: Better gas separation membranes from nanoparticle polymer composites, an NSF
+    funded DMREF center
   team:
     - name: sbillinge
-      position: co-pi
+      position: Co-PI
       begin_year: 2017
     - name: skumar
       position: pi
@@ -275,7 +283,7 @@ efrc18:
     on Next Generation Chemical Synthesis
   team:
     - name: sbillinge
-      position: co-pi
+      position: Co-PI
       begin_year: 2018
     - name: yrakita
       position: postdoc
@@ -338,8 +346,8 @@ fwp17:
     complex transition metal systems'
   team:
     - name: sbillinge
-      position: pi
-      begin_year: 2017
+      position: PI
+      begin_year: 2008
     - name: ebozin
       position: co-pi
       begin_year: 2017
@@ -348,6 +356,7 @@ fwp17:
       begin_year: 2018
   type: funded
 mrsec14:
+  active: false
   description: Study of nanoparticle assemblies and superatom systems
   grant: mrsec14
   group: bg
@@ -398,7 +407,7 @@ pytentiostat:
   repo: https://github.com/juami/pytentiostat
   team:
     - name: sbillinge
-      position: mentor
+      position: Mentor
       begin_year: 2016
     - name: mspence
       position: developer
