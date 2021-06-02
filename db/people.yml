@@ -1985,9 +1985,27 @@ jumana:
 jwilley:
   active: true
   aka: []
-  avatar: https://github.com/jwilley44.png
-  bio: bio
-  education: []
+  avatar: https://en.gravatar.com/userimage/47018931/e47a250619adbfe7d9857ce3d628b837.jpg
+  bio: John Willey is currently pursuing a master's degree in applied physics. He has 
+    been a data scientist and software engineer in biotech since 2008. His research interests
+    include solid state physics, quantum computing, and quantum optics. Outside of physics he 
+    enjoys spending time with his wife, daughter, and dog.
+  education:
+    - institution: Columbia University
+      begin_year: 2019
+      location: New York, NY
+      department: Applied Physics
+      degree: MS in Applied Physics
+    - institution: University of California Santa Cruz
+      degree: BS in Physics
+      begin_year: 2005
+      end_year: 2008
+      location: Santa Cruz, California
+    - institution: University of California Santa Cruz
+      degree: BA in Mathematics
+      begin_year: 2005
+      end_year: 2008
+      location: Santa Cruz, California 
   email: jjw2188@columbia.edu
   employment:
     - begin_date: 2021-05-21
@@ -1997,10 +2015,17 @@ jwilley:
       group: bg
       advisor: sbillinge
       status: masters
+    - begin_date: 2019-09-16
+      organization: Valo Health
+      position: Staff Data Scientist
+    - begin_date: 2008-10-01
+      end_date: 2019-09-15
+      position: Senior Data Scientist
+      organization: Numerate Inc.
   github_id: jwilley44
   grp_mtg_active: false
   name: John J. Willey
-  orcid_id: ''
+  orcid_id: 0000-0003-1572-0249
   position: masters researcher
 jwzang:
   active: false
