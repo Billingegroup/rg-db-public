@@ -2878,6 +2878,26 @@ pjuhas:
       status: postdoc
   name: Pavol Juhas
   position: programmer
+pliu:
+  active: true
+  aka: []
+  avatar: "https://github.com/\x16PeterCheaterPumpkinEater.png"
+  bio: bio
+  education: []
+  email: "pl2781@columbia.edu"
+  employment:
+    - begin_date: 2021-06-09
+      end_date: 2021-08-31
+      organization: columbiau
+      position: masters researcher
+      group: bg
+      advisor: sbillinge
+      status: masters
+  github_id: PeterCheaterPumpkinEater
+  grp_mtg_active: true
+  name: Peter Liu
+  orcid_id: ''
+  position: masters researcher
 pnehra:
   active: true
   aka: []
