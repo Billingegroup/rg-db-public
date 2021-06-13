@@ -2881,9 +2881,20 @@ pjuhas:
 pliu:
   active: true
   aka: []
-  avatar: "https://github.com/\x16PeterCheaterPumpkinEater.png"
-  bio: bio
-  education: []
+  avatar: https://github.com/PeterCheaterPumpkinEater.png
+  bio: Peter was born in New York, and grew up in suburban New Jersey. He completed his Bachelor's  Degree at NYU
+    Tandon School of Engineering, majoring in Applied Physics with a minor in Computer Science
+    and a minor in Nuclear Engineering. He is currently pursuing his M.S. degree at Columbia SEAS, majoring in Applied
+    Physics. He likes to play the guitar in his spare time.
+  education:
+    - degree: MS in Applied Physics
+      institution: Columbia University
+      end_year: 2021
+      begin_year: 2020
+    - degree: BS in Applied Physics
+      institution: New York University
+      end_year: 2019
+      begin_year: 2016
   email: pl2781@columbia.edu
   employment:
     - begin_date: 2021-06-09
