@@ -6072,25 +6072,55 @@ koch;arxiv20:
     - H. D. Zhou
     - W.-G. Yin
     - E. S. Bozin
-  doi: ''
+  doi: 10.1103/PhysRevLett.126.186402
   entrytype: article
-  facility: nomad, sns
-  grant: fwp17, ornlgo17, nslsii, pdf
-  journal: arXiv
-  month: tbd
-  nb: art
-  note: 2009.14288 [cond-mat.str-el]
+  facility: nomad, sns, nslsii, pdf
+  grant: fwp20
+  journal: Phys. Rev. Lett.
+  month: may
+  nb: art, typeA, fy21
+  optnote: 2009.14288 [cond-mat.str-el]
   notes: ''
   number: ''
   optannote: ''
   optwwwlanl: ''
-  pages: ''
+  pages: '186402'
+  publicity: BNL web feature article
+  source_url: https://gitlab.thebillingegroup.com/papers/19rk_pyroxene
+  synopsis: We have recently been investigating the behavior or quantum
+    materials at high temperature.  Since interesting states emerge in these
+    materials at low temperature, it may be puzzling why this is of value.  However,
+    what we are finding is that precursors to local broken symmetries are often
+    present in some ghostly and difficult to detect form in the local structure
+    at high temperature and this gives critical insights into the behavior
+    that emerges at low temperature.  In this study, published in Phys. Rev. Lett.,
+    we find this behavior in a transition-metal-silicate material called a
+    pyroxene.  What is particularly novel is that the state, called and ODL or
+    orbital degeneracy lifted, state involves multiple quantum orbitals to form
+    and results in a large but stable object in the structure that looks a bit
+    like a molecule.
+  professional_summary: This paper reports the discovery of a local fluctuating
+    orbital-degeneracy lifted (ODL) precursor state above the orbital-selective
+    Peierls transition in NaTiSi2O6 Mott insulator. Significance and Impact
+    Orbital-selective transitions in quantum materials are intriguing,
+    important, and not fully understood. The discovery of a local symmetry
+    broken precursor above the transition in NaTiSi2O6, and its interpretation
+    as a novel dual-orbital ODL state, yields new insights into orbital-selective
+    phenomena, showing that the ODL precursors materialize deep in the Mott
+    insulating regime where charge fluctuations are suppressed.\n
+    Joint x-ray and neutron pair distribution function (PDF) analysis is
+    applied to track the local atomic structure across the orbital-selective
+    Peierls transition in NaTiSi2O6. Local symmetry breaking is observed up to
+    490 K, the highest temperature accessed in this study.
+    Spin dimers disappear at the transition, but local weaker Ti-Ti pairing is seen
+    that breaks the t2g orbital degeneracy even at high T.
+    A novel dual-orbital local fluctuating ODL precursor state is needed to explain the behavior.
   title: Dual Orbital Degeneracy Lifting in a Strongly Correlated Electron System
-  url: ''
-  volume: ''
+  url: http://www.doi.org/10.1103/PhysRevLett.126.186402
+  volume: '126'
   wwwemail: ''
   wwwpub: ''
-  year: '2020'
+  year: '2021'
 koch;prb19:
   ackno: This work was supported by US Department of Energy, Office of Science, Office
     of Basic Energy Sciences (DOE-BES) under Contract No. DE-SC0012704. X-ray PDF
