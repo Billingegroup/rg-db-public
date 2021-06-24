@@ -2936,7 +2936,7 @@ pnehra:
       advisor: sbillinge
       status: undergrad
   github_id: priyankaanehra
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Priyanka Nehra
   orcid_id: ''
   position: undergraduate researcher
@@ -3335,6 +3335,7 @@ sbillinge:
     - Simon J. L. Billinge
     - S. J. L. Billinge
     - Billinge, Simon J. L.
+    - Billinge, Simon JL
     - Billinge, S. J. L.
     - Billinge, Simon
     - Billinge, S.
