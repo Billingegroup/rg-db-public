@@ -2569,3 +2569,236 @@
   title: Challenges for US-Africa international collaboration involving computing
   type: invited
   webinar: true
+2106sb_universityofminnesotacenterforquantummaterials:
+  abstract: Modern materials under study for next generation technologies, such as
+    for energy conversion and storage,   environmental remediation and health, are
+    highly complex, often heterogeneous and nano structured.  A full understanding
+    of the structure requires us to go beyond crystallography and to study the local
+    structure, which is a major experimental challenge. There are recently emerging
+    powerful experimental developments, for example, using the atomic pair distribution
+    function technique (PDF), among others.  In this talk I will focus on  bulk materials
+    that have distorted local structures, a potentially large class of materials where,
+    nonetheless this property has been largely overlooked.  In particular, I will
+    focus on materials where atomic or bonding orbitals are electronically active,
+    driving the local atomic distortions. I will describe a new language we are developing
+    for classifying these materials, and new modeling tools that are under development
+    to reveal the local structures.  I will also mention areas that need addressing
+    in this endeavor.
+  authors:
+    - sbillinge
+  begin_date: 2021-06-09
+  end_date: 2021-06-10
+  location: University of Minnesota Center for Quantum Materials
+  meeting_name: 'Quantum Materials: New Insights from Neutron Scattering'
+  notes:
+    - It would be great if your talk were to cover both an overview of technique/analysis
+      development and results for a number of bulk materials systems. We are aiming
+      for 20-minute presentations + 10 minutes for Q&A.
+  project:
+    - all
+  status: accepted
+  title: 'When hard materials act soft: Local symmetry breaking in quantum materials,
+    how to find it, and why you should care about it'
+  type: invited
+  webinar: true
+2108Lu_prague,czechrepublic:
+  abstract: tbd
+  authors:
+    - Lucas B. M. Pinheiro
+    - Elizabeth Culbertson
+    - Gabriel L. B. de Araujo
+    - Simon J. L. Billinge
+    - Fabio Furlan Ferreira
+  begin_date: 2021-08-14
+  end_date: 2021-08-22
+  location: Prague, Czech Republic
+  meeting_name: IUCr quadrennial Congress
+  project:
+    - all
+  status: accepted
+  title: Effect of grinding procedures on the ritonavir-lopinavir system
+  type: contributed_oral
+  webinar: true
+2108Ye_prague,czechrepublic:
+  abstract: In recent years, Electron Diffraction, and especially the 4D-STEM [2]
+    is growingly becoming a routine part of structural characterizations of materials
+    at the nano-scale. Its un-matched spatial resolution (down to sub-nm) enables
+    the exploration of local variations within a sample, which alternatively is averaged
+    over the entire irradiated sampled area, when explored, for example, by x-rays.
+    As often shown in electron microscope, samples are often heterogeneous, and consequently
+    their local properties, which then reflect on the average behavior of the material,
+    composite, or device. Besides morphology and composition, the local structural
+    order can vary, especially in evolving systems. In this study, we explore how
+    far we can take electron diffraction when the interest is in the evolution of
+    materials. We challenge ourselves with mapping the local structure in a composite
+    of crystalline Ni and amorphous Zr-Cu-Ni-Al Bulk Metallic Glass (BMG) that was
+    fused into a composite via hot-rolling [2]. Using a fast camera looking through
+    the fluorescence screen, we captured diffraction patterns in a 4D-STEM modality,
+    where we captured diffraction patterns coupled with beam precession with 3 nm
+    step size in a Ni/BMG/Ni cross-section sample that was cut from the composite
+    - in total 131x289 diffraction patterns. Using the collected diffraction patterns
+    and tailoring automated data reduction and analysis pipelines, such as auto-masking,
+    azimuthal-integration, Fourier-transformation to get the electron Pair Distribution
+    Function (ePDF) and various fittings of the PDF, we were efficiently deriving
+    a large set of physically meaningful scalars, which we generalize as Quantities
+    of Interest, or QoI of a scanning nano-structure electron microscopy (SNEM). Using
+    different QoI's (see Figure)- those derived directly form the images, such as
+    virtual-dark-field and mostly from ePDF's, we could map out most clearly Ni/BMG
+    boundaries, visualize inter-diffusion between Ni and BMG, extract regions of formed
+    nano-crystals within the BMG, follow compositional changes via the average bond-distance
+    (verified with EELS from the same area) and extract the distribution of atomic
+    pairs. We were also able to map the deviation of each pixel within the BMG from
+    an expected structural model, which exposed the BMG/Ni inter-diffusion front.
+    Finally, we could estimate the effective local structure of the nano-crystalline
+    inclusions within the BMG as FCC structures. Using an assembly of these results
+    we could learn that nano-crystalline inclusions within the BMG are located in
+    regions where Cu is deficient and Zr is in excess. Most importantly, we learn
+    the origin of success in forming the Ni/BMG composite via hot-rolling, which is
+    nonetheless, a challenging goal. Hot rolling is found to be a challenging process
+    due to the excessive formation of nano-crystallites at the Ni/BMG interface. Here,
+    however, the assembly of SNEM results suggested that the metallic Ni amorphized
+    instead of the BMG--Ni crystallize at the BMG/Ni interface. These results emphasize
+    the richness SNEM experiments hide, and with the assistance of automated (and
+    in the future - autonomated) pipelines can expose the story of evolving systems.
+  authors:
+    - Yevgeny Rakita
+    - James L. Hart
+    - Partha Das
+    - Stavros Nicolopoulos
+    - Mitra Taheri
+    - Simon J. L. Billinge
+  begin_date: 2021-08-14
+  end_date: 2021-08-22
+  location: Prague, Czech Republic
+  meeting_name: IUCr quadrennial Congress
+  project:
+    - all
+  status: accepted
+  title: Scanning Nano-Structure Electron Microscopy - Hidden Potential for Evolving
+    Systems
+  type: contributed_oral
+  webinar: true
+2108sb_universityofcopenhagen,copenhagen,denmark:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2021-08-30
+  end_date: 2021-09-03
+  location: University of Copenhagen, Copenhagen, Denmark
+  meeting_name: Workshop on Data Science and Machine Learning in Chemistry
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: invited
+2109sb_grenada,spain:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2021-09-20
+  end_date: 2021-09-24
+  location: Grenada, Spain
+  meeting_name: ToscaLand total scattering workshop
+  project:
+    - all
+  status: accepted
+  title: PDF analysis
+  type: invited
+2111st_mrs,ma,usa:
+  abstract: Metal oxide nanoparticles have a number of important technological applications
+    in electronic devices. In particular, titanium(IV) oxide nanoparticles have potential
+    applications in lithium ion batteries. A particular synthesis challenge with titanium(IV)
+    oxide nanoparticles is that it has multiple possible structural phases. Differentiating
+    between the various phases is particularly challenging when they are nanoparticles
+    and it is crucial to be able to identify the structural phases of synthesized
+    nanoparticles. Beyond knowing the phase distribution in the sample, it is also
+    important to study crystallite sizes and shapes, as well as the presence of common
+    defects, since these factors have an important impact on the functionalities.
+    X-ray atomic pair distribution function (PDF) analysis is an important and powerful
+    tool to use for this purpose because it reveals the local structure on nanometer
+    length-scales, revealing quantitative information about the structural phase,
+    particle morphology and defects in nanoparticulate materials, which is beyond
+    the capability of traditional x-ray diffraction methods when the nanoparticles
+    are small (< 10nm in diameter). One of the common methods for studying nanoparticles
+    using PDF analysis is to use attenuated crystal model (ACM) to test candidate
+    structures and extract quantitative information about them. Given the growing
+    importance of the PDF approach in nano-materials science and chemistry, we feel
+    that it is helpful to the community to discuss the approach in a pedagogical way.
+    Here we address a gap in the literature and present a detailed workflow for applying
+    ACM in a robust and accurate way, using titanium(IV) oxide nanoparticles as an
+    example. Using this approach we find that the nanoparticles contain the bronze
+    phase as the major phase and the anatase phase as the minor phase, obtain the
+    structural parameters of both phases, and that the particle sizes of the major
+    phase are probably following a lognormal distribution. This work was supported
+    by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences
+    (DOE-BES) under contract No. DE-SC0012704.
+  authors:
+    - Songsheng Tao
+    - Jonas Billet
+    - Jonathan De Roo
+    - Simon J. L. Billinge
+  begin_date: 2021-11-28
+  end_date: 2021-12-03
+  location: Boston, MA, USA
+  meeting_name: 2021 MRS Fall Meeting & Exhibit
+  project:
+    - fwp20
+  status: submitted
+  title: Phase analysis of titanium oxide nanoparticles by the application of attenuated
+    crystal models on x-ray pair distribution functions
+  type: contributed_oral
+2112Da_charlotte,nc,usa:
+  abstract: A chemically complex matrix with the potential for chemical ordering distinguishes
+    multi-principal element alloys (MPEAs) from conventional alloys. As this pertains
+    to mechanical behavior, a nominally disordered matrix presents a non-uniform energetic
+    landscape for dislocation motion which can be modulated by varying degrees of
+    ordering. Such energetics can lead to the development of microstructural features
+    such as dislocation cells, twins, microbands, and martensite, the evolution of
+    which are important in both in-service plastic response and the potential for
+    tunable deformation processing. The present work investigates the effect of chemical
+    short-range order (SRO) in FCC CoCrNi and BCC NbTiZr alloys on microstructural
+    evolution due to high strain rate compression. Samples of each alloy were heat
+    treated to induce different degrees of SRO and dynamically compressed via Kolsky
+    (split-Hopkinson pressure) bar. Electron microscopy diffraction-based techniques
+    are used to both measure the degree of chemical ordering as well as characterize
+    the deformation substructure.
+  authors:
+    - Daniel Foley
+    - David Beaudry
+    - Elaf Anber
+    - Yevgeny Rakita
+    - Partha Das
+    - Simon Billinge
+    - Andrew Matejunas
+    - Carolina Frey
+    - Leslie Lamberson
+    - Tresa Pollock
+    - Irene Beyerlein
+    - Garritt Tucker
+    - Chris Weinberger
+    - Mitra Taheri
+  begin_date: 2021-12-05
+  end_date: 2021-12-08
+  location: Charlotte, NC, USA
+  meeting_name: 2nd World Congress on High Entropy Alloys (HEA 2021)
+  project:
+    - all
+  status: submitted
+  title: Electron diffraction-based analysis of the role of chemical short-range order
+    on the dynamic deformation response of FCC and BCC multi-principal element alloys
+  type: contributed_oral
+2111sb_heldvirtually:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2021-11-15
+  end_date: 2021-11-19
+  location: Held Virtually
+  meeting_name: 'The Third African Synchrotron Light Source Conference (AfLS3) : towards
+    a brighter future'
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: invited
+  webinar: true
