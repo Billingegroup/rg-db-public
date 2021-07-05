@@ -3593,6 +3593,11 @@ sbillinge:
       begin_year: 1987
   service:
     - type: profession
+      name: Member of the Neutron Advisory Board (NAB) to the Neutron Sciences Directorate
+        (NScD) or Oak Ridge National Laboratory
+      begin_year: 2021
+      end_year: 2024
+    - type: profession
       name: Member of the National Academy of Sciences panel reviewing the operations
         of the National Center for Neutron Research at NIST
       year: 2021
