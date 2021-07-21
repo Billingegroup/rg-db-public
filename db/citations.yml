@@ -9581,6 +9581,71 @@ spass;jaac05:
   wwwemail: ' sb2896@columbia.edu'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/spass_jaac05.pdf
   year: '2005'
+stach;m21:
+  ackno: The authors gratefully acknowledge the contributions of the participants
+    of the Autonomous Systems for Materials Development Workshop, held at the University
+    of Pennsylvania Singh Center for Nanotechnology, 4–6 September, 2019, with support
+    from the University of Pennsylvania, the Air Force Research Laboratory, Materials
+    & Manufacturing Directorate, ACS Combinatorial Science, and the NSF through the
+    University of Pennsylvania Materials Research Science and Engineering Center (MRSEC)
+    (DMR-1720530). We also gratefully acknowledge John Russell of the Singh Center
+    for his assistance in organizing this workshop. This research used resources of
+    the Advanced Light Source, which is a DOE Office of Science User Facility under
+    contract no. DE-AC02-05CH11231. Support from the Air Force Research Laboratory
+    Air Force Office of Scientific Research (AFOSR) LRIR no. 19RXCOR322 is gratefully
+    acknowledged. K.A.B. acknowledges support from NSF CMMI-1661412. J.S. acknowledges
+    support from the National Science Foundation (grant no. DMR-1928882), the Defense
+    Advanced Research Projects Agency (contract no. HR001118C0036), and the Camille
+    and Henry Dreyfus Foundation (TH-14-010). S.J.L.B. was supported by the U.S. National
+    Science Foundation through grant DMREF-1922234. J.M.G. and C.P.G. acknowledge
+    support from U.S. Department of Energy Office of Basic Energy Sciences under award
+    DE-SC0020383. C.P. ac- Q7 knowledges support from AFOSR grant FA9550-18-1-0144.
+    The authors acknowledge Lianne M.C. Beltran for professional editing.
+  author:
+    - Eric A. Stach
+    - Brian DeCost
+    - A. Gilad Kusne
+    - Jason Hattrick-Simpers
+    - Keith A. Brown
+    - Kristofer G. Reyes
+    - Joshua Schrier
+    - Simon J. L. Billinge
+    - Tonio Buonassisi
+    - Ian Foster
+    - Carla P. Gomes
+    - John M. Gregoire
+    - Apurva Mehta
+    - Joseph Montoya
+    - Elsa Olivetti
+    - Chiwoo Park
+    - Eli Rotenberg
+    - Semion K. Saikin
+    - Sylvia Smullin
+    - Valentin Stanev
+    - Benji Maruyama
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: dmref19
+  journal: Matter
+  month: tbd
+  nb: fy21, typeB
+  note: to be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: a community driven overview perspective of autonomous experimentation
+    in the field of materials science and materials development.  The concepts are
+    described as well as some of the methods including ML methods for autonomation.
+  tags: autonomous review, in situ
+  title: 'Autonomous experimentation systems for materials development: A community
+    perspective'
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2021'
 stach;rsi00:
   author:
     - Stachs, O.
