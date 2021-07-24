@@ -152,6 +152,18 @@ asu:
   state: Arizona
   street: ''
   zip: '85287'
+bardcatsimonsrock:
+  city: Great Barrington
+  country: USA
+  date: 2021-07-05
+  departments:
+    mathematics:
+      name: Department of Mathematics
+  name: Bard College at Simon's Rock
+  state: MA
+  updated: 2021-07-05 07:13:18.392712
+  uuid: 0110db16-b727-4bac-8631-0b2efa32dfbc
+  zip: '01230'
 bardcsr:
   aka:
     - Simon's Rock

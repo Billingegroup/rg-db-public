@@ -2704,6 +2704,21 @@
   status: accepted
   title: PDF analysis
   type: invited
+2111sb_heldvirtually:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2021-11-15
+  end_date: 2021-11-19
+  location: Held Virtually
+  meeting_name: 'The Third African Synchrotron Light Source Conference (AfLS3) : towards
+    a brighter future'
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: invited
+  webinar: true
 2111st_mrs,ma,usa:
   abstract: Metal oxide nanoparticles have a number of important technological applications
     in electronic devices. In particular, titanium(IV) oxide nanoparticles have potential
@@ -2787,18 +2802,3 @@
   title: Electron diffraction-based analysis of the role of chemical short-range order
     on the dynamic deformation response of FCC and BCC multi-principal element alloys
   type: contributed_oral
-2111sb_heldvirtually:
-  abstract: tbd
-  authors:
-    - sbillinge
-  begin_date: 2021-11-15
-  end_date: 2021-11-19
-  location: Held Virtually
-  meeting_name: 'The Third African Synchrotron Light Source Conference (AfLS3) : towards
-    a brighter future'
-  project:
-    - all
-  status: accepted
-  title: tbd
-  type: invited
-  webinar: true
