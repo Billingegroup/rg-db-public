@@ -9623,14 +9623,15 @@ stach;m21:
     - Sylvia Smullin
     - Valentin Stanev
     - Benji Maruyama
-  doi: ''
+  day: '26'
+  doi: 10.1016/j.matt.2021.06.036
   entrytype: article
   facility: ''
   grant: dmref19
   journal: Matter
-  month: tbd
+  month: July
   nb: fy21, typeB
-  note: to be published
+  optnote: to be published
   number: ''
   optannote: ''
   optwwwlanl: ''
@@ -9639,9 +9640,8 @@ stach;m21:
     in the field of materials science and materials development.  The concepts are
     described as well as some of the methods including ML methods for autonomation.
   tags: autonomous review, in situ
-  title: 'Autonomous experimentation systems for materials development: A community
-    perspective'
-  url: ''
+  title: 'Autonomous experimentation systems for materials development: A community perspective'
+  url: https://www.cell.com/matter/fulltext/S2590-2385(21)00306-4
   volume: ''
   wwwemail: ''
   wwwpub: ''
