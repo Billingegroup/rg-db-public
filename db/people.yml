@@ -158,7 +158,7 @@ aejaz:
       advisor: sbillinge
       status: undergrad
   github_id: adibaejaz
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Adiba Ejaz
   position: undergraduate research assistant
 akovyakh:
@@ -460,6 +460,26 @@ cbracy:
   name: Connor Bracy
   orcid_id: 0000-0001-8049-356X
   position: graduate research assistant
+cbullard:
+  active: true
+  aka: []
+  avatar: https://github.com/chloeann95.png
+  bio: bio
+  education: []
+  email: cab2344@columbia.edu
+  employment:
+    - begin_date: 2021-07-26
+      end_date: 2022-12-31
+      organization: columbiau
+      position: masters researcher
+      group: bg
+      advisor: sbillinge
+      status: masters
+  github_id: chloeann95
+  grp_mtg_active: true
+  name: Chloe Anne Bullard
+  orcid_id: 0000-0002-5954-4710
+  position: masters researcher
 cfarrow:
   active: false
   aka:
@@ -2219,7 +2239,7 @@ lcheng:
       advisor: sbillinge
       status: undergrad
   github_id: OpusXI
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Louis Cheng
   orcid_id: ''
   position: undergraduate researcher
@@ -3611,6 +3631,14 @@ sbillinge:
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
   service:
+    - type: department
+      name: PhD thesis committee, Mel Abler
+      date: 2021-08-15
+    - type: profession
+      name: Member of the Initiative Review Committee (IRC) for the Neutron Data Interpretation
+        Platform Ecosystem initiative at Oak Ridge National Laboratory (ORNL)
+      begin_date: 2021-07-23
+      end_date: 2024-07-22
     - type: profession
       name: Member of the Neutron Advisory Board (NAB) to the Neutron Sciences Directorate
         (NScD) or Oak Ridge National Laboratory
