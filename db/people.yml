@@ -158,7 +158,7 @@ aejaz:
       advisor: sbillinge
       status: undergrad
   github_id: adibaejaz
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Adiba Ejaz
   position: undergraduate research assistant
 akovyakh:
@@ -463,10 +463,10 @@ cbracy:
 cbullard:
   active: true
   aka: []
-  avatar: "https://github.com/\x16chloeann95.png"
+  avatar: "https://github.com/chloeann95.png"
   bio: bio
   education: []
-  email: "\x16cab2344@columbia.edu"
+  email: cab2344@columbia.edu
   employment:
     - begin_date: 2021-07-26
       end_date: 2022-12-31
@@ -475,7 +475,7 @@ cbullard:
       group: bg
       advisor: sbillinge
       status: masters
-  github_id: "\x16chloeann95"
+  github_id: chloeann95
   grp_mtg_active: true
   name: Chloe Anne Bullard
   orcid_id: 0000-0002-5954-4710
@@ -2239,7 +2239,7 @@ lcheng:
       advisor: sbillinge
       status: undergrad
   github_id: OpusXI
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Louis Cheng
   orcid_id: ''
   position: undergraduate researcher
