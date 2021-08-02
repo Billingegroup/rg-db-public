@@ -464,22 +464,40 @@ cbullard:
   active: true
   aka: []
   avatar: https://github.com/chloeann95.png
-  bio: bio
-  education: []
-  email: cab2344@columbia.edu
+  bio: Chloë grew up in Michigan and attended Michigan State University for her undergraduate degrees in Physics and Mechanical Engineering, where she worked on computational plasma physics research. Afterward she attended the University of Toledo completing a Masters in Chemical Engineering while working on modeling CFD simulations for biomass with NREL. When not working you can find her looking for a new game to play or a new song to learn on the piano.$
+
+  education:
+    - begin_year: 2013
+      begin_month: 9
+      degree: B.S. in Physics
+      degree: B.S. in Mechanical Engineering
+      institution: Michigan State University
+      end_year: 2018
+      end_month: 5
+    - begin_year: 2019
+      begin_month: 9
+      degree: M.S. in Chemical Engineering
+      institution: University of Toledo
+      end_year: 2021
+      end_month: 5
+    - begin_year: 2021
+      begin_month: 9
+      degree: M.S. in Material Science & Engineering
+      institution: Columbia University
+  email: chloe.bullard@columbia.edu
   employment:
     - begin_date: 2021-07-26
       end_date: 2022-12-31
       organization: columbiau
-      position: masters researcher
+      position: Masters Researcher
       group: bg
       advisor: sbillinge
       status: masters
   github_id: chloeann95
   grp_mtg_active: true
-  name: Chloe Anne Bullard
+  name: Chloë Bullard
   orcid_id: 0000-0002-5954-4710
-  position: masters researcher
+  position: Masters Researcher
 cfarrow:
   active: false
   aka:
