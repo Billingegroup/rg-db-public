@@ -474,6 +474,11 @@ cbullard:
     - begin_year: 2013
       begin_month: 9
       degree: B.S. in Physics
+      institution: Michigan State University
+      end_year: 2018
+      end_month: 5
+    - begin_year: 2013
+      begin_month: 9
       degree: B.S. in Mechanical Engineering
       institution: Michigan State University
       end_year: 2018
