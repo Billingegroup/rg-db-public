@@ -9631,16 +9631,17 @@ stach;m21:
   journal: Matter
   month: July
   nb: fy21, typeB
-  optnote: to be published
   number: ''
   optannote: ''
+  optnote: to be published
   optwwwlanl: ''
   pages: ''
   synopsis: a community driven overview perspective of autonomous experimentation
     in the field of materials science and materials development.  The concepts are
     described as well as some of the methods including ML methods for autonomation.
   tags: autonomous review, in situ
-  title: 'Autonomous experimentation systems for materials development: A community perspective'
+  title: 'Autonomous experimentation systems for materials development: A community
+    perspective'
   url: https://www.cell.com/matter/fulltext/S2590-2385(21)00306-4
   volume: ''
   wwwemail: ''
