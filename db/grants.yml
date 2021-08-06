@@ -671,8 +671,8 @@
 21_3m:
   amount: 101638
   awardnr: n/a
-  begin_date: 2021-06-01
-  end_date: 2022-05-31
+  begin_date: 2021-09-01
+  end_date: 2022-08-31
   funder: 3M
   team:
     - institution: columbiau
@@ -684,7 +684,7 @@
 21_jhu_mitra:
   amount: 45000
   begin_date: 2021-06-01
-  end_date: 2022-06-01
+  end_date: 2022-05-31
   funder: Johns Hopkins University
   team:
     - institution: columbiau
