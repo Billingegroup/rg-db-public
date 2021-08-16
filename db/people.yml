@@ -465,11 +465,11 @@ cbullard:
   aka: []
   avatar: https://github.com/chloeann95.png
   bio: Chloë grew up in Michigan and attended Michigan State University for her undergraduate
-    degrees in Physics and Mechanical Engineering, where she worked on computational plasma
-    physics research. Afterward she attended the University of Toledo completing a Masters
-    in Chemical Engineering while working on modeling CFD simulations for biomass with NREL.
-    When not working you can find her looking for a new game to play or a new song to learn 
-    on the piano.
+    degrees in Physics and Mechanical Engineering, where she worked on computational
+    plasma physics research. Afterward she attended the University of Toledo completing
+    a Masters in Chemical Engineering while working on modeling CFD simulations for
+    biomass with NREL. When not working you can find her looking for a new game to
+    play or a new song to learn on the piano.
   education:
     - begin_year: 2013
       begin_month: 9
@@ -2487,7 +2487,7 @@ mkane:
 mkarlsen:
   active: true
   aka: []
-  avatar: https://github.com/maak@sdu.dk.png
+  avatar: https://github.com/maak-sdu.png
   bio: bio
   education: []
   email: maak@sku.dk
