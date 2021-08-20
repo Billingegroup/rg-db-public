@@ -2116,26 +2116,6 @@
   status: postponed
   title: tbd
   type: tutorial
-2008sb_PragueCzechRepublic:
-  abstract: tbd
-  authors:
-    - sbillinge
-  begin_day: 21
-  begin_month: 8
-  begin_year: 2020
-  end_day: 30
-  end_month: 8
-  end_year: 2020
-  location: Prague, Czech Republic
-  meeting_name: XXV General Assembly and Congress of the International Union of Crystallography
-  notes: []
-  project:
-    - all
-  status: postponed
-  title: 'Lecture 1: Advanced modeling of nanostructure from Atomic Pair Distribution
-    Functions (PDFs) using Diffpy-CMI on Windows 10 and Lecture 2: atomic pair distribution
-    function (PDF) in the cloud'
-  type: invited
 2008sb_cccComputingSchool:
   abstract: tbd
   authors:
@@ -2601,7 +2581,7 @@
     how to find it, and why you should care about it'
   type: invited
   webinar: true
-2108Lu_prague,czechrepublic:
+2108lp_prague,czechrepublic:
   abstract: tbd
   authors:
     - Lucas B. M. Pinheiro
@@ -2619,7 +2599,85 @@
   title: Effect of grinding procedures on the ritonavir-lopinavir system
   type: contributed_oral
   webinar: true
-2108Ye_prague,czechrepublic:
+2108s_prague,czechrepublic:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2021-08-14
+  end_date: 2021-08-22
+  location: Prague, Czech Republic
+  meeting_name: IUCr quadrennial Congress Software Fayre
+  project:
+    - all
+  status: accepted
+  title: 'Moving towards a more data-centric scientific literature: pilot with {IUCr},
+    pydatarecognition '
+  type: invited
+  webinar: true
+2108sb_PragueCzechRepublic:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_day: 21
+  begin_month: 8
+  begin_year: 2020
+  end_day: 30
+  end_month: 8
+  end_year: 2020
+  location: Prague, Czech Republic
+  meeting_name: XXV General Assembly and Congress of the International Union of Crystallography
+  notes: []
+  project:
+    - all
+  status: postponed
+  title: 'Lecture 1: Advanced modeling of nanostructure from Atomic Pair Distribution
+    Functions (PDFs) using Diffpy-CMI on Windows 10 and Lecture 2: atomic pair distribution
+    function (PDF) in the cloud'
+  type: invited
+2108sb_iucr25_pdfitc_fayre:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2021-08-14
+  end_date: 2021-08-20
+  location: Prague, Czech Republic
+  meeting_name: IUCr quadrennial Congress Software Fayre
+  project:
+    - all
+  status: accepted
+  title: Atomic pair distribution function ({PDF}) in the cloud
+  type: tutorial
+  webinar: true
+2108sb_prague,czechrepublic:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2021-08-14
+  end_date: 2021-08-20
+  location: Prague, Czech Republic
+  meeting_name: IUCr quadrennial Congress Software Fayre
+  project:
+    - all
+  status: accepted
+  title: Advanced modeling of nanostructure from Atomic Pair Distribution Functions
+    ({PDF}s) using {diffpyCMI} on Windows 10
+  type: tutorial
+  webinar: true
+2108sb_universityofcopenhagen,copenhagen,denmark:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2021-08-30
+  end_date: 2021-09-03
+  location: University of Copenhagen, Copenhagen, Denmark
+  meeting_name: Workshop on Data Science and Machine Learning in Chemistry
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: invited
+  webinar: true
+2108yr_prague,czechrepublic:
   abstract: In recent years, Electron Diffraction, and especially the 4D-STEM [2]
     is growingly becoming a routine part of structural characterizations of materials
     at the nano-scale. Its un-matched spatial resolution (down to sub-nm) enables
@@ -2678,19 +2736,6 @@
     Systems
   type: contributed_oral
   webinar: true
-2108sb_universityofcopenhagen,copenhagen,denmark:
-  abstract: tbd
-  authors:
-    - sbillinge
-  begin_date: 2021-08-30
-  end_date: 2021-09-03
-  location: University of Copenhagen, Copenhagen, Denmark
-  meeting_name: Workshop on Data Science and Machine Learning in Chemistry
-  project:
-    - all
-  status: accepted
-  title: tbd
-  type: invited
 2109sb_grenada,spain:
   abstract: tbd
   authors:
@@ -2702,8 +2747,23 @@
   project:
     - all
   status: accepted
-  title: PDF analysis
+  title: '{PDF} analysis'
   type: invited
+  webinar: true
+2110sb_thetechnicaluniversityofdenmark,copenhagen,denmark:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2021-10-08
+  end_date: 2021-10-09
+  location: The Technical University of Denmark, Copenhagen, Denmark
+  meeting_name: Danscatt Users Meeting
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: plenary
+  webinar: true
 2111sb_heldvirtually:
   abstract: tbd
   authors:
