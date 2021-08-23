@@ -1396,10 +1396,23 @@ fbertolotti:
   position: assistant professor
 fkwei:
   active: true
-  aka: []
+  aka:
+    - Fengkai Wei
+    - F.K. Wei
   avatar: https://github.com/Fengkai-Wei.png
-  bio: bio
-  education: []
+  bio: Fengkai Wei grew up in Nanjing(Nanking), China. He graduated from University of Sheffield
+    with bachelor degree of Material Physics in 2020. He won a third prize in Contemporary
+    Undergraduate Mathematical Contest in Modeling in 2018. He is interested in simulation of
+    physical phenomena. In his spare time, you will find him learning other languages like German,
+    Japanese and even Latin.
+  education:
+    - begin_year: 2016
+      institution: usheffield
+      degree: BS in Material Physics
+      end_year: 2020
+    - begin_year: 2020
+      degree: MS in Material Science and Engineering
+      institution: columbiau
   email: fw2366@columbia.edu
   employment:
     - begin_date: 2021-08-18

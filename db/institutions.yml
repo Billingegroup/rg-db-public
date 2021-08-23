@@ -2675,6 +2675,15 @@ usda:
   month: 3
   name: United States Department of Agriculture
   year: 2020
+usheffield:
+  aka:
+    - UoS
+  city: Sheffield
+  country: UK
+  name: University of Sheffield
+  departments:
+    physics:
+      name: Department of Physics and Astronomy
 utennessee:
   aka:
     - ut
