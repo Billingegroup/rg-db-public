@@ -1396,10 +1396,15 @@ fbertolotti:
   position: assistant professor
 fkwei:
   active: true
-  aka: []
+  aka:
+    - Fengkai Wei
   avatar: https://github.com/Fengkai-Wei.png
   bio: bio
-  education: []
+  education:
+    - begin_year: 2020
+        degree: MA
+        institution: columbiau
+        end_year: 2021
   email: fw2366@columbia.edu
   employment:
     - begin_date: 2021-08-18
