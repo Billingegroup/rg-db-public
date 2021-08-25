@@ -2266,7 +2266,7 @@ kseth:
 lcheng:
   active: true
   aka: []
-  avatar: "https://github.com/\x16OpusXI.png"
+  avatar: "https://github.com/OpusXI.png"
   bio: Louis is from Singapore and Hong Kong. He is currently a GS student studying
     Data Science, and he wishes to pursue a Business Analytics master's. Previously,
     he has worked for Valencia Club de Futbol and Singapore Civil Defence Force. In
@@ -3681,6 +3681,11 @@ sbillinge:
     - type: department
       name: PhD thesis committee, Mel Abler
       date: 2021-08-11
+    - type: profession
+      name: Member of the review committee Neutron Initiative of the Oak Ridge
+        National Laboratory’s Laboratory Directed Research and Development (LDRD) Program
+      begin_date: 2021-09-13
+      end_date: 2024-09-15
     - type: profession
       name: Member of the Initiative Review Committee (IRC) for the Neutron Data Interpretation
         Platform Ecosystem initiative at Oak Ridge National Laboratory (ORNL)
