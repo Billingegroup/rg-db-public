@@ -2750,6 +2750,19 @@
   title: '{PDF} analysis'
   type: invited
   webinar: true
+2110sb_columbiauniversity:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2021-10-15
+  department: APAM Research Conference
+  end_date: 2021-10-15
+  institution: Columbia University
+  project:
+    - all
+  status: accepted
+  title: Advanced analysis of Nanostructure in the age of data
+  type: seminar
 2110sb_thetechnicaluniversityofdenmark,copenhagen,denmark:
   abstract: tbd
   authors:
