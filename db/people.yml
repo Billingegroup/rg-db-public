@@ -3715,6 +3715,11 @@ sbillinge:
       name: PhD thesis committee, Mel Abler
       date: 2021-08-11
     - type: profession
+      name: Member of the review committee of the D4 diffractometer at the Institut
+        Laue Langevin, Grenoble, France
+      begin_date: 2021-09-23
+      end_date: 2024-09-24
+    - type: profession
       name: Member of the review committee Neutron Initiative of the Oak Ridge National
         Laboratory’s Laboratory Directed Research and Development (LDRD) Program
       begin_date: 2021-09-13
@@ -4944,26 +4949,6 @@ xhyang:
   name: Xiaohao Yang
   position: engineer
   position_full: Software Engineer
-xjchu:
-  active: true
-  aka: []
-  avatar: https://github.com/rennechu.png
-  bio: bio
-  education: []
-  email: xc2562@columbia.edu
-  employment:
-    - begin_date: 2021-09-15
-      end_date: 2021-12-31
-      organization: columbiau
-      position: Masters Researcher
-      group: bg
-      advisor: sbillinge
-      status: masters
-  github_id: rennechu
-  grp_mtg_active: true
-  name: Xuanjing Chu
-  orcid_id: 0000-0002-7281-2177
-  position: Masters Researcher
 xyqiu:
   active: false
   aka:

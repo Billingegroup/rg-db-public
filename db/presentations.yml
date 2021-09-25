@@ -2737,7 +2737,7 @@
   type: contributed_oral
   webinar: true
 2109sb_grenada,spain:
-  abstract: tbd
+  abstract: na
   authors:
     - sbillinge
   begin_date: 2021-09-20
@@ -2747,8 +2747,22 @@
   project:
     - all
   status: accepted
-  title: '{PDF} analysis'
+  title: 'Introduction to {PDF} analysis and Applications of {PDF} analysis'
   type: invited
+  webinar: true
+2109sb_grenada,spain,workshop:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2021-09-20
+  end_date: 2021-09-24
+  location: Grenada, Spain
+  meeting_name: ToscaLand total scattering workshop
+  project:
+    - all
+  status: accepted
+  title: '{PDFgui} hands on demonstration'
+  type: workshop
   webinar: true
 2109sb_prague,czechrepublic:
   abstract: na
