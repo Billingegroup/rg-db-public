@@ -2768,6 +2768,26 @@ mwinitch:
   github_id: mwinitch
   name: Michael Winitch
   position: undergraduate research assistant
+mzhao:
+  active: true
+  aka: []
+  avatar: https://github.com/MaxPaiPai.png
+  bio: bio
+  education: []
+  email: jz3445@columbia.edu
+  employment:
+    - begin_date: 2021-09-14
+      end_date: 2021-12-31
+      organization: columbiau
+      position: Undergraduate Researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: MaxPaiPai
+  grp_mtg_active: true
+  name: Max Zhao
+  orcid_id: 0000-0001-7082-5030
+  position: Undergraduate Researcher
 nfuller:
   active: false
   aka:
@@ -3705,6 +3725,10 @@ sbillinge:
       begin_date: 2021-07-23
       end_date: 2024-07-22
     - type: profession
+      name: External examiner for PhD thesis defense of Nasim Farahmand from the Department
+        of Chemistry at City College
+      date: 2021-09-08
+    - type: profession
       name: Member of the Neutron Advisory Board (NAB) to the Neutron Sciences Directorate
         (NScD) or Oak Ridge National Laboratory
       begin_year: 2021
@@ -3830,7 +3854,7 @@ sbillinge:
       year: 2019
       month: August
     - type: profession
-      name: Review of our SNS & HFIR Data Analysis Plan
+      name: Review of the SNS & HFIR Data Analysis Plan
       year: 2020
       month: 9
     - type: profession

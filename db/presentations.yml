@@ -2750,6 +2750,80 @@
   title: '{PDF} analysis'
   type: invited
   webinar: true
+2109sb_prague,czechrepublic:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2021-09-01
+  end_date: 2021-09-03
+  location: Prague, Czech Republic
+  meeting_name: Crystallographic Computing School of the IUCr
+  project:
+    - all
+  status: accepted
+  title: Application of Non Negative Matrix Factorization NMF
+  type: invited
+  webinar: true
+2109sb_prague,czechrepublic_cmi:
+  abstract: na
+  authors:
+    - sbillinge
+    - sstao
+  begin_date: 2021-09-01
+  end_date: 2021-09-03
+  location: Prague, Czech Republic
+  meeting_name: Crystallographic Computing School of the IUCr
+  project:
+    - all
+  status: accepted
+  title: Advanced modeling of nanostructure from Atomic Pair Distribution Functions
+    (PDFs) using diffpyCMI
+  type: tutorial
+  webinar: true
+2109sb_prague,czechrepublic_github:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2021-09-01
+  end_date: 2021-09-03
+  location: Prague, Czech Republic
+  meeting_name: Crystallographic Computing School of the IUCr
+  project:
+    - all
+  status: accepted
+  title: 'Contributing to Community Codes: GitHub Workflow for Community software
+    Development'
+  type: tutorial
+  webinar: true
+2109sb_prague,czechrepublic_packaging:
+  abstract: na
+  authors:
+    - sbillinge
+    - zthatcher
+  begin_date: 2021-09-01
+  end_date: 2021-09-03
+  location: Prague, Czech Republic
+  meeting_name: Crystallographic Computing School of the IUCr
+  project:
+    - all
+  status: accepted
+  title: Packaging and distributing your code
+  type: tutorial
+  webinar: true
+2109sb_prague,czechrepublic_tdd:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2021-09-01
+  end_date: 2021-09-03
+  location: Prague, Czech Republic
+  meeting_name: Crystallographic Computing School of the IUCr
+  project:
+    - all
+  status: accepted
+  title: 'Testing your code: Test driven development'
+  type: tutorial
+  webinar: true
 2110sb_columbiauniversity:
   abstract: na
   authors:
