@@ -294,7 +294,7 @@ asartbaeva:
   name: Asel Sartbaeva
   position: lecturer
 ashaaban:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/ahmeds343.png
   bio: Ahmed is an undergraduate student from Cairo, Egypt. Ahmed is majoring in computer
@@ -308,7 +308,7 @@ ashaaban:
   employment:
     - begin_year: 2020
       begin_month: 6
-      end_year: 2020
+      end_year: 2021
       end_month: 8
       organization: columbiau
       position: undergraduate research assistant
