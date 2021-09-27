@@ -2680,10 +2680,10 @@ usheffield:
     - UoS
   city: Sheffield
   country: UK
-  name: University of Sheffield
   departments:
     physics:
       name: Department of Physics and Astronomy
+  name: University of Sheffield
 utennessee:
   aka:
     - ut
