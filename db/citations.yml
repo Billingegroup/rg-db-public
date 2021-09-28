@@ -11366,7 +11366,7 @@ zhao;prl21:
     - Alex Zunger
   doi: ''
   entrytype: article
-  facility: null
+  facility:
   grant: dmref19
   journal: Phys. Rev. Lett.
   month: tbd
