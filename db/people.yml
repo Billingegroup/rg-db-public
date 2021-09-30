@@ -150,7 +150,7 @@ aejaz:
   employment:
     - begin_year: 2020
       begin_month: 5
-      end_year: 2020
+      end_year: 2021
       end_month: 8
       organization: columbiau
       position: undergraduate research assistant
@@ -380,8 +380,8 @@ bozer:
     - begin_year: 2020
       begin_month: 1
       organization: Columbia University
-      end_year: 2020
-      end_month: 5
+      end_year: 2021
+      end_month: 12
       position: masters research assistant
       advisor: sbillinge
       group: bg
@@ -449,7 +449,7 @@ cbracy:
   email: cjb2250@columbia.edu"
   employment:
     - begin_date: 2020-11-16
-      end_date: 2021-08-31
+      end_date: 2022-05-31
       organization: columbiau
       position: masters researcher
       group: bg
@@ -2089,7 +2089,7 @@ jwilley:
   email: jjw2188@columbia.edu
   employment:
     - begin_date: 2021-05-21
-      end_date: 2021-08-31
+      end_date: 2021-12-31
       organization: columbiau
       position: masters researcher
       group: bg
@@ -2298,8 +2298,15 @@ lcheng:
       group: bg
       advisor: sbillinge
       status: undergrad
+    - begin_date: 2022-01-01
+      end_date: 2022-05-31
+      organization: columbiau
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
   github_id: OpusXI
-  grp_mtg_active: false
+  grp_mtg_active: true
   name: Louis Cheng
   orcid_id: ''
   position: undergraduate researcher
@@ -2999,7 +3006,7 @@ pliu:
   email: pl2781@columbia.edu
   employment:
     - begin_date: 2021-06-09
-      end_date: 2021-08-31
+      end_date: 2021-12-31
       organization: columbiau
       position: masters researcher
       group: bg
@@ -3030,7 +3037,7 @@ pnehra:
   email: pn2365@columbia.edu
   employment:
     - begin_date: 2020-10-14
-      end_date: 2021-05-01
+      end_date: 2021-12-31
       organization: columbiau
       position: undergraduate researcher
       group: bg
@@ -4431,7 +4438,7 @@ sghose:
   name: Shomik Ghose
   position: undergraduate research assistant
 sharouna-mayer:
-  active: true
+  active: false
   aka:
     - Sani Y. Harouna-Mayer
   avatar: https://github.com/SaniHarouna-Mayer.png
@@ -4472,7 +4479,7 @@ sharouna-mayer:
       end_year: 2017
       end_month: 10
   github_id: SaniHarouna-Mayer
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Sani Harouna-Mayer
   position: visiting student
 smayers:
