@@ -2784,17 +2784,17 @@ mzhao:
     - Zhao, Jinpai
   avatar: https://github.com/MaxPaiPai.png
   bio: Jinpai (Max) Zhao grew up in Shenzhen, China. He's a three plus two engineering
-    combined plan student from Davidson College, NC. Right now he's a Applied Math junior
-    at Columbia Univeristy.At Davidson College, he worked on creating a new network
-    ranking which targeted underrated players using python networkx package. He also
-    worked on error analysis on nuetron rich nuclei. During free time, he likes to play
-    basketball and making cocktails.
+    combined plan student from Davidson College, NC. Right now he's a Applied Math
+    junior at Columbia Univeristy.At Davidson College, he worked on creating a new
+    network ranking which targeted underrated players using python networkx package.
+    He also worked on error analysis on nuetron rich nuclei. During free time, he
+    likes to play basketball and making cocktails.
   education:
     - begin_year: 2021
       degree: Bachelor of Science
       institution: Columbia University
       department: Applied Mathematics
-      end_year: On-going
+      end_year: 2023
       other:
         - 'Advisors: Dr. Kui Ren'
     - begin_year: 2018
