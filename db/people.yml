@@ -2777,10 +2777,33 @@ mwinitch:
   position: undergraduate research assistant
 mzhao:
   active: true
-  aka: []
+  aka:
+    - Jinpai (Max) Zhao
+    - J. Zhao
+    - Max Zhao
+    - Zhao, Jinpai
   avatar: https://github.com/MaxPaiPai.png
-  bio: bio
-  education: []
+  bio: Jinpai (Max) Zhao grew up in Shenzhen, China. He's a three plus two engineering
+    combined plan student from Davidson College, NC. Right now he's a Applied Math junior
+    at Columbia Univeristy.At Davidson College, he worked on creating a new network
+    ranking which targeted underrated players using python networkx package. He also
+    worked on error analysis on nuetron rich nuclei. During free time, he likes to play
+    basketball and making cocktails.
+  education:
+    - begin_year: 2021
+      degree: Bachelor of Science
+      institution: Columbia University
+      department: Applied Mathematics
+      end_year: On-going
+      other:
+        - 'Advisors: Dr. Kui Ren'
+    - begin_year: 2018
+      degree: Bachelor of Art
+      institution: Davidson College
+      department: Mathematics and Computer Science
+      end_year: 2021
+      other:
+        - 'Advisors: Dr. Rich Neidinger'
   email: jz3445@columbia.edu
   employment:
     - begin_date: 2021-09-14
