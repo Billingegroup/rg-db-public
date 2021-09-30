@@ -2747,7 +2747,7 @@
   project:
     - all
   status: accepted
-  title: 'Introduction to {PDF} analysis and Applications of {PDF} analysis'
+  title: Introduction to {PDF} analysis and Applications of {PDF} analysis
   type: invited
   webinar: true
 2109sb_grenada,spain,workshop:
@@ -2851,6 +2851,40 @@
   status: accepted
   title: Advanced analysis of Nanostructure in the age of data
   type: seminar
+2110sb_gaithersburg,md:
+  abstract: 'GENESIS has expanded our ability to interrogate, predict, and control
+    the pathways that govern synthesis, and lead to new materials through development
+    of next generation data science and experimental tools. '
+  authors:
+    - chliu
+    - cjwright
+    - zthatcher
+    - sstao
+    - yrakita
+    - phuck
+    - donolan
+    - mbeauvais
+    - svornholt
+    - okononova
+    - rmcauliffe
+    - gveith
+    - pchupas
+    - gceder
+    - kpersson
+    - kchapman
+    - sbillinge
+  begin_date: 2021-10-18
+  end_date: 2021-10-19
+  location: Gaithersburg, MD
+  meeting_name: DOE-BES EFRC PI meeting
+  notes:
+    - remote meeting
+  project:
+    - all
+  status: accepted
+  title: Next Generation Tools To Interrogate, Predict & Control Synthesis
+  type: poster
+  webinar: true
 2110sb_thetechnicaluniversityofdenmark,copenhagen,denmark:
   abstract: tbd
   authors:
