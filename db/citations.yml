@@ -7397,6 +7397,32 @@ miao;s16:
   wwwlanl: http://science.sciencemag.org/content/353/6306/aaf2157
   year: '2016'
 morro;jfeng18:
+  ackno: The authors would like to acknowledge the use of the powder X-ray
+    diffraction instrument located at the George L. Clark X-ray Facility and
+    3M Materials Laboratory at the University of Illinois at Urbana-
+    Champaign. The authors would also like to acknowledge Cate Wallace,
+    microscopist in the Imaging Technology Group at the Beckman Institute
+    at University of Illinois at Urbana-Champaign, for her help using the
+    scanning electron microscope. The authors are also deeply grateful to
+    Gregory Kennedy and Victoria Nguyen at the USDA National Center for
+    Agricultural Utilization Research in Peoria, IL for the use of the HPLC
+    and HPAEC-PAD instruments and their excellent technical guidance.
+    Thanks also to Molly Black for her assistance with the Freezemobile 12
+    freeze dryer and the Averback-Bellon research groups in the
+    Department of Materials Science and Engineering at the University of
+    Illinois at Urbana-Champaign for their help with the SPEX 8000D highenergy
+    ball mill. This research used beamline 28-ID-2 of the National
+    Synchrotron Light Source II, a U.S. Department of Energy (DOE) Office
+    of Science User Facility operated for the DOE Office of Science by
+    Brookhaven National Laboratory under Contract No. DE-SC0012704.
+    The authors thank Soham Banerjee for his help with the total scattering
+    measurements. The PDF measurements and analysis were supported by
+    the NSF MRSEC program through Columbia in the Center for Precision
+    Assembly of Superstratic and Superatomic Solids (DMR-1420634).
+    Mention of trade names or commercial products in this article is
+    solely for the purpose of providing scientific information and does not
+    imply recommendation or endorsement by the US. Department of
+    Agriculture. USDA is an equal opportunity provider and employer.
   author:
     - Morrow, Elizabeth A.
     - Terban, Maxwell W.
@@ -7414,10 +7440,23 @@ morro;jfeng18:
   nb: ''
   number: ''
   optannote: ''
-  optnote: to be published
+  optnote: ''
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: 125-141
+  synopsis: Sugar is ubiquitous in our food.  Although it is predominantly present
+    in crystalline form, it can also be present in the amorphous form, for example
+    in pharmaceuticals to make the pills taste better, in confections and freeze-dried
+    foods where it is valued for its fine texture and ease of dissolution.  Sugar can
+    be amorphized in different ways.  In this study, the structure, physical and
+    chemical properties of sugar amorphized in different ways was studied.  Our
+    total scattering PDF was able to show that local molecular-level ordering
+    differences existed between Melt quenched, feeze dried, spray dried
+    and spin melt-quenched sugare existed.  Together with other characterizations
+    of the degree of crystallinity and water contents, a picture emerged where
+    at a fundamental level, the nature of the reuslting amorphous state depended
+    sensitively on the amorphization method.
+  tags: sugar, organics, food, amorphous
   title: Effect of amorphization method on the physicochemical properties of amorphous
     sucrose
   url: https://www.sciencedirect.com/science/article/pii/S0260877418303790
@@ -7467,6 +7506,17 @@ morro;jfeng19:
   optwwwlanl: ''
   optwwwpub: ''
   pages: 87-99
+  synopsis: Sugar is ubiquitous in our food.  Although it is predominantly present
+    in crystalline form, it can also be present in the amorphous form, for example
+    in pharmaceuticals to make the pills taste better, in confections and freeze-dried
+    foods where it is valued for its fine texture and ease of dissolution. A critical
+    factor in its use is the need to avoid or control recrystallization.  In particular
+    freeze-dried, spray dried and ball milled a-sugar will recrystallize at low temperatures
+    whereas melt quenched sugar will not.  One possibility is the presence of decomposition
+    products in the melt quenched material.  The presence of thermal decomposition products
+    was confirmed by our PDF analysis, suggesting it should be taken seriously as a factor
+    in the recrystallization behavior of sugar.
+  tags: sugar, organics, food, amorphous, recrystallization
   title: 'Investigation of thermal decomposition as a critical factor inhibiting cold
     crystallization in amorphous sucrose prepared by melt-quenching: Effect of amorphization
     method on the physicochemical properties of amorphous sucrose'
@@ -11366,7 +11416,7 @@ zhao;prl21:
     - Alex Zunger
   doi: ''
   entrytype: article
-  facility:
+  facility: null
   grant: dmref19
   journal: Phys. Rev. Lett.
   month: tbd
