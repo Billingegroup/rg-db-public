@@ -1078,6 +1078,26 @@ dyano:
   grp_mtg_active: false
   name: Daniela Hikari Yano
   position: undergraduate research assistant
+ebellingham:
+  active: true
+  aka: []
+  avatar: https://github.com/ejb2203.png
+  bio: bio
+  education: []
+  email: ejb2203@columbia.edu
+  employment:
+    - begin_date: 2021-10-04
+      end_date: 2021-12-31
+      organization: columbiau
+      position: Undergraduate Researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: ejb2203
+  grp_mtg_active: true
+  name: Emily Bellingham
+  orcid_id: 0000-0001-544-931X
+  position: Undergraduate Researcher
 ebozin:
   active: true
   aka:
