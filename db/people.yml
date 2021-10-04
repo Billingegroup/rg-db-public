@@ -3741,6 +3741,11 @@ sbillinge:
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
   service:
+    - type: profession
+      name: invited member of  Office of Science (SC) roundtable on supply chain risk
+        mitigation for scientific facilities and tools
+      begin_date: 2021-09-30
+      end_date: 2021-11-30
     - type: department
       name: PhD thesis committee, Mel Abler
       date: 2021-08-11
