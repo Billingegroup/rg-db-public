@@ -3318,8 +3318,8 @@ rkoch:
   employment:
     - begin_month: 9
       begin_year: 2018
-      end_year: 2020
-      end_month: 9
+      end_year: 2021
+      end_month: 10
       advisor: sbillinge
       group: bg
       organization: Brookhaven National Laboratory
@@ -3766,6 +3766,12 @@ sbillinge:
         mitigation for scientific facilities and tools
       begin_date: 2021-09-30
       end_date: 2021-11-30
+    - type: profession
+      name: External examiner for the PhD thesis of Shuyan Zhang, co-advised by Dr.
+        Alan McGaughey and Dr. B. Reeja Jayan in the Mechanical Engineering Department
+        at Carnegie Mellon University
+      begin_date: 2021-10-06
+      end_date: 2023-11-30
     - type: department
       name: PhD thesis committee, Mel Abler
       date: 2021-08-11

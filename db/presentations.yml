@@ -560,9 +560,8 @@
   abstract: n/a
   authors:
     - sbillinge
-  begin_day: 26
-  begin_month: 7
-  begin_year: 2018
+  begin_date: 2018-07-26
+  end_date: 2018-07-26
   location: Columbia University, New York, NY
   meeting_name: Research Experience for Undergraduates Seminar Series
   project:
@@ -792,10 +791,9 @@
     and in-operando studies.
   authors:
     - sbillinge
-  begin_day: 31
-  begin_month: 10
-  begin_year: 2018
+  begin_date: 2018-10-31
   department: physics
+  end_date: 2018-10-31
   institution: udelaware
   notes:
     - Karl Unruh is host
@@ -1363,10 +1361,9 @@
     nanoparticle structure
   authors:
     - sbillinge
-  begin_day: 1
-  begin_month: Oct
-  begin_year: 2019
+  begin_date: 2019-10-01
   department: mrsec
+  end_date: 2019-10-01
   institution: columbiau
   notes: []
   project:
@@ -1398,10 +1395,9 @@
     are intermediate.
   authors:
     - sbillinge
-  begin_day: 24
-  begin_month: Oct
-  begin_year: 2019
+  begin_date: 2019-10-24
   department: chemistry
+  end_date: 2019-10-24
   institution: harvardu
   notes: Woodward CCB Departmental Colloquium series
   project:
@@ -2886,7 +2882,7 @@
   type: poster
   webinar: true
 2110sb_thetechnicaluniversityofdenmark,copenhagen,denmark:
-  abstract: tbd
+  abstract: na
   authors:
     - sbillinge
   begin_date: 2021-10-08
@@ -2896,7 +2892,7 @@
   project:
     - all
   status: accepted
-  title: tbd
+  title: Structural studies with total scattering
   type: plenary
   webinar: true
 2111sb_heldvirtually:
