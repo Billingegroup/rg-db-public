@@ -2725,6 +2725,26 @@ mterban:
   name: Maxwell Terban
   orcid_id: 0000-0002-7094-1266
   position: post-doctoral scholar
+mtrumbull:
+  active: true
+  aka: []
+  avatar: https://github.com/MichaelTrumbull.png
+  bio: bio
+  education: []
+  email: mjt2211@columbia.edu
+  employment:
+    - begin_date: 2021-10-20
+      end_date: 2022-05-31
+      organization: columbiau
+      position: masters researcher
+      group: bg
+      advisor: sbillinge
+      status: masters
+  github_id: MichaelTrumbull
+  grp_mtg_active: true
+  name: Michael Trumbull
+  orcid_id: ''
+  position: masters researcher
 mwaddell:
   active: false
   aka:
@@ -3087,7 +3107,7 @@ pnehra:
       advisor: sbillinge
       status: undergrad
   github_id: priyankaanehra
-  grp_mtg_active: false
+  grp_mtg_active: true
   name: Priyanka Nehra
   orcid_id: ''
   position: undergraduate researcher
@@ -3762,8 +3782,9 @@ sbillinge:
       begin_year: 1987
   service:
     - type: profession
-      name: invited member of  Office of Science (SC) roundtable on supply chain risk
-        mitigation for scientific facilities and tools
+      name: Office of Science (SC) Supply Chain Roundtable. Committee to study the
+        problem of supply chain risks for scientific facilities and tools, and to
+        suggest solutions
       begin_date: 2021-09-30
       end_date: 2021-11-30
     - type: profession
