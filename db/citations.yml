@@ -9581,6 +9581,43 @@ simps;ic10:
   volume: '49'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/simps_ic10.pdf
   year: '2010'
+skjae;b;ciciii21:
+  ackno: S.H.S, Y.S.R., L.Y. and S.T. were supported by the U.S. National Science
+    Foundation through grant DMREF-1922234. S.J.L.B was supported by the U.S. Department
+    of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
+    contract No. DE-SC0012704. Soham Banerjee and Robert Koch are acknowledged for
+    valuable discussions.
+  author:
+    - Simon J. L. Billinge
+    - Sandra H. Skjaervoe
+    - Maxwell W. Terban
+    - Songsheng Tao
+    - Long Yang
+    - Yevgeny Rakita
+    - Benjamin A. Frandsen
+  booktitle: Comprehensive Inorganic Chemistry III
+  doi: 10.1016/B978-0-12-823144-9.00040-6
+  editor: Paul R Raithby, Angus Wilkinson
+  entrytype: inproceedings
+  facility: ''
+  grant: dmref19, fwp20
+  month: Oct
+  nb: ''
+  number: ''
+  optannote: ''
+  optnote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: PDF as a method is introduced to the inorganic chemistry community by
+    picking a number of scientific examples where the method has given novel insight.  It
+    is also briefly described how to get started doing the method.
+  tags: review
+  title: Local structure determination using total scattering data
+  url: https://doi.org/10.1016/B978-0-12-823144-9.00040-6
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2021'
 skjae;prx19:
   ackno: Experimental work was co-led by the groups at Brookhaven National Laboratory
     (BNL) and the Norwegian University of Science and Technology (NTNU). Theoretical
@@ -9625,43 +9662,6 @@ skjae;prx19:
   wwwemail: ''
   wwwpub: ''
   year: '2019'
-skjae;b;ciciii21:
-  ackno: S.H.S, Y.S.R., L.Y. and S.T. were supported by the U.S. National Science
-    Foundation through grant DMREF-1922234. S.J.L.B was supported by the U.S. Department
-    of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
-    contract No. DE-SC0012704. Soham Banerjee and Robert Koch are acknowledged for
-    valuable discussions.
-  author:
-    - Simon J. L. Billinge
-    - Sandra H. Skjaervoe
-    - Maxwell W. Terban
-    - Songsheng Tao
-    - Long Yang
-    - Yevgeny Rakita
-    - Benjamin A. Frandsen
-  booktitle: Comprehensive Inorganic Chemistry III
-  doi: 10.1016/B978-0-12-823144-9.00040-6
-  editor: Paul R Raithby, Angus Wilkinson
-  entrytype: inproceedings
-  facility: ''
-  grant: dmref19, fwp20
-  month: Oct
-  nb: ''
-  optnote: ''
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
-  synopsis: PDF as a method is introduced to the inorganic chemistry community
-    by picking a number of scientific examples where the method has given novel
-    insight.  It is also briefly described how to get started doing the method.
-  tags: review
-  title: Local structure determination using total scattering data
-  url: https://doi.org/10.1016/B978-0-12-823144-9.00040-6
-  volume: ''
-  wwwemail: ''
-  wwwpub: ''
-  year: '2021'
 sochn;jpcs12:
   author:
     - Sochnikov, I
