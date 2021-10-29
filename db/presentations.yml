@@ -2136,11 +2136,11 @@
   begin_date: 2020-10-30
   end_date: 2020-10-30
   location: Army Research Office online virtual workshop
-  meeting_name: 'Beyond Epitaxy: New moire platforms'
+  meeting_name: 'Beyond Epitaxy: New {Moire} platforms'
   project:
     - all
   status: accepted
-  title: Prospects for Scattering (towards moire)
+  title: Prospects for Scattering (towards {Moire})
   type: invited
   webinar: true
 2010sb_caltech:
@@ -2457,7 +2457,7 @@
   project:
     - all
   status: accepted
-  title: Reflections on the DANSE software project
+  title: Reflections on the {DANSE} software project
   type: invited
   webinar: true
 2105pk_esrf,grenoble,france:
@@ -2732,13 +2732,13 @@
     Systems
   type: contributed_oral
   webinar: true
-2109sb_grenada,spain:
+2109sb_granada,spain:
   abstract: na
   authors:
     - sbillinge
   begin_date: 2021-09-20
   end_date: 2021-09-24
-  location: Grenada, Spain
+  location: Granada, Spain
   meeting_name: ToscaLand total scattering workshop
   project:
     - all
@@ -2787,7 +2787,7 @@
     - all
   status: accepted
   title: Advanced modeling of nanostructure from Atomic Pair Distribution Functions
-    (PDFs) using diffpyCMI
+    ({PDF}s) using diffpy{CMI}
   type: tutorial
   webinar: true
 2109sb_prague,czechrepublic_github:
@@ -2845,8 +2845,8 @@
   project:
     - all
   status: accepted
-  title: Mapping nanostructure at the micro and nanoscale with the help of
-    x-rays and applied math
+  title: Mapping nanostructure at the micro and nanoscale with the help of x-rays
+    and applied math
   type: seminar
 2110sb_gaithersburg,md:
   abstract: 'GENESIS has expanded our ability to interrogate, predict, and control
@@ -2854,7 +2854,7 @@
     of next generation data science and experimental tools. '
   authors:
     - chliu
-    - cjwright
+    - cwright
     - zthatcher
     - sstao
     - yrakita
@@ -2881,6 +2881,33 @@
   status: accepted
   title: Next Generation Tools To Interrogate, Predict & Control Synthesis
   type: poster
+  webinar: true
+2110sb_oakridgenationallaboratory:
+  abstract: Total Scattering and atomic pair distribution function analysis continues
+    to have important scientific impacts in nanoscience, sustainable energy and beyond.  The
+    advent of powerful sources of x-rays, neutrons and electrons mean that increasing
+    complicated experimental scenarios can be studied in quasi-real time, smaller
+    and more dilute samples probed, and faster time-resolved experiments attempted.  These
+    are fueled by the sources, but also by the development of experimental hardware
+    capabilities at beamline end-stations and effective use of advanced data analysis
+    and modeling approaches.  In this talk I will describe recent developments in
+    all these regards, but with a focus on the data analysis and modeling, which are
+    recently developed or under development.  These include the use of machine learning
+    and streaming data analysis pipelines to take us towards quasi-real-time data
+    analysis and modeling, leveraging cloud computing to develop software tools as
+    a web service, and novel high throughput screening approaches to structural modeling,
+    and what insights these may provide to chemists, physicists and materials scientists
+  authors:
+    - sbillinge
+  begin_date: 2021-10-25
+  end_date: 2021-10-29
+  location: Oak Ridge National Laboratory
+  meeting_name: 2nd US School on Total Scattering Analysis
+  project:
+    - all
+  status: accepted
+  title: Recent and upcoming developments in {PDF} analysis
+  type: invited
   webinar: true
 2110sb_thetechnicaluniversityofdenmark,copenhagen,denmark:
   abstract: na
