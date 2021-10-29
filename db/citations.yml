@@ -418,54 +418,54 @@ baner;aca20:
   volume: '76'
   wwwemail: ''
   year: '2020'
-baner;aca20:
-  ackno: Work in the Billinge group was supported by the U.S. National Science Foundation
-    through grant DMREF-1534910. Banerjee acknowledges support from the National Defense
-    Science and Engineering Graduate Fellowship (DOD-NDSEG) program. Juhás was supported
-    by the New York State BNL Big Data Science Capital Project under the U.S. Department
-    of Energy (DOE) contract No. DE-SC-00112704. Jensen is grateful for funding from
-    the Villum foundation through a Villum Young Investigator grant. Sample synthesis
-    for the Pd nanoparticles discussed here was supported as part of the Catalysis
-    Center for Energy Innovation, an Energy Frontier Research Center funded by the
-    U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences
-    (DOE-BES) under award No. DE-SC0001004. Ackerson acknowledges support from NSF
-    CAREER 1455099. Gold nanocluster data collection at the Advanced Photon Source
-    at Argonne National Laboratory was supported by the DOE-BES under contract No.
-    DE-AC02-06CH11357. Measurements of Pd nanoparticles were conducted on beamline
-    28-ID-2 (XPD) at the National Synchrotron Light Source II at Brookhaven National
-    Laboratory, a DOE-BES user facility under contract No. DE-SC0012704.
+choud;npjcm21:
+  ackno: "Contributions from K.C. were supported by the financial assistance award
+    70NANB19H117 from the U.S. Department of Commerce, National Institute
+    of Standards and Technology. E.A.H. and R.C. (CMU) were supported by the
+    National Science Foundation under grant CMMI-1826218 and the Air Force
+    Recent Advances and Applications of Deep Learning Methods in Materials Science 41
+    D3OM2S Center of Excellence under agreement FA8650-19-2-5209. A.J, C.C and
+    S.P.O were supported by the Materials Project, funded by the U.S. Department
+    of Energy, Office of Science, Office of Basic Energy Sciences, Materials Sciences
+    and Engineering Division under contract no. DE-AC02-05-CH11231: Materials
+    Project program KC23MP. S.J.L.B. was supported by the U.S. National Science
+    Foundation through grant DMREF-1922234. A.A. and A.C. were supported by
+    NIST award 70NANB19H005 and NSF award CMMI-2053929"
   author:
-    - Banerjee, Soham
-    - Liu, Chia-Hao
-    - Jensen, Kirsten M. O.
-    - Juh\'{a}s, Pavol
-    - Lee, Jennifer D.
-    - Ackerson, Christopher J.
-    - Murray, Christopher B.
-    - Billinge, Simon J. L.
-  doi: 10.1107/S2053273319013214
+    - Kamal Choudhary
+    - Brian DeCost
+    - Chi Chen
+    - Anubhav Jain
+    - Francesca Tavazza
+    - Ryan Cohn
+    - Cheol WooPark
+    - Alok Choudhary
+    - Ankit Agrawal
+    - Simon J. L. Billinge
+    - Elizabeth Holm
+    - Shyue Ping Ong
+    - Chris Wolverton
+  doi: ""
   entrytype: article
-  facility: nslsii, xpd, aps, 11idb
-  grant: dmref15
-  journal: Acta Crystallogr. A
-  month: jan
-  nb: article, highlight, fy20
-  number: '1'
+  facility: ""
+  grant: dmref19
+  journal: npj Computational Materials
+  month: tbd
+  nb: article, highlight, fy21
+  number: ''
   optannote: ''
-  optnote: arXiv:1901.08754 [cond-mat.mtrl-sci]
+  note: submitted
   optwwwlanl: ''
-  optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
-  pages: 24-31
-  synopsis: The clusterMining database searching approach is introduced to find good
-    candidate close-packed decahedral and icosahedral structural models from large
-    numbers of candidate structures.
-  tags: nanoparticle, metallic, metallic_nanoparticle, ml, datamining, clustermining
-  title: 'Cluster-mining: An approach for determining core structures of metallic
-    nanoparticles from atomic pair distribution function data'
-  url: https://doi.org/10.1107/S2053273319013214
-  volume: '76'
+  optwwwpub: ''
+  pages: ''
+  synopsis: A review of the applications of deep learning methods in material science
+  tags: reveiw, ml, machine learning, deep learning, dl
+  title: Recent Advances and Applications of Deep
+    Learning Methods in Materials Science
+  url: ''
+  volume: ''
   wwwemail: ''
-  year: '2020'
+  year: '2021'
 baner;acsanm19:
   ackno: Work in the Billinge group was supported by U.S. Department of Energy, Office
     of Science, Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0012704.
