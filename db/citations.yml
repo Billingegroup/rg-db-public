@@ -9850,6 +9850,30 @@ terba;cgd15:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/terba_cgd15.pdf
   year: '2015'
+terba;cr21:
+  ackno: M.W.T. gratefully acknowledges support from BASF.  S.J.L.B's contributions  were
+    supported by the U.S. Department of Energy, Office of Science, Office of Basic
+    Energy Sciences (DOE-BES) under contract No. DE-SC0012704.
+  author:
+    - Maxwell Terban
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: fwp20
+  journal: Chem. Rev.
+  month: tbd
+  nb: ' art '
+  note: accepted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  tags: review, molecular
+  title: Structural analysis of molecular materials using the pair distribution function
+  url: ''
+  volume: ''
+  year: '2021'
 terba;ic17:
   ackno: We thank the U.S. Department of Energy NEUP DE-NE 0000746 for support of
     this research. This research used beamlines X17A of the National Synchrotron Light
@@ -11494,7 +11518,7 @@ zhao;prl21:
     - Alex Zunger
   doi: ''
   entrytype: article
-  facility: null
+  facility: ''
   grant: dmref19
   journal: Phys. Rev. Lett.
   month: tbd
