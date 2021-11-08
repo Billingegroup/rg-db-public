@@ -1682,6 +1682,39 @@ hhu:
   name: Hefei Hu
   position: engineer
   position_full: Engineer - 3D XPoint Memory Technology
+hjkim:
+  active: false
+  aka:
+    - Hyun-Jeong Kim
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education:
+    - begin_year: 2002
+      end_year: 2007
+      end_month: 9
+      institution: msu
+      degree: PhD
+      advisor: sbillinge
+      group: bg
+  employment:
+    - begin_year: 2004
+      begin_month: 9
+      position: Researcher
+      organization: aist
+    - begin_year: 2007
+      end_year: 2010
+      position: post doctoral associate
+      organization: lanl
+    - begin_year: 2002
+      begin_month: 6
+      end_year: 2007
+      position: graduate research assistant
+      organization: msu
+      advisor: sbillinge
+      group: bg
+      status: phd
+  name: Hyun-Jeong Kim
+  position: researcher
 hlin:
   active: false
   aka: []
@@ -1819,19 +1852,29 @@ ikjeong:
   bio: bio
   education:
     - begin_year: 1998
-      end_year: 2003
+      end_year: 2001
       institution: msu
       degree: PhD
       advisor: sbillinge
       group: bg
   employment:
-    - begin_year: 2000
+    - begin_year: 2004
+      begin_month: 9
+      position: Professor
+      organization: pohangu
+    - begin_year: 2001
+      begin_month: 4
+      end_year: 2004
+      position: post doctoral associate
+      organization: lanl
+    - begin_year: 1998
       begin_month: 6
-      end_year: 2005
+      end_year: 2001
       position: graduate research assistant
       organization: msu
       advisor: sbillinge
       group: bg
+      status: phd
   name: Il-Kyong Jeong
   position: professor
 jbloch:

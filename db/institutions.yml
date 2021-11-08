@@ -66,6 +66,15 @@ afrl:
   updated: 2021-04-11 17:30:07.571638
   uuid: e7db51d4-0fa1-4690-8ea6-0a1e9716b642
   zip: '45433'
+aist:
+  city: Tsukuba
+  country: Japan
+  date: 2021-11-08
+  name: National Institute of Advanced Industrial Science and Technology
+  state: Ibaraki
+  updated: 2021-11-08 17:10:13.968235
+  uuid: b12bc7e5-2762-4ae0-a23f-28c5cd88cf54
+  zip: 305-8569
 albemarlecorp:
   aka:
     - albemarlecorp
