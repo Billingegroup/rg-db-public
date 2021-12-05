@@ -1639,40 +1639,6 @@ billi;np09:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/billinge_nphys_09.pdf
   year: '2009'
-billi;nrmp21:
-  ackno: S. J. L. B.’s contributions were supported by the U. S. Department of energy,
-    Office of Science, Office of Basic Energy Sciences (DOE-BES) under contract No.
-    DE-SC0012704.
-  author:
-    - James A. Kaduk
-    - Simon J. L. Billinge
-    - R. E. Dinnebier
-    - Nathan Henderson
-    - Ian Madsen
-    - Radovan \v{C}ern\'y
-    - Matteo Leoni
-    - Luca Lutterotti
-    - Seema Thakral
-  doi: 10.1038/s43586-021-00074-7
-  entrytype: article
-  facility: ''
-  grant: fwp20
-  journal: Nature Reviews Methods Primer
-  month: nov
-  nb: ' art '
-  number: ''
-  optannote: ''
-  optnote: ''
-  optwwwlanl: ''
-  pages: '77'
-  synopsis: A brief and broad overview of what is powder diffraction in general and
-    what it is used for in the new Nature Reviews Primer section.  This includes a
-    short section on PDF methods.
-  tags: review, powder_diffraction
-  title: Powder Diffraction
-  url: https://doi.org/10.1038/s43586-021-00074-7
-  volume: '1'
-  year: '2021'
 billi;nsf06:
   author:
     - Billinge, S. J. L.
@@ -6046,6 +6012,40 @@ juhas;n06:
   wwwemail: ' sb2896@columbia.edu'
   wwwpub: http://www.nature.com/nature/journal/v440/n7084/pdf/nature04556.pdf
   year: '2006'
+kaduk;nrmp21:
+  ackno: S. J. L. B.’s contributions were supported by the U. S. Department of energy,
+    Office of Science, Office of Basic Energy Sciences (DOE-BES) under contract No.
+    DE-SC0012704.
+  author:
+    - James A. Kaduk
+    - Simon J. L. Billinge
+    - R. E. Dinnebier
+    - Nathan Henderson
+    - Ian Madsen
+    - Radovan \v{C}ern\'y
+    - Matteo Leoni
+    - Luca Lutterotti
+    - Seema Thakral
+  doi: 10.1038/s43586-021-00074-7
+  entrytype: article
+  facility: ''
+  grant: fwp20
+  journal: Nature Reviews Methods Primer
+  month: nov
+  nb: ' art '
+  number: ''
+  optannote: ''
+  optnote: ''
+  optwwwlanl: ''
+  pages: '77'
+  synopsis: A brief and broad overview of what is powder diffraction in general and
+    what it is used for in the new Nature Reviews Primer section.  This includes a
+    short section on PDF methods.
+  tags: review, powder_diffraction
+  title: Powder Diffraction
+  url: https://doi.org/10.1038/s43586-021-00074-7
+  volume: '1'
+  year: '2021'
 kane;cm96:
   author:
     - Kane, M. S.
@@ -6165,7 +6165,7 @@ knox;prb14:
   volume: '89'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/knox_prb14.pdf
   year: '2014'
-koch;arxiv20:
+koch;prl21:
   ackno: Work  at  Brookhaven  National  Laboratory  was  supported by U.S. Department
     of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
     contract No.  DE-SC0012704.  R.S. and H.Z. thank the support from the U.S. Department
@@ -6970,7 +6970,7 @@ liu;aca19:
   volume: '75'
   wwwemail: ''
   year: '2019'
-liu;jac19:
+liu;jac20:
   ackno: This work was supported by the National Science Foundation DMREF program
     under CBET-16929502. X-ray measurements conducted at beamline 11-BM of the National
     Synchrotron Light Source II, a U.S. Department of Energy (DOE) Office of Science
@@ -7156,7 +7156,7 @@ liu;sr14:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/liu_sr14.pdf
   year: '2014'
-lo;nc20:
+lo;nc19:
   ackno: We dedicate this paper to the memory of H.-Y. Huang (Department of Chemistry,
     Chung Yuan Christian University) for her enthusiasm for—and encouragement of—this
     work. The gas adsorption–desorption studies and enzyme immobilization of this
