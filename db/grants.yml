@@ -637,7 +637,7 @@
   amount: 4100000.0
   awardnr: DE-SC0012704
   begin_date: 2020-10-01
-  end_date: 2023-09-30
+  end_date: 2021-09-30
   funder: DOE-BES
   team:
     - institution: columbiau
@@ -681,6 +681,18 @@
       subaward_amount: 101638
   title: Pair Distribution Function (PDF) Methodology and Advanced Computing for Nanostructure
     Determination
+21_bnl:
+  amount: 67376.63
+  awardnr: n/a
+  begin_date: 2021-10-18
+  end_date: 2022-10-17
+  funder: Brookhaven National Laboratory
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 67376.63
+  title: Ultrafast PDF developments
 21_jhu_mitra:
   amount: 45000
   begin_date: 2021-06-01
