@@ -995,6 +995,21 @@ cyshi:
   google_scholar_url: https://scholar.google.com/citations?user=W32kTkEAAAAJ
   name: Chenyang Shi
   position: scientist
+dhsu:
+  active: false
+  aka:
+    - Dan Hsu
+    - Hsu, Daniel J.
+    - Hsu, Daniel
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: bio
+  education: []
+  employment: []
+  name: Daniel Hsu
+  position: professor
+  service: []
+  skills: []
+  title: Prof.
 dpodgorski:
   active: false
   aka:
@@ -2087,7 +2102,7 @@ jliu:
       end_month: 10
       end_year: 2010
       group: bg
-      status: phd
+      status: postdoc
       advisor: sbillinge
       organization: Columbia University
       position: post-doctoral scholar
@@ -2283,9 +2298,8 @@ kknox:
       position: post-doctoral scholar
     - begin_year: 2006
       end_year: 2011
-      group: bg
       status: phd
-      advisor: sbillinge
+      advisor: rosgood
       organization: Columbia University
       position: graduate research assistant
   name: Kevin Knox
