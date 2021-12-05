@@ -184,7 +184,7 @@ ander;iucrj20:
   wwwemail: ''
   wwwpub: ''
   year: '2021'
-andon;c;tacolt:
+andon;c;tacolt17:
   address: Amsterdam, Netherlands
   author:
     - Andoni, Alexandr
@@ -1639,6 +1639,40 @@ billi;np09:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/billinge_nphys_09.pdf
   year: '2009'
+billi;nrmp21:
+  ackno: S. J. L. B.’s contributions were supported by the U. S. Department of energy,
+    Office of Science, Office of Basic Energy Sciences (DOE-BES) under contract No.
+    DE-SC0012704.
+  author:
+    - James A. Kaduk
+    - Simon J. L. Billinge
+    - R. E. Dinnebier
+    - Nathan Henderson
+    - Ian Madsen
+    - Radovan \v{C}ern\'y
+    - Matteo Leoni
+    - Luca Lutterotti
+    - Seema Thakral
+  doi: 10.1038/s43586-021-00074-7
+  entrytype: article
+  facility: ''
+  grant: fwp20
+  journal: Nature Reviews Methods Primer
+  month: nov
+  nb: ' art '
+  number: ''
+  optannote: ''
+  optnote: ''
+  optwwwlanl: ''
+  pages: '77'
+  synopsis: A brief and broad overview of what is powder diffraction in general and
+    what it is used for in the new Nature Reviews Primer section.  This includes a
+    short section on PDF methods.
+  tags: review, powder_diffraction
+  title: Powder Diffraction
+  url: https://doi.org/10.1038/s43586-021-00074-7
+  volume: '1'
+  year: '2021'
 billi;nsf06:
   author:
     - Billinge, S. J. L.
@@ -3210,7 +3244,7 @@ choud;npjcm21:
   facility: ''
   grant: dmref19
   journal: npj Computational Materials
-  month: tbd
+  month: Oct
   nb: article, highlight, fy21
   note: arXiv 2110.14820
   number: ''
@@ -3521,7 +3555,7 @@ derak;jacs04:
   wwwemail: sb2896@columbia.edu
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/04derakjacs.pdf
   year: '2004'
-dicke;ejos17:
+dicke;ejs17:
   author:
     - Dicker, Lee H.
     - Foster, Dean P.
@@ -3681,7 +3715,7 @@ dudej;arxiv20:
   number: ''
   optannote: ''
   optwwwlanl: ''
-  pages: 2008.04101
+  pages: '2008.04101'
   title: Statistical Query Lower Bounds for Tensor PCA
   url: https://arxiv.org/abs/2008.04101
   volume: ''
@@ -5269,14 +5303,11 @@ hitt;nc21:
   wwwemail: ''
   wwwpub: ''
   year: '2021'
-hsu2017linear:
+hsu;b;lrwc17:
   author:
-    - Hsu,
-    - Daniel,
-    - Shi,
-    - Kevin,
-    - Sun,
-    - Xiaorui,
+    - Hsu, Daniel
+    - Shi, Kevin
+    - Sun, Xiaorui
   booktitle: Advances in Neural Information Processing Systems 30
   entrytype: inproceedings
   grant: dmref15
@@ -5606,6 +5637,45 @@ jense;jes15:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/15jensenjes.pdf
   year: '2015'
+jense;m21:
+  ackno: The authors gratefully acknowledge the Mary Rose Trust for supporting this
+    work and facilitating sampling from the Mary Rose. This work was supported by
+    funding from the Leverhulme Trust (RPG-2015-134) and is gratefully acknowledged
+    by SC, ES, ESP and ERE. KMØJ acknowledges funding from the Villum Foundation and
+    from the Danish Research Council under the Sapere Aude Research Talent Program.
+    SJLB was supported by the U.S. Department of Energy, Office of Science, Office
+    of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0012704. The authors
+    gratefully acknowledge the help and technical support of Mr Michael Beglan and
+    Mr Peter Chung at the University of Glasgow. The ESRF is acknowledged for the
+    provision of experimental beam-time at beamline ID15A (proposal number HG-34)
+  author:
+    - Kirsten M. Ø. Jensen
+    - Esther Rani Aluri
+    - Enrique Sanchez Perez
+    - Gavin B. M. Vaughan
+    - Marco Di Michel
+    - Eleanor J. Schofield
+    - Simon J. L. Billinge
+    - Serena A. Curran
+  doi: 10.1016/j.matt.2021.09.026
+  entrytype: article
+  facility: esrf, id15
+  grant: fwp20
+  journal: Matter
+  month: dec
+  nb: ' art '
+  number: ''
+  optannote: ''
+  optnote: to be published
+  optwwwlanl: ''
+  pages: 1--12
+  synopsis: ''
+  tags: ''
+  title: Location and characterization of heterogeneous phases within {Mary Rose}
+    wood
+  url: https://doi.org/10.1016/j.matt.2021.09.026
+  volume: '4'
+  year: '2021'
 jense;nc16:
   author:
     - Jensen, Kirsten M. {\O}.
@@ -10352,7 +10422,7 @@ tosh;arxiv20:
   number: ''
   optannote: ''
   optwwwlanl: ''
-  pages: 2008.1015
+  pages: '2008.1015'
   title: Contrastive learning, multi-view redundancy, and linear models
   url: https://arxiv.org/abs/2008.10150
   volume: ''
@@ -10958,20 +11028,6 @@ xiao;am19:
   wwwemail: ''
   wwwpub: ''
   year: '2019'
-xu2017benefits:
-  author:
-    - Xu, Ji
-    - Hsu, Daniel,
-    - Maleki, Arian,
-  booktitle: Advances in Neural Information Processing Systems
-  editor: Bengio, S. and Wallach, H. and Larochelle, H. and Grauman, K. Cesa-Bianchi,
-    N. and Garnett, R.
-  entrytype: inproceedings
-  pages: 10662-10672
-  publisher: Curran Associates, Inc.
-  title: Benefits of overparameterization with EM
-  url: http://papers.nips.cc/paper/8265-benefits-of-over-parameterization-with-em.pdf
-  year: '2018'
 xu;b;ainips18:
   author:
     - Xu, Ji
@@ -11099,7 +11155,7 @@ yang;aca21:
   volume: '77'
   wwwemail: ''
   year: '2021'
-yang;arxiv15:
+yang;arxiv14:
   author:
     - Yang, Xiaohao
     - Juh\'{a}s, Pavol
@@ -11122,7 +11178,7 @@ yang;arxiv15:
   volume: ''
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/15yangxpdfsuite.pdf
-  year: '2015'
+  year: '2014'
 yang;jac14:
   author:
     - Yang, Xiaohao
