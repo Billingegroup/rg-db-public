@@ -2193,25 +2193,6 @@
     distribution function ({PDF}) diffraction data
   type: seminar
   webinar: true
-2011sb_KigaliRwanda:
-  abstract: tbd
-  authors:
-    - sbillinge
-  begin_day: 16
-  begin_month: 11
-  begin_year: 2020
-  end_day: 20
-  end_month: 11
-  end_year: 2020
-  location: Kigali, Rwanda
-  meeting_name: '3rd African synchrotron light source meeting, AfLS3: Towards a brighter
-    future'
-  notes: []
-  project:
-    - all
-  status: postponed
-  title: tbd
-  type: invited
 2011sb_desy,hamburg:
   abstract: Nanostructure is now at the center of many efforts to design advanced
     next generation materials.  Total scattering and atomic pair distribution function
@@ -2938,6 +2919,31 @@
   title: tbd
   type: invited
   webinar: true
+2111sb_rwanda:
+  abstract: Devices for sustainable energy applications are notoriously complex in
+    structure, with heterogeneities and structures on different lengthscales. This
+    requires characterization tools that can study material structure on different
+    lengthscales with high precision.  This is possible with intense x-rays and advanced
+    computational and data analytical methods.  I will describe with examples some
+    recent developments in local structure analysis that gives critical information
+    about catalysts for solar fuel conversion, battery electrode materials and even
+    pharmaceuticals
+  authors:
+    - sbillinge
+  begin_date: 2021-11-15
+  end_date: 2021-11-19
+  location: Rwanda
+  meeting_name: Joint virtual meeting of the African Light Source (AfLS3-2021), Pan-African
+    Conference on Crystallography Online (ePCCr), and the African Physical Society
+    (AfPS-2021)
+  notes:
+    - 15 minutes talk on Friday, per lawrence email
+  project:
+    - all
+  status: accepted
+  title: Local structure of energy materials and beyond with synchrotron data
+  type: invited
+  webinar: true
 2111st_mrs,ma,usa:
   abstract: Metal oxide nanoparticles have a number of important technological applications
     in electronic devices. In particular, titanium(IV) oxide nanoparticles have potential
@@ -3022,18 +3028,29 @@
     on the dynamic deformation response of FCC and BCC multi-principal element alloys
   type: contributed_oral
 2112sb_bostonuniversity:
-  abstract: tbd
+  abstract: Increased data rates are great.  Who doesn't want more, better, data?
+    But we need help to keep up with all this high velocity data. As well as the data
+    coming more quickly, it is also coming in more abstract form.  Gone are the days
+    when a Bragg peak appears in front of our eyes as we measure each point individually.  Instead
+    we have a 2D image that needs multiple steps of preanalysis before it is interpretable.   I
+    will discuss our activities to address these issues working with scientists at
+    sector 28 at NSLS-II.  AI and Machine Learning methods are beginning to play a
+    role at all steps of the process and will have large impacts moving forward as
+    more and more processes use them to automate and extract more information from
+    the data.  I will present examples where statistical and ML methods have had impacts
+    at all points along the analysis and data interpretation chain.
   authors:
     - sbillinge
   begin_date: 2021-12-10
+  department: Department of Materials Science and Engineering
   end_date: 2021-12-10
-  location: Boston University
-  meeting_name: Department of Materials Science and Engineering
+  institution: Boston University
   project:
     - all
   status: accepted
-  title: tbd
-  type: invited
+  title: 'Keeping up with the data: accelerating materials discovery in a high data
+    velocity world'
+  type: seminar
 2201sb_orlando,florida,usa.:
   abstract: tbd
   authors:
