@@ -1004,7 +1004,13 @@ dhsu:
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: bio
   education: []
-  employment: []
+  employment:
+    - begin_year: 2012
+      begin_month: 11
+      position: visiting student
+      organization: columbiau
+      end_year: 2013
+      end_month: 1
   name: Daniel Hsu
   position: professor
   service: []

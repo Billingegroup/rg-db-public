@@ -6165,6 +6165,40 @@ knox;prb14:
   volume: '89'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/knox_prb14.pdf
   year: '2014'
+koch;prb19:
+  ackno: This work was supported by US Department of Energy, Office of Science, Office
+    of Basic Energy Sciences (DOE-BES) under Contract No. DE-SC0012704. X-ray PDF
+    measurements were conducted on beamline 28-ID-1 of the National Synchrotron Light
+    Source II, a US Department of Energy (DOE) Office of Science User Facility operated
+    for the DOE Office of Science by Brookhaven National Laboratory under Contract
+    No. DE-SC0012704.
+  author:
+    - Koch, R. J.
+    - Bozin, E. S.
+    - Petrovic, C.
+    - Zhu, Y.
+    - Abeykoon, M.
+    - Billinge, Simon J. L.
+  day: '3'
+  doi: 10.1103/PhysRevB.100.020501
+  entrytype: article
+  facility: pdf, nslsii
+  grant: fwp17, typeA, fy19
+  journal: Phys. Rev. B., Rapid Communications
+  month: July
+  nb: art, highlight, typeA, fy19
+  note: Editor's suggestion
+  number: ''
+  optannote: arXiv:1902.08732 [cond-mat.supr-con]
+  optwwwlanl: ''
+  optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
+  pages: 020501(R)
+  tags: odl, superconductor
+  title: Room temperature local nematicity in an iron-selenide superconducing sample
+  url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.020501
+  volume: '100'
+  wwwemail: ''
+  year: '2019'
 koch;prl21:
   ackno: Work  at  Brookhaven  National  Laboratory  was  supported by U.S. Department
     of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
@@ -6235,40 +6269,6 @@ koch;prl21:
   wwwemail: ''
   wwwpub: ''
   year: '2021'
-koch;prb19:
-  ackno: This work was supported by US Department of Energy, Office of Science, Office
-    of Basic Energy Sciences (DOE-BES) under Contract No. DE-SC0012704. X-ray PDF
-    measurements were conducted on beamline 28-ID-1 of the National Synchrotron Light
-    Source II, a US Department of Energy (DOE) Office of Science User Facility operated
-    for the DOE Office of Science by Brookhaven National Laboratory under Contract
-    No. DE-SC0012704.
-  author:
-    - Koch, R. J.
-    - Bozin, E. S.
-    - Petrovic, C.
-    - Zhu, Y.
-    - Abeykoon, M.
-    - Billinge, Simon J. L.
-  day: '3'
-  doi: 10.1103/PhysRevB.100.020501
-  entrytype: article
-  facility: pdf, nslsii
-  grant: fwp17, typeA, fy19
-  journal: Phys. Rev. B., Rapid Communications
-  month: July
-  nb: art, highlight, typeA, fy19
-  note: Editor's suggestion
-  number: ''
-  optannote: arXiv:1902.08732 [cond-mat.supr-con]
-  optwwwlanl: ''
-  optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
-  pages: 020501(R)
-  tags: odl, superconductor
-  title: Room temperature local nematicity in an iron-selenide superconducing sample
-  url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.020501
-  volume: '100'
-  wwwemail: ''
-  year: '2019'
 konst;prb19:
   ackno: The authors thank A. F. Kemper, L. Classen, A. V. Chubukov, R. M. Konik,
     and A. M. Lindenberg for useful discussions and S. Lapidus for XPD measurements
