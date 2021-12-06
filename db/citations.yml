@@ -184,7 +184,7 @@ ander;iucrj20:
   wwwemail: ''
   wwwpub: ''
   year: '2021'
-andon;c;tacolt:
+andon;c;tacolt17:
   address: Amsterdam, Netherlands
   author:
     - Andoni, Alexandr
@@ -3179,6 +3179,52 @@ choi;nl14:
   volume: '14'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/JC_XY_NL2013.pdf
   year: '2014'
+choud;npjcm21:
+  ackno: 'Contributions from K.C. were supported by the financial assistance award
+    70NANB19H117 from the U.S. Department of Commerce, National Institute of Standards
+    and Technology. E.A.H. and R.C. (CMU) were supported by the National Science Foundation
+    under grant CMMI-1826218 and the Air Force Recent Advances and Applications of
+    Deep Learning Methods in Materials Science 41 D3OM2S Center of Excellence under
+    agreement FA8650-19-2-5209. A.J, C.C and S.P.O were supported by the Materials
+    Project, funded by the U.S. Department of Energy, Office of Science, Office of
+    Basic Energy Sciences, Materials Sciences and Engineering Division under contract
+    no. DE-AC02-05-CH11231: Materials Project program KC23MP. S.J.L.B. was supported
+    by the U.S. National Science Foundation through grant DMREF-1922234. A.A. and
+    A.C. were supported by NIST award 70NANB19H005 and NSF award CMMI-2053929'
+  author:
+    - Kamal Choudhary
+    - Brian DeCost
+    - Chi Chen
+    - Anubhav Jain
+    - Francesca Tavazza
+    - Ryan Cohn
+    - Cheol WooPark
+    - Alok Choudhary
+    - Ankit Agrawal
+    - Simon J. L. Billinge
+    - Elizabeth Holm
+    - Shyue Ping Ong
+    - Chris Wolverton
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: dmref19
+  journal: npj Computational Materials
+  month: Oct
+  nb: article, highlight, fy21
+  note: arXiv 2110.14820
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  optwwwpub: ''
+  pages: ''
+  synopsis: A review of the applications of deep learning methods in material science
+  tags: reveiw, ml, machine learning, deep learning, dl
+  title: Recent Advances and Applications of Deep Learning Methods in Materials Science
+  url: https://arxiv.org/abs/2110.14820
+  volume: ''
+  wwwemail: ''
+  year: '2021'
 chuby;pre05:
   author:
     - Chubynsky, M. V.
@@ -3475,7 +3521,7 @@ derak;jacs04:
   wwwemail: sb2896@columbia.edu
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/04derakjacs.pdf
   year: '2004'
-dicke;ejos17:
+dicke;ejs17:
   author:
     - Dicker, Lee H.
     - Foster, Dean P.
@@ -3635,7 +3681,7 @@ dudej;arxiv20:
   number: ''
   optannote: ''
   optwwwlanl: ''
-  pages: 2008.04101
+  pages: '2008.04101'
   title: Statistical Query Lower Bounds for Tensor PCA
   url: https://arxiv.org/abs/2008.04101
   volume: ''
@@ -5223,14 +5269,11 @@ hitt;nc21:
   wwwemail: ''
   wwwpub: ''
   year: '2021'
-hsu2017linear:
+hsu;b;lrwc17:
   author:
-    - Hsu,
-    - Daniel,
-    - Shi,
-    - Kevin,
-    - Sun,
-    - Xiaorui,
+    - Hsu, Daniel
+    - Shi, Kevin
+    - Sun, Xiaorui
   booktitle: Advances in Neural Information Processing Systems 30
   entrytype: inproceedings
   grant: dmref15
@@ -5560,6 +5603,45 @@ jense;jes15:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/15jensenjes.pdf
   year: '2015'
+jense;m21:
+  ackno: The authors gratefully acknowledge the Mary Rose Trust for supporting this
+    work and facilitating sampling from the Mary Rose. This work was supported by
+    funding from the Leverhulme Trust (RPG-2015-134) and is gratefully acknowledged
+    by SC, ES, ESP and ERE. KMØJ acknowledges funding from the Villum Foundation and
+    from the Danish Research Council under the Sapere Aude Research Talent Program.
+    SJLB was supported by the U.S. Department of Energy, Office of Science, Office
+    of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0012704. The authors
+    gratefully acknowledge the help and technical support of Mr Michael Beglan and
+    Mr Peter Chung at the University of Glasgow. The ESRF is acknowledged for the
+    provision of experimental beam-time at beamline ID15A (proposal number HG-34)
+  author:
+    - Kirsten M. Ø. Jensen
+    - Esther Rani Aluri
+    - Enrique Sanchez Perez
+    - Gavin B. M. Vaughan
+    - Marco Di Michel
+    - Eleanor J. Schofield
+    - Simon J. L. Billinge
+    - Serena A. Curran
+  doi: 10.1016/j.matt.2021.09.026
+  entrytype: article
+  facility: esrf, id15
+  grant: fwp20
+  journal: Matter
+  month: dec
+  nb: ' art '
+  number: ''
+  optannote: ''
+  optnote: to be published
+  optwwwlanl: ''
+  pages: 1--12
+  synopsis: ''
+  tags: ''
+  title: Location and characterization of heterogeneous phases within {Mary Rose}
+    wood
+  url: https://doi.org/10.1016/j.matt.2021.09.026
+  volume: '4'
+  year: '2021'
 jense;nc16:
   author:
     - Jensen, Kirsten M. {\O}.
@@ -5930,6 +6012,40 @@ juhas;n06:
   wwwemail: ' sb2896@columbia.edu'
   wwwpub: http://www.nature.com/nature/journal/v440/n7084/pdf/nature04556.pdf
   year: '2006'
+kaduk;nrmp21:
+  ackno: S. J. L. B.’s contributions were supported by the U. S. Department of energy,
+    Office of Science, Office of Basic Energy Sciences (DOE-BES) under contract No.
+    DE-SC0012704.
+  author:
+    - James A. Kaduk
+    - Simon J. L. Billinge
+    - R. E. Dinnebier
+    - Nathan Henderson
+    - Ian Madsen
+    - Radovan \v{C}ern\'y
+    - Matteo Leoni
+    - Luca Lutterotti
+    - Seema Thakral
+  doi: 10.1038/s43586-021-00074-7
+  entrytype: article
+  facility: ''
+  grant: fwp20
+  journal: Nature Reviews Methods Primer
+  month: nov
+  nb: ' art '
+  number: ''
+  optannote: ''
+  optnote: ''
+  optwwwlanl: ''
+  pages: '77'
+  synopsis: A brief and broad overview of what is powder diffraction in general and
+    what it is used for in the new Nature Reviews Primer section.  This includes a
+    short section on PDF methods.
+  tags: review, powder_diffraction
+  title: Powder Diffraction
+  url: https://doi.org/10.1038/s43586-021-00074-7
+  volume: '1'
+  year: '2021'
 kane;cm96:
   author:
     - Kane, M. S.
@@ -6049,7 +6165,41 @@ knox;prb14:
   volume: '89'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/knox_prb14.pdf
   year: '2014'
-koch;arxiv20:
+koch;prb19:
+  ackno: This work was supported by US Department of Energy, Office of Science, Office
+    of Basic Energy Sciences (DOE-BES) under Contract No. DE-SC0012704. X-ray PDF
+    measurements were conducted on beamline 28-ID-1 of the National Synchrotron Light
+    Source II, a US Department of Energy (DOE) Office of Science User Facility operated
+    for the DOE Office of Science by Brookhaven National Laboratory under Contract
+    No. DE-SC0012704.
+  author:
+    - Koch, R. J.
+    - Bozin, E. S.
+    - Petrovic, C.
+    - Zhu, Y.
+    - Abeykoon, M.
+    - Billinge, Simon J. L.
+  day: '3'
+  doi: 10.1103/PhysRevB.100.020501
+  entrytype: article
+  facility: pdf, nslsii
+  grant: fwp17, typeA, fy19
+  journal: Phys. Rev. B., Rapid Communications
+  month: July
+  nb: art, highlight, typeA, fy19
+  note: Editor's suggestion
+  number: ''
+  optannote: arXiv:1902.08732 [cond-mat.supr-con]
+  optwwwlanl: ''
+  optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
+  pages: 020501(R)
+  tags: odl, superconductor
+  title: Room temperature local nematicity in an iron-selenide superconducing sample
+  url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.020501
+  volume: '100'
+  wwwemail: ''
+  year: '2019'
+koch;prl21:
   ackno: Work  at  Brookhaven  National  Laboratory  was  supported by U.S. Department
     of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
     contract No.  DE-SC0012704.  R.S. and H.Z. thank the support from the U.S. Department
@@ -6119,40 +6269,6 @@ koch;arxiv20:
   wwwemail: ''
   wwwpub: ''
   year: '2021'
-koch;prb19:
-  ackno: This work was supported by US Department of Energy, Office of Science, Office
-    of Basic Energy Sciences (DOE-BES) under Contract No. DE-SC0012704. X-ray PDF
-    measurements were conducted on beamline 28-ID-1 of the National Synchrotron Light
-    Source II, a US Department of Energy (DOE) Office of Science User Facility operated
-    for the DOE Office of Science by Brookhaven National Laboratory under Contract
-    No. DE-SC0012704.
-  author:
-    - Koch, R. J.
-    - Bozin, E. S.
-    - Petrovic, C.
-    - Zhu, Y.
-    - Abeykoon, M.
-    - Billinge, Simon J. L.
-  day: '3'
-  doi: 10.1103/PhysRevB.100.020501
-  entrytype: article
-  facility: pdf, nslsii
-  grant: fwp17, typeA, fy19
-  journal: Phys. Rev. B., Rapid Communications
-  month: July
-  nb: art, highlight, typeA, fy19
-  note: Editor's suggestion
-  number: ''
-  optannote: arXiv:1902.08732 [cond-mat.supr-con]
-  optwwwlanl: ''
-  optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
-  pages: 020501(R)
-  tags: odl, superconductor
-  title: Room temperature local nematicity in an iron-selenide superconducing sample
-  url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.020501
-  volume: '100'
-  wwwemail: ''
-  year: '2019'
 konst;prb19:
   ackno: The authors thank A. F. Kemper, L. Classen, A. V. Chubukov, R. M. Konik,
     and A. M. Lindenberg for useful discussions and S. Lapidus for XPD measurements
@@ -6854,7 +6970,7 @@ liu;aca19:
   volume: '75'
   wwwemail: ''
   year: '2019'
-liu;jac19:
+liu;jac20:
   ackno: This work was supported by the National Science Foundation DMREF program
     under CBET-16929502. X-ray measurements conducted at beamline 11-BM of the National
     Synchrotron Light Source II, a U.S. Department of Energy (DOE) Office of Science
@@ -7040,7 +7156,7 @@ liu;sr14:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/liu_sr14.pdf
   year: '2014'
-lo;nc20:
+lo;nc19:
   ackno: We dedicate this paper to the memory of H.-Y. Huang (Department of Chemistry,
     Chung Yuan Christian University) for her enthusiasm for—and encouragement of—this
     work. The gas adsorption–desorption studies and enzyme immobilization of this
@@ -9535,6 +9651,43 @@ simps;ic10:
   volume: '49'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/simps_ic10.pdf
   year: '2010'
+skjae;b;ciciii21:
+  ackno: S.H.S, Y.S.R., L.Y. and S.T. were supported by the U.S. National Science
+    Foundation through grant DMREF-1922234. S.J.L.B was supported by the U.S. Department
+    of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
+    contract No. DE-SC0012704. Soham Banerjee and Robert Koch are acknowledged for
+    valuable discussions.
+  author:
+    - Simon J. L. Billinge
+    - Sandra H. Skjaervoe
+    - Maxwell W. Terban
+    - Songsheng Tao
+    - Long Yang
+    - Yevgeny Rakita
+    - Benjamin A. Frandsen
+  booktitle: Comprehensive Inorganic Chemistry III
+  doi: 10.1016/B978-0-12-823144-9.00040-6
+  editor: Paul R Raithby, Angus Wilkinson
+  entrytype: inproceedings
+  facility: ''
+  grant: dmref19, fwp20
+  month: Oct
+  nb: ''
+  number: ''
+  optannote: ''
+  optnote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: PDF as a method is introduced to the inorganic chemistry community by
+    picking a number of scientific examples where the method has given novel insight.  It
+    is also briefly described how to get started doing the method.
+  tags: review
+  title: Local structure determination using total scattering data
+  url: https://doi.org/10.1016/B978-0-12-823144-9.00040-6
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2021'
 skjae;prx19:
   ackno: Experimental work was co-led by the groups at Brookhaven National Laboratory
     (BNL) and the Norwegian University of Science and Technology (NTNU). Theoretical
@@ -9767,6 +9920,30 @@ terba;cgd15:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/terba_cgd15.pdf
   year: '2015'
+terba;cr21:
+  ackno: M.W.T. gratefully acknowledges support from BASF.  S.J.L.B's contributions  were
+    supported by the U.S. Department of Energy, Office of Science, Office of Basic
+    Energy Sciences (DOE-BES) under contract No. DE-SC0012704.
+  author:
+    - Maxwell Terban
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: fwp20
+  journal: Chem. Rev.
+  month: tbd
+  nb: ' art '
+  note: accepted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  tags: review, molecular
+  title: Structural analysis of molecular materials using the pair distribution function
+  url: ''
+  volume: ''
+  year: '2021'
 terba;ic17:
   ackno: We thank the U.S. Department of Energy NEUP DE-NE 0000746 for support of
     this research. This research used beamlines X17A of the National Synchrotron Light
@@ -10245,7 +10422,7 @@ tosh;arxiv20:
   number: ''
   optannote: ''
   optwwwlanl: ''
-  pages: 2008.1015
+  pages: '2008.1015'
   title: Contrastive learning, multi-view redundancy, and linear models
   url: https://arxiv.org/abs/2008.10150
   volume: ''
@@ -10851,20 +11028,6 @@ xiao;am19:
   wwwemail: ''
   wwwpub: ''
   year: '2019'
-xu2017benefits:
-  author:
-    - Xu, Ji
-    - Hsu, Daniel,
-    - Maleki, Arian,
-  booktitle: Advances in Neural Information Processing Systems
-  editor: Bengio, S. and Wallach, H. and Larochelle, H. and Grauman, K. Cesa-Bianchi,
-    N. and Garnett, R.
-  entrytype: inproceedings
-  pages: 10662-10672
-  publisher: Curran Associates, Inc.
-  title: Benefits of overparameterization with EM
-  url: http://papers.nips.cc/paper/8265-benefits-of-over-parameterization-with-em.pdf
-  year: '2018'
 xu;b;ainips18:
   author:
     - Xu, Ji
@@ -10992,7 +11155,7 @@ yang;aca21:
   volume: '77'
   wwwemail: ''
   year: '2021'
-yang;arxiv15:
+yang;arxiv14:
   author:
     - Yang, Xiaohao
     - Juh\'{a}s, Pavol
@@ -11015,7 +11178,7 @@ yang;arxiv15:
   volume: ''
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/15yangxpdfsuite.pdf
-  year: '2015'
+  year: '2014'
 yang;jac14:
   author:
     - Yang, Xiaohao
@@ -11170,7 +11333,7 @@ yao;jncs05:
   entrytype: article
   grant: 'nirt03 '
   journal: J. Non-Crystalline Solids
-  nb: ' not-bg'
+  nb: not-bg
   note: ''
   optwwwemail: ' sb2896@columbia.edu'
   optwwwlanl: ''
@@ -11411,7 +11574,7 @@ zhao;prl21:
     - Alex Zunger
   doi: ''
   entrytype: article
-  facility: null
+  facility: ''
   grant: dmref19
   journal: Phys. Rev. Lett.
   month: tbd
