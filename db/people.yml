@@ -1119,6 +1119,26 @@ ebellingham:
   name: Emily Bellingham
   orcid_id: 0000-0001-544-931X
   position: Undergraduate Researcher
+ebohorquez:
+  active: true
+  aka: []
+  avatar: https://github.com/steff3280.png
+  bio: bio
+  education: []
+  email: eb3280@columbia.edu
+  employment:
+    - begin_date: 2021-12-22
+      end_date: 2024-12-22
+      organization: columbiau
+      position: phd research
+      group: bg
+      advisor: sbillinge
+      status: phd
+  github_id: steff3280
+  grp_mtg_active: true
+  name: Estephania Bohorquez
+  orcid_id: ''
+  position: phd research
 ebozin:
   active: true
   aka:
@@ -3693,6 +3713,25 @@ sbillinge:
         - ivartaniants
         - pwillmott
         - mnespolo
+    - organization: iucr
+      begin_year: 2011
+      department: aca
+      position: editor
+      coworkers:
+        - aallen
+        - aaltomare
+        - lbourgeois
+        - pdominiak
+        - jeon
+        - ugrimm
+        - dkeen
+        - wkuhs
+        - lmarks
+        - hschenk
+        - ktsuda
+        - ivartaniants
+        - pwillmott
+        - mnespolo
     - organization: Columbia University
       begin_year: 2008
       group: bg
@@ -4835,7 +4874,7 @@ tdavis:
     - begin_year: 2019
       position: manager
       position_full: Investment lead
-      organization: Munich Re Venture
+      organization: Munich Re Ventures
     - begin_year: 2013
       position: manager
       position_full: Investment Manager
