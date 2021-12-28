@@ -671,8 +671,8 @@
 21_3m:
   amount: 101638
   awardnr: n/a
-  begin_date: 2021-09-01
-  end_date: 2022-08-31
+  begin_date: 2021-12-01
+  end_date: 2022-12-31
   funder: 3M
   team:
     - institution: columbiau
