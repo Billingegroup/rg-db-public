@@ -10181,18 +10181,29 @@ thatc;arxiv21:
     an intuitive interface for exactly this purpose. This paper describes the interface
     in detail, and provides two real examples of how the application has been used
     to provide rapid insight into large in situ and operando datasets.
-  public_summary: Non negative matrix factorization can accelerate analysis of large
-    datasets of in situ, operando, and combinatorial diffraction experiments by using
-    a machine learning algorithm to rapidly find and track varying structural signals.
-    The nmfMapping application has been launched on pdfitc.org in order to make this
-    technique more widely accessible to experimentalists who are analyzing PXRD or
-    PDF data.
+  public_summary: Advancements in engineering have led to widespread utilization of
+    increasingly complex materials in devices that have become integral parts of our
+    everyday lives. A few examples of this complexity include the dynamic rearrangement
+    of atoms in various geometric patterns durring use (i.e. batteries) and the use
+    of materials that require precise control of atom configuration during manufacturing.
+    In order to improve the devices that depend on these complex materials, we need
+    to gain a better understanding of how the atomic configuration changes over time
+    and space. Determing the average configuration of atoms throughout space and time
+    is a difficult task, typically requiring that geometric models be developed and
+    subsequently tracked over a large number of experimental signals. However, recent
+    advancements in machine learning has lead to the development of tools that can
+    track these kinds of signals over space and time without the need to develop or
+    utilize a geometric model. This can rapidly provide unforseen insight into how
+    the atoms are rearranging from one measurement to the next. This work describes
+    a new web application that makes utilization of this algorithm, known as NMF,
+    intuitive for scientists that specialize in tracking average atomic arrangements.
   synopsis: A web application called nmfMapping was created and launched on the pdfitc.org
     website. This application provides a graphical interface for performing NMF decomposition
     of powder x-ray diffraction (PXRD) and atomic pair distribtion function (PDF)
-    data. Examples of how the app has been used on real in situ and operando data
-    are provided, along with a descriptions of the interface and the utility of NMF.
-  tags: in_situ, nmf
+    data. This paper describes the utility of this application through a description
+    of the interface, along with two examples of how the app has been used to accelerate
+    the analysis process.
+  tags: in_situ, nmf, pdf_method
   title: '{nmfMapping}: a cloud-based web application for non-negative matrix factorization
     of powder diffraction and pair distribution function datasets'
   url: http://arxiv.org/abs/2112.13300
