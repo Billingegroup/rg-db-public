@@ -10135,6 +10135,36 @@ thamp;prb13:
   volume: '88'
   wwwemail: ''
   year: '2013'
+thatc;arxiv21
+  author:
+    - Zachary Thatcher
+    - Chia-Hao Liu
+    - Long Yang
+    - Brennan C. McBride
+    - Gia Thinh Tran
+    - Allison Wustrow
+    - Martin A. Karlsen
+    - James R. Neilson
+    - Dorthe B. Ravnsbæk
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: 'nslsii, xpd, desy, P02.1'
+  grant: efrc18
+  journal: arXiv:2112.13300 [cond-mat]
+  month: dec
+  nb: ''
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: '2112.13300'
+  title: 'nmfMapping: a cloud-based web application for non-negative matrix factorization of powder diffraction and pair distribution function datasets'
+  url: http://arxiv.org/abs/2112.13300
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2020'
 thorp;b;fstpbas02:
   abstract: "A review examines a single pair distribution\nfunction (PDF) peak showing\
     \ how it can be\ndecompd. into zero, one, two and multiphonon\ncontributions.\
