@@ -10136,6 +10136,18 @@ thamp;prb13:
   wwwemail: ''
   year: '2013'
 thatc;arxiv21:
+  ackno: 'We would like to thank Alexander Schöekel for assistance in use of beamline
+    P02.1. \n Funding information \n This work was supported as part of GENESIS: A
+    Next Generation Synthesis Center, an Energy Frontier Research Center funded by
+    the U.S. Department of Energy, Office of Science, Basic Energy Sciences under
+    Award Number DE-SC0019212. Sample preparation and PDF data analysis in the Ravnsbaek
+    Group was funded by the Carlsberg Foundation (Grant CF17-0823) and data acquisition
+    at DESY by Danscatt. Data for the chemical synthesis example was acquired at the
+    28-ID-2 beamline of the National Synchrotron Light Source II, a US DOE Office
+    of Science User Facility operated for the DOE Office of Science by Brookhaven
+    National Laboratory under contract No. DE-SC0012704. Data for the \textit{operando}
+    battery experiment were collected at beamline P02.1, PETRA III, DESY (Hamburg,
+    Germany), which is member of the Helmholtz Association HGF. '
   author:
     - Zachary Thatcher
     - Chia-Hao Liu
@@ -10151,15 +10163,37 @@ thatc;arxiv21:
   entrytype: article
   facility: nslsii, xpd, desy, P02.1
   grant: efrc18
-  journal: arXiv:2112.13300 [cond-mat]
+  journal: arxiv
   month: dec
   nb: ''
-  note: ''
+  note: arXiv:2112.13300 [cond-mat]
   number: ''
   optannote: ''
   optwwwlanl: ''
   pages: '2112.13300'
-  title: 'nmfMapping: a cloud-based web application for non-negative matrix factorization
+  professional_summary: Non negative matrix factorization (NMF) has been shown previously
+    to rapidly decompose large powder diffraction and atomic pair distribution function
+    (PDF) datasets into their constituent structural signals. Despite the utility
+    of NMF for quickly providing insight on large datasets, it is yet to gain widespread
+    adoption in the diffraction community. This is arguably due to a lack of a graphical
+    user interface or well written instructions to perform the analysis on diffraction
+    data. nmfMapping is presented in this paper as a web application that provides
+    an intuitive interface for exactly this purpose. This paper describes the interface
+    in detail, and provides two real examples of how the application has been used
+    to provide rapid insight into large in situ and operando datasets.
+  public_summary: Non negative matrix factorization can accelerate analysis of large
+    datasets of in situ, operando, and combinatorial diffraction experiments by using
+    a machine learning algorithm to rapidly find and track varying structural signals.
+    The nmfMapping application has been launched on pdfitc.org in order to make this
+    technique more widely accessible to experimentalists who are analyzing PXRD or
+    PDF data.
+  synopsis: A web application called nmfMapping was created and launched on the pdfitc.org
+    website. This application provides a graphical interface for performing NMF decomposition
+    of powder x-ray diffraction (PXRD) and atomic pair distribtion function (PDF)
+    data. Examples of how the app has been used on real in situ and operando data
+    are provided, along with a descriptions of the interface and the utility of NMF.
+  tags: in_situ, nmf
+  title: '{nmfMapping}: a cloud-based web application for non-negative matrix factorization
     of powder diffraction and pair distribution function datasets'
   url: http://arxiv.org/abs/2112.13300
   volume: ''
