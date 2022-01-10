@@ -3280,6 +3280,29 @@ ptian:
   name: Peng Tian
   position: programmer
   position_full: Rates Quant
+qdu:
+  active: true
+  aka:
+    - Qiang, Du
+    - Du, Qiang
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: Dr.Du is the Fu Foundation Professor of Applied Mathematics at the Department
+    of Applied Physics and Applied Mathematics (APAM), Fu Foundation School of Engineering
+    and Applied Science (SEAS), Columbia University. He is also an affiliated with
+    the Data Science Institute (DSI). He chaired the Applied Mathematics Program Committee
+    from 2014-2020 and served in DSI as a co-Chair of the Center for Foundations of
+    Data Science from 2017-2019. Currently he also serves as a co-Chair of the Center
+    for Computing Systems for Data-Driven Science.
+  education: []
+  employment:
+    - begin_year: 2014
+      position: Fu Foundation Professor of Applied Mathematics
+      organization: columbiau
+  name: Qiang Du
+  position: professor
+  service: []
+  skills: []
+  title: Prof.
 raidun:
   active: false
   aka: []
