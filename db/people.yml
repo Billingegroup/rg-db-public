@@ -126,7 +126,7 @@ aeberhadt:
   name: Ariane Eberhadt
   position: unknown
 aejaz:
-  active: true
+  active: false
   aka:
     - A. Ejaz
     - Adiba E.
@@ -151,7 +151,7 @@ aejaz:
     - begin_year: 2020
       begin_month: 5
       end_year: 2021
-      end_month: 8
+      end_month: 12
       organization: columbiau
       position: undergraduate research assistant
       group: bg
@@ -1100,7 +1100,7 @@ dyano:
   name: Daniela Hikari Yano
   position: undergraduate research assistant
 ebellingham:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/ejb2203.png
   bio: bio
@@ -1115,7 +1115,7 @@ ebellingham:
       advisor: sbillinge
       status: undergrad
   github_id: ejb2203
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Emily Bellingham
   orcid_id: 0000-0001-544-931X
   position: Undergraduate Researcher
@@ -1456,7 +1456,7 @@ fbertolotti:
   name: Federica Bertolotti
   position: assistant professor
 fkwei:
-  active: true
+  active: false
   aka:
     - Fengkai Wei
     - F.K. Wei
@@ -1484,7 +1484,7 @@ fkwei:
       advisor: sbillinge
       status: masters
   github_id: Fengkai-Wei
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Fengkai Wei
   orcid_id: 0000-0002-6920-9270
   position: Masters Researcher
@@ -2089,6 +2089,26 @@ jchung:
       group: bg
   name: Jean Chung
   position: unknown
+jgriffiths:
+  active: true
+  aka: []
+  avatar: "https://github.com/j-griffo.png"
+  bio: bio
+  education: []
+  email: jpg66@cam.ac.uk
+  employment:
+    - begin_date: 2022-01-14
+      end_date: 2024-01-13
+      organization: columbiau
+      position: Post Doctoral Scholar
+      group: bg
+      advisor: sbillinge
+      status: postdoc
+  github_id: j-griffo
+  grp_mtg_active: true
+  name: Jack Griffiths
+  orcid_id: 0000-0002-4052-1770
+  position: Post Doctoral Scholar
 jliu:
   active: false
   aka:
@@ -2409,7 +2429,7 @@ lcheng:
       advisor: sbillinge
       status: undergrad
   github_id: OpusXI
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Louis Cheng
   orcid_id: ''
   position: undergraduate researcher
@@ -2637,15 +2657,15 @@ mkarlsen:
   employment:
     - begin_year: 2021
       begin_month: 3
-      end_year: 2021
-      end_month: 12
+      end_year: 2022
+      end_month: 6
       organization: columbiau
       position: visiting student
       position_full: Visiting PhD Researcher, U. Southern Denmark
       advisor: sbillinge
       group: bg
       status: visitor-unsupported
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Martin A. Karlsen
   position: visiting student
   position_full: Visiting PhD Researcher, U. Southern Denmark
@@ -2899,7 +2919,7 @@ mwinitch:
   name: Michael Winitch
   position: undergraduate research assistant
 mzhao:
-  active: true
+  active: falsae
   aka:
     - Jinpai (Max) Zhao
     - J. Zhao
@@ -2937,7 +2957,7 @@ mzhao:
       advisor: sbillinge
       status: undergrad
   github_id: MaxPaiPai
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Max Zhao
   orcid_id: 0000-0001-7082-5030
   position: Undergraduate Researcher
@@ -3152,7 +3172,7 @@ pliu:
   email: pl2781@columbia.edu
   employment:
     - begin_date: 2021-06-09
-      end_date: 2021-12-31
+      end_date: 2022-08-31
       organization: columbiau
       position: masters researcher
       group: bg
@@ -3422,7 +3442,7 @@ rjacubinas:
   name: Rick Jacubinas
   position: unknown
 rkoch:
-  active: true
+  active: false
   aka:
     - Robert Koch
     - R. Koch
@@ -3610,6 +3630,7 @@ sbillinge:
   active: true
   aka:
     - Simon J. L. Billinge
+    - Simon J.L. Billinge
     - S. J. L. Billinge
     - Billinge, Simon J. L.
     - Billinge, Simon JL
