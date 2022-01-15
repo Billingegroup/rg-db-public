@@ -3068,3 +3068,19 @@
   status: accepted
   title: tbd
   type: invited
+2208sb_cityuniversityofhongkong,kowloon,hongkong:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2022-08-08
+  end_date: 2022-08-12
+  location: CIty University of Hong Kong, Kowloon, Hong Kong
+  meeting_name: Croucher Summer Course on Neutron Scattering
+  notes:
+    - present a lecture and mentor data analysis
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: invited
+  webinar: true

@@ -44,7 +44,11 @@ abeyk;prl13:
   optnote: arXiv:1305.7503
   optwwwlanl: ''
   pages: '096404'
-  tags: htc, npdf, quantum_materials
+  synopsis: Short range ordered charge-stripe like objects are observed well above
+    the stripe ordering temperature in a 214 layered nickelate material using neutron
+    PDF.  This could be correlated with pseudogap and other transport phenomena in
+    this material.
+  tags: htc, npdf, quantum_materials, odl
   title: Evidence for short-range-ordered charge stripes far above the charge-ordering
     transition in {La$_{1.67}$Sr$_{0.33}$NiO$_4$}
   url: http://link.aps.org/doi/10.1103/PhysRevLett.111.096404
@@ -1851,12 +1855,20 @@ billi;prb91:
     - Davies, P. K.
     - Egami, T.
     - Catlow, C. R. A.
+  doi: 10.1103/PhysRevB.43.10340
   entrytype: article
   facility: ' ipns, sepd, '
   grant: ''
   journal: Phys. Rev. B
   nb: 'art, hts, '
   pages: '10340'
+  synopsis: A very early observation that local structure can deviate from the average
+    structure from a neutron PDF analysis in the model for the high Tc superconductors,
+    Ca/SrCuO2.  This was also supported by a theoretical calculation where a total
+    energy minimization of a supercell, calculated using empirical potentials, showed
+    a lower energy for the symmetry broken state but only when the atoms were moved
+    sufficiently far off the equilibrium position to initialize the calculation.
+  tags: odl, htc, polymorphous
   title: 'Deviations from planarity of copper-oxygen sheet in {Ca$_{0.85}$Sr$_{0.15}$CuO$_{2}$} '
   url: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.43.10340
   volume: '43'
@@ -1869,12 +1881,17 @@ billi;prb93:
   author:
     - Billinge, S. J. L.
     - Egami, T.
+  doi: 10.1103/PhysRevB.47.14386
   entrytype: article
   facility: ' ipns, sepd, '
   grant: ''
   journal: Phys. Rev. B
   nb: ' art, hts, highlight'
   pages: '14386'
+  synopsis: the CuO4 planes in this material are nominally flat but PDF suggested
+    that they were puckered in a very early observation of local symmetry breaking
+    from neutron PDF.
+  tags: odl, symmetry_breaking
   title: Short-range atomic structure of {Nd$_{2-x}$Ce$_{x}$CuO$_{4-y}$} determined
     by real-space refinement of neutron-powder-diffraction data
   url: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.47.14386
@@ -1891,6 +1908,7 @@ billi;prl93:
     - Lawson, A. C.
     - Thompson, J. D.
     - Takagi, H.
+  doi: 10.1103/PhysRevLett.71.1903
   entrytype: article
   facility: ' ssrl'
   grant: ''
@@ -1911,12 +1929,16 @@ billi;prl94:
     - Billinge, S. J. L.
     - Kwei, G. H.
     - Takagi, H.
+  doi: 10.1103/PhysRevLett.72.2282
   entrytype: article
   facility: ' mlnsc, hipd '
   grant: ''
   journal: Phys. Rev. Lett.
   nb: ' art, hts, highlight'
   pages: '2282'
+  synopsis: local LTT-like tilts found in the LTO phase of La2-xBaxCuO4 in a an early
+    demonstration of this phenomenon from neutron PDF measurements
+  tags: odl, symmetry_breaking, htc
   title: 'Local octahedral tilts in {La$_{2-x}$Ba$_{x}$CuO$_{4}$}: evidence for a
     new structural length scale'
   url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.72.2282
@@ -1940,6 +1962,11 @@ billi;prl96:
   journal: Phys. Rev. Lett.
   nb: ' art, cmr, highlight, topten '
   pages: 715--718
+  synopsis: Local structural distortions associated with the metal-insulator transition
+    in colossal magnetoresistant mangenites are associated with charge localization
+    and polaron formation stabilized by a Jahn-Teller like orbital degeneracy lifting
+    driving force.
+  tags: odl, symmetry_breaking, polarons, cmr, manganite
   title: Direct observation of lattice polaron formation in the local structure of
     {La$_{1-x}$Ca$_{x}$MnO$_{3}$}
   url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.77.715
@@ -2362,6 +2389,11 @@ bozin;nc19:
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: '3638'
+  synopsis: Local symmetry breaking at high temperature associated with a breaking
+    of orbital degeneracy is established in a model system, CuIr2S4, using PDF.  This
+    is the paper that establishes the phenomonenon and its importance for understanding
+    lower temperature ground-states.
+  tags: odl, cis
   title: Local orbital degeneracy lifting as a precursor to an orbital-selective Peierls
     transition
   url: https://www.nature.com/articles/s41467-019-11372-w
@@ -2412,6 +2444,7 @@ bozin;pb06:
   optmonth: ''
   optnumber: ''
   pages: 110-112
+  tags: ''
   title: Local structural aspects of the orthorhombic to pseudo-cubic phase transformation
     in {La$_{1-x}$Ca$_{x}$MnO$_{3}$}
   url: http://www.sciencedirect.com/science/article/pii/S0921452606010143
@@ -2431,6 +2464,7 @@ bozin;pb98:
   journal: Physica B
   nb: ' conf, hts, '
   pages: '795'
+  tags: ''
   title: Reexamination of the second order structural phase transition in La$_{2-x}$A$_{x}$CuO$_{4}$
     (A=Ba,Sr)
   url: http://www.sciencedirect.com/science/article/pii/S0921452697007205
@@ -2466,6 +2500,7 @@ bozin;prb05:
   author:
     - Bo\v{z}in, E. S.
     - Billinge, S. J. L.
+  doi: 10.1103/PhysRevB.72.174427
   entrytype: article
   facility: isis, gem, npdf, mlnsc
   grant: nirt03
@@ -2477,6 +2512,10 @@ bozin;prb05:
   optnote: ''
   optnumber: ''
   pages: '174427'
+  synopsis: a careful structural analysis of PDF and powder diffraction data shows
+    how doped holes distribute themselves between planar bonds and apical bonds in
+    La2-xSrxCuO4 on doping
+  tags: htc
   title: Nominal doping and partition of doped holes between planar and apical orbitals
     in La$_{2-x}$Sr$_{x}$CuO$_{4}$
   url: http://link.aps.org/abstract/PRB/v72/e174427
@@ -2528,6 +2567,12 @@ bozin;prb15:
   optannote: ''
   optwwwlanl: ''
   pages: '054521'
+  synopsis: the tilt disorder in La2-xBaxCuO4 is studied in detail at various doping
+    levels of doping using neutron PDF.  The local symmetry is found to be different
+    than the global symmetry.  Inelastic neutron scattering also shows them to be
+    dynamic in nature.  These are presumed related to the charge distribution and
+    so related to ODL discovered later.
+  tags: odl, htc
   title: Reconciliation of local and long-range tilt correlations in underdoped La$_{2-x}$Ba$_{x}$CuO$_{4}$
     ($0 \le x \le 0.155$)
   url: http://link.aps.org/doi/10.1103/PhysRevB.91.054521
@@ -2554,6 +2599,7 @@ bozin;prb16i:
   optannote: ''
   optwwwlanl: ''
   pages: '054523'
+  tags: ''
   title: Charge-screening role of c-axis atomic displacements in YBa$_{2}$Cu$_{3}$O$_{6+x}$
     and related superconductors
   url: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.054523
@@ -2567,6 +2613,7 @@ bozin;prb99:
     - Billinge, S. J. L.
     - Kwei, G. H.
     - Takagi, H.
+  doi: 10.1103/PhysRevB.59.4445
   entrytype: article
   facility: ' ipns,sepd,'
   grant: 'cfmr, nsf-dmr97,sloan95 '
@@ -2578,6 +2625,11 @@ bozin;prb99:
   optnote: ''
   optnumber: ''
   pages: '4445'
+  synopsis: The low-doped region of La2-xSrxCuO4 is much better explained as a linear
+    combination of short-range ordered LTT-like tilts than by the average crystal
+    structure, as observed from neutron PDF measurements.  These may be the remnants
+    of doping induced stripes.
+  tags: odl, htc
   title: 'Charge-stripe ordering from local octahedral tilts: underdoped and superconducting
     La$_{2-x}$Sr$_{x}$CuO$_{4}$ ($\bf 0\leq x\leq 0.3$)'
   url: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.59.4445
@@ -2593,14 +2645,19 @@ bozin;prl00:
     - Kwei, G. H.
     - Takagi, H.
     - Billinge, S. J. L.
+  doi: 10.1103/PhysRevLett.84.5856
   entrytype: article
   facility: ' sepd,ipns '
   grant: 'cfmr, nsf-dmr97, sloan95 '
   journal: Phys. Rev. Lett.
   nb: ' art, hts, highlight'
   pages: 5856--5859
+  synopsis: The PDF of various doping levels of La2-xSrxCuO4 in the low doping region
+    are shown to be explained as linear combinations of undoped and higher doped structures
+    indicating charge heterogeneities in this material at low doping
+  tags: odl, htc
   title: Neutron diffraction evidence of microscopic charge inhomogeneities in the
-    {CuO$_{2}$} plane of superconducting {La$_{2-x}$Sr$_{x}$Cu$_{4}$} ($ 0\le x\le
+    {CuO$_{2}$} plane of superconducting {La$_{2-x}$Sr$_{x}$CuO$_{4}$} ($ 0\le x\le
     0.30)$
   url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.84.5856
   volume: '84'
@@ -2683,6 +2740,7 @@ bozin;s10:
   optnote: ''
   optwwwlanl: ''
   pages: '1660'
+  tags: emphanisis
   title: Entropically stabilized local dipole formation in lead chalcogenides
   url: http://www.sciencemag.org/content/330/6011/1660
   volume: '330'
@@ -2708,6 +2766,12 @@ bozin;sr14:
   optnote: ''
   optwwwlanl: ''
   pages: '4081'
+  synopsis: This is the precursor paper to the ODL discovery paper in Nature communications.  It
+    allowed us to understand the low temperature ground state of CuIr2S and how it
+    evolved with Cr doping, moving the material through a metal-insulator transition.  The
+    presence of the disordered dimer state could be correlated with poor electrical
+    conductivity.
+  tags: odl, cis
   title: '{Cu(Ir$_{1-x}$Cr$_x$)$_2$S$_4$}: a model system for studying nanoscale phase
     coexistence at the metal-insulator transition'
   url: http://www.nature.com/srep/2014/140212/srep04081/full/srep04081.html
@@ -3035,7 +3099,7 @@ cao;ami19:
     being tracked.  The strains were very small, resulting from bubbles of trapped
     gas under the material, but could nonetheless be clearly observed and measured
     as a function of position resulting in characteristic ``coffee-bean" images.
-  tags: strain mapping, xray nanoprobe, vdw materials, TaS2
+  tags: strain_mapping, xray_nanoprobe, vdw_materials, TaS2
   title: Complete Strain Mapping of Nanosheets of Transition Metal Chalcogenides
   url: https://doi.org/10.1021/acsami.0c06517
   volume: '12'
@@ -3219,7 +3283,7 @@ choud;npjcm21:
   optwwwpub: ''
   pages: ''
   synopsis: A review of the applications of deep learning methods in material science
-  tags: reveiw, ml, machine learning, deep learning, dl
+  tags: review, ml, machine_learning, deep_learning, dl
   title: Recent Advances and Applications of Deep Learning Methods in Materials Science
   url: https://arxiv.org/abs/2110.14820
   volume: ''
@@ -4870,7 +4934,7 @@ gu;aca19:
   volume: '75'
   wwwemail: ''
   year: '2019'
-gu;ieeetsp21:
+gu;ieeetkde22:
   ackno: This research was supported by the US National Science Foundation (NSF) through
     grant DMR-1922234 (for R.G., Q.D. and S.B.) and CCF-1740833 (for Q.D.)
   author:
@@ -4881,7 +4945,7 @@ gu;ieeetsp21:
   entrytype: article
   facility: ''
   grant: dmref19
-  journal: IEEE Trans. Signal Process.
+  journal: IEEE Transactions on Knowledge and Data Engineering
   month: jan
   nb: fy21, typeA
   note: arXiv:2101.08431 [math.OC]
@@ -4895,7 +4959,7 @@ gu;ieeetsp21:
   volume: ''
   wwwemail: ''
   wwwpub: ''
-  year: '2021'
+  year: '2022'
 gualt;jac08:
   author:
     - Gualtieri, A. F.
@@ -6193,7 +6257,9 @@ koch;prb19:
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: 020501(R)
-  tags: odl, superconductor
+  synopsis: Orbital degeneracy lifting is found in the iron based superconductor FeSe
+    as a disordered dimerization of the Iron ions in the layers.
+  tags: odl, superconductor, htc
   title: Room temperature local nematicity in an iron-selenide superconducing sample
   url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.020501
   volume: '100'
@@ -7028,7 +7094,7 @@ liu;jac21:
     - Peter J. Chupas
     - Karena W. Chapman
     - Simon J. L. Billinge
-  doi: 10.1107/S160057672100265X.
+  doi: 10.1107/S160057672100265X
   entrytype: article
   facility: aps, 11idb
   grant: efrc18
@@ -9837,7 +9903,7 @@ stach;m21:
   synopsis: a community driven overview perspective of autonomous experimentation
     in the field of materials science and materials development.  The concepts are
     described as well as some of the methods including ML methods for autonomation.
-  tags: autonomous review, in situ
+  tags: autonomous, review, in_situ
   title: 'Autonomous experimentation systems for materials development: A community
     perspective'
   url: https://www.cell.com/matter/fulltext/S2590-2385(21)00306-4
@@ -10936,7 +11002,7 @@ wrigh;cm21:
     image processing methods such as blob tracking were used to map the positions
     and crystal quality of crystallites in the beam.  The ultimate goal will be to
     carry out these measurements in an in situ crystal growth context.
-  tags: 2D mapping, spatially resolved, peak tracking, crystal growth
+  tags: 2d_mapping, spatially_resolved, peak_tracking, crystal_growth
   title: Towards In Situ Synchrotron Mapping of Crystal Selection Processes During
     Crystal Growth
   url: https://doi.org/10.1021/acs.chemmater.1c00602
@@ -10952,7 +11018,7 @@ wrigh;joss21:
     - Christopher ``CJ" Wright
     - Songsheng Tao
     - Simon J. L. Billinge
-  doi: 10.21105/joss.02796
+  doi: tbd
   entrytype: article
   facility: ''
   grant: efrc18
@@ -10960,6 +11026,7 @@ wrigh;joss21:
   month: tbd
   nb: art
   note: submitted
+  notes: doi will be 10.21105/joss.02796
   number: ''
   optannote: ''
   optwwwlanl: ''
@@ -11646,7 +11713,7 @@ zhao;prl21:
   author:
     - Xin-Gang Zhao
     - Oleksandr I Malyi
-    - Simon J.L. Billinge
+    - Simon J. L. Billinge
     - Alex Zunger
   doi: ''
   entrytype: article
@@ -11660,18 +11727,20 @@ zhao;prl21:
   optannote: ''
   optwwwlanl: ''
   pages: ''
-  synopsis: The technologically important cubic paraelectric oxide perovskites ABO3,
-    represented by BaTiO3, exemplify the widespread solid-state behavior of structural
-    phase transitions to higher symmetry phases on warming. However, A long-standing
-    question surrounds experimental observations, e.g., diffuse x-ray scattering,
-    second harmonic generation, and piezoelectricity, which require a lower symmetry
-    structure. This symmetry-breaking has been ascribed to thermal effects; however,
-    here, we show from first principles theory that it is has an intrinsic origin.  It
-    is a static, non- long-range-ordered distortion driven by  a lowering of the internal
-    energy, which breaks its inversion-symmetry consistent with experimental observations.
-    Finite temperature molecular dynamics show that these distortions remain at high
-    temperatures, different from the general picture of cubic BTO about single parabolic
-    energy surface without static displacements.
+  professional_summary: The technologically important cubic paraelectric oxide perovskites
+    ABO3, represented by BaTiO3, exemplify the widespread solid-state behavior of
+    structural phase transitions to higher symmetry phases on warming. However, A
+    long-standing question surrounds experimental observations, e.g., diffuse x-ray
+    scattering, second harmonic generation, and piezoelectricity, which require a
+    lower symmetry structure. This symmetry-breaking has been ascribed to thermal
+    effects; however, here, we show from first principles theory that it is has an
+    intrinsic origin.  It is a static, non- long-range-ordered distortion driven by  a
+    lowering of the internal energy, which breaks its inversion-symmetry consistent
+    with experimental observations. Finite temperature molecular dynamics show that
+    these distortions remain at high temperatures, different from the general picture
+    of cubic BTO about single parabolic energy surface without static displacements.
+  synopsis: Local symmetry breaking in cubic BaTiO3 is found from polymorphous DFT
+    calculations to be intrinsic (driven by internal energy considerations)
   tags: bto, batio3, dft, theory, odl
   title: Intrinsic local symmetry breaking in the nominally cubic paraelectric phase
     of {BaTiO$_3$}
