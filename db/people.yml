@@ -2919,7 +2919,7 @@ mwinitch:
   name: Michael Winitch
   position: undergraduate research assistant
 mzhao:
-  active: falsae
+  active: false
   aka:
     - Jinpai (Max) Zhao
     - J. Zhao
