@@ -692,6 +692,48 @@ belki;b;ainips19:
   url: ''
   volume: '31'
   year: '2018'
+benne;cm22:
+  ackno: This work was supported by the National Science Foundation under award number
+    1827726. Work in the Billinge group was supported by U.S. Department of Energy,
+    Office of Science, Office of Basic Energy Sciences (DOE-BES) under contract No.
+    DESC0012704. Banerjee acknowledges support from the National Defense Science and
+    Engineering Graduate Fellowship (DOD-NDSEG) program. X-ray PDF measurements were
+    con-ducted on beamline 28-ID-2 of the National Synchrotron Light Source II, a
+    U.S. Department of Energy (DOE) Oﬃce of Science User Facility operated for the
+    DOE Office of Science by Brookhaven National Laboratory under Contract No. DE-SC0012704.
+  author:
+    - Ellie Bennett
+    - Matthew W. Greenberg
+    - Abraham J. Jordan
+    - Leslie S. Hamachi
+    - Soham Banerjee
+    - Simon J. L. Billinge
+    - Jonathan S. Owen
+  doi: 10.1021/acs.chemmater.1c03432
+  entrytype: article
+  facility: nslsii, xpd
+  grant: fwp20
+  journal: Chem. Mater.
+  month: jan
+  nb: ' art '
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: ZnS is an important quantum dot material that is used as a passivating
+    layer on photoluminescent quantum dots of other materials such as CdSe and InP.
+    In this paper, a novel synthesis method is described to obtain colloidal ZnS NPs
+    using a thiolate urea library of co-reactants.  It gives exquisite control over
+    the size and shape of the resulting nanoparticles. Here, atomic pair distribution
+    function analysis of the resulting ZnS particles yielded the sample average structure,
+    size and shape of the resulting nanoparticles.
+  tags: quantum_dot, zns, nanoparticle, semiconductor
+  title: Size dependent optical properties and structure of ZnS nanocrystals prepared
+    from a library of thioureas
+  url: ''
+  volume: ''
+  year: '2022'
 berto;acsn17:
   author:
     - Bertolotti, Federica
@@ -4430,7 +4472,7 @@ frand;prl16:
   author:
     - Frandsen, Benjamin A.
     - Brunelli, Michela
-    - Page, Katherine
+    - Page, Katharine
     - Uemura, Yasutomo J.
     - Staunton, Julie B.
     - Billinge, Simon J. L.
@@ -5288,6 +5330,41 @@ hao;jmcc21:
   wwwemail: ''
   wwwpub: ''
   year: '2021'
+harou;arxiv22:
+  ackno: ''
+  author:
+    - Sani Y. Harouna-Mayer
+    - Songsheng Tao
+    - ZiZhou Gong
+    - Ann-Christin Dippel
+    - Martin von Zimmermann
+    - Dorota Koziej
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: xpd, nslsii
+  grant: fwp20
+  journal: arxiv
+  month: jan
+  nb: ''
+  note: arXiv:2201.03440  [cond-mat.mtrl-sci]
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: '2201.03440'
+  synopsis: A procedure is demonstrated for obtaining the orientational distribution
+    function (ODL) and real space pole figures from 3D PDF data from a textured sample.  Historically,
+    it has not been possible to study using PDF samples with preferred orientation
+    and crystalline texture.  This paper successfully demnonstrates how this can be
+    done and describes some software, Fourigui, for doing it.
+  tags: texture, txPDF, 3dpdf
+  title: Real space texture and pole figure analysis using the three-dimensional pair
+    distribution function on a platinum thin film
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2022'
 hitt;nc21:
   ackno: This work was supported by the Office of Basic Energy Sciences, Division
     of Chemical Sciences, Geosciences, and Energy Bioscience, Department of Energy
@@ -5683,7 +5760,7 @@ jense;m21:
     - Esther Rani Aluri
     - Enrique Sanchez Perez
     - Gavin B. M. Vaughan
-    - Marco Di Michel
+    - Marco Di Michiel
     - Eleanor J. Schofield
     - Simon J. L. Billinge
     - Serena A. Curran
@@ -6180,6 +6257,51 @@ kim;prl06:
   wwwlanl: http://arXiv.org/abs/cond-mat/0602361
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/kim-prl06.pdf
   year: '2006'
+kjaer;n22:
+  ackno: This work is part of a project that has received funding from the European
+    Research Council (ERC) under the European Union's Horizon 2020 Research and Innovation
+    Programme (grant agreement No. 804066). Work in the Billinge group was supported
+    by by the U.S. National Science Foundation through grant DMREF-1922234. We are
+    grateful to the Villum Foundation for financial support through a Villum Young
+    Investigator grant (VKR00015416). Funding from the Danish Ministry of Higher Education
+    and Science through the SMART Lighthouse is gratefully acknowledged.
+  author:
+    - Emil T. S. Kjær
+    - Andy S. Anker
+    - Marcus N. Weng
+    - Simon J. L. Billinge
+    - Raghavendra Selvan
+    - Kirsten M. Ø. Jensen
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: dmref19
+  journal: tbd
+  month: tbd
+  nb: article, highlight, fy22
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  optwwwpub: ''
+  pages: ''
+  professional_summary: A difficult problem in nanoscience is, given a measured atomic
+    pair distribution function, what is the nano-scale structure that gave rise to
+    it. In this work we demonstrate a generative deep learning model that can rapidly
+    return a structure model given a simulated or measured PDF for structurally straightforward
+    close packed structures.  The model is generative, so can find structures that
+    are close to, but not part of, the database of structures used for training the
+    model.
+  synopsis: An approach is demonstrated that can predict the structure of a material
+    from its PDF using a machine learning approach (a graph-based conditional autoencoder).  It
+    is shown to work on simple close-packed clusters.
+  tags: ml, machine_learning, deep_learning, dl, structure_solution, udgp, gnn, cvae
+  title: 'DeepStruc: Towards structure solution from pair distribution function data
+    using deep generative models'
+  url: https://arxiv.org/abs/2110.14820
+  volume: ''
+  wwwemail: ''
+  year: '2022'
 knox;prb13:
   author:
     - Knox, K. R.
@@ -7744,6 +7866,7 @@ nakam;jmca21:
   optannote: ''
   optwwwlanl: ''
   pages: ''
+  tags: thin_film, microwave
   title: Linking Far-from-Equilibrium Defect Structures in Ceramics to Electromagnetic
     Driving Forces
   url: ''
@@ -11712,7 +11835,7 @@ zhao;prl21:
     Science Foundation grant number ACI-1548562.
   author:
     - Xin-Gang Zhao
-    - Oleksandr I Malyi
+    - Oleksandr I. Malyi
     - Simon J. L. Billinge
     - Alex Zunger
   doi: ''

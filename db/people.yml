@@ -7,6 +7,7 @@ aabeykoon:
     - Abeykoon, Milinda
     - Abeykoon, A. M. M.
     - M. Abeykoon
+    - Milinda Abeykoon
   avatar: https://github.com/benfrandsen.png
   bio: bio
   education:
@@ -226,7 +227,7 @@ amasadeh:
   employment:
     - begin_year: 2008
       position: assistant professor
-      organization: University of Jordan
+      organization: ujordan
     - begin_year: 2003
       position: graduate research assistant
       advisor: sbillinge
@@ -248,11 +249,11 @@ asartbaeva:
   education:
     - begin_year: 2002
       degree: PhD in Mineral Physics
-      institution: University of Cambridge
+      institution: ucambridge
       end_year: 2004
     - begin_year: 2001
       degree: MPhil in Mineral Physics
-      institution: University of Cambridge
+      institution: ucambridge
       end_year: 2002
     - begin_year: 1994
       degree: MSc in Natural Science
@@ -261,27 +262,27 @@ asartbaeva:
   employment:
     - begin_year: 2016
       begin_month: 9
-      organization: University of Bath
+      organization: ubath
       position: lecturer
     - begin_year: 2012
       begin_month: 12
       end_month: 3
       end_year: 2019
-      organization: University of Bath
+      organization: ubath
       position: research fellow
       position_full: Royal Society University research fellow
     - begin_year: 2011
       begin_month: 1
       end_month: 11
       end_year: 2012
-      organization: University of Oxford
+      organization: uoxford
       position: research fellow
       position_full: Royal Society University research fellow
     - begin_year: 2007
       begin_month: 8
       end_month: 12
       end_year: 2011
-      organization: University of Oxford
+      organization: uoxford
       position: research fellow
       position_full: Glasstone Fellow
     - begin_year: 2005
@@ -289,7 +290,7 @@ asartbaeva:
       group: bg
       status: postdoc
       advisor: sbillinge
-      organization: Arizona State University
+      organization: asu
       position: post-doctoral scholar
   name: Asel Sartbaeva
   position: lecturer
@@ -443,6 +444,7 @@ cbracy:
       end_month: 3
     - begin_year: 2020
       begin_month: 9
+      advisor: sbillinge
       degree: PhD in Applied Physics
       institution: Columbia University
       group: bg
@@ -646,7 +648,7 @@ ckkim:
   employment:
     - begin_year: 2019
       begin_month: 12
-      organization: Intel Corporation
+      organization: intelcorp
       position: engineer
       position_full: Manufacturing Integration Engineer
     - begin_year: 2018
@@ -1135,7 +1137,7 @@ ebohorquez:
       advisor: sbillinge
       status: phd
   github_id: steff3280
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Estephania Bohorquez
   orcid_id: ''
   position: phd research
@@ -1502,7 +1504,7 @@ fmohiuddin-jacobs:
   employment:
     - begin_year: 2006
       begin_month: 1
-      organization: Organizational Science Consulting & Research
+      organization: organizationalscienceconsultingresearch
       position: lecturer
     - begin_year: 1995
       begin_month: 9
@@ -1696,7 +1698,7 @@ hhu:
   employment:
     - begin_year: 2014
       begin_month: 6
-      organization: Intel Corporation
+      organization: intelcorp
       position: engineer
       position_full: Engineer - 3D XPoint Memory Technology
     - begin_year: 2013
@@ -1824,9 +1826,8 @@ hvuong:
     - institution: Columbia University
       begin_year: 2019
       group: bg
-      advisor: sbillinge
+      advisor: rfriesner
       other:
-        - 'Advisor: Simon Billinge'
         - 'Advisor: Richard Friesner'
       department: chemistry
       degree: PhD in Chemical Physics
@@ -1902,7 +1903,7 @@ ikjeong:
     - begin_year: 2004
       begin_month: 9
       position: Professor
-      organization: pohangu
+      organization: pohangust
     - begin_year: 2001
       begin_month: 4
       end_year: 2004
@@ -1940,13 +1941,13 @@ jbloch:
   employment:
     - begin_year: 2005
       begin_month: 9
-      organization: University of Regensnurg
+      organization: uregensburg
       position: research fellow
     - begin_year: 2010
       begin_month: 4
       end_month: 7
       end_year: 2010
-      organization: University of Regensburg
+      organization: uregensburg
       position: professor
       position_full: Interim Full Professor
     - begin_year: 2005
@@ -2092,7 +2093,7 @@ jchung:
 jgriffiths:
   active: true
   aka: []
-  avatar: "https://github.com/j-griffo.png"
+  avatar: https://github.com/j-griffo.png
   bio: bio
   education: []
   email: jpg66@cam.ac.uk
@@ -2187,7 +2188,7 @@ jumana:
   orcid_id: 0000-0002-1882-8653
   position: undergraduate research assistant
 jwilley:
-  active: true
+  active: false
   aka: []
   avatar: https://en.gravatar.com/userimage/47018931/e47a250619adbfe7d9857ce3d628b837.jpg
   bio: John Willey is currently pursuing a master's degree in applied physics. He
@@ -2529,6 +2530,7 @@ lyang:
       end_month: 12
       degree: Masters in Materials Science
       institution: Columbia University
+  email: long.yang@columbia.edu
   employment:
     - begin_year: 2017
       end_year: 2020
@@ -2583,7 +2585,7 @@ mgarciafernandez:
       institution: tbd
   employment:
     - begin_year: 2014
-      organization: Diamond Light Source
+      organization: diamondls
       position: scientist
     - begin_year: 2011
       begin_month: 5
@@ -2708,7 +2710,7 @@ moneebshatnawi:
   employment:
     - begin_year: 2008
       position: associate professor
-      organization: University of Jordan
+      organization: ujordan
     - begin_year: 2004
       position: graduate research assistant
       advisor: sbillinge
@@ -2787,7 +2789,7 @@ mschmidt:
       position: post-doctoral scholar
     - begin_year: 2005
       begin_month: 1
-      organization: Rigaku
+      organization: rigaku
       position: engineer
   name: Marek Schmidt
   position: engineer
@@ -3184,7 +3186,7 @@ pliu:
   orcid_id: ''
   position: masters researcher
 pnehra:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/priyankaanehra.png
   bio: Priyanka is from BC, Canada. She is currently an undergraduate student studying
@@ -3210,7 +3212,7 @@ pnehra:
       advisor: sbillinge
       status: undergrad
   github_id: priyankaanehra
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Priyanka Nehra
   orcid_id: ''
   position: undergraduate researcher
@@ -3272,7 +3274,7 @@ ptian:
       begin_month: 10
       position: programmer
       position_full: Quantitative Analyst
-      organization: Wells Fargo Securities
+      organization: wellsfargosecurities
       end_year: 2018
       end_month: 6
     - begin_year: 2014
@@ -3347,6 +3349,26 @@ raidun:
   name: Ruby Aidun
   orcid_id: '0000'
   position: undergraduate researcher
+ranselm:
+  active: true
+  aka: []
+  avatar: "https://github.com/\x16ryboselm.png"
+  bio: bio
+  education: []
+  email: raa2218@columbia.edu
+  employment:
+    - begin_date: 2022-02-17
+      end_date: 2022-05-31
+      organization: columbiau
+      position: undergrad researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: "\x16ryboselm"
+  grp_mtg_active: true
+  name: Ryan Anselm
+  orcid_id: ''
+  position: undergrad researcher
 rdifrancesco:
   active: false
   aka: []
@@ -3365,7 +3387,7 @@ rdifrancesco:
       begin_month: 1
       position: manager
       position_full: Senior Support Consultant
-      organization: SAP
+      organization: sap
     - begin_year: 1992
       position: graduate research assistant
       advisor: sbillinge
@@ -3927,6 +3949,11 @@ sbillinge:
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
   service:
+    - type: profession
+      name: PhD thesis reviewer for Ms Anna Vivani, candidate for PhD in the Chemical
+        and Environmental Sciences School at the Università degli Studi dell'Insubria
+      begin_date: 2022-02-02
+      end_date: 2022-05-31
     - type: profession
       name: Office of Science (SC) Supply Chain Roundtable. Committee to study the
         problem of supply chain risks for scientific facilities and tools, and to
@@ -4790,7 +4817,7 @@ sstao:
       location: New York, NY
       advisor: sbillinge
       department: apam
-      degree: masters research assistant in Applied Physics
+      degree: PhD in Materials Science
       other:
         - 'Advisor: Simon Billinge'
     - institution: Peking University
@@ -5319,6 +5346,7 @@ yrakita:
     - begin_year: 2014
       degree: PhD
       institution: Weizmann Institute of Science
+      advisor: Gary Hodes
       department: Materials and Interfaces
       end_year: 2019
       other:
@@ -5380,7 +5408,7 @@ yrshang:
   employment:
     - begin_year: 2012
       begin_month: 1
-      organization: Tianjin University
+      organization: tianjinu
       position: associate professor
     - begin_year: 2009
       begin_month: 9
@@ -5509,7 +5537,9 @@ zthatcher:
   education:
     - begin_year: 2020
       begin_month: 8
-      degree: PhD in Material Science
+      end_date: 2022-02-25
+      advisor: sbillinge
+      degree: Masters in Material Science
       institution: Columbia University
       group: bg
     - begin_year: 2013
@@ -5522,13 +5552,13 @@ zthatcher:
   employment:
     - begin_year: 2020
       begin_month: 4
-      end_year: 2024
-      end_month: 9
+      end_year: 2022
+      end_month: 2
       organization: columbiau
       position: graduate research assistant
       group: bg
       advisor: sbillinge
-      status: phd
+      status: ms
     - begin_year: 2017
       begin_month: 7
       end_year: 2020
