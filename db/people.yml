@@ -3347,6 +3347,35 @@ raidun:
   name: Ruby Aidun
   orcid_id: '0000'
   position: undergraduate researcher
+ranselm:
+  active: true
+  aka: []
+  avatar: https://github.com/ryboselm.png
+  bio: Ryan is an undergraduate in SEAS from Houston, Texas studying computer
+    science with a minor in applied math and/or applied physics. He has 
+    previously worked on finding and characterizing charge density saddle points 
+    in crystalline lattices. In his free time, he enjoys going on
+    runs and reading postmodern fiction. He is interested in application of
+    statistical and machine learning approaches to the nanostructure inverse problem.
+  education:
+    - begin_year: 2020
+      begin_month: 8
+      institution: columbiau
+      degree: BS - Computer Science
+      end_year: 2024
+      end_month: 5
+  email: raa2218@columbia.edu
+  employment:
+    - begin_year: 2022
+      begin_month: 2
+      organization: columbiau
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: ryboselm
+  name: Ryan Anselm
+  position: undergraduate research assistant
 rdifrancesco:
   active: false
   aka: []
