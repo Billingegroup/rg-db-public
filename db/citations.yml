@@ -11133,6 +11133,54 @@ wrigh;cm21:
   wwwemail: ''
   wwwpub: ''
   year: '2021'
+terba;cec22:
+  ackno: DH and MM would like to thank University of Trieste for partially funding
+    this study through the “Fondo per la Ricerca di Ateneo (FRA 2020)” grant scheme.
+    MWT gratefully acknowledges support from BASF. POO would like to acknowledge the
+    Center for Intelligent Drug Delivery and Sensing Using Microcontainers and Nanomechanics
+    (IDUN) funded by the Danish National Research Foundation (grant no. DNRF122) and
+    the Velux Foundations (grant no. 9301) for funding of this project. JR would like
+    to acknowledge funding from the Independent Research Fund Denmark [Grant No. 8022-00154B].
+    SJLB's contributions were supported by the U.S. Department of Energy, Office of
+    Science, Office of Basic  Energy Sciences (DOE-BES) under contract No. DE-SC0012704.
+    The authors acknowledge DESY (Hamburg, Germany), a member of the Helmholtz Association
+    HGF, for the provision of experimental facilities. Parts of this research were
+    carried out at beamline P02.1.
+  author:
+    - Maxwell W. Terban
+    - Leillah Madhau
+    - Aurora J. Cruz-Cabeza
+    - Peter O. Okeyo
+    - Martin Etter
+    - Armin Schulz
+    - Jukka Rantanen
+    - Robert E. Dinnebier
+    - Simon J. L. Billinge
+    - Mariarosa Moneghini
+    - Dritan Hasa
+  doi: ''
+  entrytype: article
+  facility: desy, petraIII, p02.1
+  grant: fwp20
+  journal: crystEngComm
+  month: tbd
+  nb: ' art '
+  note: to be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: Desolvation, the removal of solvent molecules from a substrate, is of
+    great importance in drug development and production, food processing, organic
+    synthesis and beyond.  This paper shows how grinding the substrate in the presence
+    of different polymers has a significant effect on the desolvation.  Through the
+    use of PDF analysis and Raman scattering, the intricate role of specific solvent-polymer
+    interactions is revealed.
+  tags: orgranic, drug, food, raman, pharma
+  title: Controlling desolvation through polymer-assisted grinding
+  url: ''
+  volume: ''
+  year: '2022'
 wrigh;joss21:
   ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
     Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,

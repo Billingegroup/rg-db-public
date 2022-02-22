@@ -338,7 +338,7 @@ cas:
   day: 15
   month: 3
   name: The Chinese Academy of Sciences
-  depatments:
+  departments:
     iop:
       aka:
         - IoP-CAS

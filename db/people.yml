@@ -4658,6 +4658,26 @@ sdisch:
       group: bg
   name: Sabrina Disch
   position: unknown
+sfrank:
+  active: true
+  aka: []
+  avatar: https://github.com/sarafrank95.png
+  bio: bio
+  education: []
+  email: sarafrank@bce.au.dk
+  employment:
+    - begin_date: 2022-02-21
+      end_date: 2022-12-31
+      organization: columbiau
+      position: visiting Researcher, U Copenhagen
+      group: bg
+      advisor: sbillinge
+      status: visitor-unsupported
+  github_id: sarafrank95
+  grp_mtg_active: false
+  name: Sara Frank
+  orcid_id: '0000-0001-6321-8363'
+  position: visiting Researcher, U Copenhagen
 sghose:
   active: false
   aka: []
@@ -5537,7 +5557,8 @@ zthatcher:
   education:
     - begin_year: 2020
       begin_month: 8
-      end_date: 2022-02-25
+      end_year: 2022
+      end_month: 2
       advisor: sbillinge
       degree: Masters in Material Science
       institution: Columbia University
