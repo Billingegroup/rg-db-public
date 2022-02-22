@@ -297,6 +297,18 @@ byu:
       name: Physics
   name: Brigham Young University
   state: UT
+calpolysu:
+  city: San Luis Obispo
+  country: USA
+  date: 2022-01-18
+  departments:
+    chemistry:
+      name: Department of Chemistry and Biochemistry
+  name: California Polytechnic State University
+  state: CA
+  updated: 2022-01-18 08:28:04.891025
+  uuid: ac38b031-f189-490f-ad9f-bf37ac02bcf4
+  zip: '93407'
 caltech:
   aka:
     - caltech
@@ -326,7 +338,7 @@ cas:
   day: 15
   month: 3
   name: The Chinese Academy of Sciences
-  schools:
+  departments:
     iop:
       aka:
         - IoP-CAS
@@ -503,6 +515,17 @@ delftutchnology:
   month: 3
   name: Delft University of Technology
   year: 2020
+demontfortu:
+  city: Leicester
+  country: UK
+  date: 2022-01-18
+  departments:
+    pharmacy:
+      name: Leicester School of Pharmacy
+  name: De Montfort University
+  updated: 2022-01-18 09:12:22.598537
+  uuid: 18b920db-c72e-4466-a539-b717fdc7981f
+  zip: LE1 9BH
 desy:
   aka:
     - desy
@@ -520,6 +543,15 @@ deutschenanoschicht:
   month: 3
   name: Deutsche Nanoschicht GmbH
   year: 2020
+diamondls:
+  city: Didcot
+  country: UK
+  date: 2022-01-18
+  name: Diamond Light Source
+  state: Oxfordshire
+  updated: 2022-01-18 08:03:53.104626
+  uuid: 24849077-e909-4a49-8e27-8d8965263d1f
+  zip: OX11 0DE
 doe:
   aka:
     - Department of Energy
@@ -605,6 +637,17 @@ enthought:
   updated: 2020-12-29 04:16:46.030159
   uuid: 358f4e2b-e0dc-44e6-8cf4-605409118494
   zip: '78701'
+ercfmaswe:
+  city: Jülich
+  country: Germany
+  date: 2022-01-18
+  departments:
+    pons:
+      name: Physics of Nanoscale Systems
+  name: Ernst Ruska-Centre for Microscopy and Spectroscopy with Electrons
+  updated: 2022-01-18 12:32:39.144852
+  uuid: 99ab2ac7-2394-4fc4-af6a-3f38139723ae
+  zip: '52428'
 esrf:
   aka:
     - European Synchrotron Radiation Facility
@@ -878,6 +921,18 @@ huazhongu:
   month: 3
   name: Huazhong University of science and technology
   year: 2020
+huazhongust:
+  city: Wuhan
+  country: China
+  date: 2022-01-18
+  name: Huazhong University of Science and Technology
+  schools:
+    optical_information:
+      name: School of Optical and Electronic Information,
+  state: Hubei
+  updated: 2022-01-18 07:27:00.980260
+  uuid: b715a66b-d95e-4ef9-9f21-957afbbf8ff3
+  zip: ' 430074'
 iccnrcomo:
   aka:
     - Crystallographic Institute, Como
@@ -965,6 +1020,15 @@ instituteofphysicschineseacademyofsciences:
   updated: 2020-02-14 19:36:33.253611
   uuid: 974bd857-25c3-465d-acbe-a841bcdb4eeb
   year: 2020
+intelcorp:
+  city: Santa Clara
+  country: USA
+  date: 2022-01-18
+  name: Intel Corporation
+  state: CA
+  updated: 2022-01-18 07:55:04.389159
+  uuid: 4d91f1b3-7fcb-470c-8e81-d6a8eeaa1b5e
+  zip: '95052'
 iocbari:
   aka:
     - CNR
@@ -1134,6 +1198,14 @@ lhmfcas:
   month: 3
   name: Laboratory of High Magnetic Field of the Chinese Academy of Sciences
   year: 2020
+maryrosetrust:
+  city: Portsmouth
+  country: UK
+  date: 2022-01-18
+  name: The Mary Rose Trust
+  updated: 2022-01-18 10:16:21.221630
+  uuid: 74d95966-7319-4e3a-b269-42c9d013cc2b
+  zip: PO1 3LX
 mckinsey&company:
   aka:
     - McKinsey & Company, Geneva
@@ -1157,6 +1229,15 @@ mcmasteru:
   updated: 2020-02-14 19:38:46.027775
   uuid: bf1b9da0-ab1a-42e9-9f7d-06e80f5e2fc9
   year: 2020
+microsoft:
+  city: Redmond
+  country: USA
+  date: 2022-01-18
+  name: Microsoft
+  state: WA
+  updated: 2022-01-18 08:02:39.857369
+  uuid: f39ae413-3aab-444c-8a43-bd3674683a3d
+  zip: '98052'
 missing:
   aka: []
   city: missing
@@ -1261,6 +1342,15 @@ msu:
   state: MI
   street: 220 Trowbridge Rd
   zip: '48824'
+munichreventures:
+  city: San Francisco
+  country: USA
+  date: 2022-01-18
+  name: Munich Re Ventures
+  state: CA
+  updated: 2022-01-18 08:09:46.853121
+  uuid: 68eec7eb-1cf6-4571-a96e-fa01972855fd
+  zip: '94111'
 nankaiu:
   city: Nankai
   country: China
@@ -1268,6 +1358,15 @@ nankaiu:
   name: Nankai University
   updated: 2021-03-09 11:14:21.154071
   uuid: fee5a129-5f4b-49cd-9db2-7780085ea04a
+nanohydrochemllc:
+  city: Buffalo
+  country: USA
+  date: 2022-01-18
+  name: NanoHydroChem LLC
+  state: NY
+  updated: 2022-01-18 11:22:37.638152
+  uuid: e88f1f9f-cb5d-4e14-bc52-1753d91856bd
+  zip: '14260'
 nanomegas:
   city: Brussels
   country: Belgium
@@ -1410,6 +1509,11 @@ northwesternu:
   city: Evanston
   country: USA
   day: 10
+  departments:
+    chemistry:
+      name: Department of Chemistry
+    matsci:
+      name: 3Department of Materials Science and Engineering
   month: 1
   name: Northwestern University
   updated: '2020-01-10 17:26:45.692690'
@@ -1454,6 +1558,15 @@ nyu:
   name: New York University
   state: NY
   zip: '10003'
+ohiostateu:
+  city: Columbus
+  country: USA
+  date: 2022-01-18
+  name: Ohio State University
+  state: OH
+  updated: 2022-01-18 09:47:25.887588
+  uuid: 8170617b-1a6b-4e7f-beb6-24d81665051d
+  zip: '43210'
 ohiou:
   aka:
     - Ohio
@@ -1478,6 +1591,15 @@ openu:
   name: Open University Foundation
   state: NY
   zip: '10020'
+organizationalscienceconsultingresearch:
+  city: Charlotte
+  country: USA
+  date: 2022-01-18
+  name: Organizational Science Consulting & Research
+  state: NC
+  updated: 2022-01-18 12:26:03.150074
+  uuid: a96750c6-3515-4e31-a007-74d3daef10cb
+  zip: '28223'
 ornl:
   city: Oak Ridge
   country: USA
@@ -1584,8 +1706,9 @@ pohangacceleratorlaboratory:
   updated: 2020-03-17 01:30:46.785825
   uuid: 4569e430-daa8-40a6-abd2-3e130df4b619
   year: 2020
-pohanguofscienceandtechnology:
-  aka: []
+pohangust:
+  aka:
+    - pohangofscienceandtechnology
   city: Pohang
   country: South Korea
   day: 17
@@ -1739,12 +1862,28 @@ riceu:
   name: Rice University
   state: TX
   zip: '77251'
+rigaku:
+  city: Tokyo
+  country: Japan
+  date: 2022-01-18
+  name: Rigaku
+  updated: 2022-01-18 08:06:14.650702
+  uuid: 4028a9fd-47c5-44ae-a2bc-7d2c174e04de
 rmitu:
   aka:
     - RMIT University
   city: Saigon
   country: Vietnam
   name: RMIT University Vietnam
+roivantsciences:
+  city: New York
+  country: USA
+  date: 2022-01-18
+  name: Roivent Sciences
+  state: NY
+  updated: 2022-01-18 08:46:40.344518
+  uuid: d3c6cc00-9ca9-4faa-9951-40dec81d1575
+  zip: '10001'
 rutgers:
   aka:
     - The State University of New Jersey—Piscataway
@@ -1797,6 +1936,15 @@ sandianationallaboratories:
   uuid: a82449b8-1821-4a74-8c8c-80ea897a9b46
   year: 2020
   zip: '20024'
+sap:
+  city: Newtown Square
+  country: USA
+  date: 2022-01-18
+  name: SAP
+  state: PA
+  updated: 2022-01-18 08:08:29.306097
+  uuid: 660374ac-4463-4a3d-a4bf-9d869548ee60
+  zip: '19073'
 sci-tec:
   aka: []
   city: Milan
@@ -1900,7 +2048,7 @@ stockholmu:
   updated: 2020-03-17 21:15:14.610311
   uuid: a968ff5a-a73c-4f95-8288-607d2b9911d6
   year: 2020
-suny:
+stonybrooku:
   aka:
     - SBU
     - sbu
@@ -1909,7 +2057,7 @@ suny:
     - SUNYSB
     - Stony Brook
     - Stony Brook University
-    - stonybrooku
+    - sunysb
   city: Stony Brook
   country: USA
   day: 15
@@ -1991,6 +2139,13 @@ theuofbritishcolumbia:
   updated: 2020-02-14 19:40:42.838722
   uuid: 4562c391-b467-4fbc-9342-4a40150c8405
   year: 2020
+tianjinu:
+  city: Tianjin
+  country: China
+  date: 2022-01-18
+  name: Tianjin University
+  updated: 2022-01-18 08:10:49.619926
+  uuid: 3036f92e-e5ad-4977-8f2a-60fa9fdf5cc2
 tohokuu:
   aka:
     - Tohoku Daigako
@@ -2024,9 +2179,23 @@ ubasel:
   city: Basel
   country: Switzerland
   day: 15
+  departments:
+    chemistry:
+      name: Department of Chemistry
   month: 3
   name: University of Basel
+  updated: 2022-01-18 08:56:06.554782
   year: 2020
+  zip: '4001'
+ubath:
+  city: Bath
+  country: UK
+  date: 2022-01-18
+  name: University of Bath
+  state: Somerset
+  updated: 2022-01-18 07:53:49.440051
+  uuid: 025f4f38-e0d9-4c82-b048-1b9cbf494bd7
+  zip: ' BA2 7AY'
 ubayreuth:
   aka:
     - Bayreuth
@@ -2138,6 +2307,9 @@ ucolorado:
   city: Boulder
   country: USA
   day: 15
+  departments:
+    renewablesustainableenergyi:
+      name: Renewable and Sustainable Energy Institute
   month: 3
   name: University of Colorado
   state: CO
@@ -2163,9 +2335,28 @@ ucopenhagen:
   departments:
     chemistry:
       name: Department of Chemistry
+    pharmacy:
+      name: Department of Pharmacy
   name: University of Copenhagen
   state: ''
   zip: ''
+ucriverside:
+  aka:
+    - Riverside University
+    - UC Riverside
+  city: Riverside
+  country: USA
+  date: 2022-01-18
+  departments:
+    matsci:
+      name: Materials Science and Engineering Program
+    meche:
+      name: Department of Mechanical Engineering
+  name: University of California, Riverside
+  state: CA
+  updated: 2022-01-18 10:23:06.853167
+  uuid: f60c8002-828c-471b-ab63-ce3c886dcabf
+  zip: '92521'
 ucsandiego:
   city: La Jolla
   country: USA
@@ -2393,6 +2584,14 @@ uiuc:
   name: University of Illinois at Urbana-Champaign
   state: IL
   zip: 61820-5711
+ujordan:
+  city: Amman
+  country: Jordan
+  date: 2022-01-18
+  name: University of Jordan
+  updated: 2022-01-18 07:52:34.999052
+  uuid: fa13370b-0c0d-46e1-bc76-7304da4f1b92
+  zip: ' '
 umaine:
   aka:
     - University of Maine
@@ -2413,6 +2612,9 @@ umanchester:
   city: Manchester
   country: UK
   day: 15
+  departments:
+    cheme:
+      name: Department of Chemical Engineering and Analytical Science
   month: 3
   name: The University of Manchester
   year: 2020
@@ -2665,6 +2867,14 @@ upuertorico:
   city: San Juan
   country: Puerto Rico
   name: University of Puerto Rico
+uregensburg:
+  city: Regensburg
+  country: Germany
+  date: 2022-01-18
+  name: Regensburg Univeristy
+  updated: 2022-01-18 08:01:39.959312
+  uuid: 9823f4d6-3edf-424f-87ea-c8736ea6dbe1
+  zip: '93053'
 urome:
   aka:
     - uroma
@@ -2710,6 +2920,10 @@ usheffield:
   departments:
     physics:
       name: Department of Physics and Astronomy
+    cheme:
+      name: Department of Chemical and Biological Engineering
+    matsci:
+      name: Department of Materials Science and Engineering
   name: University of Sheffield
 utennessee:
   aka:
@@ -2761,6 +2975,17 @@ utrechtu:
   month: 3
   name: Utrecht University
   year: 2020
+utrieste:
+  city: Trieste
+  country: Italy
+  date: 2022-01-18
+  departments:
+    pharmacy:
+      name: Department of Chemical and Pharmaceutical Sciences
+  name: University of Trieste
+  updated: 2022-01-18 09:10:59.836867
+  uuid: c01b006a-d815-446c-9b86-4c390f04b6cf
+  zip: '34127'
 utsinghua:
   aka:
     - Tsinghua
@@ -2898,6 +3123,15 @@ waterdistrictofsoutherncalifornia:
   uuid: f4a37279-1ccc-41f3-847b-94e0d117fafd
   year: 2020
   zip: '90012'
+wellsfargosecurities:
+  city: Charlotte
+  country: USA
+  date: 2022-01-18
+  name: Wells Fargo Securities
+  state: NC
+  updated: 2022-01-18 08:07:35.212236
+  uuid: 1d7f7f11-3e42-4b5b-8c91-20ab905d81b8
+  zip: '28202'
 westvirginiau:
   aka:
     - westvirginiau

@@ -3068,6 +3068,61 @@
   status: accepted
   title: tbd
   type: invited
+2204sb_rigaku:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2022-04-06
+  end_date: 2022-04-07
+  location: Rigaku
+  meeting_name: Rigaku virtual single crystal workshop
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: plenary
+  webinar: true
+2205sb_šibenik,croatia:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2022-05-31
+  end_date: 2022-06-03
+  location: Šibenik, Croatia
+  meeting_name: European Powder Diffraction Conference (EPDIC)
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: award
+2206sb_erice,italy:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2022-06-03
+  end_date: 2022-06-11
+  location: Erice, Italy
+  meeting_name: 'International School of Crystallography, Diffuse scattering: the
+    crystallography of dynamics, defects, and disorder'
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: invited
+2207sb_nist,gaithersbug,md:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2022-07-12
+  end_date: 2022-07-14
+  location: NIST, Gaithersbug, MD
+  meeting_name: Artificial Intelligence for Materials Science Workshop
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: invited
+  webinar: true
 2208sb_cityuniversityofhongkong,kowloon,hongkong:
   abstract: tbd
   authors:
@@ -3084,3 +3139,16 @@
   title: tbd
   type: invited
   webinar: true
+2209sb_chicheleyhall,miltonkeynes,uk:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2022-09-07
+  end_date: 2022-09-09
+  location: Chicheley Hall, Milton Keynes, UK
+  meeting_name: Meeting on Complex Order
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: invited
