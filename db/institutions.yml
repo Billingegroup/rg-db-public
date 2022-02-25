@@ -336,8 +336,6 @@ cas:
   city: Beijing
   country: China
   day: 15
-  month: 3
-  name: The Chinese Academy of Sciences
   departments:
     iop:
       aka:
@@ -349,6 +347,8 @@ cas:
     iocmasec:
       aka: []
       name: Institute of Computational Mathematics and Scientific/Engineering Computing
+  month: 3
+  name: The Chinese Academy of Sciences
   year: 2020
 ccny:
   aka:
@@ -773,6 +773,17 @@ gatech:
   name: Georgia Institute of Technology
   state: GA
   zip: 30332
+geli:
+  aka:
+    - Geli
+  city: San Francisco
+  country: USA
+  date: 2022-02-25
+  name: Growing Energy Labs, Inc.
+  state: CA
+  updated: 2022-02-25 04:00:13.840468
+  uuid: 0e4665d0-8914-4e84-aff9-219e502d0d74
+  zip: '94105'
 georgewashingtonu:
   aka:
     - GWU

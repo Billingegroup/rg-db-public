@@ -3352,13 +3352,13 @@ raidun:
 ranselm:
   active: true
   aka: []
-  avatar: "https://github.com/ryboselm.png"
-  bio: Ryan is an undergraduate in SEAS from Houston, Texas studying computer
-    science with a minor in applied math and/or applied physics. He has 
-    previously worked on finding and characterizing charge density saddle points 
-    in crystalline lattices. In his free time, he enjoys going on
-    runs and reading postmodern fiction. He is interested in application of
-    statistical and machine learning approaches to the nanostructure inverse problem.
+  avatar: https://github.com/ryboselm.png
+  bio: Ryan is an undergraduate in SEAS from Houston, Texas studying computer science
+    with a minor in applied math and/or applied physics. He has previously worked
+    on finding and characterizing charge density saddle points in crystalline lattices.
+    In his free time, he enjoys going on runs and reading postmodern fiction. He is
+    interested in application of statistical and machine learning approaches to the
+    nanostructure inverse problem.
   education:
     - begin_year: 2020
       begin_month: 8
@@ -4687,7 +4687,7 @@ sfrank:
   github_id: sarafrank95
   grp_mtg_active: false
   name: Sara Frank
-  orcid_id: '0000-0001-6321-8363'
+  orcid_id: 0000-0001-6321-8363
   position: visiting Researcher, U Copenhagen
 sghose:
   active: false
@@ -5551,7 +5551,7 @@ zguguchia:
   name: Zurab Guguchia
   position: scientist
 zthatcher:
-  active: true
+  active: false
   aka:
     - Zach Thatcher
     - Thatcher, Zachary A.
@@ -5559,12 +5559,12 @@ zthatcher:
     - Zachary A. Thatcher
     - Zachary Thatcher
   avatar: https://github.com/zthatch.png
-  bio: Zach grew up in Connecticut and has spent the last few years working as an
-    engineering consultant in Arlington, VA. At the University of Connecticut he worked
-    on characterization of ferroelectric thin films as a member of HueyAFM Labs. As
-    an consulting engineer, he acted primarily as a a firmware developer for the medical
-    device industry, as well as a material scientist for the power industry. In his
-    free time you may catch him on a run or desperately trying to land a good kickflip.
+  bio: Zach grew up in Connecticut and worked previously as an engineering consultant
+    in Arlington, VA. At the University of Connecticut he worked on characterization
+    of ferroelectric thin films as a member of HueyAFM Labs. As an consulting engineer,
+    he acted primarily as a a firmware developer for the medical device industry,
+    as well as a material scientist for the power industry. In his free time you may
+    catch him on a run or desperately trying to land a good kickflip.
   education:
     - begin_year: 2020
       begin_month: 8
@@ -5582,6 +5582,10 @@ zthatcher:
       end_month: 3
   email: zt2275@columbia.edu
   employment:
+    - begin_year: 2022
+      begin_month: 3
+      organization: Geli
+      position: Software Engineer
     - begin_year: 2020
       begin_month: 4
       end_year: 2022
