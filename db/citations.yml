@@ -3330,7 +3330,7 @@ choud;npjcm21:
   url: https://arxiv.org/abs/2110.14820
   volume: ''
   wwwemail: ''
-  year: '2021'
+  year: '2022'
 chuby;pre05:
   author:
     - Chubynsky, M. V.
@@ -10087,6 +10087,54 @@ stein;cm17:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/stein_cm2017.pdf
   year: '2017'
+terba;cec22:
+  ackno: DH and MM would like to thank University of Trieste for partially funding
+    this study through the “Fondo per la Ricerca di Ateneo (FRA 2020)” grant scheme.
+    MWT gratefully acknowledges support from BASF. POO would like to acknowledge the
+    Center for Intelligent Drug Delivery and Sensing Using Microcontainers and Nanomechanics
+    (IDUN) funded by the Danish National Research Foundation (grant no. DNRF122) and
+    the Velux Foundations (grant no. 9301) for funding of this project. JR would like
+    to acknowledge funding from the Independent Research Fund Denmark [Grant No. 8022-00154B].
+    SJLB's contributions were supported by the U.S. Department of Energy, Office of
+    Science, Office of Basic  Energy Sciences (DOE-BES) under contract No. DE-SC0012704.
+    The authors acknowledge DESY (Hamburg, Germany), a member of the Helmholtz Association
+    HGF, for the provision of experimental facilities. Parts of this research were
+    carried out at beamline P02.1.
+  author:
+    - Maxwell W. Terban
+    - Leillah Madhau
+    - Aurora J. Cruz-Cabeza
+    - Peter O. Okeyo
+    - Martin Etter
+    - Armin Schulz
+    - Jukka Rantanen
+    - Robert E. Dinnebier
+    - Simon J. L. Billinge
+    - Mariarosa Moneghini
+    - Dritan Hasa
+  doi: ''
+  entrytype: article
+  facility: desy, petraIII, p02.1
+  grant: fwp20
+  journal: crystEngComm
+  month: tbd
+  nb: ' art '
+  note: to be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: Desolvation, the removal of solvent molecules from a substrate, is of
+    great importance in drug development and production, food processing, organic
+    synthesis and beyond.  This paper shows how grinding the substrate in the presence
+    of different polymers has a significant effect on the desolvation.  Through the
+    use of PDF analysis and Raman scattering, the intricate role of specific solvent-polymer
+    interactions is revealed.
+  tags: orgranic, drug, food, raman, pharma
+  title: Controlling desolvation through polymer-assisted grinding
+  url: ''
+  volume: ''
+  year: '2022'
 terba;cgd15:
   author:
     - Terban, Maxwell W.
@@ -10112,11 +10160,10 @@ terba;cgd15:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/terba_cgd15.pdf
   year: '2015'
 terba;cr22:
-  ackno: Luzia Germann, Gianpiero Gallo, and Sebastian Bette are thanked for
-    helpful feedback. M.W.T. gratefully acknowledges support from BASF.
-    S.J.L.B’s contributions were supported by the U.S. Department of Energy,
-    Office of Science, Office of Basic Energy Sciences (DOE-BES) under contract
-    No. DE-SC0012704.
+  ackno: Luzia Germann, Gianpiero Gallo, and Sebastian Bette are thanked for helpful
+    feedback. M.W.T. gratefully acknowledges support from BASF. S.J.L.B’s contributions
+    were supported by the U.S. Department of Energy, Office of Science, Office of
+    Basic Energy Sciences (DOE-BES) under contract No. DE-SC0012704.
   author:
     - Maxwell W. Terban
     - Simon J. L. Billinge
@@ -10128,16 +10175,16 @@ terba;cr22:
   journal: Chem. Rev.
   month: nov
   nb: ' art '
-  optnote: accepted
   number: '1'
+  optnote: accepted
   optwwwlanl: ''
-  pages: '1208–1272'
+  pages: 1208–1272
   synopsis: A thorough and detailed review of total scattering PDF experiments and
-    studies of molecular materials.  Contains useful tips and tricks for doing
-    experiments and analyses on weakly scattering samples.
+    studies of molecular materials.  Contains useful tips and tricks for doing experiments
+    and analyses on weakly scattering samples.
   tags: review, molecular, pharma
   title: Structural analysis of molecular materials using the pair distribution function
-  url: 'https://doi.org/10.1021/acs.chemrev.1c00237'
+  url: https://doi.org/10.1021/acs.chemrev.1c00237
   volume: '122'
   year: '2022'
 terba;ic17:
@@ -11140,54 +11187,6 @@ wrigh;cm21:
   wwwemail: ''
   wwwpub: ''
   year: '2021'
-terba;cec22:
-  ackno: DH and MM would like to thank University of Trieste for partially funding
-    this study through the “Fondo per la Ricerca di Ateneo (FRA 2020)” grant scheme.
-    MWT gratefully acknowledges support from BASF. POO would like to acknowledge the
-    Center for Intelligent Drug Delivery and Sensing Using Microcontainers and Nanomechanics
-    (IDUN) funded by the Danish National Research Foundation (grant no. DNRF122) and
-    the Velux Foundations (grant no. 9301) for funding of this project. JR would like
-    to acknowledge funding from the Independent Research Fund Denmark [Grant No. 8022-00154B].
-    SJLB's contributions were supported by the U.S. Department of Energy, Office of
-    Science, Office of Basic  Energy Sciences (DOE-BES) under contract No. DE-SC0012704.
-    The authors acknowledge DESY (Hamburg, Germany), a member of the Helmholtz Association
-    HGF, for the provision of experimental facilities. Parts of this research were
-    carried out at beamline P02.1.
-  author:
-    - Maxwell W. Terban
-    - Leillah Madhau
-    - Aurora J. Cruz-Cabeza
-    - Peter O. Okeyo
-    - Martin Etter
-    - Armin Schulz
-    - Jukka Rantanen
-    - Robert E. Dinnebier
-    - Simon J. L. Billinge
-    - Mariarosa Moneghini
-    - Dritan Hasa
-  doi: ''
-  entrytype: article
-  facility: desy, petraIII, p02.1
-  grant: fwp20
-  journal: crystEngComm
-  month: tbd
-  nb: ' art '
-  note: to be published
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
-  synopsis: Desolvation, the removal of solvent molecules from a substrate, is of
-    great importance in drug development and production, food processing, organic
-    synthesis and beyond.  This paper shows how grinding the substrate in the presence
-    of different polymers has a significant effect on the desolvation.  Through the
-    use of PDF analysis and Raman scattering, the intricate role of specific solvent-polymer
-    interactions is revealed.
-  tags: orgranic, drug, food, raman, pharma
-  title: Controlling desolvation through polymer-assisted grinding
-  url: ''
-  volume: ''
-  year: '2022'
 wrigh;joss21:
   ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
     Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,
