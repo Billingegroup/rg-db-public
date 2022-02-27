@@ -179,6 +179,36 @@
   status: accepted
   title: Algorithms and Approaches for Robust {PDF}s
   type: invited
+1804_kentState:
+  abstract: Modern materials under study for next generation technologies, such as
+    for energy conversion and storage,   environmental remediation and health, are
+    highly complex, often heterogeneous and nano structured.  A full understanding
+    of the structure requires us to go beyond crystallography and to study the local
+    structure, which is a major experimental challenge. There are recently emerging
+    powerful experimental developments, for example, using the atomic pair distribution
+    function technique (PDF), among others. I will describe the structural insights
+    that can be obtained from heterogenous nanostructured components such as electrodes
+    and electrolytes in fuel cells and batteries and thermoelectrics. These approaches
+    can yield quantitative information such as thermodynamic parameters that help
+    us to understand function even in working devices, as well as to study failure
+    of the devices.  The approaches are under active development and show great promise.   I
+    will describe the latest developments, including spatially resolved studes of
+    nanostructure in real devices under operating conditions with ex-situ, in-situ
+    and in-operando studies.
+  authors:
+    - sbillinge
+  begin_day: 13
+  begin_month: 4
+  begin_year: 2018
+  department: physics
+  institution: kentstateu
+  notes:
+    - Khandker Quader is host
+  project:
+    - all
+  status: cancelled
+  title: Robust prediction of real material structure
+  type: colloquium
 1804sb_Copenhagen:
   abstract: Modern materials under study for next generation technologies, such as
     for energy conversion and storage,   environmental remediation and health, are
@@ -1794,7 +1824,7 @@
   notes: []
   project:
     - all
-  status: postponed
+  status: cancelled
   title: The nanostructure inverse problem in the time of artificial intelligence
   type: award
 2005sb_irseeBavaria:
@@ -2523,9 +2553,59 @@
   project:
     - all
   status: accepted
-  title: Challenges for US-Africa international collaboration involving computing
+  title: Challenges for {US-Africa} international collaboration involving computing
   type: invited
   webinar: true
+2106ek_smart_lighthouse:
+  abstract: Understanding the atomic structure of advanced functional materials is
+    crucial for advancements in material chemistry. X-ray Total Scattering with Pair
+    Distribution Function (PDF) has been proven to be a powerful technique for characterization
+    of atomic structure of crystalline and disordered nanomaterials. However, identifying
+    a structure model for modelling is a bottleneck in PDF analysis. We here present
+    a machine-learning (ML) algorithm that helps identifying important atomic structural
+    motifs from PDF data.
+  authors:
+    - ekjaer
+    - aanker
+    - andrea kirsch
+    - sbillinge
+    - kjensen
+  begin_date: 2021-06-14
+  end_date: 2021-06-17
+  location: Sandbjerg, Denmark
+  meeting_name: Smart Lighthouse workshop on atomic structure of functional materials
+  project:
+    - dmref19
+  status: accepted
+  title: automated phase characterization for pair distribution function data
+  type: poster
+2106sb_CINScanada:
+  abstract: Modern materials under study for next generation technologies, such as
+    for energy conversion and storage,   environmental remediation and health, are
+    highly complex, often heterogeneous and nano structured.  A full understanding
+    of the structure requires us to go beyond crystallography and to study the local
+    structure, which is a major experimental challenge. There are recently emerging
+    powerful experimental developments, for example, using the atomic pair distribution
+    function technique (PDF), among others. I will describe the structural insights
+    that can be obtained from heterogenous nanostructured components such as electrodes
+    and electrolytes in fuel cells and batteries and thermoelectrics. These approaches
+    can yield quantitative information such as thermodynamic parameters that help
+    us to understand function even in working devices, as well as to study failure
+    of the devices.  I will discuss early developments of these methods that made
+    use of newly emerging pulsed neutron sources in the 1980's and 1990's, the advantages
+    of neutrons and discuss speculate on scientific impacts that might be possible
+    even from a low intensity source.
+  authors:
+    - sbillinge
+  begin_date: 2021-06-24
+  end_date: 2021-06-24
+  location: Canada
+  meeting_name: Canadian Institute for Neutron Scattering's virtual seminar series
+  project:
+    - all
+  status: accepted
+  title: Local structure from diffraction with the help of epithermal neutrons
+  type: invited
 2106sb_universityofminnesotacenterforquantummaterials:
   abstract: Modern materials under study for next generation technologies, such as
     for energy conversion and storage,   environmental remediation and health, are
@@ -2558,7 +2638,31 @@
     how to find it, and why you should care about it'
   type: invited
   webinar: true
-2108lp_prague,czechrepublic:
+2107ek_geometric_deep_learning:
+  abstract: Understanding the atomic structure of advanced functional materials is
+    crucial for advancements in material chemistry. X-ray Total Scattering with Pair
+    Distribution Function (PDF) has been proven to be a powerful technique for characterization
+    of atomic structure of crystalline and disordered nanomaterials. However, identifying
+    a structure model for modelling is a bottleneck in PDF analysis. We here present
+    a machine-learning (ML) algorithm that helps identifying important atomic structural
+    motifs from PDF data.
+  authors:
+    - ekjaer
+    - aanker
+    - sbillinge
+    - rselvan
+    - kjensen
+  begin_date: 2021-07-16
+  end_date: 2021-07-20
+  location: Vejle, denmark
+  meeting_name: DTU, DIKU & AAU summer school on geometric deep learning
+  project:
+    - dmref19
+  status: accepted
+  title: automated characterization of the atomic structure of mono-metallic nanoparticles
+    from x-ray scattering data using generative models
+  type: poster
+2108ff_prague,czechrepublic:
   abstract: tbd
   authors:
     - Lucas B. M. Pinheiro
@@ -2576,6 +2680,35 @@
   title: Effect of grinding procedures on the ritonavir-lopinavir system
   type: contributed_oral
   webinar: true
+2108mk_fayre_diffpycmi_pdfgui:
+  abstract: na
+  authors:
+    - mkarlsen
+    - sbillinge
+  begin_date: 2021-08-14
+  end_date: 2021-08-22
+  location: Prague, Czech Republic
+  meeting_name: IUCr25, Software Fayre
+  project:
+    - all
+  status: accepted
+  title: '{PDFitc}, {structureMining} and {similarityMapping} demo'
+  type: invited
+2108mk_pydatar_fayre:
+  abstract: na
+  authors:
+    - mkarlsen
+    - bozer
+    - sbillinge
+  begin_date: 2021-08-14
+  end_date: 2021-08-22
+  location: Prague, Czech Republic
+  meeting_name: IUCr25, Software Fayre
+  project:
+    - all
+  status: accepted
+  title: '{pyDataRecognition} Demo'
+  type: invited
 2108s_prague,czechrepublic:
   abstract: na
   authors:
@@ -2625,6 +2758,31 @@
   title: Atomic pair distribution function ({PDF}) in the cloud
   type: tutorial
   webinar: true
+2108sb_oakridgenationallaboratory:
+  abstract: Increased data rates are great.  Who doesn't want more, better, data?
+    But we need help to keep up with all this high velocity data. As well as the data
+    coming more quickly, it is also coming in more abstract form.  Gone are the days
+    when a Bragg peak appears in front of our eyes as we measure each point individually.  Instead
+    we have a 2D image that needs multiple steps of preanalysis before it is interpretable.   I
+    will discuss our activities to address these issues.  AI and Machine Learning
+    methods are beginning to play a role at all steps of the process and will have
+    large impacts moving forward as more and more processes use them to automate and
+    extract more information from the data.  I will present examples where statistical
+    and ML methods have had impacts at all points along the analysis and data interpretation
+    chain.
+  authors:
+    - sbillinge
+  begin_date: 2021-08-10
+  end_date: 2021-08-10
+  location: Oak Ridge National Laboratory
+  meeting_name: Joint Nanoscience and Neutron Science User Meeting
+  project:
+    - all
+  status: accepted
+  title: 'Keeping up with the data: accelerating discovery in a high data velocity
+    world'
+  type: invited
+  webinar: true
 2108sb_prague,czechrepublic:
   abstract: na
   authors:
@@ -2651,9 +2809,53 @@
   project:
     - all
   status: accepted
-  title: tbd
+  title: 'Keeping up with the data: accelerating discovery in a high data velocity
+    world with the help of machine learning'
   type: invited
-  webinar: true
+2108ss_prague:
+  abstract: "When doing structural refinements of total scattering data from highly\
+    \ crystalline compounds, one starts by choosing an atomic model and then imposing\
+    \ constraints that dictate how the atoms are allowed to move. These constraints\
+    \ are typically based on space group symmetry. The resulting structure representation\
+    \ is useful and accurate for a large range of compounds, however, it has its limitations\
+    \ for materials with a significant amount of disorder. It is particularly necessary\
+    \ to accurately describe this disorder when fitting total scattering data in the\
+    \ real space as pair distribution functions. To represent such disordered, but\
+    \ still significantly crystalline compounds, one would ideally want to fit the\
+    \ data with a ‘big-box’ model containing anything from a hundred to a few thousand\
+    \ atoms. Unfortunately, this can lead to a large number of variables to refine\
+    \ and an overfitting of the data with meaningless results. Alternatively, it is\
+    \ possible to construct models where multiple atoms are constrained to move in\
+    \ a collective fashion, controlled by a small number of variables [1,2]. Here\
+    \ we present one such approach, relying on our a priori knowledge of the structure\
+    \ at hand. For oxides with perovskite structure, ABO3, we know that they tend\
+    \ to distort in ways that keep the BO6 octahedra intact. The resulting distortions\
+    \ can therefore often be described by one of 23 unique tilting patterns of the\
+    \ rigid octahedra, identified by Glazer in the '70s [3]. Fitting a model of any\
+    \ of the tilting patterns to scattering data requires refinement of no more than\
+    \ four variables at once – one lattice parameter and a maximum of three tilt amplitudes.\
+    \ We have implemented this approach into diffpy-CMI, a flexible tool for fitting\
+    \ pair distribution function data. Using the method, we analyse a series of scattering\
+    \ data from well-known perovskites and determine their degree and type of structural\
+    \ tilting disorder. [1] Sartbaeva, A. ‘Quadrupolar Ordering in LaMnO3 Revealed\
+    \ from Scattering Data and Geometric Modeling’. Phys. Rev. Lett. 99, no. 15 (2007):\
+    \ 155503. [2] Senn, M. S. et al. ‘Emergence of Long-Range Order in BaTiO3 from\
+    \ Local Symmetry-Breaking Distortions’. Phys. Rev. Lett. 116, no. 20 (2016): 207602.\
+    \ [3] Glazer, A. M. ‘The Classification of Tilted Octahedra in Perovskites’. Acta\
+    \ Cryst. B 28, no. 11 (1972): 3384–92."
+  authors:
+    - Sandra H. Skjaervoe
+    - Simon J. L. Billinge
+  begin_date: 2021-08-14
+  end_date: 2021-08-22
+  location: Prague, Czech Republic
+  meeting_name: IUCr 25th Congress
+  project:
+    - dmref19
+  status: submitted
+  title: 'Local structure representation beyond symmetry constraints: Glazer tilts
+    in perovskites'
+  type: oral_contributed
 2108yr_prague,czechrepublic:
   abstract: In recent years, Electron Diffraction, and especially the 4D-STEM [2]
     is growingly becoming a routine part of structural characterizations of materials
@@ -2713,6 +2915,30 @@
     Systems
   type: contributed_oral
   webinar: true
+2109ek_phd_seminar:
+  abstract: Understanding the atomic structure of advanced functional materials is
+    crucial for advancements in material chemistry. X-ray Total Scattering with Pair
+    Distribution Function (PDF) has been proven to be a powerful technique for characterization
+    of atomic structure of crystalline and disordered nanomaterials. However, identifying
+    a structure model for modelling is a bottleneck in PDF analysis. We here present
+    a machine-learning (ML) algorithm that helps identifying important atomic structural
+    motifs from PDF data.
+  authors:
+    - ekjaer
+    - aanker
+    - sbillinge
+    - rselvan
+    - kjensen
+  begin_date: 2021-09-10
+  end_date: 2021-09-10
+  location: copenhagen, denmark
+  meeting_name: phd seminar
+  project:
+    - dmref19
+  status: accepted
+  title: automated characterization of the atomic structure of mono-metallic nanoparticles
+    from x-ray scattering data using generative models
+  type: poster
 2109sb_granada,spain:
   abstract: na
   authors:
@@ -2752,7 +2978,7 @@
   project:
     - all
   status: accepted
-  title: Application of Non Negative Matrix Factorization NMF
+  title: Application of Non Negative Matrix Factorization {NMF}
   type: invited
   webinar: true
 2109sb_prague,czechrepublic_cmi:
@@ -2782,7 +3008,7 @@
   project:
     - all
   status: accepted
-  title: 'Contributing to Community Codes: GitHub Workflow for Community software
+  title: 'Contributing to Community Codes: {GitHub} Workflow for Community software
     Development'
   type: tutorial
   webinar: true
@@ -2815,6 +3041,30 @@
   title: 'Testing your code: Test driven development'
   type: tutorial
   webinar: true
+2110ek_danscatt:
+  abstract: Understanding the atomic structure of advanced functional materials is
+    crucial for advancements in material chemistry. X-ray Total Scattering with Pair
+    Distribution Function (PDF) has been proven to be a powerful technique for characterization
+    of atomic structure of crystalline and disordered nanomaterials. However, identifying
+    a structure model for modelling is a bottleneck in PDF analysis. We here present
+    a machine-learning (ML) algorithm that helps identifying important atomic structural
+    motifs from PDF data.
+  authors:
+    - ekjaer
+    - aanker
+    - sbillinge
+    - rselvan
+    - kjensen
+  begin_date: 2021-10-08
+  end_date: 2021-10-09
+  location: lyngby, denmark
+  meeting_name: danscatt meeting
+  project:
+    - dmref19
+  status: accepted
+  title: automated characterization of the atomic structure of mono-metallic nanoparticles
+    from x-ray scattering data using generative models
+  type: poster
 2110sb_columbiauniversity:
   abstract: na
   authors:
@@ -2904,6 +3154,66 @@
   title: Structural studies with total scattering
   type: plenary
   webinar: true
+2111mk_2021mrsfall_boston:
+  abstract: 'The inevitable and necessary green transition towards sustainable energy
+    sources depends completely on the ability to store energy. One possibility is
+    to store the excess energy from renewable energy sources electrochemically in
+    rechargeable batteries. A possibility that has also been realized for the substitution
+    of combustion engines in vehicles. To develop the rechargeable batteries of tomorrow,
+    fundamental understanding of relations between material structure and properties
+    is essential. Here, operando experiments are essential, as they provide insight
+    into material behavior under the true dynamic conditions relevant for real applications.
+    For the material structure at the atomic and nano length scales, x-rays, neutrons,
+    and electrons are excellent probes. If materials are crystalline and well-ordered
+    on the atomic and nano length scales, traditional diffraction methods are ideal
+    to probe the long-range order of the material structure, as the relevant information
+    lies in the Bragg peaks. In recent years, it has been realized that crystallinity
+    is not a given for all battery materials at all states-of-charge or at all stages
+    of a battery’s lifetime. However, for non-crystalline materials, whether they
+    are nanocrystalline, disordered, or even amorphous, the more traditional diffraction
+    methods fall short. Now, the relevant information does not lie in the Bragg peaks
+    but underneath them in the diffuse scattering. To probe the material structure
+    of crystallographically challenged materials, total scattering experiments, which
+    involve both the Bragg and diffuse scattering, hold the key. From total scattering
+    data, the reduced atomic pair distribution function (PDF) can be obtained, which
+    takes the scattering data from reciprocal space and into real space. The PDF can
+    be thought of as a probability distribution of the interatomic distances in the
+    material and the very local structure down to nearest-neighbor distances in materials
+    can now be probed. Everything is seen in the PDF, which is a blessing as well
+    as a curse for battery scientists, as batteries are multicomponent systems with
+    complicated PDFs, which calls for battery-specific PDF methodologies. This contribution
+    will address how to obtain operando PDFs for battery materials during cycling
+    and especially how to analyze data. In our studies, we utilize model-dependent
+    PDF analysis, sometimes referred to as ‘real-space Rietveld refinement’, via a
+    least-square optimization method, like Rietveld refinement, where an input model
+    is refined against experimental data, such that the residual between the two is
+    minimized. The user-friendly PDFgui and the more versatile and advanced DiffPy
+    Complex Modelling Interface (DiffPy-CMI) software are two examples on tools to
+    conduct model-dependent, quantitative PDF analysis. In addition, we employ novel
+    tools for model-free PDF analysis. During summer 2021, ‘PDF in the cloud’ (PDFitc)
+    was launched at ‘pdfitc.org’, where multiple apps for PDF analysis are available
+    to users. This includes the model-free ‘similarityMapping’ app, which is a statistical
+    analysis based on Pearson correlation. During fall 2021, another model-free statistical
+    method will become available as an app: non-negative matrix factorization (NMF),
+    which is somewhat like principal component analysis (PCA). Automated methods are
+    also starting to enter the ballpark of PDF analysis. The ‘structureMining’, ‘spacegroupMining’,
+    and ‘clusterMining’ apps at PDFitc mine structural databases and guide users in
+    their PDF analyses to enable the users to explore the atomic level structure of
+    their materials.'
+  authors:
+    - mkarlsen
+    - sbillinge
+    - dbomholdt
+  begin_date: 2021-11-29
+  end_date: 2021-12-02
+  location: Boston, MA
+  meeting_name: 2021 MRS Fall Meeting
+  project:
+    - all
+  status: submitted
+  title: Established and emerging methodologies for operando x total scattering and
+    pair distribution function analysis for rechargeable batteries
+  type: contributed_oral
 2111sb_heldvirtually:
   abstract: tbd
   authors:
@@ -2915,7 +3225,7 @@
     a brighter future'
   project:
     - all
-  status: accepted
+  status: declined
   title: tbd
   type: invited
   webinar: true
@@ -2940,10 +3250,49 @@
     - 15 minutes talk on Friday, per lawrence email
   project:
     - all
-  status: accepted
+  status: declined
   title: Local structure of energy materials and beyond with synchrotron data
   type: invited
   webinar: true
+2111ss_boston:
+  abstract: 'Crystallographically  determined long-range ordered structures of materials
+    are often taken for granted when investigating properties and functionalities.
+    Although this simplifies our lives, there is a growing awareness of the fact that
+    short-range deviations from the long-range order is not only common, but also
+    determining for many of the properties, such as bandgap and magnetic order. As
+    an example, many oxides with the perovskite structure have well-defined crystalline
+    order, but their properties can in some cases be explained better if one accounts
+    for local disorder. To be able to understand how properties are affected by the
+    short-range deviations, or local structure, we first have to properly describe
+    what that local structure looks like. Just as with long-range ordered crystal
+    structures, we can determine the local structure using scattering experiments
+    and subsequently fitting the data to models. To obtain the local structure, however,
+    we must also analyze the diffuse scattering in addition to the Bragg scattering,
+    which is best done in real space as the pair distribution function (PDF). We build
+    on the many already existing PDF studies on perovskites and constrain our structure
+    model further by taking advantage of the knowledge that the structure tends to
+    distort in ways that keep its BO6 octahedra intact. The resulting distortions,
+    collective or not, can therefore often be described by one of 23 unique tilting
+    patterns of the rigid octahedra, identified by Glazer in the 70s [1]. In our implementation,
+    fitting a model of any of the tilting patterns to scattering data requires refinement
+    of no more than four variables at once – one lattice parameter and a maximum of
+    three tilt amplitudes. Here we present our PDF analysis of a selection of perovskites
+    and determine their degree and type of structural tilting disorder. PDF analysis
+    and modeling in the Billinge group was supported by the U.S. National Science
+    Foundation through grant DMREF-1922234. [1] Glazer, A. M. ‘The Classification
+    of Tilted Octahedra in Perovskites’. Acta Cryst. B 28, no. 11 (1972): 3384–92.'
+  authors:
+    - Sandra H. Skjaervoe
+    - Simon J. L. Billinge
+  begin_date: 2021-11-28
+  end_date: 2021-12-03
+  location: Boston, MA, USA
+  meeting_name: MRS Fall Meeting
+  project:
+    - dmref19
+  status: submitted
+  title: Looking for Glazer tilts in the local structure of perovskites
+  type: contributed_oral
 2111st_mrs,ma,usa:
   abstract: Metal oxide nanoparticles have a number of important technological applications
     in electronic devices. In particular, titanium(IV) oxide nanoparticles have potential
@@ -2987,6 +3336,72 @@
   title: Phase analysis of titanium oxide nanoparticles by the application of attenuated
     crystal models on x-ray pair distribution functions
   type: contributed_oral
+2111yr_mrs,ma,usa:
+  abstract: In recent years, Electron Diffraction, and especially the 4D-STEM [1]
+    is growingly becoming a routine part of structural characterizations of materials
+    at the nano-scale. Its un-matched spatial resolution (down to sub-nm) enables
+    the exploration of local variations within a sample, which alternatively is averaged
+    over the entire irradiated sampled area, when explored, for example, by x-rays.
+    As often shown in electron-microscope, samples are often heterogeneous, and consequently
+    their local properties, which then reflect on the average behavior of the material,
+    composite, or device. Besides morphology and composition, the local structural
+    order can vary, especially in evolving systems. In this study, we explore how
+    far we can take electron diffraction when the interest is in the evolution of
+    materials. We challenge ourselves with mapping the local structure in a composite
+    of crystalline Ni and amorphous Zr-Cu-Ni-Al Bulk Metallic Glass (BMG) was fused
+    into a composite via hot-rolling [2]. Using a fast camera looking through a fluorescence
+    screen on which diffraction patterns are observed, we use scanning precession
+    electron diffraction to captured 4D-STEM data with 3 nm step size from a FIB-fabricated
+    Ni/BMG/Ni laminate. Using an automated data reduction and analysis pipelines,
+    including distortion correction, auto-masking, azimuthal-integration, Fourier-transformation,
+    and least-square function fitting, to get electron Pair Distribution Function
+    (ePDF) and a set of structurally-meaningful features, which we generalize as Quantities
+    of Interest (QoI). Since we use both the 2D diffraction patterns and the 1D-ePDF’s,
+    we generalize the concept of mapping structurally-significant QoI’s derived from
+    a spatially-correlated diffraction pattern as scanning nano-structure electron
+    microscopy (SNEM). We use SNEM to generate QoI-based maps of, for example, the
+    virtual-dark-field (VDF) from the 2D diffraction patterns, and the peak position,
+    peak-width, and the goodness of fit to a structural model from the reduced ePDF’s.
+    We find clear variations in structural features across the Ni/BMG interface, as
+    well as within the BGM itself, which indicate the presence of nano-crystalline
+    inclusions with higher structural correlation length, and evidence for variations
+    in the degree of clustering of alike atoms (e.g., Zr-Zr) in the BMG, which indicate
+    a varying short-range chemical order. We could also follow trends in compositional
+    variations using the average interatomic bond-distance (as also verified with
+    atomic fraction EELS maps) extract the distribution of atomic pairs, exposed the
+    BMG/Ni inter-diffusion front, and estimate the effective local structure of the
+    nano-crystalline inclusion within the BMG as an FCC structure.  Combining these
+    results with atomic composition EELS maps, we learn that nano-crystalline inclusions
+    within the BMG are located in Cu-deficient regions. We also learn that the formation
+    of Ni/BMG composite via hot-rolling, which is often found to be challenging due
+    to the excessive formation of nano-crystallites at the Ni/BMG interface has succeeded
+    due to the metallic Ni being amorphized instead of [BMG--Ni] crystallites being
+    formed. These results are an example of the richness SNEM can provide, and with
+    the assistance of automated (and in the future - autonomated) pipelines, bring
+    us closer to exposing (and potentially controlling) the history of heterogeneity
+    in evolving systems. [1]  Xiaoke Mu, Andrey Mazilkin, Christian Sprau, Alexander
+    Colsmann, Christian Kübel, (2019). Microscopy. 3554, 301 [2]  Sina Shahrezaei,
+    Douglas C. Hofmann, Suveen N. Mathaudhu (2019).  JOM. 71, 2 SB and YR thank the
+    support from the U.S. National Science Foundation through grant DMREF-1922234.
+  authors:
+    - Yevgeny Rakita
+    - James L. Hart
+    - Partha Das
+    - Stavros Nicolopoulos
+    - Sina Shahrezaei
+    - Suveen Nigel Mathaudhu4
+    - Mitra Taheri
+    - Simon J. L. Billinge
+  begin_date: 2021-11-28
+  end_date: 2021-12-03
+  location: Boston, MA, USA
+  meeting_name: 2021 MRS Fall Meeting & Exhibit
+  project:
+    - all
+  status: submitted
+  title: Looking at Structural Heterogeneity with Scanning Nano-Structure Electron
+    Microscopy
+  type: contributed_oral
 2112Da_charlotte,nc,usa:
   abstract: A chemically complex matrix with the potential for chemical ordering distinguishes
     multi-principal element alloys (MPEAs) from conventional alloys. As this pertains
@@ -3026,7 +3441,7 @@
   status: submitted
   title: Electron diffraction-based analysis of the role of chemical short-range order
     on the dynamic deformation response of FCC and BCC multi-principal element alloys
-  type: contributed_oral
+  type: contributed_poster
 2112sb_bostonuniversity:
   abstract: Increased data rates are great.  Who doesn't want more, better, data?
     But we need help to keep up with all this high velocity data. As well as the data
@@ -3044,7 +3459,7 @@
   begin_date: 2021-12-10
   department: Department of Materials Science and Engineering
   end_date: 2021-12-10
-  institution: Boston University
+  institution: bostonu
   project:
     - all
   status: accepted
@@ -3065,35 +3480,164 @@
     - inviter is  James LeBeau at MIT
   project:
     - all
-  status: accepted
+  status: declined
   title: tbd
   type: invited
+2203Da_anaheim,ca,usa:
+  abstract: Multi-principle element alloys (MPEAs), and specifically single-phase
+    high entropy alloys (HEAs), offer a unique framework to study fundamental processes
+    of deformation in metallic materials such as dislocation slip and mechanical twinning.  Owing
+    to their chemical and structural disorder, the energetic landscape for deformation
+    substructure formation is more complex when compared to conventional alloys. This
+    can lead to different modes microstructural evolution and result in improved mechanical
+    properties. Furthermore, the potential for the existence of short-range order
+    (SRO) in these alloys may further modulate deformation energetics, which would
+    enable tunability and order-based material design. The present work utilizes various
+    electron diffraction-based methods to characterize both the presence of SRO after
+    thermal treatment and the microstructural evolution due to quasistatic and dynamic
+    compression.
+  authors:
+    - Daniel Foley
+    - David Beaudry
+    - Elaf Anber
+    - Yevgeny Rakita
+    - Partha Das
+    - Simon Billinge
+    - Andrew Matejunas
+    - Carolina Frey
+    - Leslie Lamberson
+    - Tresa Pollock
+    - Irene Beyerlein
+    - Garritt Tucker
+    - Chris Weinberger
+    - Mitra Taheri
+  begin_date: 2022-02-27
+  end_date: 2021-03-03
+  location: Anaheim, CA, USA
+  meeting_name: TMS 2022 Annual Meeting & Exhibition
+  project:
+    - all
+  status: submitted
+  title: Electron diffraction-based analysis of the role of chemical short-range order
+    on the dynamic deformation response of FCC and BCC multi-principal element alloys
+  type: contributed_oral
+2203Ye_israel_jobs:
+  abstract: With the growing complexity of functional materials and chemical systems,
+    we often find ourselves limited in our ability to fully represent the set of descriptors
+    of a chemical system. In complex chemical systems, finding a complete crystallographic
+    model that folds all the interatomic correlations using a small set of structural
+    descriptors may not always be feasible or practical. Alternatively, one can take
+    a data-driven approach and measure the relative changes in structural or chemical
+    features (e.g, structural correlations, oxidation states). An experimental data-driven
+    approach does not require complete models and enjoys the rapidly evolving machine-learning
+    tool-set, which excel at classifying relational datasets and, if also labelled
+    by an observed property, can provide predictive power that links system's descriptors
+    with observed properties. I will focus on two types of complexities - (1) Hierarchical
+    complexity, in which different types of structural or chemical correlations change
+    change with the probed correlation length. For example, in ferroic materials different
+    properties (e.g., mechanical, dielectric, optoelectronic) may depend differently
+    on short- and long-range structural correlations. In multi-component alloys local
+    chemical correlations (random-distribution, ordering, clustering) can affect corrosion
+    and plasticity, but altogether show a single average structural phase. Since selected
+    materials' properties depend on correlations at a specific hierarchical level,
+    it is important to be able to isolate those from one another. (2) Evolutionary
+    complexity, where the order changes over space and/or time. Nucleation, crystal
+    growth,  intercalation - are examples for processes that involve evolutionary
+    complexity and can also be found in batteries, heterogeneous catalysis and photovoltaics.
+    Isolating and tracking order-related correlations in heterogeneous kinetically-stabilized
+    or dynamically changing systems is, therefore, important for their more complete
+    understanding, design and control. Total scattering and Pair Distribution Function
+    (PDF) analysis are key methods for unfolding structural correlations at different
+    correlation lengths. Using 4D-STEM to generate nm-resolution spatially-resolved
+    electron-PDF data taken from hot-rolled Ni-laminated bulk-metallic-glass rakita2021mapping,
+    I demonstrate how both hierarchical and evolutionary complexity can be uncovered
+    and studied. Partially assisted with a machine-learning classification toolbox,
+    we show how different aspects of the structural and chemical order, such as chemical-short-range-order,
+    can be directly visualized as a function of position. In a different example~\cite{rakita2020active}
+    I show how an evolutionary complex systems can be manipulated to achieve a desired
+    chemical state. In this example we demonstrate an active reaction control of Cu
+    redox state from real-time feedback from in-situ synchrotron measurements. While
+    complexity can lead to a lack of control over a chemical system, it is essentially
+    adding tuning-knobs that, once isolated, understood and controlled, can unlock
+    new materials with desired functionalities.
+  authors:
+    - yrakita
+  begin_date: 2021-12-30
+  end_date: 2022-01-13
+  institution: Ben Gurion University, Tel Aviv University, Weizamann Institute, Bar
+    Ilan University
+  location: Israel
+  project:
+    - all
+  status: accepted
+  title: Experimental Data-driven Paradigms for Unfolding Complexity in Chemical Systems
+  type: seminar
 2204sb_rigaku:
   abstract: tbd
   authors:
     - sbillinge
   begin_date: 2022-04-06
   end_date: 2022-04-07
-  location: Rigaku
-  meeting_name: Rigaku virtual single crystal workshop
+  location: Online
+  meeting_name: Rigaku Single Crystal Workshops
+  project:
+    - all
+  status: accepted
+  title: Introduction to and applications of {PDF} analysis
+  type: plenary
+  webinar: true
+2204sb_rigakuheadquarters,neu-isenburg,frankfurt,germany:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2022-04-27
+  end_date: 2022-04-28
+  location: Rigaku Headquarters, Neu-Isenburg, Frankfurt, Germany
+  meeting_name: Rigaku Pharma Forum
   project:
     - all
   status: accepted
   title: tbd
-  type: plenary
+  type: invited
   webinar: true
-2205sb_šibenik,croatia:
-  abstract: tbd
+2205sb_sibenik,croatia:
+  abstract: "The nanostructure inverse problem (NIP) aims to answer the following\
+    \  question: given a diffraction pattern from a nanostructured material, what\
+    \ is the 3D arrangement of atoms that gave rise to it?  It seems that it the same\
+    \ as the 'crystal structure inverse problem' that is (largely) solved by the powerful\
+    \ methods of crystallography.  However, a number of aspects make this problem\
+    \ much more challenging.  First, it is difficult or impossible to get a 3D pattern\
+    \ from a single nanoparticle or nanodomain often forcing us to solve the problem\
+    \ from nano-powder-data, which greatly degrades the information content in the\
+    \ data.  Second, the resulting structural models are more complex than those from\
+    \ regular crystals because, beyond the location of atoms in a well defined unit\
+    \ cell, it is necesaary to specify the nature of aperiodic deviations from the\
+    \ average (for example, position dependent bond-lengths, surface relaxations and\
+    \ dressing, etc.), and to specify morphological aspects of the nanoparticles and\
+    \ nanodomains.  The reduction in information content in the data, coupled with\
+    \ the increase in the complexity of the resulting models make these problems often\
+    \ ill-posed with no unique, correct,  solution. Nonetheless, the fundamental importance\
+    \ of the structure-property relationship in materials means that solve this problem\
+    \ we must, and with picometer precision.\nIn this talk I will discuss some changes\
+    \ in approach to the the problem that we have recently been exploring that take\
+    \ us in the direction of the use of data analytics, machine learning, and artificial\
+    \ intelligence.  These approaches have had a powerful impact in commerce and our\
+    \ online life, but less so in materials science.  The attraction of these approaches\
+    \ is that they are inherently well tuned to handle ill-posed statistical problems\
+    \ such as the NIP, but it will require a change how we approach the analysis of\
+    \ these problems.  I will discuss our initial steps in this direction and propose\
+    \ a path forward."
   authors:
     - sbillinge
   begin_date: 2022-05-31
   end_date: 2022-06-03
   location: Šibenik, Croatia
-  meeting_name: European Powder Diffraction Conference (EPDIC)
+  meeting_name: The Distinguished Powder Diffractionist award presentation of the
+    European Powder Diffraction Conference (EPDIC)
   project:
     - all
   status: accepted
-  title: tbd
+  title: The nanostructure inverse problem in the time of artificial intelligence
   type: award
 2206sb_erice,italy:
   abstract: tbd
@@ -3109,6 +3653,19 @@
   status: accepted
   title: tbd
   type: invited
+2206sb_nssa_plenary:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2022-06-05
+  end_date: 2022-06-09
+  location: Boulder, CO
+  meeting_name: American Conference on Neutron Scattering
+  project:
+    - all
+  status: declined
+  title: na
+  type: plenary
 2207sb_nist,gaithersbug,md:
   abstract: tbd
   authors:
@@ -3129,7 +3686,7 @@
     - sbillinge
   begin_date: 2022-08-08
   end_date: 2022-08-12
-  location: CIty University of Hong Kong, Kowloon, Hong Kong
+  location: City University of Hong Kong, Kowloon, Hong Kong
   meeting_name: Croucher Summer Course on Neutron Scattering
   notes:
     - present a lecture and mentor data analysis
@@ -3152,60 +3709,30 @@
   status: accepted
   title: tbd
   type: invited
-2203Ye_israel_jobs:
-  abstract: 
-   With the growing complexity of functional materials and chemical systems,  
-   we often find ourselves limited in our ability to fully represent the set 
-   of descriptors of a chemical system. In complex chemical systems, finding
-   a complete crystallographic model that folds all the interatomic correlations 
-   using a small set of structural descriptors may not always be feasible or practical. 
-   Alternatively, one can take a data-driven approach and measure the relative 
-   changes in structural or chemical features (e.g, structural correlations, 
-   oxidation states). An experimental data-driven approach does not 
-   require complete models and enjoys the rapidly evolving machine-learning 
-   tool-set, which excel at classifying relational datasets and, if also labelled 
-   by an observed property, can provide predictive power that links system's 
-   descriptors with observed properties. 
-   I will focus on two types of complexities -
-   (1) Hierarchical complexity, in which different types of 
-   structural or chemical correlations change change with the probed correlation length. 
-   For example, in ferroic materials different properties (e.g., mechanical, 
-   dielectric, optoelectronic) may depend differently on short- and long-range 
-   structural correlations. In multi-component alloys local chemical correlations
-   (random-distribution, ordering, clustering) can affect corrosion and plasticity, 
-   but altogether show a single average structural phase. Since selected materials'
-   properties depend on correlations at a specific hierarchical level, 
-   it is important to be able to isolate those from one another.  
-   (2) Evolutionary complexity, where the order changes over space and/or time.
-   Nucleation, crystal growth,  intercalation - are examples for processes that 
-   involve evolutionary complexity and can also be found in batteries,
-   heterogeneous catalysis and photovoltaics. Isolating and tracking order-related 
-   correlations in heterogeneous kinetically-stabilized or dynamically changing 
-   systems is, therefore, important for their more complete understanding, design and control.
-   Total scattering and Pair Distribution Function (PDF) analysis are key methods 
-   for unfolding structural correlations at different correlation lengths. 
-   Using 4D-STEM to generate nm-resolution spatially-resolved electron-PDF 
-   data taken from hot-rolled Ni-laminated bulk-metallic-glass rakita2021mapping, 
-   I demonstrate how both hierarchical and evolutionary complexity can be uncovered 
-   and studied. Partially assisted with a machine-learning classification toolbox, 
-   we show how different aspects of the structural and chemical order, such as 
-   chemical-short-range-order, can be directly visualized as a function of position. 
-   In a different example~\cite{rakita2020active} I show how an evolutionary complex 
-   systems can be manipulated to achieve a desired chemical state. In this example 
-   we demonstrate an active reaction control of Cu redox state from real-time 
-   feedback from in-situ synchrotron measurements.
-   While complexity can lead to a lack of control over a chemical system, it is 
-   essentially adding tuning-knobs that, once isolated, understood and controlled, 
-   can unlock new materials with desired functionalities.
+2209sb_tatrasmountains,slovakia:
+  abstract: tbd
   authors:
-    - yrakita
-  begin_date: 2021-12-30
-  end_date: 2022-01-13
-  location: Israel
-  institution: Ben Gurion University, Tel Aviv University, Weizamann Institute, Bar Ilan University
+    - sbillinge
+  begin_date: 2022-09-04
+  end_date: 2022-09-07
+  location: Tatras mountains, Slovakia
+  meeting_name: Scientific opportunities with very hard XFEL radiation
+  notes: []
   project:
     - all
   status: accepted
-  title: Experimental Data-driven Paradigms for Unfolding Complexity in Chemical Systems
-  type: seminar
-  
+  title: Ultrafast Orbital Degeneracy Lifting
+  type: invited
+2210sb_sanjuan,puertorico:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2022-10-19
+  end_date: 2022-10-22
+  location: San Juan, Puerto Rico
+  meeting_name: Southeastern Regional Meeting of the American Chemical Society (SERMACS2022)
+  project:
+    - all
+  status: declined
+  title: na
+  type: invited
