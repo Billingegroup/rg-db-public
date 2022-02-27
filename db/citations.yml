@@ -5804,6 +5804,8 @@ jense;nc16:
   optannote: ''
   optwwwlanl: ''
   pages: '11859'
+  supplementary_info_urls:
+    - https://zenodo.org/record/56682
   title: Polymorphism in magic sized {Au$_{144}$(SR)$_{60}$} clusters
   url: http://dx.doi.org/10.1038/ncomms11859
   volume: '7'
@@ -10109,30 +10111,35 @@ terba;cgd15:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/terba_cgd15.pdf
   year: '2015'
-terba;cr21:
-  ackno: M.W.T. gratefully acknowledges support from BASF.  S.J.L.B's contributions  were
-    supported by the U.S. Department of Energy, Office of Science, Office of Basic
-    Energy Sciences (DOE-BES) under contract No. DE-SC0012704.
+terba;cr22:
+  ackno: Luzia Germann, Gianpiero Gallo, and Sebastian Bette are thanked for
+    helpful feedback. M.W.T. gratefully acknowledges support from BASF.
+    S.J.L.B’s contributions were supported by the U.S. Department of Energy,
+    Office of Science, Office of Basic Energy Sciences (DOE-BES) under contract
+    No. DE-SC0012704.
   author:
-    - Maxwell Terban
+    - Maxwell W. Terban
     - Simon J. L. Billinge
-  doi: ''
+  day: 17
+  doi: 10.1021/acs.chemrev.1c00237
   entrytype: article
   facility: ''
   grant: fwp20
   journal: Chem. Rev.
-  month: tbd
+  month: nov
   nb: ' art '
-  note: accepted
-  number: ''
-  optannote: ''
+  optnote: accepted
+  number: '1'
   optwwwlanl: ''
-  pages: ''
-  tags: review, molecular
+  pages: '1208–1272'
+  synopsis: A thorough and detailed review of total scattering PDF experiments and
+    studies of molecular materials.  Contains useful tips and tricks for doing
+    experiments and analyses on weakly scattering samples.
+  tags: review, molecular, pharma
   title: Structural analysis of molecular materials using the pair distribution function
-  url: ''
-  volume: ''
-  year: '2021'
+  url: 'https://doi.org/10.1021/acs.chemrev.1c00237'
+  volume: '122'
+  year: '2022'
 terba;ic17:
   ackno: We thank the U.S. Department of Energy NEUP DE-NE 0000746 for support of
     this research. This research used beamlines X17A of the National Synchrotron Light
