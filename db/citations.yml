@@ -7347,8 +7347,7 @@ liu;sr14:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/liu_sr14.pdf
   year: '2014'
 llan;RobustnessTestSpacegroupMining22:
-  ackno: This work in the Billinge group was supported by the U.S. National Science
-    Foundation through grant DMREF-1922234 and CCF-1704833.
+  ackno: This work in the Billinge group was supported by the U.S. National Science Foundation through grant DMREF-1922234 and CCF-1704833.
   author:
     - Ling Lan
     - Chia-Hao Liu
@@ -7366,9 +7365,11 @@ llan;RobustnessTestSpacegroupMining22:
   optannote: ''
   optwwwlanl: ''
   pages: ''
-  supplementary_info_urls: https://gitlab.thebillingegroup.com/software/20ll_sgcnnrobusttest
-  title: Robustness Test of the spacegroupMining Space Group Determination Model for
-    atomic pair distribution functions
+  supplementary_info_urls: 
+    - https://gitlab.thebillingegroup.com/software/20ll_sgcnnrobusttest
+  synopsis: The spacegroupMining Space Group Determination Model is shown to be robust when applied to PDFs of different choices of experimental parameters rmax, Qmax, and atomic displacement parameters.
+  tags: robustness_test, machine_learning, data_mining, space_group, pair_distribution_function
+  title: Robustness Test of the spacegroupMining Space Group Determination Model for atomic pair distribution functions
   url: https://doi.org/10.48550/arXiv.2202.12335
   volume: ''
   wwwemail: ''
