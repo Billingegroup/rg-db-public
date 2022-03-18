@@ -28,7 +28,7 @@ install:
   - conda create -n test python=3.8
   - source activate test
   - conda install -c conda-forge --file https://raw.githubusercontent.com/regro/regolith/master/requirements/run.txt;
-    pip install git+git://github.com/regro/regolith@master;
+    pip install git+https://github.com/regro/regolith.git;
     pip install doctr
 
 script:
