@@ -7369,7 +7369,7 @@ llan;RobustnessTestSpacegroupMining22:
     - https://gitlab.thebillingegroup.com/analysis/20ll_sgcnnrobusttest
   synopsis: The spacegroupMining Space Group Determination Model is shown to be robust when applied to PDFs of different choices of experimental parameters rmax, Qmax, and atomic displacement parameters.
   tags: robustness_test, ml, datamining, space_group
-  title: Robustness Test of the spacegroupMining Space Group Determination Model for atomic pair distribution functions
+  title: Robustness test of the spacegroupMining model for determining space groups from atomic pair distribution function data
   url: https://doi.org/10.48550/arXiv.2202.12335
   volume: ''
   wwwemail: ''
