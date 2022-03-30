@@ -4995,8 +4995,8 @@ gu;ieeetkde22:
   optannote: ''
   optwwwlanl: ''
   pages: ''
-  title: A fast two-stage algorithm for non-negative matrix factorization in streaming
-    data
+  title: A fast two-stage algorithm for non-negative matrix factorization in smoothly
+    varying data
   url: https://arxiv.org/abs/2101.08431
   volume: ''
   wwwemail: ''
@@ -11178,16 +11178,16 @@ wrigh;cm21:
     - Simon J. L. Billinge
   doi: 10.1021/acs.chemmater.1c00602
   entrytype: article
-  facility: pdf, nslsii
+  facility: ' pdf, nslsii'
   grant: efrc18
   journal: Chem. Mater.
   month: apr
   nb: art, fy21, typeA
-  note: To be published
-  number: ''
+  number: '9'
   optannote: ''
+  optnote: null
   optwwwlanl: ''
-  pages: ''
+  pages: 3359-3367
   summary_professional: The optical float-zone furnace approach for growing large
     single crystals is a foundational practice in science as it is the best and sometimes
     only way to grow such crystals from complex materials. However, the practice is
@@ -11212,7 +11212,7 @@ wrigh;cm21:
   title: Towards In Situ Synchrotron Mapping of Crystal Selection Processes During
     Crystal Growth
   url: https://doi.org/10.1021/acs.chemmater.1c00602
-  volume: ''
+  volume: '33'
   wwwemail: ''
   wwwpub: ''
   year: '2021'

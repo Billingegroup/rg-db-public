@@ -1827,75 +1827,6 @@
   status: cancelled
   title: The nanostructure inverse problem in the time of artificial intelligence
   type: award
-2005sb_irseeBavaria:
-  abstract: "Purpose: Increasingly, it is becoming necessary to formulate pharmaceuticals\
-    \ with the active pharmaceutical ingredient (API) in complex forms such as nanocrystalline\
-    \ or in the amorphous state, and often in a composite with other amorphous excipients.\
-    \ The amorphous states is characterized by a broad and largely featureless XRD\
-    \ pattern, the so-called 'amorphous halo', devoid of Bragg-peaks due to the lack\
-    \ of long-range order in the packing. The nanoparticulate state also results in\
-    \ broad and featureless XRD patterns, but actually has molecular packing order\
-    \ over a few nm length-scale.\nA major challenge in bringing drugs to market in\
-    \ the amorphous form is the lack of a reliable method for fingerprinting, let\
-    \ alone carrying out a more complete structural characterization of these materials.\
-    \  We have recently been exploring whether total scattering atomic pair distribution\
-    \ function methods (TSPDF) [1] can alleviate this bottleneck.\nMethod: TSPDF uses\
-    \ short wavelength x-rays to obtain a scattering pattern of sufficient quality\
-    \ that it can be Fourier transformed to obtain a meaningful real-space pair distribution\
-    \ function (PDF).  The PDF is a representation of the distribution of atomic distances\
-    \ in the solid. For molecular materials there is an intra-molecular contribution\
-    \ that yields information about the geometry of the molecules themselves.  There\
-    \ is also an inter-molecular contribution that shows how the molecules pack together\
-    \ in the solid state.\nResults: For crystalline materials there is a well-defined\
-    \ inter-molecular signal that shows the crystal structure of the particular form\
-    \ of the material.  For amorphous or liquid state materials, the intermolecular\
-    \ part will tend to average to zero, the intra-molecular component will survive.\
-    \  Even in the amorphous and liquid states, if there is a preference towards a\
-    \ certain specific local packing of the molecules, this will be evident in the\
-    \ PDF, yielding valuable information.  For example, in a recent study (unpublished)\
-    \ we were able to detect that two differently amorphized products from the same\
-    \ molecule had slightly different hydrogen bonding networks.  It was also possible\
-    \ to observe metastable intermediates during the recrystallization of amorphous\
-    \ lactose [3] We have found that the approach yields detailed quantitative information\
-    \ about small molecule systems not available in a conventional XRD approach including\
-    \ quantification of amorphous components [4].\nWe have recently further developed\
-    \ the methods to be able to study objects in space- and time-resolved ways which\
-    \ will allow mapping of amorphous constituents. I will describe the method and\
-    \ show our results on a range of materials from more simple to more complex molecules.\
-    \  It is possible to differentiate truly amorphous from nanocrystalline forms\
-    \ and learn a surprising amount about the underlying packing\nReferences: [1]\
-    \ Billinge, Simon J. L., Timur Dykhne, Pavol Juh_as, Emil Bo_zin, Ryan Taylor,\
-    \ Alastair J. Florence, and Kenneth Shankland. Characterisation of amorphous and\
-    \ nanocrystalline molecular materials by total scattering. In: CrystEngComm 12.5\
-    \ (2010), pp. 1366{1368. doi: 10.1039/b915453a. url: http://pubs.rsc.org/en/Content/ArticleLanding/2010/CE/b915453a\
-    \ [2] Maxwell W. Terban, Matthew Johnson, Marco DiMichiel, and Billinge, Simon\
-    \ J. L. Detection and characterization of nanoparticles in suspension at low concentrations\
-    \ using the x-ray total scattering pair distribution function technique. In: Nanoscale\
-    \ 7 (2015), pp. 5480{5487. doi: 10.1039/C4NR06486K. url: http://dx.doi.org/10.1039/C4NR06486K\
-    \ [3] Maxwell W. Terban, Eugene Y. Cheung, Paul Krolikowski, and Billinge, Simon\
-    \ J. L. Recrystallization, phase composition, and local structure of amorphous\
-    \ lactose from the total scattering pair distribution function. In: Cryst. Growth\
-    \ Des. 16.1 (2015), 210{220. doi: 10.1021/acs.cgd.5b01100. url:  http://pubs.acs.org/doi/full/10.1021/acs.cgd.5b01100\
-    \ [4] Timur Davis, Matthew Johnson, and Billinge, Simon J. L. Towards phase quanti_cation\
-    \ at the nanoscale using the total scattering pair distribution function (TSPDF)\
-    \ method: recrystallization of cryomilled sulfamerazine. In: Cryst. Growth Des.\
-    \ 13 (2013), 4239{4244. url: http://pubs.acs.org/doi/abs/10.1021/cg400179p"
-  authors:
-    - sbillinge
-  begin_day: 3
-  begin_month: May
-  begin_year: 2020
-  end_day: 7
-  end_month: May
-  end_year: 2020
-  location: Irsee (Bavaria), Germany
-  meeting_name: 'Pharmaceutical Engineering: At the Frontier of Drug Substance and
-    Drug Product'
-  project:
-    - all
-  status: postponed
-  title: Advanced X-Ray Analysis of Disordered and Composite Materials
-  type: invited
 2006ly_mlse:
   abstract: The sparsity of experimental data remains one of the biggest challenges
     for applying machine learning techniques in the materials science area. Here we
@@ -3587,7 +3518,21 @@
   type: plenary
   webinar: true
 2204sb_rigakuheadquarters,neu-isenburg,frankfurt,germany:
-  abstract: tbd
+  abstract: Increasingly we seek to move away from well ordered crystalline materials
+    in high performance applications. This is also true in the world of pharmaceuticals
+    where effective drug candidates may suffer from low solubility and low bioavailability
+    in crystalline form, but show much better performance in the amorphous or nanocrystalline
+    state.  Also, targeted drug delivery mechanisms have been envisaged that involve
+    using nanoparticles as carriers. In all these cases we need tools that can characterize
+    disordered and nanocrystalline materials.  I will describe the total scattering
+    atomic pair distribution function (TSPDF) method which uses advance scattering
+    of x-rays, electrons or neutrons for just this purpose.  With the advances in
+    the power of sources, both large synchrotron based facilities and laboratory based
+    systems, and data analysis methods and software, The TSPDF method has never been
+    more powerful than now, allowing us to probe quantatively nanostructure in highly
+    quantitative detail, from dilute and low scattering signals, in spatially resolved
+    ways.  I will describe recent developments and applications with examples from
+    pharmaceuticals but also other scientific domains.
   authors:
     - sbillinge
   begin_date: 2022-04-27
@@ -3597,9 +3542,79 @@
   project:
     - all
   status: accepted
-  title: tbd
+  title: Characterizing amorphous and nanostuctured materials with total scattering
+    pair distribution function analysis
   type: invited
   webinar: true
+2205sb_eciBoulderCO:
+  abstract: "Purpose: Increasingly, it is becoming necessary to formulate pharmaceuticals\
+    \ with the active pharmaceutical ingredient (API) in complex forms such as nanocrystalline\
+    \ or in the amorphous state, and often in a composite with other amorphous excipients.\
+    \ The amorphous states is characterized by a broad and largely featureless XRD\
+    \ pattern, the so-called 'amorphous halo', devoid of Bragg-peaks due to the lack\
+    \ of long-range order in the packing. The nanoparticulate state also results in\
+    \ broad and featureless XRD patterns, but actually has molecular packing order\
+    \ over a few nm length-scale.\nA major challenge in bringing drugs to market in\
+    \ the amorphous form is the lack of a reliable method for fingerprinting, let\
+    \ alone carrying out a more complete structural characterization of these materials.\
+    \  We have recently been exploring whether total scattering atomic pair distribution\
+    \ function methods (TSPDF) [1] can alleviate this bottleneck.\nMethod: TSPDF uses\
+    \ short wavelength x-rays to obtain a scattering pattern of sufficient quality\
+    \ that it can be Fourier transformed to obtain a meaningful real-space pair distribution\
+    \ function (PDF).  The PDF is a representation of the distribution of atomic distances\
+    \ in the solid. For molecular materials there is an intra-molecular contribution\
+    \ that yields information about the geometry of the molecules themselves.  There\
+    \ is also an inter-molecular contribution that shows how the molecules pack together\
+    \ in the solid state.\nResults: For crystalline materials there is a well-defined\
+    \ inter-molecular signal that shows the crystal structure of the particular form\
+    \ of the material.  For amorphous or liquid state materials, the intermolecular\
+    \ part will tend to average to zero, the intra-molecular component will survive.\
+    \  Even in the amorphous and liquid states, if there is a preference towards a\
+    \ certain specific local packing of the molecules, this will be evident in the\
+    \ PDF, yielding valuable information.  For example, in a recent study (unpublished)\
+    \ we were able to detect that two differently amorphized products from the same\
+    \ molecule had slightly different hydrogen bonding networks.  It was also possible\
+    \ to observe metastable intermediates during the recrystallization of amorphous\
+    \ lactose [3] We have found that the approach yields detailed quantitative information\
+    \ about small molecule systems not available in a conventional XRD approach including\
+    \ quantification of amorphous components [4].\nWe have recently further developed\
+    \ the methods to be able to study objects in space- and time-resolved ways which\
+    \ will allow mapping of amorphous constituents. I will describe the method and\
+    \ show our results on a range of materials from more simple to more complex molecules.\
+    \  It is possible to differentiate truly amorphous from nanocrystalline forms\
+    \ and learn a surprising amount about the underlying packing\nReferences: [1]\
+    \ Billinge, Simon J. L., Timur Dykhne, Pavol Juh_as, Emil Bo_zin, Ryan Taylor,\
+    \ Alastair J. Florence, and Kenneth Shankland. Characterisation of amorphous and\
+    \ nanocrystalline molecular materials by total scattering. In: CrystEngComm 12.5\
+    \ (2010), pp. 1366{1368. doi: 10.1039/b915453a. url: http://pubs.rsc.org/en/Content/ArticleLanding/2010/CE/b915453a\
+    \ [2] Maxwell W. Terban, Matthew Johnson, Marco DiMichiel, and Billinge, Simon\
+    \ J. L. Detection and characterization of nanoparticles in suspension at low concentrations\
+    \ using the x-ray total scattering pair distribution function technique. In: Nanoscale\
+    \ 7 (2015), pp. 5480{5487. doi: 10.1039/C4NR06486K. url: http://dx.doi.org/10.1039/C4NR06486K\
+    \ [3] Maxwell W. Terban, Eugene Y. Cheung, Paul Krolikowski, and Billinge, Simon\
+    \ J. L. Recrystallization, phase composition, and local structure of amorphous\
+    \ lactose from the total scattering pair distribution function. In: Cryst. Growth\
+    \ Des. 16.1 (2015), 210{220. doi: 10.1021/acs.cgd.5b01100. url:  http://pubs.acs.org/doi/full/10.1021/acs.cgd.5b01100\
+    \ [4] Timur Davis, Matthew Johnson, and Billinge, Simon J. L. Towards phase quanti_cation\
+    \ at the nanoscale using the total scattering pair distribution function (TSPDF)\
+    \ method: recrystallization of cryomilled sulfamerazine. In: Cryst. Growth Des.\
+    \ 13 (2013), 4239{4244. url: http://pubs.acs.org/doi/abs/10.1021/cg400179p"
+  authors:
+    - sbillinge
+  begin_day: 1
+  begin_month: May
+  begin_year: 2022
+  end_day: 4
+  end_month: May
+  end_year: 2022
+  location: Boulder, CO
+  meeting_name: 'ECI conference Pharmaceutical Engineering: At the Frontier of Drug
+    Substance and Drug Product'
+  project:
+    - all
+  status: accepted
+  title: Advanced X-Ray Analysis of Disordered and Composite Materials
+  type: invited
 2205sb_sibenik,croatia:
   abstract: "The nanostructure inverse problem (NIP) aims to answer the following\
     \  question: given a diffraction pattern from a nanostructured material, what\
@@ -3639,6 +3654,58 @@
   status: accepted
   title: The nanostructure inverse problem in the time of artificial intelligence
   type: award
+2205sb_universityofinsubria:
+  abstract: Modern materials under study for next generation technologies, such as
+    for energy conversion and storage,   environmental remediation and health, are
+    highly complex, often heterogeneous and nano structured.  A full understanding
+    of the structure requires us to go beyond crystallography and to study the local
+    structure, which is a major experimental challenge. There are recently emerging
+    powerful experimental developments, for example, using the atomic pair distribution
+    function technique (PDF), among others. In this talk I will focus on  bulk materials
+    that have distorted local structures, a potentially large class of materials where,
+    nonetheless this property has been largely overlooked.  In particular, I will
+    focus on materials where atomic or bonding orbitals are electronically active,
+    driving the local atomic distortions. I will describe a new language we are developing
+    for classifying these materials, and new modeling tools that are under development
+    to reveal the local structures.  I will also mention areas that need addressing
+    in this endeavor.
+  authors:
+    - sbillinge
+  begin_date: 2022-05-11
+  end_date: 2022-05-11
+  location: University of Insubria
+  meeting_name: Department of Science and Advanced Technology
+  project:
+    - all
+  status: accepted
+  title: 'When hard materials act soft: Local symmetry breaking in bulk materials,
+    how to find it, and why you should care about it'
+  type: seminar
+2205sb_universityofmilan:
+  abstract: Nanoparticles and nanostructures are at the heart of next generation technological
+    solutions in sustainable energy, effective new pharmaceuticals and environmental
+    remediation.  A key to making progress is to be able to understand the nanoparticle
+    structure, the arrangements of atoms in the nanoparticles and nanoscale structures.
+    Also critical is understanding the distribution of the nanoparticles and how they
+    change in time as devices run and reactions take place.  We use advanced x-ray,
+    neutron and electron scattering methods to get at this problem.  I will talk about
+    these methods and show some recent success-stories in the fields of sustainable
+    energy, pharmaceuticals and cultural heritage preservation.  However, I will also
+    discuss the fundamental limitations on our ability to extract information from
+    the data and how we are now turning to machine learnging and articifical intelligence
+    techniques to give more insights.
+  authors:
+    - sbillinge
+  begin_date: 2022-05-20
+  end_date: 2022-05-20
+  location: University of Milan
+  meeting_name: Department of Chemistry
+  project:
+    - all
+  status: accepted
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms'
+  type: seminar
 2206sb_erice,italy:
   abstract: tbd
   authors:
@@ -3666,6 +3733,22 @@
   status: declined
   title: na
   type: plenary
+2206sb_telluride,co:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2022-06-21
+  end_date: 2022-06-25
+  location: Telluride, CO
+  meeting_name: Twelfth Workshop on Competing Interactions and Colossal Responses
+    in Transition Metal Oxides and Related Compounds
+  notes:
+    - declined because on Sabbatical
+  project:
+    - all
+  status: declined
+  title: na
+  type: invited
 2207sb_nist,gaithersbug,md:
   abstract: tbd
   authors:
@@ -3680,22 +3763,21 @@
   title: tbd
   type: invited
   webinar: true
-2208sb_cityuniversityofhongkong,kowloon,hongkong:
+2208sb_versaille,france:
   abstract: tbd
   authors:
     - sbillinge
-  begin_date: 2022-08-08
-  end_date: 2022-08-12
-  location: City University of Hong Kong, Kowloon, Hong Kong
-  meeting_name: Croucher Summer Course on Neutron Scattering
-  notes:
-    - present a lecture and mentor data analysis
+  begin_date: 2022-08-24
+  end_date: 2022-08-27
+  location: Versaille, France
+  meeting_name: European Crystallographic Meeting 33, symposium Computations with/for
+    Pair Distribution Functions
+  notes: []
   project:
     - all
   status: accepted
   title: tbd
   type: invited
-  webinar: true
 2209sb_chicheleyhall,miltonkeynes,uk:
   abstract: tbd
   authors:
@@ -3736,3 +3818,19 @@
   status: declined
   title: na
   type: invited
+2308sb_cityuniversityofhongkong,kowloon,hongkong:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2023-08-08
+  end_date: 2023-08-12
+  location: City University of Hong Kong, Kowloon, Hong Kong
+  meeting_name: Croucher Summer Course on Neutron Scattering
+  notes:
+    - present a lecture and mentor data analysis
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: invited
+  webinar: true

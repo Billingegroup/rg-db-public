@@ -7,7 +7,7 @@ env:
 matrix:
   include:
     - os: linux
-      python: 3.8
+      python: 3.9
       env:
         - BUILD_DOCS=true
 
@@ -25,7 +25,7 @@ before_install:
     git config --global user.name "Simon Billinge";
 
 install:
-  - conda create -n test python=3.8
+  - conda create -n test python=3.9
   - source activate test
   - conda install -c conda-forge --file https://raw.githubusercontent.com/regro/regolith/master/requirements/run.txt;
     pip install git+https://github.com/regro/regolith.git;

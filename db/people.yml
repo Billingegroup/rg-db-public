@@ -2090,6 +2090,26 @@ jchung:
       group: bg
   name: Jean Chung
   position: unknown
+jeaster:
+  active: true
+  aka: []
+  avatar: https://github.com/easterjaylah.png
+  bio: bio
+  education: []
+  email: jyeaster@umes.edu
+  employment:
+    - begin_date: 2022-03-28
+      end_date: 2022-08-31
+      organization: columbiau
+      position: Undergradate Researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: easterjaylah
+  grp_mtg_active: true
+  name: Jaylah Y Easter
+  orcid_id: ''
+  position: Undergradate Researcher
 jgriffiths:
   active: true
   aka: []
