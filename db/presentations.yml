@@ -3452,7 +3452,7 @@
   title: Electron diffraction-based analysis of the role of chemical short-range order
     on the dynamic deformation response of FCC and BCC multi-principal element alloys
   type: contributed_oral
-2203Ye_israel_jobs:
+2203yr_barilanu:
   abstract: With the growing complexity of functional materials and chemical systems,
     we often find ourselves limited in our ability to fully represent the set of descriptors
     of a chemical system. In complex chemical systems, finding a complete crystallographic
@@ -3494,30 +3494,165 @@
   authors:
     - yrakita
   begin_date: 2021-12-30
+  department: chemistry
   end_date: 2022-01-13
-  institution: Ben Gurion University, Tel Aviv University, Weizamann Institute, Bar
-    Ilan University
-  location: Israel
+  institution: barilanu
+  project:
+    - all
+  status: accepted
+  title: Experimental Data-driven Paradigms for Unfolding Complexity in Chemical Systems
+  type: seminar
+2203yr_bengurionu:
+  abstract: With the growing complexity of functional materials and chemical systems,
+    we often find ourselves limited in our ability to fully represent the set of descriptors
+    of a chemical system. In complex chemical systems, finding a complete crystallographic
+    model that folds all the interatomic correlations using a small set of structural
+    descriptors may not always be feasible or practical. Alternatively, one can take
+    a data-driven approach and measure the relative changes in structural or chemical
+    features (e.g, structural correlations, oxidation states). An experimental data-driven
+    approach does not require complete models and enjoys the rapidly evolving machine-learning
+    tool-set, which excel at classifying relational datasets and, if also labelled
+    by an observed property, can provide predictive power that links system's descriptors
+    with observed properties. I will focus on two types of complexities - (1) Hierarchical
+    complexity, in which different types of structural or chemical correlations change
+    change with the probed correlation length. For example, in ferroic materials different
+    properties (e.g., mechanical, dielectric, optoelectronic) may depend differently
+    on short- and long-range structural correlations. In multi-component alloys local
+    chemical correlations (random-distribution, ordering, clustering) can affect corrosion
+    and plasticity, but altogether show a single average structural phase. Since selected
+    materials' properties depend on correlations at a specific hierarchical level,
+    it is important to be able to isolate those from one another. (2) Evolutionary
+    complexity, where the order changes over space and/or time. Nucleation, crystal
+    growth,  intercalation - are examples for processes that involve evolutionary
+    complexity and can also be found in batteries, heterogeneous catalysis and photovoltaics.
+    Isolating and tracking order-related correlations in heterogeneous kinetically-stabilized
+    or dynamically changing systems is, therefore, important for their more complete
+    understanding, design and control. Total scattering and Pair Distribution Function
+    (PDF) analysis are key methods for unfolding structural correlations at different
+    correlation lengths. Using 4D-STEM to generate nm-resolution spatially-resolved
+    electron-PDF data taken from hot-rolled Ni-laminated bulk-metallic-glass rakita2021mapping,
+    I demonstrate how both hierarchical and evolutionary complexity can be uncovered
+    and studied. Partially assisted with a machine-learning classification toolbox,
+    we show how different aspects of the structural and chemical order, such as chemical-short-range-order,
+    can be directly visualized as a function of position. In a different example~\cite{rakita2020active}
+    I show how an evolutionary complex systems can be manipulated to achieve a desired
+    chemical state. In this example we demonstrate an active reaction control of Cu
+    redox state from real-time feedback from in-situ synchrotron measurements. While
+    complexity can lead to a lack of control over a chemical system, it is essentially
+    adding tuning-knobs that, once isolated, understood and controlled, can unlock
+    new materials with desired functionalities.
+  authors:
+    - yrakita
+  begin_date: 2021-12-30
+  department: chemistry
+  end_date: 2022-01-13
+  institution: bengurionu
+  project:
+    - all
+  status: accepted
+  title: Experimental Data-driven Paradigms for Unfolding Complexity in Chemical Systems
+  type: seminar
+2203yr_telavivu:
+  abstract: With the growing complexity of functional materials and chemical systems,
+    we often find ourselves limited in our ability to fully represent the set of descriptors
+    of a chemical system. In complex chemical systems, finding a complete crystallographic
+    model that folds all the interatomic correlations using a small set of structural
+    descriptors may not always be feasible or practical. Alternatively, one can take
+    a data-driven approach and measure the relative changes in structural or chemical
+    features (e.g, structural correlations, oxidation states). An experimental data-driven
+    approach does not require complete models and enjoys the rapidly evolving machine-learning
+    tool-set, which excel at classifying relational datasets and, if also labelled
+    by an observed property, can provide predictive power that links system's descriptors
+    with observed properties. I will focus on two types of complexities - (1) Hierarchical
+    complexity, in which different types of structural or chemical correlations change
+    change with the probed correlation length. For example, in ferroic materials different
+    properties (e.g., mechanical, dielectric, optoelectronic) may depend differently
+    on short- and long-range structural correlations. In multi-component alloys local
+    chemical correlations (random-distribution, ordering, clustering) can affect corrosion
+    and plasticity, but altogether show a single average structural phase. Since selected
+    materials' properties depend on correlations at a specific hierarchical level,
+    it is important to be able to isolate those from one another. (2) Evolutionary
+    complexity, where the order changes over space and/or time. Nucleation, crystal
+    growth,  intercalation - are examples for processes that involve evolutionary
+    complexity and can also be found in batteries, heterogeneous catalysis and photovoltaics.
+    Isolating and tracking order-related correlations in heterogeneous kinetically-stabilized
+    or dynamically changing systems is, therefore, important for their more complete
+    understanding, design and control. Total scattering and Pair Distribution Function
+    (PDF) analysis are key methods for unfolding structural correlations at different
+    correlation lengths. Using 4D-STEM to generate nm-resolution spatially-resolved
+    electron-PDF data taken from hot-rolled Ni-laminated bulk-metallic-glass rakita2021mapping,
+    I demonstrate how both hierarchical and evolutionary complexity can be uncovered
+    and studied. Partially assisted with a machine-learning classification toolbox,
+    we show how different aspects of the structural and chemical order, such as chemical-short-range-order,
+    can be directly visualized as a function of position. In a different example~\cite{rakita2020active}
+    I show how an evolutionary complex systems can be manipulated to achieve a desired
+    chemical state. In this example we demonstrate an active reaction control of Cu
+    redox state from real-time feedback from in-situ synchrotron measurements. While
+    complexity can lead to a lack of control over a chemical system, it is essentially
+    adding tuning-knobs that, once isolated, understood and controlled, can unlock
+    new materials with desired functionalities.
+  authors:
+    - yrakita
+  begin_date: 2021-12-30
+  department: chemistry
+  end_date: 2022-01-13
+  institution: telavivu
+  project:
+    - all
+  status: accepted
+  title: Experimental Data-driven Paradigms for Unfolding Complexity in Chemical Systems
+  type: seminar
+2203yr_weizmanni:
+  abstract: With the growing complexity of functional materials and chemical systems,
+    we often find ourselves limited in our ability to fully represent the set of descriptors
+    of a chemical system. In complex chemical systems, finding a complete crystallographic
+    model that folds all the interatomic correlations using a small set of structural
+    descriptors may not always be feasible or practical. Alternatively, one can take
+    a data-driven approach and measure the relative changes in structural or chemical
+    features (e.g, structural correlations, oxidation states). An experimental data-driven
+    approach does not require complete models and enjoys the rapidly evolving machine-learning
+    tool-set, which excel at classifying relational datasets and, if also labelled
+    by an observed property, can provide predictive power that links system's descriptors
+    with observed properties. I will focus on two types of complexities - (1) Hierarchical
+    complexity, in which different types of structural or chemical correlations change
+    change with the probed correlation length. For example, in ferroic materials different
+    properties (e.g., mechanical, dielectric, optoelectronic) may depend differently
+    on short- and long-range structural correlations. In multi-component alloys local
+    chemical correlations (random-distribution, ordering, clustering) can affect corrosion
+    and plasticity, but altogether show a single average structural phase. Since selected
+    materials' properties depend on correlations at a specific hierarchical level,
+    it is important to be able to isolate those from one another. (2) Evolutionary
+    complexity, where the order changes over space and/or time. Nucleation, crystal
+    growth,  intercalation - are examples for processes that involve evolutionary
+    complexity and can also be found in batteries, heterogeneous catalysis and photovoltaics.
+    Isolating and tracking order-related correlations in heterogeneous kinetically-stabilized
+    or dynamically changing systems is, therefore, important for their more complete
+    understanding, design and control. Total scattering and Pair Distribution Function
+    (PDF) analysis are key methods for unfolding structural correlations at different
+    correlation lengths. Using 4D-STEM to generate nm-resolution spatially-resolved
+    electron-PDF data taken from hot-rolled Ni-laminated bulk-metallic-glass rakita2021mapping,
+    I demonstrate how both hierarchical and evolutionary complexity can be uncovered
+    and studied. Partially assisted with a machine-learning classification toolbox,
+    we show how different aspects of the structural and chemical order, such as chemical-short-range-order,
+    can be directly visualized as a function of position. In a different example~\cite{rakita2020active}
+    I show how an evolutionary complex systems can be manipulated to achieve a desired
+    chemical state. In this example we demonstrate an active reaction control of Cu
+    redox state from real-time feedback from in-situ synchrotron measurements. While
+    complexity can lead to a lack of control over a chemical system, it is essentially
+    adding tuning-knobs that, once isolated, understood and controlled, can unlock
+    new materials with desired functionalities.
+  authors:
+    - yrakita
+  begin_date: 2021-12-30
+  department: chemistry
+  end_date: 2022-01-13
+  institution: weizmanni
   project:
     - all
   status: accepted
   title: Experimental Data-driven Paradigms for Unfolding Complexity in Chemical Systems
   type: seminar
 2204sb_rigaku:
-  abstract: tbd
-  authors:
-    - sbillinge
-  begin_date: 2022-04-06
-  end_date: 2022-04-07
-  location: Online
-  meeting_name: Rigaku Single Crystal Workshops
-  project:
-    - all
-  status: accepted
-  title: Introduction to and applications of {PDF} analysis
-  type: plenary
-  webinar: true
-2204sb_rigakuheadquarters,neu-isenburg,frankfurt,germany:
   abstract: Increasingly we seek to move away from well ordered crystalline materials
     in high performance applications. This is also true in the world of pharmaceuticals
     where effective drug candidates may suffer from low solubility and low bioavailability
@@ -3535,6 +3670,21 @@
     pharmaceuticals but also other scientific domains.
   authors:
     - sbillinge
+  begin_date: 2022-04-06
+  end_date: 2022-04-07
+  location: Online
+  meeting_name: Rigaku Single Crystal Workshops
+  project:
+    - all
+  status: accepted
+  title: Characterizing amorphous and nanostuctured materials with total scattering
+    pair distribution function analysis
+  type: plenary
+  webinar: true
+2204sb_rigakuheadquarters,neu-isenburg,frankfurt,germany:
+  abstract: tbd
+  authors:
+    - sbillinge
   begin_date: 2022-04-27
   end_date: 2022-04-28
   location: Rigaku Headquarters, Neu-Isenburg, Frankfurt, Germany
@@ -3542,8 +3692,7 @@
   project:
     - all
   status: accepted
-  title: Characterizing amorphous and nanostuctured materials with total scattering
-    pair distribution function analysis
+  title: tbd
   type: invited
   webinar: true
 2205sb_eciBoulderCO:
@@ -3673,8 +3822,8 @@
     - sbillinge
   begin_date: 2022-05-11
   end_date: 2022-05-11
-  location: University of Insubria
-  meeting_name: Department of Science and Advanced Technology
+  institution: uinsubria
+  meeting_name: dsat
   project:
     - all
   status: accepted
@@ -3697,9 +3846,9 @@
   authors:
     - sbillinge
   begin_date: 2022-05-20
+  department: chemistry
   end_date: 2022-05-20
-  location: University of Milan
-  meeting_name: Department of Chemistry
+  institution: umilan
   project:
     - all
   status: accepted

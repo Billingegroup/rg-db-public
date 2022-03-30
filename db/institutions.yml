@@ -185,6 +185,17 @@ bardcsr:
   name: Bard College at Simon's Rock
   state: MA
   zip: '01230'
+barilanu:
+  city: Tel Aviv
+  country: Israel
+  date: 2022-03-30
+  departments:
+    chemistry:
+      name: Department of Chemistry
+  name: Bar Ilan University
+  updated: 2022-03-30 18:35:22.648977
+  uuid: 513ecc50-8c07-4771-ae13-010bcc39738c
+  zip: '5290002'
 barnardc:
   aka: []
   city: New York
@@ -229,6 +240,16 @@ beijingit:
   month: 3
   name: Beijing Institute of Technology
   year: 2020
+bengurionu:
+  city: Beersheba
+  country: Israel
+  date: 2022-03-30
+  departments:
+    chemistry:
+      name: Department of Chemistry
+  name: Ben Gurion University of the Negev
+  updated: 2022-03-30 18:37:54.499664
+  uuid: 393122b7-7d31-46a3-91c8-a06f873581d5
 bnl:
   aka:
     - Brookhaven National Laboratory
@@ -2136,6 +2157,16 @@ technion:
   state: ''
   street: Technion City
   zip: 3200003
+telavivu:
+  city: Tel Aviv
+  country: Israel
+  date: 2022-03-30
+  departments:
+    chemistry:
+      name: Department of Chemistry
+  name: Tel Aviv University
+  updated: 2022-03-30 18:36:25.362092
+  uuid: eb7bb0d0-84f2-4c54-a963-48569628463d
 theuofbritishcolumbia:
   aka:
     - University of British Columbia
@@ -2583,6 +2614,8 @@ uinsubria:
   departments:
     physics:
       name: Department of Physics
+    dsat:
+      name: Department of Science and Advanced Technology
   name: Università degli Studi dell'Insubria
   state: ''
   zip: ''
@@ -2648,6 +2681,16 @@ umichigan:
   name: University of Michigan
   state: MI
   year: 2020
+umilan:
+  city: Milan
+  country: Italy
+  date: 2022-03-30
+  departments:
+    chemistry:
+      name: Department of Chemistry
+  name: University of Milan
+  updated: 2022-03-30 19:01:49.449197
+  uuid: 63bd0b8e-88d2-4bb1-b227-71eed475c42d
 uminnesota:
   aka:
     - uminnesota
@@ -3134,6 +3177,16 @@ waterdistrictofsoutherncalifornia:
   uuid: f4a37279-1ccc-41f3-847b-94e0d117fafd
   year: 2020
   zip: '90012'
+weizmanni:
+  city: Tel Aviv
+  country: Israel
+  date: 2022-03-30
+  departments:
+    chemistry:
+      name: Department of Chemistry
+  name: Weizmann Institute
+  updated: 2022-03-30 18:33:06.325806
+  uuid: 7198fa86-2379-400c-8449-ab6f52e6d203
 wellsfargosecurities:
   city: Charlotte
   country: USA
