@@ -443,6 +443,18 @@ pytentiostat:
       position: lead developer
       begin_year: 2019
     - name: sbillinge
+      position: mentor
+      begin_year: 2016
+    - name: mspence
+      position: developer
+      begin_year: 2019
+    - name: jhitt
+      position: developer
+      begin_year: 2019
+    - name: aplymill
+      position: lead developer
+      begin_year: 2019
+    - name: sbillinge
       position: Mentor
       begin_year: 2016
     - name: mspence
