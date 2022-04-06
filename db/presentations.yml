@@ -3983,3 +3983,18 @@
   title: tbd
   type: invited
   webinar: true
+2211ll_datascience,newyork:
+  abstract: Machine learning has emerged as a powerful method for performing statistical learning on material science data. But Machine learning has not been used for extracting structural distortions, because it is hard to define distortion rigorously and it is also challenging to collect a clean and big enough dataset. In this project, we probe structural disorder using total scattering, transforming the data into real-space pair distribution function (PDF). And we build a 2-step machine learning algorithm to determine the octahedral tilts in perovskites.
+  authors:
+    - llan
+    - sskjaervoe
+    - sbillinge
+  begin_date: 2022-04-06
+  end_date: 2022-04-06
+  location: New York, NY
+  meeting_name: Columbia University Data Science Day 2022
+  project:
+    - ll_mlglazermining
+  status: accepted
+  title: Classification and Determination of Octahedral Tilts in Perovskites Using a Machine Learning Approach
+  type: poster
