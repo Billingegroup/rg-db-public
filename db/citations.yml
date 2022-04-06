@@ -2269,6 +2269,38 @@ booth;jpconfs10:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/booth_jpcs_11.pdf
   year: '2011'
+bozer;aca22:
+  arxiv: arXiv:2204.00434 [cond-mat.mtrl-sci]
+  author:
+    - Ozer, B.
+    - Karlsen, M. A.
+    - Thatcher, Z.
+    - Lan, L.
+    - McMahon, B.
+    - Strickland, P. R.
+    - Westrip, S. P.
+    - Sang, K. S.
+    - Billing, D. G.
+    - Ravnsbæk, D. B.
+    - Billinge, S. J. L
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: 'dmref19'
+  journal: 'Acta Crystallogr. A'
+  nb: ''
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  title: 'Towards a machine-readable literature:
+          finding relevant papers based on an uploaded powder diffraction pattern'
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: http://arxiv.org/abs/2204.00434
+  year: '2022'
 bozin;b;coshan13:
   address: Amsterdam
   author:
