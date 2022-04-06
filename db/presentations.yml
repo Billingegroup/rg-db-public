@@ -3666,20 +3666,45 @@
     systems, and data analysis methods and software, The TSPDF method has never been
     more powerful than now, allowing us to probe quantatively nanostructure in highly
     quantitative detail, from dilute and low scattering signals, in spatially resolved
-    ways.  I will describe recent developments and applications with examples from
+    ways. I will describe recent developments and applications with examples from
     pharmaceuticals but also other scientific domains.
   authors:
     - sbillinge
   begin_date: 2022-04-06
   end_date: 2022-04-07
   location: Online
-  meeting_name: Rigaku Single Crystal Workshops
+  meeting_name: Rigaku Pair Distribution Function Workshops
   project:
     - all
   status: accepted
   title: Characterizing amorphous and nanostuctured materials with total scattering
     pair distribution function analysis
   type: plenary
+  webinar: true
+2204yr_rigaku:
+  abstract: With the growing structural and chemical complexity of functional 
+    materials, finding a complete crystallographic model that folds all the 
+    interatomic correlations using a small set of structural descriptors may 
+    not always be feasible or practical. Alternatively, one can use a data-driven 
+    approaches, where relational datasets are used to measure variations in the 
+    structure. Using relational Pair Distribution Function (PDF) data, one can reduce
+    the contributions of systematic errors and allow one to follow the evolution 
+    of local strucutral motifs without the need in a complete strucutral model. 
+    Using the rapidly evolving machine-learning tools, realational PDF datasets 
+    can be used to disentangle partial structural motifs and their evolution.
+    I will show examples from electron and x-ray total-scattering experiments, 
+    where relational PDF were used.  
+  authors:
+    - yrakita
+  begin_date: 2022-04-06
+  end_date: 2022-04-07
+  location: Online
+  meeting_name: Rigaku Pair Distribution Function Workshops
+  project:
+    - all
+  status: accepted
+  title: Data-driven exploration of order evolution using relational PDF data
+  type: invited
   webinar: true
 2204sb_rigakuheadquarters,neu-isenburg,frankfurt,germany:
   abstract: tbd
