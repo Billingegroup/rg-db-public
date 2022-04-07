@@ -3681,31 +3681,6 @@
     pair distribution function analysis
   type: plenary
   webinar: true
-2204yr_rigaku:
-  abstract: With the growing structural and chemical complexity of functional 
-    materials, finding a complete crystallographic model that folds all the 
-    interatomic correlations using a small set of structural descriptors may 
-    not always be feasible or practical. Alternatively, one can use a data-driven 
-    approaches, where relational datasets are used to measure variations in the 
-    structure. Using relational Pair Distribution Function (PDF) data, one can reduce
-    the contributions of systematic errors and allow one to follow the evolution 
-    of local strucutral motifs without the need in a complete strucutral model. 
-    Using the rapidly evolving machine-learning tools, realational PDF datasets 
-    can be used to disentangle partial structural motifs and their evolution.
-    I will show examples from electron and x-ray total-scattering experiments, 
-    where relational PDF were used.  
-  authors:
-    - yrakita
-  begin_date: 2022-04-06
-  end_date: 2022-04-07
-  location: Online
-  meeting_name: Rigaku Pair Distribution Function Workshops
-  project:
-    - all
-  status: accepted
-  title: Data-driven exploration of order evolution using relational PDF data
-  type: invited
-  webinar: true
 2204sb_rigakuheadquarters,neu-isenburg,frankfurt,germany:
   abstract: tbd
   authors:
@@ -3718,6 +3693,30 @@
     - all
   status: accepted
   title: tbd
+  type: invited
+  webinar: true
+2204yr_rigaku:
+  abstract: With the growing structural and chemical complexity of functional materials,
+    finding a complete crystallographic model that folds all the interatomic correlations
+    using a small set of structural descriptors may not always be feasible or practical.
+    Alternatively, one can use a data-driven approaches, where relational datasets
+    are used to measure variations in the structure. Using relational Pair Distribution
+    Function (PDF) data, one can reduce the contributions of systematic errors and
+    allow one to follow the evolution of local strucutral motifs without the need
+    in a complete strucutral model. Using the rapidly evolving machine-learning tools,
+    realational PDF datasets can be used to disentangle partial structural motifs
+    and their evolution. I will show examples from electron and x-ray total-scattering
+    experiments, where relational PDF were used.
+  authors:
+    - yrakita
+  begin_date: 2022-04-06
+  end_date: 2022-04-07
+  location: Online
+  meeting_name: Rigaku Pair Distribution Function Workshops
+  project:
+    - all
+  status: accepted
+  title: Data-driven exploration of order evolution using relational PDF data
   type: invited
   webinar: true
 2205sb_eciBoulderCO:
@@ -3992,6 +3991,28 @@
   status: declined
   title: na
   type: invited
+2211ll_datascience,newyork:
+  abstract: Machine learning has emerged as a powerful method for performing statistical
+    learning on material science data. But Machine learning has not been used for
+    extracting structural distortions, because it is hard to define distortion rigorously
+    and it is also challenging to collect a clean and big enough dataset. In this
+    project, we probe structural disorder using total scattering, transforming the
+    data into real-space pair distribution function (PDF). And we build a 2-step machine
+    learning algorithm to determine the octahedral tilts in perovskites.
+  authors:
+    - llan
+    - sskjaervoe
+    - sbillinge
+  begin_date: 2022-04-06
+  end_date: 2022-04-06
+  location: New York, NY
+  meeting_name: Columbia University Data Science Day 2022
+  project:
+    - ll_mlglazermining
+  status: accepted
+  title: Classification and Determination of Octahedral Tilts in Perovskites Using
+    a Machine Learning Approach
+  type: poster
 2308sb_cityuniversityofhongkong,kowloon,hongkong:
   abstract: tbd
   authors:
@@ -4008,18 +4029,3 @@
   title: tbd
   type: invited
   webinar: true
-2211ll_datascience,newyork:
-  abstract: Machine learning has emerged as a powerful method for performing statistical learning on material science data. But Machine learning has not been used for extracting structural distortions, because it is hard to define distortion rigorously and it is also challenging to collect a clean and big enough dataset. In this project, we probe structural disorder using total scattering, transforming the data into real-space pair distribution function (PDF). And we build a 2-step machine learning algorithm to determine the octahedral tilts in perovskites.
-  authors:
-    - llan
-    - sskjaervoe
-    - sbillinge
-  begin_date: 2022-04-06
-  end_date: 2022-04-06
-  location: New York, NY
-  meeting_name: Columbia University Data Science Day 2022
-  project:
-    - ll_mlglazermining
-  status: accepted
-  title: Classification and Determination of Octahedral Tilts in Perovskites Using a Machine Learning Approach
-  type: poster

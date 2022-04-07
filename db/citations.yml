@@ -3311,24 +3311,21 @@ choud;npjcm21:
     - Elizabeth Holm
     - Shyue Ping Ong
     - Chris Wolverton
-  doi: ''
+  doi: 10.1038/s41524-022-00734-6
   entrytype: article
   facility: ''
   grant: dmref19
-  journal: npj Computational Materials
-  month: Oct
+  journal: npj Comput Mater
+  month: Apr
   nb: article, highlight, fy21
-  note: arXiv 2110.14820
   number: ''
-  optannote: ''
-  optwwwlanl: ''
-  optwwwpub: ''
-  pages: ''
+  optnote: arXiv 2110.14820
+  pages: '59'
   synopsis: A review of the applications of deep learning methods in material science
   tags: review, ml, machine_learning, deep_learning, dl
   title: Recent Advances and Applications of Deep Learning Methods in Materials Science
-  url: https://arxiv.org/abs/2110.14820
-  volume: ''
+  url: https://www.nature.com/articles/s41524-022-00734-6
+  volume: '8'
   wwwemail: ''
   year: '2022'
 chuby;pre05:
@@ -10411,7 +10408,7 @@ thamp;prb13:
   volume: '88'
   wwwemail: ''
   year: '2013'
-thatc;arxiv21:
+thatc;aa22:
   ackno: 'We would like to thank Alexander Schöekel for assistance in use of beamline
     P02.1. \n Funding information \n This work was supported as part of GENESIS: A
     Next Generation Synthesis Center, an Energy Frontier Research Center funded by
@@ -10435,18 +10432,18 @@ thatc;arxiv21:
     - James R. Neilson
     - Dorthe B. Ravnsbæk
     - Simon J. L. Billinge
-  doi: ''
+  doi: 10.1107/S2053273322002522
   entrytype: article
   facility: nslsii, xpd, desy, P02.1
   grant: efrc18
-  journal: arxiv
-  month: dec
+  journal: Acta Crystallographica Section A
+  month: may
   nb: ''
   note: arXiv:2112.13300 [cond-mat]
   number: ''
   optannote: ''
   optwwwlanl: ''
-  pages: '2112.13300'
+  pages: ''
   professional_summary: Non negative matrix factorization (NMF) has been shown previously
     to rapidly decompose large powder diffraction and atomic pair distribution function
     (PDF) datasets into their constituent structural signals. Despite the utility
@@ -10482,11 +10479,11 @@ thatc;arxiv21:
   tags: in_situ, nmf, pdf_method
   title: '{nmfMapping}: a cloud-based web application for non-negative matrix factorization
     of powder diffraction and pair distribution function datasets'
-  url: http://arxiv.org/abs/2112.13300
+  url: https://scripts.iucr.org/cgi-bin/paper?S2053273322002522
   volume: ''
   wwwemail: ''
   wwwpub: ''
-  year: '2021'
+  year: '2022'
 thorp;b;fstpbas02:
   abstract: "A review examines a single pair distribution\nfunction (PDF) peak showing\
     \ how it can be\ndecompd. into zero, one, two and multiphonon\ncontributions.\
