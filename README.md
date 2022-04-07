@@ -139,4 +139,4 @@ Full Schema:
     },
 ```
 
-[![Build Status](https://travis-ci.org/Billingegroup/rg-db-public.svg?branch=master)](https://travis-ci.org/Billingegroup/rg-db-public)
+[![Build Status](https://app.travis-ci.com/Billingegroup/rg-db-public.svg?branch=master)](https://app.travis-ci.com/Billingegroup/rg-db-public)
