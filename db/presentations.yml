@@ -3673,7 +3673,7 @@
   begin_date: 2022-04-06
   end_date: 2022-04-07
   location: Online
-  meeting_name: Rigaku Pair Distribution Function Workshops
+  meeting_name: Rigaku Pair Distribution Function Workshop
   project:
     - all
   status: accepted
@@ -3682,7 +3682,50 @@
   type: plenary
   webinar: true
 2204sb_rigakuheadquarters,neu-isenburg,frankfurt,germany:
-  abstract: tbd
+  abstract: "Increasingly, it is becoming necessary to formulate pharmaceuticals with\
+    \ the active pharmaceutical ingredient (API) in complex forms such as nanocrystalline\
+    \ or in the amorphous state, and often in a composite with other amorphous excipients.\
+    \ The amorphous state is characterized by a broad and largely featureless XRD\
+    \ pattern, the so-called 'amorphous halo', devoid of Bragg-peaks due to the lack\
+    \ of long-range order in the packing. The nanoparticulate state also results in\
+    \ broad and featureless XRD patterns, but actually has molecular packing order\
+    \ over a few nm length-scale.\nA major challenge in bringing drugs to market in\
+    \ the amorphous form is the lack of a reliable method for fingerprinting, let\
+    \ alone carrying out a more complete structural characterization of these materials.\
+    \  We have recently been exploring whether total scattering atomic pair distribution\
+    \ function methods (TSPDF) [1] can alleviate this bottleneck.  I will introduce\
+    \ the PDF method and describe some studies that exemplify its use, including examples\
+    \ from the world of pharmaceuticals.\nEven in the amorphous and liquid states,\
+    \ if there is a preference towards a certain specific local packing of the molecules,\
+    \ this will be evident in the PDF, yielding valuable information.  For example,\
+    \ in a recent study (unpublished) we were able to detect that two differently\
+    \ amorphized products from the same molecule had slightly different hydrogen bonding\
+    \ networks.  It was also possible to observe metastable intermediates during the\
+    \ recrystallization of amorphous lactose [3] We have found that the approach yields\
+    \ detailed quantitative information about small molecule systems not available\
+    \ in a conventional XRD approach including quantification of amorphous components\
+    \ [4]. We have recently further developed the methods to be able to study objects\
+    \ in space- and time-resolved ways which will allow mapping of amorphous constituents.\
+    \ I will describe the method and show our results on a range of materials from\
+    \ more simple to more complex molecules.  It is possible to differentiate truly\
+    \ amorphous from nanocrystalline forms and learn a surprising amount about the\
+    \ underlying packing References: [1] Billinge, Simon J. L., Timur Dykhne, Pavol\
+    \ Juh_as, Emil Bo_zin, Ryan Taylor, Alastair J. Florence, and Kenneth Shankland.\
+    \ Characterisation of amorphous and nanocrystalline molecular materials by total\
+    \ scattering. In: CrystEngComm 12.5 (2010), pp. 1366{1368. doi: 10.1039/b915453a.\
+    \ url: http://pubs.rsc.org/en/Content/ArticleLanding/2010/CE/b915453a [2] Maxwell\
+    \ W. Terban, Matthew Johnson, Marco DiMichiel, and Billinge, Simon J. L. Detection\
+    \ and characterization of nanoparticles in suspension at low concentrations using\
+    \ the x-ray total scattering pair distribution function technique. In: Nanoscale\
+    \ 7 (2015), pp. 5480{5487. doi: 10.1039/C4NR06486K. url: http://dx.doi.org/10.1039/C4NR06486K\
+    \ [3] Maxwell W. Terban, Eugene Y. Cheung, Paul Krolikowski, and Billinge, Simon\
+    \ J. L. Recrystallization, phase composition, and local structure of amorphous\
+    \ lactose from the total scattering pair distribution function. In: Cryst. Growth\
+    \ Des. 16.1 (2015), 210{220. doi: 10.1021/acs.cgd.5b01100. url:  http://pubs.acs.org/doi/full/10.1021/acs.cgd.5b01100\
+    \ [4] Timur Davis, Matthew Johnson, and Billinge, Simon J. L. Towards phase quanti_cation\
+    \ at the nanoscale using the total scattering pair distribution function (TSPDF)\
+    \ method: recrystallization of cryomilled sulfamerazine. In: Cryst. Growth Des.\
+    \ 13 (2013), 4239{4244. url: http://pubs.acs.org/doi/abs/10.1021/cg400179p"
   authors:
     - sbillinge
   begin_date: 2022-04-27
@@ -3692,7 +3735,8 @@
   project:
     - all
   status: accepted
-  title: tbd
+  title: x-ray characterization of amorphous, nanocrystalline and heterogeneous products
+    using atomic pair distribution function ({PDF}) analysis
   type: invited
   webinar: true
 2204yr_rigaku:
