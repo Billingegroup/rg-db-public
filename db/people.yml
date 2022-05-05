@@ -2425,7 +2425,7 @@ kseth:
   name: Kriti Seth
   position: visiting student
 lcheng:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/OpusXI.png
   bio: Louis is from Singapore and Hong Kong. He is currently a GS student studying
@@ -2440,13 +2440,6 @@ lcheng:
   email: yc3733@columbia.edu
   employment:
     - begin_date: 2021-02-01
-      end_date: 2021-07-31
-      organization: columbiau
-      position: undergraduate researcher
-      group: bg
-      advisor: sbillinge
-      status: undergrad
-    - begin_date: 2022-01-01
       end_date: 2022-05-31
       organization: columbiau
       position: undergraduate researcher

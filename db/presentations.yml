@@ -3681,7 +3681,7 @@
     pair distribution function analysis
   type: plenary
   webinar: true
-2204sb_rigakuheadquarters,neu-isenburg,frankfurt,germany:
+2204sb_rigakupharma:
   abstract: "Increasingly, it is becoming necessary to formulate pharmaceuticals with\
     \ the active pharmaceutical ingredient (API) in complex forms such as nanocrystalline\
     \ or in the amorphous state, and often in a composite with other amorphous excipients.\
@@ -3732,6 +3732,8 @@
   end_date: 2022-04-28
   location: Rigaku Headquarters, Neu-Isenburg, Frankfurt, Germany
   meeting_name: Rigaku Pharma Forum
+  notes:
+    - intro to PDF then soar to the heights. target audience is novices who are interested
   project:
     - all
   status: accepted
@@ -3762,6 +3764,22 @@
   status: accepted
   title: Data-driven exploration of order evolution using relational PDF data
   type: invited
+  webinar: true
+2205sb_3m:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2022-05-24
+  department: 3M Technical Forum seminar
+  end_date: 2022-04-24
+  institution: 3M
+  presentation_url: 2205sb_3m
+  project:
+    - all
+  status: accepted
+  title: 'atomic pair distribution function (PDF) analysis: characterizing structure
+    in sticky situations'
+  type: seminar
   webinar: true
 2205sb_eciBoulderCO:
   abstract: "Purpose: Increasingly, it is becoming necessary to formulate pharmaceuticals\
@@ -3966,30 +3984,51 @@
   status: declined
   title: na
   type: invited
-2207sb_nist,gaithersbug,md:
-  abstract: tbd
+2207sb_nationalinstituteofstandardsandtechnology,gaithesburg,md:
+  abstract: Everything is made of atoms, and the properties of everything depends
+    sensitively on the arrangement of those atoms.  This is called the structure-property
+    relationship.  Often, nature likes to arrange the atoms in symmetric patterns,
+    and the first step of the task of determining the atomic arrangement of a new
+    material is to find these patterns.  This turns out to be a classification problem
+    because of group theory.  There is a finite, countable, number of ways of combining
+    symmetry elements in a way that allows atoms to fill space in a periodic array,
+    which is the nature of the crystalline state.  These are called space-groups and
+    there are exactly 230 of them.  In a structure determination, the first step is
+    to measure x-ray diffraction data from the material, then to determine the space-group
+    (and unit cell) of the structure based on that, then finally to place the atoms
+    in the cell, respecting all the symmetries.  The first step, determining the space-group,
+    was not possible for nanomaterials but we recently showed that a CNN could be
+    trained to classify the measured signals into the right space-groups with good
+    fidelity and I will present this.  Moving on from this success, we have been exploring
+    machine learning solutions to actually obtain structural solutions (not just the
+    symmetry of the structure), as well as other data analytic tools for manipulating
+    the scattering data behind the nanostructure inverse problem.I will also lay out
+    a new challenge which is to solve the material synthesis inverse problem from
+    precious data.  We have no results from this, but I would love to get feedback
+    and help from the group!
   authors:
     - sbillinge
   begin_date: 2022-07-12
   end_date: 2022-07-14
-  location: NIST, Gaithersbug, MD
-  meeting_name: Artificial Intelligence for Materials Science Workshop
+  location: National Institute of Standards and Technology, Gaithesburg, MD
+  meeting_name: Artificial Intelligence for Materials Science (AIMS) 2022
+  presentation_url: 2207sb_aims22
   project:
     - all
   status: accepted
-  title: tbd
+  title: Machine learning material symmetry, structure and recipes from precious data
   type: invited
   webinar: true
-2208sb_versaille,france:
+2208sb_versailles,paris,france:
   abstract: tbd
   authors:
     - sbillinge
-  begin_date: 2022-08-24
+  begin_date: 2022-08-23
   end_date: 2022-08-27
-  location: Versaille, France
-  meeting_name: European Crystallographic Meeting 33, symposium Computations with/for
-    Pair Distribution Functions
-  notes: []
+  location: Versailles, Paris, France
+  meeting_name: 33rd European Crystallographic Meeting (ECM33), symposium Computations
+    with/for Pair Distribution Functions
+  presentation_url: 2205sb_ecm33
   project:
     - all
   status: accepted
@@ -4022,6 +4061,20 @@
   status: accepted
   title: Ultrafast Orbital Degeneracy Lifting
   type: invited
+2210sb_paulscherrerinstitution:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2022-10-07
+  department: Condensed Matter Physics Colloquium
+  end_date: 2022-10-07
+  institution: Paul Scherrer Institution
+  presentation_url: 2210sb_psi
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: colloquium
 2210sb_sanjuan,puertorico:
   abstract: na
   authors:

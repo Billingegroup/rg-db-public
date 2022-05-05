@@ -10439,11 +10439,11 @@ thatc;aa22:
   journal: Acta Crystallographica Section A
   month: may
   nb: ''
-  note: arXiv:2112.13300 [cond-mat]
-  number: ''
+  number: '3'
   optannote: ''
+  optnote: arXiv:2112.13300 [cond-mat]
   optwwwlanl: ''
-  pages: ''
+  pages: 242-248
   professional_summary: Non negative matrix factorization (NMF) has been shown previously
     to rapidly decompose large powder diffraction and atomic pair distribution function
     (PDF) datasets into their constituent structural signals. Despite the utility
@@ -10480,7 +10480,7 @@ thatc;aa22:
   title: '{nmfMapping}: a cloud-based web application for non-negative matrix factorization
     of powder diffraction and pair distribution function datasets'
   url: https://scripts.iucr.org/cgi-bin/paper?S2053273322002522
-  volume: ''
+  volume: '73'
   wwwemail: ''
   wwwpub: ''
   year: '2022'
@@ -11311,6 +11311,40 @@ wustr;cm21:
   url: ''
   volume: ''
   year: '2021'
+wustr;jacs22:
+  ackno: ''
+  author:
+    - Allison Wustrow
+    - Matthew J. McDermott
+    - Daniel O'Nolan
+    - Chia-Hao Liu
+    - Gia Thinh Tran
+    - Brennan C. McBride
+    - Simon Vornholt
+    - Chao Feng
+    - Shyam S. Dwaraknath
+    - Karena W. Chapman
+    - Simon J. L. Billinge
+    - Wenhao Sun
+    - Kristin A. Persson
+    - James R. Neilson
+  doi: ''
+  entrytype: article
+  facility: tbd
+  grant: efrc18
+  journal: Chemistry of Materials
+  month: may
+  nb: ' art '
+  note: to be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  tags: synthesis, in-situ
+  title: 'Reaction Selectivity in Cometathesis:  Yttrium Manganese Oxides'
+  url: ''
+  volume: ''
+  year: '2022'
 xiao;afm19:
   author:
     - Xiao, Xu
