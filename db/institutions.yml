@@ -2146,6 +2146,16 @@ tbilisistateu:
   city: Tbilisi
   country: Georgia
   name: Ivane Javakhishvili Tbilisi State University
+technicaluofdenmark:
+  city: Copenhagen
+  country: Denmark
+  date: 2022-04-18
+  departments:
+    physics:
+      name: Department of Physics
+  name: The Technical University of Denmark
+  updated: 2022-04-18 15:42:10.987751
+  uuid: 6db70744-5e0a-4e08-9122-e348bf21cebc
 technion:
   aka: []
   city: Haifa
