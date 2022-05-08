@@ -2286,35 +2286,41 @@ bozer;aca22:
   doi: ''
   entrytype: article
   facility: ''
-  grant: 'dmref19'
-  journal: 'Acta Crystallogr. A'
+  grant: dmref19
+  journal: Acta Crystallogr. A
   nb: ''
-  note: 'arXiv:2204.00434v1 [cond-mat.mtrl-sci]'
+  note: arXiv:2204.00434v1 [cond-mat.mtrl-sci]
   number: ''
   optannote: ''
   optwwwlanl: ''
   pages: ''
-  title: 'Towards a machine-readable literature:
-          finding relevant papers based on an uploaded powder diffraction pattern'
-  tags: 'machine_readable_scientific_literature, powder_diffraction, xrpd, mrsl'
-  synopsis: 'A prototype application for finding published papers given a powder diffraction dataset is described.
-    This is an example of what might be possible if structured datasets are saved with papers in the future.'
-  professional_summary: 'pyDataRecognition is a prototype application that explores the potential of machine-readable
-    literature. The user, e.g. a structure scientist has a powder diffraction pattern from a particular sample collected
-    on their powder diffractometer.User uploads experimental powder diffraction pattern to the search application
-    together with limited amount of relevant experimental information. The program then runs the search query during which
-    the user data is prepared for comparison to database, i.e. data resampling. The user data is then compared to the
-    database entries through a similarity measurement that executes a correlation analysis. As a result,the database entries
-    are ranked according to their similarity score, the correlation coefficient.'
-  public_summary: 'pyDataRecognition is a prototype application that explores the potential of machine-readable
-    literature. The program takes an experimental powder diffraction pattern as search query input.
-    The user data will be compared to a database of powder patterns from papers published in the IUCr
-    journals. Based on similarity measurement through correlation analysis, the references for the most relevant papers
-    will be returned to the user, together with a plot of the user data with the database entries of the top five papers
-    of the search query.Machine-readable literature holds a great potential as making literature readable to machines
-    means that humans can benefit from the high output rates of machines, data-driven literature search being an example,
-    where literature search queries are driven by data, such that the references returned will be highly relevant
-    to the data.'
+  professional_summary: pyDataRecognition is a prototype application that explores
+    the potential of machine-readable literature. The user, e.g. a structure scientist
+    has a powder diffraction pattern from a particular sample collected on their powder
+    diffractometer.User uploads experimental powder diffraction pattern to the search
+    application together with limited amount of relevant experimental information.
+    The program then runs the search query during which the user data is prepared
+    for comparison to database, i.e. data resampling. The user data is then compared
+    to the database entries through a similarity measurement that executes a correlation
+    analysis. As a result,the database entries are ranked according to their similarity
+    score, the correlation coefficient.
+  public_summary: pyDataRecognition is a prototype application that explores the potential
+    of machine-readable literature. The program takes an experimental powder diffraction
+    pattern as search query input. The user data will be compared to a database of
+    powder patterns from papers published in the IUCr journals. Based on similarity
+    measurement through correlation analysis, the references for the most relevant
+    papers will be returned to the user, together with a plot of the user data with
+    the database entries of the top five papers of the search query.Machine-readable
+    literature holds a great potential as making literature readable to machines means
+    that humans can benefit from the high output rates of machines, data-driven literature
+    search being an example, where literature search queries are driven by data, such
+    that the references returned will be highly relevant to the data.
+  synopsis: A prototype application for finding published papers given a powder diffraction
+    dataset is described. This is an example of what might be possible if structured
+    datasets are saved with papers in the future.
+  tags: machine_readable_scientific_literature, powder_diffraction, xrpd, mrsl
+  title: 'Towards a machine-readable literature: finding relevant papers based on
+    an uploaded powder diffraction pattern'
   url: ''
   volume: ''
   wwwemail: ''
@@ -11504,6 +11510,8 @@ xie;am22:
     Ag atoms that leads to a  distortion of the crystal structure. It also results
     in a strong acoustic–optical phonon scattering which can explain the ultralow
     thermal conductivity in AgGaTe2 and its promising thermoelectric properties.
+  supplementary_info_urls:
+    - https://www.bnl.gov/newsroom/news.php?a=119576
   synopsis: emphanisis is found in a non lone-pair diamondoid compound AgGaTe2 which
     has very low thermal conductivity.
   tags: thermoelectric, emphanisis,

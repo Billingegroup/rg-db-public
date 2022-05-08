@@ -3766,7 +3766,20 @@
   type: invited
   webinar: true
 2205sb_3m:
-  abstract: tbd
+  abstract: Modern materials under study for next generation technologies, such as
+    for energy conversion and storage, environmental remediation and health, are highly
+    complex, often heterogeneous and nano structured.  A full understanding of the
+    structure requires us to go beyond crystallography and to study the local structure,
+    which is a major experimental challenge. There are recently emerging powerful
+    experimental developments, for example, using the atomic pair distribution function
+    technique (PDF), among others. In this talk I will touch on nanoparticulate materials,
+    amorphous organic and inorganic materials and nanoporous solids and liquids as
+    well as bulk materials that have distorted local structures, a potentially large
+    class of materials where, nonetheless this property has been largely overlooked.  In
+    particular, I will focus on materials where atomic or bonding orbitals are electronically
+    active, driving the local atomic distortions. I will present the approach and
+    recent methodological advances in measurement and data analysis, and present exemplar
+    scientific studies from various complex materials systems.
   authors:
     - sbillinge
   begin_date: 2022-05-24
@@ -3941,6 +3954,20 @@
   title: 'From saving pharmaceuticals to saving priceless historical artefacts via
     saving the planet: understanding nanostructure with x-rays and algorithms'
   type: seminar
+2206sb_collegepark,md:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2022-06-27
+  end_date: 2022-06-28
+  location: College Park, MD
+  meeting_name: NSF DMREF PI meeting 2022
+  presentation_url: 2206sb_dmref22
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: poster
 2206sb_erice,italy:
   abstract: tbd
   authors:
