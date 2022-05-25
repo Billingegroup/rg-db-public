@@ -540,7 +540,7 @@ baner;phdt;19:
     - Soham Banerjee
   entrytype: phdthesis
   facility: ' nsls, x17a, nslsii, xpd  '
-  grant: dmref15, efrc18, fwp17
+  grant: dmref15, efrc18, mrsec14, bnlsoham17, afgrf14, dmrefcheme16, tamu17
   month: oct
   nb: ' thesis '
   school: Columbia University
@@ -7279,9 +7279,9 @@ liu;jac21:
   journal: J. Appl. Crystallogr.
   month: may
   nb: fy21, typeA
-  note: advanced online publication
   number: '3'
   optannote: ''
+  optnote: advanced online publication
   optwwwlanl: ''
   pages: 768-775
   professional_summary: In situ experiments taking place in the x-ray beam at modern
@@ -7365,6 +7365,19 @@ liu;jacs21:
   url: https://doi.org/10.1021/jacs.0c11718
   volume: '143'
   year: '2021'
+liu;phdt;20:
+  author:
+    - Chia-Hao Liu
+  entrytype: phdthesis
+  facility: nslsii, xpd, pdf
+  grant: mrsec14, dmrefcheme16, efrc18, dmref15
+  month: jan
+  nb: ' thesis '
+  school: Columbia University
+  title: Development of small-angle scattering pair distribution function analysis
+    techniques and application to polymer-grafted nanoparticles (GNPs)
+  type: PhD Thesis
+  year: '2020'
 liu;sr14:
   author:
     - Liu, Shuangyi
@@ -11318,7 +11331,7 @@ wrigh;phdt;19:
     - Christopher J. Wright
   entrytype: phdthesis
   facility: ' nslsii, xpd  '
-  grant: dmref15, efrc18, bnlctpdf18, bnlldrd18, dmrefcheme16
+  grant: dmref15, efrc18, bnlctpdf18, bnlldrd18, dmrefcheme16, tamu17
   month: Nov
   nb: thesis
   school: Columbia University
@@ -11737,9 +11750,9 @@ yang;nc21:
   journal: Nature Chem.
   month: apr
   nb: ' art '
-  note: advanced online publication
   number: ''
   optannote: ''
+  optnote: advanced online publication
   optwwwlanl: ''
   pages: ''
   tags: superatoms
@@ -12096,6 +12109,49 @@ zhao;prl21:
   url: http://arxiv.org/abs/2106.05231
   volume: ''
   year: '2021'
+frand;jac22:
+  ackno: 'We thank Caleb Dame for valuable contributions to the interactive
+    magnetic structure builder. Work by B.A.F. and P.H. was supported by the
+    U.S. Department of Energy, Office of Science, Office of Basic Energy
+    Science through Award No. DE-SC0021134. J.A.C. and E.S. acknowledge IUCr
+    macros version 2.1.10: 2016/01/2813 support from the College of Physical
+    and Mathematical Sciences at Brigham Young University. S.J.L.B  was
+    supported by U.S. Department of Energy, Office of Science, Office of
+    Basic Energy Sciences (DOE-BES) under contract No. DE-SC0012704.
+    This study used resources at the Spallation Neutron Source (SNS), a DOE
+    Office of Science User Facility operated by the Oak Ridge National Laboratory.'
+  author:
+    - Benjamin A. Frandsen
+    - Parker K. Hamilton
+    - Jacob A. Christensen
+    - Eric Stubbena
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: sns, nomad
+  grant: fwp20
+  journal: J. Appl. Crystallography
+  month: tbd
+  nb: ' art '
+  note: submitted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  professional_summary: We introduce the open-source software package
+    diffpy.mpdf for magnetic pair distribution function analysis.  Written in
+    python and part of the DiffPy suite for diffraction and pair distribution
+    function analysis, this package allows users to build magnetic structures,
+    calculate one- and three-dimensional magnetic pair distribution function
+    patterns, and perform fits to magnetic pair distribution function data.
+  synopsis: the open-source software package diffpy.mpdf for magnetic pair
+    distribution function analysis is described
+  tags: mpdf, software, magnetism
+  title: 'DIFFPY.MPDF: Open-source software for magnetic pair
+    distribution function analysis'
+  url: ''
+  volume: ''
+  year: '2022'
 zheng;prb09:
   author:
     - Zheng, J. C.

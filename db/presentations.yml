@@ -3397,6 +3397,7 @@
   title: 'Keeping up with the data: accelerating materials discovery in a high data
     velocity world'
   type: seminar
+  webinar: true
 2201sb_orlando,florida,usa.:
   abstract: tbd
   authors:
@@ -3766,10 +3767,13 @@
   type: invited
   webinar: true
 2205sb_3m:
-  abstract: Modern materials under study for next generation technologies, such as
-    for energy conversion and storage, environmental remediation and health, are highly
-    complex, often heterogeneous and nano structured.  A full understanding of the
-    structure requires us to go beyond crystallography and to study the local structure,
+  abstract: Properties of real materials depend very sensitively on structural defects
+    and deviations from ideal atomic arrangements.  These may be surfaces, interfaces,
+    point defects and increasingly, nanostructuring and other types of structura disorder.  The
+    materials under study for next generation technologies, such as for energy conversion
+    and storage, environmental remediation and health, are therefore highly complex,
+    often heterogeneous and nano structured.  A full understanding of the structure-property
+    relationship requires us to go beyond crystallography and to study the local structure,
     which is a major experimental challenge. There are recently emerging powerful
     experimental developments, for example, using the atomic pair distribution function
     technique (PDF), among others. In this talk I will touch on nanoparticulate materials,
@@ -3785,13 +3789,13 @@
   begin_date: 2022-05-24
   department: 3M Technical Forum seminar
   end_date: 2022-04-24
-  institution: 3M
+  institution: 3m
   presentation_url: 2205sb_3m
   project:
     - all
   status: accepted
-  title: 'atomic pair distribution function (PDF) analysis: characterizing structure
-    in sticky situations'
+  title: 'Characterizing structure in sticky situations: Atomic pair distribution
+    function (PDF) analysis '
   type: seminar
   webinar: true
 2205sb_eciBoulderCO:
@@ -4031,8 +4035,7 @@
     symmetry of the structure), as well as other data analytic tools for manipulating
     the scattering data behind the nanostructure inverse problem.I will also lay out
     a new challenge which is to solve the material synthesis inverse problem from
-    precious data.  We have no results from this, but I would love to get feedback
-    and help from the group!
+    precious data.
   authors:
     - sbillinge
   begin_date: 2022-07-12
@@ -4047,7 +4050,15 @@
   type: invited
   webinar: true
 2208sb_versailles,paris,france:
-  abstract: tbd
+  abstract: I will describe recent efforts to apply machine learning to the analysis
+    of total scattering and PDF data and modeling.  This includes the use of deep
+    neural nets for finding the unknown space-group of a measured PDF and automaticallly
+    finding chemically reasonable components in large sets of powder diffraction and
+    PDF measurements from, for example, an in situ synthesis experiment, using unsupervised
+    machine learning methods.  I will also present preliminary results of applying
+    variational conditional autoencoders to do structure solution from PDF data, at
+    least in a very limited way. Some of these tools are available as cloud-hosted
+    web services at PDFitc.org and are free to use by the community.
   authors:
     - sbillinge
   begin_date: 2022-08-23
@@ -4059,7 +4070,8 @@
   project:
     - all
   status: accepted
-  title: tbd
+  title: Unsupervised and supervised machine learning for total scattering and PDF
+    analyses
   type: invited
 2209sb_chicheleyhall,miltonkeynes,uk:
   abstract: tbd
@@ -4088,14 +4100,14 @@
   status: accepted
   title: Ultrafast Orbital Degeneracy Lifting
   type: invited
-2210sb_paulscherrerinstitution:
+2210sb_paulscherreri:
   abstract: tbd
   authors:
     - sbillinge
   begin_date: 2022-10-07
-  department: Condensed Matter Physics Colloquium
+  department: cmp
   end_date: 2022-10-07
-  institution: Paul Scherrer Institution
+  institution: paulscherreri
   presentation_url: 2210sb_psi
   project:
     - all
