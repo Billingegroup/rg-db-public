@@ -1021,6 +1021,26 @@ dhsu:
   service: []
   skills: []
   title: Prof.
+dpeters:
+  active: true
+  aka: []
+  avatar: "https://github.com/\x16dpeters001.png"
+  bio: bio
+  education: []
+  email: djp2136@columbia.edu
+  employment:
+    - begin_date: 2022-06-01
+      end_date: 2022-06-01
+      organization: columbiau
+      position: summer research fellow
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: "\x16dpeters001"
+  grp_mtg_active: true
+  name: Dominic Peters
+  orcid_id: ''
+  position: summer research fellow
 dpodgorski:
   active: false
   aka:
