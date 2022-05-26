@@ -68,29 +68,6 @@ coder:
       begin_year: 2021
   type: outreach
   website: ''
-matsci_colab:
-  active: true
-  description:
-    This project will build a one-semester accelerated course in machine learning (ML) applied to STEM research problems for graduate and senior undergraduate level students in physical science and engineering.  Whilst data analytics, artificial intelligence (AI) and machine learning have revolutionized many aspects of life from commerce to politics and human interactivity, its impacts in  the physical sciences have been slower.  This is now rapidly changing,  with disruptive use of AI and ML to attack research problems that seemed unreachable just a few years ago.  There is a strong hunger among physical science and engineering students to attain new research skills enabled by ML and to apply them to problems in their domain.  The current training for this cohort of students includes extensive training in calculus, differential equations, a bit of linear algebra, rudimentary statistics and nothing in the way of ML.  The students often have an aptitude and some training in basic programming. Our goal with this project is to design a course that will build on the solid math skills of this group to accelerate their understanding and ability to adopt ML in their work.
-    The course will build on this existing knowledge by combining a highly compressed introduction to ML taught by the Statistics department, but with a focus on newly developed hands-on projects (that we call Labs) where real (published) problems that apply different ML methods to materials science problems.  The Labs will be developed using the Google Colab platform and use the actual datasets from the published examples.  The developments will be made following strict standards for coding and documentation and maintained in a central GitHub repository.  As such, it will form a platform that will allow further Labs to be developed in the aread of Materials Science but also more broadly.  Indeed, this can turn into a widely used community resource that is under continuous development using standard open-source community development practices.
-  group: bg
-  highlights:
-    - year: 2022
-      month: 5
-      description: Proposal submitted to fund the development of the course
-  name: Applying machine learning to valuable data in the physical sciences and engineering
-  team:
-    - name: sbillinge
-      position: PI
-      begin_year: 2022
-    - name: skumar
-      position: Co-PI
-      begin_year: 2022
-    - name: tzheng
-      position: Co-PI
-      begin_year: 2022
-  type: teaching
-  website: ''
 diffpy:
   active: true
   description: software for modeling nanostructures principally from atomic pair distribution
@@ -378,6 +355,51 @@ fwp17:
       position: postdoc
       begin_year: 2018
   type: funded
+matsci_colab:
+  active: true
+  description: This project will build a one-semester accelerated course in machine
+    learning (ML) applied to STEM research problems for graduate and senior undergraduate
+    level students in physical science and engineering.  Whilst data analytics, artificial
+    intelligence (AI) and machine learning have revolutionized many aspects of life
+    from commerce to politics and human interactivity, its impacts in  the physical
+    sciences have been slower.  This is now rapidly changing,  with disruptive use
+    of AI and ML to attack research problems that seemed unreachable just a few years
+    ago.  There is a strong hunger among physical science and engineering students
+    to attain new research skills enabled by ML and to apply them to problems in their
+    domain.  The current training for this cohort of students includes extensive training
+    in calculus, differential equations, a bit of linear algebra, rudimentary statistics
+    and nothing in the way of ML.  The students often have an aptitude and some training
+    in basic programming. Our goal with this project is to design a course that will
+    build on the solid math skills of this group to accelerate their understanding
+    and ability to adopt ML in their work. The course will build on this existing
+    knowledge by combining a highly compressed introduction to ML taught by the Statistics
+    department, but with a focus on newly developed hands-on projects (that we call
+    Labs) where real (published) problems that apply different ML methods to materials
+    science problems.  The Labs will be developed using the Google Colab platform
+    and use the actual datasets from the published examples.  The developments will
+    be made following strict standards for coding and documentation and maintained
+    in a central GitHub repository.  As such, it will form a platform that will allow
+    further Labs to be developed in the aread of Materials Science but also more broadly.  Indeed,
+    this can turn into a widely used community resource that is under continuous development
+    using standard open-source community development practices.
+  group: bg
+  highlights:
+    - year: 2022
+      month: 5
+      description: Proposal submitted to fund the development of the course
+  name: Applying machine learning to valuable data in the physical sciences and engineering
+  team:
+    - name: sbillinge
+      position: PI
+      begin_year: 2022
+    - name: skumar
+      position: Co-PI
+      begin_year: 2022
+    - name: tzheng
+      position: Co-PI
+      begin_year: 2022
+  type: teaching
+  website: ''
 mrsec14:
   active: false
   description: Study of nanoparticle assemblies and superatom systems
