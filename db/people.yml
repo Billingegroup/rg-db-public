@@ -2396,6 +2396,26 @@ kknox:
   name: Kevin Knox
   position: president
   position_full: Vice President
+klkim:
+  active: true
+  aka: []
+  avatar: "https://github.com/\x16kaylabim.png"
+  bio: bio
+  education: []
+  email: "\x16kbk2131@columbia.edu"
+  employment:
+    - begin_date: 2022-06-01
+      end_date: 2022-08-31
+      organization: columbiau
+      position: masters researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: "\x16kaylabim"
+  grp_mtg_active: true
+  name: Kayla Kim
+  orcid_id: 0000-0003-0050-3217
+  position: masters researcher
 kloza:
   active: false
   aka: []
