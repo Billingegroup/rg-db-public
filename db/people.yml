@@ -1024,7 +1024,7 @@ dhsu:
 dpeters:
   active: true
   aka: []
-  avatar: "https://github.com/\x16dpeters001.png"
+  avatar: "https://github.com/dpeters001.png"
   bio: bio
   education: []
   email: djp2136@columbia.edu
@@ -1036,7 +1036,7 @@ dpeters:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: "\x16dpeters001"
+  github_id: "dpeters001"
   grp_mtg_active: true
   name: Dominic Peters
   orcid_id: ''
@@ -2399,10 +2399,10 @@ kknox:
 klkim:
   active: true
   aka: []
-  avatar: "https://github.com/\x16kaylabim.png"
+  avatar: "https://github.com/kaylabim.png"
   bio: bio
   education: []
-  email: "\x16kbk2131@columbia.edu"
+  email: "kbk2131@columbia.edu"
   employment:
     - begin_date: 2022-06-01
       end_date: 2022-08-31
@@ -2411,7 +2411,7 @@ klkim:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: "\x16kaylabim"
+  github_id: "kaylabim"
   grp_mtg_active: true
   name: Kayla Kim
   orcid_id: 0000-0003-0050-3217
@@ -2464,6 +2464,26 @@ kseth:
       status: visitor-unsupported
   name: Kriti Seth
   position: visiting student
+kwang:
+  active: true
+  aka: []
+  avatar: "https://github.com/mkwang2024.png"
+  bio: bio
+  education: []
+  email: mw3479@columbia.edu
+  employment:
+    - begin_date: 2022-06-01
+      end_date: 2022-08-31
+      organization: columbiau
+      position: undergrad researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: "mkwang2024"
+  grp_mtg_active: true
+  name: kevin Wang
+  orcid_id: 0000-0002-8386-9849
+  position: undergrad researcher
 lcheng:
   active: false
   aka: []
@@ -3020,6 +3040,26 @@ mzhao:
   name: Max Zhao
   orcid_id: 0000-0001-7082-5030
   position: Undergraduate Researcher
+nasker:
+  active: true
+  aka: []
+  avatar: https://github.com/N-G-Asker.png
+  bio: bio
+  education: []
+  email: nga2120@columbia.edu
+  employment:
+    - begin_date: 2022-06-01
+      end_date: 2022-08-31
+      organization: columbiau
+      position: masters researcher
+      group: bg
+      advisor: sbillinge
+      status: masters
+  github_id: N-G-Asker
+  grp_mtg_active: true
+  name: Nick Asker
+  orcid_id: ''
+  position: masters researcher
 nfuller:
   active: false
   aka:
