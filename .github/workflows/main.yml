@@ -33,30 +33,24 @@ jobs:
           # checked out "nested" within this repo.
           path: rg-db-public
 
-      # Change to:
-      #    repository: Billingegroup/rg-db-group
       - name: Check out rg-db-group repository
         uses: actions/checkout@v3
         with:
-          repository: connorjbracy/rg-db-group
+          repository: Billingegroup/rg-db-group
           token: ${{ secrets.GH_ACTIONS_PAT }}
           path: rg-db-group
 
-      # Change to:
-      #    repository: regro/regolith
       - name: Check out regolith repository
         uses: actions/checkout@v3
         with:
-          repository: connorjbracy/regolith
+          repository: regro/regolith
           token: ${{ secrets.GH_ACTIONS_PAT }}
           path: regolith
 
-      # Change to:
-      #    repository: Billingegroup/website
       - name: Check out website repository
         uses: actions/checkout@v3
         with:
-          repository: connorjbracy/website
+          repository: Billingegroup/website
           token: ${{ secrets.GH_ACTIONS_PAT }}
           path: website
 
@@ -83,22 +77,13 @@ jobs:
           regolith build cv --no-pdf
           regolith build publist --no-pdf
 
-      # Change to:
-      #   uses: connorjbracy/copy_file_to_another_repo_action@main
-      #   ...
-      #   with:
-      #     ...
-      #     destination_repo: 'Billingegroup/billingegroup.github.io'
-      #     ...
-      #     user_email: 'simon.billinge@gmail.com'
-      #     user_name: 'sbillinge'
       - name: Deploy Group Website
         uses: connorjbracy/copy_file_to_another_repo_action@main
         env:
           API_TOKEN_GITHUB: ${{ secrets.GH_ACTIONS_PAT }}
         with:
           source_file: 'website/_build/html'
-          destination_repo: 'connorjbracy/billingegroup.github.io'
+          destination_repo: 'Billingegroup/billingegroup.github.io'
           destination_branch: 'master'
-          user_email: 'connorjbracy@gmail.com'
-          user_name: 'connorjbracy'
+          user_email: 'simon.billinge@gmail.com'
+          user_name: 'sbillinge'
