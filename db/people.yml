@@ -1024,7 +1024,7 @@ dhsu:
 dpeters:
   active: true
   aka: []
-  avatar: "https://github.com/dpeters001.png"
+  avatar: https://github.com/dpeters001.png
   bio: bio
   education: []
   email: djp2136@columbia.edu
@@ -1036,7 +1036,7 @@ dpeters:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: "dpeters001"
+  github_id: dpeters001
   grp_mtg_active: true
   name: Dominic Peters
   orcid_id: ''
@@ -2399,10 +2399,10 @@ kknox:
 klkim:
   active: true
   aka: []
-  avatar: "https://github.com/kaylabim.png"
+  avatar: https://github.com/kaylabim.png
   bio: bio
   education: []
-  email: "kbk2131@columbia.edu"
+  email: kbk2131@columbia.edu
   employment:
     - begin_date: 2022-06-01
       end_date: 2022-08-31
@@ -2411,7 +2411,7 @@ klkim:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: "kaylabim"
+  github_id: kaylabim
   grp_mtg_active: true
   name: Kayla Kim
   orcid_id: 0000-0003-0050-3217
@@ -2467,7 +2467,7 @@ kseth:
 kwang:
   active: true
   aka: []
-  avatar: "https://github.com/mkwang2024.png"
+  avatar: https://github.com/mkwang2024.png
   bio: bio
   education: []
   email: mw3479@columbia.edu
@@ -2479,7 +2479,7 @@ kwang:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: "mkwang2024"
+  github_id: mkwang2024
   grp_mtg_active: true
   name: kevin Wang
   orcid_id: 0000-0002-8386-9849
@@ -3042,10 +3042,31 @@ mzhao:
   position: Undergraduate Researcher
 nasker:
   active: true
-  aka: []
+  aka:
+  - Nicholas Asker
+  - Nick Asker
+  - Nicholas G. Asker
+  - Nicholas George Asker
+  - N.G.Asker
   avatar: https://github.com/N-G-Asker.png
-  bio: bio
-  education: []
+  bio: Nicholas Asker is a masters student in computer science at Columbia University.
+    Prior to pursuing a graduate degree, Nicholas was a cybersecurity consultant
+    at Booz Allen Hamilton, where his on-the-job experience doing technology and 
+    security research for government clients sparked an interest in programming. 
+    He holds a B.A. from Brown University in Economics and Philosophy along with
+    several industry cyber and IT certifications. In his free time, Nicholas enjoys
+    playing soccer, being outdoors, dancing, and practicing Spanish. 
+  education:
+    - begin_year: 2021
+      degree: Masters of Science (MS)
+      institution: Columbia University
+      department: Computer Science
+      end_year: 2023
+    - begin_year: 2013
+      degree: Bachelor of Arts (BA)
+      institution: Brown University
+      department: Economics and Philosophy
+      end_year: 2017
   email: nga2120@columbia.edu
   employment:
     - begin_date: 2022-06-01
