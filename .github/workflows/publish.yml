@@ -28,8 +28,8 @@ jobs:
       # The type of runner that the job will run on
       - name: Ensure validation
         uses: connorjbracy/rg-db-public@main
-        secrets:
-          token: ${{ secrets.GH_ACTIONS_PAT }}
+        #secrets:
+        #  token: ${{ secrets.GH_ACTIONS_PAT }}
 
       - name: Build Group Website
         run: |
