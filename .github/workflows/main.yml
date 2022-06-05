@@ -68,21 +68,3 @@ jobs:
           cd rg-db-public/local
           regolith validate
           regolith build publist --no-pdf
-
-      - name: Build Group Website
-        run: |
-          cd website
-          regolith build html
-          regolith build cv --no-pdf
-          regolith build publist --no-pdf
-
-      #- name: Deploy Group Website
-      #  uses: connorjbracy/copy_file_to_another_repo_action@main
-      #  env:
-      #    API_TOKEN_GITHUB: ${{ secrets.GH_ACTIONS_PAT }}
-      #  with:
-      #    source_file: 'website/_build/html/*'
-      #    destination_repo: 'Billingegroup/billingegroup.github.io'
-      #    destination_branch: 'master'
-      #    user_email: 'simon.billinge@gmail.com'
-      #    user_name: 'sbillinge'
