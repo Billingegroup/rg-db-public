@@ -1024,7 +1024,7 @@ dhsu:
 dpeters:
   active: true
   aka: []
-  avatar: "https://github.com/dpeters001.png"
+  avatar: https://github.com/dpeters001.png
   bio: bio
   education: []
   email: djp2136@columbia.edu
@@ -1036,7 +1036,7 @@ dpeters:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: "dpeters001"
+  github_id: dpeters001
   grp_mtg_active: true
   name: Dominic Peters
   orcid_id: ''
@@ -2399,10 +2399,10 @@ kknox:
 klkim:
   active: true
   aka: []
-  avatar: "https://github.com/kaylabim.png"
+  avatar: https://github.com/kaylabim.png
   bio: bio
   education: []
-  email: "kbk2131@columbia.edu"
+  email: kbk2131@columbia.edu
   employment:
     - begin_date: 2022-06-01
       end_date: 2022-08-31
@@ -2411,7 +2411,7 @@ klkim:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: "kaylabim"
+  github_id: kaylabim
   grp_mtg_active: true
   name: Kayla Kim
   orcid_id: 0000-0003-0050-3217
@@ -2467,9 +2467,18 @@ kseth:
 kwang:
   active: true
   aka: []
-  avatar: "https://github.com/mkwang2024.png"
-  bio: bio
-  education: []
+  avatar: https://github.com/mkwang2024.png
+  bio: Kevin grew up in Beijing, China. He is an undergraduate student in Columbia
+    College studying physics with a minor in computer science. He is interested in
+    condensed matter physics and machine learning. In his free time, he enjoys playing
+    tennis and squash. 
+  education:
+    - begin_year: 2020
+      begin_month: 9
+      institution: columbiau
+      degree: BA - Physics
+      end_year: 2024
+      end_month: 5
   email: mw3479@columbia.edu
   employment:
     - begin_date: 2022-06-01
@@ -2479,7 +2488,7 @@ kwang:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: "mkwang2024"
+  github_id: mkwang2024
   grp_mtg_active: true
   name: kevin Wang
   orcid_id: 0000-0002-8386-9849
