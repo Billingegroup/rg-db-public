@@ -33,13 +33,6 @@ jobs:
           # checked out "nested" within this repo.
           path: rg-db-public
 
-      - name: Check out rg-db-group repository
-        uses: actions/checkout@v3
-        with:
-          repository: Billingegroup/rg-db-group
-          token: ${{ secrets.GH_ACTIONS_PAT }}
-          path: rg-db-group
-
       - name: Check out regolith repository
         uses: actions/checkout@v3
         with:
@@ -53,6 +46,13 @@ jobs:
           repository: Billingegroup/website
           token: ${{ secrets.GH_ACTIONS_PAT }}
           path: website
+
+      - name: Check out rg-db-group repository
+        uses: actions/checkout@v3
+        with:
+          repository: Billingegroup/rg-db-group
+          token: ${{ secrets.GH_ACTIONS_PAT }}
+          path: rg-db-group
 
         # Not sure why "$ pip install doctr", but this is the statement that
         # exists in the old CI script that precedes this GitHub Actions CI.
