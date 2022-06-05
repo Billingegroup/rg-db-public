@@ -2269,6 +2269,63 @@ booth;jpconfs10:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/booth_jpcs_11.pdf
   year: '2011'
+bozer;aca22:
+  arxiv: arXiv:2204.00434 [cond-mat.mtrl-sci]
+  author:
+    - Ozer, B.
+    - Karlsen, M. A.
+    - Thatcher, Z.
+    - Lan, L.
+    - McMahon, B.
+    - Strickland, P. R.
+    - Westrip, S. P.
+    - Sang, K. S.
+    - Billing, D. G.
+    - Ravnsbæk, D. B.
+    - Billinge, S. J. L
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: dmref19
+  journal: Acta Crystallogr. A
+  nb: ''
+  note: arXiv:2204.00434v1 [cond-mat.mtrl-sci]
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  professional_summary: pyDataRecognition is a prototype application that explores
+    the potential of machine-readable literature. The user, e.g. a structure scientist
+    has a powder diffraction pattern from a particular sample collected on their powder
+    diffractometer.User uploads experimental powder diffraction pattern to the search
+    application together with limited amount of relevant experimental information.
+    The program then runs the search query during which the user data is prepared
+    for comparison to database, i.e. data resampling. The user data is then compared
+    to the database entries through a similarity measurement that executes a correlation
+    analysis. As a result,the database entries are ranked according to their similarity
+    score, the correlation coefficient.
+  public_summary: pyDataRecognition is a prototype application that explores the potential
+    of machine-readable literature. The program takes an experimental powder diffraction
+    pattern as search query input. The user data will be compared to a database of
+    powder patterns from papers published in the IUCr journals. Based on similarity
+    measurement through correlation analysis, the references for the most relevant
+    papers will be returned to the user, together with a plot of the user data with
+    the database entries of the top five papers of the search query.Machine-readable
+    literature holds a great potential as making literature readable to machines means
+    that humans can benefit from the high output rates of machines, data-driven literature
+    search being an example, where literature search queries are driven by data, such
+    that the references returned will be highly relevant to the data.
+  synopsis: A prototype application for finding published papers given a powder diffraction
+    dataset is described. This is an example of what might be possible if structured
+    datasets are saved with papers in the future.
+  tags: machine_readable_scientific_literature, powder_diffraction, xrpd, mrsl
+  title: 'Towards a machine-readable literature: finding relevant papers based on
+    an uploaded powder diffraction pattern'
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: http://arxiv.org/abs/2204.00434
+  year: '2022'
 bozin;b;coshan13:
   address: Amsterdam
   author:
@@ -3311,24 +3368,21 @@ choud;npjcm21:
     - Elizabeth Holm
     - Shyue Ping Ong
     - Chris Wolverton
-  doi: ''
+  doi: 10.1038/s41524-022-00734-6
   entrytype: article
   facility: ''
   grant: dmref19
-  journal: npj Computational Materials
-  month: Oct
+  journal: npj Comput Mater
+  month: Apr
   nb: article, highlight, fy21
-  note: arXiv 2110.14820
   number: ''
-  optannote: ''
-  optwwwlanl: ''
-  optwwwpub: ''
-  pages: ''
+  optnote: arXiv 2110.14820
+  pages: '59'
   synopsis: A review of the applications of deep learning methods in material science
   tags: review, ml, machine_learning, deep_learning, dl
   title: Recent Advances and Applications of Deep Learning Methods in Materials Science
-  url: https://arxiv.org/abs/2110.14820
-  volume: ''
+  url: https://www.nature.com/articles/s41524-022-00734-6
+  volume: '8'
   wwwemail: ''
   year: '2022'
 chuby;pre05:
@@ -10411,7 +10465,7 @@ thamp;prb13:
   volume: '88'
   wwwemail: ''
   year: '2013'
-thatc;arxiv21:
+thatc;aa22:
   ackno: 'We would like to thank Alexander Schöekel for assistance in use of beamline
     P02.1. \n Funding information \n This work was supported as part of GENESIS: A
     Next Generation Synthesis Center, an Energy Frontier Research Center funded by
@@ -10435,18 +10489,18 @@ thatc;arxiv21:
     - James R. Neilson
     - Dorthe B. Ravnsbæk
     - Simon J. L. Billinge
-  doi: ''
+  doi: 10.1107/S2053273322002522
   entrytype: article
   facility: nslsii, xpd, desy, P02.1
   grant: efrc18
-  journal: arxiv
-  month: dec
+  journal: Acta Crystallographica Section A
+  month: may
   nb: ''
-  note: arXiv:2112.13300 [cond-mat]
-  number: ''
+  number: '3'
   optannote: ''
+  optnote: arXiv:2112.13300 [cond-mat]
   optwwwlanl: ''
-  pages: '2112.13300'
+  pages: 242-248
   professional_summary: Non negative matrix factorization (NMF) has been shown previously
     to rapidly decompose large powder diffraction and atomic pair distribution function
     (PDF) datasets into their constituent structural signals. Despite the utility
@@ -10482,11 +10536,11 @@ thatc;arxiv21:
   tags: in_situ, nmf, pdf_method
   title: '{nmfMapping}: a cloud-based web application for non-negative matrix factorization
     of powder diffraction and pair distribution function datasets'
-  url: http://arxiv.org/abs/2112.13300
-  volume: ''
+  url: https://scripts.iucr.org/cgi-bin/paper?S2053273322002522
+  volume: '73'
   wwwemail: ''
   wwwpub: ''
-  year: '2021'
+  year: '2022'
 thorp;b;fstpbas02:
   abstract: "A review examines a single pair distribution\nfunction (PDF) peak showing\
     \ how it can be\ndecompd. into zero, one, two and multiphonon\ncontributions.\
@@ -11314,6 +11368,40 @@ wustr;cm21:
   url: ''
   volume: ''
   year: '2021'
+wustr;jacs22:
+  ackno: ''
+  author:
+    - Allison Wustrow
+    - Matthew J. McDermott
+    - Daniel O'Nolan
+    - Chia-Hao Liu
+    - Gia Thinh Tran
+    - Brennan C. McBride
+    - Simon Vornholt
+    - Chao Feng
+    - Shyam S. Dwaraknath
+    - Karena W. Chapman
+    - Simon J. L. Billinge
+    - Wenhao Sun
+    - Kristin A. Persson
+    - James R. Neilson
+  doi: ''
+  entrytype: article
+  facility: tbd
+  grant: efrc18
+  journal: Chemistry of Materials
+  month: may
+  nb: ' art '
+  note: to be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  tags: synthesis, in-situ
+  title: 'Reaction Selectivity in Cometathesis:  Yttrium Manganese Oxides'
+  url: ''
+  volume: ''
+  year: '2022'
 xiao;afm19:
   author:
     - Xiao, Xu
@@ -11381,6 +11469,55 @@ xiao;am19:
   wwwemail: ''
   wwwpub: ''
   year: '2019'
+xie;am22:
+  ackno: This work was primarily supported by a grant from the U.S. Department of
+    Energy, Office of Science, and Office of Basic Energy Sciences under Award Number
+    DE-SC0014520. Work at Brookhaven National Laboratory was supported by U.S. Department
+    of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
+    Contract No. DE-SC0012704. The X-ray PDF measurements were conducted in part on
+    beamline 28-ID-1 of the National Synchrotron Light Source II, a U.S. Department
+    of Energy (DOE) Office of Science User Facility operated for the DOE Office of
+    Science by Brookhaven National Laboratory under Contract No. DE-SC0012704.
+  author:
+    - Hongyao Xie
+    - Emil S. Bozin
+    - Zhi Li
+    - Milinda Abeykoon
+    - Soham Banerjee
+    - James P. Male
+    - G. Jeffrey Snyder
+    - Christopher Wolverton
+    - Simon J. L. Billinge
+    - Mercouri G. Kanatzidis
+  doi: 10.1002/adma.202202255
+  entrytype: article
+  facility: ' pdf, nslsii'
+  grant: fwp20
+  journal: Advanced Materials
+  month: apr
+  nb: ' art '
+  note: to be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  professional_summary: Typically, conventional structure transitions occur from a
+    low symmetric state to a higher symmetry state upon warming. This paper reports
+    the discovery of this "emphanitic" phenomenon in the diamondoid compound AgGaTe2.  The
+    phenomenon has previously been seen only in Pb and Sn containing compounds where
+    the lone-pair on the metal ion plays an important role.  Here there is no lone-pair.  DFT
+    calculations indicates that it is a  weak sd3 orbital hybridization of the tetrahedral
+    Ag atoms that leads to a  distortion of the crystal structure. It also results
+    in a strong acoustic–optical phonon scattering which can explain the ultralow
+    thermal conductivity in AgGaTe2 and its promising thermoelectric properties.
+  synopsis: emphanisis is found in a non lone-pair diamondoid compound AgGaTe2 which
+    has very low thermal conductivity.
+  tags: thermoelectric, emphanisis,
+  title: Hidden Local Symmetry Breaking in Silver Diamondoid Compounds is Root Cause
+    of Ultralow Thermal Conductivity
+  url: ''
+  volume: ''
+  year: '2022'
 xu;b;ainips18:
   author:
     - Xu, Ji

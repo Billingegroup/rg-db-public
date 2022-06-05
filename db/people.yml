@@ -8,8 +8,8 @@ aabeykoon:
     - Abeykoon, A. M. M.
     - M. Abeykoon
     - Milinda Abeykoon
-  avatar: https://github.com/benfrandsen.png
-  bio: bio
+  avatar: https://www.bnl.gov/assets/global/images/render.php?q=0|24383.jpg|500
+  bio: ''
   education:
     - begin_year: 2003
       begin_month: 6
@@ -30,9 +30,12 @@ aabeykoon:
       end_year: 2000
       end_month: 5
   employment:
-    - begin_year: 2013
-      begin_month: 10
-      position: assistant scientist
+    - begin_date: 2015-10-01
+      position: physicist
+      organization: Brookhaven National Laboratory
+    - begin_date: 2013-10-01
+      end_date: 2015-09-30
+      position: associate scientist
       organization: Brookhaven National Laboratory
     - begin_year: 2010
       begin_month: 1
@@ -75,7 +78,7 @@ aday:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 1980
       institution: upenn
@@ -94,7 +97,7 @@ adippel:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2002
       institution: rwthaachen
@@ -112,7 +115,7 @@ aeberhadt:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 0
       institution: unknown
@@ -166,7 +169,7 @@ akovyakh:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2015
       degree: PhD in Physics
@@ -191,7 +194,7 @@ alappas:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 1989
       degree: PhD
@@ -215,7 +218,7 @@ amasadeh:
   active: false
   aka: []
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2003
       degree: PhD
@@ -245,7 +248,7 @@ asartbaeva:
     - Sartbaeva, A.
     - Sartbaeva, Asel
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2002
       degree: PhD in Mineral Physics
@@ -328,7 +331,7 @@ bfrandsen:
     - Frandsen, B. A.
     - Benjamin A. Frandsen
   avatar: https://github.com/benfrandsen.png
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2011
       begin_month: 9
@@ -395,7 +398,7 @@ btabanpour:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2014
       begin_month: 9
@@ -517,7 +520,7 @@ cfarrow:
     - Farrow, Chris
     - Farrow, Christopher L.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2002
       degree: PhD
@@ -558,7 +561,7 @@ cgutierrez:
   active: false
   aka: []
   avatar: https://github.com/.png
-  bio: bio
+  bio: ''
   education: []
   email: 'gutierrez@physics.ucla.edu '
   employment:
@@ -582,7 +585,7 @@ chliu:
     - Liu, Chia-Hao
     - Liu, C-H.
   avatar: https://github.com/chiahaoliu.png
-  bio: bio
+  bio: ''
   education:
     - institution: Columbia University
       begin_year: 2014
@@ -631,7 +634,7 @@ ckkim:
     - Kim, Chun. K.
     - Kim, C. K.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2007
       degree: PhD
@@ -964,7 +967,7 @@ cyshi:
     - Chenyang Shi
     - Shi, Chenyang
   avatar: https://github.com/curieshicy.png
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2011
       begin_month: 9
@@ -1004,7 +1007,7 @@ dhsu:
     - Hsu, Daniel J.
     - Hsu, Daniel
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education: []
   employment:
     - begin_year: 2012
@@ -1018,12 +1021,32 @@ dhsu:
   service: []
   skills: []
   title: Prof.
+dpeters:
+  active: true
+  aka: []
+  avatar: https://github.com/dpeters001.png
+  bio: bio
+  education: []
+  email: djp2136@columbia.edu
+  employment:
+    - begin_date: 2022-06-01
+      end_date: 2022-06-01
+      organization: columbiau
+      position: summer research fellow
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: dpeters001
+  grp_mtg_active: true
+  name: Dominic Peters
+  orcid_id: ''
+  position: summer research fellow
 dpodgorski:
   active: false
   aka:
     - Dragica Prill
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2014
       institution: ufrankfurt
@@ -1052,7 +1075,7 @@ dtordari:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 0
       institution: uvalencia
@@ -1105,7 +1128,7 @@ ebellingham:
   active: false
   aka: []
   avatar: https://github.com/ejb2203.png
-  bio: bio
+  bio: ''
   education: []
   email: ejb2203@columbia.edu
   employment:
@@ -1125,7 +1148,7 @@ ebohorquez:
   active: true
   aka: []
   avatar: https://github.com/steff3280.png
-  bio: bio
+  bio: ''
   education: []
   email: eb3280@columbia.edu
   employment:
@@ -1151,7 +1174,7 @@ ebozin:
     - Bozin, E. S.
     - Bozin, E.
   avatar: https://gitlab.thebillingegroup.com/uploads/-/system/user/avatar/25/avatar.png
-  bio: bio
+  bio: ''
   education:
     - institution: Michigan State University
       begin_year: 1996
@@ -1340,7 +1363,7 @@ ekjaer:
     - Emil T. S. Kj{\\ae}r
     - Emil T. S. Kj{\ae}r
   avatar: https://github.com/EmilSkaaning.png
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2019
       begin_month: 9
@@ -1418,7 +1441,7 @@ fatassi:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 0
       institution: purdueu
@@ -1437,7 +1460,7 @@ fbertolotti:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2010
       degree: PhD
@@ -1496,7 +1519,7 @@ fmohiuddin-jacobs:
   aka:
     - Farida Mohiuddin-Jacobs
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 1992
       degree: PhD
@@ -1548,7 +1571,7 @@ gcampi:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2005
       degree: PostDoctoral researcher
@@ -1573,7 +1596,7 @@ gpaglia:
     - Paglia G.
     - Paglia, G.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2000
       degree: PhD in Materials Science
@@ -1682,7 +1705,7 @@ hhu:
     - Hefei Hu
     - Hu, H.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2006
       degree: PhD in Physics
@@ -1731,7 +1754,7 @@ hjkim:
   aka:
     - Hyun-Jeong Kim
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2002
       end_year: 2007
@@ -1763,7 +1786,7 @@ hlin:
   active: false
   aka: []
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2000
       degree: PhD
@@ -1791,7 +1814,7 @@ htiwari:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2010
       begin_month: 9
@@ -1864,7 +1887,7 @@ hyavas:
   active: false
   aka: []
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2001
       degree: PhD
@@ -1892,7 +1915,7 @@ ikjeong:
   aka:
     - Jeong, {I. -K. }
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 1998
       end_year: 2001
@@ -1925,7 +1948,7 @@ jbloch:
   aka:
     - Jacques Bloch
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 1992
       degree: PhD in Physics
@@ -2077,7 +2100,7 @@ jchung:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 0
       institution: msu
@@ -2095,7 +2118,7 @@ jeaster:
   active: true
   aka: []
   avatar: https://github.com/easterjaylah.png
-  bio: bio
+  bio: ''
   education: []
   email: jyeaster@umes.edu
   employment:
@@ -2115,7 +2138,7 @@ jgriffiths:
   active: true
   aka: []
   avatar: https://github.com/j-griffo.png
-  bio: bio
+  bio: ''
   education: []
   email: jpg66@cam.ac.uk
   employment:
@@ -2138,7 +2161,7 @@ jliu:
     - Liu, J.
     - Liu, Jiwu
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2006
       degree: PhD
@@ -2301,7 +2324,7 @@ kjensen:
     - Jensen, Kirsten M. O.
     - Kirsten M. {\O}. Jensen
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2008
       degree: PhD in Chemistry
@@ -2335,7 +2358,7 @@ kknox:
     - Knox, K. R.
     - Knox, Kevin R.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2006
       degree: PhD
@@ -2373,11 +2396,31 @@ kknox:
   name: Kevin Knox
   position: president
   position_full: Vice President
+klkim:
+  active: true
+  aka: []
+  avatar: https://github.com/kaylabim.png
+  bio: bio
+  education: []
+  email: kbk2131@columbia.edu
+  employment:
+    - begin_date: 2022-06-01
+      end_date: 2022-08-31
+      organization: columbiau
+      position: masters researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: kaylabim
+  grp_mtg_active: true
+  name: Kayla Kim
+  orcid_id: 0000-0003-0050-3217
+  position: masters researcher
 kloza:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2011
       degree: PhD
@@ -2400,7 +2443,7 @@ kseth:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2016
       begin_month: 9
@@ -2421,8 +2464,28 @@ kseth:
       status: visitor-unsupported
   name: Kriti Seth
   position: visiting student
-lcheng:
+kwang:
   active: true
+  aka: []
+  avatar: https://github.com/mkwang2024.png
+  bio: bio
+  education: []
+  email: mw3479@columbia.edu
+  employment:
+    - begin_date: 2022-06-01
+      end_date: 2022-08-31
+      organization: columbiau
+      position: undergrad researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: mkwang2024
+  grp_mtg_active: true
+  name: kevin Wang
+  orcid_id: 0000-0002-8386-9849
+  position: undergrad researcher
+lcheng:
+  active: false
   aka: []
   avatar: https://github.com/OpusXI.png
   bio: Louis is from Singapore and Hong Kong. He is currently a GS student studying
@@ -2437,13 +2500,6 @@ lcheng:
   email: yc3733@columbia.edu
   employment:
     - begin_date: 2021-02-01
-      end_date: 2021-07-31
-      organization: columbiau
-      position: undergraduate researcher
-      group: bg
-      advisor: sbillinge
-      status: undergrad
-    - begin_date: 2022-01-01
       end_date: 2022-05-31
       organization: columbiau
       position: undergraduate researcher
@@ -2489,7 +2545,7 @@ llan:
   active: true
   aka: []
   avatar: https://github.com/lanikaling.png
-  bio: bio
+  bio: ''
   education: []
   email: ll3350@columbia.edu
   employment:
@@ -2511,7 +2567,7 @@ lmalavasi:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2000
       degree: PhD
@@ -2535,7 +2591,7 @@ lyang:
     - Long Yang
     - Yang, Long
   avatar: https://github.com/dragonyanglong.png
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2015
       begin_month: 9
@@ -2570,7 +2626,7 @@ mdapiaggi:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 1991
       degree: PhD
@@ -2596,7 +2652,7 @@ mgarciafernandez:
     - Mirian García-Fernández
     - García-Fernández, Mirian.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2006
       begin_month: 9
@@ -2631,7 +2687,7 @@ mgutmann:
     - Gutmann, M.
     - Gutmann, M
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 0
       institution: unknown
@@ -2656,7 +2712,7 @@ mkane:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 0
       institution: unknown
@@ -2674,7 +2730,7 @@ mkarlsen:
   active: true
   aka: []
   avatar: https://github.com/maak-sdu.png
-  bio: bio
+  bio: ''
   education: []
   email: maak@sku.dk
   employment:
@@ -2697,7 +2753,7 @@ mkemali:
   aka:
     - Mohamed Kemali
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 1997
       degree: PhD
@@ -2719,7 +2775,7 @@ moneebshatnawi:
   active: false
   aka: []
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2004
       degree: PhD
@@ -2748,7 +2804,7 @@ mouathshatnawi:
     - Mouath Ghazi Shatnawi
     - Shatnawi, M.
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2001
       degree: PhD
@@ -2792,7 +2848,7 @@ mschmidt:
   aka:
     - Marek Schmidt
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 1998
       degree: PhD
@@ -2824,7 +2880,7 @@ mterban:
     - Maxwell W. Terban
     - Terban, Maxwell
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2013
       begin_month: 1
@@ -2855,7 +2911,7 @@ mtrumbull:
   active: true
   aka: []
   avatar: https://github.com/MichaelTrumbull.png
-  bio: bio
+  bio: ''
   education: []
   email: mjt2211@columbia.edu
   employment:
@@ -2879,7 +2935,7 @@ mwaddell:
     - Waddell, Michael A.
     - Michael Alexander Waddell
   avatar: https://github.com/Mwaddellcolumbia.png
-  bio: bio
+  bio: ''
   education:
     - institution: George Washington University
       begin_year: 2007
@@ -2984,12 +3040,53 @@ mzhao:
   name: Max Zhao
   orcid_id: 0000-0001-7082-5030
   position: Undergraduate Researcher
+nasker:
+  active: true
+  aka:
+  - Nicholas Asker
+  - Nick Asker
+  - Nicholas G. Asker
+  - Nicholas George Asker
+  - N.G.Asker
+  avatar: https://github.com/N-G-Asker.png
+  bio: Nicholas Asker is a masters student in computer science at Columbia University.
+    Prior to pursuing a graduate degree, Nicholas was a cybersecurity consultant
+    at Booz Allen Hamilton, where his on-the-job experience doing technology and 
+    security research for government clients sparked an interest in programming. 
+    He holds a B.A. from Brown University in Economics and Philosophy along with
+    several industry cyber and IT certifications. In his free time, Nicholas enjoys
+    playing soccer, being outdoors, dancing, and practicing Spanish. 
+  education:
+    - begin_year: 2021
+      degree: Masters of Science (MS)
+      institution: Columbia University
+      department: Computer Science
+      end_year: 2023
+    - begin_year: 2013
+      degree: Bachelor of Arts (BA)
+      institution: Brown University
+      department: Economics and Philosophy
+      end_year: 2017
+  email: nga2120@columbia.edu
+  employment:
+    - begin_date: 2022-06-01
+      end_date: 2022-08-31
+      organization: columbiau
+      position: masters researcher
+      group: bg
+      advisor: sbillinge
+      status: masters
+  github_id: N-G-Asker
+  grp_mtg_active: true
+  name: Nick Asker
+  orcid_id: ''
+  position: masters researcher
 nfuller:
   active: false
   aka:
     - N Fuller
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - institution: Brooklyn College of the City University of New York (CUNY)
       begin_year: 2011
@@ -3049,7 +3146,7 @@ oprymak:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2002
       degree: PhD
@@ -3073,7 +3170,7 @@ ostachs:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 0
       institution: unknown
@@ -3092,7 +3189,7 @@ pdas:
   aka:
     - Partha Pratim Das
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2007
       degree: PhD
@@ -3125,7 +3222,7 @@ pjuhas:
     - Juhás, Pavol
     - Juh\'{a}s, P.
   avatar: https://github.com/pavoljuhas.png
-  bio: bio
+  bio: ''
   education:
     - degree: PhD in Physics
       institution: upenn
@@ -3242,7 +3339,7 @@ ppeterson:
   aka:
     - Peterson, P. F.
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
+  bio: ''
   education:
     - begin_year: 1999
       degree: PhD
@@ -3273,7 +3370,7 @@ ptian:
   aka:
     - Peng Tian
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2008
       begin_month: 9
@@ -3405,7 +3502,7 @@ rdifrancesco:
   active: false
   aka: []
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
+  bio: ''
   education:
     - begin_year: 1992
       degree: PhD
@@ -3481,7 +3578,7 @@ rjacubinas:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 0
       institution: unknown
@@ -3504,7 +3601,7 @@ rkoch:
     - R. J. Koch
     - Robert J. Koch
   avatar: https://gitlab.thebillingegroup.com/uploads/-/system/user/avatar/107/avatar.png
-  bio: bio
+  bio: ''
   education:
     - institution: University of Trento
       begin_year: 2012
@@ -3580,7 +3677,7 @@ rzyu:
   aka:
     - Yu, Runze
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2010
       degree: PhD in Physics
@@ -3608,7 +3705,7 @@ sbandi:
   aka:
     - Sasaank Bandi
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2015
       end_year: 2019
@@ -4671,7 +4768,7 @@ sdisch:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2007
       degree: PhD
@@ -4694,7 +4791,7 @@ sfrank:
   active: true
   aka: []
   avatar: https://github.com/sarafrank95.png
-  bio: bio
+  bio: ''
   education: []
   email: sarafrank@bce.au.dk
   employment:
@@ -4813,7 +4910,7 @@ spattanaik:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 0
       institution: unknown
@@ -4832,7 +4929,7 @@ sskjaervoe:
   aka:
     - Sandra H. Skjærvø
   avatar: https://github.com/sandraskj.png
-  bio: bio
+  bio: ''
   education: []
   email: shs2196@columbia.edu
   employment:
@@ -4898,7 +4995,7 @@ swhan:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 0
       institution: unknown
@@ -4919,7 +5016,7 @@ syxue:
   aka:
     - other names
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2015
       degree: BSc
@@ -4984,7 +5081,7 @@ tdavis:
   aka:
     - Timur Dykhne
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2009
       degree: PhD
@@ -5021,7 +5118,7 @@ tproffen:
     - Proffen, {Th. }
     - Proffen, {Th.}
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 1988
       degree: PhD in Physics
@@ -5075,7 +5172,7 @@ vgharakhanyan:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2019
       begin_month: 9
@@ -5131,7 +5228,7 @@ vnield:
   aka:
     - Vicki Nield
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 0
       institution: unknown
@@ -5152,7 +5249,7 @@ wzhou:
     - Zhou, W.
     - Zhou, Wenduo
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 1999
       degree: PhD
@@ -5188,7 +5285,7 @@ xchen:
   active: false
   aka: []
   avatar: https://github.com/.png
-  bio: bio
+  bio: ''
   education: []
   email: xc2421@columbia.edu
   employment:
@@ -5209,7 +5306,7 @@ xhyang:
     - Xiaohao Yang
     - Yang, Xiaohao
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2012
       begin_month: 1
@@ -5262,7 +5359,7 @@ xyqiu:
     - Xiangyun
     - Qiu, Xiangyun
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: bio
+  bio: ''
   education:
     - begin_year: 1999
       degree: PhD
@@ -5288,7 +5385,7 @@ xyun:
   aka:
     - Xin Yun
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2015
       begin_month: 9
@@ -5317,7 +5414,7 @@ yjhu:
   aka:
     - Joey Hu
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2006
       degree: PhD
@@ -5340,7 +5437,7 @@ ylin:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2013
       begin_month: 9
@@ -5447,7 +5544,7 @@ yrshang:
     - Shang, Y.
     - Shang, Yingrui
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2005
       degree: PhD in Physics
@@ -5478,7 +5575,7 @@ yztao:
   aka:
     - Yunzhe Tao
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2013
       begin_month: 1
@@ -5548,7 +5645,7 @@ zguguchia:
     - Guguchia, Z.
     - Guguchia, Zurab
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - begin_year: 2010
       degree: PhD
@@ -5639,7 +5736,7 @@ zzgong:
     - ZiZhou Gong
     - Gong, Z.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: bio
+  bio: ''
   education:
     - institution: columbiau
       degree: masters research assistant in Physics
