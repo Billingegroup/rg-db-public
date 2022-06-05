@@ -1,3 +1,4 @@
+![CI](https://github.com/billingegroup/rg-db-public/actions/workflows/main.yml/badge.svg)
 # rg-db-public
 Public Research Group Database
 
