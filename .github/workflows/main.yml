@@ -85,5 +85,6 @@ jobs:
           source_file: 'website/_build/html'
           destination_repo: 'Billingegroup/billingegroup.github.io'
           destination_branch: 'master'
+          destination_folder: '/'
           user_email: 'simon.billinge@gmail.com'
           user_name: 'sbillinge'
