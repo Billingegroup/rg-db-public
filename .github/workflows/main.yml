@@ -33,13 +33,6 @@ jobs:
           # checked out "nested" within this repo.
           path: rg-db-public
 
-      - name: Check out rg-db-group repository
-        uses: actions/checkout@v3
-        with:
-          repository: Billingegroup/rg-db-group
-          token: ${{ secrets.GH_ACTIONS_PAT }}
-          path: rg-db-group
-
       - name: Check out regolith repository
         uses: actions/checkout@v3
         with:
@@ -54,6 +47,13 @@ jobs:
           token: ${{ secrets.GH_ACTIONS_PAT }}
           path: website
 
+      - name: Check out rg-db-group repository
+        uses: actions/checkout@v3
+        with:
+          repository: Billingegroup/rg-db-group
+          token: ${{ secrets.GH_ACTIONS_PAT }}
+          path: rg-db-group
+
         # Not sure why "$ pip install doctr", but this is the statement that
         # exists in the old CI script that precedes this GitHub Actions CI.
         #   See: https://github.com/Billingegroup/rg-db-public/blob/fe47179ccb9879f73701c7155122ae937e96cfc2/.travis.yml#L32
@@ -62,7 +62,6 @@ jobs:
           conda init bash
           bash /update_conda_requirements.sh
           pip install regolith/
-          pip install doctr
 
       - name: Validate rg-db-public
         run: |
@@ -77,13 +76,13 @@ jobs:
           regolith build cv --no-pdf
           regolith build publist --no-pdf
 
-      - name: Deploy Group Website
-        uses: connorjbracy/copy_file_to_another_repo_action@main
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.GH_ACTIONS_PAT }}
-        with:
-          source_file: 'website/_build/html'
-          destination_repo: 'Billingegroup/billingegroup.github.io'
-          destination_branch: 'master'
-          user_email: 'simon.billinge@gmail.com'
-          user_name: 'sbillinge'
+      #- name: Deploy Group Website
+      #  uses: connorjbracy/copy_file_to_another_repo_action@main
+      #  env:
+      #    API_TOKEN_GITHUB: ${{ secrets.GH_ACTIONS_PAT }}
+      #  with:
+      #    source_file: 'website/_build/html/*'
+      #    destination_repo: 'Billingegroup/billingegroup.github.io'
+      #    destination_branch: 'master'
+      #    user_email: 'simon.billinge@gmail.com'
+      #    user_name: 'sbillinge'
