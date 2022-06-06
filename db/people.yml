@@ -860,29 +860,29 @@ cyshi:
   position: scientist
 dpeters:
   active: true
-  aka: Dom
+  aka:
+    - Dom
   avatar: https://github.com/dpeters001.png
   bio: Dominic is a rising-senior and chemical engineering undergraduate with minors in
-  mathematics and business administration. He has experience with Linux-based and
-  python coding languages/protocols. His previous research experience includes protein
-  engineering of the SARS-CoV-2 spike protein and the mapping of energetic landscapes of 
-  viral pathogens. Dominic enjoys electronic music production, 10K races, and
-  hiking in his free time. 
+    mathematics and business administration. He has experience with Linux-based and
+    python coding languages/protocols. His previous research experience includes protein
+    engineering of the SARS-CoV-2 spike protein and the mapping of energetic landscapes of 
+    viral pathogens. Dominic enjoys electronic music production, 10K races, and
+    hiking in his free time.
   education:
     - begin_year: 2019
-      degree: Chemical Engineering Undergraduate
+      degree: BE Chemical Engineering
       institution: The City College of New York
       end_year: 2023
   employment:
-    - begin_year: 2020
-      organization: Center for Discovery and Innovation
-      position: Undergraduate Researcher
-      begin_year: 2022
+    - begin_year: 2022
       begin_month: 6
       position: Amazon SURE Research Fellow
-      organization: Columbia U
+      organization: columbiau
       advisor: sbillinge
       group: bg
+      end_year: 2022
+      end_month: 8
   name: Dominic Peters
   position: Undergraduate Summer 2022 Research Fellow
 dpodgorski:
