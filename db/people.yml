@@ -1023,14 +1023,24 @@ dhsu:
   title: Prof.
 dpeters:
   active: true
-  aka: []
+  aka:
+    - Dom
   avatar: https://github.com/dpeters001.png
-  bio: bio
-  education: []
+  bio: Dominic is a rising-senior and chemical engineering undergraduate with minors in
+    mathematics and business administration. He has experience with Linux-based and
+    python coding languages/protocols. His previous research experience includes protein
+    engineering of the SARS-CoV-2 spike protein and the mapping of energetic landscapes of 
+    viral pathogens. Dominic enjoys electronic music production, 10K races, and
+    hiking in his free time.
+  education:
+    - begin-year: 2019
+      degree: BE in Chemical Engineering
+      institution: The City College of New York
+      end_year: 2023
   email: djp2136@columbia.edu
   employment:
     - begin_date: 2022-06-01
-      end_date: 2022-06-01
+      end_date: 2022-08-01
       organization: columbiau
       position: summer research fellow
       group: bg
@@ -1039,7 +1049,7 @@ dpeters:
   github_id: dpeters001
   grp_mtg_active: true
   name: Dominic Peters
-  orcid_id: ''
+  orcid_id: '0000-0001-5893-2992'
   position: summer research fellow
 dpodgorski:
   active: false
