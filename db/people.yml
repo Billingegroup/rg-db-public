@@ -2116,16 +2116,22 @@ jchung:
   position: unknown
 jeaster:
   active: true
-  aka: []
+  aka: Jay Easter
   avatar: https://github.com/easterjaylah.png
-  bio: ''
-  education: []
+  bio: 'Jay Easter is a Henson Entrepreneur Endowed Honors scholar at the
+University of Maryland Eastern Shore, studying general engineering with a
+mechanical engineering specialization. His general research interests pertain to
+understanding the relationship between the atomic structure and the emergent
+properties of organic materials for applications in energy, and the numerical modelling 
+and fabrication of NEMS devices. Jay is passionate about entrepreneurship and the 
+integration of underrepresented groups in STEM.'
+  education: BS General Engineering, mech. specilization (Expected Graduation: 5/2023)
   email: jyeaster@umes.edu
   employment:
     - begin_date: 2022-03-28
       end_date: 2022-08-31
       organization: columbiau
-      position: Undergradate Researcher
+      position: Undergraduate Researcher
       group: bg
       advisor: sbillinge
       status: undergrad
@@ -2133,7 +2139,7 @@ jeaster:
   grp_mtg_active: true
   name: Jaylah Y Easter
   orcid_id: ''
-  position: Undergradate Researcher
+  position: Undergraduate Researcher
 jgriffiths:
   active: true
   aka: []
@@ -2471,7 +2477,7 @@ kwang:
   bio: Kevin grew up in Beijing, China. He is an undergraduate student in Columbia
     College studying physics with a minor in computer science. He is interested in
     condensed matter physics and machine learning. In his free time, he enjoys playing
-    tennis and squash. 
+    tennis and squash.
   education:
     - begin_year: 2020
       begin_month: 9
@@ -3052,19 +3058,19 @@ mzhao:
 nasker:
   active: true
   aka:
-  - Nicholas Asker
-  - Nick Asker
-  - Nicholas G. Asker
-  - Nicholas George Asker
-  - N.G.Asker
+    - Nicholas Asker
+    - Nick Asker
+    - Nicholas G. Asker
+    - Nicholas George Asker
+    - N.G.Asker
   avatar: https://github.com/N-G-Asker.png
   bio: Nicholas Asker is a masters student in computer science at Columbia University.
-    Prior to pursuing a graduate degree, Nicholas was a cybersecurity consultant
-    at Booz Allen Hamilton, where his on-the-job experience doing technology and 
-    security research for government clients sparked an interest in programming. 
-    He holds a B.A. from Brown University in Economics and Philosophy along with
-    several industry cyber and IT certifications. In his free time, Nicholas enjoys
-    playing soccer, being outdoors, dancing, and practicing Spanish. 
+    Prior to pursuing a graduate degree, Nicholas was a cybersecurity consultant at
+    Booz Allen Hamilton, where his on-the-job experience doing technology and security
+    research for government clients sparked an interest in programming. He holds a
+    B.A. from Brown University in Economics and Philosophy along with several industry
+    cyber and IT certifications. In his free time, Nicholas enjoys playing soccer,
+    being outdoors, dancing, and practicing Spanish.
   education:
     - begin_year: 2021
       degree: Masters of Science (MS)
