@@ -461,12 +461,12 @@ cbracy:
       advisor: sbillinge
       status: ms
   github_id: connorjbracy
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Connor Bracy
   orcid_id: 0000-0001-8049-356X
   position: graduate research assistant
 cbullard:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/chloeann95.png
   bio: Chloë grew up in Michigan and attended Michigan State University for her undergraduate
@@ -508,7 +508,7 @@ cbullard:
       advisor: sbillinge
       status: masters
   github_id: chloeann95
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Chloë Bullard
   orcid_id: 0000-0002-5954-4710
   position: Masters Researcher
@@ -4115,6 +4115,9 @@ sbillinge:
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
   service:
+    - type: department
+      name: PhD thesis committed for Mr Jonathan Karp,
+      date: 2022-06-16
     - type: profession
       name: PhD thesis reviewer for Ms Anna Vivani, candidate for PhD in the Chemical
         and Environmental Sciences School at the Università degli Studi dell'Insubria
