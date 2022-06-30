@@ -3922,48 +3922,10 @@ sbillinge:
       degree: PhD in Materials Science and Engineering
       other:
         - 'Advisors: Takeshi Egami and Peter Davies'
-        - 'Disseration: Local atomic structure and superconducivity of Nd2-xCexCuO4-y:
+        - 'Disseration: Local atomic structure and superconducivity of Nd$_{2-x}$Ce$_x$CuO$_{4-y}$:
           a pair distribution function study '
   email: sb2896@columbia.edu
   employment:
-    - organization: iucr
-      begin_year: 2011
-      department: aca
-      position: editor
-      coworkers:
-        - aallen
-        - aaltomare
-        - lbourgeois
-        - pdominiak
-        - jeon
-        - ugrimm
-        - dkeen
-        - wkuhs
-        - lmarks
-        - hschenk
-        - ktsuda
-        - ivartaniants
-        - pwillmott
-        - mnespolo
-    - organization: iucr
-      begin_year: 2011
-      department: aca
-      position: editor
-      coworkers:
-        - aallen
-        - aaltomare
-        - lbourgeois
-        - pdominiak
-        - jeon
-        - ugrimm
-        - dkeen
-        - wkuhs
-        - lmarks
-        - hschenk
-        - ktsuda
-        - ivartaniants
-        - pwillmott
-        - mnespolo
     - organization: Columbia University
       begin_year: 2008
       group: bg
@@ -4031,7 +3993,7 @@ sbillinge:
   honors:
     - name: Distinguished Powder Diffractionist Prize of the European Powder Diffraction
         Conference
-      year: 2020
+      year: 2022
     - name: Warren Award of the American Crystallographic Association
       year: 2018
     - name: University of Wisconsin-Madison, School of Pharmacy, Busse Lecturer
