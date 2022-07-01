@@ -10,10 +10,10 @@
       subaward_amount: 7167
     - institution: jinr
       name: A. Balagurov
-      position: co-pi
+      position: copi
     - institution: moscowstateu
       name: E. Antipov
-      position: co-pi
+      position: copi
   title: Charge Inhomogeneities on Different Length-scales probed with high-resolution
     neutron diffraction
 00_dmr:
@@ -38,17 +38,17 @@
       position: pi
     - institution: msu
       name: sbillinge
-      position: co-pi
+      position: copi
       subaward_amount: 0
     - institution: uwisconsin
       name: Michael Winokur
-      position: co-pi
+      position: copi
     - institution: umissouri
       name: Paul Micelli
-      position: co-pi
+      position: copi
     - institution: uwashington
       name: Ken Kelton
-      position: co-pi
+      position: copi
   title: Development of the bending magnet beamlines in the MUCAT sector at the APS
 00_npdf:
   amount: 800000
@@ -61,7 +61,7 @@
       position: pi
     - institution: msu
       name: sbillinge
-      position: co-pi
+      position: copi
       subaward_amount: 0
   title: High-intensity, high-Q, high-resolution powder diffraction (H3PD)
 01_doe_bes:
@@ -76,7 +76,7 @@
       subaward_amount: 210000
     - institution: msu
       name: Michael Thorpe
-      position: co-pi
+      position: copi
   title: Local atomic structure of functional materials using pair distribution function
     analysis of neutron and x-ray data
 01_isis_postdoc:
@@ -111,23 +111,23 @@
   team:
     - institution: msu
       name: sbillinge
-      position: co-pi
+      position: copi
       subaward_amount: 300000
     - institution: msu
       name: Mercouri Kanatzidis
-      position: co-pi
+      position: copi
     - institution: msu
       name: Michael Thorpe
-      position: co-pi
+      position: copi
     - institution: msu
       name: Thomas Pinnavaia
       position: pi
     - institution: msu
       name: Bhanu Mahanti
-      position: co-pi
+      position: copi
     - institution: msu
       name: Tim Hogan
-      position: co-pi
+      position: copi
   title: Disordered oxidic and non-oxidic mesostructures
 03_nsf_nirt:
   amount: 1350000
@@ -141,13 +141,13 @@
       subaward_amount: 596567
     - institution: cmu
       name: Valeri Petkov
-      position: co-pi
+      position: copi
     - institution: msu
       name: Michael Thorpe
-      position: co-pi
+      position: copi
     - institution: msu
       name: Mercouri Kanatzidis
-      position: co-pi
+      position: copi
   title: Structure of Nanocrystals
 04_brent_danse_design:
   amount: 985414
@@ -157,11 +157,11 @@
   team:
     - institution: msu
       name: sbillinge
-      position: co-pi
+      position: copi
       subaward_amount: 121295
     - institution: caltech
       name: Michael Aivazis
-      position: co-pi
+      position: copi
     - institution: caltech
       name: Brent Fultz
       position: pi
@@ -178,7 +178,7 @@
       subaward_amount: 288195
     - institution: msu
       name: Phillip Duxbury
-      position: co-pi
+      position: copi
   title: Nanostructure determination by co-refining models to multiple data-sets
 05_danse:
   amount: 11973270
@@ -188,11 +188,11 @@
   team:
     - institution: msu
       name: sbillinge
-      position: co-pi
+      position: copi
       subaward_amount: 1430000
     - institution: caltech
       name: Michael Aivazis
-      position: co-pi
+      position: copi
     - institution: caltech
       name: Brent Fultz
       position: pi
@@ -221,13 +221,13 @@
       subaward_amount: 520000
     - institution: msu
       name: Chong-Yu Ruan
-      position: co-pi
+      position: copi
     - institution: msu
       name: Mercouri Kanatzidis
-      position: co-pi
+      position: copi
     - institution: msu
       name: Michael F. Thorpe
-      position: co-pi
+      position: copi
   title: 'FRG: Beyond Crystallography: Structure of  Nanostructured Materials'
 08_FWP-I:
   amount: 3600000.0
@@ -255,7 +255,7 @@
       position: pi
     - institution: columbiau
       name: Simon Billinge
-      position: co-pi
+      position: copi
       subaward_amount: 320000.0
   title: Re-Defining Photovoltaic Efficiency Through Molecule Scale Control
 10_PIRE_with_Tomo:
@@ -271,20 +271,20 @@
       position: pi
     - institution: columbiau
       name: Simon Billinge
-      position: co-pi
+      position: copi
       subaward_amount: 285000
     - institution: columbiau
       name: Abhay Pasupathy
-      position: co-pi
+      position: copi
     - institution: lanl
       name: Aleksanda Balatsky
-      position: co-pi
+      position: copi
     - institution: riceu
       name: Pengcheng Dai
-      position: co-pi
+      position: copi
     - institution: ''
       name: Christopher Wiebe
-      position: co-pi
+      position: copi
   title: PIRE:International consortium for probing novel superconductors with neutrons,
     muons, photons and STM
 10_toyota:
@@ -317,7 +317,7 @@
       subaward_amount: 200000.0
     - institution: northwesternu
       name: Sossina Haile
-      position: co-pi
+      position: copi
   title: 'Joint US - Africa Materials Science Institute (JUAMI)  '
 12_SIXNS:
   amount: 300000.0
@@ -336,11 +336,11 @@
       position: pi
     - institution: columbiau
       name: Simon Billinge
-      position: co-pi
+      position: copi
       subaward_amount: 100000.0
     - institution: uwashington
       name: John Rehr
-      position: co-pi
+      position: copi
   title: 'Collaborative Research: Scientific Software Innovation Institute for Advanced
     Analysis of X-Ray and Neutron Scattering Data (SIXNS)'
 12_complex_modeling_LDRD:
@@ -377,7 +377,7 @@
       position: pi
     - institution: columbiau
       name: Billinge Simon
-      position: co-pi
+      position: copi
       subaward_amount: 10000.0
   title: Study of spatial distribution of degradation products in hull wood from the
     Mary Rose
@@ -407,7 +407,7 @@
       subaward_amount: 10092792.0
     - institution: columbiau
       name: Simon Billinge
-      position: co-pi
+      position: copi
       subaward_amount: 240000.0
   title: Center for Precision Assembly of Superstratic and Superatomic Solids
 15_JUAMI-II:
@@ -427,11 +427,11 @@
       position: pi
     - institution: columbiau
       name: Simon Billinge
-      position: co-pi
+      position: copi
       subaward_amount: 16769.0
     - institution: umichigan
       name: Peter Green
-      position: co-pi
+      position: copi
   title: Joint US-Africa Materials Advanced Studies Institute
 15_NSF_DMREF_:
   amount: 1082785.0
@@ -468,13 +468,13 @@
       subaward_amount: 98000.0
     - institution: columbiau
       name: Lauren Hannah
-      position: co-pi
+      position: copi
     - institution: columbiau
       name: Andy Millis
-      position: co-pi
+      position: copi
     - institution: columbiau
       name: Qiang Du
-      position: co-pi
+      position: copi
   title: 'Advancing Materials Genomics: Quantifying Uncertainties for Nanostructure
     Determination and Optimization (QUNDO) (ROADS)'
 16_GSK_proposal:
@@ -502,11 +502,11 @@
       position: pi
     - institution: columbiau
       name: Simon Billinge
-      position: co-pi
+      position: copi
       subaward_amount: 300000.0
     - institution: usouthcarolina
       name: Brian Benicewicz
-      position: co-pi
+      position: copi
   title: 'DMREF: Collaborative Research: Designing Optimal Nanoparticle Shapes and
     Ligand Parameters for Polymer-Grafted Nanoparticle Membranes '
 17_Clearfield_DOE:
@@ -536,7 +536,7 @@
       position: pi
     - institution: ornl
       name: Matt Tucker
-      position: co-pi
+      position: copi
   title: NOMAD as a high throughput instrument for materials genomics studies
 17_fwp:
   amount: 5100000.0
@@ -563,7 +563,7 @@
       subaward_amount: 13910000.0
     - institution: columbiau
       name: Simon Billinge
-      position: co-pi
+      position: copi
       subaward_amount: 940000.0
       admin_people:
         - Ria Miranda
@@ -601,11 +601,11 @@
   team:
     - institution: columbiau
       name: Simon Billinge
-      position: co-pi
+      position: copi
       subaward_amount: 42577
     - institution: bnl
       name: scampbell
-      position: co-pi
+      position: copi
     - institution: bnl
       name: Line Pouchard
       position: pi
@@ -624,13 +624,13 @@
       subaward_amount: 878599
     - institution: coloradostateu
       name: Alex Zunger
-      position: co-pi
+      position: copi
     - institution: columbiau
       name: Qiang Du
-      position: co-pi
+      position: copi
     - institution: columbiau
       name: Jon Owen
-      position: co-pi
+      position: copi
   title: 'DMREF: Collaborative Research: Complex Nanofeatures in Crystals: Theory
     and Experiment meet in the Cloud'
 20_fwp:
@@ -646,10 +646,10 @@
       subaward_amount: 707921
     - institution: columbiau
       name: Ian Robinson
-      position: co-pi
+      position: copi
     - institution: columbiau
       name: Emil  Bozin
-      position: co-pi
+      position: copi
   title: X-ray Scattering
 20_rise:
   amount: 42577
@@ -717,7 +717,7 @@
       subaward_amount: 22000
     - institution: msu
       name: Rong Liu
-      position: co-pi
+      position: copi
   title: Electronic and structural properties of colossal magnetoresistant oxides
 95_sloan:
   amount: 30000
@@ -751,20 +751,20 @@
   team:
     - institution: msu
       name: sbillinge
-      position: co-pi
+      position: copi
       subaward_amount: 120000
     - institution: msu
       name: Mercouri Kanatzidis
-      position: co-pi
+      position: copi
     - institution: msu
       name: Michael Thorpe
-      position: co-pi
+      position: copi
     - institution: msu
       name: Thomas Pinnavaia
       position: pi
     - institution: msu
       name: Bhanu Mahanti
-      position: co-pi
+      position: copi
   title: Disordered and lower-dimensional porous materials
 96_pharos_lanl:
   amount: 536000
@@ -777,20 +777,20 @@
       position: pi
     - institution: msu
       name: sbillinge
-      position: co-pi
+      position: copi
       subaward_amount: 0
     - institution: lanl
       name: Meigan Aranson
-      position: co-pi
+      position: copi
     - institution: jhu
       name: Collin Broholm
-      position: co-pi
+      position: copi
     - institution: lanl
       name: Juergen Eckert
-      position: co-pi
+      position: copi
     - institution: upenn
       name: Takeshi Egami
-      position: co-pi
+      position: copi
   title: Wide angle capability for the high-resolution chopper spectrometer PHAROS
     at Los Alamos
 97_dmr:
@@ -819,7 +819,7 @@
       subaward_amount: 300000
     - institution: msu
       name: Michael Thorpe
-      position: co-pi
+      position: copi
   title: Local atomic structure of semiconductor alloys using pair distribution function
     analysis
 99_nist_pinnavaia:
@@ -834,7 +834,7 @@
       subaward_amount: 155030
     - institution: msu
       name: Tom Pinnavaia
-      position: co-pi
+      position: copi
   title: Neutron Scattering Studies of Structure and Dynamics in Disordered Mesoporous
     Materials
 99_nsfche_pinnavaia:
@@ -845,20 +845,20 @@
   team:
     - institution: msu
       name: sbillinge
-      position: co-pi
+      position: copi
       subaward_amount: 200000
     - institution: msu
       name: Mercouri Kanatzidis
-      position: co-pi
+      position: copi
     - institution: msu
       name: Michael Thorpe
-      position: co-pi
+      position: copi
     - institution: msu
       name: Thomas Pinnavaia
       position: pi
     - institution: msu
       name: Bhanu Mahanti
-      position: co-pi
+      position: copi
   title: Disordered inorganic nanostructures
 aurig_95:
   amount: 15000
@@ -883,7 +883,7 @@ cfmr_00:
       subaward_amount: 13000
     - institution: msu
       name: Michael Thorpe
-      position: co-pi
+      position: copi
   title: Stability and lattice dynamics of delta plutonium
 cfmr_01:
   amount: 28000
@@ -897,7 +897,7 @@ cfmr_01:
       subaward_amount: 14000
     - institution: msu
       name: Michael Thorpe
-      position: co-pi
+      position: copi
   title: Modeling molecular structure in the atomic pair distribution function
 cfmr_01_duxbury:
   amount: 20000
@@ -911,7 +911,7 @@ cfmr_01_duxbury:
       subaward_amount: 10000
     - institution: msu
       name: Phillip Duxbury
-      position: co-pi
+      position: copi
   title: 'Cluster Refinement Method for PDF Analysis:  Application to Cuprates and
     Manganites'
 cfmr_03:
@@ -926,13 +926,13 @@ cfmr_03:
       subaward_amount: 16500
     - institution: msu
       name: Mercouri Kanatzidis
-      position: co-pi
+      position: copi
     - institution: msu
       name: Banu Mahanti
-      position: co-pi
+      position: copi
     - institution: msu
       name: Stuart Tessmer
-      position: co-pi
+      position: copi
   title: Nanoscale Inhomogenieties in Novel Electronic Materials
 cfmr_95:
   amount: 20000
@@ -970,10 +970,10 @@ cfmr_96_kaplan:
       subaward_amount: 23000
     - institution: msu
       name: James Harrison
-      position: co-pi
+      position: copi
     - institution: msu
       name: Tom Kaplan
-      position: co-pi
+      position: copi
   title: Electronic and magnetic structure of transition metal oxides and related
     systems
 cfmr_96_pinnavaia:
@@ -987,17 +987,17 @@ cfmr_96_pinnavaia:
       position: pi
     - institution: msu
       name: sbillinge
-      position: co-pi
+      position: copi
       subaward_amount: 0
     - institution: msu
       name: Mercouri Kanatzidis
-      position: co-pi
+      position: copi
     - institution: msu
       name: Banu Mahanti
-      position: co-pi
+      position: copi
     - institution: msu
       name: Michael Thorpe
-      position: co-pi
+      position: copi
   title: Disordered and lower dimensional porous materials
 cfmr_97:
   amount: 13000
@@ -1011,7 +1011,7 @@ cfmr_97:
       subaward_amount: 13000
     - institution: msu
       name: Michael Thorpe
-      position: co-pi
+      position: copi
   title: Local atomic structure of semiconductor alloys using pair distribution function
     analysis
 cfmr_97_kaplan:
@@ -1026,10 +1026,10 @@ cfmr_97_kaplan:
       subaward_amount: 23000
     - institution: msu
       name: James Harrison
-      position: co-pi
+      position: copi
     - institution: msu
       name: Tom Kaplan
-      position: co-pi
+      position: copi
   title: Electronic and magnetic structure of transition metal oxides and related
     systems
 cfmr_97_pinnavaia:
@@ -1043,17 +1043,17 @@ cfmr_97_pinnavaia:
       position: pi
     - institution: msu
       name: sbillinge
-      position: co-pi
+      position: copi
       subaward_amount: 0
     - institution: msu
       name: Mercouri Kanatzidis
-      position: co-pi
+      position: copi
     - institution: msu
       name: Banu Mahanti
-      position: co-pi
+      position: copi
     - institution: msu
       name: Michael Thorpe
-      position: co-pi
+      position: copi
   title: Disordered and lower dimensional porous materials
 cfmr_98:
   amount: 13000
@@ -1067,7 +1067,7 @@ cfmr_98:
       subaward_amount: 13000
     - institution: msu
       name: Michael Thorpe
-      position: co-pi
+      position: copi
   title: 'Modelling defects in topologically connected networks: Application to perovskite
     structures'
 cfmr_98_kaplan:
@@ -1082,13 +1082,13 @@ cfmr_98_kaplan:
       subaward_amount: 13000
     - institution: msu
       name: James Harrison
-      position: co-pi
+      position: copi
     - institution: msu
       name: Tom Kaplan
-      position: co-pi
+      position: copi
     - institution: msu
       name: Bhanu Mahanti
-      position: co-pi
+      position: copi
   title: Theoretical and Experimental studies of electronic and structural properties
     of pristine and doped manganites
 cfmr_99:
@@ -1103,5 +1103,5 @@ cfmr_99:
       subaward_amount: 10000
     - institution: msu
       name: Michael Thorpe
-      position: co-pi
+      position: copi
   title: Atomic resolution of local structure in semiconductor alloys

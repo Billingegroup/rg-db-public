@@ -95,51 +95,6 @@ coder:
     - name: eshen
       position: gra
       begin_year: 2022
-    - name: sbillinge
-      position: Mentor
-      begin_year: 2021
-    - name: sskjaervoe
-      position: postdoc
-      begin_year: 2021
-    - name: jumana
-      position: ug
-      begin_year: 2021
-    - name: zthathcher
-      position: gra
-      begin_year: 2021
-      end_year: 2022
-    - name: ashaaban
-      position: ug
-      begin_year: 2021
-      end_year: 2021
-    - name: raiden
-      position: ug
-      begin_year: 2021
-      end_year: 2021
-    - name: llan
-      position: gra
-      begin_year: 2021
-    - name: eshen
-      position: gra
-      begin_year: 2022
-    - name: sbillinge
-      position: Mentor
-      begin_year: 2021
-    - name: sskjaervoe
-      position: postdoc
-      begin_year: 2021
-    - name: jumana
-      position: ug
-      begin_year: 2021
-    - name: zthathcher
-      position: gra
-      begin_year: 2021
-    - name: ashaaban
-      position: ug
-      begin_year: 2021
-    - name: raiden
-      position: ug
-      begin_year: 2021
   type: outreach
   website: ''
 diffpy:
@@ -201,8 +156,8 @@ dmref15:
       description: Discovered a novel approach to model metallic nanoparticle structures
         by building discrete models algoritmically for databases. published in Acta
         Crystallographica A.
-  name: Using data analytics to regularize the nanostructure inverse problem, an
-    NSF funded DMREF center
+  name: Using data analytics to regularize the nanostructure inverse problem, an NSF
+    funded DMREF center
   team:
     - name: sbillinge
       position: PI
@@ -355,8 +310,8 @@ efrc18:
       month: 12
       description: Columbia files a provisional patent for the MOSY concept which
         is a graph theoretic way of representing tasks accomplished by human actions.
-  name: GENESIS, a DOE funded Energy Frontier Research Center (EFRC)
-    on Next Generation Chemical Synthesis centered at Stony Brook University,
+  name: GENESIS, a DOE funded Energy Frontier Research Center (EFRC) on Next Generation
+    Chemical Synthesis centered at Stony Brook University,
   team:
     - name: sbillinge
       position: Co-PI
@@ -433,9 +388,9 @@ fwp17:
   type: funded
 matsci_colab:
   active: true
-  description: An educational project to build a one-semester accelerated course in machine
-    learning (ML) applied to STEM research problems for graduate and senior undergraduate
-    level students in physical science and engineering.
+  description: An educational project to build a one-semester accelerated course in
+    machine learning (ML) applied to STEM research problems for graduate and senior
+    undergraduate level students in physical science and engineering.
   group: bg
   highlights:
     - year: 2022
@@ -454,59 +409,10 @@ matsci_colab:
       begin_year: 2022
   type: teaching
   website: ''
-mrsec14:
-  active: false
-  description: Study of nanoparticle assemblies and superatom systems
-  grant: mrsec14
-  group: bg
-  highlights:
-    - year: 2018
-      month: 6
-      description: Published a Nature Communications paper where we characterized
-        the structure of nanoparticles arranged into a metal-organic expanded structure.
-  name: Assembly of superatoms
-  team:
-    - name: sbillinge
-      position: co-pi
-      begin_year: 2015
-      end_year: 2019
-    - name: Xavier Roy
-      position: co-pi
-      begin_year: 2014
-      end_year: 2019
-    - name: James Hone
-      position: pi
-      begin_year: 2014
-      end_year: 2019
-    - name: Collin Nuckolls
-      position: co-pi
-      begin_year: 2014
-      end_year: 2019
-    - name: Michael Steigerwald
-      position: co-pi
-      begin_year: 2014
-      end_year: 2019
-    - name: chliu
-      position: gra
-      begin_year: 2018
-      end_year: 2018
-    - name: eculbertson
-      position: gra
-      begin_year: 2017
-      end_year: 2018
-    - name: lyang
-      position: gra
-      begin_year: 2017
-      end_year: 2017
-    - name: sbanerjee
-      position: gra
-      begin_year: 2019
-      end_year: 2019
-  type: funded
 pytentiostat:
-  description: Outreach project to develop an affordable potentiostat based on
-    the arduino platform, and
-    hands-on workshops to train users in East Africa to use it.
+  description: Outreach project to develop an affordable potentiostat based on the
+    arduino platform, and hands-on workshops to train users in East Africa to use
+    it.
   logo: https://github.com/juami.png
   name: Pytentiostat
   other: []
