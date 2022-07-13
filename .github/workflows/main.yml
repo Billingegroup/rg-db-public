@@ -87,9 +87,11 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.GH_ACTIONS_PAT }}
         with:
+          token: ${{ secrets.GH_ACTIONS_PAT }}
           source_file: 'website/_build/html'
           destination_repo: 'connorjbracy/billingegroup.github.io'
           destination_branch: 'master'
           destination_folder: '/'
           user_email: 'connorjbracy@gmail.com'
           user_name: 'connorjbracy'
+          repo_level_sec: ${{ secrets.GH_ACTIONS_PAT }}
