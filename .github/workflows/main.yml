@@ -67,7 +67,6 @@ jobs:
           conda init bash
           bash /update_conda_requirements.sh
           pip install regolith/
-          pip install doctr
 
       - name: Validate rg-db-public
         run: |
