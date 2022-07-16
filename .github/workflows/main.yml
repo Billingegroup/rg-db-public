@@ -33,13 +33,6 @@ jobs:
           # checked out "nested" within this repo.
           path: rg-db-public
 
-      - name: Check out regolith repository
-        uses: actions/checkout@v3
-        with:
-          repository: regro/regolith
-          token: ${{ secrets.GH_ACTIONS_PAT }}
-          path: regolith
-
       - name: Check out website repository
         uses: actions/checkout@v3
         with:
@@ -47,12 +40,24 @@ jobs:
           token: ${{ secrets.GH_ACTIONS_PAT }}
           path: website
 
+      - name: Check out regolith repository
+        uses: actions/checkout@v3
+        with:
+          repository: regro/regolith
+          token: ${{ secrets.GH_ACTIONS_PAT }}
+          path: regolith
+
       - name: Check out rg-db-group repository
         uses: actions/checkout@v3
         with:
           repository: Billingegroup/rg-db-group
           token: ${{ secrets.GH_ACTIONS_PAT }}
           path: rg-db-group
+
+      - name: GITHUB CONTEXT
+        env:
+          GITHUB_CONTEXT: ${{ toJson(github) }}
+        run: echo "$GITHUB_CONTEXT"
 
         # Not sure why "$ pip install doctr", but this is the statement that
         # exists in the old CI script that precedes this GitHub Actions CI.
@@ -68,3 +73,24 @@ jobs:
           cd rg-db-public/local
           regolith validate
           regolith build publist --no-pdf
+
+      - name: Build Group Website
+        run: |
+          cd website
+          regolith build html
+          regolith build cv --no-pdf
+          regolith build publist --no-pdf
+
+      - name: Deploy Group Website
+        uses: connorjbracy/copy_file_to_another_repo_action@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.GH_ACTIONS_PAT }}
+        with:
+          token: ${{ secrets.GH_ACTIONS_PAT }}
+          source_file: 'website/_build/html'
+          destination_repo: 'connorjbracy/billingegroup.github.io'
+          destination_branch: 'master'
+          destination_folder: '/'
+          user_email: 'connorjbracy@gmail.com'
+          user_name: 'connorjbracy'
+          repo_level_sec: ${{ secrets.GH_ACTIONS_PAT }}
