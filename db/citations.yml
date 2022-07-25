@@ -5424,7 +5424,7 @@ hao;jmcc21:
   journal: J. Mater. Chem. C
   month: mar
   nb: fy21, typeB2
-  note: advance article
+  optnote: advance article
   number: ''
   optannote: ''
   optwwwlanl: ''
@@ -6430,10 +6430,10 @@ kjaer;n22:
   entrytype: article
   facility: ''
   grant: dmref19
-  journal: tbd
+  journal: Nature Communications
   month: tbd
   nb: article, highlight, fy22
-  note: ''
+  note: arxiv 2110.14820
   number: ''
   optannote: ''
   optwwwlanl: ''
@@ -11601,49 +11601,6 @@ wrigh;phdt;19:
   title: Towards Real Time Characterization of Grain Growth from the Melt
   type: PhD Thesis
   year: '2019'
-wustr;cm21:
-  ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
-    Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,
-    Office of Science, Basic Energy Sciences under Award Number DE-SC0019212. This
-    research used resources at beamline 28-ID-2 of the National Synchrotron Light
-    Source II, a U.S. Department of Energy (DOE) Office of Science User Facility operated
-    for the DOE Office of Science by Brookhaven National Laboratory under Contract
-    No. DE-SC0012704. Use of the Advanced Photon Source at Argonne National Laboratory
-    was supported by the U. S. Department of Energy, Office of Science, Office of
-    Basic Energy Sciences, under Contract No. DE-AC02-06CH11357. We thank Christopher
-    L. Rom for XRD plotting software (github.com/CLRom)'
-  author:
-    - Allison Wustrow
-    - Guanglong Huang
-    - Matthew J. McDermott
-    - Daniel O'Nolan
-    - Chia-Hao Liu
-    - Gia Thinh Tran
-    - Brennan C. McBride
-    - Shyam S. Dwaraknath
-    - Karena W. Chapman
-    - Simon J. L. Billinge
-    - Kristin A. Persson
-    - Katsuyo Thornton
-    - James R. Neilson
-  doi: 10.1021/acs.chemmater.1c00700
-  entrytype: article
-  facility: xpd, nslsii, aps, 11bm
-  grant: efrc18
-  journal: Chem. Mater.
-  month: mar
-  nb: ' art '
-  note: to be published
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
-  tags: synthesis, in-situ
-  title: Lowering Ternary Oxide Synthesis Temperatures by Solid State Cometathesis
-    Reactions
-  url: ''
-  volume: ''
-  year: '2021'
 wustr;jacs21:
   ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
     Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,

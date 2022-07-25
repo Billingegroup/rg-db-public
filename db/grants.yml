@@ -704,6 +704,26 @@
       position: pi
       subaward_amount: 45000
   title: Development of scanning nanostructre electron microscopy
+22_collaboratory:
+  amount: 100000
+  awardnr: n/a
+  begin_date: 2022-07-01
+  end_date: 2025-06-30
+  funder: Columbia
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 100000
+    - institution: columbiau
+      name: Sanat Kumar
+      position: copi
+      subaward_amount: 0
+    - institution: columbiau
+      name: Tian Zheng
+      position: copi
+      subaward_amount: 0
+  title: Applying Machine Learning to Valuable Data in the Physical Sciences and Engineering
 79_mrsec_seed:
   amount: 66000
   awardnr: seed-grant

@@ -88,5 +88,14 @@
     "required": false,
     "type": ["string", "integer"]}
   }
- }
+ },
+  "repos": [{"_id": "talk_repo",
+            "params": {"namespace_id": "35",
+                       "initialize_with_readme": "true"},
+            "url": "https://gitlab.thebillingegroup.com",
+            "api_route": "/api/v4/projects/",
+            "namespace_name": "talks"
+                     }
+]
+
 }
