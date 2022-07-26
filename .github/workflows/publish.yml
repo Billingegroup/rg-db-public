@@ -1,0 +1,50 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Publish Group Webiste
+
+# Setup the workflow to run whenever there is a push (e.g., throug a PR merge)
+# to the primary branch, whatever naming convention is being used.
+on:
+  push:
+    branches:
+      - master
+      - main
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  publish:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    # The custom docker container to use instead.
+    # I believe "runs-on: ubuntu-latest" is either required as a fallback or it
+    # is the container that then installs docker, downloads the doceker image,
+    # and runs an instance of that image to execute the commands below. Either
+    # way, both statements seem to be required.
+    container: connorjbracy/rg-db-group-ci:0.2.1
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # The type of runner that the job will run on
+      - name: Ensure validation
+        uses: connorjbracy/rg-db-public@main
+        #secrets:
+        #  token: ${{ secrets.GH_ACTIONS_PAT }}
+
+      - name: Build Group Website
+        run: |
+          cd website
+          regolith build html
+          regolith build cv --no-pdf
+          regolith build publist --no-pdf
+
+      - name: Deploy Group Website
+        uses: connorjbracy/copy_file_to_another_repo_action@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.GH_ACTIONS_PAT }}
+        with:
+          source_file: 'website/_build/html/*'
+          destination_repo: 'Billingegroup/billingegroup.github.io'
+          destination_branch: 'master'
+          user_email: 'simon.billinge@gmail.com'
+          user_name: 'sbillinge'

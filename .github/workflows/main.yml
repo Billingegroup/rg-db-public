@@ -33,12 +33,12 @@ jobs:
           # checked out "nested" within this repo.
           path: rg-db-public
 
-      - name: Check out rg-db-group repository
+      - name: Check out website repository
         uses: actions/checkout@v3
         with:
-          repository: Billingegroup/rg-db-group
+          repository: Billingegroup/website
           token: ${{ secrets.GH_ACTIONS_PAT }}
-          path: rg-db-group
+          path: website
 
       - name: Check out regolith repository
         uses: actions/checkout@v3
@@ -47,12 +47,17 @@ jobs:
           token: ${{ secrets.GH_ACTIONS_PAT }}
           path: regolith
 
-      - name: Check out website repository
+      - name: Check out rg-db-group repository
         uses: actions/checkout@v3
         with:
-          repository: Billingegroup/website
+          repository: Billingegroup/rg-db-group
           token: ${{ secrets.GH_ACTIONS_PAT }}
-          path: website
+          path: rg-db-group
+
+      - name: GITHUB CONTEXT
+        env:
+          GITHUB_CONTEXT: ${{ toJson(github) }}
+        run: echo "$GITHUB_CONTEXT"
 
         # Not sure why "$ pip install doctr", but this is the statement that
         # exists in the old CI script that precedes this GitHub Actions CI.
@@ -62,7 +67,6 @@ jobs:
           conda init bash
           bash /update_conda_requirements.sh
           pip install regolith/
-          pip install doctr
 
       - name: Validate rg-db-public
         run: |
@@ -82,9 +86,11 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.GH_ACTIONS_PAT }}
         with:
+          token: ${{ secrets.GH_ACTIONS_PAT }}
           source_file: 'website/_build/html'
-          destination_repo: 'Billingegroup/billingegroup.github.io'
+          destination_repo: 'connorjbracy/billingegroup.github.io'
           destination_branch: 'master'
           destination_folder: '/'
-          user_email: 'simon.billinge@gmail.com'
-          user_name: 'sbillinge'
+          user_email: 'connorjbracy@gmail.com'
+          user_name: 'connorjbracy'
+          repo_level_sec: ${{ secrets.GH_ACTIONS_PAT }}
