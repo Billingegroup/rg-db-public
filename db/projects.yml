@@ -56,45 +56,8 @@ coder:
         group meeting, and also lead other social efforts in the group such as group
         movie nights and a stress-reducing intentional breathing segment during group
         meeting every week.
-    - year: 2020
-      month: 6
-      description: Established in the group CODER, the committee on diversity and
-        equity in research.  The committee currently has a mission to increase inclusivity
-        in the research group with a longer term goal of increasing the racial, ethnic
-        and gender diversity of the group.  Committee members present a discussion
-        segment on these issues to be had by the whole group every two weeks during
-        group meeting, and also lead other social efforts in the group such as group
-        movie nights and a stress-reducing intentional breathing segment during group
-        meeting every week.
   name: Committee on diversity and equity in research (CODER)
   team:
-    - name: sbillinge
-      position: Mentor
-      begin_year: 2021
-    - name: sskjaervoe
-      position: postdoc
-      begin_year: 2021
-    - name: jumana
-      position: ug
-      begin_year: 2021
-    - name: zthathcher
-      position: gra
-      begin_year: 2021
-      end_year: 2022
-    - name: ashaaban
-      position: ug
-      begin_year: 2021
-      end_year: 2021
-    - name: raiden
-      position: ug
-      begin_year: 2021
-      end_year: 2021
-    - name: llan
-      position: gra
-      begin_year: 2021
-    - name: eshen
-      position: gra
-      begin_year: 2022
     - name: sbillinge
       position: Mentor
       begin_year: 2021
@@ -525,18 +488,6 @@ pytentiostat:
   other: []
   repo: https://github.com/juami/pytentiostat
   team:
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-    - name: mspence
-      position: developer
-      begin_year: 2019
-    - name: jhitt
-      position: developer
-      begin_year: 2019
-    - name: aplymill
-      position: lead developer
-      begin_year: 2019
     - name: sbillinge
       position: mentor
       begin_year: 2016

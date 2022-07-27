@@ -1684,7 +1684,7 @@ parisdiderotu:
   updated: 2020-03-17 01:38:43.870461
   uuid: 5f75c5c6-785a-4632-b527-279452858655
   year: 2020
-paulscherrerinstitute:
+paulscherreri:
   aka:
     - psi
     - PSI
@@ -1694,6 +1694,8 @@ paulscherrerinstitute:
   departments:
     muons:
       name: Laboratory for Muon Spin Spectroscopy
+    cmp:
+      name: Condensed Matter Physics Department
   month: 2
   name: Paul Scherrer Institute
   updated: 2020-02-14 19:29:10.702242
