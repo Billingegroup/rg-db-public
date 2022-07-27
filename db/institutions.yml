@@ -1,3 +1,15 @@
+3m:
+  aka:
+    - mmm
+    - MMM
+  city: St. Paul
+  country: USA
+  date: 2022-07-01
+  name: 3M
+  state: MN
+  updated: 2022-07-01 03:11:09.484958
+  uuid: 8898deba-b180-43ef-84e3-54f9b4be2b59
+  zip: '55144'
 aarhusu:
   aka:
     - U Aarhus
@@ -1068,6 +1080,17 @@ iocbari:
   city: Bari
   country: Italy
   name: Istituto Di Cristallografia
+iowastateu:
+  aka:
+    - ISU
+  city: Ames
+  country: USA
+  date: 2022-07-01
+  name: Iowa State University
+  state: IA
+  updated: 2022-07-01 03:07:01.971634
+  uuid: 12f70064-0060-4f00-90c3-8f1eeb7ec04e
+  zip: '50011'
 iucr:
   aka:
     - IUCR
@@ -1089,6 +1112,27 @@ jaea:
   updated: 2020-02-14 19:14:05.971352
   uuid: e1772b7b-a4ee-43ff-96bf-d723b673b6e2
   year: 2020
+jhu:
+  aka:
+    - JHU
+  city: Baltimore
+  country: USA
+  date: 2022-07-01
+  departments:
+    matsci:
+      name: Materials Science and Engineering
+  name: Johns Hopkins University
+  state: MD
+  updated: 2022-07-01 02:58:00.359991
+  uuid: 73235b12-0817-42b4-9f64-224d46000b2d
+  zip: '21218'
+jinr:
+  city: Moscow
+  country: Russia
+  date: 2022-07-01
+  name: Joint Institute for Nuclear Research
+  updated: 2022-07-01 03:03:41.290384
+  uuid: b58262f5-a707-4e8d-9bab-3e74537334c5
 johnshopkinsu:
   city: Baltimore
   country: USA
@@ -1305,6 +1349,16 @@ monashu:
   city: Clayton
   country: Australia
   name: Monash University
+moscowstateu:
+  city: Moscow
+  country: Russia
+  date: 2022-07-01
+  departments:
+    chemistry:
+      name: Department of Chemistry
+  name: Moscow State University
+  updated: 2022-07-01 03:05:47.481837
+  uuid: 6fec2f5f-093a-4722-92f9-a0c4ad81eb90
 mpi:
   aka:
     - Max Planck
@@ -1801,11 +1855,16 @@ psi:
     - PSI
     - Paul Scherrer Institute
     - Paul Scherrer Institute, Switzerland
-  city: Villigen
-  country: Switzerland
+    - JHU
+  city: Baltimore
+  country: USA
+  departments:
+    matsci:
+      name: Materials Science and Engineering
   name: Paul Scherrer Institute
-  state: ''
-  zip: ''
+  state: MD
+  updated: 2022-07-01 02:58:39.348744
+  zip: '21218'
 puneu:
   aka:
     - University of Pune
@@ -2711,6 +2770,17 @@ uminnesota:
   name: University of Minnesota
   state: MN
   zip: '55455'
+umissouri:
+  aka:
+    - Mizzou
+  city: Columbia
+  country: USA
+  date: 2022-07-01
+  name: University of Missouri
+  state: MO
+  updated: 2022-07-01 03:08:26.844519
+  uuid: 83d9d5fc-871e-4b6c-abcc-27cba105b827
+  zip: '65211'
 umodena:
   city: Modena
   country: Italy
@@ -2954,7 +3024,7 @@ urome:
   departments:
     physics:
       name: Department of Physcis
-  name: University of Rome, 'La Sapienza'
+  name: University of Rome, `La Sapienza'
   state: ''
   street: Piazzale Aldo Moro 5
   zip: '00185'
@@ -2991,6 +3061,17 @@ usheffield:
     matsci:
       name: Department of Materials Science and Engineering
   name: University of Sheffield
+usouthcarolina:
+  aka:
+    - USC
+  city: Columbia
+  country: USA
+  date: 2022-07-01
+  name: University of South Carolina
+  state: SC
+  updated: 2022-07-01 03:13:45.237211
+  uuid: a8c7a966-b8fd-4784-9698-ea1af041854e
+  zip: '29208'
 utennessee:
   aka:
     - ut

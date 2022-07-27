@@ -243,6 +243,58 @@ anker;hdcc20:
   wwwemail: ''
   wwwpub: ''
   year: '2020'
+anker;unpub22:
+  ackno: This work is part of a project that has received funding from the European
+    Research Council (ERC) under the European Union's Horizon 2020 Research and Innovation
+    Programme (grant agreement No. 804066). We are grateful to the Villum Foundation
+    for financial support through a Villum Young Investigator grant. We furthermore
+    thank DANSCATT (supported by the Danish Agency for Science and Higher Education)
+    for support. A. S. A and M. J. acknowledge the Siemens Foundation for support
+    for their thesis projects. S. J. L. B. was supported by was supported by the U.S.
+    National Science Foundation through grant DMREF-1922234. We acknowledge DESY (Hamburg,
+    Germany), a member of the Helmholtz Association HGF, for the provision of experimental
+    facilities. Parts of this research were carried out at beamline P02.1 and P07
+    at Petra III and we would like to thank Martin Etter, Jozef Bednarcik and Ann-Christin
+    Dippel for assistance in using the beamlines. We acknowledge SOLEIL for provision
+    of synchrotron radiation facilities and we would like to thank Thomas Bizien for
+    assistance in using beamline SWING. This research used resources of the Advanced
+    Photon Source, a US Department of Energy (DOE) Office of Science User Facility
+    operated for the DOE Office of Science by Argonne National Laboratory under contract
+    No. DE-AC02-06CH11357. We acknowledge MAX IV Laboratory for time on Beamline DanMAX
+    under Proposal 20200731. Research conducted at MAX IV is supported by the Swedish
+    Research council under contract 2018-07152, the Swedish Governmental Agency
+  author:
+    - Andy S. Anker
+    - Emil T. S. Kjær
+    - Mikkel Juelsholt
+    - Troels Lindahl Christiansen
+    - Susanne Linn Skjærvø
+    - Mads Ry Vogel Jørgensen
+    - Innokenty Kantor
+    - Daniel Risskov Sørensen
+    - Simon J. L. Billinge
+    - Raghavendra Selvan
+    - Kirsten M. Ø. Jensen
+  doi: ''
+  entrytype: article
+  facility: maxiv, danmax, desy, petraiii, p02.1, p07, soleil, swing, aps
+  grant: dmref19
+  journal: tbd
+  month: tbd
+  nb: ''
+  note: ChemRxiv
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  tags: ml, structure_solution, modeling
+  title: Extracting Structural Motifs from Pair Distribution Function Data of Nanostructures
+    using Interpretable Machine Learning
+  url: https://chemrxiv.org/engage/chemrxiv/article-details/6263f48f5b900913a0195c4f
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2022'
 antic;jpcm13:
   author:
     - Antic, B.
@@ -717,10 +769,10 @@ benne;cm22:
   month: jan
   nb: ' art '
   note: ''
-  number: ''
+  number: '2'
   optannote: ''
   optwwwlanl: ''
-  pages: ''
+  pages: 706–717
   synopsis: ZnS is an important quantum dot material that is used as a passivating
     layer on photoluminescent quantum dots of other materials such as CdSe and InP.
     In this paper, a novel synthesis method is described to obtain colloidal ZnS NPs
@@ -731,8 +783,8 @@ benne;cm22:
   tags: quantum_dot, zns, nanoparticle, semiconductor
   title: Size dependent optical properties and structure of ZnS nanocrystals prepared
     from a library of thioureas
-  url: ''
-  volume: ''
+  url: 10.1021/acs.chemmater.1c03432
+  volume: '34'
   year: '2022'
 berto;acsn17:
   author:
@@ -4361,6 +4413,48 @@ frand;aca15:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/frand_aca15.pdf
   year: '2015'
+frand;jac22:
+  ackno: 'We thank Caleb Dame for valuable contributions to the interactive magnetic
+    structure builder. Work by B.A.F. and P.H. was supported by the U.S. Department
+    of Energy, Office of Science, Office of Basic Energy Science through Award No.
+    DE-SC0021134. J.A.C. and E.S. acknowledge IUCr macros version 2.1.10: 2016/01/2813
+    support from the College of Physical and Mathematical Sciences at Brigham Young
+    University. S.J.L.B  was supported by U.S. Department of Energy, Office of Science,
+    Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0012704. This
+    study used resources at the Spallation Neutron Source (SNS), a DOE Office of Science
+    User Facility operated by the Oak Ridge National Laboratory.'
+  author:
+    - Benjamin A. Frandsen
+    - Parker K. Hamilton
+    - Jacob A. Christensen
+    - Eric Stubbena
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: sns, nomad
+  grant: fwp20
+  journal: J. Appl. Crystallography
+  month: tbd
+  nb: ' art '
+  note: submitted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  professional_summary: We introduce the open-source software package diffpy.mpdf
+    for magnetic pair distribution function analysis.  Written in python and part
+    of the DiffPy suite for diffraction and pair distribution function analysis, this
+    package allows users to build magnetic structures, calculate one- and three-dimensional
+    magnetic pair distribution function patterns, and perform fits to magnetic pair
+    distribution function data.
+  synopsis: the open-source software package diffpy.mpdf for magnetic pair distribution
+    function analysis is described
+  tags: mpdf, software, magnetism
+  title: 'DIFFPY.MPDF: Open-source software for magnetic pair distribution function
+    analysis'
+  url: ''
+  volume: ''
+  year: '2022'
 frand;nc14:
   author:
     - Frandsen, Benjamin A.
@@ -5372,15 +5466,15 @@ hao;jmcc21:
   journal: J. Mater. Chem. C
   month: mar
   nb: fy21, typeB2
-  note: advance article
   number: ''
   optannote: ''
+  optnote: advance article
   optwwwlanl: ''
-  pages: ''
+  pages: 5267-5276
   title: Ferroelectric State and Polarization Switching Behaviour of Ultrafine {BaTiO$_3$}
     Nanoparticles with Large-Scale Size Uniformity
-  url: ''
-  volume: ''
+  url: http://doi.org/10.1039/d0tc05975g
+  volume: '9'
   wwwemail: ''
   wwwpub: ''
   year: '2021'
@@ -5398,14 +5492,14 @@ harou;arxiv22:
   entrytype: article
   facility: xpd, nslsii
   grant: fwp20
-  journal: arxiv
+  journal: IUCr J
   month: jan
   nb: ''
-  note: arXiv:2201.03440  [cond-mat.mtrl-sci]
+  note: to be published
   number: ''
   optannote: ''
   optwwwlanl: ''
-  pages: '2201.03440'
+  pages: ''
   synopsis: A procedure is demonstrated for obtaining the orientational distribution
     function (ODL) and real space pole figures from 3D PDF data from a textured sample.  Historically,
     it has not been possible to study using PDF samples with preferred orientation
@@ -5414,7 +5508,7 @@ harou;arxiv22:
   tags: texture, txPDF, 3dpdf
   title: Real space texture and pole figure analysis using the three-dimensional pair
     distribution function on a platinum thin film
-  url: ''
+  url: https://arxiv.org/abs/2201.03440
   volume: ''
   wwwemail: ''
   wwwpub: ''
@@ -5817,7 +5911,7 @@ jense;m21:
     - Marco Di Michiel
     - Eleanor J. Schofield
     - Simon J. L. Billinge
-    - Serena A. Curran
+    - Serena A. Cussen
   doi: 10.1016/j.matt.2021.09.026
   entrytype: article
   facility: esrf, id15
@@ -6313,6 +6407,52 @@ kim;prl06:
   wwwlanl: http://arXiv.org/abs/cond-mat/0602361
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/kim-prl06.pdf
   year: '2006'
+kjaer;cm22:
+  ackno: This work is part of a project that has received funding from the European
+    Research Council (ERC) under the European Union's Horizon 2020 Research and Innovation
+    Programme (grant agreement No. 804066). We are grateful to the Villum Foundation
+    for financial support through a Villum Young Investigator grant (VKR00015416).
+    Funding from the Danish Ministry of Higher Education and Science through the SMART
+    Lighthouse is gratefully acknowledged. We furthermore thank DANSCATT (supported
+    by the Danish Agency for Science and Higher Education) for support. We acknowledge
+    DESY (Hamburg, Germany), a member of the Helmholtz Association HGF, for the provision
+    of experimental facilities. Parts of this research were carried out at beamline
+    P02.1 at PetraIII and we would like to thank Martin Etter for assistance in using
+    the beamline. S. J. L. B. was supported by the U.S. National Science Foundation
+    through grant DMREF-1922234.
+  author:
+    - Emil T. S. Kjær
+    - Olivia Aalling-Frederiksen
+    - Long Yang
+    - Nancy K. Thomas
+    - Mikkel Juelsholt
+    - Simon J. L. Billinge
+    - Kirsten M. Ø. Jensen
+  doi: ''
+  entrytype: article
+  facility: desy, petraiii, p02.1
+  grant: dmref19
+  journal: Chemistry Methods
+  month: tbd
+  nb: ''
+  note: To be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  professional_summary: Tungsten and Niobium nanoparticle formation is studied using
+    in situ total scattering and PDF analysis.
+  synopsis: The use of Pearson correlation analysis is demonstrated on volumes of
+    data from chemical synthesis.
+  tags: ml, pearson, data_analysis
+  title: 'In situ studies of the formation of tungsten and niobium oxide nanoparticles:
+    Towards automated analysis of reaction pathways from PDF analysis using the Pearson
+    correlation coefficient'
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2022'
 kjaer;n22:
   ackno: This work is part of a project that has received funding from the European
     Research Council (ERC) under the European Union's Horizon 2020 Research and Innovation
@@ -6332,10 +6472,10 @@ kjaer;n22:
   entrytype: article
   facility: ''
   grant: dmref19
-  journal: tbd
+  journal: Nature Communications
   month: tbd
   nb: article, highlight, fy22
-  note: ''
+  note: arxiv 2110.14820
   number: ''
   optannote: ''
   optwwwlanl: ''
@@ -7968,16 +8108,16 @@ nakam;jmca21:
   journal: J. Mater. Chem. A
   month: mar
   nb: typeB2, fy21
-  note: To be published
   number: ''
   optannote: ''
+  optnote: To be published
   optwwwlanl: ''
-  pages: ''
+  pages: 8425-8434
   tags: thin_film, microwave
   title: Linking Far-from-Equilibrium Defect Structures in Ceramics to Electromagnetic
     Driving Forces
-  url: ''
-  volume: ''
+  url: https://doi.org/10.1039/D1TA00486G
+  volume: '9'
   wwwemail: ''
   wwwpub: ''
   year: '2021'
@@ -9145,6 +9285,38 @@ qiu;prl05:
   wwwlanl: http://arXiv.org/abs/cond-mat/0408304
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/05qiu_prl.pdf
   year: '2005'
+rakit;arxiv21:
+  ackno: ''
+  author:
+    - Yevgeny Rakita
+    - James L. Hart
+    - Partha Pratim Das
+    - Daniel L. Foley
+    - Stavros Nicolopoulos
+    - Sina Shahrezaei
+    - Suveen Nigel Mathaudhu
+    - Mitra L. Taheri
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: efrc18
+  journal: arxiv
+  month: Oct
+  nb: ''
+  number: ''
+  optannote: ''
+  optnote: Submitted
+  optwwwlanl: ''
+  pages: ''
+  tags: snem, epdf, bmg
+  title: Studying Heterogeneities in Local Nanostructure with Scanning Nanostructure
+    Electron Microscopy (SNEM)
+  url: https://arxiv.org/abs/2110.03589
+  volume: '2110.03589'
+  wwwemail: ''
+  wwwpub: ''
+  year: '2022'
 rakit;jacs20:
   ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
     Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,
@@ -9271,6 +9443,51 @@ redmo;ecssl12:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/redmoessl12.pdf
   year: '2012'
+rijck;unpub22:
+  ackno: This work was financially supported by the European Union Horizon 2020 Marie
+    Curie Actions under the project SynFoNY (H2020/2016-722071). H. R. acknowledges
+    support and funding as postdoctoral fellow fundamental research of the Research
+    Foundation - Flanders (FWO) under grant number 1273621N. P.P. and H.H. wish to
+    thank the Jenny and Antti Wihuri Foundation for financial support. PDF analysis
+    in the S.J.L.B group was supported by the U.S. National Science Foundation through
+    grant DMREF-1922234.  X-ray PDF measurements were conducted on beamline 28-ID-2
+    of the National Synchrotron Light Source II, a U.S. Department of Energy (DOE)
+    Office of Science User Facility operated for the DOE Office of Science by Brookhaven
+    National Laboratory under Contract No. DE-SC0012704.
+  author:
+    - H. Rijckaert
+    - M. Malmivirta
+    - N. Gauquelin
+    - S. Banerjee
+    - S. J. L. Billinge
+    - H. Huhtinen
+    - S. Bals
+    - P. Paturi
+    - K. De Buysser
+    - I. Van Driessche
+  doi: ''
+  entrytype: article
+  facility: nslsii, xpd
+  grant: dmref19
+  journal: Superconductor Science and Technology.
+  month: jun
+  nb: ' art '
+  note: to be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  professional_summary: Nanoparticles embedded in superconducting films can pin vortices
+    and increase the upper critical field in applications.  Here different synthesis
+    methods for making hafnia nanoparticles are explored. Solvent and ligand controlled
+    approaches result in nanoparticles with different morphologies which were characterized
+    by PDF and 2D NMR.
+  tags: hafnia, superconductor, hts, nanoparticle
+  title: 'Superconducting {HfO$_2$}-added {YBa$_2$Cu$_3$O$_7$} Nanocomposite Films:
+    The Effect of Nanocrystal Morphology on Pinning Mechanism'
+  url: ''
+  volume: ''
+  year: '2022'
 rijcka;mdpim18:
   ackno: X-ray PDF measurements were conducted on beamline 28-ID-2 of the National
     Synchrotron Light Source II, a U.S. Department of Energy (DOE) Office of Science
@@ -10028,6 +10245,102 @@ skjae;prx19:
   wwwemail: ''
   wwwpub: ''
   year: '2019'
+skjaervoeGlazerTiltFittingArXiv22:
+  ackno: We acknowledge Daniel E. DeRosha and Jonathan Owen for help in preparing
+    the CaTiO3 sample, and Milinda Abeykoon and Gihan Kwon for help with collecting
+    data at the 28-ID-1 (PDF) beamline at the NSLS-II. This work was supported by
+    the U.S. National Science Foundation through grant DMREF-1922234. M.A.K. acknowledges
+    support from the Carlsberg Foundation (grant no. CF17-0823).  Use of the National
+    Synchrotron Light Source II, Brookhaven National Laboratory, was supported by
+    the US Department of Energy, Office of Science, Office of Basic Energy Sciences,
+    under Contract No. DE-SC0012704.
+  author:
+    - Sandra H. Skjaervoe
+    - Martin A. Karlsen
+    - Riccardo Comin
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: xpd, nslsii
+  grant: dmref19
+  journal: IUCr J
+  month: Feb
+  nb: ''
+  note: to be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  professional_summary: Structural modelling of octahedral tilts in perovskites is
+    typically done using the symmetry constraints of the resulting space group. In
+    most cases, this introduces more degrees of freedom than those strictly necessary
+    to describe only the octahedral tilts. It can therefore be a challenge to disentangle
+    the octahedral tilts from other structural distortions such as cation displacements
+    and octahedral distortions. This paper reports on the development of constraints
+    for modelling pure octahedral tilts and implemented the constraints in diffpy-CMI,
+    a powerful package to analyse pair distribution function (PDF) data. The program
+    allows features in the PDF that come from rigid tilts to be separated from non-rigid
+    relaxations, provides an intuitive picture of the tilting, and as it has many
+    fewer refinable variables than the unconstrained space-group fits, provides robust
+    and stable refinements of the tilt components. It further demonstrates the use
+    of the model on the canonical tilted perovskite CaTiO3 which has a known Glazer
+    tilt system a+ b- b-. The Glazer model fits comparably to the corresponding space
+    group model Pnma below r = 14A and becomes progressively worse than the space
+    group model at higher r due to non-rigid distortions in the real material.
+  synopsis: A model is developed for refining rigid octahedral distortions in perovskites
+    and is used to model pair distribution function data of a CaTiO3.
+  tags: perovskites, glazer, octahedral_tilt, diffpy-CMI
+  title: Refining perovskite structures to pair distribution function data using collective
+    Glazer modes as a basis
+  url: http://arxiv.org/abs/2203.00127
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2022'
+slavn;jacs22:
+  author:
+    - Adam H. Slavney
+    - Hong Ki Kim
+    - Songsheng Tao
+    - Mengtan Liu
+    - Simon J. L. Billinge
+    - Jarad A. Mason
+  doi: 10.1021/jacs.2c02918
+  entrytype: article
+  facility: xpd, nslsii
+  grant: fwp20
+  journal: J. American Chemical Society
+  month: Feb
+  number: '25'
+  optnote: to be published
+  pages: 11064–11068
+  professional_summary: Glassy phases of framework materials feature unique and tunable
+    properties that are advantageous for gas separation membranes, solid electrolytes,
+    and phase-change memory applications. However, the structural and chemical diversity
+    of porous frameworks that can be liquified and quenched into a glass has been
+    limited by thermal decomposition at—or below—the high temperatures required to
+    induce a melting transition. Utilizing a desymmetrization strategy, we report
+    a new guanidinium organosulfonate hydrogen-bonded organic framework (HOF) that
+    melts and vitrifies below 100 C. In this low-temperature regime, non-covalent
+    interactions between guest molecules and the porous framework become a dominant
+    contributor to the overall stability of the structure, resulting in unusual phase
+    behavior such as guestdependent melting, glass, and recrystallization transitions.
+    Through molecular dynamics simulations and pair distribution function analysis,
+    we show that the local structure of the amorphous liquid and glass phase resembles
+    that of the parent crystalline framework. Access to molten phases of framework
+    materials at moderate temperatures should permit the use of more thermally sensitive
+    functional groups and enhance the structural control and tunability that can be
+    realized in network-forming glasses.
+  synopsis: A novel guanidinium organosulfonate hydrogen-bonded organic framework
+    (HOF) is reported that melts and vitrifies below 100 °C, a very low temperature
+    for a network system.  The survival of the local structural arrangements was established
+    using PDF and MD combined.
+  tags: mof, hof, liquid, structured_liquid, holey_liquid
+  title: Liquid and Glass Phases of Alkylguanidinium Sulfonate Hydrogen-Bonded Organic
+    Framework
+  url: https://doi.org/10.1021/jacs.2c02918
+  volume: '144'
+  year: '2022'
 sochn;jpcs12:
   author:
     - Sochnikov, I
@@ -10125,11 +10438,11 @@ stach;m21:
   journal: Matter
   month: July
   nb: fy21, typeB
-  number: ''
+  number: '9'
   optannote: ''
   optnote: to be published
   optwwwlanl: ''
-  pages: ''
+  pages: 2702-2726
   synopsis: a community driven overview perspective of autonomous experimentation
     in the field of materials science and materials development.  The concepts are
     described as well as some of the methods including ML methods for autonomation.
@@ -10137,7 +10450,7 @@ stach;m21:
   title: 'Autonomous experimentation systems for materials development: A community
     perspective'
   url: https://www.cell.com/matter/fulltext/S2590-2385(21)00306-4
-  volume: ''
+  volume: '4'
   wwwemail: ''
   wwwpub: ''
   year: '2021'
@@ -10222,13 +10535,13 @@ terba;cec22:
   facility: desy, petraIII, p02.1
   grant: fwp20
   journal: crystEngComm
-  month: tbd
+  month: feb
   nb: ' art '
-  note: to be published
   number: ''
   optannote: ''
+  optnote: to be published
   optwwwlanl: ''
-  pages: ''
+  pages: 2305-2313
   synopsis: Desolvation, the removal of solvent molecules from a substrate, is of
     great importance in drug development and production, food processing, organic
     synthesis and beyond.  This paper shows how grinding the substrate in the presence
@@ -10237,8 +10550,8 @@ terba;cec22:
     interactions is revealed.
   tags: orgranic, drug, food, raman, pharma
   title: Controlling desolvation through polymer-assisted grinding
-  url: ''
-  volume: ''
+  url: https://pubs.rsc.org./en/content/articlehtml/2022/ce/d2ce00162d
+  volume: '24'
   year: '2022'
 terba;cgd15:
   author:
@@ -11343,7 +11656,7 @@ wrigh;phdt;19:
   title: Towards Real Time Characterization of Grain Growth from the Melt
   type: PhD Thesis
   year: '2019'
-wustr;cm21:
+wustr;jacs21:
   ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
     Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,
     Office of Science, Basic Energy Sciences under Award Number DE-SC0019212. This
@@ -11372,19 +11685,19 @@ wustr;cm21:
   entrytype: article
   facility: xpd, nslsii, aps, 11bm
   grant: efrc18
-  journal: Chem. Mater.
-  month: mar
+  journal: J. Amer. Chem. Soc.
+  month: tbd
   nb: ' art '
-  note: to be published
-  number: ''
+  number: '10'
   optannote: ''
+  optnote: submitted
   optwwwlanl: ''
-  pages: ''
+  pages: 3692–3701
   tags: synthesis, in-situ
   title: Lowering Ternary Oxide Synthesis Temperatures by Solid State Cometathesis
     Reactions
-  url: ''
-  volume: ''
+  url: https://doi.org/10.1021/acs.chemmater.1c00700
+  volume: '33'
   year: '2021'
 wustr;jacs22:
   ackno: ''
@@ -11403,22 +11716,22 @@ wustr;jacs22:
     - Wenhao Sun
     - Kristin A. Persson
     - James R. Neilson
-  doi: ''
+  doi: 10.1021/acs.chemmater.2c00636
   entrytype: article
   facility: tbd
   grant: efrc18
   journal: Chemistry of Materials
   month: may
   nb: ' art '
-  note: to be published
-  number: ''
+  number: '10'
   optannote: ''
+  optnote: to be published
   optwwwlanl: ''
-  pages: ''
+  pages: 4694–4702
   tags: synthesis, in-situ
   title: 'Reaction Selectivity in Cometathesis:  Yttrium Manganese Oxides'
-  url: ''
-  volume: ''
+  url: https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c00636?casa_token=d-FUDTMAW-sAAAAA%3AbaGIEHKvio8OkNgAexssDuXVNkDPLadAWDVb8aldnsh7tiNvgO-GWA9X9r8bT5cUlTHIP2YUgjODjzzo
+  volume: '34'
   year: '2022'
 xiao;afm19:
   author:
@@ -11536,6 +11849,55 @@ xie;am22:
   title: Hidden Local Symmetry Breaking in Silver Diamondoid Compounds is Root Cause
     of Ultralow Thermal Conductivity
   url: ''
+  volume: ''
+  year: '2022'
+xie;unpub22:
+  ackno: This work was primarily supported by a grant from the U.S. Department of
+    Energy, Office of Science, and Office of Basic Energy Sciences under Award Number
+    DE-SC0014520. Work at Brookhaven National Laboratory was supported by U.S. Department
+    of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
+    Contract No. DE-SC0012704. The X-ray PDF measurements were conducted in part on
+    beamline 28-ID-1 of the National Synchrotron Light Source II, a U.S. Department
+    of Energy (DOE) Office of Science User Facility operated for the DOE Office of
+    Science by Brookhaven National Laboratory under Contract No. DE-SC0012704.
+  author:
+    - Hongyao Xie
+    - Emil S. Bozin
+    - Zhi Li
+    - Milinda Abeykoon
+    - Soham Banerjee
+    - James P. Male
+    - G. Jeffrey Snyder
+    - Christopher Wolverton
+    - Simon J. L. Billinge
+    - Mercouri G. Kanatzidis
+  doi: 10.1002/adma.202202255
+  entrytype: article
+  facility: ' pdf, nslsii'
+  grant: fwp20
+  journal: Advanced Materials
+  month: jun
+  nb: ' art '
+  note: to be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  professional_summary: Typically, conventional structure transitions occur from a
+    low symmetric state to a higher symmetry state upon warming. This paper reports
+    the discovery of this "emphanitic" phenomenon in the diamondoid compound AgGaTe2.  The
+    phenomenon has previously been seen only in Pb and Sn containing compounds where
+    the lone-pair on the metal ion plays an important role.  Here there is no lone-pair.  DFT
+    calculations indicates that it is a  weak sd3 orbital hybridization of the tetrahedral
+    Ag atoms that leads to a  distortion of the crystal structure. It also results
+    in a strong acoustic–optical phonon scattering which can explain the ultralow
+    thermal conductivity in AgGaTe2 and its promising thermoelectric properties.
+  synopsis: emphanisis is found in a non lone-pair diamondoid compound AgGaTe2 which
+    has very low thermal conductivity.
+  tags: thermoelectric, emphanisis,
+  title: Hidden Local Symmetry Breaking in Silver Diamondoid Compounds is Root Cause
+    of Ultralow Thermal Conductivity
+  url: https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202202255
   volume: ''
   year: '2022'
 xu;b;ainips18:
@@ -11759,11 +12121,11 @@ yang;nc21:
   optannote: ''
   optnote: advanced online publication
   optwwwlanl: ''
-  pages: ''
+  pages: 607–613
   tags: superatoms
   title: Superatomic Solid Solutions
   url: https://doi.org/10.1038/s41557-021-00680-8
-  volume: ''
+  volume: '13'
   year: '2021'
 yang;pccp13:
   author:
@@ -12159,49 +12521,6 @@ zhao;prl21:
   url: http://arxiv.org/abs/2106.05231
   volume: ''
   year: '2021'
-frand;jac22:
-  ackno: 'We thank Caleb Dame for valuable contributions to the interactive
-    magnetic structure builder. Work by B.A.F. and P.H. was supported by the
-    U.S. Department of Energy, Office of Science, Office of Basic Energy
-    Science through Award No. DE-SC0021134. J.A.C. and E.S. acknowledge IUCr
-    macros version 2.1.10: 2016/01/2813 support from the College of Physical
-    and Mathematical Sciences at Brigham Young University. S.J.L.B  was
-    supported by U.S. Department of Energy, Office of Science, Office of
-    Basic Energy Sciences (DOE-BES) under contract No. DE-SC0012704.
-    This study used resources at the Spallation Neutron Source (SNS), a DOE
-    Office of Science User Facility operated by the Oak Ridge National Laboratory.'
-  author:
-    - Benjamin A. Frandsen
-    - Parker K. Hamilton
-    - Jacob A. Christensen
-    - Eric Stubbena
-    - Simon J. L. Billinge
-  doi: ''
-  entrytype: article
-  facility: sns, nomad
-  grant: fwp20
-  journal: J. Appl. Crystallography
-  month: tbd
-  nb: ' art '
-  note: submitted
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
-  professional_summary: We introduce the open-source software package
-    diffpy.mpdf for magnetic pair distribution function analysis.  Written in
-    python and part of the DiffPy suite for diffraction and pair distribution
-    function analysis, this package allows users to build magnetic structures,
-    calculate one- and three-dimensional magnetic pair distribution function
-    patterns, and perform fits to magnetic pair distribution function data.
-  synopsis: the open-source software package diffpy.mpdf for magnetic pair
-    distribution function analysis is described
-  tags: mpdf, software, magnetism
-  title: 'DIFFPY.MPDF: Open-source software for magnetic pair
-    distribution function analysis'
-  url: ''
-  volume: ''
-  year: '2022'
 zheng;prb09:
   author:
     - Zheng, J. C.
