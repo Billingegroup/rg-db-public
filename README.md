@@ -32,9 +32,13 @@ then go to GitHub to open a PR into `main`, so it will look like
 Do not ever merge directly into main (actually you shouldn't be able to on GitHub).
 This merge will be done by Prof. Billinge after review.   
 
-To prevent nasty accidents, create a file in `rg-db-public/.git/hooks` called 
-`pre-commit` and copy-paste the following into it and save it.  It will prevent 
-you accidentally making local changes to your main branch that won't be mergeable.
+To prevent nasty accidents,
+1. create a file in `rg-db-public/.git/hooks` called `pre-commit` and copy-paste the 
+ following into it and save it
+2. Mark the new file as executable: `chmod +x rg-db-public/.git/hooks/pre-commit`.
+
+This will prevent you accidentally making local changes to your main branch that won't 
+be mergeable.
 ```
 #!/bin/sh
 #
