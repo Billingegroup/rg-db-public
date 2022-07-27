@@ -1,143 +1,55 @@
 ![CI](https://github.com/billingegroup/rg-db-public/actions/workflows/main.yml/badge.svg)
 # rg-db-public
-Public Research Group Database
+Billinge Group Public Research Group Database
 
-Here is an exemplar for the current schema for Institutions.  Below it is the full schema.:
+This repo contains public facing data from the Billinge Group in the Applied
+Physics and Applied Mathematics department at Columbia University.  It will be used 
+to build the group dynamic web-site at `https://billingegroup.github.io` using
+regolith (https://github.com/regro/regolith).  Regolith will also build 
+people's public facing cv's and publication lists from this information here.
 
-Exemplar:
+You need to be a current or former member of the Billinge Group at Columbia
+University to update entries in this database.  Please reach out to Prof. 
+Billinge (sb2896@columbia.edu) if you are interested in joining the group.
 
+For group members, the current branching workflow is to directly clone this 
+repo to your local, make pushes to branches directly on this GitHub repository
+and create a PR into the default branch `main`.  We are no longer using a
+forking workflow (i.e., don't create a fork).
+
+These commands might help you get going:
 ```
-    "institutions": {
-        "_id": "columbiau",
-        "aka": ["Columbia University", "Columbia"],
-        "city": "New York",
-        "country": "USA",
-        "departments": {
-            "physics": {
-                "name": "Department of Physics",
-                "aka": ["Dept. of Physics", "Physics"],
-            },
-            "chemistry": {
-                "name": "Department of Chemistry",
-                "aka": ["Chemistry", "Dept. of Chemistry"],
-            },
-            "apam": {
-                "name": "Department of Applied Physics"
-                "and Applied Mathematics",
-                "aka": ["APAM"],
-            },
-        },
-        "name": "Columbia University",
-        "schools": {
-            "seas": {
-                "name": "School of Engineering and " "Applied Science",
-                "aka": [
-                    "SEAS",
-                    "Columbia Engineering",
-                    "Fu Foundation School of Engineering "
-                    "and Applied Science",
-                ],
-            }
-        },
-        "state": "NY",
-        "zip": "10027",
-        "updated": "2020-01-04 16:41:47.790527"
-        "uuid": "ff1a6857-76aa-4c23-9758-7bb1aec8b4ed"
-    },
+cd dbs
+git clone git@github.com:Billingegroup/rg-db-public.git
+git checkout <branch_name>
+git add <files>
+git commit -m "an informative commit message"
+git push -u origin <branch_name>
 ```
+then go to GitHub to open a PR into `main`, so it will look like 
+`base:main <- compare:<branch_name>`
 
-Full Schema:
-```
-   "institutions": {
-        "_description": {
-            "description": "This collection will contain all the institutions"
-            "in the world and their departments and addresses"
-        },
-        "_id": {
-            "description": "unique identifier for the institution.",
-            "required": True,
-            "type": "string",
-        },
-        "aka": {
-            "description": "list of all the different names this "
-            "the institution is known by",
-            "required": False,
-            "type": "list",
-        },
-        "city": {
-            "description": "the city where the institution is",
-            "required": True,
-            "type": "string",
-        },
-        "country": {
-            "description": "The country where the institution is",
-            "required": True,
-            "type": "string",
-        },
-        "departments": {
-            "description": "all the departments and centers and"
-            "various units in the institution",
-            "required": False,
-            "type": "dict",
-            # Allow unkown department names, but check their content
-            "valueschema": {
-                "type": "dict",
-                "schema": {
-                    "name": {
-                        "description": "The canonical name",
-                        "required": True,
-                        "type": "string",
-                    },
-                    "aka": {"required": False, "type": "list"},
-                },
-            },
-        },
-        "name": {
-            "description": "the canonical name of the institutions",
-            "required": True,
-            "type": "string",
-        },
-        "schools": {
-            "description": "this is more for universities, but it "
-            "be used for larger divisions in big "
-            "organizations",
-            "required": False,
-            "type": "dict",
-            "valueschema": {
-                "type": "dict",
-                "schema": {
-                    "name": {
-                        "description": "The canonical name",
-                        "required": True,
-                        "type": "string",
-                    },
-                    "aka": {"required": False, "type": "list"},
-                },
-            },
-        },
-        "state": {
-            "description": "the state where the institution is",
-            "required": True,
-            "type": "string",
-            "dependencies": {"country": "USA"},
-        },
-        "zip": {
-            "description": "the zip or postal code of the institution",
-            "required": True,
-            "type": "string",
-            "dependencies": {"country": "USA"},
-        "updated": {
-         "description": "The time when the entry was updated",
-         "required": false,
-         "type": "string",
-        },
-       "uuid": {
-        "description": "A universal ID for the entry",
-        "required": false,
-        "type": "string"}
-        }
-        },
-    },
-```
+Do not ever merge directly into main (actually you shouldn't be able to on GitHub).
+This merge will be done by Prof. Billinge after review.   
 
-[![Build Status](https://app.travis-ci.com/Billingegroup/rg-db-public.svg?branch=master)](https://app.travis-ci.com/Billingegroup/rg-db-public)
+To prevent nasty accidents, create a file in `rg-db-public/.git/hooks` called 
+`pre-commit` and copy-paste the following into it and save it.  It will prevent 
+you accidentally making local changes to your main branch that won't be mergeable.
+```
+#!/bin/sh
+#
+# To prevent accidental commits to main,
+# copy this file, with name 
+#    "pre-commit" 
+# to the 
+#    .git/hooks (notice the dot in front of git)
+# directory in this 
+# repo
+
+branch="$(git rev-parse --abbrev-ref HEAD)"
+
+if [ "$branch" = "main" ]; then
+  echo "You can't commit directly to main branch"
+  exit 1
+fi
+```
