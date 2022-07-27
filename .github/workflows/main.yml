@@ -1,18 +1,9 @@
-# This is a basic workflow to help you get started with Actions
-
 name: CI
 
-# Controls when the workflow will run
-# Triggers the workflow on push or pull request events,
-# as well as allowing you to run this workflow manually
-# from the Actions tab
 on: [pull_request, workflow_dispatch]
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
     # The custom docker container to use instead.
     # I believe "runs-on: ubuntu-latest" is either required as a fallback or it
@@ -21,9 +12,7 @@ jobs:
     # way, both statements seem to be required.
     container: connorjbracy/rg-db-group-ci:0.2.1
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
         with:
           # Make sure this repo is checked out into its own directory rather
@@ -33,13 +22,6 @@ jobs:
           # checked out "nested" within this repo.
           path: rg-db-public
 
-      - name: Check out website repository
-        uses: actions/checkout@v3
-        with:
-          repository: Billingegroup/website
-          token: ${{ secrets.GH_ACTIONS_PAT }}
-          path: website
-
       - name: Check out regolith repository
         uses: actions/checkout@v3
         with:
@@ -47,22 +29,7 @@ jobs:
           token: ${{ secrets.GH_ACTIONS_PAT }}
           path: regolith
 
-      - name: Check out rg-db-group repository
-        uses: actions/checkout@v3
-        with:
-          repository: Billingegroup/rg-db-group
-          token: ${{ secrets.GH_ACTIONS_PAT }}
-          path: rg-db-group
-
-      - name: GITHUB CONTEXT
-        env:
-          GITHUB_CONTEXT: ${{ toJson(github) }}
-        run: echo "$GITHUB_CONTEXT"
-
-        # Not sure why "$ pip install doctr", but this is the statement that
-        # exists in the old CI script that precedes this GitHub Actions CI.
-        #   See: https://github.com/Billingegroup/rg-db-public/blob/fe47179ccb9879f73701c7155122ae937e96cfc2/.travis.yml#L32
-      - name: Init working dir and conda and Install regolith and doctr
+      - name: Init working dir and conda and Install regolith
         run: |
           conda init bash
           bash /update_conda_requirements.sh
@@ -73,24 +40,3 @@ jobs:
           cd rg-db-public/local
           regolith validate
           regolith build publist --no-pdf
-
-      - name: Build Group Website
-        run: |
-          cd website
-          regolith build html
-          regolith build cv --no-pdf
-          regolith build publist --no-pdf
-
-      - name: Deploy Group Website
-        uses: connorjbracy/copy_file_to_another_repo_action@main
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.GH_ACTIONS_PAT }}
-        with:
-          token: ${{ secrets.GH_ACTIONS_PAT }}
-          source_file: 'website/_build/html'
-          destination_repo: 'connorjbracy/billingegroup.github.io'
-          destination_branch: 'master'
-          destination_folder: '/'
-          user_email: 'connorjbracy@gmail.com'
-          user_name: 'connorjbracy'
-          repo_level_sec: ${{ secrets.GH_ACTIONS_PAT }}
