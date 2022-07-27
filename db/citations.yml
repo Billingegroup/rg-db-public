@@ -4413,6 +4413,48 @@ frand;aca15:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/frand_aca15.pdf
   year: '2015'
+frand;jac22:
+  ackno: 'We thank Caleb Dame for valuable contributions to the interactive magnetic
+    structure builder. Work by B.A.F. and P.H. was supported by the U.S. Department
+    of Energy, Office of Science, Office of Basic Energy Science through Award No.
+    DE-SC0021134. J.A.C. and E.S. acknowledge IUCr macros version 2.1.10: 2016/01/2813
+    support from the College of Physical and Mathematical Sciences at Brigham Young
+    University. S.J.L.B  was supported by U.S. Department of Energy, Office of Science,
+    Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0012704. This
+    study used resources at the Spallation Neutron Source (SNS), a DOE Office of Science
+    User Facility operated by the Oak Ridge National Laboratory.'
+  author:
+    - Benjamin A. Frandsen
+    - Parker K. Hamilton
+    - Jacob A. Christensen
+    - Eric Stubbena
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: sns, nomad
+  grant: fwp20
+  journal: J. Appl. Crystallography
+  month: tbd
+  nb: ' art '
+  note: submitted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  professional_summary: We introduce the open-source software package diffpy.mpdf
+    for magnetic pair distribution function analysis.  Written in python and part
+    of the DiffPy suite for diffraction and pair distribution function analysis, this
+    package allows users to build magnetic structures, calculate one- and three-dimensional
+    magnetic pair distribution function patterns, and perform fits to magnetic pair
+    distribution function data.
+  synopsis: the open-source software package diffpy.mpdf for magnetic pair distribution
+    function analysis is described
+  tags: mpdf, software, magnetism
+  title: 'DIFFPY.MPDF: Open-source software for magnetic pair distribution function
+    analysis'
+  url: ''
+  volume: ''
+  year: '2022'
 frand;nc14:
   author:
     - Frandsen, Benjamin A.
@@ -5424,9 +5466,9 @@ hao;jmcc21:
   journal: J. Mater. Chem. C
   month: mar
   nb: fy21, typeB2
-  optnote: advance article
   number: ''
   optannote: ''
+  optnote: advance article
   optwwwlanl: ''
   pages: 5267-5276
   title: Ferroelectric State and Polarization Switching Behaviour of Ultrafine {BaTiO$_3$}
@@ -12479,49 +12521,6 @@ zhao;prl21:
   url: http://arxiv.org/abs/2106.05231
   volume: ''
   year: '2021'
-frand;jac22:
-  ackno: 'We thank Caleb Dame for valuable contributions to the interactive
-    magnetic structure builder. Work by B.A.F. and P.H. was supported by the
-    U.S. Department of Energy, Office of Science, Office of Basic Energy
-    Science through Award No. DE-SC0021134. J.A.C. and E.S. acknowledge IUCr
-    macros version 2.1.10: 2016/01/2813 support from the College of Physical
-    and Mathematical Sciences at Brigham Young University. S.J.L.B  was
-    supported by U.S. Department of Energy, Office of Science, Office of
-    Basic Energy Sciences (DOE-BES) under contract No. DE-SC0012704.
-    This study used resources at the Spallation Neutron Source (SNS), a DOE
-    Office of Science User Facility operated by the Oak Ridge National Laboratory.'
-  author:
-    - Benjamin A. Frandsen
-    - Parker K. Hamilton
-    - Jacob A. Christensen
-    - Eric Stubbena
-    - Simon J. L. Billinge
-  doi: ''
-  entrytype: article
-  facility: sns, nomad
-  grant: fwp20
-  journal: J. Appl. Crystallography
-  month: tbd
-  nb: ' art '
-  note: submitted
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
-  professional_summary: We introduce the open-source software package
-    diffpy.mpdf for magnetic pair distribution function analysis.  Written in
-    python and part of the DiffPy suite for diffraction and pair distribution
-    function analysis, this package allows users to build magnetic structures,
-    calculate one- and three-dimensional magnetic pair distribution function
-    patterns, and perform fits to magnetic pair distribution function data.
-  synopsis: the open-source software package diffpy.mpdf for magnetic pair
-    distribution function analysis is described
-  tags: mpdf, software, magnetism
-  title: 'DIFFPY.MPDF: Open-source software for magnetic pair
-    distribution function analysis'
-  url: ''
-  volume: ''
-  year: '2022'
 zheng;prb09:
   author:
     - Zheng, J. C.

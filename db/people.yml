@@ -4652,7 +4652,7 @@ sbillinge:
       role: Advisory Board Member
     - type: profession
       name: NSF Focus group for Science and Engineering Gateways
-      ear: 2013
+      year: 2013
       role: Advisory Committee Member
     - type: profession
       name: Program committee of the International Conference on Neutron Scattering,
