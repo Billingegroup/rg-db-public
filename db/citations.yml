@@ -7421,19 +7421,24 @@ llan;RobustnessTestSpacegroupMining22:
     - Chia-Hao Liu
     - Qiang Du
     - Simon J. L. Billinge
-  doi: ''
-  entrytype: short communication
+  doi: 10.1107/S1600576722002990
+  entrytype: article
   facility: ''
   grant: dmref19
   journal: Journal of Applied Crystallography
-  month: feb
+  month: jun
   nb: ''
-  note: arXiv:2202.12335 [cond-mat.mtrl-sci]
-  number: ''
+  number: '3'
   optannote: ''
+  optnote: arXiv:2202.12335 [cond-mat.mtrl-sci]
   optwwwlanl: ''
-  pages: ''
+  pages: 626-630
   supplementary_info_urls:
+    - https://doi.org//10.1107/S1600576722002990/jo5075sup1.txt
+    - https://doi.org//10.1107/S1600576722002990/jo5075sup2.txt
+    - https://doi.org//10.1107/S1600576722002990/jo5075sup3.txt
+    - https://doi.org//10.1107/S1600576722002990/jo5075sup4.txt
+    - https://doi.org//10.1107/S1600576722002990/jo5075sup5.txt
     - https://gitlab.thebillingegroup.com/analysis/20ll_sgcnnrobusttest
   synopsis: The spacegroupMining Space Group Determination Model is shown to be robust
     when applied to PDFs of different choices of experimental parameters rmax, Qmax,
@@ -7441,8 +7446,8 @@ llan;RobustnessTestSpacegroupMining22:
   tags: robustness_test, ml, datamining, space_group
   title: Robustness test of the spacegroupMining model for determining space groups
     from atomic pair distribution function data
-  url: https://doi.org/10.48550/arXiv.2202.12335
-  volume: ''
+  url: https://doi.org/10.1107/S1600576722002990
+  volume: 55
   wwwemail: ''
   wwwpub: ''
   year: '2022'
@@ -12063,6 +12068,51 @@ zhang;nc18:
   volume: '9'
   wwwemail: ''
   year: '2018'
+zhao;prb22:
+  ackno: We thank fruitful discussions with Prof. Ekhard K. H. Salje and Prof. Annette
+    Bussmann-Holder on paraelectrics, and Prof. Zhi Wang on the long-range-order model
+    of AFE, and Dr. Lin Ding Yuan for assistance in calculating polymorphous structures
+    with different initial nudges shown in supplementary Table S-1. The work in the
+    Zunger group and Billinge group was supported by the US National Science Foundation
+    through grant DMREF-1921949. The calculations were done using the Extreme Science
+    and Engineering Discovery Environment (XSEDE), which is supported by the National
+    Science Foundation grant number ACI-1548562.
+  author:
+    - Xin-Gang Zhao
+    - Oleksandr I. Malyi
+    - Simon J.L. Billinge
+    - Alex Zunger
+  doi: 10.1103/PhysRevB.105.224108
+  entrytype: article
+  facility: ''
+  grant: dmref19
+  journal: Phys. Rev. B
+  month: jun
+  nb: ' art '
+  number: ''
+  optannote: ''
+  optote: ''
+  optwwwlanl: ''
+  pages: '224108'
+  professional_summary: The technologically important cubic paraelectric oxide perovskites
+    ABO3, represented by BaTiO3, exemplify the widespread solid-state behavior of
+    structural phase transitions to higher symmetry phases on warming. However, A
+    long-standing question surrounds experimental observations, e.g., diffuse x-ray
+    scattering, second harmonic generation, and piezoelectricity, which require a
+    lower symmetry structure. This symmetry-breaking has been ascribed to thermal
+    effects; however, here, we show from first principles theory that it is has an
+    intrinsic origin.  It is a static, non- long-range-ordered distortion driven by  a
+    lowering of the internal energy, which breaks its inversion-symmetry consistent
+    with experimental observations. Finite temperature molecular dynamics show that
+    these distortions remain at high temperatures, different from the general picture
+    of cubic BTO about single parabolic energy surface without static displacements.
+  synopsis: symmetry breaking in BTO is found using polymorphous DFT
+  tags: bto, batio3, dft, theory, odl
+  title: Intrinsic local symmetry breaking in the nominally cubic paraelectric phase
+    of {BaTiO$_3$}
+  url: https://doi.org/10.1103/PhysRevB.105.224108
+  volume: 105
+  year: '2022'
 zhao;prl21:
   ackno: We thank fruitful discussions with Prof. Ekhard K. H. Salje and Prof. Annette
     Bussmann-Holder on paraelectrics, and Prof. Zhi Wang on the long-range-order model

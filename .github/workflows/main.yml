@@ -1,0 +1,42 @@
+name: CI
+
+on: [pull_request, workflow_dispatch]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # The custom docker container to use instead.
+    # I believe "runs-on: ubuntu-latest" is either required as a fallback or it
+    # is the container that then installs docker, downloads the doceker image,
+    # and runs an instance of that image to execute the commands below. Either
+    # way, both statements seem to be required.
+    container: connorjbracy/rg-db-group-ci:0.2.1
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          # Make sure this repo is checked out into its own directory rather
+          # than being checked out into the default home directory of the CI.
+          # That is, check out this repo "side-by-side" with the subsequent
+          # repos being checkedout, rather than having the subsequent repos be
+          # checked out "nested" within this repo.
+          path: rg-db-public
+
+      - name: Check out regolith repository
+        uses: actions/checkout@v3
+        with:
+          repository: regro/regolith
+          token: ${{ secrets.GH_ACTIONS_PAT }}
+          path: regolith
+
+      - name: Init working dir and conda and Install regolith
+        run: |
+          conda init bash
+          bash /update_conda_requirements.sh
+          pip install regolith/
+
+      - name: Validate rg-db-public
+        run: |
+          cd rg-db-public/local
+          regolith validate
+          regolith build publist --no-pdf

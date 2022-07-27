@@ -461,12 +461,12 @@ cbracy:
       advisor: sbillinge
       status: ms
   github_id: connorjbracy
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Connor Bracy
   orcid_id: 0000-0001-8049-356X
   position: graduate research assistant
 cbullard:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/chloeann95.png
   bio: Chloë grew up in Michigan and attended Michigan State University for her undergraduate
@@ -508,7 +508,7 @@ cbullard:
       advisor: sbillinge
       status: masters
   github_id: chloeann95
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Chloë Bullard
   orcid_id: 0000-0002-5954-4710
   position: Masters Researcher
@@ -1021,6 +1021,36 @@ dhsu:
   service: []
   skills: []
   title: Prof.
+dpeters:
+  active: true
+  aka:
+    - Dom
+  avatar: https://github.com/dpeters001.png
+  bio: Dominic is a rising-senior and chemical engineering undergraduate with minors
+    in mathematics and business administration. He has experience with Linux-based
+    and python coding languages/protocols. His previous research experience includes
+    protein engineering of the SARS-CoV-2 spike protein and the mapping of energetic
+    landscapes of viral pathogens. Dominic enjoys electronic music production, 10K
+    races, and hiking in his free time.
+  education:
+    - begin_year: 2019
+      degree: BE in Chemical Engineering
+      institution: The City College of New York
+      end_year: 2023
+  email: djp2136@columbia.edu
+  employment:
+    - begin_date: 2022-06-01
+      end_date: 2022-08-01
+      organization: columbiau
+      position: summer research fellow
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: dpeters001
+  grp_mtg_active: true
+  name: Dominic Peters
+  orcid_id: 0000-0001-5893-2992
+  position: summer research fellow
 dpodgorski:
   active: false
   aka:
@@ -2096,24 +2126,37 @@ jchung:
   position: unknown
 jeaster:
   active: true
-  aka: []
+  aka:
+    - Jay Easter
+    - J. Y. Easter
+    - J. Easter
   avatar: https://github.com/easterjaylah.png
-  bio: ''
-  education: []
+  bio: Jay Easter is a Henson Entrepreneur Endowed Honors scholar at the University
+    of Maryland Eastern Shore, studying general engineering with a mechanical engineering
+    specialization. His general research interests pertain to understanding the relationship
+    between the atomic structure and the emergent properties of organic materials
+    for applications in energy, and the numerical modelling and fabrication of NEMS
+    devices. Jay is passionate about entrepreneurship and the integration of historically
+    underrepresented groups in STEM.
+  education:
+    - begin_year: 2019
+      degree: BS General Engineering, mech. specialization
+      institution: University of Maryland Eastern Shore
+      end_year: 2023
   email: jyeaster@umes.edu
   employment:
     - begin_date: 2022-03-28
       end_date: 2022-08-31
       organization: columbiau
-      position: Undergradate Researcher
+      position: Undergraduate Researcher
       group: bg
       advisor: sbillinge
       status: undergrad
   github_id: easterjaylah
   grp_mtg_active: true
-  name: Jaylah Y Easter
+  name: Jaylah Easter
   orcid_id: ''
-  position: Undergradate Researcher
+  position: Undergraduate Researcher
 jgriffiths:
   active: true
   aka: []
@@ -2376,6 +2419,31 @@ kknox:
   name: Kevin Knox
   position: president
   position_full: Vice President
+klkim:
+  active: true
+  aka: []
+  avatar: https://github.com/kaylabim.png
+  bio: Kayla Kim is currently an undergraduate student at Columbia University pursuing
+    a B.S. in Applied Mathematics and a minor in Computer Science.
+  education:
+    - begin_year: 2020
+      degree: BS in Applied Mathematics
+      institution: Columbia University
+      end_year: 2024
+  email: kbk2131@columbia.edu
+  employment:
+    - begin_date: 2022-06-01
+      end_date: 2022-08-31
+      organization: columbiau
+      position: masters researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: kaylabim
+  grp_mtg_active: true
+  name: Kayla Kim
+  orcid_id: 0000-0003-0050-3217
+  position: masters researcher
 kloza:
   active: false
   aka: []
@@ -2424,6 +2492,35 @@ kseth:
       status: visitor-unsupported
   name: Kriti Seth
   position: visiting student
+kwang:
+  active: true
+  aka: []
+  avatar: https://github.com/mkwang2024.png
+  bio: Kevin grew up in Beijing, China. He is an undergraduate student in Columbia
+    College studying physics with a minor in computer science. He is interested in
+    condensed matter physics and machine learning. In his free time, he enjoys playing
+    tennis and squash.
+  education:
+    - begin_year: 2020
+      begin_month: 9
+      institution: columbiau
+      degree: BA - Physics
+      end_year: 2024
+      end_month: 5
+  email: mw3479@columbia.edu
+  employment:
+    - begin_date: 2022-06-01
+      end_date: 2022-08-31
+      organization: columbiau
+      position: undergrad researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: mkwang2024
+  grp_mtg_active: true
+  name: Kevin Wang
+  orcid_id: 0000-0002-8386-9849
+  position: undergrad researcher
 lcheng:
   active: false
   aka: []
@@ -2499,7 +2596,7 @@ llan:
       advisor: sbillinge
       status: phd
   github_id: lanikaling
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Ling Lan
   orcid_id: 0000-0001-6267-4834
   position: graduate research assistant
@@ -2863,7 +2960,7 @@ mtrumbull:
       advisor: sbillinge
       status: masters
   github_id: MichaelTrumbull
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Michael Trumbull
   orcid_id: ''
   position: masters researcher
@@ -2980,6 +3077,47 @@ mzhao:
   name: Max Zhao
   orcid_id: 0000-0001-7082-5030
   position: Undergraduate Researcher
+nasker:
+  active: true
+  aka:
+    - Nicholas Asker
+    - Nick Asker
+    - Nicholas G. Asker
+    - Nicholas George Asker
+    - N.G.Asker
+  avatar: https://github.com/N-G-Asker.png
+  bio: Nicholas Asker is a masters student in computer science at Columbia University.
+    Prior to pursuing a graduate degree, Nicholas was a cybersecurity consultant at
+    Booz Allen Hamilton, where his on-the-job experience doing technology and security
+    research for government clients sparked an interest in programming. He holds a
+    B.A. from Brown University in Economics and Philosophy along with several industry
+    cyber and IT certifications. In his free time, Nicholas enjoys playing soccer,
+    being outdoors, dancing, and practicing Spanish.
+  education:
+    - begin_year: 2021
+      degree: Masters of Science (MS)
+      institution: Columbia University
+      department: Computer Science
+      end_year: 2023
+    - begin_year: 2013
+      degree: Bachelor of Arts (BA)
+      institution: Brown University
+      department: Economics and Philosophy
+      end_year: 2017
+  email: nga2120@columbia.edu
+  employment:
+    - begin_date: 2022-06-01
+      end_date: 2022-08-31
+      organization: columbiau
+      position: masters researcher
+      group: bg
+      advisor: sbillinge
+      status: masters
+  github_id: N-G-Asker
+  grp_mtg_active: true
+  name: Nick Asker
+  orcid_id: ''
+  position: masters researcher
 nfuller:
   active: false
   aka:
@@ -3977,6 +4115,9 @@ sbillinge:
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
   service:
+    - type: department
+      name: PhD thesis committed for Mr Jonathan Karp,
+      date: 2022-06-16
     - type: profession
       name: PhD thesis reviewer for Ms Anna Vivani, candidate for PhD in the Chemical
         and Environmental Sciences School at the Università degli Studi dell'Insubria
@@ -4886,7 +5027,7 @@ sstao:
       group: bg
   github_id: st3107
   google_scholar_url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=xe1JOIAAAAAJ
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Songsheng Tao
   orcid_id: 0000-0002-7565-3503
   position: graduate research assistant
