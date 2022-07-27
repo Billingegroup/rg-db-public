@@ -2988,8 +2988,8 @@
     - kjensen
   begin_date: 2021-10-08
   end_date: 2021-10-09
-  location: lyngby, denmark
-  meeting_name: danscatt meeting
+  location: Lyngby, Denmark
+  meeting_name: DANSCATT meeting
   project:
     - dmref19
   status: accepted
@@ -3907,9 +3907,9 @@
   authors:
     - sbillinge
   begin_date: 2022-05-11
+  department: dsat
   end_date: 2022-05-11
   institution: uinsubria
-  meeting_name: dsat
   project:
     - all
   status: accepted
@@ -4066,9 +4066,9 @@
   authors:
     - sbillinge
   begin_date: 2022-10-07
-  department: Condensed Matter Physics Colloquium
+  department: cmp
   end_date: 2022-10-07
-  institution: Paul Scherrer Institution
+  institution: psi
   presentation_url: 2210sb_psi
   project:
     - all
