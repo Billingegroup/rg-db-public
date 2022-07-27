@@ -1,9 +1,16 @@
-name: CI
+name: Publish Group Webiste
 
-on: [pull_request, workflow_dispatch]
+on:
+  push:
+    branches:
+      - master
+      - main
+
+    workflow_dispatch:
+
 
 jobs:
-  build:
+  publish:
     runs-on: ubuntu-latest
     # The custom docker container to use instead.
     # I believe "runs-on: ubuntu-latest" is either required as a fallback or it
@@ -22,6 +29,13 @@ jobs:
           # checked out "nested" within this repo.
           path: rg-db-public
 
+      - name: Check out website repository
+        uses: actions/checkout@v3
+        with:
+          repository: Billingegroup/website
+          token: ${{ secrets.GH_ACTIONS_PAT }}
+          path: website
+
       - name: Check out regolith repository
         uses: actions/checkout@v3
         with:
@@ -35,8 +49,19 @@ jobs:
           bash /update_conda_requirements.sh
           pip install regolith/
 
-      - name: Validate rg-db-public
+      - name: Build Group Website
         run: |
-          cd rg-db-public/local
-          regolith validate
+          cd website
+          regolith build html
+          regolith build cv --no-pdf
           regolith build publist --no-pdf
+
+      - name: Deploy Group Website
+        uses: connorjbracy/copy_to_another_repo_action@main
+        with:
+          user_email: 'simon.billinge@gmail.com'
+          user_name: 'Simon Billinge'
+          source_target: 'website/_build/html'
+          destination_repo: 'Billingegroup/billingegroup.github.io'
+          destination_branch: 'master'
+          repo_level_secret: ${{ secrets.GH_ACTIONS_PAT }}
