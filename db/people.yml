@@ -5738,10 +5738,13 @@ zthatcher:
       end_month: 3
   email: zt2275@columbia.edu
   employment:
-    - begin_year: 2022
-      begin_month: 3
-      organization: Geli
-      position: Software Engineer
+    - begin_year: 2017
+      begin_month: 7
+      position: engineer
+      position_full: Engineering Consultant
+      organization: MPR Associates, Inc.
+      begin_day: 1
+      end_date: 2022-05-25
     - begin_year: 2020
       begin_month: 4
       end_year: 2022
@@ -5751,13 +5754,13 @@ zthatcher:
       group: bg
       advisor: sbillinge
       status: ms
-    - begin_year: 2017
-      begin_month: 7
-      end_year: 2020
-      end_month: 4
-      position: engineer
-      position_full: Engineering Consultant
-      organization: MPR Associates, Inc.
+      begin_day: 1
+      end_day: 28
+    - begin_year: 2022
+      begin_month: 3
+      organization: Geli
+      position: Software Engineer
+      begin_day: 1
   github_id: zthatch
   google_scholar_url: https://scholar.google.com/citations?user=Vhe9fvkAAAAJ&hl=en&oi=ao
   grp_mtg_active: false
