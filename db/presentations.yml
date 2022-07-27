@@ -4100,14 +4100,14 @@
   status: accepted
   title: Ultrafast Orbital Degeneracy Lifting
   type: invited
-2210sb_paulscherreri:
+2210sb_paulscherrerinstitution:
   abstract: tbd
   authors:
     - sbillinge
   begin_date: 2022-10-07
-  department: cmp
+  department: Condensed Matter Physics Colloquium
   end_date: 2022-10-07
-  institution: paulscherreri
+  institution: Paul Scherrer Institution
   presentation_url: 2210sb_psi
   project:
     - all
