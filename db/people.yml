@@ -3309,7 +3309,7 @@ pjuhas:
   name: Pavol Juhas
   position: programmer
 pliu:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/pliu2781.png
   bio: Peter was born in New York, and grew up in suburban New Jersey. He completed
@@ -3329,14 +3329,14 @@ pliu:
   email: pl2781@columbia.edu
   employment:
     - begin_date: 2021-06-09
-      end_date: 2022-08-31
+      end_date: 2022-07-27
       organization: columbiau
       position: masters researcher
       group: bg
       advisor: sbillinge
       status: masters
   github_id: pliu2781
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Peter Liu
   orcid_id: ''
   position: masters researcher

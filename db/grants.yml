@@ -694,7 +694,7 @@
       subaward_amount: 67376.63
   title: Ultrafast PDF developments
 21_jhu_mitra:
-  amount: 45000
+  amount: 55000
   begin_date: 2021-06-01
   end_date: 2022-05-31
   funder: Johns Hopkins University
@@ -702,8 +702,27 @@
     - institution: columbiau
       name: sbillinge
       position: pi
-      subaward_amount: 45000
+      subaward_amount: 55000
   title: Development of scanning nanostructre electron microscopy
+22_SUNY-SB_EFRC_rampdown:
+  amount: 1000000.0
+  awardnr: DE-SC0019212
+  begin_date: 2022-08-01
+  end_date: 2023-07-31
+  funder: DOE-BES
+  team:
+    - institution: stonybrooku
+      name: John Parise
+      position: pi
+      subaward_amount: 930000.0
+    - institution: columbiau
+      name: Simon Billinge
+      position: copi
+      subaward_amount: 70000.0
+      admin_people:
+        - Ria Miranda
+        - Daniel Alicea
+  title: 'GENESIS: A Next Generation Synthesis Center'
 22_collaboratory:
   amount: 100000
   awardnr: n/a
