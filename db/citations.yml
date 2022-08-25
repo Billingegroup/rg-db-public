@@ -10289,7 +10289,7 @@ skjae;iucrj22:
     Pnma below r = 14 A and becomes progressively worse than the space-group model at higher 
     r due to nonrigid distortions in the real material. 
   synopsis: A model has been developed for refining rigid octahedral rotations in perovskites 
-  and demonstrated to model pair distribution function data of CaTiO3.
+    and demonstrated to model pair distribution function data of CaTiO3.
   tags: perovskites, glazer, octahedral_tilt, diffpy-CMI
   title: Refining perovskite structures to pair distribution function data using collective
     Glazer modes as a basis
