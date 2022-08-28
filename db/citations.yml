@@ -10245,15 +10245,16 @@ skjae;prx19:
   wwwemail: ''
   wwwpub: ''
   year: '2019'
-skjaervoeGlazerTiltFittingArXiv22:
-  ackno: We acknowledge Daniel E. DeRosha and Jonathan Owen for help in preparing
-    the CaTiO3 sample, and Milinda Abeykoon and Gihan Kwon for help with collecting
-    data at the 28-ID-1 (PDF) beamline at the NSLS-II. This work was supported by
-    the U.S. National Science Foundation through grant DMREF-1922234. M.A.K. acknowledges
-    support from the Carlsberg Foundation (grant no. CF17-0823).  Use of the National
-    Synchrotron Light Source II, Brookhaven National Laboratory, was supported by
-    the US Department of Energy, Office of Science, Office of Basic Energy Sciences,
-    under Contract No. DE-SC0012704.
+skjae;iucrj22:
+  ackno: We acknowledge Daniel E. DeRosha and Jonathan Owen for help in preparing the 
+    CaTiO3 sample, and Milinda Abeykoon and Gihan Kwon for their help with collecting 
+    data at the 28-ID-1 (PDF) beamline at the NSLS-II. This work was supported by the 
+    US National Science Foundation, Directorate for Mathematical and Physical Sciences 
+    (grant No. DMREF-1922234 awarded to SJLB and SHS). MAK acknowledges support from 
+    the Carlsberg Foundation (grant no. CF17-0823). Use of the National Synchrotron  
+    Light Source II, Brookhaven National Laboratory, was supported by the US Department 
+    of Energy, Office of Science, Office of Basic Energy Sciences (contract No. 
+    DE-SC0012704).
   author:
     - Sandra H. Skjaervoe
     - Martin A. Karlsen
@@ -10261,39 +10262,39 @@ skjaervoeGlazerTiltFittingArXiv22:
     - Simon J. L. Billinge
   doi: ''
   entrytype: article
-  facility: xpd, nslsii
+  facility: pdf, nslsii
   grant: dmref19
-  journal: IUCr J
-  month: Feb
+  journal: IUCrJ
+  month: September
   nb: ''
-  note: to be published
+  note:
   number: ''
   optannote: ''
   optwwwlanl: ''
   pages: ''
-  professional_summary: Structural modelling of octahedral tilts in perovskites is
-    typically done using the symmetry constraints of the resulting space group. In
-    most cases, this introduces more degrees of freedom than those strictly necessary
-    to describe only the octahedral tilts. It can therefore be a challenge to disentangle
-    the octahedral tilts from other structural distortions such as cation displacements
-    and octahedral distortions. This paper reports on the development of constraints
-    for modelling pure octahedral tilts and implemented the constraints in diffpy-CMI,
-    a powerful package to analyse pair distribution function (PDF) data. The program
-    allows features in the PDF that come from rigid tilts to be separated from non-rigid
-    relaxations, provides an intuitive picture of the tilting, and as it has many
-    fewer refinable variables than the unconstrained space-group fits, provides robust
-    and stable refinements of the tilt components. It further demonstrates the use
-    of the model on the canonical tilted perovskite CaTiO3 which has a known Glazer
-    tilt system a+ b- b-. The Glazer model fits comparably to the corresponding space
-    group model Pnma below r = 14A and becomes progressively worse than the space
-    group model at higher r due to non-rigid distortions in the real material.
-  synopsis: A model is developed for refining rigid octahedral distortions in perovskites
-    and is used to model pair distribution function data of a CaTiO3.
+  professional_summary: Structural modelling of octahedral tilts in perovskites 
+    is typically carried out using the symmetry constraints of the resulting space 
+    group. In most cases, this introduces more degrees of freedom than those strictly 
+    necessary to describe only the octahedral tilts. It can therefore be a challenge 
+    to disentangle the octahedral tilts from other structural distortions such as cation 
+    displacements and octahedral distortions. This paper reports the development of 
+    constraints for modelling pure octahedral tilts and implementation of the constraints 
+    in diffpy-CMI, a powerful package to analyse pair distribution function (PDF) data. 
+    The program allows features in the PDF that come from rigid tilts to be separated 
+    from non-rigid relaxations, providing an intuitive picture of the tilting. The model 
+    has many fewer refinable variables than the unconstrained space group fits and provides 
+    robust and stable refinements of the tilt components. It further demonstrates the use 
+    of the model on the canonical tilted perovskite CaTiO3 which has the known Glazer tilt 
+    system a+b-b-. The Glazer model fits comparably to the corresponding space-group model 
+    Pnma below r = 14 A and becomes progressively worse than the space-group model at higher 
+    r due to nonrigid distortions in the real material. 
+  synopsis: A model has been developed for refining rigid octahedral rotations in perovskites 
+    and demonstrated to model pair distribution function data of CaTiO3.
   tags: perovskites, glazer, octahedral_tilt, diffpy-CMI
   title: Refining perovskite structures to pair distribution function data using collective
     Glazer modes as a basis
-  url: http://arxiv.org/abs/2203.00127
-  volume: ''
+  url: https://scripts.iucr.org/cgi-bin/cr.cgi?rm=social&id=ft5063
+  volume: '9'
   wwwemail: ''
   wwwpub: ''
   year: '2022'
