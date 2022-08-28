@@ -4429,16 +4429,16 @@ frand;jac22:
     - Jacob A. Christensen
     - Eric Stubbena
     - Simon J. L. Billinge
-  doi: ''
+  doi: 10.1107/S1600576722007257
   entrytype: article
   facility: sns, nomad
   grant: fwp20
   journal: J. Appl. Crystallography
-  month: tbd
+  month: sep
   nb: ' art '
-  note: submitted
   number: ''
   optannote: ''
+  optnote: submitted
   optwwwlanl: ''
   pages: ''
   professional_summary: We introduce the open-source software package diffpy.mpdf
@@ -4452,7 +4452,7 @@ frand;jac22:
   tags: mpdf, software, magnetism
   title: 'DIFFPY.MPDF: Open-source software for magnetic pair distribution function
     analysis'
-  url: ''
+  url: https://doi.org/10.1107/S1600576722007257
   volume: ''
   year: '2022'
 frand;nc14:
