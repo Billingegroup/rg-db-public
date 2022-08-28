@@ -4100,6 +4100,21 @@
   status: accepted
   title: Ultrafast Orbital Degeneracy Lifting
   type: invited
+2210sb_centerforresearchinenergyandmaterials(cnpem),campinas,brazil:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2022-10-10
+  end_date: 2022-10-11
+  location: Center for Research in Energy and Materials (CNPEM), Campinas, Brazil
+  meeting_name: Workshop on electron PDF (ePDF)
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: invited
+  webinar: true
 2210sb_paulscherrerinstitution:
   abstract: tbd
   authors:

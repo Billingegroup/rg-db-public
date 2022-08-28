@@ -66,8 +66,45 @@ coder:
         group meeting, and also lead other social efforts in the group such as group
         movie nights and a stress-reducing intentional breathing segment during group
         meeting every week.
+    - year: 2020
+      month: 6
+      description: Established in the group CODER, the committee on diversity and
+        equity in research.  The committee currently has a mission to increase inclusivity
+        in the research group with a longer term goal of increasing the racial, ethnic
+        and gender diversity of the group.  Committee members present a discussion
+        segment on these issues to be had by the whole group every two weeks during
+        group meeting, and also lead other social efforts in the group such as group
+        movie nights and a stress-reducing intentional breathing segment during group
+        meeting every week.
   name: Committee on diversity and equity in research (CODER)
   team:
+    - name: sbillinge
+      position: Mentor
+      begin_year: 2021
+    - name: sskjaervoe
+      position: postdoc
+      begin_year: 2021
+    - name: jumana
+      position: ug
+      begin_year: 2021
+    - name: zthathcher
+      position: gra
+      begin_year: 2021
+      end_year: 2022
+    - name: ashaaban
+      position: ug
+      begin_year: 2021
+      end_year: 2021
+    - name: raiden
+      position: ug
+      begin_year: 2021
+      end_year: 2021
+    - name: llan
+      position: gra
+      begin_year: 2021
+    - name: eshen
+      position: gra
+      begin_year: 2022
     - name: sbillinge
       position: Mentor
       begin_year: 2021
@@ -484,8 +521,48 @@ mrsec14:
       month: 6
       description: Published a Nature Communications paper where we characterized
         the structure of nanoparticles arranged into a metal-organic expanded structure.
+    - year: 2018
+      month: 6
+      description: Published a Nature Communications paper where we characterized
+        the structure of nanoparticles arranged into a metal-organic expanded structure.
   name: Assembly of superatoms
   team:
+    - name: sbillinge
+      position: co-pi
+      begin_year: 2015
+      end_year: 2019
+    - name: Xavier Roy
+      position: co-pi
+      begin_year: 2014
+      end_year: 2019
+    - name: James Hone
+      position: pi
+      begin_year: 2014
+      end_year: 2019
+    - name: Collin Nuckolls
+      position: co-pi
+      begin_year: 2014
+      end_year: 2019
+    - name: Michael Steigerwald
+      position: co-pi
+      begin_year: 2014
+      end_year: 2019
+    - name: chliu
+      position: gra
+      begin_year: 2018
+      end_year: 2018
+    - name: eculbertson
+      position: gra
+      begin_year: 2017
+      end_year: 2018
+    - name: lyang
+      position: gra
+      begin_year: 2017
+      end_year: 2017
+    - name: sbanerjee
+      position: gra
+      begin_year: 2019
+      end_year: 2019
     - name: sbillinge
       position: co-pi
       begin_year: 2015

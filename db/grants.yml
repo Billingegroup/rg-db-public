@@ -611,6 +611,41 @@
       position: pi
   title: Data analysis pipelines with provenance for in-situ x-ray powder diffraction
     and atomic pair distribution function analysis
+1998_cfmr_kaplan:
+  amount: 33000
+  begin_date: 1998-06-15
+  end_date: 1999-06-14
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 13000
+    - institution: msu
+      name: James Harrison
+      position: copi
+    - institution: msu
+      name: Tom Kaplan
+      position: copi
+    - institution: msu
+      name: Bhanu Mahanti
+      position: copi
+  title: Theoretical and Experimental studies of electronic and structural properties
+    of pristine and doped manganites
+1999_cfmr:
+  amount: 10000
+  begin_date: 1999-06-15
+  end_date: 2000-06-14
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 10000
+    - institution: msu
+      name: Michael Thorpe
+      position: copi
+  title: Atomic resolution of local structure in semiconductor alloys
 19_Nanofeatures_in_crystals:
   amount: 1749995
   awardnr: DMR-1922234
@@ -694,16 +729,56 @@
       subaward_amount: 67376.63
   title: Ultrafast PDF developments
 21_jhu_mitra:
-  amount: 45000
+  amount: 55000
   begin_date: 2021-06-01
-  end_date: 2022-05-31
+  end_date: 2022-08-31
   funder: Johns Hopkins University
   team:
     - institution: columbiau
       name: sbillinge
       position: pi
-      subaward_amount: 45000
+      subaward_amount: 55000
   title: Development of scanning nanostructre electron microscopy
+22_NSF_MGI_workshop:
+  amount: 49153
+  awardnr: DMR-2241238
+  begin_date: 2022-09-01
+  budget:
+    - begin_date: 2022-09-01
+      end_date: 2023-08-31
+      amount: 49153
+      student_months: 0
+      postdoc_months: 0.5
+      ss_months: 0.75
+  end_date: 2023-08-31
+  funder: NSF
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 49153
+  title: 'Conference: WORKSHOP ON SCIENTIFIC OPPORTUNITIES AND INSTRUMENTATION NEEDS
+    FOR NEXT GENERATION MATERIALS GENOMICS BASED MATERIALS RESEARCH IN MATERIALS WITH
+    LONG RANGE ORDER'
+22_SUNY-SB_EFRC_rampdown:
+  amount: 1000000.0
+  awardnr: DE-SC0019212
+  begin_date: 2022-08-01
+  end_date: 2023-07-31
+  funder: DOE-BES
+  team:
+    - institution: stonybrooku
+      name: John Parise
+      position: pi
+      subaward_amount: 930000.0
+    - institution: columbiau
+      name: Simon Billinge
+      position: copi
+      subaward_amount: 70000.0
+      admin_people:
+        - Ria Miranda
+        - Daniel Alicea
+  title: 'GENESIS: A Next Generation Synthesis Center'
 22_collaboratory:
   amount: 100000
   awardnr: n/a
@@ -1090,38 +1165,3 @@ cfmr_98:
       position: copi
   title: 'Modelling defects in topologically connected networks: Application to perovskite
     structures'
-cfmr_98_kaplan:
-  amount: 33000
-  begin_date: 1998-06-15
-  end_date: 1999-06-14
-  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
-  team:
-    - institution: msu
-      name: sbillinge
-      position: pi
-      subaward_amount: 13000
-    - institution: msu
-      name: James Harrison
-      position: copi
-    - institution: msu
-      name: Tom Kaplan
-      position: copi
-    - institution: msu
-      name: Bhanu Mahanti
-      position: copi
-  title: Theoretical and Experimental studies of electronic and structural properties
-    of pristine and doped manganites
-cfmr_99:
-  amount: 10000
-  begin_date: 1999-06-15
-  end_date: 2000-06-14
-  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
-  team:
-    - institution: msu
-      name: sbillinge
-      position: pi
-      subaward_amount: 10000
-    - institution: msu
-      name: Michael Thorpe
-      position: copi
-  title: Atomic resolution of local structure in semiconductor alloys

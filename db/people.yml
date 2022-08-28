@@ -381,6 +381,15 @@ bozer:
       end_year: 2019
       end_month: 5
   employment:
+    - begin_year: 2021
+      begin_month: 1
+      organization: Columbia University
+      end_year: 2023
+      end_month: 1
+      position: research scientist
+      advisor: sbillinge
+      group: bg
+      status: research-associate
     - begin_year: 2020
       begin_month: 1
       organization: Columbia University
@@ -1042,10 +1051,10 @@ dpeters:
     - begin_date: 2022-06-01
       end_date: 2022-08-01
       organization: columbiau
-      position: summer research fellow
+      position: undergraduate research assistant
       group: bg
       advisor: sbillinge
-      status: undergrad
+      status: ug
   github_id: dpeters001
   grp_mtg_active: true
   name: Dominic Peters
@@ -1158,6 +1167,26 @@ ebohorquez:
   active: true
   aka: []
   avatar: https://github.com/steff3280.png
+  bio: bio
+  education: []
+  email: eb3280@columbia.edu
+  employment:
+    - begin_date: 2022-09-01
+      end_date: 2022-08-31
+      organization: columbiau
+      position: graduate research assistant
+      group: bg
+      advisor: sbillinge
+      status: phd
+  github_id: steff3280
+  grp_mtg_active: true
+  name: Estefania Bohorquez
+  orcid_id: ''
+  position: graduate research assistant
+ebohorquez_old:
+  active: true
+  aka: []
+  avatar: https://github.com/steff3280.png
   bio: ''
   education: []
   email: eb3280@columbia.edu
@@ -1165,10 +1194,10 @@ ebohorquez:
     - begin_date: 2021-12-22
       end_date: 2024-12-22
       organization: columbiau
-      position: phd research
+      position: graduate research assistant
       group: bg
       advisor: sbillinge
-      status: phd
+      status: gra
   github_id: steff3280
   grp_mtg_active: false
   name: Estephania Bohorquez
@@ -1365,7 +1394,7 @@ eculbertson:
   skills: []
   title: ''
 ekjaer:
-  active: true
+  active: false
   aka:
     - Emil T. S. Kjær
     - Emil Kjaer
@@ -2148,10 +2177,10 @@ jeaster:
     - begin_date: 2022-03-28
       end_date: 2022-08-31
       organization: columbiau
-      position: summer research fellow
+      position: undergraduate research assistant
       group: bg
       advisor: sbillinge
-      status: undergrad
+      status: ug
   github_id: easterjaylah
   grp_mtg_active: true
   name: Jaylah Easter
@@ -2168,10 +2197,10 @@ jgriffiths:
     - begin_date: 2022-01-14
       end_date: 2024-01-13
       organization: columbiau
-      position: Post Doctoral Scholar
+      position: post-doctoral scholar
       group: bg
       advisor: sbillinge
-      status: postdoc
+      status: pd
   github_id: j-griffo
   grp_mtg_active: true
   name: Jack Griffiths
@@ -2435,10 +2464,10 @@ klkim:
     - begin_date: 2022-06-01
       end_date: 2022-08-31
       organization: columbiau
-      position: undergrad research assistant
+      position: undergraduate research assistant
       group: bg
       advisor: sbillinge
-      status: undergrad
+      status: ug
   github_id: kaylabim
   grp_mtg_active: true
   name: Kayla Kim
@@ -2512,10 +2541,10 @@ kwang:
     - begin_date: 2022-06-01
       end_date: 2022-08-31
       organization: columbiau
-      position: undergrad researcher
+      position: undergraduate researcher
       group: bg
       advisor: sbillinge
-      status: undergrad
+      status: ug
   github_id: mkwang2024
   grp_mtg_active: true
   name: Kevin Wang
@@ -2764,7 +2793,7 @@ mkane:
   name: Michael Kane
   position: unknown
 mkarlsen:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/maak-sdu.png
   bio: ''
@@ -3078,7 +3107,7 @@ mzhao:
   orcid_id: 0000-0001-7082-5030
   position: Undergraduate Researcher
 nasker:
-  active: true
+  active: false
   aka:
     - Nicholas Asker
     - Nick Asker
@@ -3114,7 +3143,7 @@ nasker:
       advisor: sbillinge
       status: masters
   github_id: N-G-Asker
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Nick Asker
   orcid_id: ''
   position: masters researcher
@@ -3309,7 +3338,7 @@ pjuhas:
   name: Pavol Juhas
   position: programmer
 pliu:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/pliu2781.png
   bio: Peter was born in New York, and grew up in suburban New Jersey. He completed
@@ -3329,14 +3358,14 @@ pliu:
   email: pl2781@columbia.edu
   employment:
     - begin_date: 2021-06-09
-      end_date: 2022-08-31
+      end_date: 2022-07-27
       organization: columbiau
       position: masters researcher
       group: bg
       advisor: sbillinge
       status: masters
   github_id: pliu2781
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Peter Liu
   orcid_id: ''
   position: masters researcher
@@ -3526,10 +3555,10 @@ ranselm:
     - begin_date: 2022-02-17
       end_date: 2022-05-31
       organization: columbiau
-      position: undergrad researcher
+      position: undergraduate researcher
       group: bg
       advisor: sbillinge
-      status: undergrad
+      status: ug
   github_id: ryboselm
   grp_mtg_active: true
   name: Ryan Anselm
@@ -3926,6 +3955,26 @@ sbillinge:
           a pair distribution function study '
   email: sb2896@columbia.edu
   employment:
+    - organization: iucr
+      begin_year: 2011
+      department: aca
+      not_in_cv: true
+      position: editor
+      coworkers:
+        - aallen
+        - aaltomare
+        - lbourgeois
+        - pdominiak
+        - jeon
+        - ugrimm
+        - dkeen
+        - wkuhs
+        - lmarks
+        - hschenk
+        - ktsuda
+        - ivartaniants
+        - pwillmott
+        - mnespolo
     - organization: Columbia University
       begin_year: 2008
       group: bg
@@ -4833,10 +4882,10 @@ sfrank:
   education: []
   email: sarafrank@bce.au.dk
   employment:
-    - begin_date: 2022-02-21
+    - begin_date: 2022-09-15
       end_date: 2022-12-31
       organization: columbiau
-      position: visiting Researcher, U Copenhagen
+      position: visiting student
       group: bg
       advisor: sbillinge
       status: visitor-unsupported

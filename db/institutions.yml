@@ -2402,6 +2402,22 @@ uchicago:
   name: The University of Chicago
   state: IL
   year: 2020
+uci:
+  aka:
+    - ucirvine
+  city: Irvine
+  country: USA
+  date: 2022-08-13
+  departments:
+    matsci:
+      name: Department of Materials Science and Engineering
+    physics:
+      name: Department of Physics and Astronomy
+  name: University of California, Irvine
+  state: CA
+  updated: 2022-08-13 10:43:36.819707
+  uuid: 68ed8449-a352-4f09-8b08-7438972b6e64
+  zip: '92697'
 ucla:
   aka:
     - University of California, Los Angeles
