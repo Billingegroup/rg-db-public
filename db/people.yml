@@ -428,7 +428,7 @@ btabanpour:
   name: Baruch Tabanpour
   position: masters research assistant
 cbracy:
-  active: true
+  active: false
   aka:
     - Connor Bracy
     - Connor J. Bracy
@@ -463,7 +463,7 @@ cbracy:
   email: cjb2250@columbia.edu"
   employment:
     - begin_date: 2020-11-16
-      end_date: 2022-05-31
+      end_date: 2022-08-29
       organization: columbiau
       position: masters research assistant
       group: bg
@@ -2974,7 +2974,7 @@ mterban:
   orcid_id: 0000-0002-7094-1266
   position: post-doctoral scholar
 mtrumbull:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/MichaelTrumbull.png
   bio: ''
@@ -2982,7 +2982,7 @@ mtrumbull:
   email: mjt2211@columbia.edu
   employment:
     - begin_date: 2021-10-20
-      end_date: 2022-05-31
+      end_date: 2022-08-29
       organization: columbiau
       position: masters researcher
       group: bg
