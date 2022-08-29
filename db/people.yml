@@ -5551,7 +5551,7 @@ ylin:
   position: engineer
   position_full: Senior Process Engineer
 yrakita:
-  active: true
+  active: false
   aka:
     - Yevgeny Rakita
     - Y. Rakita
@@ -5609,16 +5609,16 @@ yrakita:
   employment:
     - begin_year: 2019
       begin_month: 6
-      end_month: 5
-      end_year: 2022
       organization: Columbia University
       advisor: sbillinge
       group: bg
       position: post-doctoral scholar
       status: postdoc
+      begin_day: 1
+      end_date: 2022-08-29
   github_id: yevgenyr
   google_scholar_url: https://scholar.google.com/citations?hl=en&user=PxH3u7wAAAAJ
-  grp_mtg_active: true
+  grp_mtg_active: false
   linkedin_url: https://www.linkedin.com/in/yevgeny-rakita-006b6871
   name: Yevgeny Rakita
   orcid_id: 0000-0003-0448-3735
