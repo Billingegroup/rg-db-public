@@ -475,7 +475,7 @@ cbracy:
   orcid_id: 0000-0001-8049-356X
   position: graduate research assistant
 cbullard:
-  active: false
+  active: true
   aka: []
   avatar: https://github.com/chloeann95.png
   bio: Chloë grew up in Michigan and attended Michigan State University for her undergraduate
@@ -517,7 +517,7 @@ cbullard:
       advisor: sbillinge
       status: masters
   github_id: chloeann95
-  grp_mtg_active: false
+  grp_mtg_active: true
   name: Chloë Bullard
   orcid_id: 0000-0002-5954-4710
   position: Masters Researcher
@@ -3694,6 +3694,26 @@ rkoch:
   orcid_id: 0000-0003-4995-2101
   position: post-doctoral scholar
   title: Dr.
+rnzhang:
+  active: true
+  aka: []
+  avatar: "https://github.com/ruining99.png"
+  bio: bio
+  education: []
+  email: rz2373@columbia.edu
+  employment:
+    - begin_date: 2020-01-01
+      end_date: 2026-06-30
+      organization: columbiau
+      position: graduate research assistant
+      group: bg
+      advisor: sbillinge
+      status: phd
+  github_id: "\x16ruining99"
+  grp_mtg_active: true
+  name: Ruining Zhang
+  orcid_id: 0000-0002-8026-9338
+  position: graduate research assistant
 rpokratath:
   active: false
   aka:
@@ -3955,6 +3975,26 @@ sbillinge:
           a pair distribution function study '
   email: sb2896@columbia.edu
   employment:
+    - organization: iucr
+      begin_year: 2011
+      department: aca
+      not_in_cv: true
+      position: editor
+      coworkers:
+        - aallen
+        - aaltomare
+        - lbourgeois
+        - pdominiak
+        - jeon
+        - ugrimm
+        - dkeen
+        - wkuhs
+        - lmarks
+        - hschenk
+        - ktsuda
+        - ivartaniants
+        - pwillmott
+        - mnespolo
     - organization: iucr
       begin_year: 2011
       department: aca
@@ -4877,23 +4917,23 @@ sdisch:
 sfrank:
   active: true
   aka: []
-  avatar: https://github.com/sarafrank95.png
-  bio: ''
+  avatar: https://github.com/.png
+  bio: bio
   education: []
-  email: sarafrank@bce.au.dk
+  email: adsf@ht.com
   employment:
-    - begin_date: 2022-09-15
-      end_date: 2022-12-31
+    - begin_date: 2020-01-01
+      end_date: 2100-12-31
       organization: columbiau
-      position: visiting student
+      position: ''
       group: bg
       advisor: sbillinge
-      status: visitor-unsupported
-  github_id: sarafrank95
-  grp_mtg_active: false
+      status: unknown
+  github_id: ''
+  grp_mtg_active: true
   name: Sara Frank
-  orcid_id: 0000-0001-6321-8363
-  position: visiting Researcher, U Copenhagen
+  orcid_id: ''
+  position: ''
 sghose:
   active: false
   aka: []
