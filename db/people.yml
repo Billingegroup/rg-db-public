@@ -3694,6 +3694,26 @@ rkoch:
   orcid_id: 0000-0003-4995-2101
   position: post-doctoral scholar
   title: Dr.
+rnzhang:
+  active: true
+  aka: []
+  avatar: "https://github.com/ruining99.png"
+  bio: bio
+  education: []
+  email: rz2373@columbia.edu
+  employment:
+    - begin_date: 2022-08-30
+      end_date: 2026-06-30
+      organization: columbiau
+      position: graduate research assistant
+      group: bg
+      advisor: sbillinge
+      status: phd
+  github_id: "ruining99"
+  grp_mtg_active: true
+  name: Ruining Zhang
+  orcid_id: 0000-0002-8026-9338
+  position: graduate research assistant
 rpokratath:
   active: false
   aka:
