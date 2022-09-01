@@ -475,7 +475,7 @@ cbracy:
   orcid_id: 0000-0001-8049-356X
   position: graduate research assistant
 cbullard:
-  active: false
+  active: true
   aka: []
   avatar: https://github.com/chloeann95.png
   bio: Chloë grew up in Michigan and attended Michigan State University for her undergraduate
@@ -517,7 +517,7 @@ cbullard:
       advisor: sbillinge
       status: masters
   github_id: chloeann95
-  grp_mtg_active: false
+  grp_mtg_active: true
   name: Chloë Bullard
   orcid_id: 0000-0002-5954-4710
   position: Masters Researcher
@@ -1172,37 +1172,17 @@ ebohorquez:
   email: eb3280@columbia.edu
   employment:
     - begin_date: 2022-09-01
-      end_date: 2022-08-31
-      organization: columbiau
-      position: graduate research assistant
-      group: bg
-      advisor: sbillinge
-      status: phd
-  github_id: steff3280
-  grp_mtg_active: true
-  name: Estefania Bohorquez
-  orcid_id: ''
-  position: graduate research assistant
-ebohorquez_old:
-  active: true
-  aka: []
-  avatar: https://github.com/steff3280.png
-  bio: ''
-  education: []
-  email: eb3280@columbia.edu
-  employment:
-    - begin_date: 2021-12-22
-      end_date: 2024-12-22
+      end_date: 2024-12-31
       organization: columbiau
       position: graduate research assistant
       group: bg
       advisor: sbillinge
       status: gra
   github_id: steff3280
-  grp_mtg_active: false
-  name: Estephania Bohorquez
+  grp_mtg_active: true
+  name: Estefania Bohorquez
   orcid_id: ''
-  position: phd research
+  position: graduate research assistant
 ebozin:
   active: false
   aka:
@@ -1437,7 +1417,7 @@ ekjaer:
   position: visiting student
   position_full: visiting PhD Researcher, U. Copenhagen
 eshen:
-  active: true
+  active: false
   aka:
     - Eric Shen
     - Eric Jyh-Yu Shen
@@ -3534,7 +3514,7 @@ raidun:
   orcid_id: '0000'
   position: undergraduate researcher
 ranselm:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/ryboselm.png
   bio: Ryan is an undergraduate in SEAS from Houston, Texas studying computer science
@@ -3553,14 +3533,14 @@ ranselm:
   email: raa2218@columbia.edu
   employment:
     - begin_date: 2022-02-17
-      end_date: 2022-05-31
+      end_date: 2022-08-31
       organization: columbiau
       position: undergraduate researcher
       group: bg
       advisor: sbillinge
       status: ug
   github_id: ryboselm
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Ryan Anselm
   orcid_id: ''
   position: undergrad researcher
@@ -3697,7 +3677,7 @@ rkoch:
 rnzhang:
   active: true
   aka: []
-  avatar: "https://github.com/ruining99.png"
+  avatar: https://github.com/ruining99.png
   bio: bio
   education: []
   email: rz2373@columbia.edu
@@ -3709,7 +3689,7 @@ rnzhang:
       group: bg
       advisor: sbillinge
       status: phd
-  github_id: "ruining99"
+  github_id: ruining99
   grp_mtg_active: true
   name: Ruining Zhang
   orcid_id: 0000-0002-8026-9338
