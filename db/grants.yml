@@ -796,6 +796,18 @@
       position: copi
       subaward_amount: 0
   title: Applying Machine Learning to Valuable Data in the Physical Sciences and Engineering
+22_iucr:
+  amount: 51500
+  awardnr: n/a
+  begin_date: 2022-03-01
+  end_date: 2025-02-28
+  funder: International Union of Crystallography
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 54000
+  title: Towards a machine readable literature
 79_mrsec_seed:
   amount: 66000
   awardnr: seed-grant
