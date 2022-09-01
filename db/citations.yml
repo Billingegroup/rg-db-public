@@ -5479,7 +5479,23 @@ hao;jmcc21:
   wwwpub: ''
   year: '2021'
 harou;arxiv22:
-  ackno: ''
+  ackno: The authors would like to thank Zach Thatcher, Connor Bracy, Silvio 
+    Achilles and Ludwig Hendl for help with software releases. We acknowledge 
+    DESY (Hamburg, Germany), a member of the Helmholtz Association HGF, for the 
+    provision of experimental facilities. Parts of this research were carried 
+    out at PETRA III. We would like to thank Uta Ruett, Olof Gutowski and René 
+    Kirchhof for assistance in using P07. Furthermore, we thank Daliborka 
+    Erdoglija, Fenja Berg, Dagmar Leisten and Ulrich Boettger of the Institute 
+    for Materials in Electrical Engineering (IWE-2), RWTH Aachen University 
+    (Aachen, Germany), for the fabrication of the textured Pt thin film.
+    Work on the theory and texture pair distribution function developments and 
+    analysis in the Billinge group was supported by the US Department of Energy, 
+    Office of Science, Office of Basic Energy Sciences (DOE-BES) under contract 
+    No. DE-SC0012704. SYHM and DK acknowledge support from the Cluster of 
+    Excellence 'CUI; Advanced Imaging of Matter' of the Deutsche 
+    Forschungsgemeinschaft (DFG) – EXC 2056 – project ID 390715994 and from the 
+    Bundesministerium für Bildung und Forschung (BMBF) via project LUCENT under 
+    grant No. 05K19WMA.
   author:
     - Sani Y. Harouna-Mayer
     - Songsheng Tao
@@ -5488,18 +5504,18 @@ harou;arxiv22:
     - Martin von Zimmermann
     - Dorota Koziej
     - Simon J. L. Billinge
-  doi: ''
+  doi: 10.1107/S2052252522006674
   entrytype: article
   facility: xpd, nslsii
   grant: fwp20
-  journal: IUCr J
-  month: jan
+  journal: IUCrJ
+  month: sep
   nb: ''
-  note: to be published
-  number: ''
+  optnote: to be published
+  number: '5'
   optannote: ''
   optwwwlanl: ''
-  pages: ''
+  pages: '594-603'
   synopsis: A procedure is demonstrated for obtaining the orientational distribution
     function (ODL) and real space pole figures from 3D PDF data from a textured sample.  Historically,
     it has not been possible to study using PDF samples with preferred orientation
@@ -5508,8 +5524,8 @@ harou;arxiv22:
   tags: texture, txPDF, 3dpdf
   title: Real space texture and pole figure analysis using the three-dimensional pair
     distribution function on a platinum thin film
-  url: https://arxiv.org/abs/2201.03440
-  volume: ''
+  url: https://doi.org/10.1107/S2052252522006674
+  volume: '9'
   wwwemail: ''
   wwwpub: ''
   year: '2022'
