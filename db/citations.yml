@@ -2335,7 +2335,7 @@ bozer;aca22:
     - Billing, D. G.
     - Ravnsbæk, D. B.
     - Billinge, S. J. L
-  doi: ''
+  doi: 10.1107/S2053273322007483
   entrytype: article
   facility: ''
   grant: dmref19
@@ -2345,7 +2345,7 @@ bozer;aca22:
   number: ''
   optannote: ''
   optwwwlanl: ''
-  pages: ''
+  pages: '386-394'
   professional_summary: pyDataRecognition is a prototype application that explores
     the potential of machine-readable literature. The user, e.g. a structure scientist
     has a powder diffraction pattern from a particular sample collected on their powder
@@ -2373,8 +2373,8 @@ bozer;aca22:
   tags: machine_readable_scientific_literature, powder_diffraction, xrpd, mrsl
   title: 'Towards a machine-readable literature: finding relevant papers based on
     an uploaded powder diffraction pattern'
-  url: ''
-  volume: ''
+  url: https://doi.org/10.1107/S2053273322007483
+  volume: '78'
   wwwemail: ''
   wwwpub: http://arxiv.org/abs/2204.00434
   year: '2022'
@@ -10238,7 +10238,7 @@ skjae;iucrj22:
   journal: IUCrJ
   month: '09'
   nb: ''
-  note: null
+  note: []
   number: ''
   optannote: ''
   optwwwlanl: ''
@@ -11590,7 +11590,7 @@ wrigh;cm21:
   nb: art, fy21, typeA
   number: '9'
   optannote: ''
-  optnote: null
+  optnote: []
   optwwwlanl: ''
   pages: 3359-3367
   summary_professional: The optical float-zone furnace approach for growing large
