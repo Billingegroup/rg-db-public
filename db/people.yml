@@ -2502,7 +2502,7 @@ kseth:
   name: Kriti Seth
   position: visiting student
 kwang:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/mkwang2024.png
   bio: Kevin grew up in Beijing, China. He is an undergraduate student in Columbia
@@ -2526,7 +2526,7 @@ kwang:
       advisor: sbillinge
       status: ug
   github_id: mkwang2024
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Kevin Wang
   orcid_id: 0000-0002-8386-9849
   position: undergrad researcher
