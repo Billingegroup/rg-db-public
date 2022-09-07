@@ -40,3 +40,5 @@ jobs:
           cd rg-db-public/local
           regolith validate
           regolith build publist --no-pdf
+          regolith build cv --no-pdf
+          regolith build html

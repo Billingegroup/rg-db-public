@@ -53,8 +53,6 @@ jobs:
         run: |
           cd website
           regolith build html
-          regolith build cv --no-pdf
-          regolith build publist --no-pdf
 
       - name: Deploy Group Website
         uses: connorjbracy/copy_to_another_repo_action@main
