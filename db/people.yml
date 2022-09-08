@@ -4878,8 +4878,23 @@ sfrank:
   active: true
   aka: []
   avatar: https://github.com/sarafrank95.png
-  bio: ''
-  education: []
+  bio: Sara is from Aarhus, Denmark. She acquired her Master's Degree in Nanoscience
+    and is currently pursuing a PhD in Chemical Engineering at Aarhus University.
+    She is exploring hybrid organic-inorganic catalysts for electrocatalytic CO2 reduction 
+    and investigates their structure-property relations with EXAFS and PDF.
+  education:
+    - begin_year: 2020
+      degree: PhD in Chemical Engineering
+      institution: aarhusu
+      end_year: 2024
+    - begin_year: 2018
+      degree: MS in Nanoscience
+      institution: aarhusu
+      end_year: 2020
+    - begin_year: 2015
+      degree: BA in Nanoscience
+      institution: aarhusu
+      end_year: 2018
   email: sarafrank@bce.au.dk
   employment:
     - begin_date: 2022-09-15
@@ -4893,7 +4908,7 @@ sfrank:
   grp_mtg_active: false
   name: Sara Frank
   orcid_id: 0000-0001-6321-8363
-  position: visiting Researcher, U Copenhagen
+  position: visiting Researcher, U. Aarhus
 sghose:
   active: false
   aka: []
