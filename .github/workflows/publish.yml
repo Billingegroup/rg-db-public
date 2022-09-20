@@ -64,6 +64,7 @@ jobs:
           conda activate test
           less regolithrc.json
           ls ../rg-db-public/db
+          regolith rc
           regolith validate
           regolith build html
 
