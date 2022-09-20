@@ -57,23 +57,13 @@ jobs:
           conda install --file requirements/run.txt
           pip install .
 
-      - name: Build Group Website in public
-        shell: bash -l {0}
-        run: |
-          cd rg-db-public
-          conda activate test
-          conda list
-          regolith validate
-          regolith build html
-
-
       - name: Build Group Website in website
         shell: bash -l {0}
         run: |
           cd website
           conda activate test
           regolith validate
-#          regolith build html
+          regolith build html
 
       - name: Deploy Group Website
         uses: connorjbracy/copy_to_another_repo_action@main
