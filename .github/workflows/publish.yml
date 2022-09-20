@@ -63,6 +63,8 @@ jobs:
           cd website
           conda activate test
           regolith validate
+          ls
+          ls ../rg-db-public
           regolith build html
 
       - name: Deploy Group Website
