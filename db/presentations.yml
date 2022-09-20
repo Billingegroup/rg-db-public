@@ -4086,6 +4086,22 @@
   status: accepted
   title: tbd
   type: invited
+2209sb_columbiau:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2022-09-23
+  department: Materials Science Research Seminar
+  end_date: 2022-09-23
+  institution: columbiau
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Unsupervised and supervised machine learning for total scattering and {PDF}
+    analyses
+  type: seminar
+  webinar: true
 2209sb_tatrasmountains,slovakia:
   abstract: tbd
   authors:
@@ -4100,6 +4116,23 @@
   status: accepted
   title: Ultrafast Orbital Degeneracy Lifting
   type: invited
+2209sb_ujohannesburg:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2022-09-08
+  end_date: 2022-09-08
+  location: ujohannesburg
+  meeting_name: LAAAMP-AfLS Africa Workshop
+  notes:
+    - 'url of meeting: https://events.saip.org.za/event/231/'
+  project:
+    - all
+  status: accepted
+  title: Using synchrotrons to study structure-property relationships in complex nanostructured
+    materials
+  type: invited
+  webinar: true
 2210sb_centerforresearchinenergyandmaterials(cnpem),campinas,brazil:
   abstract: tbd
   authors:

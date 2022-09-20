@@ -1452,7 +1452,7 @@ eshen:
       advisor: sbillinge
       status: ms
   github_id: sheneric88
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Eric Shen
   orcid_id: 0000-0001-6715-7262
   position: graduate research assistant
@@ -2162,7 +2162,7 @@ jeaster:
       advisor: sbillinge
       status: ug
   github_id: easterjaylah
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Jaylah Easter
   orcid_id: ''
   position: Undergraduate Researcher
@@ -3975,6 +3975,66 @@ sbillinge:
         - ivartaniants
         - pwillmott
         - mnespolo
+    - organization: iucr
+      begin_year: 2011
+      department: aca
+      not_in_cv: true
+      position: editor
+      coworkers:
+        - aallen
+        - aaltomare
+        - lbourgeois
+        - pdominiak
+        - jeon
+        - ugrimm
+        - dkeen
+        - wkuhs
+        - lmarks
+        - hschenk
+        - ktsuda
+        - ivartaniants
+        - pwillmott
+        - mnespolo
+    - organization: iucr
+      begin_year: 2011
+      department: aca
+      not_in_cv: true
+      position: editor
+      coworkers:
+        - aallen
+        - aaltomare
+        - lbourgeois
+        - pdominiak
+        - jeon
+        - ugrimm
+        - dkeen
+        - wkuhs
+        - lmarks
+        - hschenk
+        - ktsuda
+        - ivartaniants
+        - pwillmott
+        - mnespolo
+    - organization: iucr
+      begin_year: 2011
+      department: aca
+      not_in_cv: true
+      position: editor
+      coworkers:
+        - aallen
+        - aaltomare
+        - lbourgeois
+        - pdominiak
+        - jeon
+        - ugrimm
+        - dkeen
+        - wkuhs
+        - lmarks
+        - hschenk
+        - ktsuda
+        - ivartaniants
+        - pwillmott
+        - mnespolo
     - organization: Columbia University
       begin_year: 2008
       group: bg
@@ -5074,7 +5134,7 @@ sstao:
       group: bg
   github_id: st3107
   google_scholar_url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=xe1JOIAAAAAJ
-  grp_mtg_active: false
+  grp_mtg_active: true
   name: Songsheng Tao
   orcid_id: 0000-0002-7565-3503
   position: graduate research assistant
