@@ -60,7 +60,7 @@ jobs:
       - name: Build Group Website in website
         shell: bash -l {0}
         run: |
-          cd website
+          cd website/local
           conda activate test
           regolith validate
           regolith build html
