@@ -4086,6 +4086,22 @@
   status: accepted
   title: tbd
   type: invited
+2209sb_iucrquantumcrystallographycommission:
+  abstract: The materials genome initiative (MGI) is a US government initiative from
+    2011 to speed up, and lower
+  authors:
+    - sbillinge
+  begin_date: 2022-09-29
+  end_date: 2022-09-29
+  location: IUCR Quantum Crystallography Commission
+  meeting_name: Lectures  in Quantum Crystallography and Related Fields
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Do materials have a genome, and if they do, what can we do with it?
+  type: invited
+  webinar: true
 2209sb_tatrasmountains,slovakia:
   abstract: tbd
   authors:
