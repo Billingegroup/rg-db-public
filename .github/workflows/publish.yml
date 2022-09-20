@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - main
-    workflow_dispatch:
-    pull_request:
+  pull_request:
+  workflow_dispatch:
 
 
 jobs:
@@ -57,7 +57,7 @@ jobs:
           conda install --file requirements/run.txt
           pip install .
 
-      - name: Build Group Website
+      - name: Build Group Website in public
         shell: bash -l {0}
         run: |
           cd rg-db-public
@@ -66,7 +66,7 @@ jobs:
           regolith build html
 
 
-      - name: Build Group Website
+      - name: Build Group Website in website
         shell: bash -l {0}
         run: |
           cd website
