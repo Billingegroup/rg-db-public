@@ -1,44 +1,58 @@
 name: CI
 
-on: [pull_request, workflow_dispatch]
+on: [push, pull_request, workflow_dispatch]
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    # The custom docker container to use instead.
-    # I believe "runs-on: ubuntu-latest" is either required as a fallback or it
-    # is the container that then installs docker, downloads the doceker image,
-    # and runs an instance of that image to execute the commands below. Either
-    # way, both statements seem to be required.
-    container: connorjbracy/rg-db-group-ci:0.2.1
-
+  miniconda:
+    name: Miniconda ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+        matrix:
+            os: ["ubuntu-latest"]
     steps:
-      - uses: actions/checkout@v3
+      - name: check out rg-db-public
+        uses: actions/checkout@v3
         with:
-          # Make sure this repo is checked out into its own directory rather
-          # than being checked out into the default home directory of the CI.
-          # That is, check out this repo "side-by-side" with the subsequent
-          # repos being checkedout, rather than having the subsequent repos be
-          # checked out "nested" within this repo.
+          # make sure rg-db-public is at the same level as rg-db-local in the
+          # directory tree
           path: rg-db-public
 
-      - name: Check out regolith repository
+      - name: check out regolith
         uses: actions/checkout@v3
         with:
           repository: regro/regolith
-          token: ${{ secrets.GH_ACTIONS_PAT }}
+          # for bookkeeping have regolith at the same level as everything else in the
+          # directory tree
           path: regolith
 
-      - name: Init working dir and conda and Install regolith
+      - name: initialize miniconda
+        # this uses a marketplace action that sets up miniconda in a way that makes
+        # it easier to use.  I tried setting it up without this and it was a pain
+        uses: conda-incubator/setup-miniconda@v2
+        with:
+          activate-environment: test
+          # environment.yml file is needed by this action.  Because I don't want
+          # maintain this but rather maintain the requirements files it just has
+          # basic things in it like conda and pip
+          environment-file: rg-db-public/environment.yml
+          python-version: 3
+          auto-activate-base: false
+
+      - name: install regolith requirements
+        shell: bash -l {0}
         run: |
-          conda init bash
-          bash /update_conda_requirements.sh
-          pip install regolith/
+          conda config --set always_yes yes --set changeps1 no
+          cd regolith
+          conda install --file requirements/run.txt
+          pip install .
 
       - name: Validate rg-db-public
+        shell: bash -l {0}
         run: |
           cd rg-db-public/local
+          conda activate test
           regolith validate
           regolith build publist --no-pdf
           regolith build cv --no-pdf
           regolith build html
+          regolith build preslist --no-pdf
