@@ -2345,7 +2345,7 @@ bozer;aca22:
   number: ''
   optannote: ''
   optwwwlanl: ''
-  pages: '386-394'
+  pages: 386-394
   professional_summary: pyDataRecognition is a prototype application that explores
     the potential of machine-readable literature. The user, e.g. a structure scientist
     has a powder diffraction pattern from a particular sample collected on their powder
@@ -5479,23 +5479,21 @@ hao;jmcc21:
   wwwpub: ''
   year: '2021'
 harou;arxiv22:
-  ackno: The authors would like to thank Zach Thatcher, Connor Bracy, Silvio 
-    Achilles and Ludwig Hendl for help with software releases. We acknowledge 
-    DESY (Hamburg, Germany), a member of the Helmholtz Association HGF, for the 
-    provision of experimental facilities. Parts of this research were carried 
-    out at PETRA III. We would like to thank Uta Ruett, Olof Gutowski and René 
-    Kirchhof for assistance in using P07. Furthermore, we thank Daliborka 
-    Erdoglija, Fenja Berg, Dagmar Leisten and Ulrich Boettger of the Institute 
-    for Materials in Electrical Engineering (IWE-2), RWTH Aachen University 
-    (Aachen, Germany), for the fabrication of the textured Pt thin film.
-    Work on the theory and texture pair distribution function developments and 
-    analysis in the Billinge group was supported by the US Department of Energy, 
-    Office of Science, Office of Basic Energy Sciences (DOE-BES) under contract 
-    No. DE-SC0012704. SYHM and DK acknowledge support from the Cluster of 
-    Excellence 'CUI; Advanced Imaging of Matter' of the Deutsche 
-    Forschungsgemeinschaft (DFG) – EXC 2056 – project ID 390715994 and from the 
-    Bundesministerium für Bildung und Forschung (BMBF) via project LUCENT under 
-    grant No. 05K19WMA.
+  ackno: The authors would like to thank Zach Thatcher, Connor Bracy, Silvio Achilles
+    and Ludwig Hendl for help with software releases. We acknowledge DESY (Hamburg,
+    Germany), a member of the Helmholtz Association HGF, for the provision of experimental
+    facilities. Parts of this research were carried out at PETRA III. We would like
+    to thank Uta Ruett, Olof Gutowski and René Kirchhof for assistance in using P07.
+    Furthermore, we thank Daliborka Erdoglija, Fenja Berg, Dagmar Leisten and Ulrich
+    Boettger of the Institute for Materials in Electrical Engineering (IWE-2), RWTH
+    Aachen University (Aachen, Germany), for the fabrication of the textured Pt thin
+    film. Work on the theory and texture pair distribution function developments and
+    analysis in the Billinge group was supported by the US Department of Energy, Office
+    of Science, Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0012704.
+    SYHM and DK acknowledge support from the Cluster of Excellence 'CUI; Advanced
+    Imaging of Matter' of the Deutsche Forschungsgemeinschaft (DFG) – EXC 2056 – project
+    ID 390715994 and from the Bundesministerium für Bildung und Forschung (BMBF) via
+    project LUCENT under grant No. 05K19WMA.
   author:
     - Sani Y. Harouna-Mayer
     - Songsheng Tao
@@ -5511,11 +5509,11 @@ harou;arxiv22:
   journal: IUCrJ
   month: sep
   nb: ''
-  optnote: to be published
   number: '5'
   optannote: ''
+  optnote: to be published
   optwwwlanl: ''
-  pages: '594-603'
+  pages: 594-603
   synopsis: A procedure is demonstrated for obtaining the orientational distribution
     function (ODL) and real space pole figures from 3D PDF data from a textured sample.  Historically,
     it has not been possible to study using PDF samples with preferred orientation
@@ -6444,16 +6442,18 @@ kjaer;cm22:
     - Mikkel Juelsholt
     - Simon J. L. Billinge
     - Kirsten M. Ø. Jensen
-  doi: ''
+  doi: 10.1002/cmtd.202200034
   entrytype: article
   facility: desy, petraiii, p02.1
   grant: dmref19
   journal: Chemistry Methods
-  month: tbd
-  nb: ''
-  note: To be published
-  number: ''
+  month: Aug
+  nb: 'Journal cover: https://doi-org.ezproxy.cul.columbia.edu/10.1002/cmtd.202200053  Editors
+    spotlight: https://chemistry-europe-onlinelibrary-wiley-com.ezproxy.cul.columbia.edu/doi/toc/10.1002/(ISSN)9999-0001.spotlights
+    and journal cover '
+  number: '9'
   optannote: ''
+  optnote: To be published
   optwwwlanl: ''
   pages: ''
   professional_summary: Tungsten and Niobium nanoparticle formation is studied using
@@ -6464,8 +6464,8 @@ kjaer;cm22:
   title: 'In situ studies of the formation of tungsten and niobium oxide nanoparticles:
     Towards automated analysis of reaction pathways from PDF analysis using the Pearson
     correlation coefficient'
-  url: ''
-  volume: ''
+  url: https://doi.org/10.1002/cmtd.202200034
+  volume: '2'
   wwwemail: ''
   wwwpub: ''
   year: '2022'
@@ -10231,7 +10231,7 @@ skjae;iucrj22:
     - Martin A. Karlsen
     - Riccardo Comin
     - Simon J. L. Billinge
-  doi: '10.1107/S2052252522007680'
+  doi: 10.1107/S2052252522007680
   entrytype: article
   facility: pdf, nslsii
   grant: dmref19
@@ -10242,7 +10242,7 @@ skjae;iucrj22:
   number: ''
   optannote: ''
   optwwwlanl: ''
-  pages: '705-712'
+  pages: 705-712
   professional_summary: Structural modelling of octahedral tilts in perovskites is
     typically carried out using the symmetry constraints of the resulting space group.
     In most cases, this introduces more degrees of freedom than those strictly necessary
