@@ -62,9 +62,9 @@ jobs:
         run: |
           cd website
           conda activate test
-          regolith validate
-          ls
+          less regolithrc.json
           ls ../rg-db-public/db
+          regolith validate
           regolith build html
 
       - name: Deploy Group Website
