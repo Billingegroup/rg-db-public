@@ -60,6 +60,7 @@ jobs:
       - name: Build Group Website
         run: |
           cd website
+          conda activate test
           regolith build html
 
       - name: Deploy Group Website
