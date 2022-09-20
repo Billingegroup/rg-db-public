@@ -57,6 +57,7 @@ jobs:
           pip install .
 
       - name: Build Group Website
+        shell: bash -l {0}
         run: |
           cd website
           conda activate test
