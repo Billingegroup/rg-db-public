@@ -62,6 +62,7 @@ jobs:
         run: |
           cd rg-db-public
           conda activate test
+          conda list
           regolith validate
           regolith build html
 
