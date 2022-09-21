@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-  pull_request:
   workflow_dispatch:
 
 
@@ -62,10 +61,6 @@ jobs:
         run: |
           cd website
           conda activate test
-          less regolithrc.json
-          ls ../rg-db-public/db
-          regolith rc
-          regolith validate
           regolith build html
 
       - name: Deploy Group Website
