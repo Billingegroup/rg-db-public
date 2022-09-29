@@ -279,10 +279,10 @@ anker;unpub22:
   entrytype: article
   facility: maxiv, danmax, desy, petraiii, p02.1, p07, soleil, swing, aps
   grant: dmref19
-  journal: tbd
+  journal: npj Computational Materials
   month: tbd
   nb: ''
-  note: ChemRxiv
+  note: to be published.  Available on ChemRxiv.
   number: ''
   optannote: ''
   optwwwlanl: ''
@@ -11863,55 +11863,6 @@ xie;am22:
   title: Hidden Local Symmetry Breaking in Silver Diamondoid Compounds is Root Cause
     of Ultralow Thermal Conductivity
   url: ''
-  volume: ''
-  year: '2022'
-xie;unpub22:
-  ackno: This work was primarily supported by a grant from the U.S. Department of
-    Energy, Office of Science, and Office of Basic Energy Sciences under Award Number
-    DE-SC0014520. Work at Brookhaven National Laboratory was supported by U.S. Department
-    of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
-    Contract No. DE-SC0012704. The X-ray PDF measurements were conducted in part on
-    beamline 28-ID-1 of the National Synchrotron Light Source II, a U.S. Department
-    of Energy (DOE) Office of Science User Facility operated for the DOE Office of
-    Science by Brookhaven National Laboratory under Contract No. DE-SC0012704.
-  author:
-    - Hongyao Xie
-    - Emil S. Bozin
-    - Zhi Li
-    - Milinda Abeykoon
-    - Soham Banerjee
-    - James P. Male
-    - G. Jeffrey Snyder
-    - Christopher Wolverton
-    - Simon J. L. Billinge
-    - Mercouri G. Kanatzidis
-  doi: 10.1002/adma.202202255
-  entrytype: article
-  facility: ' pdf, nslsii'
-  grant: fwp20
-  journal: Advanced Materials
-  month: jun
-  nb: ' art '
-  note: to be published
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
-  professional_summary: Typically, conventional structure transitions occur from a
-    low symmetric state to a higher symmetry state upon warming. This paper reports
-    the discovery of this "emphanitic" phenomenon in the diamondoid compound AgGaTe2.  The
-    phenomenon has previously been seen only in Pb and Sn containing compounds where
-    the lone-pair on the metal ion plays an important role.  Here there is no lone-pair.  DFT
-    calculations indicates that it is a  weak sd3 orbital hybridization of the tetrahedral
-    Ag atoms that leads to a  distortion of the crystal structure. It also results
-    in a strong acoustic–optical phonon scattering which can explain the ultralow
-    thermal conductivity in AgGaTe2 and its promising thermoelectric properties.
-  synopsis: emphanisis is found in a non lone-pair diamondoid compound AgGaTe2 which
-    has very low thermal conductivity.
-  tags: thermoelectric, emphanisis,
-  title: Hidden Local Symmetry Breaking in Silver Diamondoid Compounds is Root Cause
-    of Ultralow Thermal Conductivity
-  url: https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202202255
   volume: ''
   year: '2022'
 xu;b;ainips18:
