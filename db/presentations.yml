@@ -4073,6 +4073,22 @@
   title: Unsupervised and supervised machine learning for total scattering and PDF
     analyses
   type: invited
+2209sb_2022ssrl/lclsusersmeeting:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2022-09-26
+  end_date: 2022-09-30
+  location: 2022 SSRL/LCLS Users meeting
+  meeting_name: Computational methods in the Structural Sciences workshop
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Community coding practices for scientific software: Tips and tricks for
+    making better code and having it outlive your participation in the project'
+  type: invited
+  webinar: true
 2209sb_chicheleyhall,miltonkeynes,uk:
   abstract: tbd
   authors:
@@ -4083,9 +4099,25 @@
   meeting_name: Meeting on Complex Order
   project:
     - all
-  status: cancelled
+  status: declined
   title: tbd
   type: invited
+2209sb_columbiauniversity:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2022-09-23
+  end_date: 2022-09-23
+  location: Columbia University
+  meeting_name: APAM Research Seminar
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Unsupervised and supervised machine learning for total scattering and {PDF}
+    analyses
+  type: invited
+  webinar: true
 2209sb_iucrquantumcrystallographycommission:
   abstract: The materials genome initiative (MGI) is a US government initiative from
     2011 to speed up, and lower
@@ -4115,7 +4147,72 @@
     - all
   status: accepted
   title: Ultrafast Orbital Degeneracy Lifting
+  type: cancelled
+2210_ADD2022:
+  abstract: There are recently emerging powerful experimental developments related
+    to atomic pair distribution function (PDF) method and total-scattering studies.
+    At this workshop you will learn in detail about carrying out and applying PDF
+    to your own scientific research, and there will be excellent tutorial talks on
+    this. Therefore, in this talk I will focus on recent technological and methodological
+    developments, and some that are in the pipeline, that are allowing ever richer
+    science to be done. Examples include new spatial and time resolved capabilities
+    and novel approaches to modeling. I will also talk about recent applications of
+    PDF to scientific problems enabled by the new developments.  I will also describe
+    recent and upcoming developments in PDF analysis and modeling software that are
+    under development in the group.
+  authors:
+    - sbillinge
+  begin_date: 2022-10-16
+  end_date: 2022-10-21
+  end_month: 3
+  end_year: 2019
+  location: Grenoble, France
+  meeting_name: School and conference on analysis of diffraction data in real space
+  project:
+    - all
+  status: accepted
+  title: Recent and future developments in {PDF}-land
   type: invited
+2210sb_addgrenoblecmitalk:
+  abstract: 'This presentation and the associated hands-on tutorial will introduce
+    DiffPy-CMI, a software for structure analysis from experimental atomic Pair Distribution
+    Function (PDF) and for Complex Modeling [1, 2].  DiffPy-CMI (Complex Modeling
+    Infrastructure) has been developed to handle ill-posed inverse problems, where
+    diffraction experiments do not provide enough signal to determine complicated
+    structures or nanostructures.  To overcome this problem, we use a Complex Modeling
+    approach [3] which allows users to combine additional experimental or theoretical
+    inputs and uses them all together in a common optimization routine.  DiffPy-CMI
+    is a flexible and extensible program allowing user to create such models tailored
+    for the specific knowledge about the material under study.  DiffPy-CMI runs on
+    Linux and Mac operating systems and is primarily written in Python with computationally
+    intense parts coded in C++.  It can also be run on windows using the Windows Linux
+    Subsystem (WSL). In the big picture DiffPy-CMI provides several ways of representing
+    atomic structures, a set of forward calculators (e.g., PDF, bond valence sums,
+    powder and single crystal diffraction), and finally a fit-manager to define and
+    run multi-input refinements.  The fits can be conducted with short Python scripts
+    or within the Jupyter Notebook interactive environment.  In addition to Complex
+    Modeling, DiffPy-CMI also enables more subtle PDF refinements which are not possible
+    in PDFgui [4] - for example PDF fits of non-periodic small clusters or of molecular
+    crystals with rigid structure units.  The software provides access to internal
+    simulation routines, which can be tweaked or extended, and thus permits rapid
+    implementation of new ideas and more accurate models.  We will demonstrate the
+    capabilities of DiffPy-CMI on a series of science cases, starting from simple
+    forward calculations and following up with PDF fitting examples that go beyond
+    PDFgui.  '
+  authors:
+    - sbillinge
+    - pjuhas
+    - sstao
+  begin_date: 2022-10-16
+  end_date: 2022-10-22
+  location: Grenoble, France
+  meeting_name: School and conference on analysis of diffraction data in real space
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'DiffPy-CMI - a software toolbox for real-space structure analysis '
+  type: tutorial
 2210sb_centerforresearchinenergyandmaterials(cnpem),campinas,brazil:
   abstract: tbd
   authors:
@@ -4131,20 +4228,30 @@
   title: tbd
   type: invited
   webinar: true
-2210sb_paulscherrerinstitution:
-  abstract: tbd
+2210sb_grenoble,france:
+  abstract: 'There are recently emerging powerful experimental developments related
+    to atomic pair distribution function (PDF) method and total-scattering studies.
+    At this workshop you will learn in detail about carrying out and applying PDF
+    to your own scientific research, and there will be excellent tutorial talks on
+    this. Therefore, in this talk I will focus on recent technological and methodological
+    developments, and some that are in the pipeline, that are allowing ever richer
+    science to be done.  Examples include new spatial and time resolved capabilities
+    and novel approaches to modeling. I will also talk about recent applications of
+    PDF to scientific problems enabled by the new developments.  I will also describe
+    recent and upcoming developments in PDF analysis and modeling software that are
+    under development in the group. '
   authors:
     - sbillinge
-  begin_date: 2022-10-07
-  department: cmp
-  end_date: 2022-10-07
-  institution: psi
-  presentation_url: 2210sb_psi
+  begin_date: 2022-10-16
+  end_date: 2022-10-22
+  location: Grenoble, France
+  meeting_name: School and conference on analysis of diffraction data in real space
+  notes: []
   project:
     - all
   status: accepted
-  title: tbd
-  type: colloquium
+  title: Recent and future developments in PDF-land
+  type: plenary
 2210sb_sanjuan,puertorico:
   abstract: na
   authors:
@@ -4180,6 +4287,20 @@
   title: Classification and Determination of Octahedral Tilts in Perovskites Using
     a Machine Learning Approach
   type: poster
+2211sb_paulscherrerinstitution:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2022-11-11
+  department: cmp
+  end_date: 2022-11-11
+  institution: psi
+  presentation_url: 2210sb_psi
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: colloquium
 2308sb_cityuniversityofhongkong,kowloon,hongkong:
   abstract: tbd
   authors:

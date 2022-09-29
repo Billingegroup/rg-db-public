@@ -1452,7 +1452,7 @@ eshen:
       advisor: sbillinge
       status: ms
   github_id: sheneric88
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Eric Shen
   orcid_id: 0000-0001-6715-7262
   position: graduate research assistant
@@ -2162,7 +2162,7 @@ jeaster:
       advisor: sbillinge
       status: ug
   github_id: easterjaylah
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Jaylah Easter
   orcid_id: ''
   position: Undergraduate Researcher
@@ -2449,7 +2449,7 @@ klkim:
       advisor: sbillinge
       status: ug
   github_id: kaylabim
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Kayla Kim
   orcid_id: 0000-0003-0050-3217
   position: masters researcher
@@ -2605,7 +2605,7 @@ llan:
       advisor: sbillinge
       status: phd
   github_id: lanikaling
-  grp_mtg_active: false
+  grp_mtg_active: true
   name: Ling Lan
   orcid_id: 0000-0001-6267-4834
   position: graduate research assistant
@@ -4907,7 +4907,7 @@ sfrank:
       advisor: sbillinge
       status: visitor-unsupported
   github_id: sarafrank95
-  grp_mtg_active: false
+  grp_mtg_active: true
   name: Sara Frank
   orcid_id: 0000-0001-6321-8363
   position: visiting Researcher, U. Aarhus
@@ -5046,7 +5046,7 @@ sskjaervoe:
       position: post-doctoral scholar
       group: bg
       status: postdoc
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Sandra H. Skjaervoe
   position: post-doctoral scholar
   title: Dr.
