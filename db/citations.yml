@@ -4440,7 +4440,7 @@ frand;jac22:
   optannote: ''
   optnote: submitted
   optwwwlanl: ''
-  pages: '1377-1382'
+  pages: 1377-1382
   professional_summary: We introduce the open-source software package diffpy.mpdf
     for magnetic pair distribution function analysis.  Written in python and part
     of the DiffPy suite for diffraction and pair distribution function analysis, this
@@ -9484,9 +9484,9 @@ rijck;unpub22:
   journal: Superconductor Science and Technology.
   month: jun
   nb: ' art '
-  optnote: to be published
   number: ''
   optannote: ''
+  optnote: to be published
   optwwwlanl: ''
   pages: '084008'
   professional_summary: Nanoparticles embedded in superconducting films can pin vortices
@@ -11800,9 +11800,9 @@ xie;am22:
   journal: Advanced Materials
   month: apr
   nb: ' art '
-  optnote: to be published
   number: '24'
   optannote: ''
+  optnote: to be published
   optwwwlanl: ''
   pages: '202202255'
   professional_summary: Typically, conventional structure transitions occur from a
@@ -11821,7 +11821,7 @@ xie;am22:
   tags: thermoelectric, emphanisis,
   title: Hidden Local Symmetry Breaking in Silver Diamondoid Compounds is Root Cause
     of Ultralow Thermal Conductivity
-  url: 'https://onlinelibrary.wiley.com/doi/10.1002/adma.202202255'
+  url: https://onlinelibrary.wiley.com/doi/10.1002/adma.202202255
   volume: '34'
   year: '2022'
 xu;b;ainips18:
@@ -12376,8 +12376,8 @@ zhao;prb22:
   month: jun
   nb: ' art '
   number: ''
-  optnote: arXiv:2106.05231 [cond-mat.mtrl-sci]
   optannote: ''
+  optnote: arXiv:2106.05231 [cond-mat.mtrl-sci]
   optote: ''
   optwwwlanl: ''
   pages: '224108'
