@@ -3795,7 +3795,7 @@
     - all
   status: accepted
   title: 'Characterizing structure in sticky situations: Atomic pair distribution
-    function (PDF) analysis '
+    function ({PDF}) analysis '
   type: seminar
   webinar: true
 2205sb_eciBoulderCO:
@@ -3864,7 +3864,7 @@
     Substance and Drug Product'
   project:
     - all
-  status: accepted
+  status: declined
   title: Advanced X-Ray Analysis of Disordered and Composite Materials
   type: invited
 2205sb_sibenik,croatia:
@@ -3959,9 +3959,12 @@
     saving the planet: understanding nanostructure with x-rays and algorithms'
   type: seminar
 2206sb_collegepark,md:
-  abstract: tbd
+  abstract: na
   authors:
     - sbillinge
+    - azunger
+    - qdu
+    - xroy
   begin_date: 2022-06-27
   end_date: 2022-06-28
   location: College Park, MD
@@ -3970,10 +3973,10 @@
   project:
     - all
   status: accepted
-  title: tbd
+  title: "Intrinsic local symmetry breaking in materials: implications for {MGI}"
   type: poster
 2206sb_erice,italy:
-  abstract: tbd
+  abstract: na
   authors:
     - sbillinge
   begin_date: 2022-06-03
@@ -3984,7 +3987,7 @@
   project:
     - all
   status: accepted
-  title: tbd
+  title: "Total scattering and atomic pair distribution function analysis: overview and applications"
   type: invited
 2206sb_nssa_plenary:
   abstract: na
@@ -4045,7 +4048,7 @@
   presentation_url: 2207sb_aims22
   project:
     - all
-  status: accepted
+  status: declined
   title: Machine learning material symmetry, structure and recipes from precious data
   type: invited
   webinar: true
@@ -4134,44 +4137,19 @@
   title: Do materials have a genome, and if they do, what can we do with it?
   type: invited
   webinar: true
-2209sb_tatrasmountains,slovakia:
+2209sb_ultrafast,desy,hamburg:
   abstract: tbd
   authors:
     - sbillinge
-  begin_date: 2022-09-04
-  end_date: 2022-09-07
-  location: Tatras mountains, Slovakia
+  begin_date: 2023-01-18
+  end_date: 2023-01-20
+  location: DESY, Hamburg, Germany
   meeting_name: Scientific opportunities with very hard XFEL radiation
   notes: []
   project:
     - all
   status: accepted
   title: Ultrafast Orbital Degeneracy Lifting
-  type: cancelled
-2210_ADD2022:
-  abstract: There are recently emerging powerful experimental developments related
-    to atomic pair distribution function (PDF) method and total-scattering studies.
-    At this workshop you will learn in detail about carrying out and applying PDF
-    to your own scientific research, and there will be excellent tutorial talks on
-    this. Therefore, in this talk I will focus on recent technological and methodological
-    developments, and some that are in the pipeline, that are allowing ever richer
-    science to be done. Examples include new spatial and time resolved capabilities
-    and novel approaches to modeling. I will also talk about recent applications of
-    PDF to scientific problems enabled by the new developments.  I will also describe
-    recent and upcoming developments in PDF analysis and modeling software that are
-    under development in the group.
-  authors:
-    - sbillinge
-  begin_date: 2022-10-16
-  end_date: 2022-10-21
-  end_month: 3
-  end_year: 2019
-  location: Grenoble, France
-  meeting_name: School and conference on analysis of diffraction data in real space
-  project:
-    - all
-  status: accepted
-  title: Recent and future developments in {PDF}-land
   type: invited
 2210sb_addgrenoblecmitalk:
   abstract: 'This presentation and the associated hands-on tutorial will introduce
@@ -4214,7 +4192,7 @@
   title: 'DiffPy-CMI - a software toolbox for real-space structure analysis '
   type: tutorial
 2210sb_centerforresearchinenergyandmaterials(cnpem),campinas,brazil:
-  abstract: tbd
+  abstract: na
   authors:
     - sbillinge
   begin_date: 2022-10-10
@@ -4225,7 +4203,7 @@
   project:
     - all
   status: accepted
-  title: tbd
+  title: Progress in {PDF} for structural characterization of nanomaterials
   type: invited
   webinar: true
 2210sb_grenoble,france:
@@ -4250,7 +4228,7 @@
   project:
     - all
   status: accepted
-  title: Recent and future developments in PDF-land
+  title: Recent and future developments in {PDF}-land
   type: plenary
 2210sb_sanjuan,puertorico:
   abstract: na

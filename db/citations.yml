@@ -4440,7 +4440,7 @@ frand;jac22:
   optannote: ''
   optnote: submitted
   optwwwlanl: ''
-  pages: ''
+  pages: 1377-1382
   professional_summary: We introduce the open-source software package diffpy.mpdf
     for magnetic pair distribution function analysis.  Written in python and part
     of the DiffPy suite for diffraction and pair distribution function analysis, this
@@ -4453,7 +4453,7 @@ frand;jac22:
   title: 'DIFFPY.MPDF: Open-source software for magnetic pair distribution function
     analysis'
   url: https://doi.org/10.1107/S1600576722007257
-  volume: ''
+  volume: '55'
   year: '2022'
 frand;nc14:
   author:
@@ -9471,11 +9471,9 @@ rijck;unpub22:
   author:
     - H. Rijckaert
     - M. Malmivirta
-    - N. Gauquelin
     - S. Banerjee
     - S. J. L. Billinge
     - H. Huhtinen
-    - S. Bals
     - P. Paturi
     - K. De Buysser
     - I. Van Driessche
@@ -9486,11 +9484,11 @@ rijck;unpub22:
   journal: Superconductor Science and Technology.
   month: jun
   nb: ' art '
-  note: to be published
   number: ''
   optannote: ''
+  optnote: to be published
   optwwwlanl: ''
-  pages: ''
+  pages: '084008'
   professional_summary: Nanoparticles embedded in superconducting films can pin vortices
     and increase the upper critical field in applications.  Here different synthesis
     methods for making hafnia nanoparticles are explored. Solvent and ligand controlled
@@ -9500,7 +9498,7 @@ rijck;unpub22:
   title: 'Superconducting {HfO$_2$}-added {YBa$_2$Cu$_3$O$_7$} Nanocomposite Films:
     The Effect of Nanocrystal Morphology on Pinning Mechanism'
   url: ''
-  volume: ''
+  volume: '35'
   year: '2022'
 rijcka;mdpim18:
   ackno: X-ray PDF measurements were conducted on beamline 28-ID-2 of the National
@@ -10234,10 +10232,10 @@ skjae;iucrj22:
   facility: pdf, nslsii
   grant: dmref19
   journal: IUCrJ
-  month: '09'
+  month: sep
   nb: ''
-  note: []
-  number: ''
+  note: ''
+  number: '5'
   optannote: ''
   optwwwlanl: ''
   pages: 705-712
@@ -11619,45 +11617,6 @@ wrigh;cm21:
   wwwemail: ''
   wwwpub: ''
   year: '2021'
-wrigh;joss21:
-  ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
-    Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,
-    Office of Science, Basic Energy Sciences under Award Number DE-SC0019212'
-  author:
-    - Christopher ``CJ" Wright
-    - Songsheng Tao
-    - Simon J. L. Billinge
-  doi: tbd
-  entrytype: article
-  facility: ''
-  grant: efrc18
-  journal: J. Open Source Software
-  month: tbd
-  nb: art
-  note: submitted
-  notes: doi will be 10.21105/joss.02796
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
-  summary_professional: 'A major challenge when doing experiments at modern high intensity
-    x-ray synchrotron sources is the data velocity: the amount of data and the speed
-    of the data.  For scientists to be able to make assessments of their experiment
-    in real time it is important for them to be able to set up analysis protocols
-    that can consume the data as it arrives and does preliminary analyses and plotting.  Here
-    we developed a software infrastructure for doing this.  The SHED (Streaming Heterogeneous
-    Event Data) software package is a software framework that can be used by researchers
-    to pre-build data analysis pipelines that can be deployed at an instrument at
-    NSLS-II (National Synchrotron Light Source II) at Brookhaven National Laboratory
-    that will take data coming from the instrument, carry out the analysis and then
-    create plots of the results even as the data are streaming off the instrument.  It
-    is written in python and is available on Github at https://github.com/xpdAcq/SHED.'
-  tags: software, streaming
-  title: 'SHED: Streaming Heterogeneous Event Data Tracking with Provenance'
-  url: https://github.com/openjournals/joss-papers/blob/joss.02796/joss.02796/10.21105.joss.02796.pdf
-  volume: ''
-  wwwemail: ''
-  year: '2021'
 wrigh;phdt;19:
   author:
     - Christopher J. Wright
@@ -11836,16 +11795,16 @@ xie;am22:
     - Mercouri G. Kanatzidis
   doi: 10.1002/adma.202202255
   entrytype: article
-  facility: ' pdf, nslsii'
+  facility: pdf, nslsii
   grant: fwp20
   journal: Advanced Materials
   month: apr
   nb: ' art '
-  note: to be published
-  number: ''
+  number: '24'
   optannote: ''
+  optnote: to be published
   optwwwlanl: ''
-  pages: ''
+  pages: '202202255'
   professional_summary: Typically, conventional structure transitions occur from a
     low symmetric state to a higher symmetry state upon warming. This paper reports
     the discovery of this "emphanitic" phenomenon in the diamondoid compound AgGaTe2.  The
@@ -11862,8 +11821,8 @@ xie;am22:
   tags: thermoelectric, emphanisis,
   title: Hidden Local Symmetry Breaking in Silver Diamondoid Compounds is Root Cause
     of Ultralow Thermal Conductivity
-  url: ''
-  volume: ''
+  url: https://onlinelibrary.wiley.com/doi/10.1002/adma.202202255
+  volume: '34'
   year: '2022'
 xu;b;ainips18:
   author:
@@ -12418,6 +12377,7 @@ zhao;prb22:
   nb: ' art '
   number: ''
   optannote: ''
+  optnote: arXiv:2106.05231 [cond-mat.mtrl-sci]
   optote: ''
   optwwwlanl: ''
   pages: '224108'
@@ -12440,52 +12400,6 @@ zhao;prb22:
   url: https://doi.org/10.1103/PhysRevB.105.224108
   volume: 105
   year: '2022'
-zhao;prl21:
-  ackno: We thank fruitful discussions with Prof. Ekhard K. H. Salje and Prof. Annette
-    Bussmann-Holder on paraelectrics, and Prof. Zhi Wang on the long-range-order model
-    of AFE, and Dr. Lin Ding Yuan for assistance in calculating polymorphous structures
-    with different initial nudges shown in supplementary Table S-1. The work in the
-    Zunger group and Billinge group was supported by the US National Science Foundation
-    through grant DMREF-1921949. The calculations were done using the Extreme Science
-    and Engineering Discovery Environment (XSEDE), which is supported by the National
-    Science Foundation grant number ACI-1548562.
-  author:
-    - Xin-Gang Zhao
-    - Oleksandr I. Malyi
-    - Simon J. L. Billinge
-    - Alex Zunger
-  doi: ''
-  entrytype: article
-  facility: ''
-  grant: dmref19
-  journal: Phys. Rev. Lett.
-  month: tbd
-  nb: ' art '
-  note: arXiv:2106.05231 [cond-mat.mtrl-sci]
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
-  professional_summary: The technologically important cubic paraelectric oxide perovskites
-    ABO3, represented by BaTiO3, exemplify the widespread solid-state behavior of
-    structural phase transitions to higher symmetry phases on warming. However, A
-    long-standing question surrounds experimental observations, e.g., diffuse x-ray
-    scattering, second harmonic generation, and piezoelectricity, which require a
-    lower symmetry structure. This symmetry-breaking has been ascribed to thermal
-    effects; however, here, we show from first principles theory that it is has an
-    intrinsic origin.  It is a static, non- long-range-ordered distortion driven by  a
-    lowering of the internal energy, which breaks its inversion-symmetry consistent
-    with experimental observations. Finite temperature molecular dynamics show that
-    these distortions remain at high temperatures, different from the general picture
-    of cubic BTO about single parabolic energy surface without static displacements.
-  synopsis: Local symmetry breaking in cubic BaTiO3 is found from polymorphous DFT
-    calculations to be intrinsic (driven by internal energy considerations)
-  tags: bto, batio3, dft, theory, odl
-  title: Intrinsic local symmetry breaking in the nominally cubic paraelectric phase
-    of {BaTiO$_3$}
-  url: http://arxiv.org/abs/2106.05231
-  volume: ''
-  year: '2021'
 zheng;prb09:
   author:
     - Zheng, J. C.
