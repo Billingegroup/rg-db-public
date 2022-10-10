@@ -3973,7 +3973,7 @@
   project:
     - all
   status: accepted
-  title: "Intrinsic local symmetry breaking in materials: implications for {MGI}"
+  title: 'Intrinsic local symmetry breaking in materials: implications for {MGI}'
   type: poster
 2206sb_erice,italy:
   abstract: na
@@ -3987,7 +3987,8 @@
   project:
     - all
   status: accepted
-  title: "Total scattering and atomic pair distribution function analysis: overview and applications"
+  title: 'Total scattering and atomic pair distribution function analysis: overview
+    and applications'
   type: invited
 2206sb_nssa_plenary:
   abstract: na
