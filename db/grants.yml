@@ -778,7 +778,7 @@
         - Daniel Alicea
   title: 'GENESIS: A Next Generation Synthesis Center'
 22_collaboratory:
-  amount: 100000
+  amount: 70000
   awardnr: n/a
   begin_date: 2022-07-01
   end_date: 2025-06-30
@@ -787,7 +787,7 @@
     - institution: columbiau
       name: Simon Billinge
       position: pi
-      subaward_amount: 100000
+      subaward_amount: 70000
     - institution: columbiau
       name: Sanat Kumar
       position: copi
@@ -809,6 +809,23 @@
       position: pi
       subaward_amount: 54000
   title: Towards a machine readable literature
+22_tri:
+  amount: 290000
+  awardnr: n/a
+  begin_date: 2023-01-01
+  end_date: 2024-12-31
+  funder: Toyota Research Institute
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 290000
+    - institution: tri
+      name: Steven Torrissi
+      position: co-pi
+      subaward_amount: 0
+  title: A Data-driven Approach to Solving the Structure Refinement Problem for Defected
+    and Disordered Nanoparticles
 79_mrsec_seed:
   amount: 66000
   awardnr: seed-grant

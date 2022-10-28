@@ -10309,6 +10309,58 @@ skjae;prx19:
   wwwemail: ''
   wwwpub: ''
   year: '2019'
+pinhe;ijop22:
+  ackno: The authors thank the financial support provided by the São Paulo Research
+    Foundation (FAPESP, 2017/16499-5), the National Council for Scientific and Technological
+    Development (CNPq, 305601/2019-9 and 428333/2018-4) and the Experimental Multiuser
+    Center of the Federal University of ABC (CEM/UFABC). PDF analysis and modeling
+    in the Billinge group was supported by the U.S. National Science Foundation through
+    grant DMREF-1922234.  PDF measurements were carried out at 28-ID-2 beamline at
+    National Synchrotron Light Source II at Brookhaven National Laboratory, supported
+    by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences,
+    under Contract No. DE-SC0012704.
+  author:
+    - Lucas Barboza Moreira Pinheiro
+    - Songsheng Tao
+    - Elizabeth Culbertson
+    - Rafael Cardoso Seiceira
+    - Gabriel Lima Barros de Araujo
+    - Simon J. L. Billinge
+    - Fabio Furlan Ferreira
+  doi: 10.1016/j.ijpharm.2022.122329
+  entrytype: article
+  facility: xpd, nslsii
+  grant: dmref19
+  journal: International Journal of Pharmaceutics
+  month: Sep
+  nb: ''
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: 122329
+  professional_summary: Ritanovir and Lopinavir are anti-viral drugs used originally
+    against HIV-AIDS but more recently also showed efficacy against COVID-19.  They
+    are often produced in the amorphous form but can also exist in various 
+    crystalline polymorphs.  This study showed that co-grinding R and L could
+    result in the ritanovir recrystallizing in a metastable form where, when it
+    was ground on its own, it returned in the stable polymorph, showing that 
+    co-grinding constituents could be a pathway to different polymorphs.  The 
+    Lopinavir was resistant to recrystallization.  Atomic pair distribution function
+    analysis of synchrotron x-ray data was used to quantify the crystalline amorphous mixtures.
+  synopsis: Ritanovir and lopinavir antivirals were ground and co-ground under
+    different circumstances.  PDF helped to demonstrate and quantify the amount 
+    of amorphous and recrystallized phases of the drugs that were produced under
+    the different conditions
+  tags: molecular, drug, pharma, hiv, covid19
+  title: Evaluation of the polymorphic forms of ritonavir and lopinavir, HIV and COVID-19
+    antiviral drugs, as raw materials and co-milled systems are studied with PDF.  Unexpectedly,
+    it is shown that while grinding crystalline ritanovir does not cause a transition,
+    grinding under the same conditions in the presence of amorphous lopinavir produces
+    a polymorphic transition of the ritonavir.
+  url: https://doi.org/10.1016/j.ijpharm.2022.122329
+  volume: '628'
+  year: '2022'
 slavn;jacs22:
   ackno: This research was partially supported by the Arnold and Mabel Beckman Foundation
     through a Beckman Young Investigator Grant awarded to J.A.M. and a Beckman Postdoctoral
