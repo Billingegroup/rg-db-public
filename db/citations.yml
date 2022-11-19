@@ -6421,6 +6421,60 @@ kim;prl06:
   wwwlanl: http://arXiv.org/abs/cond-mat/0602361
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/kim-prl06.pdf
   year: '2006'
+kimber;nm23:
+  ackno: We thank the European Synchrotron Radiation Facility for the provision of
+    beam time on ID15B and ID31. This research used resources at the Spallation Neutron
+    Source, a DOE Office of Science User Facility operated by the Oak Ridge National
+    Laboratory.  We thank Adrian Hill, Rebecca Mills and Garrett Ganroth for assistance,
+    and Alan Tennant and Richard Ibberson for supporting a 2017 workshop on Advanced
+    Fourier Methods at the Shull-Wollan centre. Takeshi Egami, Andrew Fitch, Patrick
+    Senet and Matthias Wuttig are thanked for useful discussions. Work in the Billinge
+    group was supported by U.S. Department of Energy, Office of Science, Office of
+    Basic Energy Sciences (DOE-BES) under contract No. DE-SC0012704. C.H.L. acknowledges
+    support from NSF GRFP DGE-1746045. G.G.G.-V. acknowledges support from the Vice-rectory
+    for Research at the University of Costa Rica (project No. 816-C1-601). Work at
+    Argonne is supported by DOE Office of Science, BES-MSE under Contract No. DE-AC02-06CH11357.
+    At Northwestern University, work on thermoelectric materials is primarily supported
+    by the U.S Department of Energy, Office of Science and Office of Basic Energy
+    Sciences under award number DE-SC0014520.  Ce travail a \'{e}t\'{e} soutenu par
+    le programme ”Investissements d’Avenir”, projet ISITE-BFC (contrat ANR-15-IDEX-0003).
+  author:
+    - Simon A.J. Kimber
+    - Jiayong Zhang
+    - Charles H. Liang
+    - Gian  G.  Guzm\'{a}n-Verri
+    - Peter B. Littlewood
+    - Yongqiang Cheng
+    - Douglas L. Abernathy
+    - Jessica M. Hudspeth
+    - Zhong-Zhen Luo
+    - Mercouri G. Kanatzidis
+    - Tapan Chatterji
+    - Anibal J. Ramirez-Cuesta
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: esrf, id15b, id31, sns, arcs
+  grant: fwp20
+  journal: Nature Materials
+  month: tbd
+  nb: ''
+  note: Submitted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  professional_summary: Tungsten and Niobium nanoparticle formation is studied using
+    in situ total scattering and PDF analysis.
+  synopsis: First presentation of variable shutter PDF (vsPDF) and its application
+    to study the dynamic fluctuations at high temperature in cubic GeTe
+  tags: vspdf, variable shutter pdf, gete, anharmonicity, ferroelectric, ins,
+  title: Dynamic crystallography reveals spontaneous anisotropy in cubic {GeTe}
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2022'
 kjaer;cm22:
   ackno: This work is part of a project that has received funding from the European
     Research Council (ERC) under the European Union's Horizon 2020 Research and Innovation
@@ -8912,6 +8966,58 @@ petko;prl99:
   wwwlanl: http://xxx.lanl.gov/abs/cond-mat/9906099
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/99petkoprl.pdf
   year: '1999'
+pinhe;ijop22:
+  ackno: The authors thank the financial support provided by the São Paulo Research
+    Foundation (FAPESP, 2017/16499-5), the National Council for Scientific and Technological
+    Development (CNPq, 305601/2019-9 and 428333/2018-4) and the Experimental Multiuser
+    Center of the Federal University of ABC (CEM/UFABC). PDF analysis and modeling
+    in the Billinge group was supported by the U.S. National Science Foundation through
+    grant DMREF-1922234.  PDF measurements were carried out at 28-ID-2 beamline at
+    National Synchrotron Light Source II at Brookhaven National Laboratory, supported
+    by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences,
+    under Contract No. DE-SC0012704.
+  author:
+    - Lucas Barboza Moreira Pinheiro
+    - Songsheng Tao
+    - Elizabeth Culbertson
+    - Rafael Cardoso Seiceira
+    - Gabriel Lima Barros de Araujo
+    - Simon J. L. Billinge
+    - Fabio Furlan Ferreira
+  doi: 10.1016/j.ijpharm.2022.122329
+  entrytype: article
+  facility: xpd, nslsii
+  grant: dmref19
+  journal: International Journal of Pharmaceutics
+  month: Sep
+  nb: ''
+  note: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: '122329'
+  professional_summary: Ritanovir and Lopinavir are anti-viral drugs used originally
+    against HIV-AIDS but more recently also showed efficacy against COVID-19.  They
+    are often produced in the amorphous form but can also exist in various crystalline
+    polymorphs.  This study showed that co-grinding R and L could result in the ritanovir
+    recrystallizing in a metastable form where, when it was ground on its own, it
+    returned in the stable polymorph, showing that co-grinding constituents could
+    be a pathway to different polymorphs.  The Lopinavir was resistant to recrystallization.  Atomic
+    pair distribution function analysis of synchrotron x-ray data was used to quantify
+    the crystalline amorphous mixtures.
+  synopsis: Ritanovir and lopinavir antivirals were ground and co-ground under different
+    circumstances.  PDF helped to demonstrate and quantify the amount of amorphous
+    and recrystallized phases of the drugs that were produced under the different
+    conditions
+  tags: molecular, drug, pharma, hiv, covid19
+  title: Evaluation of the polymorphic forms of ritonavir and lopinavir, HIV and COVID-19
+    antiviral drugs, as raw materials and co-milled systems are studied with PDF.  Unexpectedly,
+    it is shown that while grinding crystalline ritanovir does not cause a transition,
+    grinding under the same conditions in the presence of amorphous lopinavir produces
+    a polymorphic transition of the ritonavir.
+  url: https://doi.org/10.1016/j.ijpharm.2022.122329
+  volume: '628'
+  year: '2022'
 pouch;b;hobdamlitps20:
   ackno: tbd
   address: Singapore
@@ -9299,7 +9405,7 @@ qiu;prl05:
   wwwlanl: http://arXiv.org/abs/cond-mat/0408304
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/05qiu_prl.pdf
   year: '2005'
-rakit;arxiv21:
+rakit;am23:
   ackno: ''
   author:
     - Yevgeny Rakita
@@ -9311,26 +9417,39 @@ rakit;arxiv21:
     - Suveen Nigel Mathaudhu
     - Mitra L. Taheri
     - Simon J. L. Billinge
-  doi: ''
+  doi: 10.1016/j.actamat.2022.118426
   entrytype: article
   facility: ''
   grant: efrc18
-  journal: arxiv
-  month: Oct
+  journal: Acta Materiala
+  month: Jan
   nb: ''
   number: ''
   optannote: ''
-  optnote: Submitted
+  optnote: ''
   optwwwlanl: ''
-  pages: ''
+  pages: '118426'
+  professional_summary: Electron micrscopy is a powerful method for studying loca
+    arrangements of atoms and atomic defects in materials and has had enormous scientific
+    impact.  However, when materials are very disordered, the description of the local
+    structure becomes more statistical in nature and useful descriptions of the strucuture
+    are in the form of correlation functions that indicate probabilities of finding
+    atoms in the vicinity of other atoms.  This is measured using methods such as
+    atomic pair distribution function (PDF) analysis. Here we combine PDF with scanning
+    electron microscopy to study local structural correlations as a function of position,
+    with a sub-ten nm spatial resolution, in a hot rolled bulk metallic glass.  Uing
+    the approach we can identify variatsion in local chemistry and bonding, and identify
+    regions where nanocrystals of a second phase are beginning to nucleate.  The approach
+    is rapid and quantitative and we expect it to be useful in a wide array of contexts.
+  synopsis: The scanning nansotructure electron microscopy (SNEM) method is demonstrated
+    for the first time by looking at a bulk metallic glass that has been hot-rolled
+    between polycrystalline nickel.
   tags: snem, epdf, bmg
   title: Studying Heterogeneities in Local Nanostructure with Scanning Nanostructure
     Electron Microscopy (SNEM)
-  url: https://arxiv.org/abs/2110.03589
-  volume: '2110.03589'
-  wwwemail: ''
-  wwwpub: ''
-  year: '2022'
+  url: https://doi.org/10.1016/j.actamat.2022.118426
+  volume: '242'
+  year: '2023'
 rakit;jacs20:
   ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
     Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,
@@ -10309,58 +10428,6 @@ skjae;prx19:
   wwwemail: ''
   wwwpub: ''
   year: '2019'
-pinhe;ijop22:
-  ackno: The authors thank the financial support provided by the São Paulo Research
-    Foundation (FAPESP, 2017/16499-5), the National Council for Scientific and Technological
-    Development (CNPq, 305601/2019-9 and 428333/2018-4) and the Experimental Multiuser
-    Center of the Federal University of ABC (CEM/UFABC). PDF analysis and modeling
-    in the Billinge group was supported by the U.S. National Science Foundation through
-    grant DMREF-1922234.  PDF measurements were carried out at 28-ID-2 beamline at
-    National Synchrotron Light Source II at Brookhaven National Laboratory, supported
-    by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences,
-    under Contract No. DE-SC0012704.
-  author:
-    - Lucas Barboza Moreira Pinheiro
-    - Songsheng Tao
-    - Elizabeth Culbertson
-    - Rafael Cardoso Seiceira
-    - Gabriel Lima Barros de Araujo
-    - Simon J. L. Billinge
-    - Fabio Furlan Ferreira
-  doi: 10.1016/j.ijpharm.2022.122329
-  entrytype: article
-  facility: xpd, nslsii
-  grant: dmref19
-  journal: International Journal of Pharmaceutics
-  month: Sep
-  nb: ''
-  note: ''
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: '122329'
-  professional_summary: Ritanovir and Lopinavir are anti-viral drugs used originally
-    against HIV-AIDS but more recently also showed efficacy against COVID-19.  They
-    are often produced in the amorphous form but can also exist in various 
-    crystalline polymorphs.  This study showed that co-grinding R and L could
-    result in the ritanovir recrystallizing in a metastable form where, when it
-    was ground on its own, it returned in the stable polymorph, showing that 
-    co-grinding constituents could be a pathway to different polymorphs.  The 
-    Lopinavir was resistant to recrystallization.  Atomic pair distribution function
-    analysis of synchrotron x-ray data was used to quantify the crystalline amorphous mixtures.
-  synopsis: Ritanovir and lopinavir antivirals were ground and co-ground under
-    different circumstances.  PDF helped to demonstrate and quantify the amount 
-    of amorphous and recrystallized phases of the drugs that were produced under
-    the different conditions
-  tags: molecular, drug, pharma, hiv, covid19
-  title: Evaluation of the polymorphic forms of ritonavir and lopinavir, HIV and COVID-19
-    antiviral drugs, as raw materials and co-milled systems are studied with PDF.  Unexpectedly,
-    it is shown that while grinding crystalline ritanovir does not cause a transition,
-    grinding under the same conditions in the presence of amorphous lopinavir produces
-    a polymorphic transition of the ritonavir.
-  url: https://doi.org/10.1016/j.ijpharm.2022.122329
-  volume: '628'
-  year: '2022'
 slavn;jacs22:
   ackno: This research was partially supported by the Arnold and Mabel Beckman Foundation
     through a Beckman Young Investigator Grant awarded to J.A.M. and a Beckman Postdoctoral
@@ -12536,3 +12603,51 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
+liu;jacs22:
+  ackno: This research was partially supported by the Arnold and Ma-bel Beckman Foundation
+    through a Beckman Young Investi-gator grant awarded to J.A.M. and Beckman Postdoctoral
+    Fellowships to A.H.S. Synthesis, crystallography, thermal characterization, glass
+    film fabrication, and optical character-izations were supported by the U.S. Department
+    of Energy (DoE) under award DE-SC0021145.  The PDF work was sup-ported by theU.S.
+    Department of Energy, Office of Science, Office of Basic Energy Sciences, under
+    Contract DE-SC0012704. We thank Dr. Shao-Liang Zheng for assistance with crystallography
+    experiments and data analysis. We thank Dr. Arthur McClelland for assistance with
+    spectroscop-ic microscope experiments. We thank Mr. Timothy Cavanaugh for assistance
+    for SEM-EDS data collection and analysis. We thank Dr. Sungsik Lee for assistance
+    with EXAFS experiments and data analysis. EXAFS measurements were conducted on
+    beamline 12-BM at the Advanced Photon Source, a DoE Office of Science User Facility
+    operated for the DoE Office of Science by Argonne National Laboratory under Contract
+    No. DE-AC02-06CH11357. X-ray PDF measurements were conducted on beamline 28-ID-2
+    of the National Syn-chrotron Light Source II, a U.S. Department of Energy (DOE)
+    Office of Science User Facility operated for the DOE Office of Science by Brookhaven
+    National Laboratory under Contract No. DE-SC0012704.
+  author:
+    - Mengtan Liu
+    - Adam H. Slavney
+    - Songsheng Tao
+    - Ryan D. McGillicuddy
+    - Cassia C. Lee
+    - Malia B. Wenny
+    - Simon J. L. Billinge
+    - Jarad A. Mason
+  doi: 10.1021/jacs.2c10449
+  entrytype: article
+  facility: nslsii, xpd
+  grant: fwp20
+  journal: J. American Chemical Society
+  month: tbd
+  nb: art
+  note: ''
+  number: ''
+  pages: ''
+  summary_prof_fig: ''
+  summary_prof_text: ''
+  summary_publ_fig: ''
+  summary_publ_text: ''
+  synopsis: ''
+  tags: mof, liquid, molecular, glass, amorphous
+  title: Designing Glass and Crystalline Phases of Metal–Bis(acetamide) Networks to
+    Promote High Optical Contrast
+  url: ''
+  volume: ''
+  year: '2022'
