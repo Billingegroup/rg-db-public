@@ -7510,12 +7510,12 @@ liu;jacs21:
   optwwwlanl: ''
   pages: 2801-2811
   summary_prof_fig: ''
-  summary_prof_text: ''
+  summary_prof_text: Metal−organic framework materials offer a powerful platform for studying glass formation and crystallization processes, as well as a platform for designing glasses with unique properties, because of their high tunability and predictable structures. Here, we report a novel series of glass-forming metal−ethylenebis(acetamide) networks that undergo reversible glass and crystallization transitions below the low temperature of 200 C. The glass-transition temperatures, crystallization kinetics, and glass stability of these materials are readily tunable by synthetic modification or liquid-phase blending to form binary glasses. Pair distribution function (PDF) analysis reveals extended structural correlations in single and binary metal−bis-(acetamide) glasses. It highlights the critical role of metal−metal correlations during structural evolution across glass−crystal transitions.These results provide new insights into glass−crystal transitions in metal−organic materials and have exciting implications for optical switching, rewritable data storage, and functional glass ceramics.
   summary_publ_fig: ''
   summary_publ_text: ''
+  synopsis: A metal−ethylenebis(acetamide) MOF network is reported that undergoes reversible glass transition below 200 C and shows significant reflectivity contrast.
   tags: mof, liquid, molecular
-  title: Network-Forming Liquids from Metal–Bis(acetamide) Frameworks with Low Melting
-    Temperatures
+  title: Designing Glass and Crystalline Phases of Metal−Bis(acetamide) Networks to Promote High Optical Contrast
   url: https://doi.org/10.1021/jacs.0c11718
   volume: '143'
   year: '2021'
