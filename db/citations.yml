@@ -7573,6 +7573,54 @@ liu;jacs21:
   url: https://doi.org/10.1021/jacs.0c11718
   volume: '143'
   year: '2021'
+liu;jacs22:
+  ackno: This research was partially supported by the Arnold and Ma-bel Beckman Foundation
+    through a Beckman Young Investi-gator grant awarded to J.A.M. and Beckman Postdoctoral
+    Fellowships to A.H.S. Synthesis, crystallography, thermal characterization, glass
+    film fabrication, and optical character-izations were supported by the U.S. Department
+    of Energy (DoE) under award DE-SC0021145.  The PDF work was sup-ported by theU.S.
+    Department of Energy, Office of Science, Office of Basic Energy Sciences, under
+    Contract DE-SC0012704. We thank Dr. Shao-Liang Zheng for assistance with crystallography
+    experiments and data analysis. We thank Dr. Arthur McClelland for assistance with
+    spectroscop-ic microscope experiments. We thank Mr. Timothy Cavanaugh for assistance
+    for SEM-EDS data collection and analysis. We thank Dr. Sungsik Lee for assistance
+    with EXAFS experiments and data analysis. EXAFS measurements were conducted on
+    beamline 12-BM at the Advanced Photon Source, a DoE Office of Science User Facility
+    operated for the DoE Office of Science by Argonne National Laboratory under Contract
+    No. DE-AC02-06CH11357. X-ray PDF measurements were conducted on beamline 28-ID-2
+    of the National Syn-chrotron Light Source II, a U.S. Department of Energy (DOE)
+    Office of Science User Facility operated for the DOE Office of Science by Brookhaven
+    National Laboratory under Contract No. DE-SC0012704.
+  author:
+    - Mengtan Liu
+    - Adam H. Slavney
+    - Songsheng Tao
+    - Ryan D. McGillicuddy
+    - Cassia C. Lee
+    - Malia B. Wenny
+    - Simon J. L. Billinge
+    - Jarad A. Mason
+  doi: 10.1021/jacs.2c10449
+  entrytype: article
+  facility: nslsii, xpd
+  grant: fwp20
+  journal: J. American Chemical Society
+  month: tbd
+  nb: art
+  note: ''
+  number: ''
+  pages: ''
+  summary_prof_fig: ''
+  summary_prof_text: ''
+  summary_publ_fig: ''
+  summary_publ_text: ''
+  synopsis: ''
+  tags: mof, liquid, molecular, glass, amorphous
+  title: Designing Glass and Crystalline Phases of Metal–Bis(acetamide) Networks to
+    Promote High Optical Contrast
+  url: ''
+  volume: ''
+  year: '2022'
 liu;phdt;20:
   author:
     - Chia-Hao Liu
@@ -9010,11 +9058,8 @@ pinhe;ijop22:
     and recrystallized phases of the drugs that were produced under the different
     conditions
   tags: molecular, drug, pharma, hiv, covid19
-  title: Evaluation of the polymorphic forms of ritonavir and lopinavir, HIV and COVID-19
-    antiviral drugs, as raw materials and co-milled systems are studied with PDF.  Unexpectedly,
-    it is shown that while grinding crystalline ritanovir does not cause a transition,
-    grinding under the same conditions in the presence of amorphous lopinavir produces
-    a polymorphic transition of the ritonavir.
+  title: Evaluation of the polymorphic forms of ritonavir and lopinavir in raw 
+    materials and co-milled systems
   url: https://doi.org/10.1016/j.ijpharm.2022.122329
   volume: '628'
   year: '2022'
@@ -9596,7 +9641,7 @@ rijck;unpub22:
     - P. Paturi
     - K. De Buysser
     - I. Van Driessche
-  doi: ''
+  doi: 10.1088/1361-6668/ac7ae3
   entrytype: article
   facility: nslsii, xpd
   grant: dmref19
@@ -12603,51 +12648,3 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
-liu;jacs22:
-  ackno: This research was partially supported by the Arnold and Ma-bel Beckman Foundation
-    through a Beckman Young Investi-gator grant awarded to J.A.M. and Beckman Postdoctoral
-    Fellowships to A.H.S. Synthesis, crystallography, thermal characterization, glass
-    film fabrication, and optical character-izations were supported by the U.S. Department
-    of Energy (DoE) under award DE-SC0021145.  The PDF work was sup-ported by theU.S.
-    Department of Energy, Office of Science, Office of Basic Energy Sciences, under
-    Contract DE-SC0012704. We thank Dr. Shao-Liang Zheng for assistance with crystallography
-    experiments and data analysis. We thank Dr. Arthur McClelland for assistance with
-    spectroscop-ic microscope experiments. We thank Mr. Timothy Cavanaugh for assistance
-    for SEM-EDS data collection and analysis. We thank Dr. Sungsik Lee for assistance
-    with EXAFS experiments and data analysis. EXAFS measurements were conducted on
-    beamline 12-BM at the Advanced Photon Source, a DoE Office of Science User Facility
-    operated for the DoE Office of Science by Argonne National Laboratory under Contract
-    No. DE-AC02-06CH11357. X-ray PDF measurements were conducted on beamline 28-ID-2
-    of the National Syn-chrotron Light Source II, a U.S. Department of Energy (DOE)
-    Office of Science User Facility operated for the DOE Office of Science by Brookhaven
-    National Laboratory under Contract No. DE-SC0012704.
-  author:
-    - Mengtan Liu
-    - Adam H. Slavney
-    - Songsheng Tao
-    - Ryan D. McGillicuddy
-    - Cassia C. Lee
-    - Malia B. Wenny
-    - Simon J. L. Billinge
-    - Jarad A. Mason
-  doi: 10.1021/jacs.2c10449
-  entrytype: article
-  facility: nslsii, xpd
-  grant: fwp20
-  journal: J. American Chemical Society
-  month: tbd
-  nb: art
-  note: ''
-  number: ''
-  pages: ''
-  summary_prof_fig: ''
-  summary_prof_text: ''
-  summary_publ_fig: ''
-  summary_publ_text: ''
-  synopsis: ''
-  tags: mof, liquid, molecular, glass, amorphous
-  title: Designing Glass and Crystalline Phases of Metal–Bis(acetamide) Networks to
-    Promote High Optical Contrast
-  url: ''
-  volume: ''
-  year: '2022'

@@ -758,25 +758,6 @@
   title: 'Conference: WORKSHOP ON SCIENTIFIC OPPORTUNITIES AND INSTRUMENTATION NEEDS
     FOR NEXT GENERATION MATERIALS GENOMICS BASED MATERIALS RESEARCH IN MATERIALS WITH
     LONG RANGE ORDER'
-22_SUNY-SB_EFRC_rampdown:
-  amount: 1000000.0
-  awardnr: DE-SC0019212
-  begin_date: 2022-08-01
-  end_date: 2023-07-31
-  funder: DOE-BES
-  team:
-    - institution: stonybrooku
-      name: John Parise
-      position: pi
-      subaward_amount: 930000.0
-    - institution: columbiau
-      name: Simon Billinge
-      position: copi
-      subaward_amount: 70000.0
-      admin_people:
-        - Ria Miranda
-        - Daniel Alicea
-  title: 'GENESIS: A Next Generation Synthesis Center'
 22_collaboratory:
   amount: 70000
   awardnr: n/a
