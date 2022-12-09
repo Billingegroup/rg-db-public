@@ -3674,6 +3674,26 @@ rkoch:
   orcid_id: 0000-0003-4995-2101
   position: post-doctoral scholar
   title: Dr.
+rlee:
+  active: true
+  aka: []
+  avatar: https://github.com/sl5035.png
+  bio: bio
+  education: []
+  email: sl5035@columbia.edu
+  employment:
+    - begin_date: 2022-12-08
+      end_date: 2023-05-31
+      organization: columbiau
+      position: undergrad researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: sl5035
+  grp_mtg_active: true
+  name: Robin Lee
+  orcid_id: ''
+  position: undergrad researcher
 rnzhang:
   active: true
   aka: []
