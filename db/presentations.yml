@@ -4346,6 +4346,20 @@
   status: accepted
   title: tbd
   type: colloquium
+2303sb_weizmani:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2023-03-13
+  department: chemistry
+  end_date: 2023-03-15
+  institution: weizmani
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: colloquium
 2308sb_cityuniversityofhongkong,kowloon,hongkong:
   abstract: tbd
   authors:
