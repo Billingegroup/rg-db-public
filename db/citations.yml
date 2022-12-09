@@ -7563,16 +7563,9 @@ liu;jacs21:
   optannote: ''
   optwwwlanl: ''
   pages: 2801-2811
-  summary_professional: Materials that can switch from crystals to glasses and
-    back quickly and at relatively low temperatures, and which have large changes
-    in optical properties when they do, are valuable for information storage and 
-    processing using light.  This paper reports discovery of novel new such materials
-    based on metal-orgranic frameworks that have a glass transition temperature 
-    of just 200C and a large reflectivity contrast of just 0.48.  Metal-metal
-    correlations are important in this mechanism as indicated by PDF analysis.
-  tags: mof, glass, liquid, molecular
-  title: Network-Forming Liquids from Metal–Bis(acetamide) Frameworks with Low Melting
-    Temperatures
+  synopsis: A metal−ethylenebis(acetamide) MOF network is reported that undergoes reversible glass transition below 200 C and shows significant reflectivity contrast.
+  tags: mof, liquid, molecular
+  title: Designing Glass and Crystalline Phases of Metal−Bis(acetamide) Networks to Promote High Optical Contrast
   url: https://doi.org/10.1021/jacs.0c11718
   volume: '143'
   year: '2021'
@@ -7613,16 +7606,19 @@ liu;jacs22:
   note: ''
   number: '48'
   pages: '22262--22271'
-  summary_prof_fig: ''
-  summary_prof_text: ''
-  summary_publ_fig: ''
-  summary_publ_text: ''
+  summary_professional: Materials that can switch from crystals to glasses and
+    back quickly and at relatively low temperatures, and which have large changes
+    in optical properties when they do, are valuable for information storage and 
+    processing using light.  This paper reports discovery of novel new such materials
+    based on metal-orgranic frameworks that have a glass transition temperature 
+    of just 200C and a large reflectivity contrast of just 0.48.  Metal-metal
+    correlations are important in this mechanism as indicated by PDF analysis.
   synopsis: Low temperature glass forming MOF structures are reported with good
     optical properties suitable for infomration storage applications
   tags: mof, liquid, molecular, glass, amorphous
   title: Designing Glass and Crystalline Phases of Metal–Bis(acetamide) Networks to
     Promote High Optical Contrast
-  url: 'https://pubs-acs-org.ezproxy.cul.columbia.edu/doi/full/10.1021/jacs.2c10449'
+  url: 'https://pubs.acs.org/doi/full/10.1021/jacs.2c10449'
   volume: '144'
   year: '2022'
 liu;phdt;20:
