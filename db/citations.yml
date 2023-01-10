@@ -7,7 +7,7 @@ abeyk;jac15:
     - Billinge, Simon J. L.
   doi: '10.1107/S1600576715000412 '
   entrytype: article
-  facility: CFN,nsls, x7a
+  facility: cfn ,nsls, x7a
   grant: fwp
   journal: J. Appl. Crystallogr.
   nb: typeA, fy15
@@ -673,6 +673,7 @@ beech;acsel16:
   optnote: '1606.09267'
   optwwwlanl: ''
   pages: 880–887
+  tags: hybrid_perovskite, pbi3, ixs, phonon, symmetry_breaking
   title: Direct observation of dynamic symmetry breaking above room temperature in
     methylammonium lead iodide perovskite
   url: http://dx.doi.org/10.1021/acsenergylett.6b00381
@@ -4736,7 +4737,7 @@ gamez;jac17:
     - Martinez-Inesta, Maria
   doi: 10.1107/S1600576717003715
   entrytype: article
-  facility: ' 11idb, aps'
+  facility: 11idb, aps
   grant: dmref15
   journal: J. Appl. Crystallogr.
   month: April
@@ -8313,6 +8314,7 @@ nguye;pnas19:
   optannote: ''
   optwwwlanl: ''
   pages: 11630-11639
+  tags: catalysis, mof, cubane, cobalt_oxide, weak_scattering
   title: Stabilization of reactive { Co$_{4}$O$_{4}$ }  cubane oxygen-evolution catalysts
     within porous frameworks
   url: https://www.pnas.org/content/116/24/11630
@@ -8994,6 +8996,7 @@ petko;prl02:
   optmonth: ''
   optnumber: ''
   pages: '075502 '
+  tags: weak_scattering, zeolite, electride, caesium
   title: 'Structure of intercalated {Cs} in zeolite {ITQ-4}: an array of metal ions
     and electrons confined in a {pseudo-1D} nanoporous host'
   url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.89.075502
@@ -10744,7 +10747,7 @@ terba;cec22:
   nb: ' art '
   number: ''
   optannote: ''
-  optnote: to be published
+  optnote: ''
   optwwwlanl: ''
   pages: 2305-2313
   synopsis: Desolvation, the removal of solvent molecules from a substrate, is of
@@ -10775,6 +10778,7 @@ terba;cgd15:
   optnote: 'Doi: http://pubs.acs.org/doi/full/10.1021/acs.cgd.5b01100'
   optwwwlanl: ''
   pages: 210–220
+  tags: lactose, pharma, recrystallization, weak scattering
   title: Recrystallization, phase composition, and local structure of amorphous lactose
     from the total scattering pair distribution function
   url: http://pubs.acs.org/doi/full/10.1021/acs.cgd.5b01100
@@ -10805,7 +10809,7 @@ terba;cr22:
   synopsis: A thorough and detailed review of total scattering PDF experiments and
     studies of molecular materials.  Contains useful tips and tricks for doing experiments
     and analyses on weakly scattering samples.
-  tags: review, molecular, pharma
+  tags: review, molecular, pharma, weak_scattering
   title: Structural analysis of molecular materials using the pair distribution function
   url: https://doi.org/10.1021/acs.chemrev.1c00237
   volume: '122'
@@ -10838,6 +10842,7 @@ terba;ic17:
   optannote: ''
   optwwwlanl: ''
   pages: 8837--8846
+  tags: nanoporous, terbium, mof, umof, weak_scattering, zirconium_phosphate
   title: Local environment of terbium(III) ions in layered nanocrystalline zirconium(IV)
     phosphonate–phosphate ion exchange materials
   url: http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.7b00666
@@ -10864,6 +10869,7 @@ terba;macm16:
   optannote: ''
   optwwwlanl: ''
   pages: 7350--7358
+  tags: polymer, polyurethane, weak_scattering, soft_material
   title: Structures of hard phases in thermoplastic polyurethanes
   url: http://pubs.acs.org/doi/abs/10.1021/acs.macromol.6b00889
   volume: '49'
@@ -10899,7 +10905,7 @@ terba;mp20:
   notes: ''
   number: '7'
   optannote: ''
-  optnote: Submitted
+  optnote: ''
   optwwwlanl: ''
   pages: 2370-2389
   tags: molecular, drug, highlight
@@ -10928,6 +10934,7 @@ terba;nan15:
   optannote: ''
   optwwwlanl: ''
   pages: 5480--5487
+  tags: weak scattering, pharma, solution
   title: Detection and characterization of nanoparticles in suspension at low concentrations
     using the x-ray total scattering pair distribution function technique
   url: http://dx.doi.org/10.1039/C4NR06486K
@@ -10962,7 +10969,7 @@ terba;nan18:
   optnote: DOI:10.1039/C7NR07949D
   optwwwlanl: ''
   pages: 4291--4300
-  tags: in_situ, synthesis, mof, polymer
+  tags: in_situ, synthesis, mof, polymer, weak_scattering
   title: Early stage structural development of prototypical zeolitic imidazolate framework
     (ZIF) in solution
   url: http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07949d/unauth\#!divAbstract
@@ -12542,6 +12549,7 @@ zhang;nc18:
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/18terbannc.pdf
   pages: '1957'
+  tags: weak_scattering
   title: Hollow organic capsules assemble into cellular semiconductors
   url: https://www.nature.com/articles/s41467-018-04246-0
   volume: '9'
