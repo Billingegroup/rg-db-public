@@ -551,8 +551,6 @@
 18_SUNY-SB_EFRC:
   amount: 14850000.0
   awardnr: DE-SC0019212
-  begin_date: 2018-08-01
-  end_date: 2022-07-31
   funder: DOE-BES
   team:
     - institution: stonybrooku

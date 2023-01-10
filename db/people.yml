@@ -3995,6 +3995,46 @@ sbillinge:
         - ivartaniants
         - pwillmott
         - mnespolo
+    - organization: iucr
+      begin_year: 2011
+      department: aca
+      not_in_cv: true
+      position: editor
+      coworkers:
+        - aallen
+        - aaltomare
+        - lbourgeois
+        - pdominiak
+        - jeon
+        - ugrimm
+        - dkeen
+        - wkuhs
+        - lmarks
+        - hschenk
+        - ktsuda
+        - ivartaniants
+        - pwillmott
+        - mnespolo
+    - organization: iucr
+      begin_year: 2011
+      department: aca
+      not_in_cv: true
+      position: editor
+      coworkers:
+        - aallen
+        - aaltomare
+        - lbourgeois
+        - pdominiak
+        - jeon
+        - ugrimm
+        - dkeen
+        - wkuhs
+        - lmarks
+        - hschenk
+        - ktsuda
+        - ivartaniants
+        - pwillmott
+        - mnespolo
     - organization: Columbia University
       begin_year: 2008
       group: bg

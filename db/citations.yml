@@ -275,25 +275,46 @@ anker;unpub22:
     - Simon J. L. Billinge
     - Raghavendra Selvan
     - Kirsten M. Ø. Jensen
-  doi: ''
+  doi: 10.1038/s41524-022-00896-3
   entrytype: article
   facility: maxiv, danmax, desy, petraiii, p02.1, p07, soleil, swing, aps
   grant: dmref19
   journal: npj Computational Materials
-  month: tbd
+  month: dec
   nb: ''
   note: to be published.  Available on ChemRxiv.
   number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
+  pages: '213'
+  professional_summary: Small clusters of atoms in solution or in a nanomaterial are
+    easy to masure using PDF methods, but it is very hard to find models to explain
+    the PDFs.  This paper describes an approach where the goal was to search for structural
+    motifs (small clusters of well-ordered atoms) from the PDF signal.  Working on
+    the assumption that specific types of atoms of will prefer to form lower energy
+    arrangements, and many of these arrangements are likely to be present in previously
+    solved crystal structures, the goal becomes to choose cut-outs from candidate
+    crystal structures, and then choose atoms to remove from the cut-out until we
+    get a good agreement with a measured PDF from a small cluster.  The task is to
+    find good starting models that can then later be used in full refinements, but
+    taking inspiration for the starting models from motifs that nature has already
+    shared with us rather than trying to build clusters randomly.  A challenge is
+    that, even for clusters of quite small size, the number of possible sets of atoms
+    to try removing, and therefore the number of structural refinements that need
+    to be carried out, becomes enormous if a purely combinatorial approach is taken
+    to removing the atoms and testing.  We therefore made use of interpretable machine
+    learning approach.  Using a gradient boosted decision tree (GBDT) model for picking
+    sets of atoms to remove, we analyzed the results by computing SHAP (Shapley Additive
+    exPlanation) values, which give information about how much contribution each feature
+    in the feature vector is contributing to the cost and allows us to rapidly see
+    which atoms are contributing most to the residual and are the strongest candidates
+    for removal
+  synopsis: Small clusters of atoms are predicted based on an input PDF by taking
+    a cut-out from known crystal structures and using a ML based approach (GBDT) to
+    systematically remove atoms until a good fit is obtained to the data.
   tags: ml, structure_solution, modeling
   title: Extracting Structural Motifs from Pair Distribution Function Data of Nanostructures
     using Interpretable Machine Learning
-  url: https://chemrxiv.org/engage/chemrxiv/article-details/6263f48f5b900913a0195c4f
-  volume: ''
-  wwwemail: ''
-  wwwpub: ''
+  url: https://doi.org/10.1038/s41524-022-00896-3
+  volume: '8'
   year: '2022'
 antic;jpcm13:
   author:
@@ -6496,18 +6517,18 @@ kjaer;cm22:
     - Mikkel Juelsholt
     - Simon J. L. Billinge
     - Kirsten M. Ø. Jensen
-  doi: ''
+  doi: 10.1002/cmtd.202200034
   entrytype: article
   facility: desy, petraiii, p02.1
   grant: dmref19
   journal: Chemistry Methods
-  month: tbd
+  month: aug
   nb: ''
-  note: To be published
   number: ''
   optannote: ''
+  optnote: Advanced online version
   optwwwlanl: ''
-  pages: ''
+  pages: e202200034
   professional_summary: Tungsten and Niobium nanoparticle formation is studied using
     in situ total scattering and PDF analysis.
   synopsis: The use of Pearson correlation analysis is demonstrated on volumes of
@@ -6516,12 +6537,12 @@ kjaer;cm22:
   title: 'In situ studies of the formation of tungsten and niobium oxide nanoparticles:
     Towards automated analysis of reaction pathways from PDF analysis using the Pearson
     correlation coefficient'
-  url: ''
-  volume: ''
+  url: https://doi.org/doi.org/10.1002/cmtd.202200034
+  volume: '2'
   wwwemail: ''
   wwwpub: ''
   year: '2022'
-kjaer;n22:
+kjaer;dd22:
   ackno: This work is part of a project that has received funding from the European
     Research Council (ERC) under the European Union's Horizon 2020 Research and Innovation
     Programme (grant agreement No. 804066). Work in the Billinge group was supported
@@ -6536,16 +6557,16 @@ kjaer;n22:
     - Simon J. L. Billinge
     - Raghavendra Selvan
     - Kirsten M. Ø. Jensen
-  doi: ''
+  doi: 10.1039/D2DD00086E
   entrytype: article
   facility: ''
   grant: dmref19
-  journal: Nature Communications
-  month: tbd
+  journal: Digital Discovery
+  month: dec
   nb: article, highlight, fy22
-  note: arxiv 2110.14820
   number: ''
   optannote: ''
+  optnote: arxiv 2110.14820
   optwwwlanl: ''
   optwwwpub: ''
   pages: ''
@@ -6562,7 +6583,7 @@ kjaer;n22:
   tags: ml, machine_learning, deep_learning, dl, structure_solution, udgp, gnn, cvae
   title: 'DeepStruc: Towards structure solution from pair distribution function data
     using deep generative models'
-  url: https://arxiv.org/abs/2110.14820
+  url: https://doi.org/10.1039/D2DD00086E
   volume: ''
   wwwemail: ''
   year: '2022'
@@ -7528,7 +7549,7 @@ liu;jacs21:
     through a Beckman Young Investigator grant awarded to J.A.M. and Beckman Postdoctoral
     Fellowships to M.I.G. and A.H.S. Synthesis, crystallography, thermal characterization,
     and EXAFS experiments were supported by the Office of Naval Research under award
-    N00014-19-1-2148. Studies of metal–bis(acetamide) glass formation were supported
+    N00014-19-1-2148. Studies of metal-bis(acetamide) glass formation were supported
     by the U.S. Department of Energy (DoE) under award DE-SC0021145. The PDF work
     was supported by the NSF MRSEC program through Columbia in the Center for Precision
     Assembly of Quantum Materials (PAQM) (DMR-2011738). We thank Dr. ShaoLiang Zheng
@@ -7563,9 +7584,11 @@ liu;jacs21:
   optannote: ''
   optwwwlanl: ''
   pages: 2801-2811
-  synopsis: A metal−ethylenebis(acetamide) MOF network is reported that undergoes reversible glass transition below 200 C and shows significant reflectivity contrast.
+  synopsis: A metal−ethylenebis(acetamide) MOF network is reported that undergoes
+    reversible glass transition below 200 C and shows significant reflectivity contrast.
   tags: mof, liquid, molecular
-  title: Designing Glass and Crystalline Phases of Metal−Bis(acetamide) Networks to Promote High Optical Contrast
+  title: Designing Glass and Crystalline Phases of Metal−Bis(acetamide) Networks to
+    Promote High Optical Contrast
   url: https://doi.org/10.1021/jacs.0c11718
   volume: '143'
   year: '2021'
@@ -7605,20 +7628,20 @@ liu;jacs22:
   nb: art
   note: ''
   number: '48'
-  pages: '22262--22271'
-  summary_professional: Materials that can switch from crystals to glasses and
-    back quickly and at relatively low temperatures, and which have large changes
-    in optical properties when they do, are valuable for information storage and 
-    processing using light.  This paper reports discovery of novel new such materials
-    based on metal-orgranic frameworks that have a glass transition temperature 
-    of just 200C and a large reflectivity contrast of just 0.48.  Metal-metal
-    correlations are important in this mechanism as indicated by PDF analysis.
-  synopsis: Low temperature glass forming MOF structures are reported with good
-    optical properties suitable for infomration storage applications
+  pages: 22262--22271
+  summary_professional: Materials that can switch from crystals to glasses and back
+    quickly and at relatively low temperatures, and which have large changes in optical
+    properties when they do, are valuable for information storage and processing using
+    light.  This paper reports discovery of novel new such materials based on metal-orgranic
+    frameworks that have a glass transition temperature of just 200C and a large reflectivity
+    contrast of just 0.48.  Metal-metal correlations are important in this mechanism
+    as indicated by PDF analysis.
+  synopsis: Low temperature glass forming MOF structures are reported with good optical
+    properties suitable for infomration storage applications
   tags: mof, liquid, molecular, glass, amorphous
   title: Designing Glass and Crystalline Phases of Metal–Bis(acetamide) Networks to
     Promote High Optical Contrast
-  url: 'https://pubs.acs.org/doi/full/10.1021/jacs.2c10449'
+  url: https://pubs.acs.org/doi/full/10.1021/jacs.2c10449
   volume: '144'
   year: '2022'
 liu;phdt;20:
@@ -9058,8 +9081,8 @@ pinhe;ijop22:
     and recrystallized phases of the drugs that were produced under the different
     conditions
   tags: molecular, drug, pharma, hiv, covid19
-  title: Evaluation of the polymorphic forms of ritonavir and lopinavir in raw 
-    materials and co-milled systems
+  title: Evaluation of the polymorphic forms of ritonavir and lopinavir in raw materials
+    and co-milled systems
   url: https://doi.org/10.1016/j.ijpharm.2022.122329
   volume: '628'
   year: '2022'

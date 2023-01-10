@@ -4360,6 +4360,21 @@
   status: accepted
   title: tbd
   type: colloquium
+2304sb_brookhavennationallaboratory:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2023-04-18
+  department: Photon Sciences Division Seminar
+  end_date: 2023-04-18
+  institution: Brookhaven National Laboratory
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: seminar
+  webinar: true
 2308sb_cityuniversityofhongkong,kowloon,hongkong:
   abstract: tbd
   authors:
