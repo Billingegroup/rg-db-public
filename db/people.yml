@@ -3685,7 +3685,7 @@ rlee:
     - begin_date: 2022-12-08
       end_date: 2023-05-31
       organization: columbiau
-      position: undergrad researcher
+      position: Undergraduate Researcher
       group: bg
       advisor: sbillinge
       status: undergrad
@@ -4063,6 +4063,15 @@ sbillinge:
   google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
   grp_mtg_active: false
   hindex:
+    - h: 80
+      h_last_five: 49
+      citations: 28421
+      citations_last_five: 12530
+      origin: Google Scholar
+      since: 1991
+      year: 2023
+      month: 1
+      day: 13
     - h: 78
       h_last_five: 49
       citations: 26343
@@ -4174,7 +4183,8 @@ sbillinge:
         of new materials, by developing and applying concepts in graph theory, machine
         learning and statistics
       begin_year: 2014
-    - description: Broadening the use of the atomic pair distribution function method
+    - description: Broadening the applicability and use of the atomic pair distribution
+        function method
       begin_year: 1987
     - description: Understanding the physics of strongly correlated electron materials
         by studying their nanoscale electronic and magnetic textures
@@ -5074,7 +5084,7 @@ sskjaervoe:
   position: post-doctoral scholar
   title: Dr.
 sstao:
-  active: true
+  active: false
   aka:
     - Tao, Songsheng
     - S. Tao
@@ -5088,6 +5098,8 @@ sstao:
   education:
     - institution: Columbia University
       begin_year: 2017
+      end_year: 2023
+      end_month: 1
       group: bg
       location: New York, NY
       advisor: sbillinge
@@ -5103,8 +5115,8 @@ sstao:
   email: st3107@columbia.edu
   employment:
     - begin_year: 2017
-      end_year: 2022
-      end_month: 6
+      end_year: 2023
+      end_month: 1
       begin_month: 9
       position: graduate research assistant
       organization: columbiau

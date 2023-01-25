@@ -5146,32 +5146,37 @@ gu;aca19:
   volume: '75'
   wwwemail: ''
   year: '2019'
-gu;ieeetkde22:
-  ackno: This research was supported by the US National Science Foundation (NSF) through
-    grant DMR-1922234 (for R.G., Q.D. and S.B.) and CCF-1740833 (for Q.D.)
+gu;aca23:
+  ackno: This work was supported by NSF-DMR 1922234 (for R.G., Q.D.
+    and S.B.), NSF CCF 1740833 (for Q.D.) and the Fundamental Research Funds for the
+    Central Universities 63223048 and NSFC 12201318 (for R.G.).
   author:
     - Ran Gu
-    - Qiang Du
     - Simon J. L. Billinge
+    - Qiang Du
   doi: ''
   entrytype: article
   facility: ''
   grant: dmref19
-  journal: IEEE Transactions on Knowledge and Data Engineering
+  journal: Acta Crystallogr. Section A
   month: jan
   nb: fy21, typeA
-  note: arXiv:2101.08431 [math.OC]
+  note: To be published. arXiv:2101.08431 [math.OC]
   number: ''
   optannote: ''
   optwwwlanl: ''
   pages: ''
+  tags: nmf, algorithm, theory
+  synopsis: a novel algorithm is developed for non-negative matrix factorization
+    calculations using alternating non-negative least squares (ANLS) together with
+    the active set method.
   title: A fast two-stage algorithm for non-negative matrix factorization in smoothly
     varying data
   url: https://arxiv.org/abs/2101.08431
   volume: ''
   wwwemail: ''
   wwwpub: ''
-  year: '2022'
+  year: '2023'
 gualt;jac08:
   author:
     - Gualtieri, A. F.

@@ -4328,32 +4328,44 @@
   project:
     - all
   status: accepted
-  title: 'Ultra fast atomic pair distribution function (PDF) analysis: a new chapter
+  title: 'Ultra fast atomic pair distribution function ({PDF}) analysis: a new chapter
     in the goal of atomic movies'
   type: invited
   webinar: true
-2211sb_paulscherrerinstitution:
-  abstract: tbd
+2302sb_bari,italy:
+  abstract: Nanoparticles and nanostructures are at the heart of next generation technological
+    solutions in sustainable energy, effective new pharmaceuticals and environmental
+    remediation.  A key to making progress is to be able to understand the nanoparticle
+    structure, the arrangements of atoms in the nanoparticles and nanoscale structures.
+    Also critical is understanding the distribution of the nanoparticles and how they
+    change in time as devices run and reactions take place.  We use advanced x-ray,
+    neutron and electron scattering methods to get at this problem.  I will talk about
+    these methods and show some recent success-stories in the fields of sustainable
+    energy, pharmaceuticals and cultural heritage preservation.  However, I will also
+    discuss the fundamental limitations on our ability to extract information from
+    the data and how we are now turning to machine learnging and articifical intelligence
+    techniques to give more insights.
   authors:
     - sbillinge
-  begin_date: 2022-11-11
-  department: cmp
-  end_date: 2022-11-11
-  institution: psi
-  presentation_url: 2210sb_psi
+  begin_date: 2023-02-07
+  department: Institute of Crystallography
+  end_date: 2023-02-07
+  institution: Bari, Italy
+  notes: []
   project:
     - all
   status: accepted
-  title: tbd
-  type: colloquium
-2303sb_weizmani:
+  title: '"From saving pharmaceuticals to saving priceless historical artefacts via saving
+    the planet: understanding nanostructure with x-rays and algorithms"'
+  type: seminar
+2303sb_weizmanni:
   abstract: tbd
   authors:
     - sbillinge
   begin_date: 2023-03-13
   department: chemistry
   end_date: 2023-03-15
-  institution: weizmani
+  institution: weizmanni
   notes: []
   project:
     - all
@@ -4369,12 +4381,21 @@
   end_date: 2023-04-18
   institution: Brookhaven National Laboratory
   notes: []
+2304sb_paulscherrerinstitution:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2023-04-28
+  department: cmp
+  end_date: 2023-04-28
+  institution: psi
+  presentation_url: 2210sb_psi
   project:
     - all
   status: accepted
   title: tbd
-  type: seminar
   webinar: true
+  type: colloquium
 2308sb_cityuniversityofhongkong,kowloon,hongkong:
   abstract: tbd
   authors:
