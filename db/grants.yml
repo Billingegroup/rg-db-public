@@ -263,6 +263,27 @@
       position: copi
   title: 'Modelling defects in topologically connected networks: Application to perovskite
     structures'
+0098_cfmr_kaplan:
+  amount: 33000
+  begin_date: 1998-06-15
+  end_date: 1999-06-14
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
+  team:
+    - institution: msu
+      name: sbillinge
+      position: pi
+      subaward_amount: 13000
+    - institution: msu
+      name: James Harrison
+      position: copi
+    - institution: msu
+      name: Tom Kaplan
+      position: copi
+    - institution: msu
+      name: Bhanu Mahanti
+      position: copi
+  title: Theoretical and Experimental studies of electronic and structural properties
+    of pristine and doped manganites
 0099_nist_pinnavaia:
   amount: 155030
   begin_date: 1999-07-01
@@ -917,6 +938,8 @@
 18_SUNY-SB_EFRC:
   amount: 14850000.0
   awardnr: DE-SC0019212
+  begin_date: 2018-08-01
+  end_date: 2024-07-31
   funder: DOE-BES
   team:
     - institution: stonybrooku
@@ -1171,24 +1194,3 @@
       subaward_amount: 0
   title: A Data-driven Approach to Solving the Structure Refinement Problem for Defected
     and Disordered Nanoparticles
-98_cfmr_kaplan:
-  amount: 33000
-  begin_date: 1998-06-15
-  end_date: 1999-06-14
-  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
-  team:
-    - institution: msu
-      name: sbillinge
-      position: pi
-      subaward_amount: 13000
-    - institution: msu
-      name: James Harrison
-      position: copi
-    - institution: msu
-      name: Tom Kaplan
-      position: copi
-    - institution: msu
-      name: Bhanu Mahanti
-      position: copi
-  title: Theoretical and Experimental studies of electronic and structural properties
-    of pristine and doped manganites

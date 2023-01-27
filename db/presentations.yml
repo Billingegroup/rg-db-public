@@ -4355,8 +4355,8 @@
   project:
     - all
   status: accepted
-  title: '"From saving pharmaceuticals to saving priceless historical artefacts via saving
-    the planet: understanding nanostructure with x-rays and algorithms"'
+  title: '"From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms"'
   type: seminar
 2303sb_weizmanni:
   abstract: tbd
@@ -4383,8 +4383,8 @@
   notes: []
   status: accepted
   title: tbd
-  webinar: true
   type: seminar
+  webinar: true
 2304sb_paulscherrerinstitution:
   abstract: tbd
   authors:
@@ -4398,8 +4398,8 @@
     - all
   status: accepted
   title: tbd
-  webinar: true
   type: colloquium
+  webinar: true
 2308sb_cityuniversityofhongkong,kowloon,hongkong:
   abstract: tbd
   authors:
