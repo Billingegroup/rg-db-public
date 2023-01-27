@@ -7,7 +7,7 @@ abeyk;jac15:
     - Billinge, Simon J. L.
   doi: '10.1107/S1600576715000412 '
   entrytype: article
-  facility: CFN,nsls, x7a
+  facility: cfn ,nsls, x7a
   grant: fwp
   journal: J. Appl. Crystallogr.
   nb: typeA, fy15
@@ -275,25 +275,46 @@ anker;unpub22:
     - Simon J. L. Billinge
     - Raghavendra Selvan
     - Kirsten M. Ø. Jensen
-  doi: ''
+  doi: 10.1038/s41524-022-00896-3
   entrytype: article
   facility: maxiv, danmax, desy, petraiii, p02.1, p07, soleil, swing, aps
   grant: dmref19
   journal: npj Computational Materials
-  month: tbd
+  month: dec
   nb: ''
   note: to be published.  Available on ChemRxiv.
   number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
+  pages: '213'
+  professional_summary: Small clusters of atoms in solution or in a nanomaterial are
+    easy to masure using PDF methods, but it is very hard to find models to explain
+    the PDFs.  This paper describes an approach where the goal was to search for structural
+    motifs (small clusters of well-ordered atoms) from the PDF signal.  Working on
+    the assumption that specific types of atoms of will prefer to form lower energy
+    arrangements, and many of these arrangements are likely to be present in previously
+    solved crystal structures, the goal becomes to choose cut-outs from candidate
+    crystal structures, and then choose atoms to remove from the cut-out until we
+    get a good agreement with a measured PDF from a small cluster.  The task is to
+    find good starting models that can then later be used in full refinements, but
+    taking inspiration for the starting models from motifs that nature has already
+    shared with us rather than trying to build clusters randomly.  A challenge is
+    that, even for clusters of quite small size, the number of possible sets of atoms
+    to try removing, and therefore the number of structural refinements that need
+    to be carried out, becomes enormous if a purely combinatorial approach is taken
+    to removing the atoms and testing.  We therefore made use of interpretable machine
+    learning approach.  Using a gradient boosted decision tree (GBDT) model for picking
+    sets of atoms to remove, we analyzed the results by computing SHAP (Shapley Additive
+    exPlanation) values, which give information about how much contribution each feature
+    in the feature vector is contributing to the cost and allows us to rapidly see
+    which atoms are contributing most to the residual and are the strongest candidates
+    for removal
+  synopsis: Small clusters of atoms are predicted based on an input PDF by taking
+    a cut-out from known crystal structures and using a ML based approach (GBDT) to
+    systematically remove atoms until a good fit is obtained to the data.
   tags: ml, structure_solution, modeling
   title: Extracting Structural Motifs from Pair Distribution Function Data of Nanostructures
     using Interpretable Machine Learning
-  url: https://chemrxiv.org/engage/chemrxiv/article-details/6263f48f5b900913a0195c4f
-  volume: ''
-  wwwemail: ''
-  wwwpub: ''
+  url: https://doi.org/10.1038/s41524-022-00896-3
+  volume: '8'
   year: '2022'
 antic;jpcm13:
   author:
@@ -652,6 +673,7 @@ beech;acsel16:
   optnote: '1606.09267'
   optwwwlanl: ''
   pages: 880–887
+  tags: hybrid_perovskite, pbi3, ixs, phonon, symmetry_breaking
   title: Direct observation of dynamic symmetry breaking above room temperature in
     methylammonium lead iodide perovskite
   url: http://dx.doi.org/10.1021/acsenergylett.6b00381
@@ -4715,7 +4737,7 @@ gamez;jac17:
     - Martinez-Inesta, Maria
   doi: 10.1107/S1600576717003715
   entrytype: article
-  facility: ' 11idb, aps'
+  facility: 11idb, aps
   grant: dmref15
   journal: J. Appl. Crystallogr.
   month: April
@@ -5124,32 +5146,37 @@ gu;aca19:
   volume: '75'
   wwwemail: ''
   year: '2019'
-gu;ieeetkde22:
-  ackno: This research was supported by the US National Science Foundation (NSF) through
-    grant DMR-1922234 (for R.G., Q.D. and S.B.) and CCF-1740833 (for Q.D.)
+gu;aca23:
+  ackno: This work was supported by NSF-DMR 1922234 (for R.G., Q.D. and S.B.), NSF
+    CCF 1740833 (for Q.D.) and the Fundamental Research Funds for the Central Universities
+    63223048 and NSFC 12201318 (for R.G.).
   author:
     - Ran Gu
-    - Qiang Du
     - Simon J. L. Billinge
+    - Qiang Du
   doi: ''
   entrytype: article
   facility: ''
   grant: dmref19
-  journal: IEEE Transactions on Knowledge and Data Engineering
+  journal: Acta Crystallogr. Section A
   month: jan
   nb: fy21, typeA
-  note: arXiv:2101.08431 [math.OC]
+  note: To be published. arXiv:2101.08431 [math.OC]
   number: ''
   optannote: ''
   optwwwlanl: ''
   pages: ''
+  synopsis: a novel algorithm is developed for non-negative matrix factorization calculations
+    using alternating non-negative least squares (ANLS) together with the active set
+    method.
+  tags: nmf, algorithm, theory
   title: A fast two-stage algorithm for non-negative matrix factorization in smoothly
     varying data
   url: https://arxiv.org/abs/2101.08431
   volume: ''
   wwwemail: ''
   wwwpub: ''
-  year: '2022'
+  year: '2023'
 gualt;jac08:
   author:
     - Gualtieri, A. F.
@@ -6459,22 +6486,21 @@ kimber;nm23:
   journal: Nature Materials
   month: tbd
   nb: ''
-  note: Submitted
+  note: To be Published
   number: ''
   optannote: ''
   optwwwlanl: ''
   pages: ''
-  professional_summary: Tungsten and Niobium nanoparticle formation is studied using
-    in situ total scattering and PDF analysis.
+  professional_summary: Something
   synopsis: First presentation of variable shutter PDF (vsPDF) and its application
     to study the dynamic fluctuations at high temperature in cubic GeTe
-  tags: vspdf, variable shutter pdf, gete, anharmonicity, ferroelectric, ins,
+  tags: vspdf, variable_shutter_pdf, gete, anharmonicity, ferroelectric, ins,
   title: Dynamic crystallography reveals spontaneous anisotropy in cubic {GeTe}
   url: ''
   volume: ''
   wwwemail: ''
   wwwpub: ''
-  year: '2022'
+  year: '2023'
 kjaer;cm22:
   ackno: This work is part of a project that has received funding from the European
     Research Council (ERC) under the European Union's Horizon 2020 Research and Innovation
@@ -6496,18 +6522,18 @@ kjaer;cm22:
     - Mikkel Juelsholt
     - Simon J. L. Billinge
     - Kirsten M. Ø. Jensen
-  doi: ''
+  doi: 10.1002/cmtd.202200034
   entrytype: article
   facility: desy, petraiii, p02.1
   grant: dmref19
   journal: Chemistry Methods
-  month: tbd
+  month: aug
   nb: ''
-  note: To be published
   number: ''
   optannote: ''
+  optnote: Advanced online version
   optwwwlanl: ''
-  pages: ''
+  pages: e202200034
   professional_summary: Tungsten and Niobium nanoparticle formation is studied using
     in situ total scattering and PDF analysis.
   synopsis: The use of Pearson correlation analysis is demonstrated on volumes of
@@ -6516,12 +6542,12 @@ kjaer;cm22:
   title: 'In situ studies of the formation of tungsten and niobium oxide nanoparticles:
     Towards automated analysis of reaction pathways from PDF analysis using the Pearson
     correlation coefficient'
-  url: ''
-  volume: ''
+  url: https://doi.org/doi.org/10.1002/cmtd.202200034
+  volume: '2'
   wwwemail: ''
   wwwpub: ''
   year: '2022'
-kjaer;n22:
+kjaer;dd22:
   ackno: This work is part of a project that has received funding from the European
     Research Council (ERC) under the European Union's Horizon 2020 Research and Innovation
     Programme (grant agreement No. 804066). Work in the Billinge group was supported
@@ -6536,16 +6562,16 @@ kjaer;n22:
     - Simon J. L. Billinge
     - Raghavendra Selvan
     - Kirsten M. Ø. Jensen
-  doi: ''
+  doi: 10.1039/D2DD00086E
   entrytype: article
   facility: ''
   grant: dmref19
-  journal: Nature Communications
-  month: tbd
+  journal: Digital Discovery
+  month: dec
   nb: article, highlight, fy22
-  note: arxiv 2110.14820
   number: ''
   optannote: ''
+  optnote: arxiv 2110.14820
   optwwwlanl: ''
   optwwwpub: ''
   pages: ''
@@ -6562,7 +6588,7 @@ kjaer;n22:
   tags: ml, machine_learning, deep_learning, dl, structure_solution, udgp, gnn, cvae
   title: 'DeepStruc: Towards structure solution from pair distribution function data
     using deep generative models'
-  url: https://arxiv.org/abs/2110.14820
+  url: https://doi.org/10.1039/D2DD00086E
   volume: ''
   wwwemail: ''
   year: '2022'
@@ -7528,7 +7554,7 @@ liu;jacs21:
     through a Beckman Young Investigator grant awarded to J.A.M. and Beckman Postdoctoral
     Fellowships to M.I.G. and A.H.S. Synthesis, crystallography, thermal characterization,
     and EXAFS experiments were supported by the Office of Naval Research under award
-    N00014-19-1-2148. Studies of metal–bis(acetamide) glass formation were supported
+    N00014-19-1-2148. Studies of metal-bis(acetamide) glass formation were supported
     by the U.S. Department of Energy (DoE) under award DE-SC0021145. The PDF work
     was supported by the NSF MRSEC program through Columbia in the Center for Precision
     Assembly of Quantum Materials (PAQM) (DMR-2011738). We thank Dr. ShaoLiang Zheng
@@ -7563,9 +7589,11 @@ liu;jacs21:
   optannote: ''
   optwwwlanl: ''
   pages: 2801-2811
-  synopsis: A metal−ethylenebis(acetamide) MOF network is reported that undergoes reversible glass transition below 200 C and shows significant reflectivity contrast.
+  synopsis: A metal−ethylenebis(acetamide) MOF network is reported that undergoes
+    reversible glass transition below 200 C and shows significant reflectivity contrast.
   tags: mof, liquid, molecular
-  title: Designing Glass and Crystalline Phases of Metal−Bis(acetamide) Networks to Promote High Optical Contrast
+  title: Designing Glass and Crystalline Phases of Metal−Bis(acetamide) Networks to
+    Promote High Optical Contrast
   url: https://doi.org/10.1021/jacs.0c11718
   volume: '143'
   year: '2021'
@@ -7605,20 +7633,20 @@ liu;jacs22:
   nb: art
   note: ''
   number: '48'
-  pages: '22262--22271'
-  summary_professional: Materials that can switch from crystals to glasses and
-    back quickly and at relatively low temperatures, and which have large changes
-    in optical properties when they do, are valuable for information storage and 
-    processing using light.  This paper reports discovery of novel new such materials
-    based on metal-orgranic frameworks that have a glass transition temperature 
-    of just 200C and a large reflectivity contrast of just 0.48.  Metal-metal
-    correlations are important in this mechanism as indicated by PDF analysis.
-  synopsis: Low temperature glass forming MOF structures are reported with good
-    optical properties suitable for infomration storage applications
+  pages: 22262--22271
+  summary_professional: Materials that can switch from crystals to glasses and back
+    quickly and at relatively low temperatures, and which have large changes in optical
+    properties when they do, are valuable for information storage and processing using
+    light.  This paper reports discovery of novel new such materials based on metal-orgranic
+    frameworks that have a glass transition temperature of just 200C and a large reflectivity
+    contrast of just 0.48.  Metal-metal correlations are important in this mechanism
+    as indicated by PDF analysis.
+  synopsis: Low temperature glass forming MOF structures are reported with good optical
+    properties suitable for infomration storage applications
   tags: mof, liquid, molecular, glass, amorphous
   title: Designing Glass and Crystalline Phases of Metal–Bis(acetamide) Networks to
     Promote High Optical Contrast
-  url: 'https://pubs.acs.org/doi/full/10.1021/jacs.2c10449'
+  url: https://pubs.acs.org/doi/full/10.1021/jacs.2c10449
   volume: '144'
   year: '2022'
 liu;phdt;20:
@@ -8290,6 +8318,7 @@ nguye;pnas19:
   optannote: ''
   optwwwlanl: ''
   pages: 11630-11639
+  tags: catalysis, mof, cubane, cobalt_oxide, weak_scattering
   title: Stabilization of reactive { Co$_{4}$O$_{4}$ }  cubane oxygen-evolution catalysts
     within porous frameworks
   url: https://www.pnas.org/content/116/24/11630
@@ -8971,6 +9000,7 @@ petko;prl02:
   optmonth: ''
   optnumber: ''
   pages: '075502 '
+  tags: weak_scattering, zeolite, electride, caesium
   title: 'Structure of intercalated {Cs} in zeolite {ITQ-4}: an array of metal ions
     and electrons confined in a {pseudo-1D} nanoporous host'
   url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.89.075502
@@ -9058,8 +9088,8 @@ pinhe;ijop22:
     and recrystallized phases of the drugs that were produced under the different
     conditions
   tags: molecular, drug, pharma, hiv, covid19
-  title: Evaluation of the polymorphic forms of ritonavir and lopinavir in raw 
-    materials and co-milled systems
+  title: Evaluation of the polymorphic forms of ritonavir and lopinavir in raw materials
+    and co-milled systems
   url: https://doi.org/10.1016/j.ijpharm.2022.122329
   volume: '628'
   year: '2022'
@@ -10721,7 +10751,7 @@ terba;cec22:
   nb: ' art '
   number: ''
   optannote: ''
-  optnote: to be published
+  optnote: ''
   optwwwlanl: ''
   pages: 2305-2313
   synopsis: Desolvation, the removal of solvent molecules from a substrate, is of
@@ -10752,6 +10782,7 @@ terba;cgd15:
   optnote: 'Doi: http://pubs.acs.org/doi/full/10.1021/acs.cgd.5b01100'
   optwwwlanl: ''
   pages: 210–220
+  tags: lactose, pharma, recrystallization, weak scattering
   title: Recrystallization, phase composition, and local structure of amorphous lactose
     from the total scattering pair distribution function
   url: http://pubs.acs.org/doi/full/10.1021/acs.cgd.5b01100
@@ -10782,7 +10813,7 @@ terba;cr22:
   synopsis: A thorough and detailed review of total scattering PDF experiments and
     studies of molecular materials.  Contains useful tips and tricks for doing experiments
     and analyses on weakly scattering samples.
-  tags: review, molecular, pharma
+  tags: review, molecular, pharma, weak_scattering
   title: Structural analysis of molecular materials using the pair distribution function
   url: https://doi.org/10.1021/acs.chemrev.1c00237
   volume: '122'
@@ -10815,6 +10846,7 @@ terba;ic17:
   optannote: ''
   optwwwlanl: ''
   pages: 8837--8846
+  tags: nanoporous, terbium, mof, umof, weak_scattering, zirconium_phosphate
   title: Local environment of terbium(III) ions in layered nanocrystalline zirconium(IV)
     phosphonate–phosphate ion exchange materials
   url: http://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.7b00666
@@ -10841,6 +10873,7 @@ terba;macm16:
   optannote: ''
   optwwwlanl: ''
   pages: 7350--7358
+  tags: polymer, polyurethane, weak_scattering, soft_material
   title: Structures of hard phases in thermoplastic polyurethanes
   url: http://pubs.acs.org/doi/abs/10.1021/acs.macromol.6b00889
   volume: '49'
@@ -10876,7 +10909,7 @@ terba;mp20:
   notes: ''
   number: '7'
   optannote: ''
-  optnote: Submitted
+  optnote: ''
   optwwwlanl: ''
   pages: 2370-2389
   tags: molecular, drug, highlight
@@ -10905,6 +10938,7 @@ terba;nan15:
   optannote: ''
   optwwwlanl: ''
   pages: 5480--5487
+  tags: weak scattering, pharma, solution
   title: Detection and characterization of nanoparticles in suspension at low concentrations
     using the x-ray total scattering pair distribution function technique
   url: http://dx.doi.org/10.1039/C4NR06486K
@@ -10939,7 +10973,7 @@ terba;nan18:
   optnote: DOI:10.1039/C7NR07949D
   optwwwlanl: ''
   pages: 4291--4300
-  tags: in_situ, synthesis, mof, polymer
+  tags: in_situ, synthesis, mof, polymer, weak_scattering
   title: Early stage structural development of prototypical zeolitic imidazolate framework
     (ZIF) in solution
   url: http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07949d/unauth\#!divAbstract
@@ -12519,6 +12553,7 @@ zhang;nc18:
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/18terbannc.pdf
   pages: '1957'
+  tags: weak_scattering
   title: Hollow organic capsules assemble into cellular semiconductors
   url: https://www.nature.com/articles/s41467-018-04246-0
   volume: '9'
