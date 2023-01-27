@@ -5147,9 +5147,9 @@ gu;aca19:
   wwwemail: ''
   year: '2019'
 gu;aca23:
-  ackno: This work was supported by NSF-DMR 1922234 (for R.G., Q.D.
-    and S.B.), NSF CCF 1740833 (for Q.D.) and the Fundamental Research Funds for the
-    Central Universities 63223048 and NSFC 12201318 (for R.G.).
+  ackno: This work was supported by NSF-DMR 1922234 (for R.G., Q.D. and S.B.), NSF
+    CCF 1740833 (for Q.D.) and the Fundamental Research Funds for the Central Universities
+    63223048 and NSFC 12201318 (for R.G.).
   author:
     - Ran Gu
     - Simon J. L. Billinge
@@ -5166,10 +5166,10 @@ gu;aca23:
   optannote: ''
   optwwwlanl: ''
   pages: ''
+  synopsis: a novel algorithm is developed for non-negative matrix factorization calculations
+    using alternating non-negative least squares (ANLS) together with the active set
+    method.
   tags: nmf, algorithm, theory
-  synopsis: a novel algorithm is developed for non-negative matrix factorization
-    calculations using alternating non-negative least squares (ANLS) together with
-    the active set method.
   title: A fast two-stage algorithm for non-negative matrix factorization in smoothly
     varying data
   url: https://arxiv.org/abs/2101.08431
@@ -6486,22 +6486,21 @@ kimber;nm23:
   journal: Nature Materials
   month: tbd
   nb: ''
-  note: Submitted
+  note: To be Published
   number: ''
   optannote: ''
   optwwwlanl: ''
   pages: ''
-  professional_summary: Tungsten and Niobium nanoparticle formation is studied using
-    in situ total scattering and PDF analysis.
+  professional_summary: Something
   synopsis: First presentation of variable shutter PDF (vsPDF) and its application
     to study the dynamic fluctuations at high temperature in cubic GeTe
-  tags: vspdf, variable shutter pdf, gete, anharmonicity, ferroelectric, ins,
+  tags: vspdf, variable_shutter_pdf, gete, anharmonicity, ferroelectric, ins,
   title: Dynamic crystallography reveals spontaneous anisotropy in cubic {GeTe}
   url: ''
   volume: ''
   wwwemail: ''
   wwwpub: ''
-  year: '2022'
+  year: '2023'
 kjaer;cm22:
   ackno: This work is part of a project that has received funding from the European
     Research Council (ERC) under the European Union's Horizon 2020 Research and Innovation

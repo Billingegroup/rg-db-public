@@ -4381,6 +4381,10 @@
   end_date: 2023-04-18
   institution: Brookhaven National Laboratory
   notes: []
+  status: accepted
+  title: tbd
+  webinar: true
+  type: seminar
 2304sb_paulscherrerinstitution:
   abstract: tbd
   authors:
