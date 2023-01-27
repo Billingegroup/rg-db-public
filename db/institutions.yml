@@ -2270,6 +2270,8 @@ tohokuu:
   name: Tohoku University
   year: 2020
 toyotaresearch:
+  aka:
+    - tri
   city: Ann Arbor
   country: USA
   date: 2021-04-11

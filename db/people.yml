@@ -2449,7 +2449,7 @@ klkim:
       advisor: sbillinge
       status: ug
   github_id: kaylabim
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Kayla Kim
   orcid_id: 0000-0003-0050-3217
   position: masters researcher
@@ -2605,7 +2605,7 @@ llan:
       advisor: sbillinge
       status: phd
   github_id: lanikaling
-  grp_mtg_active: false
+  grp_mtg_active: true
   name: Ling Lan
   orcid_id: 0000-0001-6267-4834
   position: graduate research assistant
@@ -3674,6 +3674,26 @@ rkoch:
   orcid_id: 0000-0003-4995-2101
   position: post-doctoral scholar
   title: Dr.
+rlee:
+  active: true
+  aka: []
+  avatar: https://github.com/sl5035.png
+  bio: bio
+  education: []
+  email: sl5035@columbia.edu
+  employment:
+    - begin_date: 2022-12-08
+      end_date: 2023-05-31
+      organization: columbiau
+      position: Undergraduate Researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: sl5035
+  grp_mtg_active: true
+  name: Robin Lee
+  orcid_id: ''
+  position: undergrad researcher
 rnzhang:
   active: true
   aka: []
@@ -3863,23 +3883,25 @@ sbillinge:
     - sbillinge
     - Simon John Laird Billinge
   avatar: https://github.com/sbillinge.png
-  bio: "Prof. Billinge has more than 25 years of experience developing and  applying\
-    \ techniques to study local structure in materials using x-ray,  neutron and electron\
+  bio: "Prof. Billinge has more than 25 years of experience developing and  applying\
+    \ techniques to study local structure in materials using x-ray,  neutron and electron\
     \ diffraction including the development of novel data analysis methods including\
-    \ graph theoretic, Artificial Intelligence and Machine Learning approaches. He\
+    \ graph theoretic, artificial intelligence and machine learning approaches. He\
     \ earned his Ph.D in Materials Science and Engineering from University of Pennsylvania\
     \ in 1992. After 13 years as a faculty member at Michigan State University, in\
     \ 2008 he took up his current position as Professor of Materials Science and Applied\
-    \ Physics and Applied Mathematics at Columbia University and Physicist at Brookhaven\
-    \ National Laboratory.\nProf. Billinge has published more than 300 papers in scholarly\
-    \ journals. He is a fellow of the American Physical Society and the Neutron Scattering\
-    \ Society of America, a former Fulbright and Sloan fellow and has earned a number\
-    \ of awards including the 2018 Warren Award of the American Crystallographic Association\
+    \ Physics and Applied Mathematics at Columbia University and held a joint position\
+    \ of Physicist at Brookhaven National Laboratory between 2008 and 2022.\n Prof.\
+    \ Billinge has published more than 350 papers in scholarly journals. He is a fellow\
+    \ of the American Physical Society and the Neutron Scattering Society of America,\
+    \ a former Fulbright and Sloan fellow and has earned a number of awards including\
+    \ the 2022 Distinguished Powder Diffractionist Prize of the European Powder Diffraction\
+    \ Conference, the 2018 Warren Award of the American Crystallographic Association\
     \ and being honored in 2011 for contributions to the nation as an immigrant by\
     \ the Carnegie Corporation of New York, the 2010 J. D. Hanawalt Award of the International\
-    \ Center for Diffraction Data, University Distinguished Faculty award at Michigan\
-    \ State, the Thomas H. Osgood Undergraduate Teaching Award. He is Section Editor\
-    \ of Acta Crystallographica Section A: Advances and Foundations. He regularly\
+    \ Center for Diffraction Data, University, Distinguished Faculty award at Michigan\
+    \ State, and the Thomas H. Osgood Undergraduate Teaching Award. He is Section\
+    \ Editor of Acta Crystallographica Section A: Advances and Foundations. He regularly\
     \ chairs and participates in reviews of major facilities and federally funded\
     \ programs."
   bios:
@@ -4049,6 +4071,7 @@ sbillinge:
       organization: Brookhaven National Laboratory
       position: physicist
       begin_year: 2008
+      end_year: 2023
       group: xray
       status: pi
     - organization: Institut Laue Langevin
@@ -4100,6 +4123,15 @@ sbillinge:
   google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
   grp_mtg_active: false
   hindex:
+    - h: 80
+      h_last_five: 49
+      citations: 28421
+      citations_last_five: 12530
+      origin: Google Scholar
+      since: 1991
+      year: 2023
+      month: 1
+      day: 13
     - h: 78
       h_last_five: 49
       citations: 26343
@@ -4137,6 +4169,8 @@ sbillinge:
       month: 5
       day: 12
   honors:
+    - name: Flack Lecturer of the Swiss Society for Crystallography
+      year: 2023
     - name: Distinguished Powder Diffractionist Prize of the European Powder Diffraction
         Conference
       year: 2022
@@ -4209,7 +4243,8 @@ sbillinge:
         of new materials, by developing and applying concepts in graph theory, machine
         learning and statistics
       begin_year: 2014
-    - description: Broadening the use of the atomic pair distribution function method
+    - description: Broadening the applicability and use of the atomic pair distribution
+        function method
       begin_year: 1987
     - description: Understanding the physics of strongly correlated electron materials
         by studying their nanoscale electronic and magnetic textures
@@ -4935,11 +4970,26 @@ sdisch:
   name: Sabrina Disch
   position: unknown
 sfrank:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/sarafrank95.png
-  bio: ''
-  education: []
+  bio: Sara is from Aarhus, Denmark. She acquired her Master's Degree in Nanoscience
+    and is currently pursuing a PhD in Chemical Engineering at Aarhus University.
+    She is exploring hybrid organic-inorganic catalysts for electrocatalytic CO2 reduction
+    and investigates their structure-property relations with EXAFS and PDF.
+  education:
+    - begin_year: 2020
+      degree: PhD in Chemical Engineering
+      institution: aarhusu
+      end_year: 2024
+    - begin_year: 2018
+      degree: MS in Nanoscience
+      institution: aarhusu
+      end_year: 2020
+    - begin_year: 2015
+      degree: BA in Nanoscience
+      institution: aarhusu
+      end_year: 2018
   email: sarafrank@bce.au.dk
   employment:
     - begin_date: 2022-09-15
@@ -4953,7 +5003,7 @@ sfrank:
   grp_mtg_active: false
   name: Sara Frank
   orcid_id: 0000-0001-6321-8363
-  position: visiting Researcher, U Copenhagen
+  position: visiting Researcher, U. Aarhus
 sghose:
   active: false
   aka: []
@@ -5089,14 +5139,13 @@ sskjaervoe:
       position: post-doctoral scholar
       group: bg
       status: postdoc
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Sandra H. Skjaervoe
   position: post-doctoral scholar
   title: Dr.
 sstao:
-  active: true
+  active: false
   aka:
-    - Songsheng Tao
     - Tao, Songsheng
     - S. Tao
     - Tao, S.
@@ -5109,6 +5158,8 @@ sstao:
   education:
     - institution: Columbia University
       begin_year: 2017
+      end_year: 2023
+      end_month: 1
       group: bg
       location: New York, NY
       advisor: sbillinge
@@ -5124,8 +5175,8 @@ sstao:
   email: st3107@columbia.edu
   employment:
     - begin_year: 2017
-      end_year: 2022
-      end_month: 6
+      end_year: 2023
+      end_month: 1
       begin_month: 9
       position: graduate research assistant
       organization: columbiau
