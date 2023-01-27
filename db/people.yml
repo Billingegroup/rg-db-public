@@ -4910,7 +4910,7 @@ sdisch:
   name: Sabrina Disch
   position: unknown
 sfrank:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/sarafrank95.png
   bio: Sara is from Aarhus, Denmark. She acquired her Master's Degree in Nanoscience
@@ -4940,7 +4940,7 @@ sfrank:
       advisor: sbillinge
       status: visitor-unsupported
   github_id: sarafrank95
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Sara Frank
   orcid_id: 0000-0001-6321-8363
   position: visiting Researcher, U. Aarhus
@@ -5125,7 +5125,7 @@ sstao:
       group: bg
   github_id: st3107
   google_scholar_url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=xe1JOIAAAAAJ
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Songsheng Tao
   orcid_id: 0000-0002-7565-3503
   position: graduate research assistant
