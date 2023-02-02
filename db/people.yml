@@ -48,6 +48,26 @@ aabeykoon:
       status: postdoc
   name: A. M. Milinda Abeykoon
   position: assistant scientist
+aajayi:
+  active: true
+  aka: []
+  avatar: "https://github.com/aajayi-21.png"
+  bio: bio
+  education: []
+  email: aoa2160@columbia.edu
+  employment:
+    - begin_date: 2023-02-01
+      end_date: 2023-05-31
+      organization: columbiau
+      position: "undergraduate researcher"
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: aajayi-21
+  grp_mtg_active: true
+  name: Adeolu Ajayi
+  orcid_id: ''
+  position: "undergraduate researcher"
 achoudhry:
   active: false
   aka: []
@@ -517,7 +537,7 @@ cbullard:
       advisor: sbillinge
       status: masters
   github_id: chloeann95
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Chloë Bullard
   orcid_id: 0000-0002-5954-4710
   position: Masters Researcher
@@ -1929,6 +1949,26 @@ hyavas:
       group: bg
   name: Hasan Yavas
   position: scientist
+iadnan:
+  active: true
+  aka: []
+  avatar: "https://github.com/EngrIbrahimAdnan.png"
+  bio: bio
+  education: []
+  email: iaa2132@columbia.edu
+  employment:
+    - begin_date: 2023-01-30
+      end_date: 2023-05-31
+      organization: columbiau
+      position: Masters Researcher
+      group: bg
+      advisor: sbillinge
+      status: masters
+  github_id: EngrIbrahimAdnan
+  grp_mtg_active: true
+  name: Ibrahim Adnan
+  orcid_id: ''
+  position: Masters Researcher
 ikjeong:
   active: false
   aka:
