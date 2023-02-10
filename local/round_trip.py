@@ -12,7 +12,7 @@ collsdir = THIS_DIR / ".." / ".." / "rg-db-public" / "db"
 
 def parser():
     parser = argparse.ArgumentParser()
-    parser.add_argument("-c", "--collections", nargs='+',
+    parser.add_argument("collections", nargs='+',
                         help="collections or collections to round-trip "
                              "e.g., -c people contacts expenses")
     args = parser.parse_args()

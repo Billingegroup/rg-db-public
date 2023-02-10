@@ -51,7 +51,7 @@ aabeykoon:
 aajayi:
   active: true
   aka: []
-  avatar: "https://github.com/aajayi-21.png"
+  avatar: https://github.com/aajayi-21.png
   bio: bio
   education: []
   email: aoa2160@columbia.edu
@@ -59,7 +59,7 @@ aajayi:
     - begin_date: 2023-02-01
       end_date: 2023-05-31
       organization: columbiau
-      position: "undergraduate researcher"
+      position: undergraduate researcher
       group: bg
       advisor: sbillinge
       status: undergrad
@@ -67,7 +67,7 @@ aajayi:
   grp_mtg_active: true
   name: Adeolu Ajayi
   orcid_id: ''
-  position: "undergraduate researcher"
+  position: undergraduate researcher
 achoudhry:
   active: false
   aka: []
@@ -1952,7 +1952,7 @@ hyavas:
 iadnan:
   active: true
   aka: []
-  avatar: "https://github.com/EngrIbrahimAdnan.png"
+  avatar: https://github.com/EngrIbrahimAdnan.png
   bio: bio
   education: []
   email: iaa2132@columbia.edu
@@ -2468,6 +2468,26 @@ kknox:
   name: Kevin Knox
   position: president
   position_full: Vice President
+klchen:
+  active: true
+  aka: []
+  avatar: "https://github.com/\x16KlynnC.png"
+  bio: bio
+  education: []
+  email: kc3520@columbia.edu
+  employment:
+    - begin_date: 2023-02-10
+      end_date: 2023-05-31
+      organization: columbiau
+      position: Undergraduate Researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: KlynnC
+  grp_mtg_active: true
+  name: Kaylynn Chen
+  orcid_id: 0000-0002-2940-3669
+  position: Undergraduate Researcher
 klkim:
   active: true
   aka: []
