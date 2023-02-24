@@ -437,6 +437,16 @@ cndr:
   month: 3
   name: Consiglio Nazionale delle Ricerche
   year: 2020
+cnr:
+  aka:
+    - cnr
+  city: Roma
+  country: Italy
+  date: 2023-02-23
+  name: Consiglio Nazionale delle Ricerche
+  updated: 2023-02-23 10:06:42.294611
+  uuid: b32b0116-9df8-4330-9ad8-cffcbcef9c5f
+  zip: '00185'
 coloradostateu:
   aka: []
   city: Fort Collins
@@ -977,13 +987,32 @@ huazhongust:
   updated: 2022-01-18 07:27:00.980260
   uuid: b715a66b-d95e-4ef9-9f21-957afbbf8ff3
   zip: ' 430074'
-iccnrcomo:
+ic-cnr-bari:
   aka:
-    - Crystallographic Institute, Como
+    - ic
+    - ioc
+    - institute of crystallography
+  city: Bari
+  country: Italy
+  date: 2023-02-23
+  departments:
+    icbari:
+      name: Istituto di cristallografia
+  name: Consiglio Nazionale delle Ricerche
+  updated: 2023-02-23 10:06:42.294611
+  uuid: b32b0116-9df8-4330-9ad8-cffcbcef9c5f
+  zip: '70126'
+ic-cnr-como:
+  aka: []
   city: Como
   country: Italy
-  name: Istituto di Cristallographia, CNR
-  state: ''
+  date: 2023-02-23
+  departments:
+    icbari:
+      name: Istituto di cristallografia
+  name: Consiglio Nazionale delle Ricerche
+  updated: 2023-02-23 10:06:42.294611
+  uuid: b32b0116-9df8-4330-9ad8-cffcbcef9c5f
   zip: ''
 icdd:
   aka:
@@ -1073,13 +1102,6 @@ intelcorp:
   updated: 2022-01-18 07:55:04.389159
   uuid: 4d91f1b3-7fcb-470c-8e81-d6a8eeaa1b5e
   zip: '95052'
-iocbari:
-  aka:
-    - CNR
-    - Institute of Crystallography BARI
-  city: Bari
-  country: Italy
-  name: Istituto Di Cristallografia
 iowastateu:
   aka:
     - ISU
@@ -2002,6 +2024,9 @@ rutherfordappletonlaboratory:
   city: Harwell
   country: UK
   day: 14
+  departments:
+    isis:
+      name: ISIS spallation neutron source
   month: 2
   name: Rutherford Appleton Laboratory
   state: Oxfordshire
