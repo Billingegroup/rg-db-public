@@ -4111,16 +4111,16 @@
   authors:
     - sbillinge
   begin_date: 2022-09-23
+  department: APAM Research Seminar
   end_date: 2022-09-23
   location: Columbia University
-  meeting_name: APAM Research Seminar
   notes: []
   project:
     - all
   status: accepted
   title: Unsupervised and supervised machine learning for total scattering and {PDF}
     analyses
-  type: seminar
+  type: invited
   webinar: true
 2209sb_iucrquantumcrystallographycommission:
   abstract: The materials genome initiative (MGI) is a US government initiative from
@@ -4138,42 +4138,23 @@
   title: Do materials have a genome, and if they do, what can we do with it?
   type: invited
   webinar: true
-2301sb_ultrafast,desy,hamburg:
-  abstract: "The atomic pair distribution function method is growing in popularity\
-    \ as an approach for studying local structure in nanomaterials, amorphous materials,\
-    \ moleculare materials and liquids, as well as a growing interest in the study\
-    \ of local symmetry breaking in bulk crystals.  It is a direct measure of the\
-    \ local structure in the vicinity of an atom.  As such, it is a very interesting\
-    \ representation of the structure in the context of time resolved measurements,\
-    \ becuase if the local bonding state or coordination of an atom is changed through\
-    \ photoexcitation, the PDF gives a direct measure of that change, and how the\
-    \ change propagates out in time from the location where it occured.\nDespite this,\
-    \ to date there has been very little work in measuring ultrafast PDFs (ufPDFs).\
-    \  The reasons are technological rather than scientific.  First, the resolution\
-    \ of the PDF in real space is directly determined by the measured range in momentum,\
-    \ Q.  To get quantitatively reliable PDF high Qmax values of greater than 20 inv.\
-    \ angstroms are required, and this requires good fluxes of short wavelength x-rays\
-    \ (> 20 keV) to be used.  Second, it is required to measure this wide range of\
-    \ reciprocal space quantitatively with low backgrounds and linear detector response.\
-    \  These limitations are now being addressed with latest generation large area\
-    \ 2D detectors and the developing of hard-x-ray free electron lasers.\nI will\
-    \ describe the PDF and how it could, in principle, be used in an ultrafast time\
-    \ resolved context.  I will then describe our recent attempt to obtain moderate\
-    \ resolution, quantitatively reliable, PDFs in an ultrafast PDF experiment at\
-    \ LCLS at SLAC.  The initial results are very promising, which opens the door\
-    \ to much more extensive quantitative time resolved local structural studies."
+2209sb_ujohannesburg:
+  abstract: na
   authors:
     - sbillinge
-  begin_date: 2023-01-18
-  end_date: 2023-01-20
-  location: DESY, Hamburg, Germany
-  meeting_name: Scientific opportunities with very hard XFEL radiation
-  notes: []
+  begin_date: 2022-09-08
+  end_date: 2022-09-08
+  location: ujohannesburg
+  meeting_name: LAAAMP-AfLS Africa Workshop
+  notes:
+    - 'url of meeting: https://events.saip.org.za/event/231/'
   project:
     - all
   status: accepted
-  title: Ultrafast atomic pair distribution function analysis
+  title: Using synchrotrons to study structure-property relationships in complex nanostructured
+    materials
   type: invited
+  webinar: true
 2210sb_addgrenoblecmitalk:
   abstract: 'This presentation and the associated hands-on tutorial will introduce
     DiffPy-CMI, a software for structure analysis from experimental atomic Pair Distribution
@@ -4214,23 +4195,6 @@
   status: accepted
   title: 'DiffPy-CMI - a software toolbox for real-space structure analysis '
   type: tutorial
-2209sb_ujohannesburg:
-  abstract: na
-  authors:
-    - sbillinge
-  begin_date: 2022-09-08
-  end_date: 2022-09-08
-  location: ujohannesburg
-  meeting_name: LAAAMP-AfLS Africa Workshop
-  notes:
-    - 'url of meeting: https://events.saip.org.za/event/231/'
-  project:
-    - all
-  status: accepted
-  title: Using synchrotrons to study structure-property relationships in complex nanostructured
-    materials
-  type: invited
-  webinar: true
 2210sb_centerforresearchinenergyandmaterials(cnpem),campinas,brazil:
   abstract: na
   authors:
@@ -4349,6 +4313,42 @@
     in the goal of atomic movies'
   type: invited
   webinar: true
+2301sb_ultrafast,desy,hamburg:
+  abstract: "The atomic pair distribution function method is growing in popularity\
+    \ as an approach for studying local structure in nanomaterials, amorphous materials,\
+    \ moleculare materials and liquids, as well as a growing interest in the study\
+    \ of local symmetry breaking in bulk crystals.  It is a direct measure of the\
+    \ local structure in the vicinity of an atom.  As such, it is a very interesting\
+    \ representation of the structure in the context of time resolved measurements,\
+    \ becuase if the local bonding state or coordination of an atom is changed through\
+    \ photoexcitation, the PDF gives a direct measure of that change, and how the\
+    \ change propagates out in time from the location where it occured.\nDespite this,\
+    \ to date there has been very little work in measuring ultrafast PDFs (ufPDFs).\
+    \  The reasons are technological rather than scientific.  First, the resolution\
+    \ of the PDF in real space is directly determined by the measured range in momentum,\
+    \ Q.  To get quantitatively reliable PDF high Qmax values of greater than 20 inv.\
+    \ angstroms are required, and this requires good fluxes of short wavelength x-rays\
+    \ (> 20 keV) to be used.  Second, it is required to measure this wide range of\
+    \ reciprocal space quantitatively with low backgrounds and linear detector response.\
+    \  These limitations are now being addressed with latest generation large area\
+    \ 2D detectors and the developing of hard-x-ray free electron lasers.\nI will\
+    \ describe the PDF and how it could, in principle, be used in an ultrafast time\
+    \ resolved context.  I will then describe our recent attempt to obtain moderate\
+    \ resolution, quantitatively reliable, PDFs in an ultrafast PDF experiment at\
+    \ LCLS at SLAC.  The initial results are very promising, which opens the door\
+    \ to much more extensive quantitative time resolved local structural studies."
+  authors:
+    - sbillinge
+  begin_date: 2023-01-18
+  end_date: 2023-01-20
+  location: DESY, Hamburg, Germany
+  meeting_name: Scientific opportunities with very hard XFEL radiation
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Ultrafast atomic pair distribution function analysis
+  type: invited
 2302sb_bari,italy:
   abstract: Nanoparticles and nanostructures are at the heart of next generation technological
     solutions in sustainable energy, effective new pharmaceuticals and environmental
