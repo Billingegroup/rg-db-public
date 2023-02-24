@@ -4365,18 +4365,29 @@
   authors:
     - sbillinge
   begin_date: 2023-02-07
-  department: Institute of Crystallography
+  department: icbari
   end_date: 2023-02-07
-  institution: Bari, Italy
+  institution: ic-cnr-bari
   notes: []
   project:
     - all
   status: accepted
-  title: '"From saving pharmaceuticals to saving priceless historical artefacts via
-    saving the planet: understanding nanostructure with x-rays and algorithms"'
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms'
   type: seminar
 2303sb_weizmanni:
-  abstract: tbd
+  abstract: Nanoparticles and nanostructures are at the heart of next generation technological
+    solutions in sustainable energy, effective new pharmaceuticals and environmental
+    remediation.  A key to making progress is to be able to understand the nanoparticle
+    structure, the arrangements of atoms in the nanoparticles and nanoscale structures.
+    Also critical is understanding the distribution of the nanoparticles and how they
+    change in time as devices run and reactions take place.  We use advanced x-ray,
+    neutron and electron scattering methods to get at this problem.  I will talk about
+    these methods and show some recent success-stories in the fields of sustainable
+    energy, pharmaceuticals and cultural heritage preservation.  However, I will also
+    discuss the fundamental limitations on our ability to extract information from
+    the data and how we are now turning to machine learnging and articifical intelligence
+    techniques to give more insights.
   authors:
     - sbillinge
   begin_date: 2023-03-13
@@ -4387,7 +4398,8 @@
   project:
     - all
   status: accepted
-  title: tbd
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms'
   type: colloquium
 2304sb_brookhavennationallaboratory:
   abstract: tbd
@@ -4433,3 +4445,18 @@
   title: tbd
   type: invited
   webinar: true
+2311sb_boston,ma:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2023-11-26
+  end_date: 2023-12-01
+  location: Boston, MA
+  meeting_name: symposium "Emerging Challenges and Opportunities in Materials by Design"
+    at the MRS fall meeting
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: invited
