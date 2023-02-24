@@ -4138,23 +4138,6 @@
   title: Do materials have a genome, and if they do, what can we do with it?
   type: invited
   webinar: true
-2209sb_ujohannesburg:
-  abstract: na
-  authors:
-    - sbillinge
-  begin_date: 2022-09-08
-  end_date: 2022-09-08
-  location: ujohannesburg
-  meeting_name: LAAAMP-AfLS Africa Workshop
-  notes:
-    - 'url of meeting: https://events.saip.org.za/event/231/'
-  project:
-    - all
-  status: accepted
-  title: Using synchrotrons to study structure-property relationships in complex nanostructured
-    materials
-  type: invited
-  webinar: true
 2301sb_ultrafast,desy,hamburg:
   abstract: "The atomic pair distribution function method is growing in popularity\
     \ as an approach for studying local structure in nanomaterials, amorphous materials,\
