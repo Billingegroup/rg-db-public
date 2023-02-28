@@ -392,7 +392,7 @@ assef;sa20:
     - Sang-Youn Park
     - Intae Eom
     - Jaeku Park
-    - Daewoog Nam
+    - Daewoong Nam
     - Sangsoo Kim
     - Sae Hwan Chun
     - Hyojung Hyun
@@ -2092,7 +2092,7 @@ billi;prl96:
     in colossal magnetoresistant mangenites are associated with charge localization
     and polaron formation stabilized by a Jahn-Teller like orbital degeneracy lifting
     driving force.
-  tags: odl, symmetry_breaking, polarons, cmr, manganite
+  tags: odl, symmetry_breaking, polarons, cmr, manganite, nsf2pcv
   title: Direct observation of lattice polaron formation in the local structure of
     {La$_{1-x}$Ca$_{x}$MnO$_{3}$}
   url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.77.715
@@ -2162,6 +2162,7 @@ billi;s07:
   optnote: to be published
   optwwwlanl: http://arxiv.org/abs/cond-mat/xxxxxx
   pages: 561--565
+  tags: review, nanostructure_problem, highlight, nsf2pcv
   title: The problem with determining atomic structure at the nanoscale
   url: http://www.sciencemag.org/content/316/5824/561.abstract
   volume: '316'
@@ -2576,7 +2577,7 @@ bozin;nc19:
     of orbital degeneracy is established in a model system, CuIr2S4, using PDF.  This
     is the paper that establishes the phenomonenon and its importance for understanding
     lower temperature ground-states.
-  tags: odl, cis
+  tags: odl, cis, nsf2pcv
   title: Local orbital degeneracy lifting as a precursor to an orbital-selective Peierls
     transition
   url: https://www.nature.com/articles/s41467-019-11372-w
@@ -2923,7 +2924,7 @@ bozin;s10:
   optnote: ''
   optwwwlanl: ''
   pages: '1660'
-  tags: emphanisis
+  tags: emphanisis, pbte, lone_pair, dipole, nsf2pcv
   title: Entropically stabilized local dipole formation in lead chalcogenides
   url: http://www.sciencemag.org/content/330/6011/1660
   volume: '330'
@@ -3466,7 +3467,7 @@ choud;npjcm21:
   optnote: arXiv 2110.14820
   pages: '59'
   synopsis: A review of the applications of deep learning methods in material science
-  tags: review, ml, machine_learning, deep_learning, dl
+  tags: review, ml, machine_learning, deep_learning, dl, nsf2pcv
   title: Recent Advances and Applications of Deep Learning Methods in Materials Science
   url: https://www.nature.com/articles/s41524-022-00734-6
   volume: '8'
@@ -6494,7 +6495,7 @@ kimbe;nm23:
     Sciences under award number DE-SC0014520.  Ce travail a \'{e}t\'{e} soutenu par
     le programme ”Investissements d’Avenir”, projet ISITE-BFC (contrat ANR-15-IDEX-0003).
   author:
-    - Simon A.J. Kimber
+    - Simon A. J. Kimber
     - Jiayong Zhang
     - Charles H. Liang
     - Gian  G.  Guzm\'{a}n-Verri
@@ -6538,7 +6539,7 @@ kimbe;nm23:
     dependence of atomic motions in the crystal lattice.
   synopsis: First presentation of variable shutter PDF (vsPDF) and its application
     to study the dynamic fluctuations at high temperature in cubic GeTe
-  tags: vspdf, variable_shutter_pdf, gete, anharmonicity, ferroelectric, ins,
+  tags: vspdf, variable_shutter_pdf, gete, anharmonicity, ferroelectric, ins, nsf2pcv
   title: Dynamic crystallography reveals spontaneous anisotropy in cubic {GeTe}
   url: https://www.nature.com/articles/s41563-023-01483-7
   volume: ''
@@ -7488,6 +7489,9 @@ liu;aca19:
   optwwwlanl: ''
   optwwwpub: ''
   pages: 633-643
+  synopsis: the first example of using deep learning to extract space-group information
+    directly from the PDF
+  tags: ml, space_group, cnn, highlight, nsf2pcv
   title: Using a machine learning approach to determine the space group of a structure
     from the atomic pair distribution function
   url: https://doi.org/10.1107/S2053273319005606
@@ -9164,7 +9168,7 @@ pokra;unpub23:
     - Susan Rudd Cooper
     - Jette Katja Mathiesen
     - Guillaume Landaburu
-    - Soham Banarjee
+    - Soham Banerjee
     - Songsheng Tao
     - Nico Reichhol
     - Simon J. L. Billinge
@@ -9662,7 +9666,8 @@ rakit;jacs20:
   optwwwlanl: ''
   optwwwpub: ''
   pages: 18758–18762
-  tags: autonomous, highlight
+  synopsis: First demonstration of autonomous experimentation in situ at a synchrotron
+  tags: autonomous, highlight, nsf2pcv
   title: Active Reaction Control of Cu Redox State Based on Real-Time Feedback from
     {\it in situ} Synchrotron Measurements
   url: https://pubs.acs.org/doi/10.1021/jacs.0c09418
@@ -11782,6 +11787,7 @@ wang;prb20:
   optannote: ''
   optwwwlanl: ''
   pages: '235121'
+  tags: fese, iqt, odl, nsf2pcv
   title: Understanding electronic peculiarities in tetragonal {FeSe} as local structural
     symmetry breaking
   url: https://link.aps.org/doi/10.1103/PhysRevB.102.235121
@@ -12266,6 +12272,9 @@ yang;aca21:
   optnote: ''
   optwwwlanl: ''
   pages: 2-6
+  synopsis: The paper that describes the deployment of PDF in the cloud web service
+    at PDFitc.org
+  tags: pdfitc, highlight, nsf2pcv
   title: 'A cloud platform for atomic pair distribution function analysis: {PDF}itc'
   url: https://journals.iucr.org/a/issues/2021/01/00/ae5091/index.html
   volume: '77'
