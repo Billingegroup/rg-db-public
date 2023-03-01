@@ -437,6 +437,16 @@ cndr:
   month: 3
   name: Consiglio Nazionale delle Ricerche
   year: 2020
+cnr:
+  aka:
+    - cnr
+  city: Roma
+  country: Italy
+  date: 2023-02-23
+  name: Consiglio Nazionale delle Ricerche
+  updated: 2023-02-23 10:06:42.294611
+  uuid: b32b0116-9df8-4330-9ad8-cffcbcef9c5f
+  zip: '00185'
 coloradostateu:
   aka: []
   city: Fort Collins
@@ -977,13 +987,33 @@ huazhongust:
   updated: 2022-01-18 07:27:00.980260
   uuid: b715a66b-d95e-4ef9-9f21-957afbbf8ff3
   zip: ' 430074'
-iccnrcomo:
+ic-cnr-bari:
   aka:
-    - Crystallographic Institute, Como
+    - ic
+    - ioc
+    - iocbari
+    - institute of crystallography
+  city: Bari
+  country: Italy
+  date: 2023-02-23
+  departments:
+    icbari:
+      name: Istituto di cristallografia
+  name: Consiglio Nazionale delle Ricerche
+  updated: 2023-02-23 10:06:42.294611
+  uuid: b32b0116-9df8-4330-9ad8-cffcbcef9c5f
+  zip: '70126'
+ic-cnr-como:
+  aka: []
   city: Como
   country: Italy
-  name: Istituto di Cristallographia, CNR
-  state: ''
+  date: 2023-02-23
+  departments:
+    icbari:
+      name: Istituto di cristallografia
+  name: Consiglio Nazionale delle Ricerche
+  updated: 2023-02-23 10:06:42.294611
+  uuid: b32b0116-9df8-4330-9ad8-cffcbcef9c5f
   zip: ''
 icdd:
   aka:
@@ -1073,13 +1103,6 @@ intelcorp:
   updated: 2022-01-18 07:55:04.389159
   uuid: 4d91f1b3-7fcb-470c-8e81-d6a8eeaa1b5e
   zip: '95052'
-iocbari:
-  aka:
-    - CNR
-    - Institute of Crystallography BARI
-  city: Bari
-  country: Italy
-  name: Istituto Di Cristallografia
 iowastateu:
   aka:
     - ISU
@@ -1413,6 +1436,15 @@ mpissr:
   updated: 2020-03-17 02:19:01.825188
   uuid: d6d204b6-9c9c-4fe6-a307-d0ec82b3de00
   year: 2020
+mprassociates:
+  city: Washington
+  country: USA
+  date: 2023-02-27
+  name: MPR Associates, Inc.
+  state: DC
+  updated: 2023-02-27 23:27:04.581588
+  uuid: 13edc5ab-b90d-4384-9a71-4aab5ba72926
+  zip: '22314'
 msu:
   aka:
     - MSU
@@ -2002,6 +2034,9 @@ rutherfordappletonlaboratory:
   city: Harwell
   country: UK
   day: 14
+  departments:
+    isis:
+      name: ISIS spallation neutron source
   month: 2
   name: Rutherford Appleton Laboratory
   state: Oxfordshire
@@ -2347,6 +2382,16 @@ ubern:
   name: University of Bern
   state: ''
   zip: ''
+ubourgogne:
+  city: Dijon
+  country: France
+  date: 2023-02-27
+  departments:
+    nanoscience:
+      name: Nanosciences Department
+  name: Université de Bourgogne
+  updated: 2023-02-27 23:42:38.163887
+  uuid: 2a804be6-3c42-4f9b-9d04-26e7180abb61
 ubuffalo:
   aka:
     - buffalou
@@ -2471,6 +2516,16 @@ ucopenhagen:
   name: University of Copenhagen
   state: ''
   zip: ''
+ucostarica:
+  city: San José
+  country: Costa Rica
+  date: 2023-02-27
+  departments:
+    physics:
+      name: Escuela de Física,
+  name: Universidad de Costa Rica
+  updated: 2023-02-27 23:47:29.127164
+  uuid: 66ef9912-10f1-4b4d-8d7b-ddb5d2363459
 ucriverside:
   aka:
     - Riverside University
@@ -2625,6 +2680,17 @@ ugeneva:
   name: University of Geneva
   updated: 2021-04-11 19:12:42.776412
   uuid: dfc4ec5e-2d6a-45cf-b3ef-9330e0a87fed
+ughent:
+  city: Ghent
+  country: Belgium
+  date: 2023-02-27
+  departments:
+    Chemistry:
+      name: Department of Chemistry
+  name: Ghent University
+  updated: 2023-02-27 21:05:54.664393
+  uuid: c0d6b206-23c2-4e51-91f6-fe76353c3d7e
+  zip: '9000'
 uglasgow:
   aka:
     - glasgowu
@@ -2725,6 +2791,18 @@ ujordan:
   updated: 2022-01-18 07:52:34.999052
   uuid: fa13370b-0c0d-46e1-bc76-7304da4f1b92
   zip: ' '
+ulyon:
+  aka:
+    - ensdelyon
+  city: Lyon
+  country: France
+  date: 2023-02-27
+  departments:
+    chemistry:
+      name: Laboratoire de Chimie
+  name: Université Claude Bernard Lyon1
+  updated: 2023-02-27 23:33:46.534974
+  uuid: 44bd97a9-4dfa-4243-b48a-a3e5552d93be
 umaine:
   aka:
     - University of Maine
@@ -3186,8 +3264,12 @@ uturku:
   city: Turku
   country: Finland
   day: 15
+  departments:
+    physics:
+      name: Department of Physics and Astronomy
   month: 3
   name: University of Turku
+  updated: 2023-02-27 21:03:51.750244
   year: 2020
 uvirginia:
   city: Charlottesville
