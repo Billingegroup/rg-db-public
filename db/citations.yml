@@ -48,7 +48,7 @@ abeyk;prl13:
     the stripe ordering temperature in a 214 layered nickelate material using neutron
     PDF.  This could be correlated with pseudogap and other transport phenomena in
     this material.
-  tags: htc, npdf, quantum_materials, odl
+  tags: hts, npdf, quantum_materials, odl
   title: Evidence for short-range-ordered charge stripes far above the charge-ordering
     transition in {La$_{1.67}$Sr$_{0.33}$NiO$_4$}
   url: http://link.aps.org/doi/10.1103/PhysRevLett.111.096404
@@ -134,6 +134,10 @@ anaso;nh16:
   optannote: ''
   optwwwlanl: ''
   pages: 227-234
+  synopsis: The electronic properties of carbide MXenes are changed from metallic
+    to semiconducting by change the surface termination in the layers. This was characterized
+    using PDF.
+  tags: mxene
   title: Control of electronic properties of {2D} carbides ({MX}enes) by manipulating
     their transition metal layers
   url: http://pubs.rsc.org/is/content/articlelanding/2016/nh/c5nh00125k/
@@ -280,10 +284,10 @@ anker;unpub22:
   facility: maxiv, danmax, desy, petraiii, p02.1, p07, soleil, swing, aps
   grant: dmref19
   journal: npj Computational Materials
-  month: dec
+  month: oct
   nb: ''
-  note: to be published.  Available on ChemRxiv.
   number: ''
+  optnote: to be published.  Available on ChemRxiv.
   pages: '213'
   professional_summary: Small clusters of atoms in solution or in a nanomaterial are
     easy to masure using PDF methods, but it is very hard to find models to explain
@@ -311,8 +315,8 @@ anker;unpub22:
     a cut-out from known crystal structures and using a ML based approach (GBDT) to
     systematically remove atoms until a good fit is obtained to the data.
   tags: ml, structure_solution, modeling
-  title: Extracting Structural Motifs from Pair Distribution Function Data of Nanostructures
-    using Interpretable Machine Learning
+  title: Extracting structural motifs from pair distribution function data of nanostructures
+    using explainable machine learning
   url: https://doi.org/10.1038/s41524-022-00896-3
   volume: '8'
   year: '2022'
@@ -388,7 +392,7 @@ assef;sa20:
     - Sang-Youn Park
     - Intae Eom
     - Jaeku Park
-    - Daewoog Nam
+    - Daewoong Nam
     - Sangsoo Kim
     - Sae Hwan Chun
     - Hyojung Hyun
@@ -673,7 +677,10 @@ beech;acsel16:
   optnote: '1606.09267'
   optwwwlanl: ''
   pages: 880–887
-  tags: hybrid_perovskite, pbi3, ixs, phonon, symmetry_breaking
+  synopsis: PDF and inelastic x-ray scattering was used to show that local domains
+    of "dynamic disorder" are present in MAPI samples are room temperature that consist
+    of fluctuating clusters of atoms that break the average symmetry
+  tags: hybrid_perovskite, mapi, pbi3, ixs, phonon, symmetry_breaking
   title: Direct observation of dynamic symmetry breaking above room temperature in
     methylammonium lead iodide perovskite
   url: http://dx.doi.org/10.1021/acsenergylett.6b00381
@@ -701,6 +708,7 @@ beech;jacs14:
   optannote: doi:10.1021/ja503590h
   optwwwlanl: ''
   pages: 10645-10653
+  tags: nanoparticle, quantum_dot
   title: Atomic structures and gram scale synthesis of three tetrahedral quantum dots
   url: http://pubs.acs.org/doi/abs/10.1021/ja503590h
   volume: '136'
@@ -743,6 +751,7 @@ beech;prl19:
   optannote: ''
   optwwwlanl: ''
   pages: '026101'
+  tags: nanoparticle, quantum_dot, highlight
   title: Size-dependent lattice dynamics of atomically precise cadmium selenide quantum
     dots
   url: https://journals-aps-org.ezproxy.cul.columbia.edu/prl/abstract/10.1103/PhysRevLett.122.026101
@@ -1956,6 +1965,7 @@ billi;prb02:
   optnote: cond-mat/0108338
   optnumber: ''
   pages: '064529'
+  tags: hts, odl, cuprate, structural_compliance
   title: Structural compliance, misfit strain and stripe nanostructures in cuprate
     superconductors
   url: http://dx.doi.org/10.1103/PhysRevB.66.064529
@@ -1984,7 +1994,7 @@ billi;prb91:
     energy minimization of a supercell, calculated using empirical potentials, showed
     a lower energy for the symmetry broken state but only when the atoms were moved
     sufficiently far off the equilibrium position to initialize the calculation.
-  tags: odl, htc, polymorphous
+  tags: odl, hts, polymorphous
   title: 'Deviations from planarity of copper-oxygen sheet in {Ca$_{0.85}$Sr$_{0.15}$CuO$_{2}$} '
   url: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.43.10340
   volume: '43'
@@ -2054,7 +2064,7 @@ billi;prl94:
   pages: '2282'
   synopsis: local LTT-like tilts found in the LTO phase of La2-xBaxCuO4 in a an early
     demonstration of this phenomenon from neutron PDF measurements
-  tags: odl, symmetry_breaking, htc
+  tags: odl, symmetry_breaking, hts
   title: 'Local octahedral tilts in {La$_{2-x}$Ba$_{x}$CuO$_{4}$}: evidence for a
     new structural length scale'
   url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.72.2282
@@ -2082,7 +2092,7 @@ billi;prl96:
     in colossal magnetoresistant mangenites are associated with charge localization
     and polaron formation stabilized by a Jahn-Teller like orbital degeneracy lifting
     driving force.
-  tags: odl, symmetry_breaking, polarons, cmr, manganite
+  tags: odl, symmetry_breaking, polarons, cmr, manganite, nsf2pcv
   title: Direct observation of lattice polaron formation in the local structure of
     {La$_{1-x}$Ca$_{x}$MnO$_{3}$}
   url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.77.715
@@ -2152,6 +2162,7 @@ billi;s07:
   optnote: to be published
   optwwwlanl: http://arxiv.org/abs/cond-mat/xxxxxx
   pages: 561--565
+  tags: review, nanostructure_problem, highlight, nsf2pcv
   title: The problem with determining atomic structure at the nanoscale
   url: http://www.sciencemag.org/content/316/5824/561.abstract
   volume: '316'
@@ -2566,7 +2577,7 @@ bozin;nc19:
     of orbital degeneracy is established in a model system, CuIr2S4, using PDF.  This
     is the paper that establishes the phenomonenon and its importance for understanding
     lower temperature ground-states.
-  tags: odl, cis
+  tags: odl, cis, nsf2pcv
   title: Local orbital degeneracy lifting as a precursor to an orbital-selective Peierls
     transition
   url: https://www.nature.com/articles/s41467-019-11372-w
@@ -2688,7 +2699,7 @@ bozin;prb05:
   synopsis: a careful structural analysis of PDF and powder diffraction data shows
     how doped holes distribute themselves between planar bonds and apical bonds in
     La2-xSrxCuO4 on doping
-  tags: htc
+  tags: hts
   title: Nominal doping and partition of doped holes between planar and apical orbitals
     in La$_{2-x}$Sr$_{x}$CuO$_{4}$
   url: http://link.aps.org/abstract/PRB/v72/e174427
@@ -2745,7 +2756,7 @@ bozin;prb15:
     than the global symmetry.  Inelastic neutron scattering also shows them to be
     dynamic in nature.  These are presumed related to the charge distribution and
     so related to ODL discovered later.
-  tags: odl, htc
+  tags: odl, hts
   title: Reconciliation of local and long-range tilt correlations in underdoped La$_{2-x}$Ba$_{x}$CuO$_{4}$
     ($0 \le x \le 0.155$)
   url: http://link.aps.org/doi/10.1103/PhysRevB.91.054521
@@ -2802,7 +2813,7 @@ bozin;prb99:
     combination of short-range ordered LTT-like tilts than by the average crystal
     structure, as observed from neutron PDF measurements.  These may be the remnants
     of doping induced stripes.
-  tags: odl, htc
+  tags: odl, hts
   title: 'Charge-stripe ordering from local octahedral tilts: underdoped and superconducting
     La$_{2-x}$Sr$_{x}$CuO$_{4}$ ($\bf 0\leq x\leq 0.3$)'
   url: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.59.4445
@@ -2828,7 +2839,7 @@ bozin;prl00:
   synopsis: The PDF of various doping levels of La2-xSrxCuO4 in the low doping region
     are shown to be explained as linear combinations of undoped and higher doped structures
     indicating charge heterogeneities in this material at low doping
-  tags: odl, htc
+  tags: odl, hts
   title: Neutron diffraction evidence of microscopic charge inhomogeneities in the
     {CuO$_{2}$} plane of superconducting {La$_{2-x}$Sr$_{x}$CuO$_{4}$} ($ 0\le x\le
     0.30)$
@@ -2913,7 +2924,7 @@ bozin;s10:
   optnote: ''
   optwwwlanl: ''
   pages: '1660'
-  tags: emphanisis
+  tags: emphanisis, pbte, lone_pair, dipole, nsf2pcv
   title: Entropically stabilized local dipole formation in lead chalcogenides
   url: http://www.sciencemag.org/content/330/6011/1660
   volume: '330'
@@ -3410,6 +3421,9 @@ choi;nl14:
   number: '1'
   optannote: ''
   pages: 127–133
+  synopsis: The first paper on the structural characterization of MAPI samples to
+    come out after the material became famous for its great PV efficiency
+  tags: mapi, hybrid_perovskite
   title: 'Structure of methylammonium lead iodide on mesoporous titanium dioxide:
     active material in high performance metal-organic solar cells'
   url: http://pubs.acs.org/doi/abs/10.1021/nl403514x
@@ -3453,7 +3467,7 @@ choud;npjcm21:
   optnote: arXiv 2110.14820
   pages: '59'
   synopsis: A review of the applications of deep learning methods in material science
-  tags: review, ml, machine_learning, deep_learning, dl
+  tags: review, ml, machine_learning, deep_learning, dl, nsf2pcv
   title: Recent Advances and Applications of Deep Learning Methods in Materials Science
   url: https://www.nature.com/articles/s41524-022-00734-6
   volume: '8'
@@ -3600,6 +3614,7 @@ cossa;jpcl11:
   optwwwlanl: ''
   optwwwpub: ''
   pages: 3075-3080
+  tags: quantum_dot, nanoparticle, surface
   title: Tuning the surface structure and optical properties of {CdSe} clusters using
     coordination chemistry
   url: http://pubs.acs.org/doi/abs/10.1021/jz2013769
@@ -4957,6 +4972,9 @@ ghidi;cc14:
   optannote: ''
   optwwwlanl: ''
   pages: 9517-9520
+  synopsis: One of the first papers describing the synthesis of MXenes, including
+    an early quantitative structural characterization using PDF
+  tags: mxene
   title: Synthesis and charaterization of two-dimensional {Nb$_4$C$_3$} {(MXene)}
   url: http://pubs.rsc.org/en/content/articlelanding/2014/cc/c4cc03366c\#!divAbstract
   volume: '50'
@@ -5926,6 +5944,10 @@ jense;jes15:
   optannote: ''
   optwwwlanl: ''
   pages: A1310-A1314
+  synopsis: ctPDF was used to visualize different components in batteries including
+    anodes, cathodes, polymeric content and the steel casing in a spatially resolved
+    way
+  tags: ctpdf, batteries
   title: X-ray diffraction computed tomography for structural analysis of electrode
     materials in batteries
   url: http://jes.ecsdl.org/content/162/7/A1310.abstract
@@ -5965,8 +5987,13 @@ jense;m21:
   optnote: to be published
   optwwwlanl: ''
   pages: 1--12
-  synopsis: ''
-  tags: ''
+  synopsis: computed tomography PDF (ctPDF) is applied to study wood from the keel
+    the Mary Rose, a valuable cultural heritage artifact, The flagship of the Navy
+    of King Henry VIII of England, which sank in 1542.  The study found and mapped
+    the presence of polymers placed there to stabilize the wood by conservators but
+    also found nanoparticle impurities that came from anerobic bacteria that lived
+    in the wood in the sea-bed before it was raised.
+  tags: ctpdf, cultural_heritage, mary_rose
   title: Location and characterization of heterogeneous phases within {Mary Rose}
     wood
   url: https://doi.org/10.1016/j.matt.2021.09.026
@@ -5995,6 +6022,7 @@ jense;nc16:
   pages: '11859'
   supplementary_info_urls:
     - https://zenodo.org/record/56682
+  tags: nanoparticles, clusters, au, metallic_nanoparticle
   title: Polymorphism in magic sized {Au$_{144}$(SR)$_{60}$} clusters
   url: http://dx.doi.org/10.1038/ncomms11859
   volume: '7'
@@ -6022,6 +6050,7 @@ jense;prb12:
   optannote: ''
   optwwwlanl: ''
   pages: '085313'
+  tags: emphanisis, pbte, hilight
   title: Lattice dynamics reveals a local symmetry breaking in the emergent dipole
     phase of {PbTe}
   url: http://prb.aps.org/abstract/PRB/v86/i8/e085313
@@ -6448,7 +6477,7 @@ kim;prl06:
   wwwlanl: http://arXiv.org/abs/cond-mat/0602361
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/kim-prl06.pdf
   year: '2006'
-kimber;nm23:
+kimbe;nm23:
   ackno: We thank the European Synchrotron Radiation Facility for the provision of
     beam time on ID15B and ID31. This research used resources at the Spallation Neutron
     Source, a DOE Office of Science User Facility operated by the Oak Ridge National
@@ -6466,7 +6495,7 @@ kimber;nm23:
     Sciences under award number DE-SC0014520.  Ce travail a \'{e}t\'{e} soutenu par
     le programme ”Investissements d’Avenir”, projet ISITE-BFC (contrat ANR-15-IDEX-0003).
   author:
-    - Simon A.J. Kimber
+    - Simon A. J. Kimber
     - Jiayong Zhang
     - Charles H. Liang
     - Gian  G.  Guzm\'{a}n-Verri
@@ -6479,24 +6508,40 @@ kimber;nm23:
     - Tapan Chatterji
     - Anibal J. Ramirez-Cuesta
     - Simon J. L. Billinge
-  doi: ''
+  doi: 10.1038/s41563-023-01483-7
   entrytype: article
   facility: esrf, id15b, id31, sns, arcs
   grant: fwp20
   journal: Nature Materials
-  month: tbd
+  month: feb
   nb: ''
   note: To be Published
   number: ''
   optannote: ''
   optwwwlanl: ''
   pages: ''
-  professional_summary: Something
+  public_summary: This paper reveals a new understanding of a key mechanism behind
+    the thermoelectric property of materials. Thermoelectric devices convert waste
+    heat to electricity, or can be used as very efficient fridges, and is an important
+    front in sustainable energy goals.  To gain this understanding we developed a
+    new tool for probing the local structure of a material that works like a camera
+    where you can vary the shutter speed from slow to fast, only on times that are
+    a million million times faster (10^12 x faster) than a normal camera. When a camera
+    points at a scene that is moving, things in that scene that move a long way while
+    the shutter is open blur out and gradually disappear from the image. By varying
+    the shutter speed you can see them disappear and reappear. This allows you to
+    know which parts of an image are stationary and which are moving.  It also gives
+    information about their speed by which is realted to the shutter speed where they
+    appear/disappear.  The new technique uses neutrons as a probe of the material
+    and we called it variable-shutter PDF (vsPDF). The new information allowed a theory
+    to be developed by the team that gives novel insight into the atomic bonding in
+    these thermoelectrics and the importance of a previously undetected directional
+    dependence of atomic motions in the crystal lattice.
   synopsis: First presentation of variable shutter PDF (vsPDF) and its application
     to study the dynamic fluctuations at high temperature in cubic GeTe
-  tags: vspdf, variable_shutter_pdf, gete, anharmonicity, ferroelectric, ins,
+  tags: vspdf, variable_shutter_pdf, gete, anharmonicity, ferroelectric, ins, nsf2pcv
   title: Dynamic crystallography reveals spontaneous anisotropy in cubic {GeTe}
-  url: ''
+  url: https://www.nature.com/articles/s41563-023-01483-7
   volume: ''
   wwwemail: ''
   wwwpub: ''
@@ -6527,9 +6572,11 @@ kjaer;cm22:
   facility: desy, petraiii, p02.1
   grant: dmref19
   journal: Chemistry Methods
-  month: aug
-  nb: ''
-  number: ''
+  month: Aug
+  nb: 'Journal cover: https://doi-org.ezproxy.cul.columbia.edu/10.1002/cmtd.202200053  Editors
+    spotlight: https://chemistry-europe-onlinelibrary-wiley-com.ezproxy.cul.columbia.edu/doi/toc/10.1002/(ISSN)9999-0001.spotlights
+    and journal cover '
+  number: '9'
   optannote: ''
   optnote: Advanced online version
   optwwwlanl: ''
@@ -6574,7 +6621,7 @@ kjaer;dd22:
   optnote: arxiv 2110.14820
   optwwwlanl: ''
   optwwwpub: ''
-  pages: ''
+  pages: 69-80
   professional_summary: A difficult problem in nanoscience is, given a measured atomic
     pair distribution function, what is the nano-scale structure that gave rise to
     it. In this work we demonstrate a generative deep learning model that can rapidly
@@ -6589,9 +6636,9 @@ kjaer;dd22:
   title: 'DeepStruc: Towards structure solution from pair distribution function data
     using deep generative models'
   url: https://doi.org/10.1039/D2DD00086E
-  volume: ''
+  volume: '2'
   wwwemail: ''
-  year: '2022'
+  year: '2023'
 knox;prb13:
   author:
     - Knox, K. R.
@@ -6671,7 +6718,7 @@ koch;prb19:
   pages: 020501(R)
   synopsis: Orbital degeneracy lifting is found in the iron based superconductor FeSe
     as a disordered dimerization of the Iron ions in the layers.
-  tags: odl, superconductor, htc
+  tags: odl, superconductor, hts
   title: Room temperature local nematicity in an iron-selenide superconducing sample
   url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.020501
   volume: '100'
@@ -7442,6 +7489,9 @@ liu;aca19:
   optwwwlanl: ''
   optwwwpub: ''
   pages: 633-643
+  synopsis: the first example of using deep learning to extract space-group information
+    directly from the PDF
+  tags: ml, space_group, cnn, highlight, nsf2pcv
   title: Using a machine learning approach to determine the space group of a structure
     from the atomic pair distribution function
   url: https://doi.org/10.1107/S2053273319005606
@@ -7592,7 +7642,7 @@ liu;jacs21:
   synopsis: A metal−ethylenebis(acetamide) MOF network is reported that undergoes
     reversible glass transition below 200 C and shows significant reflectivity contrast.
   tags: mof, liquid, molecular
-  title: Designing Glass and Crystalline Phases of Metal−Bis(acetamide) Networks to
+  title: Designing Glass and Crystalline Phases of Metal-Bis(acetamide) Networks to
     Promote High Optical Contrast
   url: https://doi.org/10.1021/jacs.0c11718
   volume: '143'
@@ -7788,7 +7838,7 @@ lo;nc19:
   grant: tamu17
   journal: Nature Chemistry
   month: dec
-  nb: art, hilite
+  nb: art, hilight
   optannote: Require change to the acknowledgement. No MRSEC.
   optnote: ''
   optwwwlanl: ''
@@ -9093,6 +9143,57 @@ pinhe;ijop22:
   url: https://doi.org/10.1016/j.ijpharm.2022.122329
   volume: '628'
   year: '2022'
+pokra;unpub23:
+  ackno: 'J.D.R., R.P., and J.P.M. thank the University of Basel and the SNF Eccelenza
+    funding scheme (project number: 194172). S.J.L.B. was supported by the U.S. National
+    Science Foundation through grant DMREF-1922234. K.M.Ø.J., J.K.M., and S.R.C. are
+    grateful to the Villum Foundation for financial support through a Villum Young
+    Investigator grant (VKR00015416). Funding from the Danish Ministry of Higher Education
+    and Science through the SMART Lighthouse is gratefully acknowledged. We thank
+    DANSCATT (supported by the Danish Agency for Science and Higher Education) for
+    support for beamtime travel. S.R.C. received funding from the European Unions
+    Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie
+    grant agreement no. 841903. The authors acknowledge Prof. Catherine Housecroft
+    for fruitful discussions. The total scattering experiments were performed on beamline
+    ID15 at the European Synchrotron Radiation Facility (ESRF), Grenoble, France (proposal
+    ch-5674). We acknowledge DESY (Hamburg, Germany), a member of the Helmholtz Association
+    HGF, for the provision of experimental facilities. Parts of this research were
+    carried out at PETRA III and we would like to thank Dr. Ann-Christin Dippel for
+    assistance in using beamline P21.1. Beamtime was allocated for proposal I20200150.'
+  author:
+    - Rohan Pokratath
+    - Lermusiaux Laurent
+    - Jikson Pulparayil Mathew
+    - Stefano Checchia
+    - Susan Rudd Cooper
+    - Jette Katja Mathiesen
+    - Guillaume Landaburu
+    - Soham Banerjee
+    - Songsheng Tao
+    - Nico Reichhol
+    - Simon J. L. Billinge
+    - Benjamin Abecassis
+    - Kirsten M. Ø. Jensen
+    - Jonathan De Roo
+  doi: ''
+  entrytype: article
+  facility: esrf, id15, desy, p21.1
+  grant: dmref19
+  journal: ''
+  month: tbd
+  nb: ' art '
+  note: submitted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: ''
+  tags: zro2, synthesis, solution, hydrothermal, amorphous_intermediate
+  title: An amorphous phase precedes crystallization; unraveling the colloidal synthesis
+    of zirconium oxide nanocrystals
+  url: ''
+  volume: ''
+  year: '2023'
 pouch;b;hobdamlitps20:
   ackno: tbd
   address: Singapore
@@ -9565,7 +9666,8 @@ rakit;jacs20:
   optwwwlanl: ''
   optwwwpub: ''
   pages: 18758–18762
-  tags: autonomous, highlight
+  synopsis: First demonstration of autonomous experimentation in situ at a synchrotron
+  tags: autonomous, highlight, nsf2pcv
   title: Active Reaction Control of Cu Redox State Based on Real-Time Feedback from
     {\it in situ} Synchrotron Measurements
   url: https://pubs.acs.org/doi/10.1021/jacs.0c09418
@@ -10341,6 +10443,10 @@ shi;prl14:
   optannote: ''
   optwwwlanl: ''
   pages: '125501'
+  synopsis: An early detailed structural study of the structure of the layers in MXenes
+    using PDF.  This was the followup paper to the first paper in Chem Commun with
+    a more quantitative analysis of the data
+  tags: mxene
   title: Structure of nanocrystalline {Ti$_3$C$_2$} {MXene} using atomic pair distribution
     function
   url: http://link.aps.org/doi/10.1103/PhysRevLett.112.125501
@@ -10905,7 +11011,7 @@ terba;mp20:
   grant: gsk16
   journal: Molecular Pharmaceutics
   month: April
-  nb: art, hilite
+  nb: art, hilight
   notes: ''
   number: '7'
   optannote: ''
@@ -11460,6 +11566,10 @@ urban;nan17:
   optannote: ''
   optwwwlanl: ''
   pages: 17722-17730
+  synopsis: Novel Mo and V nitride MXenes were synthesized for the first time, doubling
+    the number of transition metal nitrides that could be made at the time. These
+    were structurally characterized using PDF.
+  tags: mxene
   title: '{2D} molybdenum and vanadium nitrides synthesized by ammoniation of {2D}
     transition metal carbides ({MX}enes)'
   url: http://pubs.rsc.org/en/content/articlehtml/2017/nr/c7nr06721f
@@ -11677,6 +11787,7 @@ wang;prb20:
   optannote: ''
   optwwwlanl: ''
   pages: '235121'
+  tags: fese, iqt, odl, nsf2pcv
   title: Understanding electronic peculiarities in tetragonal {FeSe} as local structural
     symmetry breaking
   url: https://link.aps.org/doi/10.1103/PhysRevB.102.235121
@@ -11746,7 +11857,7 @@ worha;cm08:
     - Swainson, I. P.
     - Yonkeu, A. L.
     - Billinge, S. J. L.
-  doi: ''
+  doi: 10.1021/cm702668d
   entrytype: article
   facility: ' aps, mucat, 6idd'
   grant: '  nirt03, frg07   '
@@ -11756,6 +11867,9 @@ worha;cm08:
   optnote: ''
   optwwwlanl: http://arxiv.org/abs/cond-mat/0612414
   pages: 1272-1277
+  synopsis: A very early PDF study of the local structure  of hybrid organic, inorganic
+    perovskites before they got famous as good photovoltaic materials
+  tags: hybrid_perovskite, mapi
   title: Study of local structure in selected cubic organic-inorganic perovskites
   url: http://pubs.acs.org/doi/abs/10.1021/cm702668d
   volume: '20'
@@ -11926,7 +12040,7 @@ xiao;afm19:
     - Abruna, Hector D.
     - May, Steven J.
     - Gogotsi, Yury
-  doi: adfm.201809001
+  doi: 10.1002/adfm.201809001
   entrytype: article
   facility: xpd, nslsii
   grant: mrsec14
@@ -11938,6 +12052,11 @@ xiao;afm19:
   optannote: ''
   optwwwlanl: ''
   pages: '1809001'
+  synopsis: substrate lattice matching was used for the synthesis of ultrathin Mn3N2.
+    A KCl salt template was used for Mn3N2 resulting in the first ultrathin magnetic
+    metal nitride via a solution-based route. Quantitative structural analysis was
+    carried out using PDF.
+  tags: mxene, magnetism
   title: Scalable synthesis of ultrathin {Mn$_3$N$_2$} exhibiting room-temperature
     antiferromagnetism
   url: https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201809001
@@ -11961,7 +12080,7 @@ xiao;am19:
   day: '25'
   doi: 10.1002/adma.201902393
   entrytype: article
-  facility: ' xpd, nslsii '
+  facility: xpd, nslsii
   grant: mrsec14
   journal: Adv. Mater.
   month: June
@@ -11971,6 +12090,9 @@ xiao;am19:
   optnote: To be published
   optwwwlanl: ''
   pages: '02393'
+  synopsis: transition metal nitrides (TMN) with good in-plane conductivity are reported.
+    PDF is used for quantitative structural analysis
+  tags: nanoparticle, nitride, mxene
   title: Two-dimensional arrays of transition metal nitride nanocrystals
   url: https://doi.org/10.1002/adma.201902393
   volume: '31'
@@ -12150,6 +12272,9 @@ yang;aca21:
   optnote: ''
   optwwwlanl: ''
   pages: 2-6
+  synopsis: The paper that describes the deployment of PDF in the cloud web service
+    at PDFitc.org
+  tags: pdfitc, highlight, nsf2pcv
   title: 'A cloud platform for atomic pair distribution function analysis: {PDF}itc'
   url: https://journals.iucr.org/a/issues/2021/01/00/ae5091/index.html
   volume: '77'
