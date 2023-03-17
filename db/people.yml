@@ -5971,3 +5971,29 @@ zzgong:
   service: []
   skills: []
   title: Dr.
+  kchen:
+  active: yes
+  aka:
+    - Kaylynn
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: I love animals and coding. In the future, I hope to enter quantum computing.
+  education:
+    - begin_year: 2021
+      degree: bachelors of science
+      institution: Columbia SEAS
+      end_year: 2024
+  employment: 
+      organization: MIT Lincoln Laboratory
+      department: Group 89
+      position: Undergraduate research assistant
+    - begin_year: 2023
+      begin_month: 5
+      end_month: 8
+      end_year: 2023
+      group: bg
+      status: undergrad
+      advisor: wbailey
+      organization: Columbia University
+  name:   Kaylynn Chen
+  position: research assistant
+
