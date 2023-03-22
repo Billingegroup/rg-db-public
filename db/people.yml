@@ -2348,6 +2348,26 @@ jwilley:
   name: John J. Willey
   orcid_id: 0000-0003-1572-0249
   position: masters researcher
+jwlee:
+  active: true
+  aka: []
+  avatar: "https://github.com/\x16jaewon078.png"
+  bio: bio
+  education: []
+  email: "\x16jl6367@columbia.edu"
+  employment:
+    - begin_date: 2023-03-22
+      end_date: 2022-05-31
+      organization: columbiau
+      position: Undergraduate Researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: "\x16jaewon078"
+  grp_mtg_active: true
+  name: Jaewon Lee
+  orcid_id: ''
+  position: Undergraduate Researcher
 jwzang:
   active: false
   aka:
