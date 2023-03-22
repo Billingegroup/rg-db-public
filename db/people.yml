@@ -2174,7 +2174,7 @@ jchung:
   name: Jean Chung
   position: unknown
 jeaster:
-  active: true
+  active: false
   aka:
     - Jay Easter
     - J. Y. Easter
@@ -2489,7 +2489,7 @@ klchen:
   orcid_id: 0000-0002-2940-3669
   position: Undergraduate Researcher
 klkim:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/kaylabim.png
   bio: Kayla Kim is currently an undergraduate student at Columbia University pursuing
@@ -4236,6 +4236,15 @@ sbillinge:
   name: Simon J. L. Billinge
   orcid_id: 0000-0002-9734-4998
   position: professor
+  publicity:
+    - type: online
+      topic: online news article
+      title: New fast camera shutter shows how materials move heat around
+      date: 2023-03-17
+      publication: Materialstoday
+      text: ''
+      url: https://www.materialstoday.com/energy/news/fast-camera-shutter-shows-how-materials-move-heat/
+      grant: dmref19
   research_focus_areas:
     - description: Solving the nanostructure inverse problem (finding the location
         of atoms in nanomaterials and nanostructured bulk materials)

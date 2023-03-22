@@ -4375,6 +4375,41 @@
   title: 'From saving pharmaceuticals to saving priceless historical artefacts via
     saving the planet: understanding nanostructure with x-rays and algorithms'
   type: seminar
+2303sb_ral:
+  abstract: Material properties depend sensitively on the atomic structure, and on
+    the local structure.  The local structure may a symmetry breaking in a crystal,
+    an explicit nanocrystalline or nanoporous sample or even an amorphous or liquid
+    material.  We now have powerful tools for studying such materials, many based
+    on the atomic pair distribution function analysis (PDF) of x-ray, neutron and
+    electron diffraction data.  This approach has traditionally leaned heavily on
+    the assumption that the average scattering is isotropic, and any heterogeneities
+    in the sample are averaged over.  In this talk we explore extensions to the method
+    to allow it to be used to understand the heterogeneities.  The most obvious is
+    the ability to carry out spatially resolved PDF measurements, which we have been
+    able to do for some time now.  I will review these developments, spending more
+    time on a recent advance that allowed us to to make spatial PDF maps in an electron
+    microscopy with a lateral resolution of around 10 nm.  Also challenging is if
+    the sample has orientational heterogeneities, for example, it is a powder sample
+    but with some preferred orientation.  We have developed the equations that propagate
+    the orientational distribution function (ODF) through the Fourier transform allowing
+    us to study the ODF in real-space and to obtain a real-space equivalent of a pole
+    figure.  Finally, if we allow ourselves to imagine that material whose structure
+    depends on the time-scale that it is probed on is a kind of temporal heterogeneity,
+    we have also demonstrated an approach, variable-shutter PDF (vsPDF), that allows
+    us to probe the structure with different time-resolutions.  I will illustrate
+    this with the example of GeTe, a not-so-simple binary compound.
+  authors:
+    - sbillinge
+  begin_date: 2023-03-29
+  department: isis
+  end_date: 2023-03-29
+  institution: ral
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Local structural analysis when a material has spatial, temporal and orientational  heterogeneities
+  type: seminar
 2303sb_weizmanni:
   abstract: Nanoparticles and nanostructures are at the heart of next generation technological
     solutions in sustainable energy, effective new pharmaceuticals and environmental
@@ -4401,8 +4436,72 @@
   title: 'From saving pharmaceuticals to saving priceless historical artefacts via
     saving the planet: understanding nanostructure with x-rays and algorithms'
   type: colloquium
+2304sb_argonnenationallaboratory,argonne,il:
+  abstract: Hard x-rays tend to make experiments easy.  They are penetrating allowing
+    in situ, operando and spatially resolved measurements.  Large regions of reciprocal
+    space can be covered rapidly opening the door to high real-space resolution total
+    scattering measurements.  Absorption is lower making corrections easier, and resulting
+    beam damage of the sample is less of a worry.  These things tend to make us greedy
+    though.  We now want to put operating batteries in the beam and study spatially
+    resolved labs-on-chip, do real-time autonomous experiments and use computed tomography
+    to see diffraction from cross-sections of bulk samples.  These developments, powered
+    by wonderful source and detector developments, present major challenges on the
+    data analysis side.  Now we are putting heterogeneous devices in the beam and
+    getting signals from different parts of them.  We have bad powder averages (spotty
+    data) because we can't spin the battery, and single crystal spots coming from
+    some component in the setup that happens to be in the way of the beam.  We have
+    unknown and unexpected phases coming and going, and want to extract tiny signals
+    from large backgrounds. I will take this opportunity to discuss some of the data
+    analysis, algorithmic and computational developments that are helping us to overcome
+    these challenging situations and not only recovering from "bad data", but also
+    turning bad data into good data.  Spotty powder patterns have more information
+    in them than smooth powder rings.  Normally, data that contain more information
+    would be thought as "better" than data with less, but it is considered bad because
+    we don't have great ways to extract that information.  I will describe some new
+    approaches, algorithmic, statistical, machine learning and otherwise, that are
+    helping us move the goalposts in this domain, which can open up new opportunities
+    for studying complex heterogeneous samples with hard x-rays.
+  authors:
+    - sbillinge
+  begin_date: 2023-04-19
+  end_date: 2023-04-20
+  location: Argonne National Laboratory, Argonne, IL
+  meeting_name: Real-time Analysis of Synchrotron Light Source and Nanoscale Research
+    Center Data using AI/ML for APS-U First Experiments workshop at the 2023 APS/CNM
+    Users Meeting
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: AI and Machine Learning aided prompt analysis of powder diffraction and PDF
+    data
+  type: invited
+  webinar: true
 2304sb_brookhavennationallaboratory:
-  abstract: tbd
+  abstract: Hard x-rays tend to make experiments easy.  They are penetrating allowing
+    in situ, operando and spatially resolved measurements.  Large regions of reciprocal
+    space can be covered rapidly opening the door to high real-space resolution total
+    scattering measurements.  Absorption is lower making corrections easier, and resulting
+    beam damage of the sample is less of a worry.  These things tend to make us greedy
+    though.  We now want to put operating batteries in the beam and study spatially
+    resolved labs-on-chip, do real-time autonomous experiments and use computed tomography
+    to see diffraction from cross-sections of bulk samples.  These developments, powered
+    by wonderful source and detector developments, present major challenges on the
+    data analysis side.  Now we are putting heterogeneous devices in the beam and
+    getting signals from different parts of them.  We have bad powder averages (spotty
+    data) because we can't spin the battery, and single crystal spots coming from
+    some component in the setup that happens to be in the way of the beam.  We have
+    unknown and unexpected phases coming and going, and want to extract tiny signals
+    from large backgrounds. I will take this opportunity to discuss some of the data
+    analysis, algorithmic and computational developments that are helping us to overcome
+    these challenging situations and not only recovering from "bad data", but also
+    turning bad data into good data.  Spotty powder patterns have more information
+    in them than smooth powder rings.  Normally, data that contain more information
+    would be thought as "better" than data with less, but it is considered bad because
+    we don't have great ways to extract that information.  I will describe some new
+    approaches, algorithmic, statistical, machine learning and otherwise, that are
+    helping us move the goalposts in this domain, which can open up new opportunities
+    for studying complex heterogeneous samples with hard x-rays.
   authors:
     - sbillinge
   begin_date: 2023-04-18
@@ -4411,11 +4510,64 @@
   institution: Brookhaven National Laboratory
   notes: []
   status: accepted
-  title: tbd
+  title: 'Treasure from trash: algorithms to help hard x-rays handle hard experimental
+    situations'
   type: seminar
   webinar: true
+2304sb_lawrenceberkeleynationallaboratory,berkeleyca:
+  abstract: Hard x-rays tend to make experiments easy.  They are penetrating allowing
+    in situ, operando and spatially resolved measurements.  Large regions of reciprocal
+    space can be covered rapidly opening the door to high real-space resolution total
+    scattering measurements.  Absorption is lower making corrections easier, and resulting
+    beam damage of the sample is less of a worry.  These things tend to make us greedy
+    though.  We now want to put operating batteries in the beam and study spatially
+    resolved labs-on-chip, do real-time autonomous experiments and use computed tomography
+    to see diffraction from cross-sections of bulk samples.  These developments, powered
+    by wonderful source and detector developments, present major challenges on the
+    data analysis side.  Now we are putting heterogeneous devices in the beam and
+    getting signals from different parts of them.  We have bad powder averages (spotty
+    data) because we can't spin the battery, and single crystal spots coming from
+    some component in the setup that happens to be in the way of the beam.  We have
+    unknown and unexpected phases coming and going, and want to extract tiny signals
+    from large backgrounds. I will take this opportunity to discuss some of the data
+    analysis, algorithmic and computational developments that are helping us to overcome
+    these challenging situations and not only recovering from "bad data", but also
+    turning bad data into good data.  Spotty powder patterns have more information
+    in them than smooth powder rings.  Normally, data that contain more information
+    would be thought as "better" than data with less, but it is considered bad because
+    we don't have great ways to extract that information.  I will describe some new
+    approaches, algorithmic, statistical, machine learning and otherwise, that are
+    helping us move the goalposts in this domain, which can open up new opportunities
+    for studying complex heterogeneous samples with hard x-rays.
+  authors:
+    - sbillinge
+  begin_date: 2023-04-17
+  end_date: 2023-04-18
+  location: Lawrence Berkeley National Laboratory, Berkeley CA
+  meeting_name: Machine Learning for X-ray and Neutron Scattering Workshop on April
+    17th and 18th
+  notes: []
+  project:
+    - all
+  status: postponed
+  title: AI and Machine Learning aided prompt analysis of powder diffraction and PDF
+    data
+  type: invited
 2304sb_paulscherrerinstitution:
-  abstract: tbd
+  abstract: Modern materials under study for next generation technologies, such as
+    for energy conversion and storage,   environmental remediation and health, are
+    highly complex, often heterogeneous and nano structured.  A full understanding
+    of the structure requires us to go beyond crystallography and to study the local
+    structure, which is a major experimental challenge. There are recently emerging
+    powerful experimental developments, for example, using the atomic pair distribution
+    function technique (PDF), among others.  In this talk I will focus on  bulk materials
+    that have distorted local structures, a potentially large class of materials where,
+    nonetheless this property has been largely overlooked.  In particular, I will
+    focus on materials where atomic or bonding orbitals are electronically active,
+    driving the local atomic distortions. I will describe a new language we are developing
+    for classifying these materials, and new modeling tools that are under development
+    to reveal the local structures.  I will also mention areas that need addressing
+    in this endeavor.
   authors:
     - sbillinge
   begin_date: 2023-04-28
@@ -4426,8 +4578,83 @@
   project:
     - all
   status: accepted
-  title: tbd
+  title: 'When hard materials act soft: Local symmetry breaking in materials, how
+    to find it, and why you should care about it'
   type: colloquium
+  webinar: true
+2305sb_argonnenationallaboratory:
+  abstract: "The atomic pair distribution function method is growing in popularity\
+    \ as an approach for studying local structure in nanomaterials, amorphous materials,\
+    \ moleculare materials and liquids, as well as a growing interest in the study\
+    \ of local symmetry breaking in bulk crystals.  It is a direct measure of the\
+    \ local structure in the vicinity of an atom.  As such, it is a very interesting\
+    \ representation of the structure in the context of time resolved measurements,\
+    \ becuase if the local bonding state or coordination of an atom is changed through\
+    \ photoexcitation, the PDF gives a direct measure of that change, and how the\
+    \ change propagates out in time from the location where it occured.\nDespite this,\
+    \ to date there has been very little work in measuring ultrafast PDFs (ufPDFs).\
+    \  The reasons are technological rather than scientific.  First, the resolution\
+    \ of the PDF in real space is directly determined by the measured range in momentum,\
+    \ Q.  To get quantitatively reliable PDF high Qmax values of greater than 20 inv.\
+    \ angstroms are required, and this requires good fluxes of short wavelength x-rays\
+    \ (> 20 keV) to be used.  Second, it is required to measure this wide range of\
+    \ reciprocal space quantitatively with low backgrounds and linear detector response.\
+    \  These limitations are now being addressed with latest generation large area\
+    \ 2D detectors and the developing of hard-x-ray free electron lasers.\nI will\
+    \ describe the PDF and how it could, in principle, be used in an ultrafast time\
+    \ resolved context.  I will then describe our recent attempt to obtain moderate\
+    \ resolution, quantitatively reliable, PDFs in an ultrafast PDF experiment at\
+    \ LCLS at SLAC.  The initial results are very promising, which opens the door\
+    \ to much more extensive quantitative time resolved local structural studies."
+  authors:
+    - sbillinge
+  begin_date: 2023-05-03
+  end_date: 2023-05-04
+  location: Argonne National Laboratory
+  meeting_name: Time-resolved X-ray Opportunities toward APS-U
+  notes:
+    - The workshop will also discuss new/enhanced time-resolved capabilities that
+      leverage APS-U capabilities and their scientific applications
+    - ' (2) Time-resolved X-ray total scattering with atomic pair distribution function
+      (TR-PDF) analysis '
+    - invite you to give a half-hour talk at our workshop. You’re welcome to pick
+      your specific topic, but we would especially appreciate your thoughts on the
+      new opportunities that APS-U will provide to time-resolved atomic PDF experiments
+  project:
+    - all
+  status: accepted
+  title: Ultrafast atomic pair distribution function analysis
+  type: invited
+  webinar: true
+2305sb_argonnenationallaboratory,argonne,il:
+  abstract: This talk will explore whether and how autonomation can accelerate scientific
+    discovery.  By autonomation, we mean computer controlled measurements where an
+    adaptive decision policy is carried out also by the computer without a human in
+    the loop.  Subsequent measurements are run based on the results of prior experiments,
+    and the overall goals of the experiment. This raises the possibility of enormously
+    accelerated experimental campaigns that can make the best use of available resources
+    (not least, beamtime).  It is clear that such strategies can work when carrying
+    out optimizations over high dimensional input parameter spaces, and when experiments
+    are reversible or under continuous flow conditions.  However, an interesting question
+    remains about how such experiments can result in novel experimental discoveries,
+    and exactly how the experiments will interact with scientists and vice versa.  I
+    will explore some of these questions in the context of experiments at synchrotron
+    facilities.
+  authors:
+    - sbillinge
+  begin_date: 2023-05-01
+  end_date: 2023-05-02
+  location: Argonne National Laboratory, Argonne, IL
+  meeting_name: Toward Synchrotron-Based Autonomous Scattering Studies of Synthesis
+    and Processing workshop at the Advanced Photon Source (APS)/Center for Nanoscale
+    Materials (CNM) annual User Meeting
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Autonomation for Scientific Discovery: Beamline experiments of the Future,
+    what they might look like and how to get there'
+  type: invited
   webinar: true
 2308sb_cityuniversityofhongkong,kowloon,hongkong:
   abstract: tbd

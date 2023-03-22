@@ -2806,7 +2806,7 @@ ulyon:
 umaine:
   aka:
     - University of Maine
-  city: fixme
+  city: Orono
   country: USA
   departments:
     chemistry:
@@ -2815,7 +2815,7 @@ umaine:
       name: Department of Physics
   name: University of Maine
   state: ME
-  zip: fixme
+  zip: 04469
 umanchester:
   aka:
     - University of Manchester
