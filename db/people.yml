@@ -52,8 +52,12 @@ aajayi:
   active: true
   aka: []
   avatar: https://github.com/aajayi-21.png
-  bio: bio
-  education: []
+  bio: Adeolu is a rising sophomore at Columbia Engineering studying Applied Mathematics
+  education:
+    - begin_year: 2022
+      end_year: 2026
+      institution: columbiau
+      degree: BS - Applied Mathematics
   email: aoa2160@columbia.edu
   employment:
     - begin_date: 2023-02-01
