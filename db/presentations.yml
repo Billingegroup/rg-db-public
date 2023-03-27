@@ -4436,6 +4436,42 @@
   title: 'From saving pharmaceuticals to saving priceless historical artefacts via
     saving the planet: understanding nanostructure with x-rays and algorithms'
   type: colloquium
+2304rnz_data_science_day_edexml:
+  abstract: While there are many online resources available today for students to
+    learn machine learning, there are very few, if any, tutorials available for applying
+    machine learning to solve scientific research problems. Our project aims to fill
+    in this gap. We have designed a series of hands-on educational examples to integrate
+    with a traditional lecture-based introductory machine-learning course. The educational
+    examples are based on research conducted at the School of Engineering at Columbia
+    University. They are designed to walk students through a number of machine-learning
+    applications in published research. Each educational example contains two jupyter
+    notebooks. One is the “solution,” where the problem is fully presented and solved
+    along with detailed explanations; the other is the “problem set” that we will
+    first give the students to tackle, where we guide the students to fill in the
+    incomplete code. The course development has been funded by the Collaboratory at
+    the Data Science Institute at Columbia University. The current status is that
+    we have created the first 5 of 12 EdExes. These will be prototyped in a mini-course
+    this summer to test their effectiveness. Based on the feedback, we will modify
+    them, create more educational examples, and officially list the full-blown course
+    in Spring 2024. We believe that this project will have great value in introducing
+    machine learning to beginning graduate students and providing them with skills
+    and confidence to apply it to their research problems.
+  authors:
+    - sbillinge
+    - skumar
+    - qdu
+    - rnzhang
+    - tshastry
+  begin_date: 2023-03-23
+  end_date: 2023-04-19
+  location: Columbia University, New York, NY
+  meeting_name: Data Science Day 2023
+  notes: []
+  presentation_url: https://gitlab.thebillingegroup.com/talks/2304rnz_data_science_day_edexml
+  status: submitted
+  title: 'Introduction to Machine Learning in the Physical Sciences: A New Hands-on
+    Course at Columbia'
+  type: poster
 2304sb_argonnenationallaboratory,argonne,il:
   abstract: Hard x-rays tend to make experiments easy.  They are penetrating allowing
     in situ, operando and spatially resolved measurements.  Large regions of reciprocal
