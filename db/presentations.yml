@@ -4457,18 +4457,20 @@
     machine learning to beginning graduate students and providing them with skills
     and confidence to apply it to their research problems.
   authors:
-    - rnzhang
     - sbillinge
-    - Tejus Shastry
+    - skumar
+    - qdu
+    - rnzhang
+    - tshastry
   begin_date: 2023-03-23
   end_date: 2023-04-19
-  institution: data science institute at Columbia University
-  location: New York, NY
+  location: Columbia University, New York, NY
+  meeting_name: Data Science Day 2023
   notes: []
   presentation_url: https://gitlab.thebillingegroup.com/talks/2304rnz_data_science_day_edexml
   status: submitted
-  title: Introduction to Machine Learning in the Physical Sciences A New Hands-on
-    Course at Columbia
+  title: "Introduction to Machine Learning in the Physical Sciences: A New Hands-on
+    Course at Columbia"
   type: poster
 2304sb_argonnenationallaboratory,argonne,il:
   abstract: Hard x-rays tend to make experiments easy.  They are penetrating allowing
