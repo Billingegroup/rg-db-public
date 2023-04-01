@@ -1955,21 +1955,35 @@ iadnan:
     - Ibrahim Adnan
     - Ibrahim, A
     - Ibrahim ALIbrahim
-  avatar: false
+  avatar: https://github.com/EngrIbrahimAdnan.png
   bio: Ibrahim is Masters of Electrical engineering student from kuwait. He did his undergraduate at the
     university of Portsmouth, United Kingdom. After graduating in 2021, he worked as a network
     engineer at kuwait's ministry of interior for 7 months before joining columbia university. Upon
     graduating with a master's degree, Mr. ALIbrahim plans on pursuing a PhD at columbia university
     focusing on the area of Artificial intelligence and its trustworthiness in critical applications
   education:
+    - institution: Columbia University
+      begin_date: 2023-09-01
+      group: bg
+      advisor: sbillinge
+      other: false
+      department: Electrical Engineering
+      end_year: false
+      degree: Electrical Engineering
+      status: masters
+      github_id: EngrIbrahimAdnan
+      grp_mtg_active: true
+      orcid_id: ''
+      position: Masters Researcher
+      
     - institution: University of Portsmouth, United Kingdom
       degree: BEng (Hons) in Electrical Engineering
       department: Electrical Engineering
       begin_year: 2018
       end_year: 2021
   employment:
-    - begin_year: December of 2021
-    - end_year: June of 2022
+    - begin_date: 2021-12-26
+    - end_date: 2022-06-01
       location: Kuwait, Dajeej
       other:
         Responsible for Assessing in-wall ethernet port installations inside offices at different ministry buildings.
@@ -1978,6 +1992,7 @@ iadnan:
       position: Engineer
       position_full: Network engineer intern
       organization: Ministry of Interior
+   email: iaa2132@columbia.edu
 ikjeong:
   active: false
   aka:
