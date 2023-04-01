@@ -1950,25 +1950,33 @@ hyavas:
   name: Hasan Yavas
   position: scientist
 iadnan:
-  active: true
-  aka: []
-  avatar: https://github.com/EngrIbrahimAdnan.png
-  bio: bio
-  education: []
-  email: iaa2132@columbia.edu
+  active: True
+  aka:
+    - Ibrahim Adnan
+    - Ibrahim, A
+    - Ibrahim ALIbrahim
+  bio: Ibrahim is Masters of Electrical engineering student from kuwait. He did his undergraduate at the
+    university of Portsmouth, United Kingdom. After graduating in 2021, he worked as a network
+    engineer at kuwait's ministry of interior for 7 months before joining columbia university. Upon
+    graduating with a master's degree, Mr. ALIbrahim plans on pursuing a PhD at columbia university
+    focusing on the area of Artificial intelligence and its trustworthiness in critical applications
+  education:
+    - institution: University of Portsmouth, United Kingdom
+      degree: BEng (Hons) in Electrical Engineering
+      department: Electrical Engineering
+      begin_year: 2018
+      end_year: 2021
   employment:
-    - begin_date: 2023-01-30
-      end_date: 2023-05-31
-      organization: columbiau
-      position: Masters Researcher
-      group: bg
-      advisor: sbillinge
-      status: masters
-  github_id: EngrIbrahimAdnan
-  grp_mtg_active: true
-  name: Ibrahim Adnan
-  orcid_id: ''
-  position: Masters Researcher
+    - begin_year: December of 2021
+    - end_year: June of 2022
+      location: Kuwait, Dajeej
+      other:
+        Responsible for Assessing in-wall ethernet port installations inside offices at different ministry buildings.
+        Configured UPSs to guarantee maintenance of servers during blackout and targeted attacks
+        Monitored LAN/WAN status from any suspicious activities
+      position: Engineer
+      position_full: Network engineer intern
+      organization: Ministry of Interior
 ikjeong:
   active: false
   aka:
