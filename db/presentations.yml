@@ -4708,6 +4708,42 @@
   title: tbd
   type: invited
   webinar: true
+2308sb_universitadiroma"lasapienza",rome,italy:
+  abstract: Material properties depend sensitively on the atomic structure, and on
+    the local structure.  The local structure may be a symmetry breaking in a crystal,
+    an explicit nanocrystalline or nanoporous sample or even an amorphous or liquid
+    material.  We now have powerful tools for studying such materials, many based
+    on the atomic pair distribution function analysis (PDF) of x-ray, neutron and
+    electron diffraction data.  This approach has traditionally leaned heavily on
+    the assumption that the average scattering is isotropic, and any heterogeneities
+    in the sample are averaged over.  In this talk we explore extensions to the method
+    to allow it to be used to understand the heterogeneities.  The most obvious is
+    the ability to carry out spatially resolved PDF measurements, which we have been
+    able to do for some time now.  I will review these developments, spending more
+    time on a recent advance that allowed us to to make spatial PDF maps in an electron
+    microscopy with a lateral resolution of around 10 nm.  Also challenging is if
+    the sample has orientational heterogeneities, for example, it is a powder sample
+    but with some preferred orientation.  We have developed the equations that propagate
+    the orientational distribution function (ODF) through the Fourier transform allowing
+    us to study the ODF in real-space and to obtain a real-space equivalent of a pole
+    figure.  Finally, if we allow ourselves to imagine that material whose structure
+    depends on the time-scale that it is probed on is a kind of temporal heterogeneity,
+    we have also demonstrated an approach, variable-shutter PDF (vsPDF), that allows
+    us to probe the structure with different time-resolutions.  I will illustrate
+    this with the example of GeTe, a not-so-simple binary compound.
+  authors:
+    - sbillinge
+  begin_date: 2023-08-30
+  end_date: 2023-09-01
+  location: Universita di Roma "La Sapienza", Rome, Italy
+  meeting_name: Advanced Data Analysis Methodologies workshop at the 2023 Annual Meeting
+    of the Societa Italiana Luce di Sincrotroni (SILS)
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Handling heterogeneity: Approaches to separate signals using multiple spaces'
+  type: keynote
 2311sb_boston,ma:
   abstract: tbd
   authors:
