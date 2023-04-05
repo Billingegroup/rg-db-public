@@ -2356,12 +2356,16 @@ jwlee:
   active: true
   aka: []
   avatar: "https://github.com/\x16jaewon078.png"
-  bio: bio
-  education: []
+  bio: Jaewon Lee is currently a student at Columbia University majoring in Computer Science. 
+  education: 
+  - institution: Columbia University
+    begin_year: 2022
+    location: New York, NY
+    department: Computer Science
+    degree: BA in Computer Science
   email: "\x16jl6367@columbia.edu"
   employment:
     - begin_date: 2023-03-22
-      end_date: 2022-05-31
       organization: columbiau
       position: Undergraduate Researcher
       group: bg
