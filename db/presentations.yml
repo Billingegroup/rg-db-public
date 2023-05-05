@@ -4473,8 +4473,8 @@
   project:
     - all
   status: accepted
-  title: AI and Machine Learning aided prompt analysis of powder diffraction and PDF
-    data
+  title: '{AI} and Machine Learning aided prompt analysis of powder diffraction and
+    {PDF} data'
   type: invited
   webinar: true
 2304sb_brookhavennationallaboratory:
@@ -4549,9 +4549,9 @@
   notes: []
   project:
     - all
-  status: postponed
-  title: AI and Machine Learning aided prompt analysis of powder diffraction and PDF
-    data
+  status: accepted
+  title: '{AI} and Machine Learning aided prompt analysis of powder diffraction and
+    {PDF} data'
   type: invited
 2304sb_paulscherrerinstitution:
   abstract: Modern materials under study for next generation technologies, such as
@@ -4581,6 +4581,36 @@
   title: 'When hard materials act soft: Local symmetry breaking in materials, how
     to find it, and why you should care about it'
   type: colloquium
+  webinar: true
+2305sb_anl_autonomous:
+  abstract: This talk will explore whether and how autonomation can accelerate scientific
+    discovery.  By autonomation, we mean computer controlled measurements where an
+    adaptive decision policy is carried out also by the computer without a human in
+    the loop.  Subsequent measurements are run based on the results of prior experiments,
+    and the overall goals of the experiment. This raises the possibility of enormously
+    accelerated experimental campaigns that can make the best use of available resources
+    (not least, beamtime).  It is clear that such strategies can work when carrying
+    out optimizations over high dimensional input parameter spaces, and when experiments
+    are reversible or under continuous flow conditions.  However, an interesting question
+    remains about how such experiments can result in novel experimental discoveries,
+    and exactly how the experiments will interact with scientists and vice versa.  I
+    will explore some of these questions in the context of experiments at synchrotron
+    facilities.
+  authors:
+    - sbillinge
+  begin_date: 2023-05-01
+  end_date: 2023-05-02
+  location: Argonne National Laboratory, Argonne, IL
+  meeting_name: Toward Synchrotron-Based Autonomous Scattering Studies of Synthesis
+    and Processing workshop at the Advanced Photon Source (APS)/Center for Nanoscale
+    Materials (CNM) annual User Meeting
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Autonomation for Scientific Discovery: Beamline experiments of the Future,
+    what they might look like and how to get there'
+  type: invited
   webinar: true
 2305sb_argonnenationallaboratory:
   abstract: "The atomic pair distribution function method is growing in popularity\
@@ -4626,36 +4656,96 @@
   title: Ultrafast atomic pair distribution function analysis
   type: invited
   webinar: true
-2305sb_argonnenationallaboratory,argonne,il:
-  abstract: This talk will explore whether and how autonomation can accelerate scientific
-    discovery.  By autonomation, we mean computer controlled measurements where an
-    adaptive decision policy is carried out also by the computer without a human in
-    the loop.  Subsequent measurements are run based on the results of prior experiments,
-    and the overall goals of the experiment. This raises the possibility of enormously
-    accelerated experimental campaigns that can make the best use of available resources
-    (not least, beamtime).  It is clear that such strategies can work when carrying
-    out optimizations over high dimensional input parameter spaces, and when experiments
-    are reversible or under continuous flow conditions.  However, an interesting question
-    remains about how such experiments can result in novel experimental discoveries,
-    and exactly how the experiments will interact with scientists and vice versa.  I
-    will explore some of these questions in the context of experiments at synchrotron
-    facilities.
+2305sb_purdueuniversity:
+  abstract: Increasingly we seek to move away from well ordered crystalline materials
+    in high performance applications. This is also true in the world of pharmaceuticals
+    where effective drug candidates may suffer from low solubility and low bioavailability
+    in crystalline form, but show much better performance in the amorphous or nanocrystalline
+    state.  Also, targeted drug delivery mechanisms have been envisaged that involve
+    using nanoparticles as carriers. In all these cases we need tools that can characterize
+    disordered and nanocrystalline materials.  I will describe the total scattering
+    atomic pair distribution function (TSPDF) method which uses advance scattering
+    of x-rays, electrons or neutrons for just this purpose.  With the advances in
+    the power of sources, both large synchrotron based facilities and laboratory based
+    systems, and data analysis methods and software, The TSPDF method has never been
+    more powerful than now, allowing us to quantatively probe nanostructure in highly
+    quantitative detail, from dilute and low scattering signals, in spatially resolved
+    ways. I will describe recent developments and applications with examples from
+    pharmaceuticals but also other scientific domains.
   authors:
     - sbillinge
-  begin_date: 2023-05-01
-  end_date: 2023-05-02
-  location: Argonne National Laboratory, Argonne, IL
-  meeting_name: Toward Synchrotron-Based Autonomous Scattering Studies of Synthesis
-    and Processing workshop at the Advanced Photon Source (APS)/Center for Nanoscale
-    Materials (CNM) annual User Meeting
+  begin_date: 2023-05-19
+  end_date: 2023-05-20
+  location: Purdue University
+  meeting_name: 3rd Spring Pharmaceutical Synchrotron-XRPD workshop (SPS-XRPD-3)
   notes: []
   project:
     - all
   status: accepted
-  title: 'Autonomation for Scientific Discovery: Beamline experiments of the Future,
-    what they might look like and how to get there'
+  title: Characterizing amorphous and nanostuctured materials with total scattering
   type: invited
   webinar: true
+2305sb_ubirmingham:
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
+    are at the heart of next generation technological solutions in sustainable energy,
+    effective new pharmaceuticals and environmental remediation.  A key to making
+    progress is to be able to understand the nanoparticle structure, the arrangements
+    of atoms in the nanoparticles and nanoscale structures. Also critical is understanding
+    the distribution of the nanoparticles and how they change in time as devices run
+    and reactions take place.  We use advanced x-ray, neutron and electron scattering
+    methods to get at this problem.  I will talk about these methods and show some
+    recent success-stories in the fields of sustainable energy, environmental remediation
+    and cultural heritage preservation.  However, I will also discuss the fundamental
+    limitations on our ability to extract information from the data and how we are
+    now turning to machine learning and artificial intelligence techniques to give
+    more insights.
+  authors:
+    - sbillinge
+  begin_date: 2023-05-18
+  department: chemistry
+  end_date: 2023-05-18
+  institution: ubirmingham
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms'
+  type: seminar
+2305sb_universityofliverpool,liverpool,uk:
+  abstract: The materials genome initiative (MGI) is a US government initiative from
+    2011 to speed up, and lower the cost of, the discovery of new advanced materials,
+    and their deployment in technologies, by applying data analytic methods inspired
+    by biological genomics.  Of course, materials do not have a genome.  However,
+    if we generalize the concept of a genome as a 1D discrete quantity that codes
+    for the 3-dimensional arrangement of atoms, then we do have quantities that could
+    serve as this generalized genome, for example, that atomic pair distribution function,
+    or PDF.  This is a quantity that is experimentally accessible through diffraction
+    measurements and is a powerful and widely used approach for characterizing material
+    structure on the nanoscale, which is a particularly challenging but important
+    problem in advanced materials. As well as being experimentally accessible, the
+    PDF can be computed from a structure by making interatomic vectors between all
+    the atoms in the structure and then making a histogram of these lengths, weighted
+    by the average scattering power of each atom.  This is closely related to the
+    quantity you get by making a Cech filtration of a point cloud of points.  The
+    PDF does not guaruntee a unique 3D structure, and as pointed out by Vitaliy Kurlin
+    has pointed out, higher order correlation functions are needed to do that.  Nonetheless,
+    the PDF is experimentally accessible and often sufficient to give unique 3D embeddings
+    of the graph.  In this talk I introduce the PDF and describe what is possible
+    to do with it, and speculate on how this "genomic-like" quantity may be used in
+    materials discovery.
+  authors:
+    - sbillinge
+  begin_date: 2023-05-22
+  end_date: 2023-04-26
+  location: University of Liverpool, Liverpool, UK
+  meeting_name: MACSMIN (Mathematics and Computer Science for Materials Innovation)
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Do materials have a genome, and if they do, what can we do with it?
+  type: invited
 2308sb_cityuniversityofhongkong,kowloon,hongkong:
   abstract: tbd
   authors:
@@ -4672,6 +4762,46 @@
   title: tbd
   type: invited
   webinar: true
+2308sb_sanfrancisco:
+  abstract: " Hard x-rays tend to make experiments easy.  They are penetrating allowing\
+    \ in situ, operando and spatially resolved measurements.  Large regions of reciprocal\
+    \ space can be covered rapidly opening the door to high real-space resolution\
+    \ total scattering measurements.  Absorption is lower making corrections easier,\
+    \ and resulting beam damage of the sample is less of a worry.  These things tend\
+    \ to make us greedy though.  We now want to put operating batteries in the beam\
+    \ and study spatially resolved labs-on-chip, do real-time autonomous experiments\
+    \ and use computed tomography to see diffraction from cross-sections of bulk samples.\
+    \  These developments, powered by wonderful source and detector developments,\
+    \ present major challenges on the data analysis side.  Now we are putting heterogeneous\
+    \ devices in the beam and getting signals from different parts of them.  We have\
+    \ bad powder averages (spotty data) because we can't spin the battery, and single\
+    \ crystal spots coming from some component in the setup that happens to be in\
+    \ the way of the beam.  We have unknown and unexpected phases coming and going,\
+    \ and want to extract tiny signals from large backgrounds. I will take this opportunity\
+    \ to discuss some of the data analysis, algorithmic and computational developments\
+    \ that are helping us to overcome these challenging situations and not only recovering\
+    \ from \"bad data\", but also turning bad data into good data.  Spotty powder\
+    \ patterns have more information in them than smooth powder rings.  Normally,\
+    \ data that contain more information would be thought as \"better\" than data\
+    \ with less, but it is considered bad because we don't have great ways to extract\
+    \ that information.  I will describe some new approaches, algorithmic, statistical,\
+    \ machine learning and otherwise, that are helping us move the goalposts in this\
+    \ domain, which can open up new opportunities for studying complex heterogeneous\
+    \ samples with hard x-rays."
+  authors:
+    - sbillinge
+  begin_date: 2023-08-13
+  end_date: 2023-08-17
+  location: San Francisco
+  meeting_name: Data-Driven Design of Energy Materials workshop at the American Chemical
+    Society (ACS) Fall Meeting
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: AI and machine learning aided extraction of static and dynamic local structural
+    information from total scattering data
+  type: invited
 2308sb_universitadiroma"lasapienza",rome,italy:
   abstract: Material properties depend sensitively on the atomic structure, and on
     the local structure.  The local structure may be a symmetry breaking in a crystal,
