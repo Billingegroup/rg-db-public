@@ -372,7 +372,7 @@ bfrandsen:
       organization: University of California, Berkeley
     - begin_year: 2012
       begin_month: 9
-      position: undergraduate research assistant
+      position: graduate research assistant
       organization: columbiau
       status: phd
       end_year: 2016
@@ -2355,15 +2355,15 @@ jwilley:
 jwlee:
   active: true
   aka: []
-  avatar: "https://github.com/\x16jaewon078.png"
+  avatar: https://github.com/jaewon078.png
   bio: Jaewon Lee is currently a student at Columbia University majoring in Computer Science. 
-  education: 
-  - institution: Columbia University
-    begin_year: 2022
-    location: New York, NY
-    department: Computer Science
-    degree: BA in Computer Science
-  email: "\x16jl6367@columbia.edu"
+  education:
+    - institution: Columbia University
+      begin_year: 2022
+      location: New York, NY
+      department: Computer Science
+      degree: BA in Computer Science
+  email: jl6367@columbia.edu
   employment:
     - begin_date: 2023-03-22
       organization: columbiau
@@ -2371,7 +2371,7 @@ jwlee:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: "\x16jaewon078"
+  github_id: jaewon078
   grp_mtg_active: true
   name: Jaewon Lee
   orcid_id: ''
@@ -4152,6 +4152,15 @@ sbillinge:
   google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
   grp_mtg_active: false
   hindex:
+    - h: 81
+      h_last_five: 52
+      citations: 29150
+      citations_last_five: 13277
+      origin: Google Scholar
+      since: 1991
+      year: 2023
+      month: 4
+      day: 6
     - h: 80
       h_last_five: 49
       citations: 28421
@@ -4281,6 +4290,9 @@ sbillinge:
         of new materials, by developing and applying concepts in graph theory, machine
         learning and statistics
       begin_year: 2014
+    - description: Application of Machine Learning to solve otherwise intractible
+        problems in materials characterization and discovery
+      begin_year: 2018
     - description: Broadening the applicability and use of the atomic pair distribution
         function method
       begin_year: 1987

@@ -417,6 +417,11 @@ assef;sa20:
   optnote: To be published
   optwwwlanl: ''
   pages: eaax2445
+  synopsis: Ultrafast laser-pump x-ray-probe measurements are used to investigate
+    the phenomenon of melting in polycrystalline gold films. It is shown that a region
+    of the sample remains in a hot-pre-melted state before melting, presumably due
+    to energy being deposited into the lattice system by phonon scattering at grain
+    boundaries that happens more quickly than the melting itself.
   title: Melt-front Dynamics in Polycrystalline Gold Thin Films
   url: https://advances.sciencemag.org/content/6/3/eaax2445/tab-pdf
   volume: '6'
@@ -491,8 +496,10 @@ baner;aca20:
   pages: 24-31
   synopsis: The clusterMining database searching approach is introduced to find good
     candidate close-packed decahedral and icosahedral structural models from large
-    numbers of candidate structures.
-  tags: nanoparticle, metallic, metallic_nanoparticle, ml, datamining, clustermining
+    numbers of candidate structures.  An early example of  the model selection focused
+    screening method for structure characterization in nanomateirals
+  tags: nanoparticle, metallic, metallic_nanoparticle, ml, datamining, clustermining,
+    highlight
   title: 'Cluster-mining: An approach for determining core structures of metallic
     nanoparticles from atomic pair distribution function data'
   url: https://doi.org/10.1107/S2053273319013214
@@ -680,7 +687,7 @@ beech;acsel16:
   synopsis: PDF and inelastic x-ray scattering was used to show that local domains
     of "dynamic disorder" are present in MAPI samples are room temperature that consist
     of fluctuating clusters of atoms that break the average symmetry
-  tags: hybrid_perovskite, mapi, pbi3, ixs, phonon, symmetry_breaking
+  tags: hybrid_perovskite, mapi, pbi3, ixs, phonon, symmetry_breaking, highlight
   title: Direct observation of dynamic symmetry breaking above room temperature in
     methylammonium lead iodide perovskite
   url: http://dx.doi.org/10.1021/acsenergylett.6b00381
@@ -2092,7 +2099,7 @@ billi;prl96:
     in colossal magnetoresistant mangenites are associated with charge localization
     and polaron formation stabilized by a Jahn-Teller like orbital degeneracy lifting
     driving force.
-  tags: odl, symmetry_breaking, polarons, cmr, manganite, nsf2pcv
+  tags: odl, symmetry_breaking, polarons, cmr, manganite, nsf2pcv, highlight
   title: Direct observation of lattice polaron formation in the local structure of
     {La$_{1-x}$Ca$_{x}$MnO$_{3}$}
   url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.77.715
@@ -2162,6 +2169,9 @@ billi;s07:
   optnote: to be published
   optwwwlanl: http://arxiv.org/abs/cond-mat/xxxxxx
   pages: 561--565
+  synopsis: An early perspective paper on the problem with solving structure at the
+    nanoscale.  It lays out the issues and some proposed solutions needed to make
+    progress in solving this problem.
   tags: review, nanostructure_problem, highlight, nsf2pcv
   title: The problem with determining atomic structure at the nanoscale
   url: http://www.sciencemag.org/content/316/5824/561.abstract
@@ -2403,7 +2413,7 @@ bozer;aca22:
   synopsis: A prototype application for finding published papers given a powder diffraction
     dataset is described. This is an example of what might be possible if structured
     datasets are saved with papers in the future.
-  tags: machine_readable_scientific_literature, powder_diffraction, xrpd, mrsl
+  tags: machine_readable_scientific_literature, powder_diffraction, xrpd, mrsl, highlight
   title: 'Towards a machine-readable literature: finding relevant papers based on
     an uploaded powder diffraction pattern'
   url: https://doi.org/10.1107/S2053273322007483
@@ -2577,7 +2587,7 @@ bozin;nc19:
     of orbital degeneracy is established in a model system, CuIr2S4, using PDF.  This
     is the paper that establishes the phenomonenon and its importance for understanding
     lower temperature ground-states.
-  tags: odl, cis, nsf2pcv
+  tags: odl, cis, nsf2pcv, highlight
   title: Local orbital degeneracy lifting as a precursor to an orbital-selective Peierls
     transition
   url: https://www.nature.com/articles/s41467-019-11372-w
@@ -2924,7 +2934,11 @@ bozin;s10:
   optnote: ''
   optwwwlanl: ''
   pages: '1660'
-  tags: emphanisis, pbte, lone_pair, dipole, nsf2pcv
+  synopsis: Reports the discovery of the appearance of dipoles on warming in PbTe,
+    an effect we called emphanisis and which is important for properties such as thermal
+    conductivity and thermoelectricity.  This paper has led to a lively debate and
+    extensive literature on this phenomenon
+  tags: emphanisis, pbte, lone_pair, dipole, nsf2pcv, highlight
   title: Entropically stabilized local dipole formation in lead chalcogenides
   url: http://www.sciencemag.org/content/330/6011/1660
   volume: '330'
@@ -3423,7 +3437,7 @@ choi;nl14:
   pages: 127–133
   synopsis: The first paper on the structural characterization of MAPI samples to
     come out after the material became famous for its great PV efficiency
-  tags: mapi, hybrid_perovskite
+  tags: mapi, hybrid_perovskite, highlight
   title: 'Structure of methylammonium lead iodide on mesoporous titanium dioxide:
     active material in high performance metal-organic solar cells'
   url: http://pubs.acs.org/doi/abs/10.1021/nl403514x
@@ -3467,7 +3481,7 @@ choud;npjcm21:
   optnote: arXiv 2110.14820
   pages: '59'
   synopsis: A review of the applications of deep learning methods in material science
-  tags: review, ml, machine_learning, deep_learning, dl, nsf2pcv
+  tags: review, ml, deep_learning, dl, nsf2pcv
   title: Recent Advances and Applications of Deep Learning Methods in Materials Science
   url: https://www.nature.com/articles/s41524-022-00734-6
   volume: '8'
@@ -3533,6 +3547,11 @@ chupa;jac03:
   optnote: ', cond-mat/0304638'
   optnumber: ''
   pages: 1342--1347
+  synopsis: First description of using 2D detectors for PDF studies, the so-called
+    rapid acquisition pair distribution function (raPDF) method. This opened up the
+    PDF method to a wide range of applications from chemistry to pharmaceuticals to
+    cultural heritage and had a transformative impact on local structure studies.
+  tags: highlight, rapdf, data_collection
   title: Rapid acquisition pair distribution function analysis ({RA-PDF})
   url: http://scripts.iucr.org/cgi-bin/paper?wf5000
   volume: '36'
@@ -4088,6 +4107,8 @@ egami;b;utbp03:
   optnote: ''
   optwwwlanl: http://www.pa.msu.edu/cmp/billinge-group/papers/
   publisher: Pergamon Press, Elsevier
+  synopsis: first edition of the Underneath the Bragg Peaks PDF reference book
+  tags: highlight, review
   title: 'Underneath the Bragg peaks: structural analysis of complex materials'
   url: ''
   wwwemail: sb2896@columbia.edu
@@ -4105,6 +4126,8 @@ egami;b;utbp12:
   optnote: ''
   optwwwlanl: http://www.pa.msu.edu/cmp/billinge-group/papers/
   publisher: Elsevier
+  synopsis: Second edition of the Underneath the Bragg Peaks PDF reference book
+  tags: highlight, review
   title: 'Underneath the Bragg peaks: structural analysis of complex materials'
   url: http://store.elsevier.com/product.jsp?lid=0\&iid=73\&sid=0\&isbn=9780080971414
   wwwemail: sb2896@columbia.edu
@@ -4271,7 +4294,7 @@ farro;aca09:
   synopsis: The PDF equations are rederived from scratch with interesting new insights
     that yield a better understanding of the relationship between the small angle
     signal in the data and the PDF.
-  tags: pdf_theory, sas
+  tags: pdf_theory, sas, highlight
   title: 'Relationship between the atomic pair distribution function and small angle
     scattering: implications for modeling of nanoparticles'
   url: http://scripts.iucr.org/cgi-bin/paper?cn5017
@@ -4352,7 +4375,7 @@ farro;jpcm07:
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/farrow-jpcm07-pdfgui.pdf
   pages: '335219'
   synopsis: The paper that describes PDFgui
-  tags: modeling, pdfgui
+  tags: modeling, pdfgui, highlight
   title: '{PDFfit2} and {PDFgui}: Computer programs for studying nanostructure in
     crystals'
   url: http://iopscience.iop.org/0953-8984/19/33/335219/
@@ -4422,6 +4445,9 @@ frand;aca14:
   optnote: Selected as first ever Advances paper, featured on cover of issue
   optwwwlanl: ''
   pages: 3--11
+  synopsis: The equations for magnetic pair distribution function (mPDF) are derived
+    and presented
+  tags: highlight
   title: Magnetic pair distribution function analysis of local magnetic correlations
   url: http://journals.iucr.org/a/issues/2014/01/00/mq5020/index.html
   volume: '70'
@@ -4443,6 +4469,8 @@ frand;aca15:
   optannote: ''
   optwwwlanl: ''
   pages: 325--334
+  synopsis: A demonstration of the use of mPDF for the solution of local magnetic
+    structures
   title: 'Magnetic structure determination from the magnetic pair distribution function
     {(mPDF)}: ground state of {MnO}'
   url: http://journals.iucr.org/a/issues/2015/03/00/vk5003/index.html
@@ -4974,7 +5002,7 @@ ghidi;cc14:
   pages: 9517-9520
   synopsis: One of the first papers describing the synthesis of MXenes, including
     an early quantitative structural characterization using PDF
-  tags: mxene
+  tags: mxene, highlight
   title: Synthesis and charaterization of two-dimensional {Nb$_4$C$_3$} {(MXene)}
   url: http://pubs.rsc.org/en/content/articlelanding/2014/cc/c4cc03366c\#!divAbstract
   volume: '50'
@@ -5059,6 +5087,10 @@ granl;aca15:
   optannote: ''
   optwwwlanl: ''
   pages: 392--409
+  synopsis: extracting distance lists from measured PDFs is a somewhat challenging
+    and uncertain task. This paper presents the first algorithm for this in a quasi-automatic
+    way. It still needs human intervention to apply a baseline subtraction.
+  tags: peak_extraction, data_analysis
   title: Algorithm for systematic peak extraction from atomic pair distribution functions
   url: https://dx.doi.org/10.1107/S2053273315005276
   volume: '71'
@@ -5159,6 +5191,10 @@ gu;aca19:
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: ' 658-668'
+  synopsis: extracting distance lists from measured PDFs is a somewhat challenging
+    and uncertain task. This paper presents the first fully automatic algorithm for
+    this.
+  tags: peak_extraction, data_analysis, highlight
   title: Algorithm for distance list extraction from pair distribution functions
   url: https://doi.org/10.1107/S2053273319008647
   volume: '75'
@@ -5187,7 +5223,7 @@ gu;aca23:
   synopsis: a novel algorithm is developed for non-negative matrix factorization calculations
     using alternating non-negative least squares (ANLS) together with the active set
     method.
-  tags: nmf, algorithm, theory
+  tags: nmf, algorithm, theory, highlight, ml
   title: A fast two-stage algorithm for non-negative matrix factorization in smoothly
     varying data
   url: https://arxiv.org/abs/2101.08431
@@ -5369,6 +5405,7 @@ guguc;sa18:
   optnote: ''
   optwwwlanl: ''
   pages: eaat3672
+  tags: disulphide
   title: Magnetism in Semiconducting Molybdenum Dichalcogenides
   url: https://advances.sciencemag.org/content/4/12/eaat3672
   volume: '4'
@@ -5609,7 +5646,7 @@ hitt;nc21:
     nanoparticle electrocatalysts that are good for CO2 reduction.  PDF is used to
     to study the structure of the resulting good performing catalyst nanoparticles
   tags: lab-on-a-chip, high-throughput, screening, in-situ, metallic_nanoparticle,
-    nanoparticle
+    nanoparticle, highlight
   title: A High Throughput Optical Method for Studying Composition Effects in Electrochemical
     {CO$_2$} Reduction Catalysts
   url: https://www.nature.com/articles/s41467-021-21342-w
@@ -5773,6 +5810,9 @@ huynh;jacs15:
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: 14887–14904
+  synopsis: oxide nanoparticles used as catalysts in solar fuel production were determined
+    from PDF data
+  tags: solar_fuel, catalyst, mno, highlight
   title: Nature of activated manganese oxide for oxygen evolution
   url: https://pubs.acs.org/doi/pdf/10.1021/jacs.5b06382
   volume: '137'
@@ -5886,6 +5926,9 @@ jense;ij15:
   optannote: ''
   optwwwlanl: ''
   pages: 481-489
+  synopsis: The first demonstration of quantitative PDFs of nanoparticles in a thin
+    film geometry at normal incidence.  The demonstration of thin film PDF, tfPDF.
+  tags: tfpdf, thin_film, highlight
   title: Demonstration of thin film pair distribution function analysis ({tfPDF})
     for the study of local structure in amorphous and crystalline thin films
   url: http://journals.iucr.org/m/issues/2015/05/00/yu5008/
@@ -5993,7 +6036,7 @@ jense;m21:
     the presence of polymers placed there to stabilize the wood by conservators but
     also found nanoparticle impurities that came from anerobic bacteria that lived
     in the wood in the sea-bed before it was raised.
-  tags: ctpdf, cultural_heritage, mary_rose
+  tags: ctpdf, cultural_heritage, mary_rose, highlight
   title: Location and characterization of heterogeneous phases within {Mary Rose}
     wood
   url: https://doi.org/10.1016/j.matt.2021.09.026
@@ -6050,7 +6093,7 @@ jense;prb12:
   optannote: ''
   optwwwlanl: ''
   pages: '085313'
-  tags: emphanisis, pbte, hilight
+  tags: emphanisis, pbte, highlight
   title: Lattice dynamics reveals a local symmetry breaking in the emergent dipole
     phase of {PbTe}
   url: http://prb.aps.org/abstract/PRB/v86/i8/e085313
@@ -6117,6 +6160,10 @@ jeong;prb01:
   nb: ' scalloy, art '
   note: ''
   pages: '205202'
+  synopsis: A seminal papers that demonstrates that PDF works in practice.  In semiconductor
+    alloys there are two local bonds, Ga-As and Se-As and these should be visibke
+    in the local structure but not in the average structure and this as demonstrated.
+  tags: highlight, semiconducor_alloy, gaas,
   title: Local structure study of {In$_{x}$Ga$_{1-x}$As} semiconductor alloys using
     high energy synchrotron {X-ray} diffraction
   url: http://journals.aps.org/prb/abstract/10.1103/PhysRevB.63.205202
@@ -6223,6 +6270,8 @@ juhas;aca08:
   optwwwlanl: ''
   optwwwpub: ''
   pages: 631--640
+  synopsis: The LIGA algorithm is described in full detail
+  tags: structure_solution, liga
   title: The Liga algorithm for ab initio determination of nanostructure
   url: http://dx.doi.org/10.1107/S0108767308027591
   volume: '64'
@@ -6249,6 +6298,9 @@ juhas;aca15:
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: 562-568
+  synopsis: The an approach for multi-modal modeling called complex modeling is described.  This
+    paper also describes the diffpy-cmi software program which implements the idea
+  tags: highlight, software, diffpy-cmi, complex_modeling
   title: 'Complex Modeling: a strategy and software program for combining multiple
     information sources to solve ill-posed structure and nanostructure inverse problems'
   url: http://dx.doi.org/10.1107/S2053273315014473
@@ -6299,6 +6351,11 @@ juhas;jac13:
   optkeywords: Condensed Matter - Materials Science
   optprimaryclass: cond-mat.mtrl-sci
   pages: 560-566
+  synopsis: A very fast data reduction algorithm is described for reducing 1D powder
+    diffraction data to PDFs.  It reduces the arduous human intensive reduction from
+    minutes to microseconds using an ad hoc algorithm that is based on physics and
+    mathematical properties of the PDF functions.
+  tags: pdfgetx3, data_analysis, data_reduction, highlight
   title: '{{PDFgetX3}: A rapid and highly automatable program for processing powder
     diffraction data into total scattering pair distribution functions}'
   url: http://dx.doi.org/10.1107/S0021889813005190
@@ -6367,6 +6424,9 @@ juhas;n06:
   optannote: ''
   optwwwlanl: ''
   pages: 655--658
+  synopsis: The first demonstration of ab initio structure solution from atomic pair
+    distribution function data.  A description and demonstration of the LIGA algorithm
+  tags: highlight, structure_solution, liga
   title: Ab initio determination of solid-state nanostructure
   url: http://www.nature.com/nature/journal/v440/n7084/abs/nature04556.html
   volume: '440'
@@ -6539,7 +6599,8 @@ kimbe;nm23:
     dependence of atomic motions in the crystal lattice.
   synopsis: First presentation of variable shutter PDF (vsPDF) and its application
     to study the dynamic fluctuations at high temperature in cubic GeTe
-  tags: vspdf, variable_shutter_pdf, gete, anharmonicity, ferroelectric, ins, nsf2pcv
+  tags: vspdf, variable_shutter_pdf, gete, anharmonicity, ferroelectric, ins, nsf2pcv,
+    highlight
   title: Dynamic crystallography reveals spontaneous anisotropy in cubic {GeTe}
   url: https://www.nature.com/articles/s41563-023-01483-7
   volume: ''
@@ -6632,7 +6693,7 @@ kjaer;dd22:
   synopsis: An approach is demonstrated that can predict the structure of a material
     from its PDF using a machine learning approach (a graph-based conditional autoencoder).  It
     is shown to work on simple close-packed clusters.
-  tags: ml, machine_learning, deep_learning, dl, structure_solution, udgp, gnn, cvae
+  tags: ml, deep_learning, dl, structure_solution, udgp, gnn, cvae
   title: 'DeepStruc: Towards structure solution from pair distribution function data
     using deep generative models'
   url: https://doi.org/10.1039/D2DD00086E
@@ -7591,7 +7652,7 @@ liu;jac21:
     weights that closely followed the time evolution of the real physical components.  Software
     was also presented that allowed nmf to take place even when data were streaming
     from an experiment as well as in batch mode from a finished experiment.
-  tags: nmf, streaming
+  tags: nmf, streaming, ml
   title: Validation of non-negative matrix factorization for rapid assessment of large
     sets of atomic pair-distribution function (PDF) data
   url: https://doi.org/10.1107/S160057672100265X
@@ -8558,6 +8619,9 @@ pauly;jacs99:
   nb: ' art, chem,'
   optnote: "Unpublished. (preprint available at\nhttp://xxx.lanl.gov/abs/cond-mat/99)"
   pages: '8835'
+  synopsis: A very early paper where PDF was used to structurally characterize the
+    framework structure of a mesoporous silica.  highly cited.
+  tags: silica, molecular_sieve, nanoporous, highlight
   title: Textural mesoporosity and the catalytic activity of mesoporous molecular
     sieves with wormhole framework structures
   url: http://pubs.acs.org/doi/abs/10.1021/ja991400t
@@ -8584,6 +8648,7 @@ peter;jac00:
   obsnote: "published. See also,\nhttp://www.pa.msu.edu/cmp/billinge-group/programs/PDFgetN"
   optnote: (copyright International Union of Crystallography)
   pages: 1192-1192
+  tags: data_reduction, pdfgetn, software, highlight
   title: '{PDFgetN:} a user-friendly program to extract the total scattering structure
     function and the pair distribution function from neutron powder diffraction data'
   url: http://dx.doi.org/10.1107/S0021889800007123
@@ -8745,6 +8810,8 @@ petko;jacs02:
   optnumber: ''
   optwwwlanl: http://arxiv.org/abs/cond-mat/0108338
   pages: '10157'
+  synopsis: A highly cited example of PDF applied to disorder in layere materials
+  tags: highlight, v205, layered, turbostratic_disorder
   title: Structure of {V$_{2}$O$_{5}$.nH$_{2}$O} xerogel solved by the atomic pair
     distribution function technique
   url: http://pubs.acs.org/doi/abs/10.1021/ja026143y
@@ -9085,6 +9152,11 @@ petko;prl99:
   nb: ' art, scalloy, highlight '
   number: '20'
   pages: 4089--4092
+  synopsis: The first of two seminal papers that demonstrates that PDF works in practice.  In
+    semiconductor alloys there are two local bonds, Ga-As and Se-As and these should
+    be visibke in the local structure but not in the average structure and this as
+    demonstrated.
+  tags: highlight, semiconducor_alloy, gaas,
   title: High real-space resolution measurement of the local structure of {Ga$_{1-x}$In$_{x}$As}
     using {X-ray} diffraction
   url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.83.4089
@@ -9175,23 +9247,27 @@ pokra;unpub23:
     - Benjamin Abecassis
     - Kirsten M. Ø. Jensen
     - Jonathan De Roo
-  doi: ''
+  doi: 10.1021/acsnano.3c02149
   entrytype: article
   facility: esrf, id15, desy, p21.1
   grant: dmref19
-  journal: ''
-  month: tbd
+  journal: ACS Nano
+  month: may
   nb: ' art '
   note: submitted
   number: ''
   optannote: ''
   optwwwlanl: ''
   pages: ''
-  synopsis: ''
+  synopsis: Careful PDF analysis plus SAXS and property measurements clearly show
+    the unexpected appearance of an intermediate amorphous phase during the early
+    stage of synthesis of ZrO2 nanocrystals. This allowed fundamental aspects of the
+    solution synthesis nucleation mechanism to be understood for oxide nanoparticles
+    for the first time.
   tags: zro2, synthesis, solution, hydrothermal, amorphous_intermediate
-  title: An amorphous phase precedes crystallization; unraveling the colloidal synthesis
-    of zirconium oxide nanocrystals
-  url: ''
+  title: 'An amorphous phase precedes crystallization: unraveling the colloidal synthesis
+    of zirconium oxide nanocrystals'
+  url: https://doi.org/10.1021/acsnano.3c02149
   volume: ''
   year: '2023'
 pouch;b;hobdamlitps20:
@@ -9378,7 +9454,9 @@ proff;jac99:
   optnote: ''
   optnumber: ''
   pages: 572--575
-  tags: modeling method
+  synopsis: The first version of the PDFFIT program that used least squares and small
+    box modeling to extract structural information from PDFs
+  tags: highlight, software, fitting, modeling
   title: '{PDFFIT}, a program for full profile structural refinement of the atomic
     pair distribution function'
   url: http://journals.iucr.org./j/issues/1999/03/00/gl0603/gl0603.pdf
@@ -9620,9 +9698,9 @@ rakit;am23:
   synopsis: The scanning nansotructure electron microscopy (SNEM) method is demonstrated
     for the first time by looking at a bulk metallic glass that has been hot-rolled
     between polycrystalline nickel.
-  tags: snem, epdf, bmg
-  title: Studying Heterogeneities in Local Nanostructure with Scanning Nanostructure
-    Electron Microscopy (SNEM)
+  tags: snem, epdf, bmg, highlight
+  title: Mapping structural heterogeneity at the nanoscale with scanning nano-structure
+    electron microscopy (SNEM)
   url: https://doi.org/10.1016/j.actamat.2022.118426
   volume: '242'
   year: '2023'
@@ -11186,7 +11264,7 @@ thatc;aa22:
     data. This paper describes the utility of this application through a description
     of the interface, along with two examples of how the app has been used to accelerate
     the analysis process.
-  tags: in_situ, nmf, pdf_method
+  tags: in_situ, nmf, pdf_method, ml
   title: '{nmfMapping}: a cloud-based web application for non-negative matrix factorization
     of powder diffraction and pair distribution function datasets'
   url: https://scripts.iucr.org/cgi-bin/paper?S2053273322002522
@@ -11379,6 +11457,7 @@ toby;aca04:
   optnumber: ''
   optwwwlanl: http://arxiv.org/abs/cond-mat/
   pages: 315-317
+  tags: uncertainties, errors
   title: Determination of standard uncertainties in fits to pair distribution functions
   url: http://scripts.iucr.org/cgi-bin/paper?th5001
   volume: '60'
@@ -11433,7 +11512,7 @@ todd;ic20:
   optannote: ''
   optwwwlanl: ''
   pages: 13639–13650
-  tags: in_situ, synthesis, nmf
+  tags: in_situ, synthesis, nmf, ml
   title: Defect-accommodating intermediates yield selective low-temperature synthesis
     of {YMnO$_3$} polymorphs
   url: https://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.0c02023
@@ -12236,6 +12315,10 @@ yang;aca20:
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: 395-409
+  synopsis: The concept of model selection and screening of models is extended to
+    crystalline materials for the first time.  An implementation of this data-centric
+    approach to structure studies is presented.
+  tags: highlight, structuremining, structure_solution, model_selection
   title: 'Structure-mining: screening structure models by automated fitting to the
     atomic pair distribution function over large numbers of models'
   url: https://journals.iucr.org/a/issues/2020/03/00/vk5039/

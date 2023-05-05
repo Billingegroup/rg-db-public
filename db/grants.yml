@@ -1155,16 +1155,32 @@
     - institution: columbiau
       name: Simon Billinge
       position: pi
-      subaward_amount: 70000
+      subaward_amount: 35000
     - institution: columbiau
       name: Sanat Kumar
       position: copi
-      subaward_amount: 0
+      subaward_amount: 35000
     - institution: columbiau
       name: Tian Zheng
       position: copi
       subaward_amount: 0
   title: Applying Machine Learning to Valuable Data in the Physical Sciences and Engineering
+22_dsi_seed:
+  amount: 75000
+  awardnr: n/a
+  begin_date: 2023-03-01
+  end_date: 2024-02-28
+  funder: Data Science Institute @ Columbia University
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: co-pi
+      subaward_amount: 37500
+    - institution: columbiau
+      name: Hod Lipson
+      position: pi
+      subaward_amount: 37500
+  title: Deep Generative Powder Crystallography
 22_iucr:
   amount: 51500
   awardnr: n/a

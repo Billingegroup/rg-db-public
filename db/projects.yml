@@ -1,4 +1,5 @@
 JUAMI:
+  active: true
   description: Collaboration to build research ties between PhD materials science
     researchers in East Africa, the US, and beyond.
   logo: https://www.juami.org/wp-content/uploads/2020/03/Juami-Words-240.png
@@ -130,7 +131,7 @@ diffpy:
   type: ossoftware
   website: https://github.com/diffpy
 dmref15:
-  active: true
+  active: false
   description: Advancing applied mathematics and computational approaches to the study
     of the nanostructure of materials
   grant: dmref15
@@ -219,6 +220,30 @@ dmref19:
   grant: dmref19
   group: bg
   highlights:
+    - year: 2022
+      month: 9
+      description: Demonstrated the ability to study texture (crystalline preferred
+        orientation) in the atomic PDF for the first time.  This was not previously
+        possible.  It was done using a novel approach of measuring a full 3D PDF using
+        synchrotron x-radiation and using equations developed in the group in 2018
+        to separate the signal into a structural part and an orientational part.
+    - year: 2022
+      month: 8
+      description: Three key papers came out describing novel use of machine learning,
+        including generative ML, to extract structural information from scattering
+        data. One used interpretive ML to find chemically plausible clusters that
+        fit low-information local structural measurements, another used a convolutional
+        variable autoencoder to do structure solution from atomic pair distribution
+        function (PDF) data for the first time, albeit on a limited class of close-packed
+        structures.
+    - year: 2023
+      month: 3
+      description: Developed a novel variable-shutter atomic  pair distribution function
+        (vsPDF) technique that allowed us to use neutrons to image fluctuating local
+        structural domains in important thermoelectric material GeTe. This allowed
+        us to develop a new theory for understanding the origin of the very low thermal
+        conductivity that gives the material its useful thermoelectric property.  This
+        work was published in Nature Materials.
     - year: 2019
       month: 6
       description: Received funding
@@ -421,7 +446,8 @@ matsci_colab:
   highlights:
     - year: 2022
       month: 5
-      description: Proposal submitted to fund the development of the course
+      description: Proposal funded to develop course to teach ML to physical science
+        and engineering students in Columbia Engineering
   name: Applying machine learning to valuable data in the physical sciences and engineering
   team:
     - name: sbillinge
