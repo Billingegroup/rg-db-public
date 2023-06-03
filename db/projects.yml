@@ -6,25 +6,27 @@ JUAMI:
   name: 'JUAMI: Joint Undertaking for an African Materials Institute'
   other: []
   repo: https://github.com/juami/pytentiostat
+  highlights:
+    - year: 2023
+      month: 6
+      description: The fourth JUAMI school takes place at the University of 
+        Nairobi in Kenya.
   team:
-    - position: Lead Developer
-      name: aplymill
-      begin_year: 2019
-    - position: Developer
-      name: mspencer
-      begin_year: 2019
-    - position: Developer
-      name: Yao Tong
-      begin_year: 2019
-    - position: Developer
-      name: jhitt
-      begin_year: 2019
+    - position: PI
+      name: shaile
+      begin_year: 2010
     - position: PI
       name: sbillinge
       begin_year: 2010
-    - position: Developer
-      name: wzyuan
-      begin_year: 2019
+    - position: Co-PI
+      name: tmallouk
+      begin_year: 2016
+    - position: Co-PI
+      name: sskabalak
+      begin_year: 2018
+    - position: Former Co-PI
+      name: pgreen
+      begin_year: 2010
   website: http://juami.org
 coder:
   active: true
@@ -78,12 +80,18 @@ coder:
     - name: sbillinge
       position: Mentor
       begin_year: 2021
+    - name: bozer
+      position: masters
+      begin_year: 2022
+      end_year: 2023
     - name: sskjaervoe
       position: postdoc
       begin_year: 2021
+      end_year: 2022
     - name: jumana
       position: ug
       begin_year: 2021
+      end_year: 2023
     - name: zthathcher
       position: gra
       begin_year: 2021
@@ -101,7 +109,8 @@ coder:
       begin_year: 2021
     - name: eshen
       position: gra
-      begin_year: 2022
+      begin_year: 2021
+      end_year: 2022
   type: outreach
   website: ''
 diffpy:
@@ -110,23 +119,28 @@ diffpy:
     function (PDF) data.
   group: bg
   highlights:
+    - year: 2023
+      month: 5
+      description: Major release of PDFgui v2.0, the first python 3 version of
+        the widely used PDFgui program
     - year: 2019
       month: 4
-      description: Major new release (3.0) this year, upgrading diffpy to use python
+      description: Major new release (3.0) this year, upgrading diffpy-cmi to use python
         3
   name: Diffpy
   team:
     - name: sbillinge
       position: Mentor and developer
       begin_year: 2005
-    - name: pjuhas
+    - name: Long Yang
+      begin_year: 2018
       position: lead developer
+    - name: pjuhas
+      position: developer
       begin_year: 2005
     - name: chliu
       begin_year: 2017
-      position: developer
-    - name: Long Yang
-      begin_year: 2018
+      end_year: 2021
       position: developer
   type: ossoftware
   website: https://github.com/diffpy
