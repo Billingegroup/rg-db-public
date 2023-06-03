@@ -4782,6 +4782,33 @@
   status: accepted
   title: Do materials have a genome, and if they do, what can we do with it?
   type: invited
+2305sb_usheffield:
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
+    are at the heart of next generation technological solutions in sustainable energy,
+    effective new pharmaceuticals and environmental remediation.  A key to making
+    progress is to be able to understand the nanoparticle structure, the arrangements
+    of atoms in the nanoparticles and nanoscale structures. Also critical is understanding
+    the distribution of the nanoparticles and how they change in time as devices run
+    and reactions take place.  We use advanced x-ray, neutron and electron scattering
+    methods to get at this problem.  I will talk about these methods and show some
+    recent success-stories in the fields of sustainable energy, environmental remediation
+    and cultural heritage preservation.  However, I will also discuss the fundamental
+    limitations on our ability to extract information from the data and how we are
+    now turning to machine learning and artificial intelligence techniques to give
+    more insights.
+  authors:
+    - sbillinge
+  begin_date: 2023-05-25
+  department: chemistry
+  end_date: 2023-05-26
+  institution: usheffield
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms'
+  type: seminar
 2308sb_cityuniversityofhongkong,kowloon,hongkong:
   abstract: tbd
   authors:
@@ -4797,7 +4824,7 @@
   status: accepted
   title: tbd
   type: invited
-  webinar: true
+  webinar: false
 2308sb_sanfrancisco:
   abstract: " Hard x-rays tend to make experiments easy.  They are penetrating allowing\
     \ in situ, operando and spatially resolved measurements.  Large regions of reciprocal\
@@ -4829,14 +4856,14 @@
   begin_date: 2023-08-13
   end_date: 2023-08-17
   location: San Francisco
-  meeting_name: Data-Driven Design of Energy Materials workshop at the American Chemical
+  meeting_name: Data-Driven Design of Energy Materials Workshop at the American Chemical
     Society (ACS) Fall Meeting
   notes: []
   project:
     - all
   status: accepted
-  title: AI and machine learning aided extraction of static and dynamic local structural
-    information from total scattering data
+  title: '{AI} and machine learning aided extraction of static and dynamic local structural
+    information from total scattering data'
   type: invited
 2308sb_universitadiroma"lasapienza",rome,italy:
   abstract: Material properties depend sensitively on the atomic structure, and on
@@ -4884,6 +4911,22 @@
   meeting_name: symposium "Emerging Challenges and Opportunities in Materials by Design"
     at the MRS fall meeting
   notes: []
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: invited
+2404sb_seattle,wa:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2024-04-22
+  end_date: 2024-04-26
+  location: Seattle, WA
+  meeting_name: Symposium Machine Learning Methods, Data and Automation for Sustainability
+    and Electronics at the Spring meeting of the Materials Research Society
+  notes:
+    - Keith Butler inviter
   project:
     - all
   status: accepted

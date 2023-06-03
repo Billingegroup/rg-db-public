@@ -1397,6 +1397,26 @@ eculbertson:
   service: []
   skills: []
   title: ''
+edennis:
+  active: true
+  aka: []
+  avatar: "https://github.com/\x16eryndennis.png"
+  bio: bio
+  education: []
+  email: ezd5337@psu.edu
+  employment:
+    - begin_date: 2023-05-31
+      end_date: 2023-08-04
+      organization: columbiau
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: "\x16eryndennis"
+  grp_mtg_active: true
+  name: Eryn Dennis
+  orcid_id: ''
+  position: undergraduate researcher
 ekjaer:
   active: false
   aka:
@@ -2356,7 +2376,8 @@ jwlee:
   active: true
   aka: []
   avatar: https://github.com/jaewon078.png
-  bio: Jaewon Lee is currently a student at Columbia University majoring in Computer Science. 
+  bio: Jaewon Lee is currently a student at Columbia University majoring in Computer
+    Science.
   education:
     - institution: Columbia University
       begin_year: 2022
@@ -5259,6 +5280,26 @@ swhan:
       group: bg
   name: Sang-Wook Han
   position: unknown
+swu:
+  active: true
+  aka: []
+  avatar: "https://github.com/\x16SeanWu25.png"
+  bio: bio
+  education: []
+  email: "\x16sean.wu@pepperdine.edu"
+  employment:
+    - begin_date: 2023-05-31
+      end_date: 2023-08-04
+      organization: columbiau
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: "\x16SeanWu25"
+  grp_mtg_active: true
+  name: Sean Wu
+  orcid_id: ''
+  position: undergraduate researcher
 syxue:
   active: false
   aka:
