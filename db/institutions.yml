@@ -52,6 +52,17 @@ academiasinica:
   updated: 2020-03-17 21:04:13.879916
   uuid: cdc065a2-cceb-4957-9c83-6a8e36274fdf
   year: 2020
+adamau:
+  city: Adama
+  country: Ethiopia
+  date: 2023-05-05
+  departments:
+    physics:
+      name: Department of Physics
+  name: Adama Science and Technology University
+  updated: 2023-05-05 18:56:29.517950
+  uuid: 5fcae255-a086-4d11-8b4a-015472e287cb
+  zip: '1888'
 addisababau:
   aka:
     - University College of Addis Ababa
@@ -2382,6 +2393,17 @@ ubern:
   name: University of Bern
   state: ''
   zip: ''
+ubirmingham:
+  city: Birmingham
+  country: UK
+  date: 2023-05-05
+  departments:
+    chemistry:
+      name: School of Chemistry
+  name: University of Birmingham
+  updated: 2023-05-05 18:53:25.222794
+  uuid: c0b96078-19dd-4105-a2b3-60df99e2adca
+  zip: B15 2TT
 ubourgogne:
   city: Dijon
   country: France
@@ -3150,6 +3172,8 @@ usheffield:
   city: Sheffield
   country: UK
   departments:
+    chemistry:
+      name: Department of Chemistry
     physics:
       name: Department of Physics and Astronomy
     cheme:
