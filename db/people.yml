@@ -347,6 +347,26 @@ ashaaban:
   grp_mtg_active: false
   name: Ahmed Shaaban
   position: undergraduate research assistant
+ayang:
+  active: true
+  aka: []
+  avatar: https://github.com/Sparks29032.png
+  bio: bio
+  education: []
+  email: ay2546@columbia.edu
+  employment:
+    - begin_date: 2023-06-01
+      end_date: 2023-08-31
+      organization: columbiau
+      position: undergraduate research assistant
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: Sparks29032
+  grp_mtg_active: true
+  name: Andrew Yang
+  orcid_id: ''
+  position: undergraduate research assistant
 bfrandsen:
   active: false
   aka:
@@ -382,7 +402,7 @@ bfrandsen:
   orcid_id: 0000-0002-4047-9453
   position: assistant professor
 bozer:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/berrakozer.png
   bio: Berrak is from Istanbul, Turkey. She acquired her Bachelor of Science Degree
@@ -424,7 +444,7 @@ bozer:
       group: bg
       status: ms
   github_id: berrakozer
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Berrak Ozer
   position: masters research assistant
 btabanpour:
@@ -499,7 +519,7 @@ cbracy:
   orcid_id: 0000-0001-8049-356X
   position: graduate research assistant
 cbullard:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/chloeann95.png
   bio: Chloë grew up in Michigan and attended Michigan State University for her undergraduate
@@ -1055,7 +1075,7 @@ dhsu:
   skills: []
   title: Prof.
 dpeters:
-  active: true
+  active: false
   aka:
     - Dom
   avatar: https://github.com/dpeters001.png
@@ -1080,7 +1100,7 @@ dpeters:
       advisor: sbillinge
       status: ug
   github_id: dpeters001
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Dominic Peters
   orcid_id: 0000-0001-5893-2992
   position: summer research fellow
@@ -2231,7 +2251,7 @@ jeaster:
   orcid_id: ''
   position: Undergraduate Researcher
 jgriffiths:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/j-griffo.png
   bio: ''
@@ -2240,13 +2260,13 @@ jgriffiths:
   employment:
     - begin_date: 2022-01-14
       end_date: 2024-01-13
-      organization: columbiau
+      organization: bnl
       position: post-doctoral scholar
       group: bg
       advisor: sbillinge
       status: pd
   github_id: j-griffo
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Jack Griffiths
   orcid_id: 0000-0002-4052-1770
   position: Post Doctoral Scholar
@@ -2297,7 +2317,7 @@ jliu:
   position: engineer
   position_full: Software Development Engineer
 jumana:
-  active: true
+  active: false
   aka:
     - Jaylyn Cielo Umana
     - J.C. Umana
@@ -2323,7 +2343,7 @@ jumana:
       status: undergrad
   github_id: jc-umana
   google_scholar_url: https://scholar.google.com/citations?user=sapBk3kAAAAJ&hl=en
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Jaylyn C. Umana
   orcid_id: 0000-0002-1882-8653
   position: undergraduate research assistant
@@ -3804,7 +3824,7 @@ rlee:
   orcid_id: ''
   position: undergrad researcher
 rnzhang:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/ruining99.png
   bio: bio
@@ -3812,14 +3832,14 @@ rnzhang:
   email: rz2373@columbia.edu
   employment:
     - begin_date: 2022-08-30
-      end_date: 2026-06-30
+      end_date: 2023-05-31
       organization: columbiau
-      position: graduate research assistant
+      position: masters researcher
       group: bg
       advisor: sbillinge
       status: phd
   github_id: ruining99
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Ruining Zhang
   orcid_id: 0000-0002-8026-9338
   position: graduate research assistant
@@ -5193,7 +5213,7 @@ spattanaik:
   name: Sidharta Pattanaik
   position: unknown
 sskjaervoe:
-  active: true
+  active: false
   aka:
     - Sandra H. Skjærvø
   avatar: https://github.com/sandraskj.png
@@ -5201,6 +5221,10 @@ sskjaervoe:
   education: []
   email: shs2196@columbia.edu
   employment:
+    - begin_year: 2022
+      begin_month: 8
+      organization: Cell Press
+      position: Editorial Assistant
     - begin_year: 2020
       begin_month: 8
       end_year: 2022
