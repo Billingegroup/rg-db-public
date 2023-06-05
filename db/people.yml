@@ -347,6 +347,26 @@ ashaaban:
   grp_mtg_active: false
   name: Ahmed Shaaban
   position: undergraduate research assistant
+ayang:
+  active: true
+  aka: []
+  avatar: https://github.com/Sparks29032.png
+  bio: bio
+  education: []
+  email: ay2546@columbia.edu
+  employment:
+    - begin_date: 2023-06-01
+      end_date: 2023-08-31
+      organization: columbiau
+      position: undergraduate research assistant
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: Sparks29032
+  grp_mtg_active: true
+  name: Andrew Yang
+  orcid_id: ''
+  position: undergraduate research assistant
 bfrandsen:
   active: false
   aka:
