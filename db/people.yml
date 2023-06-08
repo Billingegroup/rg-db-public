@@ -1420,9 +1420,18 @@ eculbertson:
 edennis:
   active: true
   aka: []
-  avatar: "https://github.com/\x16eryndennis.png"
-  bio: bio
-  education: []
+  avatar: "https://github.com/eryndennis.png"
+  bio: Eryn is a second year undergraduate student at Penn State University.
+    She is studying Applied Data Sciences with an emphasis in Human-Centered Design and Development.
+    She is originally from Philadelphia, PA, and in her free time she enjoys singing, working out, and crocheting.
+    She is conducting research with the Columbia SURE program for Summer 2023, and she's in the Billinge lab group
+    working on the ML-edex-4STEM project.
+    She's super excited to be on Columbia's campus and in New York City for the Summer!
+  education:
+    - begin_year: 2022
+      being_month: 08
+      degree: B.S. in Applied Data Sciences; emphasis in Human-Centered Design and Development
+      institution: Penn State University
   email: ezd5337@psu.edu
   employment:
     - begin_date: 2023-05-31
