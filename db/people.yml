@@ -1420,17 +1420,19 @@ eculbertson:
 edennis:
   active: true
   aka: []
-  avatar: "https://github.com/eryndennis.png"
-  bio: Eryn is a second year undergraduate student at Penn State University.
-    She is studying Applied Data Sciences with an emphasis in Human-Centered Design and Development.
-    She is originally from Philadelphia, PA, and in her free time she enjoys singing, working out, and crocheting.
-    She is conducting research with the Columbia SURE program for Summer 2023, and she's in the Billinge lab group
-    working on the ML-edex-4STEM project.
-    She's super excited to be on Columbia's campus and in New York City for the Summer!
+  avatar: https://github.com/eryndennis.png
+  bio: Eryn is a second year undergraduate student at Penn State University. She is
+    studying Applied Data Sciences with an emphasis in Human-Centered Design and Development.
+    She is originally from Philadelphia, PA, and in her free time she enjoys singing,
+    working out, and crocheting. She is conducting research with the Columbia SURE
+    program for Summer 2023, and she's in the Billinge lab group working on the ML-edex-4STEM
+    project. She's super excited to be on Columbia's campus and in New York City for
+    the Summer!
   education:
     - begin_year: 2022
       begin_month: 8
-      degree: B.S. in Applied Data Sciences; emphasis in Human-Centered Design and Development
+      degree: B.S. in Applied Data Sciences; emphasis in Human-Centered Design and
+        Development
       institution: Penn State University
   email: ezd5337@psu.edu
   employment:
@@ -2022,6 +2024,26 @@ iadnan:
   name: Ibrahim Adnan
   orcid_id: ''
   position: Masters Researcher
+idouglas:
+  active: true
+  aka: []
+  avatar: https://github.com/.png
+  bio: bio
+  education: []
+  email: "\x16Imanis.douglas@gmail.com"
+  employment:
+    - begin_date: 2023-06-09
+      end_date: 2023-08-15
+      organization: columbiau
+      position: summer undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: ''
+  grp_mtg_active: true
+  name: Imani Douglas
+  orcid_id: ''
+  position: summer undergraduate researcher
 ikjeong:
   active: false
   aka:
@@ -2562,7 +2584,7 @@ klchen:
       advisor: sbillinge
       status: undergrad
   github_id: KlynnC
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Kaylynn Chen
   orcid_id: 0000-0002-2940-3669
   position: Undergraduate Researcher
@@ -2743,7 +2765,7 @@ llan:
       advisor: sbillinge
       status: phd
   github_id: lanikaling
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Ling Lan
   orcid_id: 0000-0001-6267-4834
   position: graduate research assistant
@@ -3828,7 +3850,7 @@ rlee:
       advisor: sbillinge
       status: undergrad
   github_id: sl5035
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Robin Lee
   orcid_id: ''
   position: undergrad researcher

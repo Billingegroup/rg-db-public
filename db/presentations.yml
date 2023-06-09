@@ -4809,6 +4809,35 @@
   title: 'From saving pharmaceuticals to saving priceless historical artefacts via
     saving the planet: understanding nanostructure with x-rays and algorithms'
   type: seminar
+2306sb_grpmeeting:
+  abstract: A high level overview of methods for materials characterization
+  authors:
+    - sbillinge
+  begin_date: 2023-06-19
+  end_date: 2023-06-30
+  location: grp meeting
+  meeting_name: group meeting
+  notes: []
+  project:
+    - all
+  status: postponed
+  title: Introduction to Materials Characterization
+  type: invited
+  webinar: true
+2306sb_universityofnairobi,nairobi,kenya:
+  abstract: A high level overview of methods for materials characterization
+  authors:
+    - sbillinge
+  begin_date: 2023-06-19
+  end_date: 2023-06-30
+  location: University of Nairobi, Nairobi, Kenya
+  meeting_name: JUAMI School on Materials Science for Sustainable Energy Applications
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Introduction to Materials Characterization
+  type: invited
 2308sb_cityuniversityofhongkong,kowloon,hongkong:
   abstract: tbd
   authors:

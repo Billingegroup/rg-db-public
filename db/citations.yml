@@ -428,64 +428,6 @@ assef;sa20:
   wwwemail: ''
   wwwpub: ''
   year: '2020'
-suzan;prb23:
-  ackno: We acknowledge Luca Geliso and Ivan Vartaniants for the helpful 
-    discussions about their parallel study of Pt thin films. Data analysis was 
-    supported by the DOE Office of Science by Brookhaven National Laboratory 
-    under Contract No. DESC0012704. The Center for Functional Nanomaterials,
-    used for the fabrication of the thin films, is a U.S. DOE Office of Science 
-    User Facility operated for the DOE Office of Science by Brookhaven National 
-    Laboratory under Contract No. DESC0012704. Work performed at UCL was 
-    supported by EPSRC. S.K., S.C., and H.K. acknowledge the support
-    by the National Research Foundation of Korea (NRF-2021R1A3B1077076). This 
-    work was supported by the GSDC for data computing and the KREONET for 
-    network service provided by the KISTI. For the purpose of open access, the 
-    author has applied a Creative Commons Attribution (CC BY) license to any 
-    Author Accepted Manuscript version arising.
-  author:
-    - Ana F. Suzana
-    - Robert Koch
-    - Longlong Wu
-    - Tadesse A. Assefa
-    - Sungwon Kim
-    - Sungwook Choi
-    - Heemin Lee
-    - Sunam Kim
-    - Jae Hyuk Lee
-    - Sang-Youn Park
-    - Daewoong Nam
-    - Sangsoo Kim
-    - Hyojung Hyun
-    - Kyung Sook Kim
-    - Gwen Wright
-    - Emil S. Bozin
-    - Changyong Song
-    - Hyunjung Kim
-    - Simon J. L. Billinge
-    - Ian K. Robinson
-  day: '24'
-  doi: ''
-  entrytype: article
-  facility: palxfel
-  grant: fwp17
-  journal: Phys. Rev. B
-  month: may
-  nb: fy23
-  number: ''
-  optannote: ''
-  note: To be published
-  optwwwlanl: ''
-  pages: ''
-  synopsis: Ultrafast laser pump x-ray probe experiments on Pd thin films reveal 
-    a compression effect launched from the surface skin layer of the films followed 
-    by a temperature induced lattice expansion
-  title: 'Compressive effects in melting of Palladium thin films studied by ultrafast x-ray
-    diffraction'
-  url: ''
-  volume: ''
-  wwwemail: ''
-  wwwpub: ''
-  year: '2023'
 aydt;acsami19:
   author:
     - Aydt, Alexander P.
@@ -10959,6 +10901,63 @@ stein;cm17:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/stein_cm2017.pdf
   year: '2017'
+suzan;prb23:
+  ackno: We acknowledge Luca Geliso and Ivan Vartaniants for the helpful discussions
+    about their parallel study of Pt thin films. Data analysis was supported by the
+    DOE Office of Science by Brookhaven National Laboratory under Contract No. DESC0012704.
+    The Center for Functional Nanomaterials, used for the fabrication of the thin
+    films, is a U.S. DOE Office of Science User Facility operated for the DOE Office
+    of Science by Brookhaven National Laboratory under Contract No. DESC0012704. Work
+    performed at UCL was supported by EPSRC. S.K., S.C., and H.K. acknowledge the
+    support by the National Research Foundation of Korea (NRF-2021R1A3B1077076). This
+    work was supported by the GSDC for data computing and the KREONET for network
+    service provided by the KISTI. For the purpose of open access, the author has
+    applied a Creative Commons Attribution (CC BY) license to any Author Accepted
+    Manuscript version arising.
+  author:
+    - Ana F. Suzana
+    - Robert Koch
+    - Longlong Wu
+    - Tadesse A. Assefa
+    - Sungwon Kim
+    - Sungwook Choi
+    - Heemin Lee
+    - Sunam Kim
+    - Jae Hyuk Lee
+    - Sang-Youn Park
+    - Daewoong Nam
+    - Sangsoo Kim
+    - Hyojung Hyun
+    - Kyung Sook Kim
+    - Gwen Wright
+    - Emil S. Bozin
+    - Changyong Song
+    - Hyunjung Kim
+    - Simon J. L. Billinge
+    - Ian K. Robinson
+  day: '24'
+  doi: ''
+  entrytype: article
+  facility: palxfel
+  grant: fwp17
+  journal: Phys. Rev. B
+  month: may
+  nb: fy23
+  note: To be published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: Ultrafast laser pump x-ray probe experiments on Pd thin films reveal a
+    compression effect launched from the surface skin layer of the films followed
+    by a temperature induced lattice expansion
+  title: Compressive effects in melting of Palladium thin films studied by ultrafast
+    x-ray diffraction
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2023'
 terba;cec22:
   ackno: DH and MM would like to thank University of Trieste for partially funding
     this study through the “Fondo per la Ricerca di Ateneo (FRA 2020)” grant scheme.
