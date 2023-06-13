@@ -1,3 +1,21 @@
+doeneutron23:
+  active: true
+  description: Project to use applied mathematics and machine learning to carry out signal separation 
+    from complex heterogeneous samples in neutron scattering experiments
+  name: "Real materials in action: Data analysis developments for real materials"
+  other: []
+  repo: ''
+  highlights:
+    - year: 2023
+      month: 6
+      description: Grant awarded funding from the US Department of Energy, Office of
+        Science, Office of Basic Energy Sciences, Materials Sciences and Engineering
+        Division.
+  team:
+    - position: PI
+      name: billinge
+      begin_year: 2023
+  website: http://thebillingegroup.com
 JUAMI:
   active: true
   description: Collaboration to build research ties between PhD materials science
