@@ -1,34 +1,16 @@
-doeneutron23:
-  active: true
-  description: Project to use applied mathematics and machine learning to carry out signal separation 
-    from complex heterogeneous samples in neutron scattering experiments
-  name: "Real materials in action: Data analysis developments for real materials"
-  other: []
-  repo: ''
-  highlights:
-    - year: 2023
-      month: 6
-      description: Grant awarded funding from the US Department of Energy, Office of
-        Science, Office of Basic Energy Sciences, Materials Sciences and Engineering
-        Division.
-  team:
-    - position: PI
-      name: billinge
-      begin_year: 2023
-  website: http://thebillingegroup.com
 JUAMI:
   active: true
   description: Collaboration to build research ties between PhD materials science
     researchers in East Africa, the US, and beyond.
+  highlights:
+    - year: 2023
+      month: 6
+      description: The fourth JUAMI school takes place at the University of Nairobi
+        in Kenya.
   logo: https://www.juami.org/wp-content/uploads/2020/03/Juami-Words-240.png
   name: 'JUAMI: Joint Undertaking for an African Materials Institute'
   other: []
   repo: https://github.com/juami/pytentiostat
-  highlights:
-    - year: 2023
-      month: 6
-      description: The fourth JUAMI school takes place at the University of 
-        Nairobi in Kenya.
   team:
     - position: PI
       name: shaile
@@ -139,12 +121,12 @@ diffpy:
   highlights:
     - year: 2023
       month: 5
-      description: Major release of PDFgui v2.0, the first python 3 version of
-        the widely used PDFgui program
+      description: Major release of PDFgui v2.0, the first python 3 version of the
+        widely used PDFgui program
     - year: 2019
       month: 4
-      description: Major new release (3.0) this year, upgrading diffpy-cmi to use python
-        3
+      description: Major new release (3.0) this year, upgrading diffpy-cmi to use
+        python 3
   name: Diffpy
   team:
     - name: sbillinge
@@ -331,6 +313,24 @@ dmrefcheme16:
       begin_year: 2017
       end_year: 2018
   type: funded
+doeneutron23:
+  active: true
+  description: Project to use applied mathematics and machine learning to carry out
+    signal separation from complex heterogeneous samples in neutron scattering experiments
+  highlights:
+    - year: 2023
+      month: 6
+      description: Grant awarded funding from the US Department of Energy, Office
+        of Science, Office of Basic Energy Sciences, Materials Sciences and Engineering
+        Division.
+  name: 'Real materials in action: Data analysis developments for real materials'
+  other: []
+  repo: ''
+  team:
+    - position: PI
+      name: billinge
+      begin_year: 2023
+  website: http://thebillingegroup.com
 efrc18:
   active: true
   description: A group project led from Stony Brook University.  Columbia is a major
