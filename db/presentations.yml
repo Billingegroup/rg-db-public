@@ -4838,6 +4838,20 @@
   status: accepted
   title: Introduction to Materials Characterization
   type: invited
+2308sb_cityuniversityofhongkong,hongkong:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2023-08-06
+  end_date: 2023-08-12
+  location: City University of Hong Kong, Hong Kong
+  meeting_name: Croucher Summer Course on Neutron Scattering (CSC)
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Neutron diffraction and structure refinement
+  type: tutorial
 2308sb_cityuniversityofhongkong,kowloon,hongkong:
   abstract: tbd
   authors:
@@ -4930,20 +4944,31 @@
   status: accepted
   title: 'Handling heterogeneity: Approaches to separate signals using multiple spaces'
   type: keynote
-2311sb_boston,ma:
-  abstract: tbd
+2311sb_boston:
+  abstract: Although theory has been quite successful at using AI and machine learning
+    for predicting stable materials with potentially interesting properties, experimental
+    science is playing catch-up.  In this talk I will discuss some of the challenges
+    and emerging opportunities for using AI and machine learning to guide experiments.
+    I will focus on the use of advanced scattering sources coupled with in situ experiments.
+    I will discuss the challenges of extracting quantitative information from the
+    data in real-time but the opportunities that emerge when this is possible. I will
+    discuss challenges of data reduction in the presence of uncertainty, real time
+    analysis approaches, and the development of autonomous in situ and operando experiments
+    at synchrotrons and neutron sources.  The talk will introduce the concepts and
+    present preliminary results to illustrate them, with a goal of guiding the audience
+    to think about how they might use these approaches in their own work.
   authors:
     - sbillinge
   begin_date: 2023-11-26
   end_date: 2023-12-01
   location: Boston, MA
-  meeting_name: symposium "Emerging Challenges and Opportunities in Materials by Design"
-    at the MRS fall meeting
+  meeting_name: Emerging Challenges and Opportunities in Materials by Design Symposium,
+    Fall meeting of the Materials Research Society
   notes: []
   project:
     - all
   status: accepted
-  title: tbd
+  title: Prospects for autonomous materials discovery guided by in situ diffraction
   type: invited
 2404sb_seattle,wa:
   abstract: tbd
