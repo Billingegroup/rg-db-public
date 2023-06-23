@@ -5338,10 +5338,14 @@ swhan:
 swu:
   active: true
   aka: []
-  avatar: "https://github.com/\x16SeanWu25.png"
-  bio: bio
-  education: []
-  email: "\x16sean.wu@pepperdine.edu"
+  avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
+  bio: Sean is a third year undergraduate student at Pepperdine University. He is studying Computer Science/Mathematics and is interested in advancing medicine with machine learning. He loves to play basketball and piano. He is conducting research with the Columbia SURE program for Summer 2023.
+  education:
+    - begin_year: 2021
+      begin_month: 8
+      degree: B.S. in Computer Science/Mathematics
+      institution: Pepperdine University
+  email: sean.wu@pepperdine.edu
   employment:
     - begin_date: 2023-05-31
       end_date: 2023-08-04
@@ -5350,11 +5354,11 @@ swu:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: "\x16SeanWu25"
+  github_id: "\x16seanwu25"
   grp_mtg_active: true
   name: Sean Wu
   orcid_id: ''
-  position: undergraduate researcher
+  position: undergraduate visitor
 syxue:
   active: false
   aka:
@@ -6137,3 +6141,5 @@ zzgong:
   service: []
   skills: []
   title: Dr.
+  
+
