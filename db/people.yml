@@ -1494,7 +1494,7 @@ ekjaer:
 erowbotham:
   active: true
   aka: []
-  avatar: "https://github.com/\x16rowbotham-evan.png"
+  avatar: https://github.com/rowbotham-evan.png
   bio: bio
   education: []
   email: rowbotham.evan@gmail.com
@@ -1506,7 +1506,7 @@ erowbotham:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: "\x16rowbotham-evan"
+  github_id: rowbotham-evan
   grp_mtg_active: true
   name: Evan Rowbotham
   orcid_id: ''
@@ -3966,6 +3966,26 @@ rzyu:
       organization: iopcas
   name: Runze Yu
   position: assistant professor
+sandrello:
+  active: true
+  aka: []
+  avatar: "https://github.com/\x168bitsam.png"
+  bio: bio
+  education: []
+  email: "\x16sqa2001@columbia.edu"
+  employment:
+    - begin_date: 2023-07-07
+      end_date: 2023-08-31
+      organization: columbiau
+      position: Undergraduate Researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: "\x168bitsam"
+  grp_mtg_active: true
+  name: Samuel Andrello
+  orcid_id: ''
+  position: Undergraduate Researcher
 sbandi:
   active: false
   aka:
@@ -5359,7 +5379,10 @@ swu:
   active: true
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: Sean is a third year undergraduate student at Pepperdine University. He is studying Computer Science/Mathematics and is interested in advancing medicine with machine learning. He loves to play basketball and piano. He is conducting research with the Columbia SURE program for Summer 2023.
+  bio: Sean is a third year undergraduate student at Pepperdine University. He is
+    studying Computer Science/Mathematics and is interested in advancing medicine
+    with machine learning. He loves to play basketball and piano. He is conducting
+    research with the Columbia SURE program for Summer 2023.
   education:
     - begin_year: 2021
       begin_month: 8
@@ -6161,5 +6184,3 @@ zzgong:
   service: []
   skills: []
   title: Dr.
-  
-
