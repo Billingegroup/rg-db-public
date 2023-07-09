@@ -247,7 +247,7 @@ anker;hdcc20:
   wwwemail: ''
   wwwpub: ''
   year: '2020'
-anker;unpub22:
+anker;npjcm22:
   ackno: This work is part of a project that has received funding from the European
     Research Council (ERC) under the European Union's Horizon 2020 Research and Innovation
     Programme (grant agreement No. 804066). We are grateful to the Villum Foundation
@@ -12948,3 +12948,48 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
+kovya;jac23:
+  ackno: PDF methodology developments were funded by the DOE Office of Science by
+    Brookhaven National Laboratory under Contract No. DE-SC0012704. AK acknowledges
+    funding by the Innovation Fund Denmark (Green Chemistry for Advanced Materials
+    4107-00008B-GCAM). Samples were made at Penn State supported by the Office of
+    Basic Energy Sciences, Division of Chemical Sciences, Geosciences, and Energy
+    Bioscience, Department of Energy under contract DE-FG02-07ER15911. X-ray PDF measurements
+    were conducted on beamline 28-ID-2 of the National Synchrotron Light Source II,
+    a U.S. Department of Energy (DOE) Office of Science User Facility operated for
+    the DOE Office of Science by Brookhaven National Laboratory under Contract No.
+    DE-SC0012704.
+  author:
+    - Anton Kovyakh
+    - Soham Banerjee
+    - Chia-Hao Liu
+    - Christopher J. Wright
+    - Yuguang C. Li
+    - Thomas E. Mallouk
+    - Robert Feidenhans'l
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: xpd, nslsii
+  grant: fwp20
+  journal: J. Appl. Crystallogr.
+  month: jul
+  nb: ''
+  note: to be published
+  optnote: arxiv:2110.01656
+  notes: ''
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  tags: spatial tfpdf
+  synopsis: a semi-automated workflow is described for rapid scanning pxrd experiments 
+    are carried out.  The software infrastructure saves metadata nad raw and analyzed
+    files into a collection stored on the local hard-drive for easier reuse.  The 
+    software is available on GitHub.
+  title: Towards scanning nanostructure x-ray microscopy
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2023'

@@ -4854,6 +4854,34 @@
   title: tbd
   type: invited
   webinar: false
+2308sb_excelsusstructuralsolutions,stjohanncampus,basel,switzerlan:
+  abstract: Amorphous, nanoparticulate, nanoporous and nanostructured bulk materials
+    are at the heart of next generation technological solutions in many areas from
+    sustainable energy and environmental remediation to effective new pharmaceuticals.
+    Structural characterization of such materials, in all its complexity, remains
+    a challenge.  Also critical is understanding the spatial distribution of composite
+    nanoporous materials and how they change in time under different ambient and non-ambient
+    conditions. To address these issues we have been developing advanced x-ray, neutron
+    and electron scattering methods based around the atomic pair distribution function
+    (PDF) approach.  I will present an introduction to the methods, illustrating it
+    with real scientific examples from pharmaceuticals and beyond.  I will show some
+    examples of the current state of the art in this area as well as discuss what
+    can be learned from lower-tech but useful laboratory based approaches. The goal
+    of the talk is to introduce and explain this  exciting and  rapidly growing characterization
+    method with examples that can illustrate where it could fit in to your research.
+  authors:
+    - sbillinge
+  begin_date: 2023-08-24
+  department: Excelsus-Novartis bimonthly seminars at St Johann Campus
+  end_date: 2023-08-25
+  institution: Excelsus Structural Solutions (Swiss) AG, Basel, Switzerland
+  notes:
+    - invited by Fabia Gozzo
+  project:
+    - all
+  status: accepted
+  title: "The atomic pair distribution {(PDF)} method: application to pharmaceuticals"
+  type: seminar
 2308sb_sanfrancisco:
   abstract: " Hard x-rays tend to make experiments easy.  They are penetrating allowing\
     \ in situ, operando and spatially resolved measurements.  Large regions of reciprocal\
