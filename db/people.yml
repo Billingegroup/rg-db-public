@@ -3976,7 +3976,7 @@ sandrello:
     - degree: BS in Applied Physics with a minor in Computer Science
     - begin_year: 2022
     - end_year: 2025
-  email: "\x16sqa2001@columbia.edu"
+  email: "sqa2001@columbia.edu"
   employment:
     - begin_date: 2023-07-07
       end_date: 2023-08-31
@@ -3985,7 +3985,7 @@ sandrello:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: "\x168bitsam"
+  github_id: "8bitsam"
   grp_mtg_active: true
   name: Samuel Andrello
   orcid_id: ''
