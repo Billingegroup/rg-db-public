@@ -3969,9 +3969,13 @@ rzyu:
 sandrello:
   active: true
   aka: []
-  avatar: "https://github.com/\x168bitsam.png"
-  bio: bio
-  education: []
+  avatar: "https://media.licdn.com/dms/image/D4E03AQFXa02w443ZCg/profile-displayphoto-shrink_200_200/0/1667414532631?e=1695254400&v=beta&t=o2XvkKEklVgkrx646E2f8PGkxGHjU2r7CfTjkJ1He0Q"
+  bio: Rising Junior at Columbia Universit studying Applied Physics with a minor in CS. Interests in all types of computational physics.
+  education:
+    - institution: Columbia University (SEAS)
+    - degree: BS in Applied Physics with a minor in Computer Science
+    - begin_year: 2022
+    - end_year: 2025
   email: "\x16sqa2001@columbia.edu"
   employment:
     - begin_date: 2023-07-07
