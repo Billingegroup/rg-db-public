@@ -422,6 +422,7 @@ assef;sa20:
     of the sample remains in a hot-pre-melted state before melting, presumably due
     to energy being deposited into the lattice system by phonon scattering at grain
     boundaries that happens more quickly than the melting itself.
+  tags: ufpdf, gold, melting, grain_boundary
   title: Melt-front Dynamics in Polycrystalline Gold Thin Films
   url: https://advances.sciencemag.org/content/6/3/eaax2445/tab-pdf
   volume: '6'
@@ -2914,6 +2915,42 @@ bozin;prl11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/11bozinprl.pdf
   year: '2011'
+bozin;prl23:
+  ackno: Work at Brookhaven National Laboratory (BNL), and access to the 28ID-1 beam
+    line at NSLS-II, was supported by U.S. Department of Energy, Office of Science,
+    Office of Basic Energy Sciences (DOE-BES) under Contract No. DE-SC0012704. M.
+    G. K. acknowledges partial support from DOE-BES under Grant No. DESC0014520. Neutron
+    powder diffraction data were collected at BL-1B beam line of the SNS, a DOE-BES
+    user facility operated by the Oak Ridge National Laboratory.
+  author:
+    - E. S. Bozin
+    - H. Xie
+    - A. M. M. Abeykoon
+    - S. M. Everett
+    - M. G. Tucker
+    - M. G. Kanatzidis
+    - S. J. L. Billinge
+  day: '17'
+  doi: 10.1103/PhysRevLett.131.036101
+  entrytype: article
+  facility: ''
+  grant: fwp20
+  journal: Phys. Rev. Lett.
+  month: jul
+  nb: fy24, typeA
+  number: ''
+  optannote: ''
+  optnote: ''
+  pages: '036101'
+  synopsis: local symmetry breaking in the form of Sn dimer formation is found to
+    be behind the very low thermal conductivity in the promising thermoelectric materials
+    SnSe
+  tags: thermoelectric, odl, symmetry_breaking, emphanisis
+  title: Local Sn Dipolar-Character Displacements behind the Low Thermal Conductivity
+    in SnSe Thermoelectric
+  url: https://doi.org/10.1103/PhysRevLett.131.036101
+  volume: '131'
+  year: '2023'
 bozin;s10:
   author:
     - Bo\v{z}in, Emil S.
@@ -6899,6 +6936,49 @@ konst;prb19:
   volume: '99'
   wwwemail: ''
   year: '2019'
+kovya;jac23:
+  ackno: PDF methodology developments were funded by the DOE Office of Science by
+    Brookhaven National Laboratory under Contract No. DE-SC0012704. AK acknowledges
+    funding by the Innovation Fund Denmark (Green Chemistry for Advanced Materials
+    4107-00008B-GCAM). Samples were made at Penn State supported by the Office of
+    Basic Energy Sciences, Division of Chemical Sciences, Geosciences, and Energy
+    Bioscience, Department of Energy under contract DE-FG02-07ER15911. X-ray PDF measurements
+    were conducted on beamline 28-ID-2 of the National Synchrotron Light Source II,
+    a U.S. Department of Energy (DOE) Office of Science User Facility operated for
+    the DOE Office of Science by Brookhaven National Laboratory under Contract No.
+    DE-SC0012704.
+  author:
+    - Anton Kovyakh
+    - Soham Banerjee
+    - Chia-Hao Liu
+    - Christopher J. Wright
+    - Yuguang C. Li
+    - Thomas E. Mallouk
+    - Robert Feidenhans'l
+    - Simon J. L. Billinge
+  doi: 10.1107/S1600576723005927.
+  entrytype: article
+  facility: xpd, nslsii
+  grant: fwp20
+  journal: J. Appl. Crystallogr.
+  month: jul
+  nb: ''
+  note: to be published
+  notes: ''
+  number: ''
+  optannote: ''
+  optnote: arxiv:2110.01656
+  optwwwlanl: ''
+  pages: ''
+  synopsis: A semi-automated workflow is described for rapid scanning PXRD and PDF
+    experiments.  The software infrastructure saves metadata and raw and analyzed
+    files into a collection stored on the local hard-drive for easier reuse.  The
+    software is available on GitHub.
+  tags: spatial tfpdf snxm
+  title: Towards scanning nanostructure x-ray microscopy
+  url: https://doi.org/10.1107/S1600576723005927
+  volume: '56'
+  year: '2023'
 kreme;jpcc11:
   author:
     - Kremenovic, A.
@@ -12948,48 +13028,3 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
-kovya;jac23:
-  ackno: PDF methodology developments were funded by the DOE Office of Science by
-    Brookhaven National Laboratory under Contract No. DE-SC0012704. AK acknowledges
-    funding by the Innovation Fund Denmark (Green Chemistry for Advanced Materials
-    4107-00008B-GCAM). Samples were made at Penn State supported by the Office of
-    Basic Energy Sciences, Division of Chemical Sciences, Geosciences, and Energy
-    Bioscience, Department of Energy under contract DE-FG02-07ER15911. X-ray PDF measurements
-    were conducted on beamline 28-ID-2 of the National Synchrotron Light Source II,
-    a U.S. Department of Energy (DOE) Office of Science User Facility operated for
-    the DOE Office of Science by Brookhaven National Laboratory under Contract No.
-    DE-SC0012704.
-  author:
-    - Anton Kovyakh
-    - Soham Banerjee
-    - Chia-Hao Liu
-    - Christopher J. Wright
-    - Yuguang C. Li
-    - Thomas E. Mallouk
-    - Robert Feidenhans'l
-    - Simon J. L. Billinge
-  doi: ''
-  entrytype: article
-  facility: xpd, nslsii
-  grant: fwp20
-  journal: J. Appl. Crystallogr.
-  month: jul
-  nb: ''
-  note: to be published
-  optnote: arxiv:2110.01656
-  notes: ''
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
-  tags: spatial tfpdf
-  synopsis: a semi-automated workflow is described for rapid scanning pxrd experiments 
-    are carried out.  The software infrastructure saves metadata nad raw and analyzed
-    files into a collection stored on the local hard-drive for easier reuse.  The 
-    software is available on GitHub.
-  title: Towards scanning nanostructure x-ray microscopy
-  url: ''
-  volume: ''
-  wwwemail: ''
-  wwwpub: ''
-  year: '2023'
