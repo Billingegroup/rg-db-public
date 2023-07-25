@@ -2026,23 +2026,51 @@ hyavas:
   position: scientist
 iadnan:
   active: true
-  aka: []
+  aka:
+    - Ibrahim (Abraham) Adnan
+    - Ibrahim ALIbrahim
+    - Mr Adnan
+    - Mr ALIbrahim
   avatar: https://github.com/EngrIbrahimAdnan.png
-  bio: bio
-  education: []
+  bio: Ibrahim, originally from kuwait, is a Masters student in the Electrical engineering department at 
+    Columbia university. He obtained his undergraduate degree in Electronic Engineering from university 
+    of Portsmouth, United Kingdom. Upon graduating in july of 2021, he worked as a network engineer at 
+    kuwait's ministry of interior for 7 months before coming to New york to pursue his masters. At the 
+    ministry, Mr Adnan was Responsible for assessing in-wall ethernet port installations inside offices 
+    across kuwait's government buildings. Moreover, he configured UPSs to guarantee maintenance of servers 
+    during blackout and targeted attacks. After graduating with a master's degree, Mr. ALIbrahim plans on 
+    pursuing a PhD at columbia university focusing his research on the area of Artificial intelligence and its trustworthiness in critical
+  education:
+    - begin_date: 2023-09-01
+      degree: Masters of Science
+      institution: columbiau
+      department: Electrical Engineering
+      end_year: 2024-05-31
+      advisor: sbillinge
+      other:
+        - 'Advisor: Peter Kinget'
+    - begin_year: 2018-09-15
+      degree: Bachelor of Science
+      institution: University of Portsmouth, United Kingdom
+      department: Electronics Engineering
+      end_year: 2021-07-01
   email: iaa2132@columbia.edu
   employment:
     - begin_date: 2023-01-30
-      end_date: 2023-05-31
+      end_date: 2024-05-31
       organization: columbiau
       position: Masters Researcher
       group: bg
       advisor: sbillinge
       status: masters
+    - begin_date: 2021-12-26
+      end_date: 2022-06-01
+      organization: Ministry of Interior, Kuwait
+      position: Network engineer intern
   github_id: EngrIbrahimAdnan
   grp_mtg_active: true
   name: Ibrahim Adnan
-  orcid_id: ''
+  orcid_id: 0009-0007-8256-9733
   position: Masters Researcher
 idouglas:
   active: true
