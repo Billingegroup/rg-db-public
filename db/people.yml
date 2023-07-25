@@ -2041,19 +2041,19 @@ iadnan:
     during blackout and targeted attacks. After graduating with a master's degree, Mr. ALIbrahim plans on 
     pursuing a PhD at columbia university focusing his research on the area of Artificial intelligence and its trustworthiness in critical
   education:
-    - begin_date: 2023-09-01
+    - begin_year: 2023
       degree: Masters of Science
       institution: columbiau
       department: Electrical Engineering
-      end_year: 2024-05-31
+      end_year: 2024
       advisor: sbillinge
       other:
         - 'Advisor: Peter Kinget'
-    - begin_year: 2018-09-15
+    - begin_year: 2018
       degree: Bachelor of Science
       institution: University of Portsmouth, United Kingdom
       department: Electronics Engineering
-      end_year: 2021-07-01
+      end_year: 2021
   email: iaa2132@columbia.edu
   employment:
     - begin_date: 2023-01-30
