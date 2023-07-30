@@ -6956,14 +6956,14 @@ kovya;jac23:
     - Thomas E. Mallouk
     - Robert Feidenhans'l
     - Simon J. L. Billinge
-  doi: 10.1107/S1600576723005927.
+  doi: 10.1107/S1600576723005927
   entrytype: article
   facility: xpd, nslsii
   grant: fwp20
   journal: J. Appl. Crystallogr.
   month: jul
   nb: ''
-  note: to be published
+  optnote: to be published
   notes: ''
   number: ''
   optannote: ''
@@ -9740,7 +9740,19 @@ qiu;prl05:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/05qiu_prl.pdf
   year: '2005'
 rakit;am23:
-  ackno: ''
+  ackno: J.L.H and P.P.D contributed equally. Y.R. thank Songsheng Tau for his assistance
+    in developing the MiniPipes code. We also ac- knowledge Michael L. Falk and Darius
+    D. Alix-Williams for provid- ing atomic structures to support diffraction simulations.
+    Develop- ment of data analysis pipelines and protocols in the Billinge group was
+    funded by the Next Generation Synthesis Center (GENESIS), an Energy Frontier Research
+    Center funded by the U.S. Department of Energy , Office of Science, Basic Energy
+    Sciences under Award Num- ber DE-SC0019212 . Electron microscopy in the Taheri
+    group was supported in part from the U.S. Office of Naval Research through contracts
+    N0 0 0142012368 (a Multidisciplinary University Research Initiative (MURI) program)
+    and N0 0 0142012788 , and in part from U.S. Department of Energy, Basic Energy
+    Sciences, through contract DE-SC0020314. Sample creation and preparation in the
+    Mathaudhu group was funded by the U.S. National Science Foundation under CMMI
+    Grant 1550986 .
   author:
     - Yevgeny Rakita
     - James L. Hart
@@ -11335,10 +11347,10 @@ thamp;prb13:
   year: '2013'
 thatc;aa22:
   ackno: 'We would like to thank Alexander Schöekel for assistance in use of beamline
-    P02.1. \n Funding information \n This work was supported as part of GENESIS: A
-    Next Generation Synthesis Center, an Energy Frontier Research Center funded by
-    the U.S. Department of Energy, Office of Science, Basic Energy Sciences under
-    Award Number DE-SC0019212. Sample preparation and PDF data analysis in the Ravnsbaek
+    P02.1. Funding information. This work was supported as part of GENESIS: A Next
+    Generation Synthesis Center, an Energy Frontier Research Center funded by the
+    U.S. Department of Energy, Office of Science, Basic Energy Sciences under Award
+    Number DE-SC0019212. Sample preparation and PDF data analysis in the Ravnsbaek
     Group was funded by the Carlsberg Foundation (Grant CF17-0823) and data acquisition
     at DESY by Danscatt. Data for the chemical synthesis example was acquired at the
     28-ID-2 beamline of the National Synchrotron Light Source II, a US DOE Office
@@ -12207,7 +12219,14 @@ wustr;jacs21:
   volume: '33'
   year: '2021'
 wustr;jacs22:
-  ackno: ''
+  ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
+    Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,
+    Office of Science, Basic Energy Sciences under Award Number DESC0019212. This
+    research used the 28-ID-1 beamline of the National Synchrotron Light Source II,
+    a U.S. Department of Energy (DOE) Office of Science User Facility operated for
+    the DOE Office of Science by Brookhaven National Laboratory under Contract No.
+    DE-SC0012704. It also made use of the Analytical Resources Core at Colorado State
+    University (SCR_021758).'
   author:
     - Allison Wustrow
     - Matthew J. McDermott
@@ -13028,3 +13047,44 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
+gu;unpublished23:
+  ackno: We would like to thank Dr. Daniel Olds, for assistance during
+    the measurements of the experimental PDF data. The work described here was funded
+    by the Next Generation Synthesis Center (GENESIS), an Energy Frontier Research
+    Center funded by the U.S. Department of Energy, Office of Science, Basic Energy
+    Sciences under Award Number DE-SC0019212. X-ray PDF measurements were conducted on beamline 28-ID-2 of the National Synchrotron Light Source II, a US DOE
+    Office of Science User Facility operated for the DOE Office of Science by Brookhaven
+    National Laboratory under contract No. DESC0012704.
+author:
+    - Ran Gu
+    - Yevgeny Rakita
+    - Ling Lan
+    - Zach Thatcher
+    - Gabrielle E. Kamm
+    - Daniel O’Nolan
+    - Brennan Mcbride
+    - Allison Wustrow
+    - James R. Neilson
+    - Karena W. Chapman
+    - Qiang Du
+    - Simon J. L. Billinge
+  day: ''
+  doi: ''
+  entrytype: article
+  facility: nslslii, xpd
+  grant: efrc18
+  journal: tbd
+  month: tbd
+  nb: fy24, typeA
+  number: ''
+  optannote: ''
+  optnote: ''
+  pages: ''
+  synopsis: stretched and sparse-stretched NMF unsupervised ML algorithms are 
+    described and tested against temperature dependent x-ray data from in situ 
+    inorganic chemical synthesis experiments.
+  tags: ml, nmf, synthesis, in-situ
+  title: Stretched Non-negative Matrix Factorization
+  url: ''
+  volume: ''
+  year: '2023'
