@@ -3916,7 +3916,7 @@ rnzhang:
       position: masters researcher
       group: bg
       advisor: sbillinge
-      status: phd
+      status: masters
   github_id: ruining99
   grp_mtg_active: false
   name: Ruining Zhang
@@ -4296,6 +4296,15 @@ sbillinge:
   google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
   grp_mtg_active: false
   hindex:
+    - h: 82
+      h_last_five: 54
+      citations: 30144
+      citations_last_five: 14235
+      origin: Google Scholar
+      since: 1991
+      year: 2023
+      month: 7
+      day: 19
     - h: 81
       h_last_five: 52
       citations: 29150
@@ -4452,6 +4461,15 @@ sbillinge:
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
   service:
+    - type: profession
+      name: Chair and organizer for the NSF-funded workshop Scientific Opportunities
+        and Instrumentation Needs for Next Generation Materials Genomics Based Materials
+        Research in Materials with Long-Range Order
+      month: 11
+      year: 2022
+      role: Chair
+      other:
+        - Report submitted to NSF in July 2023
     - type: profession
       name: Co-organizer with Prof Sossina Haile (Northwestern) and Tom Mallouk (Penn
         State) of the fourth 2-week JUAMI Materials for Sustainable Development workshop

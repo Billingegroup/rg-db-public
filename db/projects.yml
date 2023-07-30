@@ -2,15 +2,15 @@ JUAMI:
   active: true
   description: Collaboration to build research ties between PhD materials science
     researchers in East Africa, the US, and beyond.
+  highlights:
+    - year: 2023
+      month: 6
+      description: The fourth JUAMI school takes place at the University of Nairobi
+        in Kenya.
   logo: https://www.juami.org/wp-content/uploads/2020/03/Juami-Words-240.png
   name: 'JUAMI: Joint Undertaking for an African Materials Institute'
   other: []
   repo: https://github.com/juami/pytentiostat
-  highlights:
-    - year: 2023
-      month: 6
-      description: The fourth JUAMI school takes place at the University of 
-        Nairobi in Kenya.
   team:
     - position: PI
       name: shaile
@@ -121,12 +121,12 @@ diffpy:
   highlights:
     - year: 2023
       month: 5
-      description: Major release of PDFgui v2.0, the first python 3 version of
-        the widely used PDFgui program
+      description: Major release of PDFgui v2.0, the first python 3 version of the
+        widely used PDFgui program
     - year: 2019
       month: 4
-      description: Major new release (3.0) this year, upgrading diffpy-cmi to use python
-        3
+      description: Major new release (3.0) this year, upgrading diffpy-cmi to use
+        python 3
   name: Diffpy
   team:
     - name: sbillinge
@@ -293,9 +293,11 @@ dmrefcheme16:
     - name: sbillinge
       position: Co-PI
       begin_year: 2017
+      end_year: 2021
     - name: skumar
       position: pi
       begin_year: 2017
+      end_year: 2021
     - name: chliu
       position: gra
       begin_year: 2017
@@ -383,6 +385,7 @@ efrc18:
   type: funded
   website: ''
 fwp17:
+  active: false
   description: Searching for local structural effects in strongly correlated electron
     materials using x-ray and neutron scattering
   grant: fwp17
@@ -422,12 +425,15 @@ fwp17:
     - name: sbillinge
       position: PI
       begin_year: 2008
+      end_year: 2022
     - name: ebozin
       position: co-pi
       begin_year: 2017
+      end_year: 2022
     - name: rkoch
       position: postdoc
       begin_year: 2018
+      end_year: 2020
   type: funded
 matsci_colab:
   active: true
