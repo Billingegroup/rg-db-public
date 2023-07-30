@@ -4874,14 +4874,39 @@
   begin_date: 2023-08-24
   department: Excelsus-Novartis bimonthly seminars at St Johann Campus
   end_date: 2023-08-25
-  institution: Excelsus Structural Solutions (Swiss) AG, Basel, Switzerland
+  institution: excelsus
   notes:
     - invited by Fabia Gozzo
   project:
     - all
   status: accepted
-  title: "The atomic pair distribution {(PDF)} method: application to pharmaceuticals"
+  title: 'The atomic pair distribution {(PDF)} method: application to pharmaceuticals'
   type: seminar
+2308sb_melbourne,australia:
+  abstract: This talk will be down in the trenches and aimed at a target audience
+    of programmers.  Those of use who use Python extensively for our data analysis
+    and modeling find ourselves often making plots and figures using the ubiquitous
+    matplotlib package.   It is deliciously easy to use to make  great exploratory
+    graphics using its defaults and interactive plot interfaces.  On the other hand,
+    it gets tedious when we want to start making publication quality graphics for
+    our papers.   I will share a number of tips and tricks for making this part more
+    straightforward and resulting in better looking figures more quickly, for example,
+    the use of style sheets, and poweful gridding tools.  I will share a few style
+    tips about along the way, but mostly it will be about how to structure your code
+    to make better matploblib figures more easily.
+  authors:
+    - sbillinge
+  begin_date: 2023-08-19
+  end_date: 2023-08-22
+  location: Melbourne, Australia
+  meeting_name: 2023 IUCr Crystallographic Computing School
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Tips and tricks for better coding of figures in Python using Matplotlib
+  type: invited
+  webinar: true
 2308sb_sanfrancisco:
   abstract: " Hard x-rays tend to make experiments easy.  They are penetrating allowing\
     \ in situ, operando and spatially resolved measurements.  Large regions of reciprocal\
