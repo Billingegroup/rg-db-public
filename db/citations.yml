@@ -6899,6 +6899,49 @@ konst;prb19:
   volume: '99'
   wwwemail: ''
   year: '2019'
+kovya;jac23:
+  ackno: PDF methodology developments were funded by the DOE Office of Science by
+    Brookhaven National Laboratory under Contract No. DE-SC0012704. AK acknowledges
+    funding by the Innovation Fund Denmark (Green Chemistry for Advanced Materials
+    4107-00008B-GCAM). Samples were made at Penn State supported by the Office of
+    Basic Energy Sciences, Division of Chemical Sciences, Geosciences, and Energy
+    Bioscience, Department of Energy under contract DE-FG02-07ER15911. X-ray PDF measurements
+    were conducted on beamline 28-ID-2 of the National Synchrotron Light Source II,
+    a U.S. Department of Energy (DOE) Office of Science User Facility operated for
+    the DOE Office of Science by Brookhaven National Laboratory under Contract No.
+    DE-SC0012704.
+  author:
+    - Anton Kovyakh
+    - Soham Banerjee
+    - Chia-Hao Liu
+    - Christopher J. Wright
+    - Yuguang C. Li
+    - Thomas E. Mallouk
+    - Robert Feidenhans'l
+    - Simon J. L. Billinge
+  doi: 10.1107/S1600576723005927
+  entrytype: article
+  facility: xpd, nslsii
+  grant: fwp20
+  journal: J. Appl. Crystallogr.
+  month: jul
+  nb: ''
+  note: to be published
+  notes: ''
+  number: '4'
+  optannote: ''
+  optnote: arxiv:2110.01656
+  optwwwlanl: ''
+  pages: 1221-1228
+  synopsis: a semi-automated workflow is described for rapid scanning pxrd experiments
+    are carried out.  The software infrastructure saves metadata nad raw and analyzed
+    files into a collection stored on the local hard-drive for easier reuse.  The
+    software is available on GitHub.
+  tags: spatial, tfpdf
+  title: Towards scanning nanostructure x-ray microscopy
+  url: https://doi.org/10.1107/S1600576723005927
+  volume: '56'
+  year: '2023'
 kreme;jpcc11:
   author:
     - Kremenovic, A.
@@ -9704,6 +9747,44 @@ rakit;am23:
   url: https://doi.org/10.1016/j.actamat.2022.118426
   volume: '242'
   year: '2023'
+taher;mrsb23:
+  ackno: ''
+  author:
+    - Mitra L. Taheri
+    - Elaf Anber
+    - Annie Barnett
+    - Simon J. L. Billinge
+    - Nick Birbilis
+    - Brian DeCost
+    - Daniel L. Foley
+    - Emily Holcome
+    - Jonathan Hollenbach
+    - Howie Joress
+    - Georgia Leigh
+    - Yevgeny Rakita
+    - James M. Rondinelli
+    - Nathan Smith
+    - Michael J. Waters
+    - Chris Wolverton
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: efrc18
+  journal: tbd
+  month: tbd
+  nb: ''
+  number: ''
+  optannote: ''
+  note: To be published in  MRS Bulletin
+  optwwwlanl: ''
+  pages: '118426'
+  professional_summary: ''
+  synopsis: ''
+  tags: snem
+  title: Short-range order in copositionally complex alloys
+  url: .
+  volume: ''
+  year: ''
 rakit;jacs20:
   ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
     Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,
@@ -12948,48 +13029,3 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
-kovya;jac23:
-  ackno: PDF methodology developments were funded by the DOE Office of Science by
-    Brookhaven National Laboratory under Contract No. DE-SC0012704. AK acknowledges
-    funding by the Innovation Fund Denmark (Green Chemistry for Advanced Materials
-    4107-00008B-GCAM). Samples were made at Penn State supported by the Office of
-    Basic Energy Sciences, Division of Chemical Sciences, Geosciences, and Energy
-    Bioscience, Department of Energy under contract DE-FG02-07ER15911. X-ray PDF measurements
-    were conducted on beamline 28-ID-2 of the National Synchrotron Light Source II,
-    a U.S. Department of Energy (DOE) Office of Science User Facility operated for
-    the DOE Office of Science by Brookhaven National Laboratory under Contract No.
-    DE-SC0012704.
-  author:
-    - Anton Kovyakh
-    - Soham Banerjee
-    - Chia-Hao Liu
-    - Christopher J. Wright
-    - Yuguang C. Li
-    - Thomas E. Mallouk
-    - Robert Feidenhans'l
-    - Simon J. L. Billinge
-  doi: ''
-  entrytype: article
-  facility: xpd, nslsii
-  grant: fwp20
-  journal: J. Appl. Crystallogr.
-  month: jul
-  nb: ''
-  note: to be published
-  optnote: arxiv:2110.01656
-  notes: ''
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
-  tags: spatial tfpdf
-  synopsis: a semi-automated workflow is described for rapid scanning pxrd experiments 
-    are carried out.  The software infrastructure saves metadata nad raw and analyzed
-    files into a collection stored on the local hard-drive for easier reuse.  The 
-    software is available on GitHub.
-  title: Towards scanning nanostructure x-ray microscopy
-  url: ''
-  volume: ''
-  wwwemail: ''
-  wwwpub: ''
-  year: '2023'
