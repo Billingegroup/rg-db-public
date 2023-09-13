@@ -680,6 +680,17 @@ enthought:
   updated: 2020-12-29 04:16:46.030159
   uuid: 358f4e2b-e0dc-44e6-8cf4-605409118494
   zip: '78701'
+epfl:
+  aka:
+    - EPFL Valais
+  city: Sion
+  country: Switzerland
+  departments:
+    chemistry and chemical engineering:
+      name: Institue of Chemical Science and Engineering
+  name: École Polytechnique Fédérale de Lausanne
+  updated: 2023-09-13
+  zip: '1951'
 ercfmaswe:
   city: Jülich
   country: Germany
@@ -3437,16 +3448,3 @@ zhejiangu:
   updated: 2020-02-14 19:37:28.925621
   uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
   year: 2020
-epfl:
-  aka:
-    - EPFL Valais
-  city: Sion
-  country: Switzerland
-  zip: '1951'
-  departments:
-    chemistry and chemical engineering:
-      name: Institue of Chemical Science and Engineering
-  name: École Polytechnique Fédérale de Lausanne
-  updated: 2023-09-13
-  
-  
