@@ -3443,7 +3443,7 @@ epfl:
   city: Sion
   country: Switzerland
   zip: '1951'
-  departements:
+  departments:
     chemistry and chemical engineering:
       name: Institue of Chemical Science and Engineering
   name: École Polytechnique Fédérale de Lausanne
