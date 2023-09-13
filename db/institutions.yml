@@ -3437,3 +3437,16 @@ zhejiangu:
   updated: 2020-02-14 19:37:28.925621
   uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
   year: 2020
+epfl:
+  aka:
+    - EPFL Valais
+  city: Sion
+  country: Switzerland
+  zip: '1951'
+  departements:
+    chemistry and chemical engineering:
+      name: Institue of Chemical Science and Engineering
+  name: École Polytechnique Fédérale de Lausanne
+  updated: 2023-09-13
+  
+  
