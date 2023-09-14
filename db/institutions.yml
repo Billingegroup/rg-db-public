@@ -683,33 +683,20 @@ enthought:
 epfl:
   aka:
     - EPFL,
-    - EPFL
-    - Valais,
-    - EPFL
-    - Wallis
+    - EPFL Valais
+    - EPFL Wallis
   city: Sion
   country: Switzerland
   date: 2023-09-14
   departments:
     isic:
       name: Institute of Chemical Sciences and Engineering
-      aka:
-        - Institut
-        - des
-        - sciences
-        - et
-        - ingénierie
-        - chimiques
+      aka: Institut des sciences et ingénierie chimiques
   name: École Polytechnique Fédérale de Lausanne
   schools:
     sb:
-      name: school of basic science
-      aka:
-        - faculté
-        - des
-        - sciences
-        - de
-        - base
+      name: School of basic science
+      aka: Faculté des sciences de base
   updated: 2023-09-14 15:37:56.010065
   uuid: ba64bfe7-26d1-4aa6-beed-ccd42e3a6a28
   zip: '1951'
