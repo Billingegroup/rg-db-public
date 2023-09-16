@@ -2180,6 +2180,31 @@ billi;s07:
   wwwemail: ' sb2896@columbia.edu'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/billinge_07_science.pdf
   year: '2007'
+billi;unpub23:
+  ackno: ''
+  author:
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: dmref19
+  journal: Acta Crystallographic Section E
+  month: tbd
+  nb: ''
+  note: Submitted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: ''
+  tags: juami, africa, education
+  title: 'JUAMI, the joint undertaking for an African materials institute: building
+    materials science research collaborations and capabilities between continents'
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2023'
 billi;zk02:
   author:
     - Billinge, S. J. L.
@@ -11050,6 +11075,56 @@ suzan;prb23:
   wwwemail: ''
   wwwpub: ''
   year: '2023'
+taher;mrsb23:
+  ackno: M.L.T., J.H., N.S., C.W., J.R., M.W., and G.L., gratefully acknowledge funding
+    in part from the Office of Naval Research (ONR) through the Multidisciplinary
+    University Research Initiative (MURI) program (Award No. N00014-20-1-2368) with
+    program managers D. Shifler and W. Nickerson. M.L.T., D.L.F., and Y.R. also acknowledge
+    funding in part from the Office of Naval Research (ONR) through Award No. N00014-20-1-2788
+    with program manager W. Mullins. M.L.T, A.B., and E.A. acknowledge funding in
+    part from the US Department of Energy (DOE), Office of Science, Basic Energy Sciences
+    through Award No. DE-SC0020314 with program manager J. Vetrano. S.B and Y.R. acknowledge
+    funding from the Next Generation Synthesis Center (GENESIS), an Energy Frontier
+    Research Center funded by the DOE, Office of Science, Basic Energy Sciences (Award
+    No. DE-SC0019212).
+  author:
+    - Mitra L. Taheri
+    - Elaf Anber
+    - Annie Barnett
+    - Simon J. L. Billinge
+    - Nick Birbilis
+    - Brian DeCost
+    - Daniel L. Foley
+    - Emily Holcome
+    - Jonathan Hollenbach
+    - Howie Joress
+    - Georgia Leigh
+    - Yevgeny Rakita
+    - James M. Rondinelli
+    - Nathan Smith
+    - Michael J. Waters
+    - Chris Wolverton
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: efrc18
+  journal: MRS Bulletin
+  month: tbd
+  nb: ''
+  note: To be published in  MRS Bulletin
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  professional_summary: ''
+  synopsis: complex oxides with many elements are reviewed and the effects of short
+    range order are considered.  Experimental and computational methods are summarized
+    and compared in this complex task
+  tags: snem, sro
+  title: Short-range order in compositionally complex alloys
+  url: .
+  volume: ''
+  year: '2023'
 terba;cec22:
   ackno: DH and MM would like to thank University of Trieste for partially funding
     this study through the “Fondo per la Ricerca di Ateneo (FRA 2020)” grant scheme.
@@ -11421,6 +11496,51 @@ thatc;aa22:
   wwwemail: ''
   wwwpub: ''
   year: '2022'
+thinh;unpub23:
+  ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
+    Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,
+    Office of Science, Basic Energy Sciences under Award Number DE-SC0019212. This
+    research used resources at beamline 28-ID-2 of the National Synchrotron Light
+    Source II, a U.S. Department of Energy (DOE) Office of Science User Facility operated
+    for the DOE Office of Science by Brookhaven National Laboratory under Contract
+    No. DE-SC0012704.  We would also acknowledge the Analytical Resources Core at
+    Colorado State University for their provision of PXRD instrumentation (Research
+    Resource ID, RRID: SCR\_021758). We acknowledge assistance from staff scientist
+    Sanjit Ghose at NSLS-II.'
+  author:
+    - Gia Thinh Tran
+    - Allison Wustrow
+    - Daniel O’Nolan
+    - SongSheng Tao
+    - Christopher J. Bartel
+    - Tanjin He
+    - Matthew J. McDermott
+    - Brennan C. McBride
+    - Karena W. Chapman
+    - Simon J. L. Billinge
+    - Kristin A. Persson
+    - Gerbrand Ceder
+    - James R. Neilson
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: efrc18
+  journal: tbd
+  month: tbd
+  nb: fy24, typeA
+  note: Submitted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: ''
+  tags: synthesis
+  title: Selective synthesis of defect-rich {LaMnO3} by low temperature anion cometathesis
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2023'
 thorp;b;fstpbas02:
   abstract: "A review examines a single pair distribution\nfunction (PDF) peak showing\
     \ how it can be\ndecompd. into zero, one, two and multiphonon\ncontributions.\

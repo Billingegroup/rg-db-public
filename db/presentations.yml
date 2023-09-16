@@ -4838,6 +4838,20 @@
   status: accepted
   title: Introduction to Materials Characterization
   type: invited
+2308sb_cityuniversityofhongkong,hongkong:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2023-08-06
+  end_date: 2023-08-12
+  location: City University of Hong Kong, Hong Kong
+  meeting_name: Croucher Summer Course on Neutron Scattering (CSC)
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Neutron diffraction and structure refinement
+  type: tutorial
 2308sb_cityuniversityofhongkong,kowloon,hongkong:
   abstract: tbd
   authors:
@@ -4851,7 +4865,7 @@
   project:
     - all
   status: accepted
-  title: tbd
+  title: 'Total Scattering: Materials Beyond Crystallography'
   type: invited
   webinar: false
 2308sb_excelsusstructuralsolutions,stjohanncampus,basel,switzerlan:
@@ -4874,14 +4888,39 @@
   begin_date: 2023-08-24
   department: Excelsus-Novartis bimonthly seminars at St Johann Campus
   end_date: 2023-08-25
-  institution: Excelsus Structural Solutions (Swiss) AG, Basel, Switzerland
+  institution: excelsus
   notes:
     - invited by Fabia Gozzo
   project:
     - all
   status: accepted
-  title: "The atomic pair distribution {(PDF)} method: application to pharmaceuticals"
+  title: 'The atomic pair distribution {(PDF)} method: application to pharmaceuticals'
   type: seminar
+2308sb_melbourne,australia:
+  abstract: This talk will be down in the trenches and aimed at a target audience
+    of programmers.  Those of us who use Python extensively for our data analysis
+    and modeling find ourselves often making plots and figures using the ubiquitous
+    matplotlib package.   It is deliciously easy to use to make  great exploratory
+    graphics using its defaults and interactive plot interfaces.  On the other hand,
+    it gets tedious when we want to start making publication quality graphics for
+    our papers.   I will share a number of tips and tricks for making this part more
+    straightforward and resulting in better looking figures more quickly, for example,
+    the use of style sheets, and poweful gridding tools.  I will share a few style
+    tips about along the way, but mostly it will be about how to structure your code
+    to make better matploblib figures more easily.
+  authors:
+    - sbillinge
+  begin_date: 2023-08-19
+  end_date: 2023-08-22
+  location: Melbourne, Australia
+  meeting_name: 2023 IUCr Crystallographic Computing School
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Tips and tricks for better coding of figures in Python using Matplotlib
+  type: invited
+  webinar: true
 2308sb_sanfrancisco:
   abstract: " Hard x-rays tend to make experiments easy.  They are penetrating allowing\
     \ in situ, operando and spatially resolved measurements.  Large regions of reciprocal\
@@ -4958,21 +4997,58 @@
   status: accepted
   title: 'Handling heterogeneity: Approaches to separate signals using multiple spaces'
   type: keynote
-2311sb_boston,ma:
-  abstract: tbd
+2311sb_boston:
+  abstract: Although theory has been quite successful at using AI and machine learning
+    for predicting stable materials with potentially interesting properties, experimental
+    science is playing catch-up.  In this talk I will discuss some of the challenges
+    and emerging opportunities for using AI and machine learning to guide experiments.
+    I will focus on the use of advanced scattering sources coupled with in situ experiments.
+    I will discuss the challenges of extracting quantitative information from the
+    data in real-time but the opportunities that emerge when this is possible. I will
+    discuss challenges of data reduction in the presence of uncertainty, real time
+    analysis approaches, and the development of autonomous in situ and operando experiments
+    at synchrotrons and neutron sources.  The talk will introduce the concepts and
+    present preliminary results to illustrate them, with a goal of guiding the audience
+    to think about how they might use these approaches in their own work.
   authors:
     - sbillinge
   begin_date: 2023-11-26
   end_date: 2023-12-01
   location: Boston, MA
-  meeting_name: symposium "Emerging Challenges and Opportunities in Materials by Design"
-    at the MRS fall meeting
+  meeting_name: Emerging Challenges and Opportunities in Materials by Design Symposium,
+    Fall meeting of the Materials Research Society
   notes: []
   project:
     - all
   status: accepted
-  title: tbd
+  title: Prospects for autonomous materials discovery guided by in situ diffraction
   type: invited
+2311sb_switzerland:
+  abstract: 'Nanoparticles, nanoporous materials and nanostructured bulk materials
+    are at the heart of next generation technological solutions in sustainable energy,
+    effective new pharmaceuticals, and environmental remediation.    Their study involves
+    going beyond traditional crystallography to understand local arrangements of atoms
+    on different length-scales.  These lectures will explore this problem, and describe
+    recent developments in solutions based on total scattering methods such as the
+    atomic pair distribution function (PDF) method.  They will explore the state of
+    the art in time and spatially resolved studies of heterogeneous samples, operando
+    measurements from operating devices, developments in ultra-fast pump-probe PDF
+    measurements using x-ray free electron lasers, and latest approaches in data interpretation
+    using machine learning and artificial intelligence.  '
+  authors:
+    - sbillinge
+  begin_date: 2023-11-06
+  end_date: 2023-11-10
+  location: Switzerland
+  meeting_name: Howard Flack Prize Lectures of the Swiss Society for Crystallographic
+  notes:
+    - 6 lectures in 5 days.  The actual lecture titles and institutions will be put
+      separately
+  project:
+    - all
+  status: accepted
+  title: 'Real Materials in Action: studying structure on different length and timescales'
+  type: award
 2404sb_seattle,wa:
   abstract: tbd
   authors:

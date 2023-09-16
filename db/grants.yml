@@ -1210,3 +1210,15 @@
       subaward_amount: 0
   title: A Data-driven Approach to Solving the Structure Refinement Problem for Defected
     and Disordered Nanoparticles
+23_doe_neutron_scattering:
+  amount: 900000
+  awardnr: tbd
+  begin_date: 2023-09-01
+  end_date: 2023-08-31
+  funder: DOE-BES
+  team:
+    - institution: columbiau
+      name: Simon Billinge
+      position: pi
+      subaward_amount: 900000
+  title: 'Real materials in action: Data analysis developments for real materials'

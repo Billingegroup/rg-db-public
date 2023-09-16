@@ -2026,31 +2026,62 @@ hyavas:
   position: scientist
 iadnan:
   active: true
-  aka: []
+  aka:
+    - Ibrahim (Abraham) Adnan
+    - Ibrahim ALIbrahim
+    - Mr Adnan
+    - Mr ALIbrahim
   avatar: https://github.com/EngrIbrahimAdnan.png
-  bio: bio
-  education: []
+  bio: Ibrahim, originally from kuwait, is a Masters student in the Electrical engineering
+    department at Columbia university. He obtained his undergraduate degree in Electronic
+    Engineering from university of Portsmouth, United Kingdom. Upon graduating in
+    july of 2021, he worked as a network engineer at kuwait's ministry of interior
+    for 7 months before coming to New york to pursue his masters. At the ministry,
+    Mr Adnan was Responsible for assessing in-wall ethernet port installations inside
+    offices across kuwait's government buildings. Moreover, he configured UPSs to
+    guarantee maintenance of servers during blackout and targeted attacks. After graduating
+    with a master's degree, Mr. ALIbrahim plans on pursuing a PhD at columbia university
+    focusing his research on the area of Artificial intelligence and its trustworthiness
+    in critical
+  education:
+    - begin_year: 2023
+      degree: Masters of Science
+      institution: columbiau
+      department: Electrical Engineering
+      end_year: 2024
+      advisor: sbillinge
+      other:
+        - 'Advisor: Peter Kinget'
+    - begin_year: 2018
+      degree: Bachelor of Science
+      institution: University of Portsmouth, United Kingdom
+      department: Electronics Engineering
+      end_year: 2021
   email: iaa2132@columbia.edu
   employment:
     - begin_date: 2023-01-30
-      end_date: 2023-05-31
+      end_date: 2024-05-31
       organization: columbiau
       position: Masters Researcher
       group: bg
       advisor: sbillinge
       status: masters
+    - begin_date: 2021-12-26
+      end_date: 2022-06-01
+      organization: Ministry of Interior, Kuwait
+      position: Network engineer intern
   github_id: EngrIbrahimAdnan
   grp_mtg_active: true
   name: Ibrahim Adnan
-  orcid_id: ''
+  orcid_id: 0009-0007-8256-9733
   position: Masters Researcher
 idouglas:
   active: true
   aka: []
-  avatar: https://github.com/.png
+  avatar: https://github.com/imanis-d.png
   bio: bio
   education: []
-  email: "\x16Imanis.douglas@gmail.com"
+  email: Imanis.douglas@gmail.com
   employment:
     - begin_date: 2023-06-09
       end_date: 2023-08-15
@@ -2059,7 +2090,7 @@ idouglas:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: ''
+  github_id: imanis-d
   grp_mtg_active: true
   name: Imani Douglas
   orcid_id: ''
@@ -3888,7 +3919,7 @@ rnzhang:
       position: masters researcher
       group: bg
       advisor: sbillinge
-      status: phd
+      status: masters
   github_id: ruining99
   grp_mtg_active: false
   name: Ruining Zhang
@@ -3969,10 +4000,15 @@ rzyu:
 sandrello:
   active: true
   aka: []
-  avatar: "https://github.com/\x168bitsam.png"
-  bio: bio
-  education: []
-  email: "\x16sqa2001@columbia.edu"
+  avatar: https://media.licdn.com/dms/image/D4E03AQFXa02w443ZCg/profile-displayphoto-shrink_200_200/0/1667414532631?e=1695254400&v=beta&t=o2XvkKEklVgkrx646E2f8PGkxGHjU2r7CfTjkJ1He0Q
+  bio: Rising Junior at Columbia University studying Applied Physics with a minor
+    in CS. Interests in all types of computational physics.
+  education:
+    - institution: Columbia University (SEAS)
+      degree: BS in Applied Physics with a minor in Computer Science
+      begin_year: 2022
+      end_year: 2025
+  email: sqa2001@columbia.edu
   employment:
     - begin_date: 2023-07-07
       end_date: 2023-08-31
@@ -3981,7 +4017,7 @@ sandrello:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: "\x168bitsam"
+  github_id: 8bitsam
   grp_mtg_active: true
   name: Samuel Andrello
   orcid_id: ''
@@ -4264,6 +4300,15 @@ sbillinge:
   google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
   grp_mtg_active: false
   hindex:
+    - h: 82
+      h_last_five: 54
+      citations: 30144
+      citations_last_five: 14235
+      origin: Google Scholar
+      since: 1991
+      year: 2023
+      month: 7
+      day: 19
     - h: 81
       h_last_five: 52
       citations: 29150
@@ -4420,6 +4465,15 @@ sbillinge:
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
   service:
+    - type: profession
+      name: Chair and organizer for the NSF-funded workshop Scientific Opportunities
+        and Instrumentation Needs for Next Generation Materials Genomics Based Materials
+        Research in Materials with Long-Range Order
+      month: 11
+      year: 2022
+      role: Chair
+      other:
+        - Report submitted to NSF in July 2023
     - type: profession
       name: Co-organizer with Prof Sossina Haile (Northwestern) and Tom Mallouk (Penn
         State) of the fourth 2-week JUAMI Materials for Sustainable Development workshop
