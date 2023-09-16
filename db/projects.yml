@@ -315,6 +315,24 @@ dmrefcheme16:
       begin_year: 2017
       end_year: 2018
   type: funded
+doeneutron23:
+  active: true
+  description: Project to use applied mathematics and machine learning to carry out
+    signal separation from complex heterogeneous samples in neutron scattering experiments
+  highlights:
+    - year: 2023
+      month: 6
+      description: Grant awarded funding from the US Department of Energy, Office
+        of Science, Office of Basic Energy Sciences, Materials Sciences and Engineering
+        Division.
+  name: 'Real materials in action: Data analysis developments for real materials'
+  other: []
+  repo: ''
+  team:
+    - position: PI
+      name: billinge
+      begin_year: 2023
+  website: http://thebillingegroup.com
 efrc18:
   active: true
   description: A group project led from Stony Brook University.  Columbia is a major

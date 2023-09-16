@@ -2078,10 +2078,10 @@ iadnan:
 idouglas:
   active: true
   aka: []
-  avatar: https://github.com/.png
+  avatar: https://github.com/imanis-d.png
   bio: bio
   education: []
-  email: "\x16Imanis.douglas@gmail.com"
+  email: Imanis.douglas@gmail.com
   employment:
     - begin_date: 2023-06-09
       end_date: 2023-08-15
@@ -2090,7 +2090,7 @@ idouglas:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: ''
+  github_id: imanis-d
   grp_mtg_active: true
   name: Imani Douglas
   orcid_id: ''
