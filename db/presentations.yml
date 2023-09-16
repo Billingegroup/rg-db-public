@@ -4851,7 +4851,7 @@
   project:
     - all
   status: accepted
-  title: tbd
+  title: 'Total Scattering: Materials Beyond Crystallography'
   type: invited
   webinar: false
 2308sb_excelsusstructuralsolutions,stjohanncampus,basel,switzerlan:
@@ -4884,7 +4884,7 @@
   type: seminar
 2308sb_melbourne,australia:
   abstract: This talk will be down in the trenches and aimed at a target audience
-    of programmers.  Those of use who use Python extensively for our data analysis
+    of programmers.  Those of us who use Python extensively for our data analysis
     and modeling find ourselves often making plots and figures using the ubiquitous
     matplotlib package.   It is deliciously easy to use to make  great exploratory
     graphics using its defaults and interactive plot interfaces.  On the other hand,
@@ -4998,6 +4998,32 @@
   status: accepted
   title: tbd
   type: invited
+2311sb_switzerland:
+  abstract: 'Nanoparticles, nanoporous materials and nanostructured bulk materials
+    are at the heart of next generation technological solutions in sustainable energy,
+    effective new pharmaceuticals, and environmental remediation.    Their study involves
+    going beyond traditional crystallography to understand local arrangements of atoms
+    on different length-scales.  These lectures will explore this problem, and describe
+    recent developments in solutions based on total scattering methods such as the
+    atomic pair distribution function (PDF) method.  They will explore the state of
+    the art in time and spatially resolved studies of heterogeneous samples, operando
+    measurements from operating devices, developments in ultra-fast pump-probe PDF
+    measurements using x-ray free electron lasers, and latest approaches in data interpretation
+    using machine learning and artificial intelligence.  '
+  authors:
+    - sbillinge
+  begin_date: 2023-11-06
+  end_date: 2023-11-10
+  location: Switzerland
+  meeting_name: Howard Flack Prize Lectures of the Swiss Society for Crystallographic
+  notes:
+    - 6 lectures in 5 days.  The actual lecture titles and institutions will be put
+      separately
+  project:
+    - all
+  status: accepted
+  title: 'Real Materials in Action: studying structure on different length and timescales'
+  type: award
 2404sb_seattle,wa:
   abstract: tbd
   authors:
