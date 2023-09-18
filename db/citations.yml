@@ -5293,6 +5293,48 @@ gu;aca23:
   wwwemail: ''
   wwwpub: ''
   year: '2023'
+gu;unpublished23:
+  ackno: We would like to thank Dr. Daniel Olds, for assistance during the measurements
+    of the experimental PDF data. The work described here was funded by the Next Generation
+    Synthesis Center (GENESIS), an Energy Frontier Research Center funded by the U.S.
+    Department of Energy, Office of Science, Basic Energy Sciences under Award Number
+    DE-SC0019212. X-ray PDF measurements were conducted on beamline 28-ID-2 of the
+    National Synchrotron Light Source II, a US DOE Office of Science User Facility
+    operated for the DOE Office of Science by Brookhaven National Laboratory under
+    contract No. DESC0012704.
+  author:
+    - Ran Gu
+    - Yevgeny Rakita
+    - Ling Lan
+    - Zach Thatcher
+    - Gabrielle E. Kamm
+    - Daniel O’Nolan
+    - Brennan Mcbride
+    - Allison Wustrow
+    - James R. Neilson
+    - Karena W. Chapman
+    - Qiang Du
+    - Simon J. L. Billinge
+  day: ''
+  doi: ''
+  entrytype: article
+  facility: nslslii, xpd
+  grant: efrc18
+  journal: tbd
+  month: tbd
+  nb: fy24, typeA
+  number: ''
+  optannote: ''
+  optnote: ''
+  pages: ''
+  synopsis: stretched and sparse-stretched NMF unsupervised ML algorithms are described
+    and tested against temperature dependent x-ray data from in situ inorganic chemical
+    synthesis experiments.
+  tags: ml, nmf, synthesis, in-situ
+  title: Stretched Non-negative Matrix Factorization
+  url: ''
+  volume: ''
+  year: '2023'
 gualt;jac08:
   author:
     - Gualtieri, A. F.
@@ -13166,44 +13208,3 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
-gu;unpublished23:
-  ackno: We would like to thank Dr. Daniel Olds, for assistance during
-    the measurements of the experimental PDF data. The work described here was funded
-    by the Next Generation Synthesis Center (GENESIS), an Energy Frontier Research
-    Center funded by the U.S. Department of Energy, Office of Science, Basic Energy
-    Sciences under Award Number DE-SC0019212. X-ray PDF measurements were conducted on beamline 28-ID-2 of the National Synchrotron Light Source II, a US DOE
-    Office of Science User Facility operated for the DOE Office of Science by Brookhaven
-    National Laboratory under contract No. DESC0012704.
-  author:
-    - Ran Gu
-    - Yevgeny Rakita
-    - Ling Lan
-    - Zach Thatcher
-    - Gabrielle E. Kamm
-    - Daniel O’Nolan
-    - Brennan Mcbride
-    - Allison Wustrow
-    - James R. Neilson
-    - Karena W. Chapman
-    - Qiang Du
-    - Simon J. L. Billinge
-  day: ''
-  doi: ''
-  entrytype: article
-  facility: nslslii, xpd
-  grant: efrc18
-  journal: tbd
-  month: tbd
-  nb: fy24, typeA
-  number: ''
-  optannote: ''
-  optnote: ''
-  pages: ''
-  synopsis: stretched and sparse-stretched NMF unsupervised ML algorithms are 
-    described and tested against temperature dependent x-ray data from in situ 
-    inorganic chemical synthesis experiments.
-  tags: ml, nmf, synthesis, in-situ
-  title: Stretched Non-negative Matrix Factorization
-  url: ''
-  volume: ''
-  year: '2023'
