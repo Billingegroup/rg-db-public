@@ -682,7 +682,7 @@ enthought:
   zip: '78701'
 epfl:
   aka:
-    - EPFL,
+    - EPFL
     - EPFL Valais
     - EPFL Wallis
   city: Sion
@@ -699,7 +699,7 @@ epfl:
       aka: Faculté des sciences de base
   updated: 2023-09-14 15:37:56.010065
   uuid: ba64bfe7-26d1-4aa6-beed-ccd42e3a6a28
-  zip: '1951'
+  zip: 'CH-1951'
 ercfmaswe:
   city: Jülich
   country: Germany
