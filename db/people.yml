@@ -1418,7 +1418,7 @@ eculbertson:
   skills: []
   title: ''
 edennis:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/eryndennis.png
   bio: Eryn is a second year undergraduate student at Penn State University. She is
@@ -1443,8 +1443,8 @@ edennis:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: "\x16eryndennis"
-  grp_mtg_active: true
+  github_id: eryndennis
+  grp_mtg_active: false
   name: Eryn Dennis
   orcid_id: ''
   position: undergraduate researcher
@@ -2475,7 +2475,7 @@ jwilley:
   orcid_id: 0000-0003-1572-0249
   position: masters researcher
 jwlee:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/jaewon078.png
   bio: Jaewon Lee is currently a student at Columbia University majoring in Computer
@@ -2495,7 +2495,7 @@ jwlee:
       advisor: sbillinge
       status: undergrad
   github_id: jaewon078
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Jaewon Lee
   orcid_id: ''
   position: Undergraduate Researcher
@@ -2620,9 +2620,9 @@ kknox:
   position: president
   position_full: Vice President
 klchen:
-  active: true
+  active: false
   aka: []
-  avatar: "https://github.com/\x16KlynnC.png"
+  avatar: https://github.com/KlynnC.png
   bio: bio
   education: []
   email: kc3520@columbia.edu
@@ -5430,7 +5430,7 @@ swhan:
   name: Sang-Wook Han
   position: unknown
 swu:
-  active: true
+  active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
   bio: Sean is a third year undergraduate student at Pepperdine University. He is
@@ -5452,7 +5452,7 @@ swu:
       advisor: sbillinge
       status: undergrad
   github_id: "\x16seanwu25"
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Sean Wu
   orcid_id: ''
   position: undergraduate visitor

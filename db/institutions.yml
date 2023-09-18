@@ -738,6 +738,13 @@ ethzurich:
   state: ''
   street: Wolfgang-Pauli-Strasse 27
   zip: CH-8093
+excelsus:
+  city: Basel
+  country: Switzerland
+  date: 2023-07-19
+  name: ' Excelsus Structural Solutions (Swiss) AG'
+  updated: 2023-07-19 11:27:14.607830
+  uuid: 5a2732fa-06d2-4f7e-9ec4-ceff7852aa44
 famu:
   city: Tallahassee
   country: USA
