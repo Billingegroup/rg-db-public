@@ -5057,3 +5057,18 @@
   status: accepted
   title: tbd
   type: invited
+2309sb_columbiauniversity:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2023-09-22
+  end_date: 2023-09-22
+  location: Columbia University
+  meeting_name: APAM department research conference
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Handling heterogeneity in materials structure characterization: approaches
+    to separate signals using multiple spaces'
+  type: invited
