@@ -113,21 +113,20 @@
   title: Atomic pair distribution function ({PDF}) analysis of {Co-Se} superatoms
   type: invited
 1803_stuttgart:
-  abstract: "Recent developments from PDFland: new methods for nanostructure determination',\
-    \ Abstract: 'Modern materials under study for next generation technologies, such\
-    \ as for energy conversion and storage, environmental remediation and health,\
-    \ are highly complex, often heterogeneous and nano-structured.  A full understanding\
-    \ of the structure requires us to go beyond crystallography and to study the local\
-    \ aperiodic components of the structure, which is a major experimental challenge.\
-    \ Among these tools are total scattering at atomic pair distribution function\
-    \ (PDF) methods which use diffuse and Bragg scattering to give information about\
-    \ short and intermediate range structure in nanomaterials and bulk materials.\
-    \ Whilst basic PDF methods are maturing and becoming quite widely used, there\
-    \ are a number of new developments that broaden the application of the method\
-    \ to new problems.  I will summarize some of the developments that are happening\
-    \ in our group and describe the kinds of scientific problems that can be addressed\
-    \ this way, from batteries to magnetic materials to charge ordered materials and\
-    \ thin films."
+  abstract: "Recent developments from PDFland: new methods for nanostructure determination',
+    Abstract: 'Modern materials under study for next generation technologies, such
+    as for energy conversion and storage, environmental remediation and health, are
+    highly complex, often heterogeneous and nano-structured.  A full understanding
+    of the structure requires us to go beyond crystallography and to study the local
+    aperiodic components of the structure, which is a major experimental challenge.
+    Among these tools are total scattering at atomic pair distribution function (PDF)
+    methods which use diffuse and Bragg scattering to give information about short
+    and intermediate range structure in nanomaterials and bulk materials. Whilst basic
+    PDF methods are maturing and becoming quite widely used, there are a number of
+    new developments that broaden the application of the method to new problems. \
+    \ I will summarize some of the developments that are happening in our group and
+    describe the kinds of scientific problems that can be addressed this way, from
+    batteries to magnetic materials to charge ordered materials and thin films."
   authors:
     - sbillinge
   begin_day: 4
@@ -274,28 +273,27 @@
   title: Finding and controlling atoms at the nanoscale for better drug delivery
   type: award
 1805_BusseLectureUW2:
-  abstract: "In the solid state, small molecules such as active pharmaceutical ingredient\
-    \ (API) molecules tend to pack in well defined arrangements leading to different\
-    \ crystalline polymorphs. An alternative solid form, increasingly of interest\
-    \ in the pharmaceutical industry, is the amorphous state. This state is characterized\
-    \ by a broad and largely featureless XRD pattern, the so-called  'amorphous halo',\
-    \ devoid of Bragg-peaks due to the lack of long-range order in the packing. There\
-    \ is a further, intermediate situation, which that of ultra-small nanoparticulate\
-    \ solid drugs.  These also give broad and featureless XRD patterns, but actually\
-    \ have order over a few nm lengthscale. /\nA major challenge in bringing drugs\
-    \ to market in the amorphous form is the lack of a reliable method for fingerprinting,\
-    \ let alone carrying out a more complete structural characterization of, these\
-    \ materials.  We have recently been exploring whether total scattering atomic\
-    \ pair distribution function methods (TSPDF) can alleviate this bottleneck.  TSPDF\
-    \ uses short wavelength x-rays to obtain a scattering pattern of sufficient quality\
-    \ that it can be Fourier transformed to obtain a meaningful real-space pair distribution\
-    \ function that shows the distribution of atomic distances in the solid. We found\
-    \ that the approach is highly promising and provides additional information not\
-    \ available in a conventional XRD approach in the case of amorphous API's.  I\
-    \ will describe the method and show our results on a range of materials from more\
-    \ simple to more complex molecules.  It is possible to differentiate truly amorphous\
-    \ from nanocrystalline forms and learn a surprising amount about the underlying\
-    \ molecular packing"
+  abstract: "In the solid state, small molecules such as active pharmaceutical ingredient
+    (API) molecules tend to pack in well defined arrangements leading to different
+    crystalline polymorphs. An alternative solid form, increasingly of interest in
+    the pharmaceutical industry, is the amorphous state. This state is characterized
+    by a broad and largely featureless XRD pattern, the so-called  'amorphous halo',
+    devoid of Bragg-peaks due to the lack of long-range order in the packing. There
+    is a further, intermediate situation, which that of ultra-small nanoparticulate
+    solid drugs.  These also give broad and featureless XRD patterns, but actually
+    have order over a few nm lengthscale. /\nA major challenge in bringing drugs to
+    market in the amorphous form is the lack of a reliable method for fingerprinting,
+    let alone carrying out a more complete structural characterization of, these materials.\
+    \  We have recently been exploring whether total scattering atomic pair distribution
+    function methods (TSPDF) can alleviate this bottleneck.  TSPDF uses short wavelength
+    x-rays to obtain a scattering pattern of sufficient quality that it can be Fourier
+    transformed to obtain a meaningful real-space pair distribution function that
+    shows the distribution of atomic distances in the solid. We found that the approach
+    is highly promising and provides additional information not available in a conventional
+    XRD approach in the case of amorphous API's.  I will describe the method and show
+    our results on a range of materials from more simple to more complex molecules.\
+    \  It is possible to differentiate truly amorphous from nanocrystalline forms
+    and learn a surprising amount about the underlying molecular packing"
   authors:
     - sbillinge
   begin_day: 2
@@ -1785,31 +1783,30 @@
   type: invited
 2005sb_SibenikCroatia:
   abstract: "The nanostructure inverse problem (NIP) aims to answer the following\
-    \  question: given a diffraction pattern from a nanostructured material, what\
-    \ is the 3D arrangement of atoms that gave rise to it?  It seems that it the same\
-    \ as the 'crystal structure inverse problem' that is (largely) solved by the powerful\
-    \ methods of crystallography.  However, a number of aspects make this problem\
-    \ much more challenging.  First, it is difficult or impossible to get a 3D pattern\
-    \ from a single nanoparticle or nanodomain often forcing us to solve the problem\
-    \ from nano-powder-data, which greatly degrades the information content in the\
-    \ data.  Second, the resulting structural models are more complex than those from\
-    \ regular crystals because, beyond the location of atoms in a well defined unit\
-    \ cell, it is necesaary to specify the nature of aperiodic deviations from the\
-    \ average (for example, position dependent bond-lengths, surface relaxations and\
-    \ dressing, etc.), and to specify morphological aspects of the nanoparticles and\
-    \ nanodomains.  The reduction in information content in the data, coupled with\
-    \ the increase in the complexity of the resulting models make these problems often\
-    \ ill-posed with no unique, correct,  solution. Nonetheless, the fundamental importance\
-    \ of the structure-property relationship in materials means that solve this problem\
-    \ we must, and with picometer precision.\nIn this talk I will discuss some changes\
-    \ in approach to the the problem that we have recently been exploring that take\
-    \ us in the direction of the use of data analytics, machine learning, and artificial\
-    \ intelligence.  These approaches have had a powerful impact in commerce and our\
-    \ online life, but less so in materials science.  The attraction of these approaches\
-    \ is that they are inherently well tuned to handle ill-posed statistical problems\
-    \ such as the NIP, but it will require a change how we approach the analysis of\
-    \ these problems.  I will discuss our initial steps in this direction and propose\
-    \ a path forward."
+    \  question: given a diffraction pattern from a nanostructured material, what
+    is the 3D arrangement of atoms that gave rise to it?  It seems that it the same
+    as the 'crystal structure inverse problem' that is (largely) solved by the powerful
+    methods of crystallography.  However, a number of aspects make this problem much
+    more challenging.  First, it is difficult or impossible to get a 3D pattern from
+    a single nanoparticle or nanodomain often forcing us to solve the problem from
+    nano-powder-data, which greatly degrades the information content in the data.\
+    \  Second, the resulting structural models are more complex than those from regular
+    crystals because, beyond the location of atoms in a well defined unit cell, it
+    is necesaary to specify the nature of aperiodic deviations from the average (for
+    example, position dependent bond-lengths, surface relaxations and dressing, etc.),
+    and to specify morphological aspects of the nanoparticles and nanodomains.  The
+    reduction in information content in the data, coupled with the increase in the
+    complexity of the resulting models make these problems often ill-posed with no
+    unique, correct,  solution. Nonetheless, the fundamental importance of the structure-property
+    relationship in materials means that solve this problem we must, and with picometer
+    precision.\nIn this talk I will discuss some changes in approach to the the problem
+    that we have recently been exploring that take us in the direction of the use
+    of data analytics, machine learning, and artificial intelligence.  These approaches
+    have had a powerful impact in commerce and our online life, but less so in materials
+    science.  The attraction of these approaches is that they are inherently well
+    tuned to handle ill-posed statistical problems such as the NIP, but it will require
+    a change how we approach the analysis of these problems.  I will discuss our initial
+    steps in this direction and propose a path forward."
   authors:
     - sbillinge
   begin_day: 24
@@ -2744,36 +2741,35 @@
     world with the help of machine learning'
   type: invited
 2108ss_prague:
-  abstract: "When doing structural refinements of total scattering data from highly\
-    \ crystalline compounds, one starts by choosing an atomic model and then imposing\
-    \ constraints that dictate how the atoms are allowed to move. These constraints\
-    \ are typically based on space group symmetry. The resulting structure representation\
-    \ is useful and accurate for a large range of compounds, however, it has its limitations\
-    \ for materials with a significant amount of disorder. It is particularly necessary\
-    \ to accurately describe this disorder when fitting total scattering data in the\
-    \ real space as pair distribution functions. To represent such disordered, but\
-    \ still significantly crystalline compounds, one would ideally want to fit the\
-    \ data with a ‘big-box’ model containing anything from a hundred to a few thousand\
-    \ atoms. Unfortunately, this can lead to a large number of variables to refine\
-    \ and an overfitting of the data with meaningless results. Alternatively, it is\
-    \ possible to construct models where multiple atoms are constrained to move in\
-    \ a collective fashion, controlled by a small number of variables [1,2]. Here\
-    \ we present one such approach, relying on our a priori knowledge of the structure\
-    \ at hand. For oxides with perovskite structure, ABO3, we know that they tend\
-    \ to distort in ways that keep the BO6 octahedra intact. The resulting distortions\
-    \ can therefore often be described by one of 23 unique tilting patterns of the\
-    \ rigid octahedra, identified by Glazer in the '70s [3]. Fitting a model of any\
-    \ of the tilting patterns to scattering data requires refinement of no more than\
-    \ four variables at once – one lattice parameter and a maximum of three tilt amplitudes.\
-    \ We have implemented this approach into diffpy-CMI, a flexible tool for fitting\
-    \ pair distribution function data. Using the method, we analyse a series of scattering\
-    \ data from well-known perovskites and determine their degree and type of structural\
-    \ tilting disorder. [1] Sartbaeva, A. ‘Quadrupolar Ordering in LaMnO3 Revealed\
-    \ from Scattering Data and Geometric Modeling’. Phys. Rev. Lett. 99, no. 15 (2007):\
-    \ 155503. [2] Senn, M. S. et al. ‘Emergence of Long-Range Order in BaTiO3 from\
-    \ Local Symmetry-Breaking Distortions’. Phys. Rev. Lett. 116, no. 20 (2016): 207602.\
-    \ [3] Glazer, A. M. ‘The Classification of Tilted Octahedra in Perovskites’. Acta\
-    \ Cryst. B 28, no. 11 (1972): 3384–92."
+  abstract: "When doing structural refinements of total scattering data from highly
+    crystalline compounds, one starts by choosing an atomic model and then imposing
+    constraints that dictate how the atoms are allowed to move. These constraints
+    are typically based on space group symmetry. The resulting structure representation
+    is useful and accurate for a large range of compounds, however, it has its limitations
+    for materials with a significant amount of disorder. It is particularly necessary
+    to accurately describe this disorder when fitting total scattering data in the
+    real space as pair distribution functions. To represent such disordered, but still
+    significantly crystalline compounds, one would ideally want to fit the data with
+    a ‘big-box’ model containing anything from a hundred to a few thousand atoms.
+    Unfortunately, this can lead to a large number of variables to refine and an overfitting
+    of the data with meaningless results. Alternatively, it is possible to construct
+    models where multiple atoms are constrained to move in a collective fashion, controlled
+    by a small number of variables [1,2]. Here we present one such approach, relying
+    on our a priori knowledge of the structure at hand. For oxides with perovskite
+    structure, ABO3, we know that they tend to distort in ways that keep the BO6 octahedra
+    intact. The resulting distortions can therefore often be described by one of 23
+    unique tilting patterns of the rigid octahedra, identified by Glazer in the '70s
+    [3]. Fitting a model of any of the tilting patterns to scattering data requires
+    refinement of no more than four variables at once – one lattice parameter and
+    a maximum of three tilt amplitudes. We have implemented this approach into diffpy-CMI,
+    a flexible tool for fitting pair distribution function data. Using the method,
+    we analyse a series of scattering data from well-known perovskites and determine
+    their degree and type of structural tilting disorder. [1] Sartbaeva, A. ‘Quadrupolar
+    Ordering in LaMnO3 Revealed from Scattering Data and Geometric Modeling’. Phys.
+    Rev. Lett. 99, no. 15 (2007): 155503. [2] Senn, M. S. et al. ‘Emergence of Long-Range
+    Order in BaTiO3 from Local Symmetry-Breaking Distortions’. Phys. Rev. Lett. 116,
+    no. 20 (2016): 207602. [3] Glazer, A. M. ‘The Classification of Tilted Octahedra
+    in Perovskites’. Acta Cryst. B 28, no. 11 (1972): 3384–92."
   authors:
     - Sandra H. Skjaervoe
     - Simon J. L. Billinge
@@ -3683,50 +3679,49 @@
   type: plenary
   webinar: true
 2204sb_rigakupharma:
-  abstract: "Increasingly, it is becoming necessary to formulate pharmaceuticals with\
-    \ the active pharmaceutical ingredient (API) in complex forms such as nanocrystalline\
-    \ or in the amorphous state, and often in a composite with other amorphous excipients.\
-    \ The amorphous state is characterized by a broad and largely featureless XRD\
-    \ pattern, the so-called 'amorphous halo', devoid of Bragg-peaks due to the lack\
-    \ of long-range order in the packing. The nanoparticulate state also results in\
-    \ broad and featureless XRD patterns, but actually has molecular packing order\
-    \ over a few nm length-scale.\nA major challenge in bringing drugs to market in\
-    \ the amorphous form is the lack of a reliable method for fingerprinting, let\
-    \ alone carrying out a more complete structural characterization of these materials.\
-    \  We have recently been exploring whether total scattering atomic pair distribution\
-    \ function methods (TSPDF) [1] can alleviate this bottleneck.  I will introduce\
-    \ the PDF method and describe some studies that exemplify its use, including examples\
-    \ from the world of pharmaceuticals.\nEven in the amorphous and liquid states,\
-    \ if there is a preference towards a certain specific local packing of the molecules,\
-    \ this will be evident in the PDF, yielding valuable information.  For example,\
-    \ in a recent study (unpublished) we were able to detect that two differently\
-    \ amorphized products from the same molecule had slightly different hydrogen bonding\
-    \ networks.  It was also possible to observe metastable intermediates during the\
-    \ recrystallization of amorphous lactose [3] We have found that the approach yields\
-    \ detailed quantitative information about small molecule systems not available\
-    \ in a conventional XRD approach including quantification of amorphous components\
-    \ [4]. We have recently further developed the methods to be able to study objects\
-    \ in space- and time-resolved ways which will allow mapping of amorphous constituents.\
-    \ I will describe the method and show our results on a range of materials from\
-    \ more simple to more complex molecules.  It is possible to differentiate truly\
-    \ amorphous from nanocrystalline forms and learn a surprising amount about the\
-    \ underlying packing References: [1] Billinge, Simon J. L., Timur Dykhne, Pavol\
-    \ Juh_as, Emil Bo_zin, Ryan Taylor, Alastair J. Florence, and Kenneth Shankland.\
-    \ Characterisation of amorphous and nanocrystalline molecular materials by total\
-    \ scattering. In: CrystEngComm 12.5 (2010), pp. 1366{1368. doi: 10.1039/b915453a.\
-    \ url: http://pubs.rsc.org/en/Content/ArticleLanding/2010/CE/b915453a [2] Maxwell\
-    \ W. Terban, Matthew Johnson, Marco DiMichiel, and Billinge, Simon J. L. Detection\
-    \ and characterization of nanoparticles in suspension at low concentrations using\
-    \ the x-ray total scattering pair distribution function technique. In: Nanoscale\
-    \ 7 (2015), pp. 5480{5487. doi: 10.1039/C4NR06486K. url: http://dx.doi.org/10.1039/C4NR06486K\
-    \ [3] Maxwell W. Terban, Eugene Y. Cheung, Paul Krolikowski, and Billinge, Simon\
-    \ J. L. Recrystallization, phase composition, and local structure of amorphous\
-    \ lactose from the total scattering pair distribution function. In: Cryst. Growth\
-    \ Des. 16.1 (2015), 210{220. doi: 10.1021/acs.cgd.5b01100. url:  http://pubs.acs.org/doi/full/10.1021/acs.cgd.5b01100\
-    \ [4] Timur Davis, Matthew Johnson, and Billinge, Simon J. L. Towards phase quanti_cation\
-    \ at the nanoscale using the total scattering pair distribution function (TSPDF)\
-    \ method: recrystallization of cryomilled sulfamerazine. In: Cryst. Growth Des.\
-    \ 13 (2013), 4239{4244. url: http://pubs.acs.org/doi/abs/10.1021/cg400179p"
+  abstract: "Increasingly, it is becoming necessary to formulate pharmaceuticals with
+    the active pharmaceutical ingredient (API) in complex forms such as nanocrystalline
+    or in the amorphous state, and often in a composite with other amorphous excipients.
+    The amorphous state is characterized by a broad and largely featureless XRD pattern,
+    the so-called 'amorphous halo', devoid of Bragg-peaks due to the lack of long-range
+    order in the packing. The nanoparticulate state also results in broad and featureless
+    XRD patterns, but actually has molecular packing order over a few nm length-scale.\n
+    A major challenge in bringing drugs to market in the amorphous form is the lack
+    of a reliable method for fingerprinting, let alone carrying out a more complete
+    structural characterization of these materials.  We have recently been exploring
+    whether total scattering atomic pair distribution function methods (TSPDF) [1]
+    can alleviate this bottleneck.  I will introduce the PDF method and describe some
+    studies that exemplify its use, including examples from the world of pharmaceuticals.\n
+    Even in the amorphous and liquid states, if there is a preference towards a certain
+    specific local packing of the molecules, this will be evident in the PDF, yielding
+    valuable information.  For example, in a recent study (unpublished) we were able
+    to detect that two differently amorphized products from the same molecule had
+    slightly different hydrogen bonding networks.  It was also possible to observe
+    metastable intermediates during the recrystallization of amorphous lactose [3]
+    We have found that the approach yields detailed quantitative information about
+    small molecule systems not available in a conventional XRD approach including
+    quantification of amorphous components [4]. We have recently further developed
+    the methods to be able to study objects in space- and time-resolved ways which
+    will allow mapping of amorphous constituents. I will describe the method and show
+    our results on a range of materials from more simple to more complex molecules.\
+    \  It is possible to differentiate truly amorphous from nanocrystalline forms
+    and learn a surprising amount about the underlying packing References: [1] Billinge,
+    Simon J. L., Timur Dykhne, Pavol Juh_as, Emil Bo_zin, Ryan Taylor, Alastair J.
+    Florence, and Kenneth Shankland. Characterisation of amorphous and nanocrystalline
+    molecular materials by total scattering. In: CrystEngComm 12.5 (2010), pp. 1366{1368.
+    doi: 10.1039/b915453a. url: http://pubs.rsc.org/en/Content/ArticleLanding/2010/CE/b915453a
+    [2] Maxwell W. Terban, Matthew Johnson, Marco DiMichiel, and Billinge, Simon J.
+    L. Detection and characterization of nanoparticles in suspension at low concentrations
+    using the x-ray total scattering pair distribution function technique. In: Nanoscale
+    7 (2015), pp. 5480{5487. doi: 10.1039/C4NR06486K. url: http://dx.doi.org/10.1039/C4NR06486K
+    [3] Maxwell W. Terban, Eugene Y. Cheung, Paul Krolikowski, and Billinge, Simon
+    J. L. Recrystallization, phase composition, and local structure of amorphous lactose
+    from the total scattering pair distribution function. In: Cryst. Growth Des. 16.1
+    (2015), 210{220. doi: 10.1021/acs.cgd.5b01100. url:  http://pubs.acs.org/doi/full/10.1021/acs.cgd.5b01100
+    [4] Timur Davis, Matthew Johnson, and Billinge, Simon J. L. Towards phase quanti_cation
+    at the nanoscale using the total scattering pair distribution function (TSPDF)
+    method: recrystallization of cryomilled sulfamerazine. In: Cryst. Growth Des.
+    13 (2013), 4239{4244. url: http://pubs.acs.org/doi/abs/10.1021/cg400179p"
   authors:
     - sbillinge
   begin_date: 2022-04-27
@@ -3799,58 +3794,57 @@
   type: seminar
   webinar: true
 2205sb_eciBoulderCO:
-  abstract: "Purpose: Increasingly, it is becoming necessary to formulate pharmaceuticals\
-    \ with the active pharmaceutical ingredient (API) in complex forms such as nanocrystalline\
-    \ or in the amorphous state, and often in a composite with other amorphous excipients.\
-    \ The amorphous states is characterized by a broad and largely featureless XRD\
-    \ pattern, the so-called 'amorphous halo', devoid of Bragg-peaks due to the lack\
-    \ of long-range order in the packing. The nanoparticulate state also results in\
-    \ broad and featureless XRD patterns, but actually has molecular packing order\
-    \ over a few nm length-scale.\nA major challenge in bringing drugs to market in\
-    \ the amorphous form is the lack of a reliable method for fingerprinting, let\
-    \ alone carrying out a more complete structural characterization of these materials.\
-    \  We have recently been exploring whether total scattering atomic pair distribution\
-    \ function methods (TSPDF) [1] can alleviate this bottleneck.\nMethod: TSPDF uses\
-    \ short wavelength x-rays to obtain a scattering pattern of sufficient quality\
-    \ that it can be Fourier transformed to obtain a meaningful real-space pair distribution\
-    \ function (PDF).  The PDF is a representation of the distribution of atomic distances\
-    \ in the solid. For molecular materials there is an intra-molecular contribution\
-    \ that yields information about the geometry of the molecules themselves.  There\
-    \ is also an inter-molecular contribution that shows how the molecules pack together\
-    \ in the solid state.\nResults: For crystalline materials there is a well-defined\
-    \ inter-molecular signal that shows the crystal structure of the particular form\
-    \ of the material.  For amorphous or liquid state materials, the intermolecular\
-    \ part will tend to average to zero, the intra-molecular component will survive.\
-    \  Even in the amorphous and liquid states, if there is a preference towards a\
-    \ certain specific local packing of the molecules, this will be evident in the\
-    \ PDF, yielding valuable information.  For example, in a recent study (unpublished)\
-    \ we were able to detect that two differently amorphized products from the same\
-    \ molecule had slightly different hydrogen bonding networks.  It was also possible\
-    \ to observe metastable intermediates during the recrystallization of amorphous\
-    \ lactose [3] We have found that the approach yields detailed quantitative information\
-    \ about small molecule systems not available in a conventional XRD approach including\
-    \ quantification of amorphous components [4].\nWe have recently further developed\
-    \ the methods to be able to study objects in space- and time-resolved ways which\
-    \ will allow mapping of amorphous constituents. I will describe the method and\
-    \ show our results on a range of materials from more simple to more complex molecules.\
-    \  It is possible to differentiate truly amorphous from nanocrystalline forms\
-    \ and learn a surprising amount about the underlying packing\nReferences: [1]\
-    \ Billinge, Simon J. L., Timur Dykhne, Pavol Juh_as, Emil Bo_zin, Ryan Taylor,\
-    \ Alastair J. Florence, and Kenneth Shankland. Characterisation of amorphous and\
-    \ nanocrystalline molecular materials by total scattering. In: CrystEngComm 12.5\
-    \ (2010), pp. 1366{1368. doi: 10.1039/b915453a. url: http://pubs.rsc.org/en/Content/ArticleLanding/2010/CE/b915453a\
-    \ [2] Maxwell W. Terban, Matthew Johnson, Marco DiMichiel, and Billinge, Simon\
-    \ J. L. Detection and characterization of nanoparticles in suspension at low concentrations\
-    \ using the x-ray total scattering pair distribution function technique. In: Nanoscale\
-    \ 7 (2015), pp. 5480{5487. doi: 10.1039/C4NR06486K. url: http://dx.doi.org/10.1039/C4NR06486K\
-    \ [3] Maxwell W. Terban, Eugene Y. Cheung, Paul Krolikowski, and Billinge, Simon\
-    \ J. L. Recrystallization, phase composition, and local structure of amorphous\
-    \ lactose from the total scattering pair distribution function. In: Cryst. Growth\
-    \ Des. 16.1 (2015), 210{220. doi: 10.1021/acs.cgd.5b01100. url:  http://pubs.acs.org/doi/full/10.1021/acs.cgd.5b01100\
-    \ [4] Timur Davis, Matthew Johnson, and Billinge, Simon J. L. Towards phase quanti_cation\
-    \ at the nanoscale using the total scattering pair distribution function (TSPDF)\
-    \ method: recrystallization of cryomilled sulfamerazine. In: Cryst. Growth Des.\
-    \ 13 (2013), 4239{4244. url: http://pubs.acs.org/doi/abs/10.1021/cg400179p"
+  abstract: "Purpose: Increasingly, it is becoming necessary to formulate pharmaceuticals
+    with the active pharmaceutical ingredient (API) in complex forms such as nanocrystalline
+    or in the amorphous state, and often in a composite with other amorphous excipients.
+    The amorphous states is characterized by a broad and largely featureless XRD pattern,
+    the so-called 'amorphous halo', devoid of Bragg-peaks due to the lack of long-range
+    order in the packing. The nanoparticulate state also results in broad and featureless
+    XRD patterns, but actually has molecular packing order over a few nm length-scale.\n
+    A major challenge in bringing drugs to market in the amorphous form is the lack
+    of a reliable method for fingerprinting, let alone carrying out a more complete
+    structural characterization of these materials.  We have recently been exploring
+    whether total scattering atomic pair distribution function methods (TSPDF) [1]
+    can alleviate this bottleneck.\nMethod: TSPDF uses short wavelength x-rays to
+    obtain a scattering pattern of sufficient quality that it can be Fourier transformed
+    to obtain a meaningful real-space pair distribution function (PDF).  The PDF is
+    a representation of the distribution of atomic distances in the solid. For molecular
+    materials there is an intra-molecular contribution that yields information about
+    the geometry of the molecules themselves.  There is also an inter-molecular contribution
+    that shows how the molecules pack together in the solid state.\nResults: For crystalline
+    materials there is a well-defined inter-molecular signal that shows the crystal
+    structure of the particular form of the material.  For amorphous or liquid state
+    materials, the intermolecular part will tend to average to zero, the intra-molecular
+    component will survive.  Even in the amorphous and liquid states, if there is
+    a preference towards a certain specific local packing of the molecules, this will
+    be evident in the PDF, yielding valuable information.  For example, in a recent
+    study (unpublished) we were able to detect that two differently amorphized products
+    from the same molecule had slightly different hydrogen bonding networks.  It was
+    also possible to observe metastable intermediates during the recrystallization
+    of amorphous lactose [3] We have found that the approach yields detailed quantitative
+    information about small molecule systems not available in a conventional XRD approach
+    including quantification of amorphous components [4].\nWe have recently further
+    developed the methods to be able to study objects in space- and time-resolved
+    ways which will allow mapping of amorphous constituents. I will describe the method
+    and show our results on a range of materials from more simple to more complex
+    molecules.  It is possible to differentiate truly amorphous from nanocrystalline
+    forms and learn a surprising amount about the underlying packing\nReferences:
+    [1] Billinge, Simon J. L., Timur Dykhne, Pavol Juh_as, Emil Bo_zin, Ryan Taylor,
+    Alastair J. Florence, and Kenneth Shankland. Characterisation of amorphous and
+    nanocrystalline molecular materials by total scattering. In: CrystEngComm 12.5
+    (2010), pp. 1366{1368. doi: 10.1039/b915453a. url: http://pubs.rsc.org/en/Content/ArticleLanding/2010/CE/b915453a
+    [2] Maxwell W. Terban, Matthew Johnson, Marco DiMichiel, and Billinge, Simon J.
+    L. Detection and characterization of nanoparticles in suspension at low concentrations
+    using the x-ray total scattering pair distribution function technique. In: Nanoscale
+    7 (2015), pp. 5480{5487. doi: 10.1039/C4NR06486K. url: http://dx.doi.org/10.1039/C4NR06486K
+    [3] Maxwell W. Terban, Eugene Y. Cheung, Paul Krolikowski, and Billinge, Simon
+    J. L. Recrystallization, phase composition, and local structure of amorphous lactose
+    from the total scattering pair distribution function. In: Cryst. Growth Des. 16.1
+    (2015), 210{220. doi: 10.1021/acs.cgd.5b01100. url:  http://pubs.acs.org/doi/full/10.1021/acs.cgd.5b01100
+    [4] Timur Davis, Matthew Johnson, and Billinge, Simon J. L. Towards phase quanti_cation
+    at the nanoscale using the total scattering pair distribution function (TSPDF)
+    method: recrystallization of cryomilled sulfamerazine. In: Cryst. Growth Des.
+    13 (2013), 4239{4244. url: http://pubs.acs.org/doi/abs/10.1021/cg400179p"
   authors:
     - sbillinge
   begin_day: 1
@@ -3869,31 +3863,30 @@
   type: invited
 2205sb_sibenik,croatia:
   abstract: "The nanostructure inverse problem (NIP) aims to answer the following\
-    \  question: given a diffraction pattern from a nanostructured material, what\
-    \ is the 3D arrangement of atoms that gave rise to it?  It seems that it the same\
-    \ as the 'crystal structure inverse problem' that is (largely) solved by the powerful\
-    \ methods of crystallography.  However, a number of aspects make this problem\
-    \ much more challenging.  First, it is difficult or impossible to get a 3D pattern\
-    \ from a single nanoparticle or nanodomain often forcing us to solve the problem\
-    \ from nano-powder-data, which greatly degrades the information content in the\
-    \ data.  Second, the resulting structural models are more complex than those from\
-    \ regular crystals because, beyond the location of atoms in a well defined unit\
-    \ cell, it is necesaary to specify the nature of aperiodic deviations from the\
-    \ average (for example, position dependent bond-lengths, surface relaxations and\
-    \ dressing, etc.), and to specify morphological aspects of the nanoparticles and\
-    \ nanodomains.  The reduction in information content in the data, coupled with\
-    \ the increase in the complexity of the resulting models make these problems often\
-    \ ill-posed with no unique, correct,  solution. Nonetheless, the fundamental importance\
-    \ of the structure-property relationship in materials means that solve this problem\
-    \ we must, and with picometer precision.\nIn this talk I will discuss some changes\
-    \ in approach to the the problem that we have recently been exploring that take\
-    \ us in the direction of the use of data analytics, machine learning, and artificial\
-    \ intelligence.  These approaches have had a powerful impact in commerce and our\
-    \ online life, but less so in materials science.  The attraction of these approaches\
-    \ is that they are inherently well tuned to handle ill-posed statistical problems\
-    \ such as the NIP, but it will require a change how we approach the analysis of\
-    \ these problems.  I will discuss our initial steps in this direction and propose\
-    \ a path forward."
+    \  question: given a diffraction pattern from a nanostructured material, what
+    is the 3D arrangement of atoms that gave rise to it?  It seems that it the same
+    as the 'crystal structure inverse problem' that is (largely) solved by the powerful
+    methods of crystallography.  However, a number of aspects make this problem much
+    more challenging.  First, it is difficult or impossible to get a 3D pattern from
+    a single nanoparticle or nanodomain often forcing us to solve the problem from
+    nano-powder-data, which greatly degrades the information content in the data.\
+    \  Second, the resulting structural models are more complex than those from regular
+    crystals because, beyond the location of atoms in a well defined unit cell, it
+    is necesaary to specify the nature of aperiodic deviations from the average (for
+    example, position dependent bond-lengths, surface relaxations and dressing, etc.),
+    and to specify morphological aspects of the nanoparticles and nanodomains.  The
+    reduction in information content in the data, coupled with the increase in the
+    complexity of the resulting models make these problems often ill-posed with no
+    unique, correct,  solution. Nonetheless, the fundamental importance of the structure-property
+    relationship in materials means that solve this problem we must, and with picometer
+    precision.\nIn this talk I will discuss some changes in approach to the the problem
+    that we have recently been exploring that take us in the direction of the use
+    of data analytics, machine learning, and artificial intelligence.  These approaches
+    have had a powerful impact in commerce and our online life, but less so in materials
+    science.  The attraction of these approaches is that they are inherently well
+    tuned to handle ill-posed statistical problems such as the NIP, but it will require
+    a change how we approach the analysis of these problems.  I will discuss our initial
+    steps in this direction and propose a path forward."
   authors:
     - sbillinge
   begin_date: 2022-05-31
@@ -4314,29 +4307,29 @@
   type: invited
   webinar: true
 2301sb_ultrafast,desy,hamburg:
-  abstract: "The atomic pair distribution function method is growing in popularity\
-    \ as an approach for studying local structure in nanomaterials, amorphous materials,\
-    \ moleculare materials and liquids, as well as a growing interest in the study\
-    \ of local symmetry breaking in bulk crystals.  It is a direct measure of the\
-    \ local structure in the vicinity of an atom.  As such, it is a very interesting\
-    \ representation of the structure in the context of time resolved measurements,\
-    \ becuase if the local bonding state or coordination of an atom is changed through\
-    \ photoexcitation, the PDF gives a direct measure of that change, and how the\
-    \ change propagates out in time from the location where it occured.\nDespite this,\
-    \ to date there has been very little work in measuring ultrafast PDFs (ufPDFs).\
-    \  The reasons are technological rather than scientific.  First, the resolution\
-    \ of the PDF in real space is directly determined by the measured range in momentum,\
-    \ Q.  To get quantitatively reliable PDF high Qmax values of greater than 20 inv.\
-    \ angstroms are required, and this requires good fluxes of short wavelength x-rays\
-    \ (> 20 keV) to be used.  Second, it is required to measure this wide range of\
-    \ reciprocal space quantitatively with low backgrounds and linear detector response.\
-    \  These limitations are now being addressed with latest generation large area\
-    \ 2D detectors and the developing of hard-x-ray free electron lasers.\nI will\
-    \ describe the PDF and how it could, in principle, be used in an ultrafast time\
-    \ resolved context.  I will then describe our recent attempt to obtain moderate\
-    \ resolution, quantitatively reliable, PDFs in an ultrafast PDF experiment at\
-    \ LCLS at SLAC.  The initial results are very promising, which opens the door\
-    \ to much more extensive quantitative time resolved local structural studies."
+  abstract: "The atomic pair distribution function method is growing in popularity
+    as an approach for studying local structure in nanomaterials, amorphous materials,
+    moleculare materials and liquids, as well as a growing interest in the study of
+    local symmetry breaking in bulk crystals.  It is a direct measure of the local
+    structure in the vicinity of an atom.  As such, it is a very interesting representation
+    of the structure in the context of time resolved measurements, becuase if the
+    local bonding state or coordination of an atom is changed through photoexcitation,
+    the PDF gives a direct measure of that change, and how the change propagates out
+    in time from the location where it occured.\nDespite this, to date there has been
+    very little work in measuring ultrafast PDFs (ufPDFs).  The reasons are technological
+    rather than scientific.  First, the resolution of the PDF in real space is directly
+    determined by the measured range in momentum, Q.  To get quantitatively reliable
+    PDF high Qmax values of greater than 20 inv. angstroms are required, and this
+    requires good fluxes of short wavelength x-rays (> 20 keV) to be used.  Second,
+    it is required to measure this wide range of reciprocal space quantitatively with
+    low backgrounds and linear detector response.  These limitations are now being
+    addressed with latest generation large area 2D detectors and the developing of
+    hard-x-ray free electron lasers.\nI will describe the PDF and how it could, in
+    principle, be used in an ultrafast time resolved context.  I will then describe
+    our recent attempt to obtain moderate resolution, quantitatively reliable, PDFs
+    in an ultrafast PDF experiment at LCLS at SLAC.  The initial results are very
+    promising, which opens the door to much more extensive quantitative time resolved
+    local structural studies."
   authors:
     - sbillinge
   begin_date: 2023-01-18
@@ -4649,29 +4642,29 @@
   type: invited
   webinar: true
 2305sb_argonnenationallaboratory:
-  abstract: "The atomic pair distribution function method is growing in popularity\
-    \ as an approach for studying local structure in nanomaterials, amorphous materials,\
-    \ moleculare materials and liquids, as well as a growing interest in the study\
-    \ of local symmetry breaking in bulk crystals.  It is a direct measure of the\
-    \ local structure in the vicinity of an atom.  As such, it is a very interesting\
-    \ representation of the structure in the context of time resolved measurements,\
-    \ becuase if the local bonding state or coordination of an atom is changed through\
-    \ photoexcitation, the PDF gives a direct measure of that change, and how the\
-    \ change propagates out in time from the location where it occured.\nDespite this,\
-    \ to date there has been very little work in measuring ultrafast PDFs (ufPDFs).\
-    \  The reasons are technological rather than scientific.  First, the resolution\
-    \ of the PDF in real space is directly determined by the measured range in momentum,\
-    \ Q.  To get quantitatively reliable PDF high Qmax values of greater than 20 inv.\
-    \ angstroms are required, and this requires good fluxes of short wavelength x-rays\
-    \ (> 20 keV) to be used.  Second, it is required to measure this wide range of\
-    \ reciprocal space quantitatively with low backgrounds and linear detector response.\
-    \  These limitations are now being addressed with latest generation large area\
-    \ 2D detectors and the developing of hard-x-ray free electron lasers.\nI will\
-    \ describe the PDF and how it could, in principle, be used in an ultrafast time\
-    \ resolved context.  I will then describe our recent attempt to obtain moderate\
-    \ resolution, quantitatively reliable, PDFs in an ultrafast PDF experiment at\
-    \ LCLS at SLAC.  The initial results are very promising, which opens the door\
-    \ to much more extensive quantitative time resolved local structural studies."
+  abstract: "The atomic pair distribution function method is growing in popularity
+    as an approach for studying local structure in nanomaterials, amorphous materials,
+    moleculare materials and liquids, as well as a growing interest in the study of
+    local symmetry breaking in bulk crystals.  It is a direct measure of the local
+    structure in the vicinity of an atom.  As such, it is a very interesting representation
+    of the structure in the context of time resolved measurements, becuase if the
+    local bonding state or coordination of an atom is changed through photoexcitation,
+    the PDF gives a direct measure of that change, and how the change propagates out
+    in time from the location where it occured.\nDespite this, to date there has been
+    very little work in measuring ultrafast PDFs (ufPDFs).  The reasons are technological
+    rather than scientific.  First, the resolution of the PDF in real space is directly
+    determined by the measured range in momentum, Q.  To get quantitatively reliable
+    PDF high Qmax values of greater than 20 inv. angstroms are required, and this
+    requires good fluxes of short wavelength x-rays (> 20 keV) to be used.  Second,
+    it is required to measure this wide range of reciprocal space quantitatively with
+    low backgrounds and linear detector response.  These limitations are now being
+    addressed with latest generation large area 2D detectors and the developing of
+    hard-x-ray free electron lasers.\nI will describe the PDF and how it could, in
+    principle, be used in an ultrafast time resolved context.  I will then describe
+    our recent attempt to obtain moderate resolution, quantitatively reliable, PDFs
+    in an ultrafast PDF experiment at LCLS at SLAC.  The initial results are very
+    promising, which opens the door to much more extensive quantitative time resolved
+    local structural studies."
   authors:
     - sbillinge
   begin_date: 2023-05-03
@@ -4922,31 +4915,30 @@
   type: invited
   webinar: true
 2308sb_sanfrancisco:
-  abstract: " Hard x-rays tend to make experiments easy.  They are penetrating allowing\
-    \ in situ, operando and spatially resolved measurements.  Large regions of reciprocal\
-    \ space can be covered rapidly opening the door to high real-space resolution\
-    \ total scattering measurements.  Absorption is lower making corrections easier,\
-    \ and resulting beam damage of the sample is less of a worry.  These things tend\
-    \ to make us greedy though.  We now want to put operating batteries in the beam\
-    \ and study spatially resolved labs-on-chip, do real-time autonomous experiments\
-    \ and use computed tomography to see diffraction from cross-sections of bulk samples.\
-    \  These developments, powered by wonderful source and detector developments,\
-    \ present major challenges on the data analysis side.  Now we are putting heterogeneous\
-    \ devices in the beam and getting signals from different parts of them.  We have\
-    \ bad powder averages (spotty data) because we can't spin the battery, and single\
-    \ crystal spots coming from some component in the setup that happens to be in\
-    \ the way of the beam.  We have unknown and unexpected phases coming and going,\
-    \ and want to extract tiny signals from large backgrounds. I will take this opportunity\
-    \ to discuss some of the data analysis, algorithmic and computational developments\
-    \ that are helping us to overcome these challenging situations and not only recovering\
-    \ from \"bad data\", but also turning bad data into good data.  Spotty powder\
-    \ patterns have more information in them than smooth powder rings.  Normally,\
-    \ data that contain more information would be thought as \"better\" than data\
-    \ with less, but it is considered bad because we don't have great ways to extract\
-    \ that information.  I will describe some new approaches, algorithmic, statistical,\
-    \ machine learning and otherwise, that are helping us move the goalposts in this\
-    \ domain, which can open up new opportunities for studying complex heterogeneous\
-    \ samples with hard x-rays."
+  abstract: " Hard x-rays tend to make experiments easy.  They are penetrating allowing
+    in situ, operando and spatially resolved measurements.  Large regions of reciprocal
+    space can be covered rapidly opening the door to high real-space resolution total
+    scattering measurements.  Absorption is lower making corrections easier, and resulting
+    beam damage of the sample is less of a worry.  These things tend to make us greedy
+    though.  We now want to put operating batteries in the beam and study spatially
+    resolved labs-on-chip, do real-time autonomous experiments and use computed tomography
+    to see diffraction from cross-sections of bulk samples.  These developments, powered
+    by wonderful source and detector developments, present major challenges on the
+    data analysis side.  Now we are putting heterogeneous devices in the beam and
+    getting signals from different parts of them.  We have bad powder averages (spotty
+    data) because we can't spin the battery, and single crystal spots coming from
+    some component in the setup that happens to be in the way of the beam.  We have
+    unknown and unexpected phases coming and going, and want to extract tiny signals
+    from large backgrounds. I will take this opportunity to discuss some of the data
+    analysis, algorithmic and computational developments that are helping us to overcome
+    these challenging situations and not only recovering from \"bad data\", but also
+    turning bad data into good data.  Spotty powder patterns have more information
+    in them than smooth powder rings.  Normally, data that contain more information
+    would be thought as \"better\" than data with less, but it is considered bad because
+    we don't have great ways to extract that information.  I will describe some new
+    approaches, algorithmic, statistical, machine learning and otherwise, that are
+    helping us move the goalposts in this domain, which can open up new opportunities
+    for studying complex heterogeneous samples with hard x-rays."
   authors:
     - sbillinge
   begin_date: 2023-08-13
@@ -5064,4 +5056,19 @@
     - all
   status: accepted
   title: tbd
+  type: invited
+2309sb_columbiauniversity:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2023-09-22
+  end_date: 2023-09-22
+  location: Columbia University
+  meeting_name: APAM department research conference
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Handling heterogeneity in materials structure characterization: approaches
+    to separate signals using multiple spaces'
   type: invited

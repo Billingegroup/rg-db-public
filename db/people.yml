@@ -3825,7 +3825,8 @@ rgu:
       group: bg
       organization: Columbia University
   github_id: guran1214
-  google_scholar_url: https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F7z7xLHLAfG-0KjERWe7zeuQgGtwaYiHFOad01S66fU1UZDsC9gMhfU2okIFbtvgeXHRtYu6igeFqbLBqKw12J1zF2K3g&user=3MveL9IAAAAJ
+  google_scholar_url: 
+    https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F7z7xLHLAfG-0KjERWe7zeuQgGtwaYiHFOad01S66fU1UZDsC9gMhfU2okIFbtvgeXHRtYu6igeFqbLBqKw12J1zF2K3g&user=3MveL9IAAAAJ
   grp_mtg_active: false
   name: Ran Gu
   orcid_id: 0000-0002-4416-5021
@@ -4000,7 +4001,8 @@ rzyu:
 sandrello:
   active: true
   aka: []
-  avatar: https://media.licdn.com/dms/image/D4E03AQFXa02w443ZCg/profile-displayphoto-shrink_200_200/0/1667414532631?e=1695254400&v=beta&t=o2XvkKEklVgkrx646E2f8PGkxGHjU2r7CfTjkJ1He0Q
+  avatar: 
+    https://media.licdn.com/dms/image/D4E03AQFXa02w443ZCg/profile-displayphoto-shrink_200_200/0/1667414532631?e=1695254400&v=beta&t=o2XvkKEklVgkrx646E2f8PGkxGHjU2r7CfTjkJ1He0Q
   bio: Rising Junior at Columbia University studying Applied Physics with a minor
     in CS. Interests in all types of computational physics.
   education:
@@ -4120,63 +4122,62 @@ sbillinge:
     - sbillinge
     - Simon John Laird Billinge
   avatar: https://github.com/sbillinge.png
-  bio: "Prof. Billinge has more than 25 years of experience developing and  applying\
-    \ techniques to study local structure in materials using x-ray,  neutron and electron\
-    \ diffraction including the development of novel data analysis methods including\
-    \ graph theoretic, artificial intelligence and machine learning approaches. He\
-    \ earned his Ph.D in Materials Science and Engineering from University of Pennsylvania\
-    \ in 1992. After 13 years as a faculty member at Michigan State University, in\
-    \ 2008 he took up his current position as Professor of Materials Science and Applied\
-    \ Physics and Applied Mathematics at Columbia University and held a joint position\
-    \ of Physicist at Brookhaven National Laboratory between 2008 and 2022.\n Prof.\
-    \ Billinge has published more than 350 papers in scholarly journals. He is a fellow\
-    \ of the American Physical Society and the Neutron Scattering Society of America,\
-    \ a former Fulbright and Sloan fellow and has earned a number of awards including\
-    \ the 2022 Distinguished Powder Diffractionist Prize of the European Powder Diffraction\
-    \ Conference, the 2018 Warren Award of the American Crystallographic Association\
-    \ and being honored in 2011 for contributions to the nation as an immigrant by\
-    \ the Carnegie Corporation of New York, the 2010 J. D. Hanawalt Award of the International\
-    \ Center for Diffraction Data, University, Distinguished Faculty award at Michigan\
-    \ State, and the Thomas H. Osgood Undergraduate Teaching Award. He is Section\
-    \ Editor of Acta Crystallographica Section A: Advances and Foundations. He regularly\
-    \ chairs and participates in reviews of major facilities and federally funded\
-    \ programs."
+  bio: "Prof. Billinge has more than 25 years of experience developing and  applying
+    techniques to study local structure in materials using x-ray,  neutron and electron
+    diffraction including the development of novel data analysis methods including
+    graph theoretic, artificial intelligence and machine learning approaches. He earned
+    his Ph.D in Materials Science and Engineering from University of Pennsylvania
+    in 1992. After 13 years as a faculty member at Michigan State University, in 2008
+    he took up his current position as Professor of Materials Science and Applied
+    Physics and Applied Mathematics at Columbia University and held a joint position
+    of Physicist at Brookhaven National Laboratory between 2008 and 2022.\n Prof.
+    Billinge has published more than 350 papers in scholarly journals. He is a fellow
+    of the American Physical Society and the Neutron Scattering Society of America,
+    a former Fulbright and Sloan fellow and has earned a number of awards including
+    the 2022 Distinguished Powder Diffractionist Prize of the European Powder Diffraction
+    Conference, the 2018 Warren Award of the American Crystallographic Association
+    and being honored in 2011 for contributions to the nation as an immigrant by the
+    Carnegie Corporation of New York, the 2010 J. D. Hanawalt Award of the International
+    Center for Diffraction Data, University, Distinguished Faculty award at Michigan
+    State, and the Thomas H. Osgood Undergraduate Teaching Award. He is Section Editor
+    of Acta Crystallographica Section A: Advances and Foundations. He regularly chairs
+    and participates in reviews of major facilities and federally funded programs."
   bios:
-    - "Prof. Billinge earned his Ph.D in Materials Science and Engineering from University\
-      \ of Pennsylvania in 1992, following a BA at Oxford University. He spent 2 years\
-      \ at Los Alamos National Laboratory in New Mexico as a post-doc before joining\
-      \ the faculty as an assistant professor in the Department of Physics and Astronomy\
-      \ at Michigan State University in 1994. He became Associate professor in 1999\
-      \ and full professor in 2003. In 2008 he took up his current position as Professor\
-      \ of Applied Physics, Applied Mathematics and Materials Science at Columbia\
-      \ University and Physicist at Brookhaven National Laboratory.\nHis research\
-      \ focuses on the study of local-structure property relationships of disordered\
-      \ crystals and nanocrystals using advanced x-ray and neutron diffraction techniques.\
-      \ In particular he is a leader in the development of the atomic pair distribution\
-      \ function (PDF) method applied to complex materials. These methods are applied\
-      \ to the study of nanoscale structure and its role in the properties of diverse\
-      \ materials of interest, for example, in energy, catalysis, environmental remediation\
-      \ and pharmaceuticals. The approach is to use advanced x-ray, neutron and electron\
-      \ scattering methods, utilizing some of the world's most powerful sources, and\
-      \ applying advanced computation and analysis, including artificial intelligence,\
-      \ machine learning, and graph theoretic methods.  A major activity is the study\
-      \ of the nanostructure inverse problem (NIP) where the goal is to obtain the\
-      \ 3D arrangement of atoms from structures with nanoscale atomic structures from\
-      \ scattering data, and the synthesis inverse problem, where the goal is to find\
-      \ an unknown synthesis recipe given a desired material product. These are non\
-      \ trivial ill-posed inverse problems that require novel applied math and computational\
-      \ approaches to solve.\nProf. Billinge has published more than 300 papers in\
-      \ scholarly journals. He is a fellow of the American Physical Society and the\
-      \ Neutron Scattering Society of America, a former Fulbright and Sloan fellow\
-      \ and has earned a number of awards including being honored in 2011 for contributions\
-      \ to the nation as an immigrant by the Carnegie Corporation of New York, the\
-      \ 2020 distinguished powder diffraction prize of the European Powder Diffraction\
-      \ Conference, the 2018 Warren award of the American Crystallographic Association,\
-      \ the 2010 J. D. Hanawalt Award of the International Center for Diffraction\
-      \ Data, the University Distinguished Faculty award at Michigan State, and the\
-      \ Thomas H. Osgood Undergraduate Teaching Award. He is Section Editor of Acta\
-      \ Crystalographica Section A: Advances and Foundations. He regularly chairs\
-      \ and participates in reviews of major facilities and federally funded programs."
+    - "Prof. Billinge earned his Ph.D in Materials Science and Engineering from University
+      of Pennsylvania in 1992, following a BA at Oxford University. He spent 2 years
+      at Los Alamos National Laboratory in New Mexico as a post-doc before joining
+      the faculty as an assistant professor in the Department of Physics and Astronomy
+      at Michigan State University in 1994. He became Associate professor in 1999
+      and full professor in 2003. In 2008 he took up his current position as Professor
+      of Applied Physics, Applied Mathematics and Materials Science at Columbia University
+      and Physicist at Brookhaven National Laboratory.\nHis research focuses on the
+      study of local-structure property relationships of disordered crystals and nanocrystals
+      using advanced x-ray and neutron diffraction techniques. In particular he is
+      a leader in the development of the atomic pair distribution function (PDF) method
+      applied to complex materials. These methods are applied to the study of nanoscale
+      structure and its role in the properties of diverse materials of interest, for
+      example, in energy, catalysis, environmental remediation and pharmaceuticals.
+      The approach is to use advanced x-ray, neutron and electron scattering methods,
+      utilizing some of the world's most powerful sources, and applying advanced computation
+      and analysis, including artificial intelligence, machine learning, and graph
+      theoretic methods.  A major activity is the study of the nanostructure inverse
+      problem (NIP) where the goal is to obtain the 3D arrangement of atoms from structures
+      with nanoscale atomic structures from scattering data, and the synthesis inverse
+      problem, where the goal is to find an unknown synthesis recipe given a desired
+      material product. These are non trivial ill-posed inverse problems that require
+      novel applied math and computational approaches to solve.\nProf. Billinge has
+      published more than 300 papers in scholarly journals. He is a fellow of the
+      American Physical Society and the Neutron Scattering Society of America, a former
+      Fulbright and Sloan fellow and has earned a number of awards including being
+      honored in 2011 for contributions to the nation as an immigrant by the Carnegie
+      Corporation of New York, the 2020 distinguished powder diffraction prize of
+      the European Powder Diffraction Conference, the 2018 Warren award of the American
+      Crystallographic Association, the 2010 J. D. Hanawalt Award of the International
+      Center for Diffraction Data, the University Distinguished Faculty award at Michigan
+      State, and the Thomas H. Osgood Undergraduate Teaching Award. He is Section
+      Editor of Acta Crystalographica Section A: Advances and Foundations. He regularly
+      chairs and participates in reviews of major facilities and federally funded
+      programs."
     - I give a brief bio about myself here. I have been carrying research in materials
       science since 1989 and been a faculty member in Physics and Applied Physics
       departments since 1994, though my training is in materials science.  I have
@@ -4437,7 +4438,8 @@ sbillinge:
       date: 2023-03-17
       publication: Materialstoday
       text: ''
-      url: https://www.materialstoday.com/energy/news/fast-camera-shutter-shows-how-materials-move-heat/
+      url: 
+        https://www.materialstoday.com/energy/news/fast-camera-shutter-shows-how-materials-move-heat/
       grant: dmref19
   research_focus_areas:
     - description: Solving the nanostructure inverse problem (finding the location
