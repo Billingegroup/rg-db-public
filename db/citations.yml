@@ -5328,7 +5328,6 @@ gu;unpublished23:
     - Karena W. Chapman
     - Qiang Du
     - Simon J. L. Billinge
-  day: ''
   doi: ''
   entrytype: article
   facility: nslslii, xpd
@@ -11276,7 +11275,7 @@ terba;cr22:
   author:
     - Maxwell W. Terban
     - Simon J. L. Billinge
-  day: 17
+  day: '17'
   doi: 10.1021/acs.chemrev.1c00237
   entrytype: article
   facility: ''
