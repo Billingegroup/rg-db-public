@@ -1053,6 +1053,26 @@ cyshi:
   google_scholar_url: https://scholar.google.com/citations?user=W32kTkEAAAAJ
   name: Chenyang Shi
   position: scientist
+dbrady:
+  active: true
+  aka: []
+  avatar: "https://github.com/davidkim1.png"
+  bio: bio
+  education: []
+  email: "dk3202@columbia.edu"
+  employment:
+    - begin_date: 2023-09-24
+      end_date: 2024-12-31
+      organization: columbiau
+      position: Undergrad Researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: "davidkim1"
+  grp_mtg_active: true
+  name: David Kim Brady
+  orcid_id: ''
+  position: Undergrad Researcher
 dhsu:
   active: false
   aka:
