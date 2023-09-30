@@ -77,8 +77,7 @@ abeyk;zk12:
   pages: 248-256
   title: Quantitative nanostructure characterization using atomic pair distribution
     functions obtained from laboratory electron microscopes
-  url: 
-    http://www.degruyter.com/view/j/zkri.2012.227.issue-5/zkri.2012.1510/zkri.2012.1510.xml
+  url: http://www.degruyter.com/view/j/zkri.2012.227.issue-5/zkri.2012.1510/zkri.2012.1510.xml
   volume: '227'
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/abeyk_zk12.pdf
@@ -107,8 +106,7 @@ achar;pmb99:
   url: http://www.tandfonline.com/doi/abs/10.1080/13642819908218318
   volume: '79'
   wwwemail: sb2896@columbia.edu
-  wwwjour: 
-    http://fidelio.catchword.com/vl=17050934/cl=1/nw=1/rpsv/catchword/tandf/01418637/v79n10/s2/p1499
+  wwwjour: http://fidelio.catchword.com/vl=17050934/cl=1/nw=1/rpsv/catchword/tandf/01418637/v79n10/s2/p1499
   wwwlanl: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/99acharpmb.pdf
   year: '1999'
@@ -244,8 +242,7 @@ anker;hdcc20:
   peer_rev_conf: 'true'
   title: Characterising the atomic structure of mono-metallic nanoparticles from x-ray
     scattering data using conditional generative models
-  url: 
-    https://chemrxiv.org/articles/preprint/Characterising_the_Atomic_Structure_of_Mono-Metallic_Nanoparticles_from_X-Ray_Scattering_Data_Using_Conditional_Generative_Models/12662222/1
+  url: https://chemrxiv.org/articles/preprint/Characterising_the_Atomic_Structure_of_Mono-Metallic_Nanoparticles_from_X-Ray_Scattering_Data_Using_Conditional_Generative_Models/12662222/1
   volume: ''
   wwwemail: ''
   wwwpub: ''
@@ -621,8 +618,7 @@ baner;jpcc18:
   url: https://pubs.acs.org/doi/10.1021/acs.jpcc.8b05897
   volume: '122'
   wwwemail: ''
-  wwwpub: 
-    http://slapper.apam.columbia.edu/bib-eu9iifae/papers/Banerjee_npCore_jpccAsap_12_2018.pdf
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/Banerjee_npCore_jpccAsap_12_2018.pdf
   year: '2018'
 baner;phdt;19:
   author:
@@ -766,8 +762,7 @@ beech;prl19:
   tags: nanoparticle, quantum_dot, highlight
   title: Size-dependent lattice dynamics of atomically precise cadmium selenide quantum
     dots
-  url: 
-    https://journals-aps-org.ezproxy.cul.columbia.edu/prl/abstract/10.1103/PhysRevLett.122.026101
+  url: https://journals-aps-org.ezproxy.cul.columbia.edu/prl/abstract/10.1103/PhysRevLett.122.026101
   volume: '122'
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/19shiprl.pdf
@@ -1423,8 +1418,7 @@ billi;cossms96:
   volume: '1'
   wwwemail: sb2896@columbia.edu
   wwwlanl: ''
-  wwwpub: 
-    http://slapper.apam.columbia.edu/bib-eu9iifae/papers/billinge_96_current_opinion.pdf
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/billinge_96_current_opinion.pdf
   year: '1996'
 billi;cpdn00:
   author:
@@ -1434,8 +1428,8 @@ billi;cpdn00:
   entrytype: article
   facility: ' gem, isis, '
   grant: ' cfmr, doe97 '
-  journal: "Commission on Powder Diffraction of the\nInternational Union of Crystallography,
-    Newsletter\nnumber 24"
+  journal: "Commission on Powder Diffraction of the\nInternational Union of Crystallography,\
+    \ Newsletter\nnumber 24"
   nb: ' scalloy, conf '
   note: ''
   optannote: ''
@@ -1496,8 +1490,7 @@ billi;ijmpb02:
   url: http://www.worldscientific.com/doi/abs/10.1142/S0217979202011275
   volume: '16'
   wwwemail: sb2896@columbia.edu
-  wwwpub: 
-    http://slapper.apam.columbia.edu/bib-eu9iifae/papers/billinge_02_int_modern_phys.pdf
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/billinge_02_int_modern_phys.pdf
   year: '2002'
 billi;iucr19:
   ackno: SJLB would like to acknowledge funding from the U.S. Department of Energy,
@@ -1520,8 +1513,7 @@ billi;iucr19:
   optwwwlanl: ''
   pages: '7'
   title: '21st century crystallography challenges: structure beyond crystals'
-  url: 
-    https://www.iucr.org/news/newsletter/etc/articles?issue=145052&result_138339_result_page=7
+  url: https://www.iucr.org/news/newsletter/etc/articles?issue=145052&result_138339_result_page=7
   volume: '27'
   wwwemail: ''
   wwwpub: ''
@@ -1646,8 +1638,8 @@ billi;jssc08:
   note: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: 1695-1700
-  title: "Nanoscale structural order from the atomic pair distribution function ({PDF}):
-    There's plenty of room in the middle"
+  title: "Nanoscale structural order from the atomic pair distribution function ({PDF}):\
+    \ There's plenty of room in the middle"
   url: http://doi.org/10.1016/j.jssc.2008.06.046
   volume: '181'
   wwwemail: ' sb2896@columbia.edu'
@@ -1772,8 +1764,8 @@ billi;np09:
   grant: ' frg07, fwp08 '
   journal: Nat. Phys.
   nb: ' rev, typeA '
-  note: "[News and Views article, describing Chung, S.-Y., Kim, Y.-M., Kim, J.-G.
-    and\nKim, Y.-J. \\emph{Nature Phys.} {\\bf 5}, 68-73 (2009)]"
+  note: "[News and Views article, describing Chung, S.-Y., Kim, Y.-M., Kim, J.-G.\
+    \ and\nKim, Y.-J. \\emph{Nature Phys.} {\\bf 5}, 68-73 (2009)]"
   number: ''
   optwwwlanl: ''
   optwwwpub: ''
@@ -1833,8 +1825,8 @@ billi;p;cfmr97:
   grant: 'cfmr '
   journal: CFMR
   nb: ' edited, hts, misc, cmr '
-  note: "Web Proceedings of the 11th Annual CFMR symposium,\npublished in conjunction
-    with the Virtual University\nat Michigan State University"
+  note: "Web Proceedings of the 11th Annual CFMR symposium,\npublished in conjunction\
+    \ with the Virtual University\nat Michigan State University"
   optannote: ''
   optkey: ''
   optmonth: ''
@@ -2273,8 +2265,7 @@ billi;zks07:
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: 17-26
   title: Nanostructure studied using the atomic pair distribution function
-  url: 
-    https://www.researchgate.net/publication/237496696_Nanostructure_studied_using_the_atomic_pair_distribution_function
+  url: https://www.researchgate.net/publication/237496696_Nanostructure_studied_using_the_atomic_pair_distribution_function
   volume: '26'
   wwwemail: ' sb2896@columbia.edu'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/billi_zks07.pdf
@@ -3095,8 +3086,7 @@ bozin;zks07:
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: 429-434
   title: Utilizing total scattering to study the {J}ahn-{T}eller transition in {La$_{1-x}$Ca$_{x}$MnO$_{3}$}
-  url: 
-    https://www.researchgate.net/publication/237221028_Utilizing_total_scattering_to_study_the_Jahn-Teller_transition_in_La_1-x_Ca_x_MnO_3
+  url: https://www.researchgate.net/publication/237221028_Utilizing_total_scattering_to_study_the_Jahn-Teller_transition_in_La_1-x_Ca_x_MnO_3
   volume: '26'
   wwwemail: ' sb2896@columbia.edu'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/bozin_zks07.pdf
@@ -3199,8 +3189,7 @@ bruhn;zk05:
   pages: 962-967
   title: PDF from X-ray powder diffraction for nanometer-scale atomic structure analysis
     of quasicrystalline alloys
-  url: 
-    https://www.degruyter.com/view/j/zkri.2005.220.issue-11/zkri.2005.220.11_2005.962/zkri.2005.220.11_2005.962.xml
+  url: https://www.degruyter.com/view/j/zkri.2005.220.issue-11/zkri.2005.220.11_2005.962/zkri.2005.220.11_2005.962.xml
   volume: '220'
   wwwemail: ' sb2896@columbia.edu'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/05bruehzk.pdf
@@ -3378,16 +3367,16 @@ cao;ami19:
   wwwpub: ''
   year: '2020'
 cherb;gecco05:
-  abstract: "A genetic algorithm is proposed with real value\nvariables, spatially
-    based crossover operator, a small mutation,\nlarge scale mutation, vector sum
-    local search and geometric only\nbased objective function to generate candidate
-    molecule\nconformations from atomic pair distance data. To better simulate\nexperimental
-    data only information from the pair distance data is\nused as constraints. Ideal
-    Bucky ball with 60 atoms is used as the\ntest case with both perfect pair distance
-    data and Gaussian noise\nperturbed pair distance data. The GA generated result
-    shows\nmolecules close to ideal Bucky balls but with some defects. A\ndescription
-    of the spatially based crossover operator is provided\nalong with a local search
-    based on vector summed error for each\natom."
+  abstract: "A genetic algorithm is proposed with real value\nvariables, spatially\
+    \ based crossover operator, a small mutation,\nlarge scale mutation, vector sum\
+    \ local search and geometric only\nbased objective function to generate candidate\
+    \ molecule\nconformations from atomic pair distance data. To better simulate\n\
+    experimental data only information from the pair distance data is\nused as constraints.\
+    \ Ideal Bucky ball with 60 atoms is used as the\ntest case with both perfect pair\
+    \ distance data and Gaussian noise\nperturbed pair distance data. The GA generated\
+    \ result shows\nmolecules close to ideal Bucky balls but with some defects. A\n\
+    description of the spatially based crossover operator is provided\nalong with\
+    \ a local search based on vector summed error for each\natom."
   address: New York
   author:
     - Cherba, David
@@ -3465,8 +3454,7 @@ choi;jacs98:
   url: http://pubs.acs.org/doi/abs/10.1021/ja981675t
   volume: '120'
   wwwemail: sb2896@columbia.edu
-  wwwjour: 
-    http://pubs.acs.org/isubscribe/journals/jcasat/jtext.cgi?jacsat/120/41/pdf/ja981675t.html
+  wwwjour: http://pubs.acs.org/isubscribe/journals/jcasat/jtext.cgi?jacsat/120/41/pdf/ja981675t.html
   wwwlanl: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/98choijacs.pdf
   year: '1998'
@@ -3736,9 +3724,9 @@ dapia;jpcs08:
     of temperature-dependent pair distribution function analysis: Preliminary results'
   url: http://www.sciencedirect.com/science/article/pii/S0022369708000991
   volume: '69'
-  whycite: "excellent example of a material where the near neighbors have correlated
-    motion and there is no\nT-dependence in the first PDF peak, but enormous T-dependence
-    of peaks further out"
+  whycite: "excellent example of a material where the near neighbors have correlated\
+    \ motion and there is no\nT-dependence in the first PDF peak, but enormous T-dependence\
+    \ of peaks further out"
   wwwemail: ' sb2896@columbia.edu'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/dapia_jpcs08.pdf
   year: '2008'
@@ -4218,8 +4206,8 @@ egami;c;htsppmtm92:
     - Crawford, M. K.
     - Farneth, W. E.
     - '{McCarron}, E. M.'
-  booktitle: "High Temperature Superconductivity: Physical\nProperties, Microscopic
-    Theory and Mechanisms"
+  booktitle: "High Temperature Superconductivity: Physical\nProperties, Microscopic\
+    \ Theory and Mechanisms"
   editor: Ashkenazi, J. and others
   entrytype: inproceedings
   facility: ' ipns, sepd,'
@@ -4346,8 +4334,7 @@ evans;bmrs10:
   optwwwpub: ''
   pages: ''
   title: Advances in scattering probes for materials
-  url: 
-    https://www.cambridge.org/core/journals/mrs-bulletin/article/advances-in-scattering-probes-for-materials/1E28068FF673FA73AA77F633018A4B69
+  url: https://www.cambridge.org/core/journals/mrs-bulletin/article/advances-in-scattering-probes-for-materials/1E28068FF673FA73AA77F633018A4B69
   volume: ''
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/billinge_mrsbull_10.pdf
@@ -6179,7 +6166,7 @@ jense;nc16:
   optannote: ''
   optwwwlanl: ''
   pages: '11859'
-  supplementary_info_urls:
+  supplementary_info_urls: 
     - https://zenodo.org/record/56682
   tags: nanoparticles, clusters, au, metallic_nanoparticle
   title: Polymorphism in magic sized {Au$_{144}$(SR)$_{60}$} clusters
@@ -6257,8 +6244,7 @@ jeong;jpc99:
   volume: '103'
   whycite: Introduces 1/r^2 correction to PDF DW factors
   wwwemail: sb2896@columbia.edu
-  wwwjour: 
-    http://pubs.acs.org/isubscribe/journals/jpcafh/jtext.cgi?jpcafh/103/7/pdf/jp9836978.pdf
+  wwwjour: http://pubs.acs.org/isubscribe/journals/jpcafh/jtext.cgi?jpcafh/103/7/pdf/jp9836978.pdf
   wwwlanl: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/99jeongjpc.pdf
   year: '1999'
@@ -6481,13 +6467,13 @@ juhas;jac13:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/13juhasjac.pdf
   year: '2013'
 juhas;jac18:
-  abstract: "{\\it PDFgetN3}, a new software tool for the extraction of pair\ndistribution
-    functions (PDFs) from neutron powder diffraction intensity\ndata, is described.
-    Its use is demonstrated with constant-wavelength\nneutron data measured at the
-    new powder diffractometer PEARL at the Delft\nUniversity of Technology. {\\it
-    PDFgetN3} uses an {\\it ad hoc} data\ncollection protocol similar to {\\it PDFgetX3}.
-    The quality of the\nresulting PDFs is assessed by structure refinement and by
-    comparison with\nestablished results from synchrotron X-ray scattering."
+  abstract: "{\\it PDFgetN3}, a new software tool for the extraction of pair\ndistribution\
+    \ functions (PDFs) from neutron powder diffraction intensity\ndata, is described.\
+    \ Its use is demonstrated with constant-wavelength\nneutron data measured at the\
+    \ new powder diffractometer PEARL at the Delft\nUniversity of Technology. {\\\
+    it PDFgetN3} uses an {\\it ad hoc} data\ncollection protocol similar to {\\it\
+    \ PDFgetX3}. The quality of the\nresulting PDFs is assessed by structure refinement\
+    \ and by comparison with\nestablished results from synchrotron X-ray scattering."
   ackno: These measurements were conducted at the beamline 28-ID-2 of the National
     Synchrotron Light Source II, a US Department of Energy (DOE) Office of Science
     User Facility operated for the DOE Office of Science by Brookhaven National Laboratory
@@ -6603,8 +6589,7 @@ kane;cm96:
   url: http://pubs.acs.org/doi/abs/10.1021/cm960085w
   volume: '8'
   wwwemail: sb2896@columbia.edu
-  wwwjour: 
-    http://pubs.acs.org/isubscribe/journals/cmatex/jtext.cgi?cmatex/8/8/pdf/cm960085w.pdf
+  wwwjour: http://pubs.acs.org/isubscribe/journals/cmatex/jtext.cgi?cmatex/8/8/pdf/cm960085w.pdf
   wwwlanl: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/96kanecm.pdf
   year: '1996'
@@ -7037,7 +7022,6 @@ kovya;jac23:
     - Thomas E. Mallouk
     - Robert Feidenhans'l
     - Simon J. L. Billinge
-
   doi: 10.1107/S1600576723005927
   entrytype: article
   facility: xpd, nslsii
@@ -7103,8 +7087,8 @@ kwei;b;lsfd98:
   nb: ' chap, cmr, hts, misc'
   pages: '323'
   publisher: Plenum
-  title: "Recent ``Local'' structural studies: Metallic Alloys, Superconductors and
-    Proteins"
+  title: "Recent ``Local'' structural studies: Metallic Alloys, Superconductors and\
+    \ Proteins"
   url: ''
   wwwemail: sb2896@columbia.edu
   wwwlanl: ''
@@ -7166,8 +7150,7 @@ kwei;mrssp97:
   nb: ' conf, cmr, '
   pages: '533'
   title: Lattice effects in perovskite and pyrochlore {CMR} materials
-  url: 
-    https://www.cambridge.org/core/journals/mrs-online-proceedings-library-archive/article/lattice-effects-in-perovskite-and-pyrochlore-cmr-materials/781DD64BB49C2AD41E77901CEC8782F3
+  url: https://www.cambridge.org/core/journals/mrs-online-proceedings-library-archive/article/lattice-effects-in-perovskite-and-pyrochlore-cmr-materials/781DD64BB49C2AD41E77901CEC8782F3
   volume: '475'
   wwwemail: sb2896@columbia.edu
   wwwlanl: ''
@@ -7639,8 +7622,7 @@ li;npjqm17:
   optwwwlanl: ''
   pages: '11'
   title: Superconducting order from disorder in {2H-TaSe$_{2-x}$S$_x$}
-  url: 
-    http://www.nature.com/articles/s41535-017-0016-9?WT.ec_id=NPJQUANTMATS-201702&spMailingID=53494924&spUserID=MjE2OTY3OTY1OTA3S0&spJobID=1103960492&spReportId=MTEwMzk2MDQ5MgS2
+  url: http://www.nature.com/articles/s41535-017-0016-9?WT.ec_id=NPJQUANTMATS-201702&spMailingID=53494924&spUserID=MjE2OTY3OTY1OTA3S0&spJobID=1103960492&spReportId=MTEwMzk2MDQ5MgS2
   volume: '2'
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/16npjqmCedomir.pdf
@@ -8185,11 +8167,11 @@ malav;jpcm11:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/malav_jpcm11.pdf
   year: '2011'
 malli;jacs05:
-  abstract: "The distortions in the square tellurium nets long known to exist\nin
-    the structures of the charge-d. wave materials, RETe3, have been\nelucidated.\
-    \  The (Te2)1- nets contain polytelluride oligomers which\npropagate in a fashion
-    incommensurate from the adjacent (RETe)+\nsublattice.  The new information sets
-    the stage for a much deeper\nunderstanding of these systems. [on SciFinder (R)]"
+  abstract: "The distortions in the square tellurium nets long known to exist\nin\
+    \ the structures of the charge-d. wave materials, RETe3, have been\nelucidated.\
+    \  The (Te2)1- nets contain polytelluride oligomers which\npropagate in a fashion\
+    \ incommensurate from the adjacent (RETe)+\nsublattice.  The new information sets\
+    \ the stage for a much deeper\nunderstanding of these systems. [on SciFinder (R)]"
   author:
     - Malliakas, C.
     - Billinge, S. J. L.
@@ -8264,80 +8246,82 @@ mcgur;prb04:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/mcgur_prb04.pdf
   year: '2004'
 miao;s16:
-  abstract: "Structured Abstract\nBACKGROUNDTo understand material properties and
-    functionality at the most fundamental level, one must know the three-dimensional
-    (3D) positions of atoms with high precision. For crystalline materials, x-ray
-    crystallography has provided this information since the pioneering work of Max
-    von Laue, William Henry Bragg, and William Lawrence Bragg around 100 years ago.
-    But perfect crystals are rare in nature. Real materials often contain defects,
-    surface reconstructions, nanoscale heterogeneities, and disorders, which strongly
-    influence material properties and performance. Completely different approaches
-    from crystallography are needed to determine the 3D atomic arrangement of crystal
-    defects and noncrystalline systems. Although single-particle cryo–electron microscopy
-    (cryo-EM) has been under rapid development for 3D structure determination of macromolecules
-    with identical or similar conformations at near-atomic resolution, this method
-    cannot be generally applied to the physical sciences for the following three reasons.
-    First, most materials do not have identical copies and cannot be averaged to achieve
-    atomic resolution. Second, a priori knowledge of the peptide sequence and stereochemistry
-    in protein molecules greatly facilitates their 3D atomic structure determination,
-    but this knowledge is not applicable to physical science samples. Third, unlike
-    in biological specimens, the presence of diffraction and phase contrast in the
-    transmission electron microscopy images of most materials poses a challenge for
-    tomographic reconstruction.These difficulties have made the objective of solving
-    the 3D atomic structure of crystal defects and noncrystalline systems a major
-    challenge for structural characterization in the physical sciences.\nADVANCESMajor
-    developments in aberration-corrected electron microscopes, advanced detectors,
-    data acquisition methods, powerful 3D image reconstruction, and atom-tracing algorithms
-    have placed one method—atomic electron tomography (AET)—on the cusp of this breakthrough.
-    In recent years, AET has been used to image the 3D structure of grain boundaries
-    and stacking faults and the 3D core structure of edge and screw dislocations at
-    atomic resolution. This technique has also revealed the existence of atomic steps
-    at 3D twin boundaries that are hidden in conventional 2D projections. Furthermore,
-    the combination of AET and atom-tracing algorithms has enabled the determination
-    of the coordinates of individual atoms and point defects in materials with a 3D
-    precision of {\\textasciitilde}19 pm, allowing direct measurements of 3D atomic
-    displacements and the full strain tensor. Finally, the single-particle reconstruction
-    method developed in cryo-EM has been applied for 3D structure determination of
-    small (≤2-nm) gold nanoparticles and heterogeneous platinum nanocrystals at atomic-scale
-    resolution.\nOUTLOOKThe future research frontiers of AET involve increasing the
-    sample complexity (including real materials with different atomic species and
-    disordered systems), image contrast (determining the 3D atomic positions of both
-    heavy and light elements), detection sensitivity (revealing individual atoms at
-    surfaces and interfaces), and data acquisition speed (probing the dynamics of
-    individual atoms and defects). The ability to precisely determine all atomic coordinates
-    and species in real materials without assuming crystallinity will transform our
-    understanding of structure-property relationships at the most fundamental level.
-    For instance, using atomic coordinates as inputs to first-principles calculations,
-    it is possible to compute the effect on the material properties of each defect
-    and atomic reorganization, giving precious clues about how to modify and engineer
-    materials at the atomic level to yield better performance in a device. Catalysis
-    involves atoms interacting on nanoparticle surfaces in poorly understood ways,
-    and the mechanisms of particle growth in synthesis reactors or in devices under
-    load are largely unknown. Breakthroughs in our ability to reliably measure this
-    information in 3D will have effects across disciplines from electronics and catalysis
-    to energy conversion. {\\textless}img class=\"fragment-image\" src=\"https://d2ufo47lrtsv5s.cloudfront.net/content/sci/353/6306/aaf2157/F1.medium.gif\"\
-    /{\\textgreater} Download high-res image Open in new tab Download Powerpoint Atomic
-    electron tomography (AET) and its transformative impact on the physical sciences.(Top)
-    Schematic diagram of AET, in which 2D images are measured with an advanced electron
-    microscope by tilting a sample to many different orientations. The 3D structure
-    of the sample is iteratively reconstructed from the images, and the coordinates
-    of individual atoms are localized. (Bottom) AET enables 3D imaging of crystal
-    defects—such as grain boundaries, stacking faults, dislocations, and point defects—at
-    atomic resolution. The ability to precisely determine the 3D coordinates of individual
-    atoms allows direct measurements of atomic displacements and the full strain tensor
-    in materials.\nCrystallography has been fundamental to the development of many
-    fields of science over the last century. However, much of our modern science and
-    technology relies on materials with defects and disorders, and their three-dimensional
-    (3D) atomic structures are not accessible to crystallography. One method capable
-    of addressing this major challenge is atomic electron tomography. By combining
-    advanced electron microscopes and detectors with powerful data analysis and tomographic
-    reconstruction algorithms, it is now possible to determine the 3D atomic structure
-    of crystal defects such as grain boundaries, stacking faults, dislocations, and
-    point defects, as well as to precisely localize the 3D coordinates of individual
-    atoms in materials without assuming crystallinity. Here we review the recent advances
-    and the interdisciplinary science enabled by this methodology. We also outline
-    further research needed for atomic electron tomography to address long-standing
-    unresolved problems in the physical sciences."
+  abstract: "Structured Abstract\nBACKGROUNDTo understand material properties and\
+    \ functionality at the most fundamental level, one must know the three-dimensional\
+    \ (3D) positions of atoms with high precision. For crystalline materials, x-ray\
+    \ crystallography has provided this information since the pioneering work of Max\
+    \ von Laue, William Henry Bragg, and William Lawrence Bragg around 100 years ago.\
+    \ But perfect crystals are rare in nature. Real materials often contain defects,\
+    \ surface reconstructions, nanoscale heterogeneities, and disorders, which strongly\
+    \ influence material properties and performance. Completely different approaches\
+    \ from crystallography are needed to determine the 3D atomic arrangement of crystal\
+    \ defects and noncrystalline systems. Although single-particle cryo–electron microscopy\
+    \ (cryo-EM) has been under rapid development for 3D structure determination of\
+    \ macromolecules with identical or similar conformations at near-atomic resolution,\
+    \ this method cannot be generally applied to the physical sciences for the following\
+    \ three reasons. First, most materials do not have identical copies and cannot\
+    \ be averaged to achieve atomic resolution. Second, a priori knowledge of the\
+    \ peptide sequence and stereochemistry in protein molecules greatly facilitates\
+    \ their 3D atomic structure determination, but this knowledge is not applicable\
+    \ to physical science samples. Third, unlike in biological specimens, the presence\
+    \ of diffraction and phase contrast in the transmission electron microscopy images\
+    \ of most materials poses a challenge for tomographic reconstruction.These difficulties\
+    \ have made the objective of solving the 3D atomic structure of crystal defects\
+    \ and noncrystalline systems a major challenge for structural characterization\
+    \ in the physical sciences.\nADVANCESMajor developments in aberration-corrected\
+    \ electron microscopes, advanced detectors, data acquisition methods, powerful\
+    \ 3D image reconstruction, and atom-tracing algorithms have placed one method—atomic\
+    \ electron tomography (AET)—on the cusp of this breakthrough. In recent years,\
+    \ AET has been used to image the 3D structure of grain boundaries and stacking\
+    \ faults and the 3D core structure of edge and screw dislocations at atomic resolution.\
+    \ This technique has also revealed the existence of atomic steps at 3D twin boundaries\
+    \ that are hidden in conventional 2D projections. Furthermore, the combination\
+    \ of AET and atom-tracing algorithms has enabled the determination of the coordinates\
+    \ of individual atoms and point defects in materials with a 3D precision of {\\\
+    textasciitilde}19 pm, allowing direct measurements of 3D atomic displacements\
+    \ and the full strain tensor. Finally, the single-particle reconstruction method\
+    \ developed in cryo-EM has been applied for 3D structure determination of small\
+    \ (≤2-nm) gold nanoparticles and heterogeneous platinum nanocrystals at atomic-scale\
+    \ resolution.\nOUTLOOKThe future research frontiers of AET involve increasing\
+    \ the sample complexity (including real materials with different atomic species\
+    \ and disordered systems), image contrast (determining the 3D atomic positions\
+    \ of both heavy and light elements), detection sensitivity (revealing individual\
+    \ atoms at surfaces and interfaces), and data acquisition speed (probing the dynamics\
+    \ of individual atoms and defects). The ability to precisely determine all atomic\
+    \ coordinates and species in real materials without assuming crystallinity will\
+    \ transform our understanding of structure-property relationships at the most\
+    \ fundamental level. For instance, using atomic coordinates as inputs to first-principles\
+    \ calculations, it is possible to compute the effect on the material properties\
+    \ of each defect and atomic reorganization, giving precious clues about how to\
+    \ modify and engineer materials at the atomic level to yield better performance\
+    \ in a device. Catalysis involves atoms interacting on nanoparticle surfaces in\
+    \ poorly understood ways, and the mechanisms of particle growth in synthesis reactors\
+    \ or in devices under load are largely unknown. Breakthroughs in our ability to\
+    \ reliably measure this information in 3D will have effects across disciplines\
+    \ from electronics and catalysis to energy conversion. {\\textless}img class=\"\
+    fragment-image\" src=\"https://d2ufo47lrtsv5s.cloudfront.net/content/sci/353/6306/aaf2157/F1.medium.gif\"\
+    /{\\textgreater} Download high-res image Open in new tab Download Powerpoint Atomic\
+    \ electron tomography (AET) and its transformative impact on the physical sciences.(Top)\
+    \ Schematic diagram of AET, in which 2D images are measured with an advanced electron\
+    \ microscope by tilting a sample to many different orientations. The 3D structure\
+    \ of the sample is iteratively reconstructed from the images, and the coordinates\
+    \ of individual atoms are localized. (Bottom) AET enables 3D imaging of crystal\
+    \ defects—such as grain boundaries, stacking faults, dislocations, and point defects—at\
+    \ atomic resolution. The ability to precisely determine the 3D coordinates of\
+    \ individual atoms allows direct measurements of atomic displacements and the\
+    \ full strain tensor in materials.\nCrystallography has been fundamental to the\
+    \ development of many fields of science over the last century. However, much of\
+    \ our modern science and technology relies on materials with defects and disorders,\
+    \ and their three-dimensional (3D) atomic structures are not accessible to crystallography.\
+    \ One method capable of addressing this major challenge is atomic electron tomography.\
+    \ By combining advanced electron microscopes and detectors with powerful data\
+    \ analysis and tomographic reconstruction algorithms, it is now possible to determine\
+    \ the 3D atomic structure of crystal defects such as grain boundaries, stacking\
+    \ faults, dislocations, and point defects, as well as to precisely localize the\
+    \ 3D coordinates of individual atoms in materials without assuming crystallinity.\
+    \ Here we review the recent advances and the interdisciplinary science enabled\
+    \ by this methodology. We also outline further research needed for atomic electron\
+    \ tomography to address long-standing unresolved problems in the physical sciences."
   author:
     - Miao, Jianwei
     - Ercius, Peter
@@ -8789,8 +8773,7 @@ pauly;jacs99:
   url: http://pubs.acs.org/doi/abs/10.1021/ja991400t
   volume: '38'
   wwwemail: sb2896@columbia.edu
-  wwwjour: 
-    http://pubs.acs.org/isubscribe/journals/jacsat/jtext.cgi?jacsat/121/38/pdf/ja991400t.pdf
+  wwwjour: http://pubs.acs.org/isubscribe/journals/jacsat/jtext.cgi?jacsat/121/38/pdf/ja991400t.pdf
   wwwlanl: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/99paulyjacs.pdf
   year: '1999'
@@ -8949,8 +8932,7 @@ petko;jacs00:
   url: http://pubs.acs.org/doi/abs/10.1021/ja002048i
   volume: '122'
   wwwemail: sb2896@columbia.edu
-  wwwjour: 
-    http://pubs.acs.org/isubscribe/journals/jacsat/jtext.cgi?jacsat/122/47/abs/ja002048i.html
+  wwwjour: http://pubs.acs.org/isubscribe/journals/jacsat/jtext.cgi?jacsat/122/47/abs/ja002048i.html
   wwwprep: http://www.pa.msu.edu/cmp/billinge-group/papers/jacsws2.pdf
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/00petkojacs.pdf
   year: '2000'
@@ -9026,8 +9008,7 @@ petko;jap00:
   url: http://scitation.aip.org/content/aip/journal/jap/88/2/10.1063/1.373718
   volume: '88'
   wwwemail: sb2896@columbia.edu
-  wwwjour: 
-    http://ojps.aip.org/AIPcgipath/doc/toissue/disk3/journals/journal_cgi/search?KEY=JAPIAU&CURRENT=NO&ONLINE=YES&smode=display&docnum=0&coden=JAPIAU&vol=88&iss=2&page=1&chapter=0&fpage=665&seqno=1&issuedate=July%2B15%2C+2000&journal=Journal+of+Applied+Physics&numret=1&sort=rel&maxdisp=10&docnum=0&origquery=%28billinge+%3CIN%3E+author%29+&threshold=0&abscall=strresults&logid=YES&allprl=0&pjournals=&pyears=
+  wwwjour: http://ojps.aip.org/AIPcgipath/doc/toissue/disk3/journals/journal_cgi/search?KEY=JAPIAU&CURRENT=NO&ONLINE=YES&smode=display&docnum=0&coden=JAPIAU&vol=88&iss=2&page=1&chapter=0&fpage=665&seqno=1&issuedate=July%2B15%2C+2000&journal=Journal+of+Applied+Physics&numret=1&sort=rel&maxdisp=10&docnum=0&origquery=%28billinge+%3CIN%3E+author%29+&threshold=0&abscall=strresults&logid=YES&allprl=0&pjournals=&pyears=
   wwwlanl: http://xxx.lanl.gov/abs/cond-mat/9911293
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/00petkojap.pdf
   year: '2000'
@@ -9089,8 +9070,7 @@ petko;mrs01:
   title: 'Structure of crystallographically challenged materials by profile analysis
     of atomic pair distribution functions: study of {LiMoS$_{2}$} and mesostructured
     {MnGe$_{4}$S$_{10}$}'
-  url: 
-    https://www.cambridge.org/core/journals/mrs-online-proceedings-library-archive/article/structure-of-crystallographically-challenged-materials-by-profile-analysis-of-atomic-pair-distribution-functions-study-of-limos2-and-mesostructured-mnge4s10/841A90E030E7EE031FDF6E24BE7887B7
+  url: https://www.cambridge.org/core/journals/mrs-online-proceedings-library-archive/article/structure-of-crystallographically-challenged-materials-by-profile-analysis-of-atomic-pair-distribution-functions-study-of-limos2-and-mesostructured-mnge4s10/841A90E030E7EE031FDF6E24BE7887B7
   volume: '678'
   wwwemail: sb2896@columbia.edu
   wwwlanl: ''
@@ -9130,16 +9110,15 @@ petko;pc00:
   entrytype: article
   facility: ' chess, aps, id1, a2 '
   grant: 'cfmr, sloan, doe97 '
-  holdbooktitle: "Applications of synchrotron radiation techniques to\nmaterials science
-    V"
+  holdbooktitle: "Applications of synchrotron radiation techniques to\nmaterials science\
+    \ V"
   holdeditor: S. R. Stock and S. M. Mini and D. L. Perry
   journal: Mater. Res. Soc. Symp. Proc.
   nb: ' conf, chem, scalloy, misc '
   optnote: Unpublished
   pages: '151'
   title: High real-space resolution structure of materials by high-energy X-ray diffraction
-  url: 
-    https://www.cambridge.org/core/journals/mrs-online-proceedings-library-archive/article/high-real-space-resolution-structure-of-materials-by-high-energy-x-ray-diffraction/DDC148B6CDABB14D08804D71E1E500B2
+  url: https://www.cambridge.org/core/journals/mrs-online-proceedings-library-archive/article/high-real-space-resolution-structure-of-materials-by-high-energy-x-ray-diffraction/DDC148B6CDABB14D08804D71E1E500B2
   volume: '590'
   wwwemail: sb2896@columbia.edu
   wwwlanl: ''
@@ -9167,8 +9146,7 @@ petko;pmb99:
   url: http://www.tandfonline.com/doi/abs/10.1080/13642819908218319
   volume: '79'
   wwwemail: sb2896@columbia.edu
-  wwwjour: 
-    http://fidelio.catchword.com/vl=17050934/cl=1/nw=1/rpsv/catchword/tandf/01418637/v79n10/s3/p1519
+  wwwjour: http://fidelio.catchword.com/vl=17050934/cl=1/nw=1/rpsv/catchword/tandf/01418637/v79n10/s3/p1519
   wwwlanl: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/99petkopmb.pdf
   year: '1999'
@@ -9291,20 +9269,20 @@ petko;prl02:
   url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.89.075502
   volume: '89'
   wwwemail: sb2896@columbia.edu
-  wwwjour: 
-    http://scitation.aip.org/getabs/servlet/GetabsServlet?prog=normal&id=PRLTAO000089000007075502000001&idtype=cvips&gifs=Yes
+  wwwjour: http://scitation.aip.org/getabs/servlet/GetabsServlet?prog=normal&id=PRLTAO000089000007075502000001&idtype=cvips&gifs=Yes
   wwwlanl: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/02petkoprl.pdf
   year: '2002'
 petko;prl99:
-  abstract: "High real-space resoln. at. pair distribution functions PDFs\nfrom the
-    alloy series Ga1-xInxAs were obtained using high-energy\nx-ray diffraction. The
-    1st peak in the PDF is resolved as a\ndoublet due to the presence of two nearest
-    neighbor bond lengths,\nGa-As and In-As, as previously obsd. using x-ray absorption
-    fine\nstructure. The widths of nearest, and higher, neighbor PDF peaks\nare analyzed
-    by sepg. the broadening due to static atom\ndisplacements from the thermal motion.
-    The PDF peak width is 5\ntimes larger for distant at. neighbors than for nearest\n
-    neighbors. The results are in agreement with model calcns."
+  abstract: "High real-space resoln. at. pair distribution functions PDFs\nfrom the\
+    \ alloy series Ga1-xInxAs were obtained using high-energy\nx-ray diffraction.\
+    \ The 1st peak in the PDF is resolved as a\ndoublet due to the presence of two\
+    \ nearest neighbor bond lengths,\nGa-As and In-As, as previously obsd. using x-ray\
+    \ absorption fine\nstructure. The widths of nearest, and higher, neighbor PDF\
+    \ peaks\nare analyzed by sepg. the broadening due to static atom\ndisplacements\
+    \ from the thermal motion. The PDF peak width is 5\ntimes larger for distant at.\
+    \ neighbors than for nearest\n neighbors. The results are in agreement with model\
+    \ calcns."
   author:
     - Petkov, V.
     - Jeong, {I. -K. }
@@ -9556,8 +9534,7 @@ proff;apa01i:
   url: http://link.springer.com/article/10.1007/s003390201929
   volume: '74'
   wwwemail: sb2896@columbia.edu
-  wwwjour: 
-    http://www.springerlink.com/app/home/contribution.asp?wasp=h07c7574nn7jqwc1aqau&referrer=parent&backto=searcharticlesresults,2,2;
+  wwwjour: http://www.springerlink.com/app/home/contribution.asp?wasp=h07c7574nn7jqwc1aqau&referrer=parent&backto=searcharticlesresults,2,2;
   wwwlanl: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/02proffapa_2.pdf
   year: '2002'
@@ -9672,8 +9649,7 @@ proff;zk00:
   pages: '661'
   title: 'Analysis of occupational and displacive disorder using the atomic pair distribution
     function: A systematic investigation'
-  url: 
-    https://www.degruyter.com/view/j/zkri.2000.215.issue-11/zkri.2000.215.11.661/zkri.2000.215.11.661.xml
+  url: https://www.degruyter.com/view/j/zkri.2000.215.issue-11/zkri.2000.215.11.661/zkri.2000.215.11.661.xml
   volume: '215'
   wwwemail: sb2896@columbia.edu
   wwwlanl: http://arXiv.org/abs/cond-mat/0002388
@@ -9693,8 +9669,7 @@ proff;zk02:
   optnote: cond-mat/0201428
   pages: '47'
   title: Chemical short range order obtained from the atomic pair distribution function
-  url: 
-    https://www.degruyter.com/view/j/zkri.2002.217.issue-2/zkri.217.2.47.20626/zkri.217.2.47.20626.xml
+  url: https://www.degruyter.com/view/j/zkri.2002.217.issue-2/zkri.217.2.47.20626/zkri.217.2.47.20626.xml
   volume: '217'
   wwwemail: sb2896@columbia.edu
   wwwlanl: http://arxiv.org/abs/cond-mat/0201428
@@ -9721,8 +9696,7 @@ proff;zk03:
   tags: review
   title: Structural analysis of complex materials using the atomic pair distribution
     function - a practical guide
-  url: 
-    https://www.degruyter.com/view/j/zkri.2003.218.issue-2/zkri.218.2.132.20664/zkri.218.2.132.20664.xml
+  url: https://www.degruyter.com/view/j/zkri.2003.218.issue-2/zkri.218.2.132.20664/zkri.218.2.132.20664.xml
   volume: '218'
   wwwemail: sb2896@columbia.edu
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/03proffzk.pdf
@@ -9955,8 +9929,7 @@ ranga;cm99:
   url: http://pubs.acs.org/doi/abs/10.1021/cm990456j
   volume: '11'
   wwwemail: sb2896@columbia.edu
-  wwwjour: 
-    http://pubs.acs.org/isubscribe/journals/cmatex/jtext.cgi?cmatex/11/10/pdf/cm990456j.pdf
+  wwwjour: http://pubs.acs.org/isubscribe/journals/cmatex/jtext.cgi?cmatex/11/10/pdf/cm990456j.pdf
   wwwlanl: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/99rangacm.pdf
   year: '1999'
@@ -10135,8 +10108,7 @@ rohani;afm19:
   url: https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201807788
   volume: ''
   wwwemail: ''
-  wwwpub: 
-    http://slapper.apam.columbia.edu/bib-eu9iifae/papers/Rohani_SiBx_AdvFuncMat_12_2018.pdf
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/Rohani_SiBx_AdvFuncMat_12_2018.pdf
   year: '2019'
 ryu;jpcm16:
   author:
@@ -11453,8 +11425,7 @@ terba;nan18:
   tags: in_situ, synthesis, mof, polymer, weak_scattering
   title: Early stage structural development of prototypical zeolitic imidazolate framework
     (ZIF) in solution
-  url: 
-    http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07949d/unauth\#!divAbstract
+  url: http://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr07949d/unauth\#!divAbstract
   volume: '10'
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/18terbannanoscale.pdf
@@ -11612,14 +11583,14 @@ thinh;unpub23:
   wwwpub: ''
   year: '2023'
 thorp;b;fstpbas02:
-  abstract: "A review examines a single pair distribution\nfunction (PDF) peak showing
-    how it can be\ndecompd. into zero, one, two and multiphonon\ncontributions. The
-    widely used approxn. that the PDF\nlineshape is Gaussian, which is a good\napproxn.
-    under most circumstances, is also\nevaluated. Expressions that can be used for
-    the\ndeviations from a Gaussian lineshape in terms of the\nelements of the displacement-displacement\n
-    correlation matrix are presented. The application of\nintermol. correlations by
-    using a continuum\napproxn., and the special application of\nexptl. resoln. function
-    are described. [on SciFinder\n(R)]"
+  abstract: "A review examines a single pair distribution\nfunction (PDF) peak showing\
+    \ how it can be\ndecompd. into zero, one, two and multiphonon\ncontributions.\
+    \ The widely used approxn. that the PDF\nlineshape is Gaussian, which is a good\n\
+    approxn. under most circumstances, is also\nevaluated. Expressions that can be\
+    \ used for the\ndeviations from a Gaussian lineshape in terms of the\nelements\
+    \ of the displacement-displacement\n correlation matrix are presented. The application\
+    \ of\nintermol. correlations by using a continuum\napproxn., and the special application\
+    \ of\nexptl. resoln. function are described. [on SciFinder\n(R)]"
   address: New York
   author:
     - Thorpe, M. F.
@@ -11633,8 +11604,8 @@ thorp;b;fstpbas02:
   grant: ' doe97 '
   key: CAN 137:284506
   nb: ' chap, pdf, scalloy '
-  optnote: "From Semiconductors to Proteins: Beyond the Average Structure, [Proceedings
-    from the Workshop], Traverse\nCity, MI, United States, July 28-Aug. 1, 2001"
+  optnote: "From Semiconductors to Proteins: Beyond the Average Structure, [Proceedings\
+    \ from the Workshop], Traverse\nCity, MI, United States, July 28-Aug. 1, 2001"
   pages: 105--128
   publisher: Kluwer/Plenum
   title: Notes on the analysis of data for pair distribution functions
@@ -11736,8 +11707,7 @@ tian;zk11:
   pages: 898-904
   title: Testing different methods for estimating uncertainties on {Rietveld} refined
     parameters using {SrRietveld}
-  url: 
-    https://www.degruyter.com/view/j/zkri.2011.226.issue-12/zkri.2011.1421/zkri.2011.1421.xml
+  url: https://www.degruyter.com/view/j/zkri.2011.226.issue-12/zkri.2011.1421/zkri.2011.1421.xml
   volume: '226'
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/11tianzk.pdf
@@ -12045,8 +12015,7 @@ vensk;zk05:
   pages: 231-244
   title: The real structure of {Na$_{3}$BiO$_{4}$} by electron microscopy, {HR-XRD}
     and {PDF} analysis
-  url: 
-    https://www.degruyter.com/view/j/zkri.2005.220.issue-2-3/zkri.220.2.231.59119/zkri.220.2.231.59119.xml
+  url: https://www.degruyter.com/view/j/zkri.2005.220.issue-2-3/zkri.220.2.231.59119/zkri.220.2.231.59119.xml
   volume: '220'
   wwwemail: ' sb2896@columbia.edu'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/vensk_zk05.pdf
@@ -12067,8 +12036,7 @@ wachh;am00:
   pages: '85'
   title: 'Mesostructured non-oxidic solids with adjustable worm-hole shaped pores:
     M-Ge-Q (Q=S, Se) frameworks based on tetrahedral [Ge$_{4}$Q$_{10}$]$^{4-}$ clusters'
-  url: 
-    http://onlinelibrary.wiley.com/doi/10.1002/(SICI)1521-4095(200001)12:2%3C85::AID-ADMA85%3E3.0.CO;2-P/full
+  url: http://onlinelibrary.wiley.com/doi/10.1002/(SICI)1521-4095(200001)12:2%3C85::AID-ADMA85%3E3.0.CO;2-P/full
   volume: '12'
   wwwemail: sb2896@columbia.edu
   wwwjour: http://www3.interscience.wiley.com/cgi-bin/issuetoc?ID=68503403
@@ -12267,8 +12235,7 @@ wilki;cm98:
   url: http://pubs.acs.org/doi/abs/10.1021/cm980368j
   volume: '10'
   wwwemail: sb2896@columbia.edu
-  wwwjour: 
-    http://pubs.acs.org/isubscribe/journals/cmatex/jtext.cgi?cmatex/10/11/pdf/cm980368j.pdf
+  wwwjour: http://pubs.acs.org/isubscribe/journals/cmatex/jtext.cgi?cmatex/10/11/pdf/cm980368j.pdf
   wwwlanl: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/98wilkicm.pdf
   year: '1998'
@@ -12450,8 +12417,7 @@ wustr;jacs22:
   pages: 4694–4702
   tags: synthesis, in-situ
   title: 'Reaction Selectivity in Cometathesis:  Yttrium Manganese Oxides'
-  url: 
-    https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c00636?casa_token=d-FUDTMAW-sAAAAA%3AbaGIEHKvio8OkNgAexssDuXVNkDPLadAWDVb8aldnsh7tiNvgO-GWA9X9r8bT5cUlTHIP2YUgjODjzzo
+  url: https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c00636?casa_token=d-FUDTMAW-sAAAAA%3AbaGIEHKvio8OkNgAexssDuXVNkDPLadAWDVb8aldnsh7tiNvgO-GWA9X9r8bT5cUlTHIP2YUgjODjzzo
   volume: '34'
   year: '2022'
 xiao;afm19:
