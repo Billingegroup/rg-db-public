@@ -1056,10 +1056,10 @@ cyshi:
 dbrady:
   active: true
   aka: []
-  avatar: "https://github.com/davidkim1.png"
+  avatar: https://github.com/davidkim1.png
   bio: bio
   education: []
-  email: "dk3202@columbia.edu"
+  email: dk3202@columbia.edu
   employment:
     - begin_date: 2023-09-24
       end_date: 2024-12-31
@@ -1068,7 +1068,7 @@ dbrady:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: "davidkim1"
+  github_id: davidkim1
   grp_mtg_active: true
   name: David Kim Brady
   orcid_id: ''
