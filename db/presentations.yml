@@ -4989,6 +4989,21 @@
   status: accepted
   title: 'Handling heterogeneity: Approaches to separate signals using multiple spaces'
   type: keynote
+2309sb_columbiauniversity:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2023-09-22
+  end_date: 2023-09-22
+  location: Columbia University
+  meeting_name: APAM department research conference
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Handling heterogeneity in materials structure characterization: approaches
+    to separate signals using multiple spaces'
+  type: invited
 2311sb_boston:
   abstract: Although theory has been quite successful at using AI and machine learning
     for predicting stable materials with potentially interesting properties, experimental
@@ -5041,6 +5056,34 @@
   status: accepted
   title: 'Real Materials in Action: studying structure on different length and timescales'
   type: award
+2403sb_neworleans,la:
+  abstract: The atomic pair distribution function (PDF) analysis of x-ray diffraction
+    data has been used to study the structure of liquids since its invention in the
+    1930's.  However, due to structural averaging, the amount of information we can
+    glean about the liquid structure can be quite limited.  Recently, improvements
+    in x-ray sources and in algorithms and software for data reduction and analysis
+    have helped us to obtain new information that wasn't accessible before.  In this
+    talk I will discuss recent PDF studies of structured liquids including molten
+    MOFs and extended molecular structures forming in organic-water mixtures.  These
+    have allowed us to directly test theories for the famous upper critical solution
+    temperature (UCST) phenomenon that were postulated also in the 1930's, but never
+    experimentally proved.  The liquid mixtures studied are amines with water and
+    the results have implications for water purification, mineral recovery from seawater
+    all the way to possible biological applications.
+  authors:
+    - sbillinge
+  begin_date: 2024-03-17
+  end_date: 2024-03-21
+  location: New Orleans, LA
+  meeting_name: award symposium in honor of Jarad Mason at the Spring 2024 American
+    Chemical Society Meeting
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Seeing structuring in liquids using advances in atomic pair distribution
+    function methods
+  type: invited
 2404sb_seattle,wa:
   abstract: tbd
   authors:
@@ -5056,19 +5099,4 @@
     - all
   status: accepted
   title: tbd
-  type: invited
-2309sb_columbiauniversity:
-  abstract: na
-  authors:
-    - sbillinge
-  begin_date: 2023-09-22
-  end_date: 2023-09-22
-  location: Columbia University
-  meeting_name: APAM department research conference
-  notes: []
-  project:
-    - all
-  status: accepted
-  title: 'Handling heterogeneity in materials structure characterization: approaches
-    to separate signals using multiple spaces'
   type: invited
