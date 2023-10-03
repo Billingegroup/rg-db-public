@@ -1060,8 +1060,7 @@ dbrady:
     - DK
     - David (Spanish pronunciation)
   avatar: "https://github.com/davidkim1.png"
-  bio:
-    - David is from Venezuela and is Half Korean. He enjoys making products that people can use.
+  bio: David is from Venezuela and is Half Korean. He enjoys making products that people can use.
     he majored in Applied Math in college after having studied Computer Science for and Math for
     two years. He is currently working on a network and platform both to let your friends now when
     you are available to hangout and to find events to go to with your friends. This network/platform
@@ -1084,7 +1083,6 @@ dbrady:
       advisor: sbillinge
       status: undergrad
     - begin_date: 2021-07-24
-      end_date: Present
       organization: Gigi Technologies Ltd.
       position: CEO
     - begin_date: 2022-05-04
