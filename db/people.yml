@@ -1055,10 +1055,25 @@ cyshi:
   position: scientist
 dbrady:
   active: true
-  aka: []
+  aka:
+    - David Kim
+    - DK
+    - David (Spanish pronunciation)
   avatar: "https://github.com/davidkim1.png"
-  bio: bio
-  education: []
+  bio:
+    - David is from Venezuela and is Half Korean. He enjoys making products that people can use.
+    he majored in Applied Math in college after having studied Computer Science for and Math for
+    two years. He is currently working on a network and platform both to let your friends now when
+    you are available to hangout and to find events to go to with your friends. This network/platform
+    offers an AI bot that can recommend activities and places according to past experiences recorded
+    on the app and group preferences such as vegan, coffee, free, expensive, etc.
+  education:
+    - begin_year: 2021
+      begin_month: 9
+      degree: BA in Applied Mathematics
+      institution: Columbia University
+      end_year: 2023
+      end_month: 5
   email: "dk3202@columbia.edu"
   employment:
     - begin_date: 2023-09-24
@@ -1068,6 +1083,19 @@ dbrady:
       group: bg
       advisor: sbillinge
       status: undergrad
+    - begin_date: 2021-07-24
+      end_date: Present
+      organization: Gigi Technologies Ltd.
+      position: CEO
+    - begin_date: 2022-05-04
+      end_date: 2022-09-05
+      organization: Boston Venture Studio
+      position: Software Engineer & Product Manager Intern
+    - begin_date: 2020-06-06
+      end_date: 2024-08-21
+      organization: Liberty Mutual Insurance
+      position: Software Engineer Intern
+      group: Financial Services
   github_id: "davidkim1"
   grp_mtg_active: true
   name: David Kim Brady
