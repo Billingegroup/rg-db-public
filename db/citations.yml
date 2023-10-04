@@ -6166,7 +6166,7 @@ jense;nc16:
   optannote: ''
   optwwwlanl: ''
   pages: '11859'
-  supplementary_info_urls: 
+  supplementary_info_urls:
     - https://zenodo.org/record/56682
   tags: nanoparticles, clusters, au, metallic_nanoparticle
   title: Polymorphism in magic sized {Au$_{144}$(SR)$_{60}$} clusters
@@ -7974,13 +7974,7 @@ llan;RobustnessTestSpacegroupMining22:
   optnote: arXiv:2202.12335 [cond-mat.mtrl-sci]
   optwwwlanl: ''
   pages: 626-630
-  supplementary_info_urls:
-    - https://doi.org//10.1107/S1600576722002990/jo5075sup1.txt
-    - https://doi.org//10.1107/S1600576722002990/jo5075sup2.txt
-    - https://doi.org//10.1107/S1600576722002990/jo5075sup3.txt
-    - https://doi.org//10.1107/S1600576722002990/jo5075sup4.txt
-    - https://doi.org//10.1107/S1600576722002990/jo5075sup5.txt
-    - https://gitlab.thebillingegroup.com/analysis/20ll_sgcnnrobusttest
+  supplementary_info_urls: ''
   synopsis: The spacegroupMining Space Group Determination Model is shown to be robust
     when applied to PDFs of different choices of experimental parameters rmax, Qmax,
     and atomic displacement parameters.
@@ -12293,7 +12287,7 @@ wrigh;cm21:
   nb: art, fy21, typeA
   number: '9'
   optannote: ''
-  optnote: []
+  optnote: ''
   optwwwlanl: ''
   pages: 3359-3367
   summary_professional: The optical float-zone furnace approach for growing large
@@ -12536,8 +12530,7 @@ xie;am22:
     Ag atoms that leads to a  distortion of the crystal structure. It also results
     in a strong acoustic–optical phonon scattering which can explain the ultralow
     thermal conductivity in AgGaTe2 and its promising thermoelectric properties.
-  supplementary_info_urls:
-    - https://www.bnl.gov/newsroom/news.php?a=119576
+  supplementary_info_urls: ''
   synopsis: emphanisis is found in a non lone-pair diamondoid compound AgGaTe2 which
     has very low thermal conductivity.
   tags: thermoelectric, emphanisis,
