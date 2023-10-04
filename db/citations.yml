@@ -13032,6 +13032,62 @@ yu;prb18i:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/18bozinprb.pdf
   year: '2018'
+robin;unpub23:
+  ackno: We thank Luca Gelisio and Ivan Vartaniants for useful discussions of the interpretation of these
+    experiments. Work at Brookhaven National Laboratory was supported by the U.S. Department of
+    Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-SC0012704. The
+    sample preparation used the resources of the Center for Functional Nanomaterials, which is a U.S. DOE
+    Office of Science Facility, at BNL under contract no. DE-SC0012704. Work performed at UCL was
+    supported by EPSRC. For the purpose of open access, the authors have applied a Creative Commons
+    Attribution (CC BY) license to any Author Accepted Manuscript version arising. Authors from Sogang
+    Universty acknowledge the support from the National Research Foundation of Korea (NRF-
+    2014R1A2A1A10052454, 2015R1A5A1009962, and 2016R1A6B2A02005468). C.S. is supported by NRF-
+    2016R1A2B3010980. The experiments were carried out using the FXS instrument at PAL-XFEL (proposal
+    no. 2017-1st-FXS-007) funded by the Ministry of Science and ICT of Korea. Y.C. acknowledges support
+    from Argonne National Laboratory under the U.S. Department of Energy, Office of Science, Office of
+    Basic Energy Sciences, Contract No. DE-AC02-06CH11357.
+  author:
+    - Ian K. Robinson
+    - Jack P. Griffiths
+    - Robert Koch
+    - Tadesse A. Assefa
+    - Ana F. Suzana
+    - Yue Cao
+    - Sungwon Kim
+    - Dongjin Kim
+    - Heemin Lee
+    - Sunam Kim
+    - Jae Hyuk Lee
+    - Sang-Youn Park
+    - Intae Eom
+    - Jaeku Park
+    - Daewoong Nam
+    - Sangsoo Kim
+    - Sae Hwan Chun
+    - Hyojung Hyun
+    - Kyung sook Kim
+    - Ming Lu
+    - Changyong Song
+    - Hyunjung Kim
+    - Simon J. L. Billinge
+    - Emil S. Bozin
+  doi: ''
+  entrytype: article
+  facility: pal
+  grant: fwp20
+  journal: IUCrJ
+  month: tbd
+  nb: ''
+  note: to be published
+  number: ''
+  pages: ''
+  professional_summary: ''
+  synopsis: ''
+  tags: ufpdf, gold, melting,
+  title: Emergence of liquid following laser melting of gold thin films
+  url: ''
+  volume: ''
+  year: '2023'
 yu;prb18ii:
   author:
     - Yu, Runze
