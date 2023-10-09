@@ -44,6 +44,7 @@ aabeykoon:
       position: post-doctoral scholar
       organization: Brookhaven National Laboratory
       group: bg
+
       advisor: sbillinge
       status: postdoc
   name: A. M. Milinda Abeykoon
@@ -6260,3 +6261,34 @@ zzgong:
   service: []
   skills: []
   title: Dr.
+dschmuckler:
+  active: true
+  aka:
+    - Schmuckler, D
+  avatar: https://github.com/schmucklerd.png
+  bio: ''
+  education:
+    - begin_year: 2022
+      begin_month: 9
+      degree: MS in Materials Science and Engineering
+      institution: columbiau
+      end_year: 2023
+      end_month: 12
+  email: dls2219@columbia.edu
+  employment:
+    - begin_year: 2022
+      begin_month: 2
+      position: Research Co-Op
+      organization: Corning, Inc.
+      end_year: 2022
+      end_month: 8
+    - begin_year: 2023
+      begin_month: 9
+      position: Masters Researcher
+      organization: columbiau
+      advisor: sbillinge
+      end_year: 2023
+      end_month: 12
+      status: ms
+  name: Daniel Schmuckler
+  position: graduate research assistant
