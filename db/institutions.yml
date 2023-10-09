@@ -691,6 +691,28 @@ enthought:
   updated: 2020-12-29 04:16:46.030159
   uuid: 358f4e2b-e0dc-44e6-8cf4-605409118494
   zip: '78701'
+epfl:
+  aka:
+    - EFPL
+    - EPFL Valais
+    - EPFL Wallis
+    - Swiss Federal Institute of Technology Lausanne
+  city: Sion
+  country: Switzerland
+  date: 2023-10-08
+  departments:
+    isic:
+      name: Institute of Chemical Sciences and Engineering
+      aka:
+        - Institut des sciences et ingénierie chimiques
+  name: École Polytechnique Fédérale de Lausanne
+  schools:
+    sb:
+      name: School of Basic Sciences
+      aka:
+        - Faculté des sciences de base
+  updated: 2023-10-08 15:32:35.820704
+  uuid: 48d23729-aa36-4a33-8898-cc36e1cece29
 ercfmaswe:
   city: Jülich
   country: Germany
