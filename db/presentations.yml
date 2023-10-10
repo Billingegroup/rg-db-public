@@ -5004,6 +5004,33 @@
   title: 'Handling heterogeneity in materials structure characterization: approaches
     to separate signals using multiple spaces'
   type: invited
+2310sb_caltech:
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
+    are at the heart of next generation technological solutions in sustainable energy,
+    effective new pharmaceuticals and environmental remediation.  A key to making
+    progress is to be able to understand the nanoparticle structure, the arrangements
+    of atoms in the nanoparticles and nanoscale structures. Also critical is understanding
+    the distribution of the nanoparticles and how they change in time as devices run
+    and reactions take place.  We use advanced x-ray, neutron and electron scattering
+    methods to get at this problem.  I will talk about these methods and show some
+    recent success-stories in the fields of sustainable energy, environmental remediation
+    and cultural heritage preservation.  However, I will also discuss the fundamental
+    limitations on our ability to extract information from the data and how we are
+    now turning to machine learning and artificial intelligence techniques to give
+    more insights.
+  authors:
+    - sbillinge
+  begin_date: 2023-10-17
+  department: matsci
+  end_date: 2023-10-18
+  institution: Caltech
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts: understanding
+    nanostructure with x-rays and algorithms'
+  type: seminar
 2311sb_boston:
   abstract: Although theory has been quite successful at using AI and machine learning
     for predicting stable materials with potentially interesting properties, experimental
