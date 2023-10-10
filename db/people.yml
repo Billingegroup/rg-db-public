@@ -1195,7 +1195,7 @@ dschmuckler:
       position: Masters Researcher
       group: bg
       advisor: sbillinge
-      status: ms 
+      status: ms
   github_id: ''
   grp_mtg_active: true
   name: Daniel Schmuckler
@@ -5649,10 +5649,10 @@ tnanarong:
     - begin_date: 2023-10-09
       end_date: 2025-10-08
       organization: columbiau
-      position: Postdoctoral Fellow
+      position: post-doctoral scholar
       group: bg
       advisor: sbillinge
-      status: postdoc
+      status: pd
   github_id: tinatn29
   grp_mtg_active: true
   name: Tina Na Narong
