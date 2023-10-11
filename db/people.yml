@@ -1181,6 +1181,26 @@ dpodgorski:
       end_month: 6
   name: Dragica Podgorski
   position: unknown
+dschmuckler:
+  active: true
+  aka: []
+  avatar: https://github.com/.png
+  bio: bio
+  education: []
+  email: dls2219@columbia.edu
+  employment:
+    - begin_date: 2023-09-10
+      end_date: 2024-05-31
+      organization: columbiau
+      position: Masters Researcher
+      group: bg
+      advisor: sbillinge
+      status: ms
+  github_id: ''
+  grp_mtg_active: true
+  name: Daniel Schmuckler
+  orcid_id: ''
+  position: Undergraduate Researcher
 dtordari:
   active: false
   aka: []
@@ -5618,6 +5638,26 @@ tdavis:
   name: Timur Davis
   position: manager
   position_full: Investment lead
+tnanarong:
+  active: true
+  aka: []
+  avatar: https://github.com/tinatn29.png
+  bio: bio
+  education: []
+  email: tn2539@columbia.edu
+  employment:
+    - begin_date: 2023-10-09
+      end_date: 2025-10-08
+      organization: columbiau
+      position: post-doctoral scholar
+      group: bg
+      advisor: sbillinge
+      status: pd
+  github_id: tinatn29
+  grp_mtg_active: true
+  name: Tina Na Narong
+  orcid_id: 0000-0002-4123-0940
+  position: Postdoctoral Researcher
 tproffen:
   active: false
   aka:
