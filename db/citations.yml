@@ -5240,6 +5240,50 @@ greta;prl13:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/gretarsson_prl13.pdf
   year: '2013'
+griff;unpub23:
+  ackno: Work at Brookhaven National Laboratory was supported by the U.S. Department
+    of Energy, Office of Science, Office of Basic Energy Sciences, under Contract
+    No. DE-SC0012704. Use of the Linac Coherent Light Source (LCLS), SLAC National
+    Accelerator Laboratory, is supported by the U.S. Department of Energy, Office
+    of Science, Office of Basic Energy Sciences under Contract No. DE-AC02-76SF00515.
+    This work was supported by the National Institutes of Health grant S10 OD023453.
+    We would like to thank Andrey A. Yakovenko and Uta Ruett for help with reference
+    synchrotron measurements of equilibrium CuIr2S4. The measurements were carried
+    out at the Advanced Photon Source (APS) beamline 11-ID-C, which was supported
+    by the U. S. Department of Energy, Office of Science, Office of Basic Energy Sciences,
+    under Contract No. DE-AC02-06CH11357.
+  author:
+    - Jack Griffiths
+    - Ana Flávia Suzana1
+    - Longlong Wu
+    - Samuel D. Marks
+    - Vincent Esposito
+    - Sébastien Boutet
+    - Paul G. Evans
+    - J. F. Mitchell
+    - Mark P. M. Dean
+    - David A. Keen
+    - Ian Robinson
+    - Simon J. L. Billinge
+    - Emil S. Bozin
+  doi: ''
+  entrytype: article
+  facility: slac lcls aps 11idc
+  grant: fwp20
+  journal: Nature Materials
+  month: tbd
+  nb: ''
+  note: submitted
+  number: ''
+  pages: ''
+  professional_summary: ''
+  synopsis: ''
+  tags: ufpdf, cis, dimer, ultra_fast
+  title: Resolving length scale sependent transient disorder through an ultrafast
+    phase transition
+  url: ''
+  volume: ''
+  year: '2023'
 gu;aca19:
   ackno: This research was supported by the US National Science Foundation (NSF) through
     grant DMREF-1534910. SB acknowledges support from the National Defense Science
