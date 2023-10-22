@@ -5111,6 +5111,47 @@
   status: accepted
   title: 'Real Materials in Action: studying structure on different length and timescales'
   type: award
+2312sb_aspencenterforphysics,aspen,co:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2023-12-11
+  end_date: 2023-12-15
+  location: Aspen Center for Physics, Aspen, CO
+  meeting_name: Disorder and Quantum Phases of Matter
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: tbd
+  type: contributed_oral
+2312sb_uindiana:
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
+    are at the heart of next generation technological solutions in sustainable energy,
+    effective new pharmaceuticals and environmental remediation.  A key to making
+    progress is to be able to understand the nanoparticle structure, the arrangements
+    of atoms in the nanoparticles and nanoscale structures. Also critical is understanding
+    the distribution of the nanoparticles and how they change in time as devices run
+    and reactions take place.  We use advanced x-ray, neutron and electron scattering
+    methods to get at this problem.  I will talk about these methods and show some
+    recent success-stories in the fields of sustainable energy, environmental remediation
+    and cultural heritage preservation.  However, I will also discuss the fundamental
+    limitations on our ability to extract information from the data and how we are
+    now turning to machine learning and artificial intelligence techniques to give
+    more insights.
+  authors:
+    - sbillinge
+  begin_date: 2023-12-06
+  department: physics
+  end_date: 2023-12-06
+  institution: indianau
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms'
+  type: colloquium
 2403sb_neworleans,la:
   abstract: The atomic pair distribution function (PDF) analysis of x-ray diffraction
     data has been used to study the structure of liquids since its invention in the
