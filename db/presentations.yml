@@ -5057,6 +5057,34 @@
   status: accepted
   title: Prospects for autonomous materials discovery guided by in situ diffraction
   type: invited
+2311sb_johannesburg,southafrica:
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
+    are at the heart of next generation technological solutions in sustainable energy,
+    effective new pharmaceuticals and environmental remediation.  A key to making
+    progress is to be able to understand the nanoparticle structure, the arrangements
+    of atoms in the nanoparticles and nanoscale structures. Also critical is understanding
+    the distribution of the nanoparticles and how they change in time as devices run
+    and reactions take place.  We use advanced x-ray, neutron and electron scattering
+    methods to get at this problem.  I will talk about these methods and show some
+    recent success-stories in the fields of sustainable energy, environmental remediation
+    and cultural heritage preservation.  However, I will also discuss the fundamental
+    limitations on our ability to extract information from the data and how we are
+    now turning to machine learning and artificial intelligence techniques to give
+    more insights.
+  authors:
+    - sbillinge
+  begin_date: 2023-11-13
+  end_date: 2023-11-17
+  location: Johannesburg, South Africa
+  meeting_name: The African Synchrotron Light Source (AfLS6-2023) Conference
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Watching real materials in real devices with the atomic pair distribution
+    function (PDF)
+  type: invited
+  webinar: true
 2311sb_switzerland:
   abstract: 'Nanoparticles, nanoporous materials and nanostructured bulk materials
     are at the heart of next generation technological solutions in sustainable energy,
