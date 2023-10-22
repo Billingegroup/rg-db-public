@@ -4548,6 +4548,13 @@ sbillinge:
       begin_year: 1987
   service:
     - type: profession
+      name: Review panel for National Science Foundation
+      month: 10
+      year: 2023
+      role: member
+      other:
+        - CHEX at CHESS, Cornell University
+    - type: profession
       name: Chair and organizer for the NSF-funded workshop Scientific Opportunities
         and Instrumentation Needs for Next Generation Materials Genomics Based Materials
         Research in Materials with Long-Range Order
@@ -4572,9 +4579,11 @@ sbillinge:
           in 2012, the second in Arusha, Tanzania, in 2016.  This one was in Kampala,
           Uganda.
     - type: profession
-      name: Proposal review panel for the Linear Coherent Light Source
+      name: Proposal review panel for the Department of Energy
       year: 2022
       month: Jun
+      notes:
+        - Linear Coherent Light Source
     - type: department
       name: PhD thesis committed for Mr Jonathan Karp,
       date: 2022-06-16
