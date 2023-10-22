@@ -369,9 +369,13 @@ caltech:
         - materials research laboratory
         - materials
         - materials department
+    chemistry:
+      name: Department of Chemistry
+    meche:
+      name: Department of Mechanical Engineering
   name: California Institute of Technology
   state: CA
-  updated: 2020-11-10 19:37:08.009990
+  updated: 2023-10-19 15:08:11.137858
   uuid: 437a804a-80b9-4a04-ae87-29c6ed99612a
   zip: '91125'
 cas:
