@@ -5196,3 +5196,18 @@
   status: accepted
   title: tbd
   type: invited
+2405sb_pittsburg,pa:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2024-05-19
+  end_date: 2024-05-23
+  location: Pittsburg, PA
+  meeting_name: SIAM Conference on Mathematical Aspects of Materials Science (MS24)
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: The materials genome and the search for universal and continuous structure
+    representations
+  type: invited

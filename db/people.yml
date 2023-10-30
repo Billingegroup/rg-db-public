@@ -737,6 +737,26 @@ ckkim:
   name: Chung Koo Kim
   position: engineer
   position_full: Manufacturing Integration Engineer
+cseno:
+  active: true
+  aka: []
+  avatar: https://github.com/carltta.png
+  bio: bio
+  education: []
+  email: carlotta.seno@unibas.ch
+  employment:
+    - begin_date: 2023-10-23
+      end_date: 2024-05-31
+      organization: columbiau
+      position: "'visiting student'"
+      group: bg
+      advisor: sbillinge
+      status: visitor-unsupported
+  github_id: carltta
+  grp_mtg_active: true
+  name: Carlotta Seno
+  orcid_id: ''
+  position: "'visiting student'"
 cwright:
   active: false
   aka:
@@ -2153,7 +2173,7 @@ idouglas:
     - begin_date: 2023-06-09
       end_date: 2023-08-15
       organization: columbiau
-      position: summer undergraduate researcher
+      position: undergraduate research fellow
       group: bg
       advisor: sbillinge
       status: undergrad
@@ -2161,7 +2181,7 @@ idouglas:
   grp_mtg_active: true
   name: Imani Douglas
   orcid_id: ''
-  position: summer undergraduate researcher
+  position: undergraduate research fellow
 ikjeong:
   active: false
   aka:
@@ -6001,6 +6021,26 @@ xyun:
       organization: Columbia University
   name: Xin Yun
   position: graduate research assistant
+ycchen:
+  active: true
+  aka: []
+  avatar: https://github.com/yucongalicechen.png
+  bio: bio
+  education: []
+  email: yucong.c@columbia.edu
+  employment:
+    - begin_date: 2023-10-23
+      end_date: 2024-05-31
+      organization: columbiau
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: yucongalicechen
+  grp_mtg_active: true
+  name: Yucong Chen
+  orcid_id: ''
+  position: undergraduate researcher
 yjhu:
   active: false
   aka:
