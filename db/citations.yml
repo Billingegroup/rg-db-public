@@ -7104,6 +7104,45 @@ kovya;jac23:
   url: https://doi.org/10.1107/S1600576723005927
   volume: '56'
   year: '2023'
+anker;actaa23:
+  ackno: This work is part of a project that has received funding from the European Research Council (ERC) under the
+    European Union's Horizon 2020 Research and Innovation Programme (grant agreement No. 804066). Work in the Billinge
+    group was supported by the U.S. National Science Foundation through grant DMREF-1922234. We are grateful to the
+    Villum Foundation for financial support through a Villum Young Investigator grant (VKR00015416). Funding from the
+    Danish Ministry of Higher Education and Science through the SMART Lighthouse is gratefully acknowledged. We
+    acknowledge MAX IV Laboratory for time on Beamline DanMAX under Proposal 20200731. We acknowledge DESY (Hamburg,
+    Germany), a member of the Helmholtz Association HGF, for the provision of experimental facilities. Parts of this
+    research were carried out at beamline P02.1 at Petra III, and we thank Martin Etter, Jozef Bednarcik for assistance
+    in using the beamline
+  author:
+    - Andy S. Anker
+    - Ulrik Friis-Jensen
+    - Frederik L. Johansen
+    - Simon J. L. Billinge
+    - Kirsten M. Ø. Jensen
+  doi: ''
+  entrytype: article
+  facility: desy, petraiii, p02.1
+  grant: dmref19
+  journal: Acta Crystallogr. A
+  month: nov
+  nb: ''
+  note: submitted
+  notes: ''
+  number: ''
+  optannote: ''
+  optnote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: The problem of finding atomic cluster models for PDFs with just a few peaks is addressed.  The approach 
+    taken is similar to the related paper that describes a machine learning (ML) approach called ML-Motex.  However, in 
+    the current case a non-ML approach is taken which turns out to be orders of magnitude faster than the ML approach
+    showing that ML is not always the answer.
+  tags: ml, cluster,  nanoparticle
+  title: "ClusterFinder: A fast tool to find cluster structures from pair distribution function data"
+  url: ''
+  volume: ''
+  year: '2023'
 kreme;jpcc11:
   author:
     - Kremenovic, A.
