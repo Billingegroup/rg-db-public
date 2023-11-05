@@ -373,9 +373,11 @@ caltech:
       name: Department of Chemistry
     meche:
       name: Department of Mechanical Engineering
+    matsci:
+      name: Materials Science
   name: California Institute of Technology
   state: CA
-  updated: 2023-10-19 15:08:11.137858
+  updated: 2023-11-05 09:36:25.851282
   uuid: 437a804a-80b9-4a04-ae87-29c6ed99612a
   zip: '91125'
 cas:
@@ -1124,6 +1126,18 @@ ill:
   state: ''
   street: 71 Avenue des Martyrs
   zip: '38000'
+indianau:
+  city: Bloomington
+  country: USA
+  date: 2023-11-05
+  departments:
+    physics:
+      name: Department of Physics
+  name: Indiana University
+  state: IN
+  updated: 2023-11-05 09:32:50.934448
+  uuid: a69e338a-a9c7-4115-a4e6-e4021f822fc4
+  zip: '47408 '
 instituteofphysicschineseacademyofsciences:
   aka:
     - IoP-CAS
