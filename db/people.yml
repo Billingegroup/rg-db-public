@@ -4575,6 +4575,12 @@ sbillinge:
       other:
         - CHEX at CHESS, Cornell University
     - type: profession
+      name: External examiner, PhD Thesis committee, Dan Foley, Johns Hopkins University
+      month: 10
+      year: 2023
+      role: examiner
+      other: []
+    - type: profession
       name: Chair and organizer for the NSF-funded workshop Scientific Opportunities
         and Instrumentation Needs for Next Generation Materials Genomics Based Materials
         Research in Materials with Long-Range Order

@@ -5057,6 +5057,92 @@
   status: accepted
   title: Prospects for autonomous materials discovery guided by in situ diffraction
   type: invited
+2311sb_dectris,baden,switzerland:
+  abstract: Hard x-rays tend to make experiments easy.  They are penetrating allowing
+    in situ, operando and spatially resolved measurements.  Large regions of reciprocal
+    space can be covered rapidly opening the door to high real-space resolution total
+    scattering measurements.  Absorption is lower making corrections easier, and resulting
+    beam damage of the sample is less of a worry.  These things tend to make us greedy
+    though.  We now want to put operating batteries in the beam and study spatially
+    resolved labs-on-chip, do real-time autonomous experiments and use computed tomography
+    to see diffraction from cross-sections of bulk samples.  These developments, powered
+    by wonderful source and detector developments, present major challenges on the
+    data analysis side.  Now we are putting heterogeneous devices in the beam and
+    getting signals from different parts of them.  We have bad powder averages (spotty
+    data) because we can't spin the battery, and single crystal spots coming from
+    some component in the setup that happens to be in the way of the beam.  We have
+    unknown and unexpected phases coming and going, and want to extract tiny signals
+    from large backgrounds. I will take this opportunity to discuss some of the data
+    analysis, algorithmic and computational developments that are helping us to overcome
+    these challenging situations and not only recovering from "bad data", but also
+    turning bad data into good data.  Spotty powder patterns have more information
+    in them than smooth powder rings.  Normally, data that contain more information
+    would be thought as "better" than data with less, but it is considered bad because
+    we don't have great ways to extract that information.  I will describe some new
+    approaches, algorithmic, statistical, machine learning and otherwise, that are
+    helping us move the goalposts in this domain, which can open up new opportunities
+    for studying complex heterogeneous samples with hard x-rays.
+  authors:
+    - sbillinge
+  begin_date: 2023-11-10
+  end_date: 2023-11-10
+  location: Dectris, Baden, Switzerland
+  meeting_name: Howard Flack Award Lecture
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Watching real materials in real devices with the atomic pair distribution
+    function ({PDF}),
+  type: award
+2311sb_epflsion,switzerland:
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
+    are at the heart of next generation technological solutions in sustainable energy,
+    effective new pharmaceuticals, and environmental remediation.    Their study involves
+    going beyond traditional crystallography to understand local arrangements of atoms
+    on different length-scales.  This lecture will explore this problem, and describe
+    recent developments in solutions based on total scattering methods such as the
+    atomic pair distribution function (PDF) method.  They will explore the state of
+    the art in time and spatially resolved studies of heterogeneous samples, operando
+    measurements from operating devices, developments in ultra-fast pump-probe PDF
+    measurements using x-ray free electron lasers, and latest approaches in data interpretation
+    using machine learning and artificial intelligence.
+  authors:
+    - sbillinge
+  begin_date: 2023-11-06
+  end_date: 2023-11-06
+  location: EPFL Sion, Switzerland
+  meeting_name: Howard Flack Award Lecture
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Real Materials in Action: studying structure on different length and timescales'
+  type: award
+2311sb_eth,zurich,switzerland:
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
+    are at the heart of next generation technological solutions in sustainable energy,
+    effective new pharmaceuticals, and environmental remediation.    Their study involves
+    going beyond traditional crystallography to understand local arrangements of atoms
+    on different length-scales.  This lecture will explore this problem, and describe
+    recent developments in solutions based on total scattering methods such as the
+    atomic pair distribution function (PDF) method.  They will explore the state of
+    the art in time and spatially resolved studies of heterogeneous samples, operando
+    measurements from operating devices, developments in ultra-fast pump-probe PDF
+    measurements using x-ray free electron lasers, and latest approaches in data interpretation
+    using machine learning and artificial intelligence.
+  authors:
+    - sbillinge
+  begin_date: 2023-11-09
+  end_date: 2023-11-09
+  location: ETH, Zurich, Switzerland
+  meeting_name: Howard Flack Award Lecture
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Real Materials in Action: studying structure on different length and timescales'
+  type: award
 2311sb_johannesburg,southafrica:
   abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
     are at the heart of next generation technological solutions in sustainable energy,
@@ -5085,31 +5171,93 @@
     function (PDF)
   type: invited
   webinar: true
-2311sb_switzerland:
-  abstract: 'Nanoparticles, nanoporous materials and nanostructured bulk materials
-    are at the heart of next generation technological solutions in sustainable energy,
-    effective new pharmaceuticals, and environmental remediation.    Their study involves
-    going beyond traditional crystallography to understand local arrangements of atoms
-    on different length-scales.  These lectures will explore this problem, and describe
-    recent developments in solutions based on total scattering methods such as the
-    atomic pair distribution function (PDF) method.  They will explore the state of
-    the art in time and spatially resolved studies of heterogeneous samples, operando
-    measurements from operating devices, developments in ultra-fast pump-probe PDF
-    measurements using x-ray free electron lasers, and latest approaches in data interpretation
-    using machine learning and artificial intelligence.  '
+2311sb_paulscherrerinstitute,switzerland:
+  abstract: Material properties depend sensitively on the atomic structure, and on
+    the local structure.  The local structure may a symmetry breaking in a crystal,
+    an explicit nanocrystalline or nanoporous sample or even an amorphous or liquid
+    material.  We now have powerful tools for studying such materials, many based
+    on the atomic pair distribution function analysis (PDF) of x-ray, neutron and
+    electron diffraction data.  This approach has traditionally leaned heavily on
+    the assumption that the average scattering is isotropic, and any heterogeneities
+    in the sample are averaged over.  In this talk we explore extensions to the method
+    to allow it to be used to understand the heterogeneities.  The most obvious is
+    the ability to carry out spatially resolved PDF measurements, which we have been
+    able to do for some time now.  I will review these developments, spending more
+    time on a recent advance that allowed us to to make spatial PDF maps in an electron
+    microscopy with a lateral resolution of around 10 nm.  Also challenging is if
+    the sample has orientational heterogeneities, for example, it is a powder sample
+    but with some preferred orientation.  We have developed the equations that propagate
+    the orientational distribution function (ODF) through the Fourier transform allowing
+    us to study the ODF in real-space and to obtain a real-space equivalent of a pole
+    figure.  Finally, if we allow ourselves to imagine that material whose structure
+    depends on the time-scale that it is probed on is a kind of temporal heterogeneity,
+    we have also demonstrated an approach, variable-shutter PDF (vsPDF), that allows
+    us to probe the structure with different time-resolutions.  I will illustrate
+    this with the example of GeTe, a not-so-simple binary compound.
   authors:
     - sbillinge
-  begin_date: 2023-11-06
+  begin_date: 2023-11-10
   end_date: 2023-11-10
-  location: Switzerland
-  meeting_name: Howard Flack Prize Lectures of the Swiss Society for Crystallographic
-  notes:
-    - 6 lectures in 5 days.  The actual lecture titles and institutions will be put
-      separately
+  location: Paul Scherrer Institute, Switzerland
+  meeting_name: Howard Flack Award Lecture
+  notes: []
   project:
     - all
   status: accepted
-  title: 'Real Materials in Action: studying structure on different length and timescales'
+  title: Local structural analysis when a material has spatial, temporal and orientational
+    heterogeneities
+  type: award
+2311sb_universityofbasel,basel,switzerland:
+  abstract: Nanoparticles and nanostructures are at the heart of next generation technological
+    solutions in sustainable energy, effective new pharmaceuticals and environmental
+    remediation.  A key to making progress is to be able to understand the nanoparticle
+    structure, the arrangements of atoms in the nanoparticles and nanoscale structures.
+    Also critical is understanding the distribution of the nanoparticles and how they
+    change in time as devices run and reactions take place.  We use advanced x-ray,
+    neutron and electron scattering methods to get at this problem.  I will talk about
+    these methods and show some recent success-stories in the fields of sustainable
+    energy, pharmaceuticals and cultural heritage preservation.  However, I will also
+    discuss the fundamental limitations on our ability to extract information from
+    the data and how we are now turning to machine learning and artificial intelligence
+    techniques to give more insights.
+  authors:
+    - sbillinge
+  begin_date: 2023-11-08
+  end_date: 2023-11-08
+  location: University of Basel, Basel, Switzerland
+  meeting_name: Howard Flack Award Lecture
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms'
+  type: award
+2311sb_universityofbern,bern,switzerland:
+  abstract: Nanoparticles and nanostructures are at the heart of next generation technological
+    solutions in sustainable energy, effective new pharmaceuticals and environmental
+    remediation.  A key to making progress is to be able to understand the nanoparticle
+    structure, the arrangements of atoms in the nanoparticles and nanoscale structures.
+    Also critical is understanding the distribution of the nanoparticles and how they
+    change in time as devices run and reactions take place.  We use advanced x-ray,
+    neutron and electron scattering methods to get at this problem.  I will talk about
+    these methods and show some recent success-stories in the fields of sustainable
+    energy, pharmaceuticals and cultural heritage preservation.  However, I will also
+    discuss the fundamental limitations on our ability to extract information from
+    the data and how we are now turning to machine learnging and articifical intelligence
+    techniques to give more insights.
+  authors:
+    - sbillinge
+  begin_date: 2023-11-07
+  end_date: 2023-11-07
+  location: University of Bern, Bern, Switzerland
+  meeting_name: Howard Flack Award Lecture
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms'
   type: award
 2312sb_aspencenterforphysics,aspen,co:
   abstract: tbd

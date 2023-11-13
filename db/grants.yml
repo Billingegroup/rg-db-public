@@ -1185,13 +1185,13 @@
   amount: 51500
   awardnr: n/a
   begin_date: 2022-03-01
-  end_date: 2025-02-28
+  end_date: 2023-02-28
   funder: International Union of Crystallography
   team:
     - institution: columbiau
       name: Simon Billinge
       position: pi
-      subaward_amount: 54000
+      subaward_amount: 51500
   title: Towards a machine readable literature
 22_tri:
   amount: 290000
