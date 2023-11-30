@@ -3029,6 +3029,34 @@ bozin;prl23:
   url: https://doi.org/10.1103/PhysRevLett.131.036101
   volume: '131'
   year: '2023'
+karlsen;jac23:
+  ackno: ''
+  author:
+    - Martin A. Karlsen
+    - Jonas Billet
+    - Songsheng Tao
+    - Simon J.L. Billinge
+    - Dorthe B. Ravnsbæk
+  day: ''
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: efrc18
+  journal: J. Appl. Crystallogr.
+  month: tbd
+  nb: fy24, typeA
+  number: ''
+  optannote: ''
+  optnote: ''
+  pages: ''
+  synopsis: ''
+  tags: nanoparticle, tio2, battery
+  title: 'Operando pair distribution function analysis of
+nanocrystalline functional materials: the case of
+TiO2-bronze nanocrystals in Li-ion battery electrodes'
+  url: ''
+  volume: ''
+  year: '2023'
 bozin;s10:
   author:
     - Bo\v{z}in, Emil S.
