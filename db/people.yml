@@ -6038,15 +6038,15 @@ ycchen:
     - begin_date: 2023-10-23
       end_date: 2024-05-31
       organization: columbiau
-      position: master researcher
+      position: masters researcher
       group: bg
       advisor: sbillinge
-      status: master
+      status: masters
   github_id: yucongalicechen
   grp_mtg_active: true
   name: Yucong Chen
   orcid_id: ''
-  position: master researcher
+  position: masters researcher
 yjhu:
   active: false
   aka:
