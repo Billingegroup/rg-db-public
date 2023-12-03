@@ -6031,14 +6031,16 @@ ycchen:
   active: true
   aka: []
   avatar: https://github.com/yucongalicechen.png
-  bio: bio
+  bio: Yucong is from Shanghai, China. She graduated from UCLA with a
+  Bachelor's degree in Mathematics and Economics. She is currently 
+  a master's student in Applied Mathematics at Columbia.
   education: []
   email: yucong.c@columbia.edu
   employment:
     - begin_date: 2023-10-23
       end_date: 2024-05-31
       organization: columbiau
-      position: undergraduate researcher
+      position: master researcher
       group: bg
       advisor: sbillinge
       status: undergrad
@@ -6046,7 +6048,7 @@ ycchen:
   grp_mtg_active: true
   name: Yucong Chen
   orcid_id: ''
-  position: undergraduate researcher
+  position: master researcher
 yjhu:
   active: false
   aka:
