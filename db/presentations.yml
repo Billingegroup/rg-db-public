@@ -5260,7 +5260,11 @@
     saving the planet: understanding nanostructure with x-rays and algorithms'
   type: award
 2312sb_aspencenterforphysics,aspen,co:
-  abstract: tbd
+  abstract: For a number of years now it has been apparent from local structural probes such as the atomic pair 
+    distribution (PDF) analysis of x-ray and neutron data, that a significant number of interesting quantum materials 
+    have local structures that have distinctively lower symmetry than the average structure. These can be extrinsic, 
+    due to quenched disorder, but we are also finding evidence for intrinsic textures in quantum materials. I will 
+    describe the experimental approaches and present results for some exemplar intrinsic quantum textures.
   authors:
     - sbillinge
   begin_date: 2023-12-11
@@ -5271,8 +5275,8 @@
   project:
     - all
   status: accepted
-  title: tbd
-  type: contributed_oral
+  title: 'Intrinsic quantum textures: quantifying local symmetry breaking from the atomic pair distribution function analysis of x-ray and neutron diffraction data'
+  type: poster
 2312sb_uindiana:
   abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
     are at the heart of next generation technological solutions in sustainable energy,
@@ -5345,7 +5349,25 @@
   title: tbd
   type: invited
 2405sb_pittsburg,pa:
-  abstract: tbd
+  abstract: 'The development of crystallography over the previous century has 
+    revolutionized our ability to understand the material universe. However, 
+    crystallography has limitations: It results in classifications that are not 
+    unique and are discontinuous under small distortions of the structure and it is 
+    not well suited to comparing the similarity of different structures. Here we 
+    explore alternative representations for rigid periodic structures that 
+    overcome these limitations. We seek descriptors (invariants) that are 
+    straightforwardly and rapidly computed for any given structure which lead to 
+    mathematically valid distance metrics between crystal structures that allow 
+    us to easily and rapidly compare their similarity.  I will describe measures 
+    based on partial atomic pair distribution functions, that can be shown to be 
+    unique and complete continuous invariants for crystal structures.  Materials 
+    can then be mapped into a continuous space to gain insights into how they 
+    cluster, where there are gaps (\emph{terra incognita}) that can guide searches 
+    for novel materials. As well as being mathematically rigorous, these 
+    invariants are very rapid to compute. As a first exploration of what can be 
+    learned from this approach we have computed these structure invariants for 
+    more than a quarter of a million structures from the Cambridge structural 
+    database (CSD) and the Inorganic Crystal Structure Database (ICSD).'
   authors:
     - sbillinge
   begin_date: 2024-05-19

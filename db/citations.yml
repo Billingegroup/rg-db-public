@@ -3029,34 +3029,6 @@ bozin;prl23:
   url: https://doi.org/10.1103/PhysRevLett.131.036101
   volume: '131'
   year: '2023'
-karlsen;jac23:
-  ackno: ''
-  author:
-    - Martin A. Karlsen
-    - Jonas Billet
-    - Songsheng Tao
-    - Simon J.L. Billinge
-    - Dorthe B. Ravnsbæk
-  day: ''
-  doi: ''
-  entrytype: article
-  facility: ''
-  grant: efrc18
-  journal: J. Appl. Crystallogr.
-  month: tbd
-  nb: fy24, typeA
-  number: ''
-  optannote: ''
-  optnote: ''
-  pages: ''
-  synopsis: ''
-  tags: nanoparticle, tio2, battery
-  title: 'Operando pair distribution function analysis of
-nanocrystalline functional materials: the case of
-TiO2-bronze nanocrystals in Li-ion battery electrodes'
-  url: ''
-  volume: ''
-  year: '2023'
 bozin;s10:
   author:
     - Bo\v{z}in, Emil S.
@@ -4888,6 +4860,54 @@ frand;prm17:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/17frandprm.pdf
   year: '2017'
+frank;jmca23:
+  ackno: We gratefully acknowledge funding from the Carlsberg Foundation (CF19-0585
+    and CF14-0506) the Danish National Research Foundation (Carbon Dioxide Activation
+    Center, DNRF 118), and DanScatt. Affiliation with Center for Integrated Materials
+    research (iMAT) at Aarhus University is acknowl- edged. Work in the Billinge group
+    was supported by the U.S. National Science Foundation through grant DMREF-1922234.
+    We acknowledge DESY (Hamburg, Germany), a member of the Helmholtz Association
+    HGF, for the provision of experimental facilities. Parts of this research were
+    carried out at the PETRA III beamline P02.1 and P21.1. We would like to thank
+    Ann-Christin Dippel for assistance in using beamline P21.1. Beamtimes were allocated
+    by an in-house contingent. Dr Matthias S. Hvid is thanked for assistance during
+    data collection at DESY. Likewise, we acknowledge the Diamond Light Source (UK)
+    for beamtime on B18 (proposal number SP22410), and Giannantonio Cibin is kindly
+    acknowledged for his support at the beamline. We acknowledge the MAX IV Laboratory
+    for time on the Balder beamline under Proposal 20190489. Research conducted at
+    MAX IV, a Swedish national user facility, is supported by the Swedish Research
+    council under contract 2018-07152, the Swedish Governmental Agency for Innovation
+    Systems under contract 2018-04969, and Formas under contract 2019-02496. Beamline
+    scientist Justus Just is thanked for his assistance at the beamline.
+  author:
+    - Sara Frank
+    - Mads Folkjær
+    - Mads L. N. Nielsen
+    - Melissa J. Marks
+    - Henrik S. Jeppesen
+    - Marcel Ceccato
+    - Simon J. L. Billinge
+    - Jacopo Catalano
+    - Nina Lock
+  doi: ''
+  entrytype: article
+  facility: desy, petraiii, p02.1, p21.1, maxiv, balder
+  grant: dmref19
+  journal: J. Mater. Chem. A
+  month: Dec
+  nb: ''
+  note: to be published
+  notes: ''
+  number: ''
+  pages: ''
+  synopsis: The pyrolysis of ZIF-67 is followed in situ, and the conditions are correlated
+    with the structural evolution and electrocatalytic performance.
+  tags: ml, cluster,  nanoparticle
+  title: Correlating the structural transformation and properties of ZIF-67 during
+    pyrolysis, towards electrocatalytic oxygen evolution
+  url: ''
+  volume: ''
+  year: '2023'
 fujit;s14:
   author:
     - Fujita, K.
@@ -6724,6 +6744,33 @@ kane;cm96:
   wwwlanl: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/96kanecm.pdf
   year: '1996'
+karlsen;jac23:
+  ackno: ''
+  author:
+    - Martin A. Karlsen
+    - Jonas Billet
+    - Songsheng Tao
+    - Simon J.L. Billinge
+    - Dorthe B. Ravnsbæk
+  day: ''
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: efrc18
+  journal: J. Appl. Crystallogr.
+  month: tbd
+  nb: fy24, typeA
+  number: ''
+  optannote: ''
+  optnote: ''
+  pages: ''
+  synopsis: ''
+  tags: nanoparticle, tio2, battery
+  title: 'Operando pair distribution function analysis of nanocrystalline functional
+    materials: the case of TiO2-bronze nanocrystals in Li-ion battery electrodes'
+  url: ''
+  volume: ''
+  year: '2023'
 kim;prb07:
   author:
     - Kim, H. J.
@@ -11340,16 +11387,16 @@ taher;mrsb23:
     - Nathan Smith
     - Michael J. Waters
     - Chris Wolverton
-  doi: ''
+  doi: 10.1557/s43577-023-00591-8
   entrytype: article
   facility: ''
   grant: efrc18
   journal: MRS Bulletin
   month: tbd
   nb: ''
-  note: To be published in  MRS Bulletin
   number: ''
   optannote: ''
+  optnote: To be published in  MRS Bulletin
   optwwwlanl: ''
   pages: ''
   professional_summary: ''
@@ -13408,3 +13455,37 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
+guo;unpub23:
+  ackno: Work in the Lipson group was supported by U.S. National Science Foundation under AI Institute for Dynamical 
+    Systems grant 2112085. Work in the Billinge group was supported by the U.S. Department of Energy, Office of Science, 
+    Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0024141.
+  author:
+    - Gabe Guo
+    - Judah Goldfeder
+    - Ling Lan
+    - Aniv Ray
+    - Albert Hanming Yang
+    - Boyuan Chen
+    - Simon J. L. Billinge
+    - Hod Lipson
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: efrc18
+  journal: Nature Materials
+  month: tbd
+  nb: fy24, typeA
+  note: Submitted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: ''
+  tags: structure_prediction, powder_diffraction, ml
+  title: Towards end-to-end structure solutions from information-compromised diffraction data via generative deep 
+    learning
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2023'

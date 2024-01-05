@@ -1204,7 +1204,7 @@ dpodgorski:
 dschmuckler:
   active: true
   aka: []
-  avatar: https://github.com/.png
+  avatar: https://github.com/schmucklerd.png
   bio: bio
   education: []
   email: dls2219@columbia.edu
@@ -1216,7 +1216,7 @@ dschmuckler:
       group: bg
       advisor: sbillinge
       status: ms
-  github_id: ''
+  github_id: schmucklerd
   grp_mtg_active: true
   name: Daniel Schmuckler
   orcid_id: ''
