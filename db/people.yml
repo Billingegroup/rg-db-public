@@ -6367,6 +6367,26 @@ zthatcher:
   name: Zach Thatcher
   orcid_id: 0000-0002-8680-1540
   position: graduate research assistant
+zzachko:
+  active: true
+  aka: []
+  avatar: https://github.com/zzachko.png
+  bio: bio
+  education: []
+  email: zz2828@columbia.edu
+  employment:
+    - begin_date: 2024-01-14
+      end_date: 2024-05-31
+      organization: columbiau
+      position: "'undergraduate researcher"
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: zzachko
+  grp_mtg_active: true
+  name: Zoe Zachko
+  orcid_id: ''
+  position: "'undergraduate researcher"
 zzgong:
   active: false
   aka:
