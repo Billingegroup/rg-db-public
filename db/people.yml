@@ -49,7 +49,7 @@ aabeykoon:
   name: A. M. Milinda Abeykoon
   position: assistant scientist
 aajayi:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/aajayi-21.png
   bio: Adeolu is a rising sophomore at Columbia Engineering studying Applied Mathematics
@@ -61,7 +61,7 @@ aajayi:
   email: aoa2160@columbia.edu
   employment:
     - begin_date: 2023-02-01
-      end_date: 2023-05-31
+      end_date: 2023-08-31
       organization: columbiau
       position: undergraduate researcher
       group: bg
@@ -737,6 +737,26 @@ ckkim:
   name: Chung Koo Kim
   position: engineer
   position_full: Manufacturing Integration Engineer
+cmyers:
+  active: true
+  aka: []
+  avatar: https://github.com/cadenmyers13.png
+  bio: bio
+  education: []
+  email: cjm2304@columbia.edu
+  employment:
+    - begin_date: 2024-02-05
+      end_date: 2024-05-12
+      organization: columbiau
+      position: masters
+      group: bg
+      advisor: sbillinge
+      status: masters
+  github_id: cadenmyers13
+  grp_mtg_active: true
+  name: Caden Myers
+  orcid_id: ''
+  position: masters
 cseno:
   active: true
   aka: []
@@ -1074,7 +1094,7 @@ cyshi:
   name: Chenyang Shi
   position: scientist
 dbkim:
-  active: true
+  active: false
   aka:
     - David Kim
     - DK
@@ -1097,7 +1117,7 @@ dbkim:
   email: dk3202@columbia.edu
   employment:
     - begin_date: 2023-09-24
-      end_date: 2024-12-31
+      end_date: 2023-12-31
       organization: columbiau
       position: Undergrad Researcher
       group: bg
@@ -1202,7 +1222,7 @@ dpodgorski:
   name: Dragica Podgorski
   position: unknown
 dschmuckler:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/schmucklerd.png
   bio: bio
@@ -1210,12 +1230,12 @@ dschmuckler:
   email: dls2219@columbia.edu
   employment:
     - begin_date: 2023-09-10
-      end_date: 2024-05-31
+      end_date: 2023-12-31
       organization: columbiau
       position: Masters Researcher
       group: bg
       advisor: sbillinge
-      status: ms
+      status: ug
   github_id: schmucklerd
   grp_mtg_active: true
   name: Daniel Schmuckler
@@ -2163,7 +2183,7 @@ iadnan:
   orcid_id: 0009-0007-8256-9733
   position: Masters Researcher
 idouglas:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/imanis-d.png
   bio: bio
@@ -3974,7 +3994,7 @@ rkoch:
   position: post-doctoral scholar
   title: Dr.
 rlee:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/sl5035.png
   bio: bio
@@ -4100,7 +4120,7 @@ sandrello:
   email: sqa2001@columbia.edu
   employment:
     - begin_date: 2023-07-07
-      end_date: 2023-08-31
+      end_date: 2024-05-31
       organization: columbiau
       position: Undergraduate Researcher
       group: bg
@@ -5766,6 +5786,26 @@ tproffen:
       position: post-doctoral scholar
   name: Thomas Proffen
   position: director
+tqzhang:
+  active: true
+  aka: []
+  avatar: https://github.com/tieqiong.png
+  bio: bio
+  education: []
+  email: tz2600@columbia.edu
+  employment:
+    - begin_date: 2024-02-16
+      end_date: 2024-08-31
+      organization: columbiau
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: tieqiong
+  grp_mtg_active: true
+  name: Tieqiong Zhang
+  orcid_id: ''
+  position: undergraduate researcher
 tschertenleib:
   active: true
   aka: []
