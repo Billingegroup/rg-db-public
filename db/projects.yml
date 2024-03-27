@@ -1,237 +1,113 @@
-JUAMI:
+algebra_of_synthesis:
   active: true
-  description: Collaboration to build research ties between PhD materials science
-    researchers in East Africa, the US, and beyond.
-  highlights:
-    - year: 2023
-      month: 6
-      description: The fourth JUAMI school takes place at the University of Nairobi
-        in Kenya.
-  logo: https://www.juami.org/wp-content/uploads/2020/03/Juami-Words-240.png
-  name: 'JUAMI: Joint Undertaking for an African Materials Institute'
-  other: []
-  repo: https://github.com/juami/pytentiostat
-  team:
-    - position: PI
-      name: shaile
-      begin_year: 2010
-    - position: PI
-      name: sbillinge
-      begin_year: 2010
-    - position: Co-PI
-      name: tmallouk
-      begin_year: 2016
-    - position: Co-PI
-      name: sskabalak
-      begin_year: 2018
-    - position: Former Co-PI
-      name: pgreen
-      begin_year: 2010
-  website: http://juami.org
-coder:
-  active: true
-  description: CODER, the committee on diversity and equity in research, is a Billinge
-    group initiative.  The committee currently has a mission to increase inclusivity
-    in the research group with a longer term goal of increasing the racial, ethnic
-    and gender diversity of the group.  Committee members present a discussion segment
-    on these issues to be had by the whole group every two weeks during group meeting,
-    and also lead other social efforts in the group such as group movie nights and
-    a stress-reducing intentional breathing segment during group meeting every week.
+  description: 'Modern materials genomics aims to discover and bring to applications
+    novel materials with improved properties on an accelerated time-scale using "genomic"
+    methods based on data mining, materials informatics, and AI/ML.  It has been very
+    successful at predicting previously undiscovered atomic arrangements ("materials")
+    that are stable or nearly stable using computational methods.  But the ability
+    to subsequently make those materials is a greater challenge.  This project aims
+    to tackle not the materials prediction problem, but the materials synthesis problem:
+    given a material, what is the recipe, or protocol, for making it.  We are interested
+    in taking a data analytic view of this problem with a view to apply generative
+    AI to the problem, but initially aim to find a simplifying framework for the problem
+    by understanding the basic non-commutative algebra and topology of synthesis operations.'
   group: bg
-  highlights:
-    - year: 2020
-      month: 6
-      description: Established in the group CODER, the committee on diversity and
-        equity in research.  The committee currently has a mission to increase inclusivity
-        in the research group with a longer term goal of increasing the racial, ethnic
-        and gender diversity of the group.  Committee members present a discussion
-        segment on these issues to be had by the whole group every two weeks during
-        group meeting, and also lead other social efforts in the group such as group
-        movie nights and a stress-reducing intentional breathing segment during group
-        meeting every week.
-    - year: 2017
-      month: 1
-      description: old description for safe-keeping...CODER is the Committee on diversity
-        and equity in research.  It is a student/early career researcher led activity
-        with a mission of increasing diversity in the group by making the group more
-        inclusive and supportive to people from many different backgrounds.  The group
-        is organized by and for students and post-docs and has a platform at every
-        second group meeting to raise discussions, lead activities or make other interventions
-        that address issues of inclusivity and (non scientific) challenges being faced
-        by members of the group.  The group is mentored by a senior person.  Any activity
-        is proposed and developed by the CODER committee, then run by the mentor before
-        being rolled out to the wider group.  The role of the mentor is to give feedback
-        about any possible unintended outcomes that the group itself has overlooked
-        and to make any suggestions that could make the activity achieve its desired
-        goal.  This structure was arrived at through trial and error Issues that have
-        been raised range from a discussion of sexism in physics, communication and
-        good questioning skills, to burn-out and work-life balance.  Members of the
-        group have expressed appreciation of having a forum to raise discussions and
-        share experiences, including their successes and failures and the discussions
-        in the CODER group-meeting segments are very rich, varied and often eye-opening.  The
-        interactions between group members has definitely benefited and become more
-        sympatico.  Permanent changes have been instituted as a result of this, for
-        example, a "cultural holiday share" segment where different members of the
-        group tell about about a holiday from their cutlture and how itis celebrated
-        when it comes up.  The CODER group is completely student led and governed,
-        but has a well defined mission and goals as well as mentorship.
-  name: Committee on diversity and equity in research (CODER)
+  highlights: []
+  name: The algebra and topology of synthesis
+  summary: 'This project aims to tackle the materials synthesis problem: given a material,
+    what is the recipe, or protocol, for making it.  The approach is to develop generative
+    AI/ML approaches but also in parallel to understand underlying rules that govern
+    the interactions between different synthesis operations.'
   team:
     - name: sbillinge
-      position: Mentor
-      begin_year: 2021
-    - name: bozer
-      position: masters
+      position: mentor
       begin_year: 2022
-      end_year: 2023
-    - name: sskjaervoe
-      position: postdoc
-      begin_year: 2021
-      end_year: 2022
-    - name: jumana
-      position: ug
-      begin_year: 2021
-      end_year: 2023
-    - name: zthathcher
-      position: gra
-      begin_year: 2021
-      end_year: 2022
-    - name: ashaaban
-      position: ug
-      begin_year: 2021
-      end_year: 2021
-    - name: raiden
-      position: ug
-      begin_year: 2021
-      end_year: 2021
-    - name: llan
-      position: gra
-      begin_year: 2021
-    - name: eshen
-      position: gra
-      begin_year: 2021
-      end_year: 2022
-  type: outreach
-  website: ''
-diffpy:
+  type: research
+  website: https://thebillingegroup.com
+complex_liquids:
   active: true
-  description: software for modeling nanostructures principally from atomic pair distribution
-    function (PDF) data.
+  description: Complex liquids, and liquid-liquid interactions, are at the heart of
+    separation technologies, thermo-responsive behavior, solubility and life itself.  Extracting
+    structural information from liquids is a challenge due to the extensive averaging
+    that takes place.  This is a new project to apply latest generation local structural
+    methods and modeling, including machine learning, to gain greater insights into
+    the complex liquid, property, relationship
+  grants: []
+  group: bg
+  highlights:
+    - year: 2024
+      month: 2
+      description: Submitted paper to Matter with robust experimental support on molecular
+        clustering in amine-water mixtures that explains the lower critical solution
+        temperature (LCST) phenomenon that has not had robust experimental support
+        to date.
+  name: Structure-property relationships in complex liquids and solutions
+  summary: This project aims to understand the structure-property relationships in
+    complex molecular liquids and solutions using high-throughput, high-sensitivity
+    measurements and latest developments in modeling
+  team:
+    - name: sbillinge
+      position: mentor
+      begin_year: 2016
+  type: research
+  website: https://thebillingegroup.com
+education_outreach_inclusion:
+  active: true
+  description: Activities in the group in education, outreach as well as diversity,
+    equity and inclusion.
+  grants:
+    - collab22
   group: bg
   highlights:
     - year: 2023
-      month: 5
-      description: Major release of PDFgui v2.0, the first python 3 version of the
-        widely used PDFgui program
-    - year: 2019
-      month: 4
-      description: Major new release (3.0) this year, upgrading diffpy-cmi to use
-        python 3
-  name: Diffpy
-  team:
-    - name: sbillinge
-      position: Mentor and developer
-      begin_year: 2005
-    - name: Long Yang
-      begin_year: 2018
-      position: lead developer
-    - name: pjuhas
-      position: developer
-      begin_year: 2005
-    - name: chliu
-      begin_year: 2017
-      end_year: 2021
-      position: developer
-  type: ossoftware
-  website: https://github.com/diffpy
-dmref15:
-  active: false
-  description: Advancing applied mathematics and computational approaches to the study
-    of the nanostructure of materials
-  grant: dmref15
-  group: bg
-  highlights:
-    - year: 2021
-      month: 1
-      description: Launched PDF in the cloud (PDFitc) website, the first atomic pair
-        distribution function data analysis website.  Instead of downloading group
-        software and using it on their local computers, users can now upload their
-        measured PDFs and search for candidate structures that are pulled from large
-        structural databases.
-    - year: 2021
-      month: 1
-      description: Published a series of papers that applied artificial intelligence
-        (AI) and machine learning (ML) to the study of nanostructure inverse problems,
-        including using a convolutional neural net (CNN) to predict the space group
-        of a material given an atomic pair distribution function (PDF) measured from
-        x-ray or neutron powder diffraction data.
-    - year: 2020
-      month: 3
-      description: Launched PDF in the cloud (PDFitc) website, the first atomic pair
-        distribution function data analysis website.  Instead of downloading group
-        software and using it on their local computers, users can now upload their
-        measured PDFs and search for candidate structures that are pulled from large
-        structural databases.
-    - year: 2018
       month: 6
-      description: Discovered a novel approach to model metallic nanoparticle structures
-        by building discrete models algoritmically for databases. published in Acta
-        Crystallographica A.
-  name: Using data analytics to regularize the nanostructure inverse problem, and
-    NSF funded DMREF center
+      description: Ran the 4th JUAMI school in Nairobi Kenya.  JUAMI is an NSF funded
+        capacity building activity between the US materials research community and
+        the community in East Africa.  It is explained in the video at https://www.juami.org/about/
+    - year: 2024
+      month: 2
+      description: Curriculum development of a course in machine learning in materials
+        science The course is being given for the first time in spring 2024 as MSAE4990.
+  name: Education, outreach, diversity, equity and inclusion
+  summary: Activities in the group in education, outreach as well as diversity, equity
+    and inclusion.
   team:
     - name: sbillinge
-      position: PI
-      begin_year: 2015
-    - name: qdu
-      position: co-pi
-      begin_year: 2015
-    - name: dhsu
-      position: co-pi
-      begin_year: 2015
-    - name: chliu
-      position: gra
-      begin_year: 2017
-      end_year: 2018
-    - name: cwright
-      position: gra
-      begin_year: 2017
-      end_year: 2018
-    - name: jgong
-      position: gra
-      begin_year: 2017
-      end_year: 2018
-    - name: mwaddell
-      position: gra
-      begin_year: 2018
-      end_year: 2018
-    - name: sbanerjee
-      position: gra
-      begin_year: 2018
-      end_year: 2018
-    - name: jgong
-      position: gra
-      begin_year: 2015
-      end_year: 2017
-    - name: rgu
-      position: postdoc
-      begin_year: 2017
-    - name: ytao
-      position: gra
-      begin_year: 2017
-      end_year: 2017
-  type: funded
-dmref19:
+      position: mentor
+      begin_year: 2016
+  type: outreach
+  website: https://thebillingegroup.com
+gtasr:
   active: true
-  description: We recently identified that intrinsic orbital degeneracy lifting can
-    result in broken symmetry states existing in d-electron materials at high temperatures.  The
-    group of A. Zunger, Co-PI on this project, recently independently found that standard
-    density functional theory quantum mechanical calculations can sometimes predict
-    symmetry broken ground-states in materials where the most stable structure is
-    lower in energy, and in symmetry, than the observed crystal structure.  This project
-    is to try and gain insight into this novel phenomenon through a combined mathematics,
-    AI, theory, and experimental campaign.
-  grant: dmref19
+  description: Pretty much everything is a big thing made of small things.  This project
+    explores fundamental properties that this structure imbues on a system.  Because
+    of its ubiquity (that pretty  much everything has this structure) any properties
+    that come from this general structure will need to be satisfied in a broad range
+    of situations.  This project explores the fundamental nature of systems and extends
+    the results to a broad range of situations.
+  highlights: []
+  name: A general theory of abstract system responses (gTASR)
+  summary: This project is to develop a fundamental understanding of complex system
+    responses to forces and generalize the observations to a wide range of situations
+    in human life.
+  team:
+    - name: sbillinge
+      position: mentor
+      begin_year: 2016
+  type: research
+  website: https://thebillingegroup.com
+local_symmetry_breaking:
+  active: true
+  description: 'Quantum materials are at the heart of emerging technologies from quantum
+    computing to sustainable energy.  Using local-structural methods we have developed
+    in the group, we have found that many quantum materials exhibit local symmetry
+    breaking: the atomic arrangements at the local scale are different to those implied
+    by the average crystal structure.  In many systems this response is intrinsic,
+    though it can also be driven by extrinsic effects that can be controlled.  This
+    project aims to characterize these difficult to measure phenomena and, further,
+    to understand how the local symmetry breaking affects the material properties.'
+  grants:
+    - dmref19
   group: bg
   highlights:
     - year: 2022
@@ -241,15 +117,6 @@ dmref19:
         possible.  It was done using a novel approach of measuring a full 3D PDF using
         synchrotron x-radiation and using equations developed in the group in 2018
         to separate the signal into a structural part and an orientational part.
-    - year: 2022
-      month: 8
-      description: Three key papers came out describing novel use of machine learning,
-        including generative ML, to extract structural information from scattering
-        data. One used interpretive ML to find chemically plausible clusters that
-        fit low-information local structural measurements, another used a convolutional
-        variable autoencoder to do structure solution from atomic pair distribution
-        function (PDF) data for the first time, albeit on a limited class of close-packed
-        structures.
     - year: 2023
       month: 3
       description: Developed a novel variable-shutter atomic  pair distribution function
@@ -261,312 +128,74 @@ dmref19:
     - year: 2019
       month: 6
       description: Received funding
-  name: Searching for novel polymorphous network materials among d-electron metals,
-    an NSF funded DMREF center.
-  team:
-    - name: sbillinge
-      position: PI
-      begin_year: 2019
-    - name: qdu
-      position: co-pi
-      begin_year: 2019
-    - name: jowen
-      position: co-pi
-      begin_year: 2019
-    - name: azunger
-      position: co-pi
-      begin_year: 2019
-  type: funded
-dmrefcheme16:
-  active: false
-  description: Apply AI and machine learning to get better gas separation membranes
-  grant: dmrefcheme16
-  group: bg
-  highlights:
-    - year: 2019
-      month: 9
-      description: developed a novel method, sasPDF, to study the arrangement of nanoparticles
-        in superlattice assemblies
-  name: Better gas separation membranes from nanoparticle polymer composites, an NSF
-    funded DMREF center
-  team:
-    - name: sbillinge
-      position: Co-PI
-      begin_year: 2017
-      end_year: 2021
-    - name: skumar
-      position: pi
-      begin_year: 2017
-      end_year: 2021
-    - name: chliu
-      position: gra
-      begin_year: 2017
-      end_year: 2019
-    - name: cwright
-      position: gra
-      begin_year: 2017
-      end_year: 2019
-    - name: mterban
-      position: gra
-      begin_year: 2017
-      end_year: 2017
-    - name: sbanerjee
-      position: gra
-      begin_year: 2017
-      end_year: 2018
-  type: funded
-doeneutron23:
-  active: true
-  description: Project to use applied mathematics and machine learning to carry out
-    signal separation from complex heterogeneous samples in neutron scattering experiments
-  highlights:
-    - year: 2023
-      month: 6
-      description: Grant awarded funding from the US Department of Energy, Office
-        of Science, Office of Basic Energy Sciences, Materials Sciences and Engineering
-        Division.
-  name: 'Real materials in action: Data analysis developments for real materials'
-  other: []
-  repo: ''
-  team:
-    - position: PI
-      name: billinge
-      begin_year: 2023
-  website: http://thebillingegroup.com
-efrc18:
-  active: true
-  description: A group project led from Stony Brook University.  Columbia is a major
-    partner with myself leading one of the thrusts.  The goal is to use in-situ synthesis
-    and data analytics to try and understand the science behind materials synthesis
-  grant: efrc18
-  group: bg
-  highlights:
-    - year: 2020
-      month: 11
-      description: Developed and validated the use of non-negative matrix factorization
-        to automatically extract chemical components from \textit{in situ} chemical
-        reactions taking place in an x-ray beam.  As a chemical reaction proceeds,
-        reagents transform into products as a function of time, and in general form
-        intermediate chemical species along the chemical reaction pathway.  By following
-        this process in an x-ray beam, and automating the data analysis we can understand
-        the reaction as it progresses. NMF  allows us to extract the physical components
-        mathematically with no prior knowledge or models of the chemical species that
-        appear and disappear during the process.
-    - year: 2020
-      month: 11
-      description: Used automated image processing methods such as blob tracking and
-        segmentation to map out from \textit{in situ} x-ray diffraction data the position,
-        orientation and quality of crystal grains that are growing in a single-crystal
-        growth experiment, for example, from an optical float zone furnace.
-    - year: 2020
-      month: 12
-      description: Published results from an autonomously controlled x-ray diffraction
-        measurement demonstrated at the Advanced Photon Source, Argonne National Laboratory.
-        The experiment used an algorithm to control the charge-state of Cu as oxidising
-        and reducing gases were passed over it \textit{in situ} in a synchrotron x-ray
-        beam while monitoring its charge state by measuring its x-ray absorption spectrum
-        in real time.
-    - year: 2018
-      month: 8
-      description: Grant funded
-    - year: 2019
-      month: 12
-      description: Columbia files a provisional patent for the MOSY concept which
-        is a graph theoretic way of representing tasks accomplished by human actions.
-  name: DOE funded Energy Frontier Research Center, centered at Stony Brook University,
-    on Next Generation Chemical Synthesis
-  team:
-    - name: sbillinge
-      position: Co-PI
-      begin_year: 2018
-    - name: yrakita
-      position: postdoc
-      begin_year: 2019
-    - name: cwright
-      position: gra
-      begin_year: 2018
-      end_year: 2019
-    - name: chliu
-      position: gra
-      begin_year: 2018
-      end_year: 2020
-    - name: sbanerjee
-      position: gra
-      begin_year: 2018
-      end_year: 2019
-    - name: rgu
-      position: postdoc
-      begin_year: 2019
-    - name: John Parise
-      position: pi
-      begin_year: 2018
-  type: funded
-  website: ''
-fwp17:
-  active: false
-  description: Searching for local structural effects in strongly correlated electron
-    materials using x-ray and neutron scattering
-  grant: fwp17
-  group: bg
-  highlights:
-    - year: 2021
-      month: 1
-      description: Found our previously discovered phenomenon of orbital degeneracy
-        lifting (ODL), which results in local symmetry breaking in quantum materials,
-        in a series of new materials establishing its ubiquity.
-    - year: 2020
-      month: 1
-      description: Paper published in Science Advances reporting the observation of
-        a novel melting mechanism for gold from an ultrafast time-resolved diffraction
-        experiment.  A femto-second laser pulse dumps energy into a gold thin film
-        and we probed how it responded on the ps - ns timescale using ultrafast diffraction
-        pulses.
-    - year: 2019
-      month: 12
-      description: Two editor's choice papers in Phys. Rev. B that report ODL symmetry
-        breaking in the "hot" superconducting material iron-selenide (FeSe).
-    - year: 2019
-      month: 9
-      description: Paper published in Nature Communications that reports the discovery
-        of symmetry breaking due to orbital degeneracy lifting (ODL) in a transition
-        metal system in a completely unexpected way.
-    - year: 2019
-      month: 3
-      description: A paper was accepted in Physical Review Letters that was the first
-        measurement of phonons in a well characterized semiconducting nanoparticle
-        system.  This experimnet was a tour de force and a collaboration with Jon
-        Owen in Chemistry at Columbia, as well as researchers at Argonne National
-        Laboratory.
-  name: 'DOE funded project at Brookhaven National Laboratory: Local structure of
-    complex transition metal systems'
-  team:
-    - name: sbillinge
-      position: PI
-      begin_year: 2008
-      end_year: 2022
-    - name: ebozin
-      position: co-pi
-      begin_year: 2017
-      end_year: 2022
-    - name: rkoch
-      position: postdoc
-      begin_year: 2018
-      end_year: 2020
-  type: funded
-matsci_colab:
-  active: true
-  description: This project will build a one-semester accelerated course in machine
-    learning (ML) applied to STEM research problems for graduate and senior undergraduate
-    level students in physical science and engineering.  Whilst data analytics, artificial
-    intelligence (AI) and machine learning have revolutionized many aspects of life
-    from commerce to politics and human interactivity, its impacts in  the physical
-    sciences have been slower.  This is now rapidly changing,  with disruptive use
-    of AI and ML to attack research problems that seemed unreachable just a few years
-    ago.  There is a strong hunger among physical science and engineering students
-    to attain new research skills enabled by ML and to apply them to problems in their
-    domain.  The current training for this cohort of students includes extensive training
-    in calculus, differential equations, a bit of linear algebra, rudimentary statistics
-    and nothing in the way of ML.  The students often have an aptitude and some training
-    in basic programming. Our goal with this project is to design a course that will
-    build on the solid math skills of this group to accelerate their understanding
-    and ability to adopt ML in their work. The course will build on this existing
-    knowledge by combining a highly compressed introduction to ML taught by the Statistics
-    department, but with a focus on newly developed hands-on projects (that we call
-    Labs) where real (published) problems that apply different ML methods to materials
-    science problems.  The Labs will be developed using the Google Colab platform
-    and use the actual datasets from the published examples.  The developments will
-    be made following strict standards for coding and documentation and maintained
-    in a central GitHub repository.  As such, it will form a platform that will allow
-    further Labs to be developed in the aread of Materials Science but also more broadly.  Indeed,
-    this can turn into a widely used community resource that is under continuous development
-    using standard open-source community development practices.
-  group: bg
-  highlights:
-    - year: 2022
-      month: 5
-      description: Proposal funded to develop course to teach ML to physical science
-        and engineering students in Columbia Engineering
-  name: Applying machine learning to valuable data in the physical sciences and engineering
-  team:
-    - name: sbillinge
-      position: PI
-      begin_year: 2022
-    - name: skumar
-      position: Co-PI
-      begin_year: 2022
-    - name: tzheng
-      position: Co-PI
-      begin_year: 2022
-  type: teaching
-  website: ''
-mrsec14:
-  active: false
-  description: Study of nanoparticle assemblies and superatom systems
-  grant: mrsec14
-  group: bg
-  highlights:
-    - year: 2018
-      month: 6
-      description: Published a Nature Communications paper where we characterized
-        the structure of nanoparticles arranged into a metal-organic expanded structure.
-  name: Assembly of superatoms
-  team:
-    - name: sbillinge
-      position: co-pi
-      begin_year: 2015
-      end_year: 2019
-    - name: Xavier Roy
-      position: co-pi
-      begin_year: 2014
-      end_year: 2019
-    - name: James Hone
-      position: pi
-      begin_year: 2014
-      end_year: 2019
-    - name: Collin Nuckolls
-      position: co-pi
-      begin_year: 2014
-      end_year: 2019
-    - name: Michael Steigerwald
-      position: co-pi
-      begin_year: 2014
-      end_year: 2019
-    - name: chliu
-      position: gra
-      begin_year: 2018
-      end_year: 2018
-    - name: eculbertson
-      position: gra
-      begin_year: 2017
-      end_year: 2018
-    - name: lyang
-      position: gra
-      begin_year: 2017
-      end_year: 2017
-    - name: sbanerjee
-      position: gra
-      begin_year: 2019
-      end_year: 2019
-  type: funded
-pytentiostat:
-  description: Outreach project to develop an affordable potentiostat based on the
-    arduino platform, and hands-on workshops to train users in East Africa to use
-    it.
-  logo: https://github.com/juami.png
-  name: Pytentiostat
-  other: []
-  repo: https://github.com/juami/pytentiostat
+  name: Local symmetry breaking in quantum materials
+  summary: This project studies the under-appreciated role of intrinsic and extrinsic
+    local symmetry breaking in quantum materials using advanced x-ray, neutron and
+    electron scattering methods.
   team:
     - name: sbillinge
       position: mentor
-      begin_year: 2019
-    - name: mspence
-      position: developer
-      begin_year: 2019
-    - name: jhitt
-      position: developer
-      begin_year: 2019
-    - name: aplymill
-      position: lead developer
-      begin_year: 2019
-  website: http://juami.github.io/pytentiostat
+      begin_year: 2016
+  type: research
+  website: https://thebillingegroup.com
+nanostructure_problem:
+  active: true
+  description: 'Material properties depend sensitively on the arrangements of the
+    atoms.  The atomic structure. For around 100 years we have had x-ray based tools
+    and algorithms that allow us to solve the structure of crystalline materials:
+    crystallography.  Increasingly, we want to engineer materials at the nanoscale
+    to give us different properties, but the nanostructure problem, the ability to
+    solve the structure of nanomaterials, remains an unsolved problem in general.  This
+    decadal project develops experiments, algorithms, and computational methods to
+    tackle the nanostructure problem.'
+  grants:
+    - doeneutron23
+    - efrc18
+    - tri22
+  group: bg
+  highlights:
+    - year: 2024
+      month: 2
+      description: In this period, I won one award, published one book, 14 peer reviewed
+        articles, gave 7 plenary/keynote, 15 invited talks, and 9 seminars and colloquia
+    - year: 2024
+      month: 2
+      description: 'Co-edited a perspective on Machine Learning in Materials Science
+        published in Acta Crystallographica: Section A'
+    - year: 2024
+      month: 2
+      description: 'The book "Atomic Pair Distribution Function Analysis: A Primer
+        authored by Simon Billinge and Kirsten Jensen, is published'
+    - year: 2024
+      month: 2
+      description: Submitted a paper describing the first ultra-fast picosecond time
+        resolution PDF study.  This opens the door in the future for fully quantitative
+        femtosecond movies of atomic motions after a laser pulse is applied.
+    - year: 2024
+      month: 2
+      description: Developed new data analysis theory and computational tools for
+        obtaining more reliable PDFs from laboratory diffractometers, opening the
+        method to a much broader community of chemists, materials scientists and engineers
+    - year: 2023
+      month: 10
+      description: Major new funding secured to study in situ and operando nanostructure
+        at neutron sources at ORNL.
+    - year: 2022
+      month: 8
+      description: Three key papers came out describing novel use of machine learning,
+        including generative ML, to extract structural information from scattering
+        data. One used interpretive ML to find chemically plausible clusters that
+        fit low-information local structural measurements, another used a convolutional
+        variable autoencoder to do structure solution from atomic pair distribution
+        function (PDF) data for the first time, albeit on a limited class of close-packed
+        structures.
+  name: Solutions to the nanostructure problem
+  summary: 'This is an ongoing project to develop methods for solving the nanostructure
+    problem: the problem of determining the positions of atoms in nanosized clusters,
+    that have many applications in advanced technologies.'
+  team:
+    - name: sbillinge
+      position: mentor
+      begin_year: 2016
+  type: research
+  website: https://thebillingegroup.com
