@@ -2022,9 +2022,15 @@ queensubelfast:
 rensselaerpolytechnicinstitute:
   aka:
     - RPI
+    - rpi
   city: Troy
   country: USA
   day: 17
+  departments:
+    matsci:
+      name: Department of Materials Science and Engineering
+    physics:
+      name: Department of Physics
   month: 3
   name: Rensselaer Polytechnic Institute
   state: NY

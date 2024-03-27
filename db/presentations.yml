@@ -5349,7 +5349,7 @@
   begin_date: 2024-03-17
   end_date: 2024-03-21
   location: New Orleans, LA
-  meeting_name: award symposium in honor of Jarad Mason at the Spring 2024 American
+  meeting_name: Award symposium in honor of Jarad Mason at the Spring 2024 American
     Chemical Society Meeting
   notes: []
   project:
@@ -5358,6 +5358,69 @@
   title: Seeing structuring in liquids using advances in atomic pair distribution
     function methods
   type: invited
+2404mm_columbiauniversity,newyork,ny:
+  abstract: This poster describes an effort to develop pedagogical materials for teaching
+    machine learning to physical science students.  The premise is that physical scientists
+    have significant training in mathematics, especially algebra and calculus, but
+    less exposure to the statistics and linear algebra needed for ML.  they also are
+    motivated by physical science problems rather than categorizing cat and dog images
+    or predicting housing prices or interesting movies.  They would therefore benefit
+    from course materials that are designed to play to their strengths and interests.   With
+    funding help from the collaboratory@columbia University we have developed a set
+    of "Educational examples" or Edexes that take real examples from the physial science
+    literature and right-size them as an educational example (i.e., so they can be
+    computed on a laptop in reasonable time).  These are chosen so that different
+    concepts in ML can be rolled out but on real problems from the literature.  The
+    initial suite of Edexes come from the materials science field and include predicting
+    melting points of materials from structural descriptors using linear regression
+    models (and clustering), predicting the the symmetry space-group of a material
+    from its measured x-ray diffraction data using logistic regression and a convolutional
+    neural net, predicting a new polymer material with exceptional gas-separation
+    properties from a library of monomers (molecular sub-units) using linear regression
+    and intepretaive ML, as well as unsupervised ML using PCA and non negative matrix
+    factorization on time-resolved chemical synthesis data. The course is being taught
+    for the first time this spring as MSAE4990.  Class members will present the materials,
+    and share their experiences and impressions as well as presenting the material
+  authors:
+    - MSAE4990 class members
+  begin_date: 2024-04-04
+  end_date: 2024-04-04
+  location: Columbia University, New York, NY
+  meeting_name: Columbia Data Science Institute Data Science Day 2024
+  notes: []
+  project:
+    - all
+  status: submitted
+  title: 'ML-Edex-4STEM: Teaching and applying machine learning to physical science
+    students'
+  type: poster
+2404sb_rpi:
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
+    are at the heart of next generation technological solutions in sustainable energy,
+    effective new pharmac euticals and environmental remediation.  A key to making
+    progress is to be able to understand the nanoparticle structure, the arrangements
+    of atoms in the nanoparticles and nanoscale structures. Also critical is understanding
+    the distribution of the nanoparticles and how they change in time as devices run
+    and reactions take place.  We use advanced x-ray, neutron and electron scattering
+    methods to get at this problem.  I will talk about these methods and show some
+    recent success-stories in the fields of sustainable energy, environmental remediation
+    and cultural heritage preservation.  However, I will also discuss the fundamental
+    limitations on our ability to extract information from the data and how we are
+    now turning to machine learning and artificial intelligence techniques to give
+    more insights.
+  authors:
+    - sbillinge
+  begin_date: 2024-04-03
+  department: physics
+  end_date: 2024-04-03
+  institution: rensselaerpolytechnicinstitute
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms'
+  type: colloquium
 2404sb_seattle,wa:
   abstract: "Development of next generation materials for applications in sustainable
     energy and beyond require us to study the structure of real materials in real
@@ -5424,4 +5487,50 @@
   status: accepted
   title: The materials genome and the search for universal and continuous structure
     representations
+  type: invited
+2407sb_denver,co:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2024-07-20
+  end_date: 2024-07-24
+  location: Denver, CO
+  meeting_name: American  Crystallographic Association
+  notes: []
+  project:
+    - all
+  status: declined
+  title: na
+  type: invited
+2408sb_padova,italy:
+  abstract: At the heart of powder diffraction is the idea that we are studying real
+    materials doing real things, often in real devices.  It is now possible to solve
+    single crystal structures from tiny crystals that are smaller than powder grains
+    so if powder diffraction was just for solving structures, we wouldn't need powder
+    diffraction any more.  But the field is as strong as ever, and if anything, getting
+    stronger and more impactful, exactly because it is solving scientific and technological
+    problems in real situations.  However, this presents a number of key data analysis
+    and interpretation challenges because it implies we are studying ever more complicated
+    samples, often in complex heterogeneous devices and in time-resolved operando
+    setups, and we are interrogating our data for more and more subtle effects such
+    as microstructures and evolving defects and local structures.  Advanced data analysis
+    algorithms and software are essential for the success of this enterprise.  In
+    this talk I will describe various developments that leverage the power of artificial
+    intelligence (AI), principally machine learning (ML), to aid in this task.  Some
+    of these powerful tools are clearly ready to be applied more broadly in the community
+    and others are still in the future but look very promising.  They include unsupervised
+    and supervised machine learning approaches, conventional ML and deep neural networks,
+    as well as approaches for autonomous time-resolved experimentation.
+  authors:
+    - sbillinge
+  begin_date: 2024-08-30
+  end_date: 2024-09-02
+  location: Padova, Italy
+  meeting_name: European Powder Diffraction Conference 2024
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: '{AI} at your service: {AI} as a tool for extracting more science, more easily
+    from powder diffraction data'
   type: invited

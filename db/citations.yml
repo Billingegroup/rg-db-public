@@ -238,30 +238,49 @@ anker;actaa23:
     - Frederik L. Johansen
     - Simon J. L. Billinge
     - Kirsten M. Ø. Jensen
-  doi: ''
+  doi: 10.1107/S2053273324001116
   entrytype: article
-  facility: desy, petraiii, p02.1
+  facility: maxiv, danmax, desy, petraiii, p02.1, p07, soleil, swing, aps
   grant: dmref19
   journal: Acta Crystallogr. A
   month: nov
   nb: ''
-  note: submitted
   notes: ''
-  number: ''
-  optannote: ''
-  optnote: ''
-  optwwwlanl: ''
-  pages: ''
+  number: '2'
+  optnote: submitted
+  pages: 213-220
+  professional_summary: Small clusters of atoms in solution or in a nanomaterial are
+    easy to masure using PDF methods, but it is very hard to find models to explain
+    the PDFs.  This paper describes an approach where the goal was to search for structural
+    motifs (small clusters of well-ordered atoms) from the PDF signal.  Working on
+    the assumption that specific types of atoms of will prefer to form lower energy
+    arrangements, and many of these arrangements are likely to be present in previously
+    solved crystal structures, the goal becomes to choose cut-outs from candidate
+    crystal structures, and then choose atoms to remove from the cut-out until we
+    get a good agreement with a measured PDF from a small cluster.  The task is to
+    find good starting models that can then later be used in full refinements, but
+    taking inspiration for the starting models from motifs that nature has already
+    shared with us rather than trying to build clusters randomly.  A challenge is
+    that, even for clusters of quite small size, the number of possible sets of atoms
+    to try removing, and therefore the number of structural refinements that need
+    to be carried out, becomes enormous if a purely combinatorial approach is taken
+    to removing the atoms and testing.  We therefore made use of interpretable machine
+    learning approach.  Using a gradient boosted decision tree (GBDT) model for picking
+    sets of atoms to remove, we analyzed the results by computing SHAP (Shapley Additive
+    exPlanation) values, which give information about how much contribution each feature
+    in the feature vector is contributing to the cost and allows us to rapidly see
+    which atoms are contributing most to the residual and are the strongest candidates
+    for removal
   synopsis: The problem of finding atomic cluster models for PDFs with just a few
     peaks is addressed.  The approach taken is similar to the related paper that describes
     a machine learning (ML) approach called ML-Motex.  However, in the current case
     a non-ML approach is taken which turns out to be orders of magnitude faster than
     the ML approach showing that ML is not always the answer.
-  tags: ml, cluster,  nanoparticle
+  tags: ml, cluster,  nanoparticle, structure_solution
   title: 'ClusterFinder: A fast tool to find cluster structures from pair distribution
     function data'
-  url: ''
-  volume: ''
+  url: https://doi.org/10.1107/S2053273324001116
+  volume: '80'
   year: '2023'
 anker;hdcc20:
   author:
@@ -989,6 +1008,30 @@ billi;4or18:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/18billi4OR.pdf
   year: '2018'
+billi;aa24:
+  ackno: SJLB acknowledges support from the U.S. Department of Energy, Office of Science,
+    Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0024141. Work
+    at Oak Ridge National Laboratory was sponsored by the Scientific User Facilities
+    Division, Office of Basic Energy Sciences, US Department of Energy.
+  author:
+    - Simon J. L. Billinge
+    - Thomas Proffen
+  doi: 10.1107/S2053273324000172
+  entrytype: article
+  facility: ''
+  grant: doeneutron23
+  journal: 'Acta Crystallographica: Section A'
+  month: mar
+  nb: ''
+  number: '2'
+  optnote: Submitted
+  pages: 102-105
+  synopsis: the history of ML in the IUCr journals is reviewed
+  tags: ml
+  title: Machine learning in crystallography and structural science
+  url: https://doi.org/10.1107/S2053273324000172
+  volume: '80'
+  year: '2024'
 billi;aca15:
   author:
     - Billinge, Simon J. L.
@@ -1034,6 +1077,61 @@ billi;aca21:
   wwwemail: ''
   wwwpub: ''
   year: '2021'
+billi;ae24:
+  ackno: This paper reflects the personal views of the author, but the accomplishments
+    of JUAMI are in huge part due to the vision and hard work of the other US founders
+    (Sossina Haile and Peter Green) and current organizers (Simon, Sossina, Sara Skrabalak
+    and Tom Mallouk), the senior African partners [Winston Ireeta Tumps, MU, Revocatus
+    Machunda, NMAIST, Teketel Yohannes (formerly at AAU, now at the Ethiopian Academy
+    of Sciences), Francis Wanjala Nyongesa, UN], as well as countless people who have
+    contributed time and energy to the schools both in the US and Africa. We are very
+    grateful to the vision and the strong support from the US National Science Foundation
+    over a sustained period with special thanks to Margaret-Anne Wampamba, Linda Sapochak,
+    and the funding over the years (DMR2023698, DMR1756245, DMR1539724, DMR1069120),
+    as well as additional financial support from Northwestern University, the International
+    Center for Theoretical Physics and US Office of Naval Research Global, and logistical
+    support from MRS, AMRS and AAS. We also thank the presenters who share their time
+    and expertise so freely, and the students who engage so thoroughly and bring so
+    much passion.
+  author:
+    - Simon J. L. Billinge
+  doi: 10.1107/S2056989023010915
+  entrytype: article
+  facility: ''
+  grant: dmref19
+  journal: 'Acta Crystallographica: Section E'
+  month: feb
+  nb: ''
+  number: '2'
+  optnote: Submitted
+  pages: 102-105
+  synopsis: The JUAMI schools are described as examples of capacity building and collaboration
+    development with Africa in the context of Africal Light Source activities
+  tags: juami, africa, education
+  title: 'JUAMI, the joint undertaking for an African materials institute: building
+    materials science research collaborations and capabilities between continents'
+  url: https://doi.org/10.1107/S2056989023010915
+  volume: '80'
+  year: '2024'
+billi;b;apdfap24:
+  address: Oxford
+  author:
+    - Simon J. L. Billinge
+    - Kirsten Jensen
+  edition: 1st
+  entrytype: book
+  facility: ' '
+  grant: doeneutron23, dmref19
+  month: feb
+  nb: ' book, pdf, highlight, typeA, fy12 '
+  optnote: ''
+  publisher: Oxford University Press
+  synopsis: The PDF to the people book.
+  tags: highlight, review, book
+  title: 'Atomic pair distribution function analysis: a primer'
+  url: 
+    https://global.oup.com/academic/product/atomic-pair-distribution-function-analysis-9780198885801?cc=us&lang=en&
+  year: '2024'
 billi;b;coecm91:
   address: Gaithersburg
   author:
@@ -1719,6 +1817,33 @@ billi;lsfd98:
   wwwemail: sb2896@columbia.edu
   wwwlanl: ''
   year: '1998'
+billi;m24:
+  ackno: ''
+  author:
+    - Ian Henry Billinge
+    - Gabriel D Barbosa
+    - Songsheng Tao
+    - Maxwell Terban
+    - Heath C Turner
+    - Simon J. L. Billinge
+    - Ngai Yin Yip
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: doeneutron23
+  journal: Matter
+  month: mar
+  nb: ''
+  note: Submitted
+  number: ''
+  pages: ''
+  synopsis: the history of ML in the IUCr journals is reviewed
+  tags: amine, liquid, lcst
+  title: A structural underpinning of the lower critical solution temperature (LCST)
+    behavior behind temperature-switchable liquids
+  url: ''
+  volume: ''
+  year: '2024'
 billi;mrssp99:
   author:
     - Billinge, S. J. L.
@@ -2232,31 +2357,6 @@ billi;s07:
   wwwemail: ' sb2896@columbia.edu'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/billinge_07_science.pdf
   year: '2007'
-billi;unpub23:
-  ackno: ''
-  author:
-    - Simon J. L. Billinge
-  doi: ''
-  entrytype: article
-  facility: ''
-  grant: dmref19
-  journal: 'Acta Crystallographica: Section E'
-  month: tbd
-  nb: ''
-  note: Submitted
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
-  synopsis: ''
-  tags: juami, africa, education
-  title: 'JUAMI, the joint undertaking for an African materials institute: building
-    materials science research collaborations and capabilities between continents'
-  url: ''
-  volume: ''
-  wwwemail: ''
-  wwwpub: ''
-  year: '2023'
 billi;zk02:
   author:
     - Billinge, S. J. L.
@@ -4860,7 +4960,7 @@ frand;prm17:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/17frandprm.pdf
   year: '2017'
-frank;jmca23:
+frank;jmca24:
   ackno: We gratefully acknowledge funding from the Carlsberg Foundation (CF19-0585
     and CF14-0506) the Danish National Research Foundation (Carbon Dioxide Activation
     Center, DNRF 118), and DanScatt. Affiliation with Center for Integrated Materials
@@ -4889,25 +4989,25 @@ frank;jmca23:
     - Simon J. L. Billinge
     - Jacopo Catalano
     - Nina Lock
-  doi: ''
+  doi: 10.1039/D3TA05293A
   entrytype: article
   facility: desy, petraiii, p02.1, p21.1, maxiv, balder
   grant: dmref19
   journal: J. Mater. Chem. A
-  month: Dec
+  month: jan
   nb: ''
-  note: to be published
   notes: ''
   number: ''
-  pages: ''
+  optnote: to be published
+  pages: 781-794
   synopsis: The pyrolysis of ZIF-67 is followed in situ, and the conditions are correlated
     with the structural evolution and electrocatalytic performance.
   tags: ml, cluster,  nanoparticle
   title: Correlating the structural transformation and properties of ZIF-67 during
     pyrolysis, towards electrocatalytic oxygen evolution
-  url: ''
-  volume: ''
-  year: '2023'
+  url: https://doi.org/10.1039/D3TA05293A
+  volume: '12'
+  year: '2024'
 fujit;s14:
   author:
     - Fujita, K.
@@ -5670,7 +5770,7 @@ guo;unpub23:
     was supported by the U.S. Department of Energy, Office of Science, Office of Basic
     Energy Sciences (DOE-BES) under contract No. DE-SC0024141.
   author:
-    - Gabe Guo
+    - Gabriel Guo
     - Judah Goldfeder
     - Ling Lan
     - Aniv Ray
@@ -5682,10 +5782,10 @@ guo;unpub23:
   entrytype: article
   facility: ''
   grant: efrc18
-  journal: Nature Materials
-  month: tbd
+  journal: arXiv
+  month: dec
   nb: fy24, typeA
-  note: Submitted
+  note: arXiv:2312.15136
   number: ''
   optannote: ''
   optwwwlanl: ''
@@ -5694,7 +5794,7 @@ guo;unpub23:
   tags: structure_prediction, powder_diffraction, ml
   title: Towards end-to-end structure solutions from information-compromised diffraction
     data via generative deep learning
-  url: ''
+  url: https://arxiv.org/abs/2312.15136
   volume: ''
   wwwemail: ''
   wwwpub: ''
@@ -6779,7 +6879,7 @@ kane;cm96:
   wwwlanl: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/96kanecm.pdf
   year: '1996'
-karlsen;jac23:
+karlsen;arxiv23:
   ackno: ''
   author:
     - Martin A. Karlsen
@@ -6787,14 +6887,14 @@ karlsen;jac23:
     - Songsheng Tao
     - Simon J.L. Billinge
     - Dorthe B. Ravnsbæk
-  day: ''
   doi: ''
   entrytype: article
   facility: ''
   grant: efrc18
-  journal: J. Appl. Crystallogr.
-  month: tbd
+  journal: arXiv
+  month: dec
   nb: fy24, typeA
+  note: arXiv:2312.04378
   number: ''
   optannote: ''
   optnote: ''
@@ -6802,8 +6902,8 @@ karlsen;jac23:
   synopsis: ''
   tags: nanoparticle, tio2, battery
   title: 'Operando pair distribution function analysis of nanocrystalline functional
-    materials: the case of TiO2-bronze nanocrystals in Li-ion battery electrodes'
-  url: ''
+    materials: the case of {TiO$_2$}-bronze nanocrystals in Li-ion battery electrodes'
+  url: https://arxiv.org/abs/2312.04378
   volume: ''
   year: '2023'
 kim;prb07:
@@ -8268,6 +8368,60 @@ lo;nc19:
   wwwemail: ''
   wwwpub: ''
   year: '2019'
+lomba;jcp24:
+  ackno: The prospect of creating ferroelectric or high permittivity nanomaterials
+    provides motivation for investigating complex transition metal oxides of the form
+    Ba(Ti,MV)O3, where M= Nb or Ta. Solid state processing typically produces mixtures
+    of crystalline phases, rarely beyond minimally doped Nb/Ta. Using a modified sol-gel
+    method, we prepared single phase nanocrystals of Ba(Ti, M)O3. Compositional and
+    elemental analysis puts the empirical formulas close to BaTi0.5Nb0.5O3−$\delta$
+    and BaTi0.5Ta0.5O3−$\delta$. For both materials, a reversible temperature dependent
+    phase transition (non-centrosymmetric to symmetric) is observed in the Raman spectrum
+    in the region 533–583 K (260–310 XC); for Ba(Ti, Nb)O3, the onset is at 543 K
+    (270 XC); and for Ba(Ti, Ta)O3, the onset is at 533 K (260 XC), which are comparable
+    with 390–393 K (117–120 XC) for bulk BaTiO3. The crystal structure was resolved
+    by examination of the powder x-ray diffraction and atomic pair distribution function
+    (PDF) analysis of synchrotron total scattering data. It was postulated whether
+    the structure adopted at the nanoscale was single or double perovskite. Double
+    perovskites (A2B'B''O6) are characterized by the type and extent of cation ordering,
+    which gives rise to higher symmetry crystal structures. PDF analysis was used
+    to examine all likely candidate structures and to look for evidence of higher
+    symmetry. The feasible phase space that evolves includes the ordered double perovskite
+    structure Ba2(Ti, MV)O6 (M = Nb, Ta) Fm-3m, a disordered cubic structure, as a
+    suitable high temperature analog, Ba(Ti, MV)O3 Pm-3m, and an orthorhombic Ba(Ti,
+    MV)O3 Amm2, a room temperature structure that presents an unusually high level
+    of lattice displacement, possibly due to octahedral tilting, and indication of
+    a highly polarized crystal.
+  author:
+    - Julien Lombardi
+    - Long Yang
+    - Nasim Farahmand
+    - Anthony Ruffino
+    - Ali Younes
+    - Jonathan E. Spanier
+    - Simon J. L. Billinge
+    - Stephen O’Brien
+  doi: 10.1063/5.0192488
+  entrytype: article
+  facility: nslsii, xpd
+  grant: efrc18
+  journal: J. Chem. Phys.
+  month: feb
+  nb: ''
+  notes: ''
+  number: ''
+  optnote: submitted
+  pages: ''
+  synopsis: A novel sol-gel method is used to make barium titanate nanoparticles with
+    high dopings of barium and tantalum that have high dielectric permittivity.  These
+    are difficult to make by conventional methods but have potential applications.  Extensive
+    x-ray PDF characterizations were carried out to verify structure.
+  tags: nanoparticle, batio3, perovskite
+  title: Structure and phase transitions in niobium and tantalum derived nanoscale
+    transition metal perovskites, {Ba(Ti,M$^V$)O$_3$}, {M=Nb},{Ta}
+  url: https://doi.org/10.1063/5.0192488
+  volume: '160'
+  year: '2024'
 lombardi;cm19:
   author:
     - Lombardi, Julien
@@ -10287,7 +10441,7 @@ rijcka;mdpim18:
   volume: '11'
   wwwemail: ''
   year: '2018'
-robin;unpub23:
+robin;iucrj23:
   ackno: We thank Luca Gelisio and Ivan Vartaniants for useful discussions of the
     interpretation of these experiments. Work at Brookhaven National Laboratory was
     supported by the U.S. Department of Energy, Office of Science, Office of Basic
@@ -10328,22 +10482,23 @@ robin;unpub23:
     - Hyunjung Kim
     - Simon J. L. Billinge
     - Emil S. Bozin
-  doi: ''
+  doi: 10.1107/S2052252523009363
   entrytype: article
   facility: pal
   grant: fwp20
   journal: IUCrJ
-  month: tbd
+  month: nov
   nb: ''
-  note: to be published
-  number: ''
-  pages: ''
+  number: '6'
+  optnote: to be published
+  pages: 656-661
   professional_summary: ''
-  synopsis: ''
+  synopsis: ultra-fast melting of gold is studied using a femtosecond laser pump x-ray
+    probe method
   tags: ufpdf, gold, melting,
   title: Emergence of liquid following laser melting of gold thin films
-  url: ''
-  volume: ''
+  url: https://doi.org/10.1107/S2052252523009363
+  volume: '12'
   year: '2023'
 rohani;afm19:
   ackno: This work was supported in part by the New York State Center of Excellence
@@ -11371,27 +11526,24 @@ suzan;prb23:
     - Simon J. L. Billinge
     - Ian K. Robinson
   day: '24'
-  doi: ''
+  doi: 10.1103/PhysRevB.107.214303
   entrytype: article
-  facility: palxfel
+  facility: pal
   grant: fwp17
   journal: Phys. Rev. B
-  month: may
+  month: jun
   nb: fy23
-  note: To be published
   number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
+  optnote: To be published
+  pages: '214303'
   synopsis: Ultrafast laser pump x-ray probe experiments on Pd thin films reveal a
     compression effect launched from the surface skin layer of the films followed
     by a temperature induced lattice expansion
+  tags: ufpdf, Pd, melting
   title: Compressive effects in melting of Palladium thin films studied by ultrafast
     x-ray diffraction
-  url: ''
-  volume: ''
-  wwwemail: ''
-  wwwpub: ''
+  url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.214303
+  volume: '107'
   year: '2023'
 taher;mrsb23:
   ackno: M.L.T., J.H., N.S., C.W., J.R., M.W., and G.L., gratefully acknowledge funding
@@ -11439,7 +11591,8 @@ taher;mrsb23:
     range order are considered.  Experimental and computational methods are summarized
     and compared in this complex task
   tags: snem, sro
-  title: Short-range order in compositionally complex alloys
+  title: Understanding and leveraging short-range order in compositionally complex
+    alloys
   url: https://doi.org/10.1557/s43577-023-00591-8
   volume: '48'
   year: '2023'
@@ -11815,7 +11968,7 @@ thatc;aa22:
   wwwemail: ''
   wwwpub: ''
   year: '2022'
-thinh;unpub23:
+thinh;ic24:
   ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
     Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,
     Office of Science, Basic Energy Sciences under Award Number DE-SC0019212. This
@@ -11847,19 +12000,15 @@ thinh;unpub23:
   journal: Inorg. Chem
   month: Dec
   nb: fy24, typeA
-  note: To be published
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
+  number: '7'
+  optnote: To be published
+  pages: 3250–3257
   synopsis: ''
   tags: synthesis
-  title: Selective synthesis of defect-rich {LaMnO3} by low temperature anion cometathesis
+  title: Selective synthesis of defect-rich {LaMnO$_3$} by low temperature anion cometathesis
   url: https://doi.org/10.1021/acs.inorgchem.3c03305
-  volume: ''
-  wwwemail: ''
-  wwwpub: ''
-  year: '2023'
+  volume: '63'
+  year: '2024'
 thorp;b;fstpbas02:
   abstract: "A review examines a single pair distribution\nfunction (PDF) peak showing
     how it can be\ndecompd. into zero, one, two and multiphonon\ncontributions. The
