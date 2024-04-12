@@ -8,6 +8,7 @@ aabeykoon:
     - Abeykoon, A. M. M.
     - M. Abeykoon
     - Milinda Abeykoon
+    - A. M. M. Abeykoon
   avatar: https://www.bnl.gov/assets/global/images/render.php?q=0|24383.jpg|500
   bio: ''
   education:
@@ -2441,7 +2442,8 @@ jeaster:
   position: Undergraduate Researcher
 jgriffiths:
   active: false
-  aka: []
+  aka:
+    - Jack P. Griffiths
   avatar: https://github.com/j-griffo.png
   bio: ''
   education: []
@@ -5478,7 +5480,7 @@ sskjaervoe:
   employment:
     - begin_year: 2022
       begin_month: 8
-      organization: Cell Press
+      organization: cell
       position: Editorial Assistant
     - begin_year: 2020
       begin_month: 8

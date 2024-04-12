@@ -1821,10 +1821,10 @@ billi;m24:
   ackno: ''
   author:
     - Ian Henry Billinge
-    - Gabriel D Barbosa
+    - Gabriel D. Barbosa
     - Songsheng Tao
     - Maxwell Terban
-    - Heath C Turner
+    - C. Heath Turner
     - Simon J. L. Billinge
     - Ngai Yin Yip
   doi: ''
@@ -5008,6 +5008,45 @@ frank;jmca24:
   url: https://doi.org/10.1039/D3TA05293A
   volume: '12'
   year: '2024'
+frank;unpub24:
+  ackno: ''
+  author:
+    - Sara Frank
+    - Marcel Ceccato
+    - Henrik S. Jeppesen
+    - Melissa J. Marks
+    - Mads L. N. Nielsen
+    - Ronghui Luc
+    - Jens Jakob Gammelgaard
+    - Jonathan Quinson
+    - Ruchi Sharma
+    - Julie S. Nielsen
+    - Sara Hjelme
+    - Cecilie Friberg Klysner
+    - Simon J. L. Billinge
+    - Justus Just
+    - Frederik Gjørup
+    - Jacopo Catalano
+    - Nina Lock
+  doi: ''
+  entrytype: article
+  facility: desy, petraiii, p02.1, MAXIV
+  grant: efrc18
+  journal: J. Appl. Crystallogr.
+  month: tbd
+  nb: ''
+  note: submitted
+  number: ''
+  pages: ''
+  professional_summary: ''
+  synopsis: ''
+  tags: modeling, model_screening, crystals, nanoparticles
+  title: The AUREX cell – a versatile operando electrochemical cell for studying catalytic
+    materials using X-ray diffraction, total scattering, and x-ray absorption spectroscopy
+    under working conditions
+  url: ''
+  volume: ''
+  year: '2024'
 fujit;s14:
   author:
     - Fujita, K.
@@ -5781,7 +5820,7 @@ guo;unpub23:
   doi: ''
   entrytype: article
   facility: ''
-  grant: efrc18
+  grant: doeneutron23
   journal: arXiv
   month: dec
   nb: fy24, typeA
@@ -12797,7 +12836,7 @@ wustr;jacs21:
   facility: xpd, nslsii, aps, 11bm
   grant: efrc18
   journal: J. Amer. Chem. Soc.
-  month: tbd
+  month: jun
   nb: ' art '
   number: '10'
   optannote: ''
@@ -13639,3 +13678,28 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
+sbilli;m24:
+  ackno: S.J.L.B. would like to acknowledge rich discussions with many people over the years as these ideas 
+    have developed, but not least learning about the PDF from Prof. Takeshi Egami, graph rigidity theory and the 
+    UDGP with Profs. Phil Duxbury and Mike Thorpe, and more recently, isometry respecting geometric data 
+    analysis with Prof. Vitaliy Kurlin.  We acknowledge funding from the U.S. Department of Energy, Office of 
+    Science, Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0024141.
+  author:
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: doeneutron23
+  journal: Matter
+  month: apr
+  nb: ''
+  notes: ''
+  number: ''
+  note: submitted
+  pages: ''
+  synopsis: The PDF is discussed as a possible example of a materials genome
+  tags: materials_genome, clusterography
+  title: Do materials have a genome, and if they do, what can be done with it?
+  url: ''
+  volume: ''
+  year: '2024'

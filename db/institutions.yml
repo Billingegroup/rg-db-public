@@ -16,6 +16,8 @@ aarhusu:
   city: Aarhus
   country: Denmark
   departments:
+    cheme:
+      name: Department of Biological and Chemical Engineering
     inano:
       name: Interdisciplinar Nanoscience Center (iNANO)
   name: Aarhus University
@@ -421,6 +423,15 @@ ccny:
   state: NY
   street: 160 Convent Avenue
   zip: '10031'
+cell:
+  city: Boston
+  country: USA
+  date: 2024-03-31
+  name: Cell Press
+  state: MA
+  updated: 2024-03-31 21:37:24.340522
+  uuid: fd4b61fe-4457-47c2-a4d7-e6df5bff1402
+  zip: '02139'
 chungyuanchristianu:
   aka: []
   city: Taoyuan City
@@ -560,6 +571,15 @@ danishti:
   month: 3
   name: Danish Technological Institute
   year: 2020
+deakinu:
+  city: Geelong
+  country: Australia
+  date: 2024-04-01
+  name: Deakin University
+  state: Victoria
+  updated: 2024-04-01 18:32:28.909724
+  uuid: 8575b92e-9167-429b-a1b4-4761cfc84433
+  zip: '3220'
 deceased:
   aka: []
   city: ''
@@ -643,6 +663,8 @@ drexelu:
     nano:
       name: A.J. Drexel Nanomaterials Institute
     mse:
+      name: Department of Materials Science and Engineering
+    matsci:
       name: Department of Materials Science and Engineering
   name: Drexel University
   schools:
@@ -1033,6 +1055,21 @@ huazhongust:
   updated: 2022-01-18 07:27:00.980260
   uuid: b715a66b-d95e-4ef9-9f21-957afbbf8ff3
   zip: ' 430074'
+hunterc:
+  aka:
+    - Hunter
+    - College
+  city: New York
+  country: USA
+  date: 2024-04-01
+  departments:
+    chemistry:
+      name: Department of Chemistry
+  name: Hunter College of the City University of New York
+  state: NY
+  updated: 2024-04-01 07:04:01.065985
+  uuid: b67955e3-732a-49fb-98c2-9360e87ca8ef
+  zip: '10065'
 ic-cnr-bari:
   aka:
     - ic
@@ -1363,6 +1400,14 @@ maryrosetrust:
   updated: 2022-01-18 10:16:21.221630
   uuid: 74d95966-7319-4e3a-b269-42c9d013cc2b
   zip: PO1 3LX
+maxiv:
+  city: Lund
+  country: Sweden
+  date: 2024-04-01
+  name: MAX IV Laboratory
+  updated: 2024-04-01 18:34:05.164347
+  uuid: 7f01a17b-aaba-43fa-824a-b98fa6472799
+  zip: 224 84
 mckinsey&company:
   aka:
     - McKinsey & Company, Geneva
@@ -2379,6 +2424,21 @@ toyotaresearch:
   updated: 2021-04-11 19:11:23.196767
   uuid: 62a93967-5a0d-4c2a-9255-e72e469a63ad
   zip: '48105'
+ualabama:
+  aka: []
+  city: Tuscaloosa
+  country: USA
+  date: 2024-04-01
+  departments:
+    chemistry:
+      name: Department of Chemistry
+    cheme:
+      name: Department of Chemical and Biological Engineering
+  name: University of Alabama
+  state: AL
+  updated: 2024-04-01 07:09:29.457311
+  uuid: 724d47e4-6218-4ec1-b4fb-d8e40576272d
+  zip: '35487'
 uamsterdam:
   aka:
     - Universiteit van Amsterdam
@@ -2458,15 +2518,24 @@ ubirmingham:
   uuid: c0b96078-19dd-4105-a2b3-60df99e2adca
   zip: B15 2TT
 ubourgogne:
+  aka:
+    - University of Bourgogne
+    - University of Burgundy
   city: Dijon
   country: France
   date: 2023-02-27
   departments:
     nanoscience:
       name: Nanosciences Department
+    chemistry:
+      name: Department of Chemistry
   name: Université de Bourgogne
-  updated: 2023-02-27 23:42:38.163887
+  schools:
+    science:
+      name: Faculty of Science and Technology
+  updated: 2024-04-01 18:30:11.869060
   uuid: 2a804be6-3c42-4f9b-9d04-26e7180abb61
+  zip: '21000'
 ubuffalo:
   aka:
     - buffalou
@@ -2588,6 +2657,8 @@ ucopenhagen:
       name: Department of Chemistry
     pharmacy:
       name: Department of Pharmacy
+    computersci:
+      name: Department of Computer Science
   name: University of Copenhagen
   state: ''
   zip: ''
@@ -2938,6 +3009,9 @@ uminnesota:
     - uminnesota
   city: Minnesota
   country: USA
+  departments:
+    cheme:
+      name: Chemical Engineering and Materials Science
   name: University of Minnesota
   state: MN
   zip: '55455'
