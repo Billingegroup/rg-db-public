@@ -5474,19 +5474,19 @@ gu;unpublished23:
   entrytype: article
   facility: nslslii, xpd
   grant: efrc18
-  journal: tbd
+  journal:  arXiv
   month: tbd
   nb: fy24, typeA
   number: ''
   optannote: ''
-  optnote: ''
+  note: 'Arxiv:2311.15173'
   pages: ''
   synopsis: stretched and sparse-stretched NMF unsupervised ML algorithms are described
     and tested against temperature dependent x-ray data from in situ inorganic chemical
     synthesis experiments.
   tags: ml, nmf, synthesis, in-situ
   title: Stretched Non-negative Matrix Factorization
-  url: ''
+  url: http://arxiv.org/abs/2311.15173
   volume: ''
   year: '2023'
 gualt;jac08:
@@ -6323,7 +6323,7 @@ jense;nc16:
   pages: '11859'
   supplementary_info_urls:
     - https://zenodo.org/record/56682
-  tags: nanoparticles, clusters, au, metallic_nanoparticle
+  tags: nanoparticle, cluster, au, metallic_nanoparticle
   title: Polymorphism in magic sized {Au$_{144}$(SR)$_{60}$} clusters
   url: http://dx.doi.org/10.1038/ncomms11859
   volume: '7'
@@ -8239,7 +8239,7 @@ lo;nc19:
   wwwemail: ''
   wwwpub: ''
   year: '2019'
-lombardi;cm19:
+lomba;cm19:
   author:
     - Lombardi, Julien
     - Yang, Long
@@ -8267,6 +8267,40 @@ lombardi;cm19:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/lombardi_cm19.pdf
   year: '2019'
+lomba;tbd23:
+  ackno: ''
+  author:
+    - Julien Lombardi
+    - Long Yang
+    - Nasim Farahmand
+    - Anthony Ruffino
+    - Ali Younes
+    - Jonathan Spanier
+    - Simon J. L. Billinge
+    - Stephen O’Brien
+  doi: ''
+  entrytype: article
+  facility: nslsii, bnl, xpd
+  grant: efrc18
+  journal: tbd
+  month: tbd
+  nb: ''
+  note: Submitted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  professional_summary: ''
+  synopsis: Nanosized ferroelectric perovskites are synthesized at low temperature.  This
+    approach allows much more Nb/Ta to go in. They are shown by PDF to be non-centrosymmetric
+    and therefore potentiall ferroic. Their structural phase transition temperatures
+    are increased by the doping.
+  tags: bto, ferroelectricity, nanoparticle
+  title: Structure and phase transitions in niobium and tantalum derived nanoscale
+    transition metal perovskites, {Ba(Ti,M$^V$)O$_3$ M=Nb,Ta}
+  url: .
+  volume: ''
+  year: '2023'
 luo;cm05:
   author:
     - Luo, Jin
@@ -10139,7 +10173,7 @@ redmo;acsn11:
   note: submitted
   number: ''
   optannote: ''
-  opttags: nanoparticles, metallic_nanoparticles, catalyst
+  opttags: nanoparticle, metallic_nanoparticle, catalyst
   optwwwlanl: ''
   optwwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   pages: ''
