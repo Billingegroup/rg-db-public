@@ -49,6 +49,7 @@ jobs:
           conda config --set always_yes yes --set changeps1 no
           cd regolith
           conda install --file requirements/run.txt
+          pip install -r requirements/pip.txt
           pip install .
 
       - name: Validate rg-db-public

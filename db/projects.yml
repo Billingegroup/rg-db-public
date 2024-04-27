@@ -148,7 +148,8 @@ dmref15:
   active: false
   description: Advancing applied mathematics and computational approaches to the study
     of the nanostructure of materials
-  grant: dmref15
+  grants:
+    - dmref15
   group: bg
   highlights:
     - year: 2021
@@ -231,7 +232,8 @@ dmref19:
     lower in energy, and in symmetry, than the observed crystal structure.  This project
     is to try and gain insight into this novel phenomenon through a combined mathematics,
     AI, theory, and experimental campaign.
-  grant: dmref19
+  grants:
+    - dmref19
   group: bg
   highlights:
     - year: 2022
@@ -280,7 +282,8 @@ dmref19:
 dmrefcheme16:
   active: false
   description: Apply AI and machine learning to get better gas separation membranes
-  grant: dmrefcheme16
+  grants:
+    - dmrefcheme16
   group: bg
   highlights:
     - year: 2019
@@ -338,7 +341,8 @@ efrc18:
   description: A group project led from Stony Brook University.  Columbia is a major
     partner with myself leading one of the thrusts.  The goal is to use in-situ synthesis
     and data analytics to try and understand the science behind materials synthesis
-  grant: efrc18
+  grants:
+    - efrc18
   group: bg
   highlights:
     - year: 2020
@@ -406,7 +410,8 @@ fwp17:
   active: false
   description: Searching for local structural effects in strongly correlated electron
     materials using x-ray and neutron scattering
-  grant: fwp17
+  grants:
+    - fwp17
   group: bg
   highlights:
     - year: 2021
@@ -502,7 +507,8 @@ matsci_colab:
 mrsec14:
   active: false
   description: Study of nanoparticle assemblies and superatom systems
-  grant: mrsec14
+  grants:
+    - mrsec14
   group: bg
   highlights:
     - year: 2018
