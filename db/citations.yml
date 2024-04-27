@@ -5504,13 +5504,13 @@ griff;unpub23:
   journal: Nature Materials
   month: tbd
   nb: ''
-  note: submitted
+  note: to be published
   number: ''
   pages: ''
   professional_summary: ''
   synopsis: ''
   tags: ufpdf, cis, dimer, ultra_fast
-  title: Resolving length scale sependent transient disorder through an ultrafast
+  title: Resolving length scale dependent transient disorder through an ultrafast
     phase transition
   url: ''
   volume: ''
@@ -7031,10 +7031,7 @@ kimbe;nm23:
   month: feb
   nb: ''
   number: ''
-  optannote: ''
-  optnote: To be Published
-  optwwwlanl: ''
-  pages: ''
+  pages: 311–315 (2023)
   public_summary: This paper reveals a new understanding of a key mechanism behind
     the thermoelectric property of materials. Thermoelectric devices convert waste
     heat to electricity, or can be used as very efficient fridges, and is an important
@@ -7058,9 +7055,7 @@ kimbe;nm23:
     highlight
   title: Dynamic crystallography reveals spontaneous anisotropy in cubic {GeTe}
   url: https://www.nature.com/articles/s41563-023-01483-7
-  volume: ''
-  wwwemail: ''
-  wwwpub: ''
+  volume: '22'
   year: '2023'
 kjaer;cm22:
   ackno: This work is part of a project that has received funding from the European
@@ -10820,6 +10815,33 @@ sartb;prl07:
   wwwemail: ' sb2896@columbia.edu'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/sartb_prl07.pdf
   year: '2007'
+sbilli;m24:
+  ackno: S.J.L.B. would like to acknowledge rich discussions with many people over
+    the years as these ideas have developed, but not least learning about the PDF
+    from Prof. Takeshi Egami, graph rigidity theory and the UDGP with Profs. Phil
+    Duxbury and Mike Thorpe, and more recently, isometry respecting geometric data
+    analysis with Prof. Vitaliy Kurlin.  We acknowledge funding from the U.S. Department
+    of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
+    contract No. DE-SC0024141.
+  author:
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: doeneutron23
+  journal: Matter
+  month: apr
+  nb: ''
+  note: submitted
+  notes: ''
+  number: ''
+  pages: ''
+  synopsis: The PDF is discussed as a possible example of a materials genome
+  tags: materials_genome, clusterography
+  title: Do materials have a genome, and if they do, what can be done with it?
+  url: ''
+  volume: ''
+  year: '2024'
 scard;aca16:
   author:
     - Scardi, Paolo
@@ -13678,28 +13700,3 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
-sbilli;m24:
-  ackno: S.J.L.B. would like to acknowledge rich discussions with many people over the years as these ideas 
-    have developed, but not least learning about the PDF from Prof. Takeshi Egami, graph rigidity theory and the 
-    UDGP with Profs. Phil Duxbury and Mike Thorpe, and more recently, isometry respecting geometric data 
-    analysis with Prof. Vitaliy Kurlin.  We acknowledge funding from the U.S. Department of Energy, Office of 
-    Science, Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0024141.
-  author:
-    - Simon J. L. Billinge
-  doi: ''
-  entrytype: article
-  facility: ''
-  grant: doeneutron23
-  journal: Matter
-  month: apr
-  nb: ''
-  notes: ''
-  number: ''
-  note: submitted
-  pages: ''
-  synopsis: The PDF is discussed as a possible example of a materials genome
-  tags: materials_genome, clusterography
-  title: Do materials have a genome, and if they do, what can be done with it?
-  url: ''
-  volume: ''
-  year: '2024'
