@@ -3029,34 +3029,6 @@ bozin;prl23:
   url: https://doi.org/10.1103/PhysRevLett.131.036101
   volume: '131'
   year: '2023'
-karlsen;jac23:
-  ackno: ''
-  author:
-    - Martin A. Karlsen
-    - Jonas Billet
-    - Songsheng Tao
-    - Simon J.L. Billinge
-    - Dorthe B. Ravnsbæk
-  day: ''
-  doi: ''
-  entrytype: article
-  facility: ''
-  grant: efrc18
-  journal: J. Appl. Crystallogr.
-  month: tbd
-  nb: fy24, typeA
-  number: ''
-  optannote: ''
-  optnote: ''
-  pages: ''
-  synopsis: ''
-  tags: nanoparticle, tio2, battery
-  title: 'Operando pair distribution function analysis of
-nanocrystalline functional materials: the case of
-TiO2-bronze nanocrystals in Li-ion battery electrodes'
-  url: ''
-  volume: ''
-  year: '2023'
 bozin;s10:
   author:
     - Bo\v{z}in, Emil S.
@@ -4888,6 +4860,60 @@ frand;prm17:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/17frandprm.pdf
   year: '2017'
+frank;unpub23:
+  ackno: We gratefully acknowledge funding from the Carlsberg Foundation (CF19-0585)
+    and the Danish National Research Foundation (Carbon Dioxide Activation Center,
+    DNRF 118). Affiliation with Center for Integrated Materials research (iMAT) at
+    Aarhus University is kindly acknowledged. PDF analysis in the Billinge group was
+    supported by was supported as part of GENESIS; A Next Generation Synthesis Center,
+    an Energy Frontier Research Center funded by the U.S. Department of Energy, Office
+    of Science, Basic Energy Sciences under Award Number DE-SC0019212. The authors
+    acknowledge DESY (Hamburg, Germany), a member of the Helmholtz Association HGF,
+    for provision of experimental facilities at PETRA III. We acknowledge MAX IV Laboratory
+    for time on Beamline DanMAX under Proposal 20221264 and Balder under Proposal
+    20220418. Research conducted at MAX IV is supported by the Swedish Research Council
+    under contract 2018-07152, the Swedish Governmental Agency for Innovation Systems
+    under contract 2018-04969, and Formas under contract 2019-02496. DanMAX is funded
+    by the NUFI grant no. 4059-00009B. DanScatt is acknowledged for funding travel
+    costs related to the synchrotron experiments. We thank Gönül Esen from Aarhus
+    University for performing the of ICP-OES measurements.
+  author:
+    - Sara Frank
+    - Marcel Ceccato
+    - Henrik S. Jeppesen
+    - Melissa J. Marks
+    - Mads L. N. Nielsen
+    - Ronghui Lu
+    - Jens Jakob Gammelgaard
+    - Jonathan Quinson
+    - Ruchi Sharma
+    - Julie S. Nielsen
+    - Sara Hjelme
+    - Cecilie Friberg Klysner
+    - Simon J. L. Billinge
+    - Justus Just
+    - Frederik Gjørup
+    - Jacopo Catalano
+    - Nina Lock
+  doi: ''
+  entrytype: article
+  facility: maxiv, desy
+  grant: null
+  journal: J. Appl. Crystallogr.
+  month: tbd
+  nb: ''
+  note: submitted
+  number: ''
+  pages: ''
+  professional_summary: ''
+  synopsis: A novel cell is described for in situ and operando electrochemical measurements
+  tags: operando, insitu
+  title: The {AUREX} cell – a versatile operando electrochemical cell for studying
+    catalytic materials using X-ray diffraction, total scattering, and X-ray absorption
+    spectroscopy under working conditions
+  url: ''
+  volume: ''
+  year: '2024'
 fujit;s14:
   author:
     - Fujita, K.
@@ -6724,6 +6750,33 @@ kane;cm96:
   wwwlanl: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/96kanecm.pdf
   year: '1996'
+karlsen;jac23:
+  ackno: ''
+  author:
+    - Martin A. Karlsen
+    - Jonas Billet
+    - Songsheng Tao
+    - Simon J.L. Billinge
+    - Dorthe B. Ravnsbæk
+  day: ''
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: efrc18
+  journal: J. Appl. Crystallogr.
+  month: tbd
+  nb: fy24, typeA
+  number: ''
+  optannote: ''
+  optnote: ''
+  pages: ''
+  synopsis: ''
+  tags: nanoparticle, tio2, battery
+  title: 'Operando pair distribution function analysis of nanocrystalline functional
+    materials: the case of TiO2-bronze nanocrystals in Li-ion battery electrodes'
+  url: ''
+  volume: ''
+  year: '2023'
 kim;prb07:
   author:
     - Kim, H. J.

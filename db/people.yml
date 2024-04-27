@@ -49,7 +49,7 @@ aabeykoon:
   name: A. M. Milinda Abeykoon
   position: assistant scientist
 aajayi:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/aajayi-21.png
   bio: Adeolu is a rising sophomore at Columbia Engineering studying Applied Mathematics
@@ -1074,7 +1074,7 @@ cyshi:
   name: Chenyang Shi
   position: scientist
 dbkim:
-  active: true
+  active: false
   aka:
     - David Kim
     - DK
@@ -1202,7 +1202,7 @@ dpodgorski:
   name: Dragica Podgorski
   position: unknown
 dschmuckler:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/.png
   bio: bio
@@ -2112,7 +2112,7 @@ hyavas:
   name: Hasan Yavas
   position: scientist
 iadnan:
-  active: true
+  active: false
   aka:
     - Ibrahim (Abraham) Adnan
     - Ibrahim ALIbrahim
@@ -2163,7 +2163,7 @@ iadnan:
   orcid_id: 0009-0007-8256-9733
   position: Masters Researcher
 idouglas:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/imanis-d.png
   bio: bio
@@ -3974,7 +3974,7 @@ rkoch:
   position: post-doctoral scholar
   title: Dr.
 rlee:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/sl5035.png
   bio: bio
@@ -6038,10 +6038,10 @@ ycchen:
     - begin_date: 2023-10-23
       end_date: 2024-05-31
       organization: columbiau
-      position: undergraduate researcher
+      position: masters researcher
       group: bg
       advisor: sbillinge
-      status: undergrad
+      status: ms
   github_id: yucongalicechen
   grp_mtg_active: true
   name: Yucong Chen
