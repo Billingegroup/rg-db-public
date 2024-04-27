@@ -90,6 +90,44 @@ gtasr:
   summary: This project is to develop a fundamental understanding of complex system
     responses to forces and generalize the observations to a wide range of situations
     in human life.
+  type: ossoftware
+  website: https://github.com/diffpy
+dmref15:
+  active: false
+  description: Advancing applied mathematics and computational approaches to the study
+    of the nanostructure of materials
+  grants:
+    - dmref15
+  group: bg
+  highlights:
+    - year: 2021
+      month: 1
+      description: Launched PDF in the cloud (PDFitc) website, the first atomic pair
+        distribution function data analysis website.  Instead of downloading group
+        software and using it on their local computers, users can now upload their
+        measured PDFs and search for candidate structures that are pulled from large
+        structural databases.
+    - year: 2021
+      month: 1
+      description: Published a series of papers that applied artificial intelligence
+        (AI) and machine learning (ML) to the study of nanostructure inverse problems,
+        including using a convolutional neural net (CNN) to predict the space group
+        of a material given an atomic pair distribution function (PDF) measured from
+        x-ray or neutron powder diffraction data.
+    - year: 2020
+      month: 3
+      description: Launched PDF in the cloud (PDFitc) website, the first atomic pair
+        distribution function data analysis website.  Instead of downloading group
+        software and using it on their local computers, users can now upload their
+        measured PDFs and search for candidate structures that are pulled from large
+        structural databases.
+    - year: 2018
+      month: 6
+      description: Discovered a novel approach to model metallic nanoparticle structures
+        by building discrete models algoritmically for databases. published in Acta
+        Crystallographica A.
+  name: Using data analytics to regularize the nanostructure inverse problem, and
+    NSF funded DMREF center
   team:
     - name: sbillinge
       position: mentor
@@ -152,6 +190,12 @@ nanostructure_problem:
     - doeneutron23
     - efrc18
     - tri22
+  type: funded
+dmrefcheme16:
+  active: false
+  description: Apply AI and machine learning to get better gas separation membranes
+  grants:
+    - dmrefcheme16
   group: bg
   highlights:
     - year: 2024
@@ -189,10 +233,197 @@ nanostructure_problem:
         variable autoencoder to do structure solution from atomic pair distribution
         function (PDF) data for the first time, albeit on a limited class of close-packed
         structures.
+    - year: 2019
+      month: 12
+      description: Columbia files a provisional patent for the MOSY concept which
+        is a graph theoretic way of representing tasks accomplished by human actions.
   name: Solutions to the nanostructure problem
   summary: 'This is an ongoing project to develop methods for solving the nanostructure
     problem: the problem of determining the positions of atoms in nanosized clusters,
     that have many applications in advanced technologies.'
+  team:
+    - name: sbillinge
+      position: Co-PI
+      begin_year: 2018
+    - name: yrakita
+      position: postdoc
+      begin_year: 2019
+    - name: cwright
+      position: gra
+      begin_year: 2018
+      end_year: 2019
+    - name: chliu
+      position: gra
+      begin_year: 2018
+      end_year: 2020
+    - name: sbanerjee
+      position: gra
+      begin_year: 2018
+      end_year: 2019
+    - name: rgu
+      position: postdoc
+      begin_year: 2019
+    - name: John Parise
+      position: pi
+      begin_year: 2018
+  type: funded
+  website: ''
+fwp17:
+  active: false
+  description: Searching for local structural effects in strongly correlated electron
+    materials using x-ray and neutron scattering
+  grants:
+    - fwp17
+  group: bg
+  highlights:
+    - year: 2021
+      month: 1
+      description: Found our previously discovered phenomenon of orbital degeneracy
+        lifting (ODL), which results in local symmetry breaking in quantum materials,
+        in a series of new materials establishing its ubiquity.
+    - year: 2020
+      month: 1
+      description: Paper published in Science Advances reporting the observation of
+        a novel melting mechanism for gold from an ultrafast time-resolved diffraction
+        experiment.  A femto-second laser pulse dumps energy into a gold thin film
+        and we probed how it responded on the ps - ns timescale using ultrafast diffraction
+        pulses.
+    - year: 2019
+      month: 12
+      description: Two editor's choice papers in Phys. Rev. B that report ODL symmetry
+        breaking in the "hot" superconducting material iron-selenide (FeSe).
+    - year: 2019
+      month: 9
+      description: Paper published in Nature Communications that reports the discovery
+        of symmetry breaking due to orbital degeneracy lifting (ODL) in a transition
+        metal system in a completely unexpected way.
+    - year: 2019
+      month: 3
+      description: A paper was accepted in Physical Review Letters that was the first
+        measurement of phonons in a well characterized semiconducting nanoparticle
+        system.  This experimnet was a tour de force and a collaboration with Jon
+        Owen in Chemistry at Columbia, as well as researchers at Argonne National
+        Laboratory.
+  name: 'DOE funded project at Brookhaven National Laboratory: Local structure of
+    complex transition metal systems'
+  team:
+    - name: sbillinge
+      position: PI
+      begin_year: 2008
+      end_year: 2022
+    - name: ebozin
+      position: co-pi
+      begin_year: 2017
+      end_year: 2022
+    - name: rkoch
+      position: postdoc
+      begin_year: 2018
+      end_year: 2020
+  type: funded
+matsci_colab:
+  active: true
+  description: This project will build a one-semester accelerated course in machine
+    learning (ML) applied to STEM research problems for graduate and senior undergraduate
+    level students in physical science and engineering.  Whilst data analytics, artificial
+    intelligence (AI) and machine learning have revolutionized many aspects of life
+    from commerce to politics and human interactivity, its impacts in  the physical
+    sciences have been slower.  This is now rapidly changing,  with disruptive use
+    of AI and ML to attack research problems that seemed unreachable just a few years
+    ago.  There is a strong hunger among physical science and engineering students
+    to attain new research skills enabled by ML and to apply them to problems in their
+    domain.  The current training for this cohort of students includes extensive training
+    in calculus, differential equations, a bit of linear algebra, rudimentary statistics
+    and nothing in the way of ML.  The students often have an aptitude and some training
+    in basic programming. Our goal with this project is to design a course that will
+    build on the solid math skills of this group to accelerate their understanding
+    and ability to adopt ML in their work. The course will build on this existing
+    knowledge by combining a highly compressed introduction to ML taught by the Statistics
+    department, but with a focus on newly developed hands-on projects (that we call
+    Labs) where real (published) problems that apply different ML methods to materials
+    science problems.  The Labs will be developed using the Google Colab platform
+    and use the actual datasets from the published examples.  The developments will
+    be made following strict standards for coding and documentation and maintained
+    in a central GitHub repository.  As such, it will form a platform that will allow
+    further Labs to be developed in the aread of Materials Science but also more broadly.  Indeed,
+    this can turn into a widely used community resource that is under continuous development
+    using standard open-source community development practices.
+  group: bg
+  highlights:
+    - year: 2022
+      month: 5
+      description: Proposal funded to develop course to teach ML to physical science
+        and engineering students in Columbia Engineering
+  name: Applying machine learning to valuable data in the physical sciences and engineering
+  team:
+    - name: sbillinge
+      position: PI
+      begin_year: 2022
+    - name: skumar
+      position: Co-PI
+      begin_year: 2022
+    - name: tzheng
+      position: Co-PI
+      begin_year: 2022
+  type: teaching
+  website: ''
+mrsec14:
+  active: false
+  description: Study of nanoparticle assemblies and superatom systems
+  grants:
+    - mrsec14
+  group: bg
+  highlights:
+    - year: 2018
+      month: 6
+      description: Published a Nature Communications paper where we characterized
+        the structure of nanoparticles arranged into a metal-organic expanded structure.
+  name: Assembly of superatoms
+  team:
+    - name: sbillinge
+      position: co-pi
+      begin_year: 2015
+      end_year: 2019
+    - name: Xavier Roy
+      position: co-pi
+      begin_year: 2014
+      end_year: 2019
+    - name: James Hone
+      position: pi
+      begin_year: 2014
+      end_year: 2019
+    - name: Collin Nuckolls
+      position: co-pi
+      begin_year: 2014
+      end_year: 2019
+    - name: Michael Steigerwald
+      position: co-pi
+      begin_year: 2014
+      end_year: 2019
+    - name: chliu
+      position: gra
+      begin_year: 2018
+      end_year: 2018
+    - name: eculbertson
+      position: gra
+      begin_year: 2017
+      end_year: 2018
+    - name: lyang
+      position: gra
+      begin_year: 2017
+      end_year: 2017
+    - name: sbanerjee
+      position: gra
+      begin_year: 2019
+      end_year: 2019
+  type: funded
+pytentiostat:
+  description: Outreach project to develop an affordable potentiostat based on the
+    arduino platform, and hands-on workshops to train users in East Africa to use
+    it.
+  logo: https://github.com/juami.png
+  name: Pytentiostat
+  other: []
+  repo: https://github.com/juami/pytentiostat
   team:
     - name: sbillinge
       position: mentor
