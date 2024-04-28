@@ -1129,7 +1129,7 @@ billi;b;apdfap24:
   synopsis: The PDF to the people book.
   tags: highlight, review, book
   title: 'Atomic pair distribution function analysis: a primer'
-  url:
+  url: 
     https://global.oup.com/academic/product/atomic-pair-distribution-function-analysis-9780198885801?cc=us&lang=en&
   year: '2024'
 billi;b;coecm91:
@@ -5574,7 +5574,7 @@ gu;unpublished23:
   entrytype: article
   facility: nslslii, xpd
   grant: efrc18
-  journal:  arXiv
+  journal: arXiv
   month: tbd
   nb: fy24, typeA
   note: arXiv:2311.15173 [cond-mat.mtrl-sci]
@@ -8423,34 +8423,6 @@ lomba;jcp24:
   url: https://doi.org/10.1063/5.0192488
   volume: '160'
   year: '2024'
-lombardi;cm19:
-  author:
-    - Lombardi, Julien
-    - Yang, Long
-    - Pearsall, Frederick A.
-    - Farahmand, Nasim
-    - Gai, Zheng
-    - Billinge, Simon J. L.
-    - O'Brien, Stephen
-  doi: 10.1021/acs.chemmater.8b04447
-  entrytype: article
-  facility: xpd, nslsii
-  grant: mrsec14
-  journal: Chem. Mater.
-  month: Jan
-  nb: art
-  note: ''
-  number: '4'
-  optannote: ''
-  optwwwlanl: ''
-  pages: 1318-1335
-  title: Stoichiometric control over ferroic behavior in {Ba(Ti$_{1-x}$Fe$_x$)O$_3$}
-    nanocrystals
-  url: https://pubs.acs.org/doi/10.1021/acs.chemmater.8b04447
-  volume: '31'
-  wwwemail: ''
-  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/lombardi_cm19.pdf
-  year: '2019'
 lomba;tbd23:
   ackno: ''
   author:
@@ -8485,6 +8457,34 @@ lomba;tbd23:
   url: .
   volume: ''
   year: '2023'
+lombardi;cm19:
+  author:
+    - Lombardi, Julien
+    - Yang, Long
+    - Pearsall, Frederick A.
+    - Farahmand, Nasim
+    - Gai, Zheng
+    - Billinge, Simon J. L.
+    - O'Brien, Stephen
+  doi: 10.1021/acs.chemmater.8b04447
+  entrytype: article
+  facility: xpd, nslsii
+  grant: mrsec14
+  journal: Chem. Mater.
+  month: Jan
+  nb: art
+  note: ''
+  number: '4'
+  optannote: ''
+  optwwwlanl: ''
+  pages: 1318-1335
+  title: Stoichiometric control over ferroic behavior in {Ba(Ti$_{1-x}$Fe$_x$)O$_3$}
+    nanocrystals
+  url: https://pubs.acs.org/doi/10.1021/acs.chemmater.8b04447
+  volume: '31'
+  wwwemail: ''
+  wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/lombardi_cm19.pdf
+  year: '2019'
 luo;cm05:
   author:
     - Luo, Jin

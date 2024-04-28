@@ -51,47 +51,6 @@ complex_liquids:
       begin_year: 2016
   type: research
   website: https://thebillingegroup.com
-education_outreach_inclusion:
-  active: true
-  description: Activities in the group in education, outreach as well as diversity,
-    equity and inclusion.
-  grants:
-    - collab22
-  group: bg
-  highlights:
-    - year: 2023
-      month: 6
-      description: Ran the 4th JUAMI school in Nairobi Kenya.  JUAMI is an NSF funded
-        capacity building activity between the US materials research community and
-        the community in East Africa.  It is explained in the video at https://www.juami.org/about/
-    - year: 2024
-      month: 2
-      description: Curriculum development of a course in machine learning in materials
-        science The course is being given for the first time in spring 2024 as MSAE4990.
-  name: Education, outreach, diversity, equity and inclusion
-  summary: Activities in the group in education, outreach as well as diversity, equity
-    and inclusion.
-  team:
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-  type: outreach
-  website: https://thebillingegroup.com
-gtasr:
-  active: true
-  description: Pretty much everything is a big thing made of small things.  This project
-    explores fundamental properties that this structure imbues on a system.  Because
-    of its ubiquity (that pretty  much everything has this structure) any properties
-    that come from this general structure will need to be satisfied in a broad range
-    of situations.  This project explores the fundamental nature of systems and extends
-    the results to a broad range of situations.
-  highlights: []
-  name: A general theory of abstract system responses (gTASR)
-  summary: This project is to develop a fundamental understanding of complex system
-    responses to forces and generalize the observations to a wide range of situations
-    in human life.
-  type: ossoftware
-  website: https://github.com/diffpy
 dmref15:
   active: false
   description: Advancing applied mathematics and computational approaches to the study
@@ -134,63 +93,6 @@ dmref15:
       begin_year: 2016
   type: research
   website: https://thebillingegroup.com
-local_symmetry_breaking:
-  active: true
-  description: 'Quantum materials are at the heart of emerging technologies from quantum
-    computing to sustainable energy.  Using local-structural methods we have developed
-    in the group, we have found that many quantum materials exhibit local symmetry
-    breaking: the atomic arrangements at the local scale are different to those implied
-    by the average crystal structure.  In many systems this response is intrinsic,
-    though it can also be driven by extrinsic effects that can be controlled.  This
-    project aims to characterize these difficult to measure phenomena and, further,
-    to understand how the local symmetry breaking affects the material properties.'
-  grants:
-    - dmref19
-  group: bg
-  highlights:
-    - year: 2022
-      month: 9
-      description: Demonstrated the ability to study texture (crystalline preferred
-        orientation) in the atomic PDF for the first time.  This was not previously
-        possible.  It was done using a novel approach of measuring a full 3D PDF using
-        synchrotron x-radiation and using equations developed in the group in 2018
-        to separate the signal into a structural part and an orientational part.
-    - year: 2023
-      month: 3
-      description: Developed a novel variable-shutter atomic  pair distribution function
-        (vsPDF) technique that allowed us to use neutrons to image fluctuating local
-        structural domains in important thermoelectric material GeTe. This allowed
-        us to develop a new theory for understanding the origin of the very low thermal
-        conductivity that gives the material its useful thermoelectric property.  This
-        work was published in Nature Materials.
-    - year: 2019
-      month: 6
-      description: Received funding
-  name: Local symmetry breaking in quantum materials
-  summary: This project studies the under-appreciated role of intrinsic and extrinsic
-    local symmetry breaking in quantum materials using advanced x-ray, neutron and
-    electron scattering methods.
-  team:
-    - name: sbillinge
-      position: mentor
-      begin_year: 2016
-  type: research
-  website: https://thebillingegroup.com
-nanostructure_problem:
-  active: true
-  description: 'Material properties depend sensitively on the arrangements of the
-    atoms.  The atomic structure. For around 100 years we have had x-ray based tools
-    and algorithms that allow us to solve the structure of crystalline materials:
-    crystallography.  Increasingly, we want to engineer materials at the nanoscale
-    to give us different properties, but the nanostructure problem, the ability to
-    solve the structure of nanomaterials, remains an unsolved problem in general.  This
-    decadal project develops experiments, algorithms, and computational methods to
-    tackle the nanostructure problem.'
-  grants:
-    - doeneutron23
-    - efrc18
-    - tri22
-  type: funded
 dmrefcheme16:
   active: false
   description: Apply AI and machine learning to get better gas separation membranes
@@ -268,6 +170,32 @@ dmrefcheme16:
       begin_year: 2018
   type: funded
   website: ''
+education_outreach_inclusion:
+  active: true
+  description: Activities in the group in education, outreach as well as diversity,
+    equity and inclusion.
+  grants:
+    - collab22
+  group: bg
+  highlights:
+    - year: 2023
+      month: 6
+      description: Ran the 4th JUAMI school in Nairobi Kenya.  JUAMI is an NSF funded
+        capacity building activity between the US materials research community and
+        the community in East Africa.  It is explained in the video at https://www.juami.org/about/
+    - year: 2024
+      month: 2
+      description: Curriculum development of a course in machine learning in materials
+        science The course is being given for the first time in spring 2024 as MSAE4990.
+  name: Education, outreach, diversity, equity and inclusion
+  summary: Activities in the group in education, outreach as well as diversity, equity
+    and inclusion.
+  team:
+    - name: sbillinge
+      position: mentor
+      begin_year: 2016
+  type: outreach
+  website: https://thebillingegroup.com
 fwp17:
   active: false
   description: Searching for local structural effects in strongly correlated electron
@@ -320,6 +248,67 @@ fwp17:
       begin_year: 2018
       end_year: 2020
   type: funded
+gtasr:
+  active: true
+  description: Pretty much everything is a big thing made of small things.  This project
+    explores fundamental properties that this structure imbues on a system.  Because
+    of its ubiquity (that pretty  much everything has this structure) any properties
+    that come from this general structure will need to be satisfied in a broad range
+    of situations.  This project explores the fundamental nature of systems and extends
+    the results to a broad range of situations.
+  highlights: []
+  name: A general theory of abstract system responses (gTASR)
+  summary: This project is to develop a fundamental understanding of complex system
+    responses to forces and generalize the observations to a wide range of situations
+    in human life.
+  team:
+    - name: sbillinge
+      position: mentor
+      begin_year: 2016
+  type: research
+  website: https://github.com/diffpy
+local_symmetry_breaking:
+  active: true
+  description: 'Quantum materials are at the heart of emerging technologies from quantum
+    computing to sustainable energy.  Using local-structural methods we have developed
+    in the group, we have found that many quantum materials exhibit local symmetry
+    breaking: the atomic arrangements at the local scale are different to those implied
+    by the average crystal structure.  In many systems this response is intrinsic,
+    though it can also be driven by extrinsic effects that can be controlled.  This
+    project aims to characterize these difficult to measure phenomena and, further,
+    to understand how the local symmetry breaking affects the material properties.'
+  grants:
+    - dmref19
+  group: bg
+  highlights:
+    - year: 2022
+      month: 9
+      description: Demonstrated the ability to study texture (crystalline preferred
+        orientation) in the atomic PDF for the first time.  This was not previously
+        possible.  It was done using a novel approach of measuring a full 3D PDF using
+        synchrotron x-radiation and using equations developed in the group in 2018
+        to separate the signal into a structural part and an orientational part.
+    - year: 2023
+      month: 3
+      description: Developed a novel variable-shutter atomic  pair distribution function
+        (vsPDF) technique that allowed us to use neutrons to image fluctuating local
+        structural domains in important thermoelectric material GeTe. This allowed
+        us to develop a new theory for understanding the origin of the very low thermal
+        conductivity that gives the material its useful thermoelectric property.  This
+        work was published in Nature Materials.
+    - year: 2019
+      month: 6
+      description: Received funding
+  name: Local symmetry breaking in quantum materials
+  summary: This project studies the under-appreciated role of intrinsic and extrinsic
+    local symmetry breaking in quantum materials using advanced x-ray, neutron and
+    electron scattering methods.
+  team:
+    - name: sbillinge
+      position: mentor
+      begin_year: 2016
+  type: research
+  website: https://thebillingegroup.com
 matsci_colab:
   active: true
   description: This project will build a one-semester accelerated course in machine
@@ -415,6 +404,26 @@ mrsec14:
       position: gra
       begin_year: 2019
       end_year: 2019
+  type: funded
+nanostructure_problem:
+  active: true
+  description: 'Material properties depend sensitively on the arrangements of the
+    atoms.  The atomic structure. For around 100 years we have had x-ray based tools
+    and algorithms that allow us to solve the structure of crystalline materials:
+    crystallography.  Increasingly, we want to engineer materials at the nanoscale
+    to give us different properties, but the nanostructure problem, the ability to
+    solve the structure of nanomaterials, remains an unsolved problem in general.  This
+    decadal project develops experiments, algorithms, and computational methods to
+    tackle the nanostructure problem.'
+  grants:
+    - doeneutron23
+    - efrc18
+    - tri22
+  name: The nanostructure inverse problem
+  team:
+    - name: sbillinge
+      position: mentor
+      begin_year: 2016
   type: funded
 pytentiostat:
   description: Outreach project to develop an affordable potentiostat based on the
