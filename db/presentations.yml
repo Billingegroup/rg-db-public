@@ -1755,7 +1755,7 @@
   end_month: 3
   end_year: 2020
   location: U. Maryland, College Park, MD
-  meeting_name: Materials Genome Inititiative PI meeting
+  meeting_name: Materials Genome Initiative PI meeting
   notes: []
   project:
     - all
@@ -5168,7 +5168,7 @@
     - all
   status: accepted
   title: Watching real materials in real devices with the atomic pair distribution
-    function (PDF)
+    function ({PDF})
   type: invited
   webinar: true
 2311sb_paulscherrerinstitute,switzerland:
@@ -5260,7 +5260,13 @@
     saving the planet: understanding nanostructure with x-rays and algorithms'
   type: award
 2312sb_aspencenterforphysics,aspen,co:
-  abstract: tbd
+  abstract: For a number of years now it has been apparent from local structural probes
+    such as the atomic pair distribution (PDF) analysis of x-ray and neutron data,
+    that a significant number of interesting quantum materials have local structures
+    that have distinctively lower symmetry than the average structure. These can be
+    extrinsic, due to quenched disorder, but we are also finding evidence for intrinsic
+    textures in quantum materials. I will describe the experimental approaches and
+    present results for some exemplar intrinsic quantum textures.
   authors:
     - sbillinge
   begin_date: 2023-12-11
@@ -5271,12 +5277,13 @@
   project:
     - all
   status: accepted
-  title: tbd
-  type: contributed_oral
+  title: 'Intrinsic quantum textures: quantifying local symmetry breaking from the
+    atomic pair distribution function analysis of x-ray and neutron diffraction data'
+  type: poster
 2312sb_uindiana:
   abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
     are at the heart of next generation technological solutions in sustainable energy,
-    effective new pharmaceuticals and environmental remediation.  A key to making
+    effective new pharmac euticals and environmental remediation.  A key to making
     progress is to be able to understand the nanoparticle structure, the arrangements
     of atoms in the nanoparticles and nanoscale structures. Also critical is understanding
     the distribution of the nanoparticles and how they change in time as devices run
@@ -5300,6 +5307,29 @@
   title: 'From saving pharmaceuticals to saving priceless historical artefacts via
     saving the planet: understanding nanostructure with x-rays and algorithms'
   type: colloquium
+2401sb_rockville,md:
+  abstract: Modern materials under study for next generation technologies, such as
+    for energy conversion and storage, environmental remediation and health, are highly
+    complex, often heterogeneous and nanostructured. In real applications the materials
+    can undergo dramatic changes that are at the heart of the property that we are
+    trying to exploit. For example, ions move around under electrochemical potentials
+    in batteries and catalysts temporarily undergo chemical changes during the catalysis
+    process. We therefore seek to understand materials not just in their thermodynamically
+    stable state, but also changes that occur as they are driven by external forces.
+    Neutron diffraction is a powerful tool for doing this.
+  authors:
+    - sbillinge
+  begin_date: 2024-01-10
+  end_date: 2024-01-12
+  location: Rockville, MD
+  meeting_name: 2024 Neutron Scattering Principal DOE Investigators’ Meeting
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Real materials in action: Data analysis developments for real materials
+    doing real things'
+  type: invited
 2403sb_neworleans,la:
   abstract: The atomic pair distribution function (PDF) analysis of x-ray diffraction
     data has been used to study the structure of liquids since its invention in the
@@ -5319,7 +5349,7 @@
   begin_date: 2024-03-17
   end_date: 2024-03-21
   location: New Orleans, LA
-  meeting_name: award symposium in honor of Jarad Mason at the Spring 2024 American
+  meeting_name: Award symposium in honor of Jarad Mason at the Spring 2024 American
     Chemical Society Meeting
   notes: []
   project:
@@ -5328,8 +5358,89 @@
   title: Seeing structuring in liquids using advances in atomic pair distribution
     function methods
   type: invited
+2404mm_columbiauniversity,newyork,ny:
+  abstract: This poster describes an effort to develop pedagogical materials for teaching
+    machine learning to physical science students.  The premise is that physical scientists
+    have significant training in mathematics, especially algebra and calculus, but
+    less exposure to the statistics and linear algebra needed for ML.  they also are
+    motivated by physical science problems rather than categorizing cat and dog images
+    or predicting housing prices or interesting movies.  They would therefore benefit
+    from course materials that are designed to play to their strengths and interests.   With
+    funding help from the collaboratory@columbia University we have developed a set
+    of "Educational examples" or Edexes that take real examples from the physial science
+    literature and right-size them as an educational example (i.e., so they can be
+    computed on a laptop in reasonable time).  These are chosen so that different
+    concepts in ML can be rolled out but on real problems from the literature.  The
+    initial suite of Edexes come from the materials science field and include predicting
+    melting points of materials from structural descriptors using linear regression
+    models (and clustering), predicting the the symmetry space-group of a material
+    from its measured x-ray diffraction data using logistic regression and a convolutional
+    neural net, predicting a new polymer material with exceptional gas-separation
+    properties from a library of monomers (molecular sub-units) using linear regression
+    and intepretaive ML, as well as unsupervised ML using PCA and non negative matrix
+    factorization on time-resolved chemical synthesis data. The course is being taught
+    for the first time this spring as MSAE4990.  Class members will present the materials,
+    and share their experiences and impressions as well as presenting the material
+  authors:
+    - MSAE4990 class members
+  begin_date: 2024-04-04
+  end_date: 2024-04-04
+  location: Columbia University, New York, NY
+  meeting_name: Columbia Data Science Institute Data Science Day 2024
+  notes: []
+  project:
+    - all
+  status: submitted
+  title: 'ML-Edex-4STEM: Teaching and applying machine learning to physical science
+    students'
+  type: poster
+2404sb_rpi:
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
+    are at the heart of next generation technological solutions in sustainable energy,
+    effective new pharmac euticals and environmental remediation.  A key to making
+    progress is to be able to understand the nanoparticle structure, the arrangements
+    of atoms in the nanoparticles and nanoscale structures. Also critical is understanding
+    the distribution of the nanoparticles and how they change in time as devices run
+    and reactions take place.  We use advanced x-ray, neutron and electron scattering
+    methods to get at this problem.  I will talk about these methods and show some
+    recent success-stories in the fields of sustainable energy, environmental remediation
+    and cultural heritage preservation.  However, I will also discuss the fundamental
+    limitations on our ability to extract information from the data and how we are
+    now turning to machine learning and artificial intelligence techniques to give
+    more insights.
+  authors:
+    - sbillinge
+  begin_date: 2024-04-03
+  department: physics
+  end_date: 2024-04-03
+  institution: rensselaerpolytechnicinstitute
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms'
+  type: colloquium
 2404sb_seattle,wa:
-  abstract: tbd
+  abstract: "Development of next generation materials for applications in sustainable
+    energy and beyond require us to study the structure of real materials in real
+    devices even as they operate: for example, putting operating batteries in the
+    beam, studying spatially resolved labs-on-chip, doing real-time autonomous experiments
+    and using computed tomography to see diffraction from cross-sections of bulk samples.\
+    \  These developments, powered by wonderful synchrotron and neutron source and
+    detector developments, present major challenges on the data analysis side.  Now
+    we are putting heterogeneous devices in the beam and getting signals from different
+    parts of them.  We have bad powder averages (spotty data) because we can't spin
+    the battery, and single crystal spots coming from some component in the setup
+    that happens to be in the way of the beam.  We have unknown and unexpected phases
+    coming and going, and want to extract tiny signals from large backgrounds. I will
+    present some of the data analysis, algorithmic and computational developments
+    that are helping us to overcome these challenging situations and not only recovering
+    from 'bad data', but also turning bad data into good data.  Spotty powder patterns
+    have more information in them than smooth powder rings.  I will describe some
+    new approaches, algorithmic, statistical, machine learning and otherwise, that
+    are helping us move the goalposts in this domain, which can open up new opportunities
+    for studying complex heterogeneous samples with hard x-rays."
   authors:
     - sbillinge
   begin_date: 2024-04-22
@@ -5342,10 +5453,28 @@
   project:
     - all
   status: accepted
-  title: tbd
+  title: Supervised and Unsupervised machine learning applied to challenging and rapid
+    diffraction and structural problems
   type: invited
 2405sb_pittsburg,pa:
-  abstract: tbd
+  abstract: 'The development of crystallography over the previous century has revolutionized
+    our ability to understand the material universe. However, crystallography has
+    limitations: It results in classifications that are not unique and are discontinuous
+    under small distortions of the structure and it is not well suited to comparing
+    the similarity of different structures. Here we explore alternative representations
+    for rigid periodic structures that overcome these limitations. We seek descriptors
+    (invariants) that are straightforwardly and rapidly computed for any given structure
+    which lead to mathematically valid distance metrics between crystal structures
+    that allow us to easily and rapidly compare their similarity.  I will describe
+    measures based on partial atomic pair distribution functions, that can be shown
+    to be unique and complete continuous invariants for crystal structures.  Materials
+    can then be mapped into a continuous space to gain insights into how they cluster,
+    where there are gaps (\emph{terra incognita}) that can guide searches for novel
+    materials. As well as being mathematically rigorous, these invariants are very
+    rapid to compute. As a first exploration of what can be learned from this approach
+    we have computed these structure invariants for more than a quarter of a million
+    structures from the Cambridge structural database (CSD) and the Inorganic Crystal
+    Structure Database (ICSD).'
   authors:
     - sbillinge
   begin_date: 2024-05-19
@@ -5358,4 +5487,50 @@
   status: accepted
   title: The materials genome and the search for universal and continuous structure
     representations
+  type: invited
+2407sb_denver,co:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2024-07-20
+  end_date: 2024-07-24
+  location: Denver, CO
+  meeting_name: American  Crystallographic Association
+  notes: []
+  project:
+    - all
+  status: declined
+  title: na
+  type: invited
+2408sb_padova,italy:
+  abstract: At the heart of powder diffraction is the idea that we are studying real
+    materials doing real things, often in real devices.  It is now possible to solve
+    single crystal structures from tiny crystals that are smaller than powder grains
+    so if powder diffraction was just for solving structures, we wouldn't need powder
+    diffraction any more.  But the field is as strong as ever, and if anything, getting
+    stronger and more impactful, exactly because it is solving scientific and technological
+    problems in real situations.  However, this presents a number of key data analysis
+    and interpretation challenges because it implies we are studying ever more complicated
+    samples, often in complex heterogeneous devices and in time-resolved operando
+    setups, and we are interrogating our data for more and more subtle effects such
+    as microstructures and evolving defects and local structures.  Advanced data analysis
+    algorithms and software are essential for the success of this enterprise.  In
+    this talk I will describe various developments that leverage the power of artificial
+    intelligence (AI), principally machine learning (ML), to aid in this task.  Some
+    of these powerful tools are clearly ready to be applied more broadly in the community
+    and others are still in the future but look very promising.  They include unsupervised
+    and supervised machine learning approaches, conventional ML and deep neural networks,
+    as well as approaches for autonomous time-resolved experimentation.
+  authors:
+    - sbillinge
+  begin_date: 2024-08-30
+  end_date: 2024-09-02
+  location: Padova, Italy
+  meeting_name: European Powder Diffraction Conference 2024
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: '{AI} at your service: {AI} as a tool for extracting more science, more easily
+    from powder diffraction data'
   type: invited

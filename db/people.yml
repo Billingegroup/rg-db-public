@@ -8,6 +8,7 @@ aabeykoon:
     - Abeykoon, A. M. M.
     - M. Abeykoon
     - Milinda Abeykoon
+    - A. M. M. Abeykoon
   avatar: https://www.bnl.gov/assets/global/images/render.php?q=0|24383.jpg|500
   bio: ''
   education:
@@ -61,7 +62,7 @@ aajayi:
   email: aoa2160@columbia.edu
   employment:
     - begin_date: 2023-02-01
-      end_date: 2023-05-31
+      end_date: 2023-08-31
       organization: columbiau
       position: undergraduate researcher
       group: bg
@@ -737,6 +738,26 @@ ckkim:
   name: Chung Koo Kim
   position: engineer
   position_full: Manufacturing Integration Engineer
+cmyers:
+  active: true
+  aka: []
+  avatar: https://github.com/cadenmyers13.png
+  bio: bio
+  education: []
+  email: cjm2304@columbia.edu
+  employment:
+    - begin_date: 2024-02-05
+      end_date: 2024-05-12
+      organization: columbiau
+      position: masters
+      group: bg
+      advisor: sbillinge
+      status: masters
+  github_id: cadenmyers13
+  grp_mtg_active: true
+  name: Caden Myers
+  orcid_id: ''
+  position: masters
 cseno:
   active: true
   aka: []
@@ -1097,7 +1118,7 @@ dbkim:
   email: dk3202@columbia.edu
   employment:
     - begin_date: 2023-09-24
-      end_date: 2024-12-31
+      end_date: 2023-12-31
       organization: columbiau
       position: Undergrad Researcher
       group: bg
@@ -1204,19 +1225,19 @@ dpodgorski:
 dschmuckler:
   active: false
   aka: []
-  avatar: https://github.com/.png
+  avatar: https://github.com/schmucklerd.png
   bio: bio
   education: []
   email: dls2219@columbia.edu
   employment:
     - begin_date: 2023-09-10
-      end_date: 2024-05-31
+      end_date: 2023-12-31
       organization: columbiau
       position: Masters Researcher
       group: bg
       advisor: sbillinge
-      status: ms
-  github_id: ''
+      status: ug
+  github_id: schmucklerd
   grp_mtg_active: true
   name: Daniel Schmuckler
   orcid_id: ''
@@ -1627,7 +1648,7 @@ eshen:
   email: ejs2228@columbia.edu
   employment:
     - begin_date: 2020-06-01
-      end_date: 2024-05-31
+      end_date: 2022-05-31
       organization: columbiau
       position: masters researcher
       group: bg
@@ -2421,7 +2442,8 @@ jeaster:
   position: Undergraduate Researcher
 jgriffiths:
   active: false
-  aka: []
+  aka:
+    - Jack P. Griffiths
   avatar: https://github.com/j-griffo.png
   bio: ''
   education: []
@@ -2576,6 +2598,7 @@ jwlee:
   email: jl6367@columbia.edu
   employment:
     - begin_date: 2023-03-22
+      end_date: 2023-08-31
       organization: columbiau
       position: Undergraduate Researcher
       group: bg
@@ -4102,7 +4125,7 @@ sandrello:
   email: sqa2001@columbia.edu
   employment:
     - begin_date: 2023-07-07
-      end_date: 2023-08-31
+      end_date: 2024-05-31
       organization: columbiau
       position: Undergraduate Researcher
       group: bg
@@ -4390,6 +4413,15 @@ sbillinge:
   google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
   grp_mtg_active: false
   hindex:
+    - h: 86
+      h_last_five: 54
+      citations: 32450
+      citations_last_five: 14263
+      origin: Google Scholar
+      since: 1991
+      year: 2024
+      month: 3
+      day: 25
     - h: 83
       h_last_five: 54
       citations: 30859
@@ -4570,18 +4602,18 @@ sbillinge:
       begin_year: 1987
   service:
     - type: profession
+      name: Review panel for Linear Coherent Light Source
+      month: 4
+      year: 2024
+      role: member
+      other: []
+    - type: profession
       name: Review panel for National Science Foundation
       month: 10
       year: 2023
       role: member
       other:
         - CHEX at CHESS, Cornell University
-    - type: profession
-      name: External examiner, PhD Thesis committee, Dan Foley, Johns Hopkins University
-      month: 10
-      year: 2023
-      role: examiner
-      other: []
     - type: profession
       name: Chair and organizer for the NSF-funded workshop Scientific Opportunities
         and Instrumentation Needs for Next Generation Materials Genomics Based Materials
@@ -4612,14 +4644,6 @@ sbillinge:
       month: Jun
       notes:
         - Linear Coherent Light Source
-    - type: department
-      name: PhD thesis committed for Mr Jonathan Karp,
-      date: 2022-06-16
-    - type: profession
-      name: PhD thesis reviewer for Ms Anna Vivani, candidate for PhD in the Chemical
-        and Environmental Sciences School at the Università degli Studi dell'Insubria
-      begin_date: 2022-02-02
-      end_date: 2022-05-31
     - type: profession
       name: Office of Science (SC) Supply Chain Roundtable. Committee to study the
         problem of supply chain risks for scientific facilities and tools, and to
@@ -4639,7 +4663,7 @@ sbillinge:
       name: Member of the review committee of the D4 diffractometer at the Institut
         Laue Langevin, Grenoble, France
       begin_date: 2021-09-23
-      end_date: 2024-09-24
+      end_date: 2022-09-24
     - type: profession
       name: Member of the review committee Neutron Initiative of the Oak Ridge National
         Laboratory’s Laboratory Directed Research and Development (LDRD) Program
@@ -4716,6 +4740,7 @@ sbillinge:
         project, DESY, Hamburg, Germany.
       begin_year: 2021
       begin_month: Jan
+      end_year: 2022
     - type: profession
       name: Proposal review panel for the Linear Coherent Light Source
       year: 2020
@@ -4852,11 +4877,6 @@ sbillinge:
       year: 2019
       month: 12
     - type: profession
-      name: 'Section Editor of Journal Acta Crystallographica Section A: Advances
-        and Foundations of Crystallography'
-      begin_year: 2011
-      end_year: 2024
-    - type: profession
       name: National Academy of Science Panel on the Review of the Center for Neutron
         Research at the National Institute of Standards and Technology
       year: 2018
@@ -4867,16 +4887,10 @@ sbillinge:
     - type: profession
       name: Member of the External Advisory Board for NSF Science and Technology Center
         (STROBE) at U. Colorado
-      begin_year: 2018
-    - type: profession
-      name: Member, Artificial intelligence task force of the Materials Research Society
-      begin_year: 2017
-    - type: profession
-      name: Member, Steering committee of the African Light Source
-      begin_year: 2015
+      year: 2018
     - type: profession
       name: Workshop, Local Structure from Diffraction, Traverse City, MI, July 1998.
-      begin_year: 1998
+      year: 1998
     - type: profession
       name: Co-organizer with Prof Sossina Haile (Northwestern) and Tom Mallouk (Penn
         State) of the third 2-week JUAMI Materials for Sustainable Development workshop
@@ -5088,6 +5102,7 @@ sbillinge:
       name: DISCOVER instrument advisory committee, Spallation Neutron Source, Oak
         Ridge National Laboratory
       begin_year: 2017
+      end_year: 2021
       role: Advisory Committee Member
     - type: profession
       name: Committee to review NSF funded CHRNS program at NIST neutron reactor
@@ -5108,7 +5123,7 @@ sbillinge:
     - type: profession
       name: Advisory Committee, MICCoM (http://miccom-center.org/), computational
         materials science center Argonne National Laboratory
-      begin_year: 2016
+      year: 2016
       role: Reviewer
     - type: profession
       name: Triannual Review of Photon Sciences Division at Oak Ridge National Laboratory
@@ -5184,7 +5199,7 @@ sbillinge:
       role: Reviewer
     - type: profession
       name: NSLS beamline review committee (with Eric Isaacs (chair), and J.D. Jorgensen)
-      begin_year: 2004
+      year: 2004
       role: Reviewer
     - type: profession
       name: NSF-MRI-IMR review panel
@@ -5467,7 +5482,7 @@ sskjaervoe:
   employment:
     - begin_year: 2022
       begin_month: 8
-      organization: Cell Press
+      organization: cell
       position: Editorial Assistant
     - begin_year: 2020
       begin_month: 8
@@ -5705,7 +5720,7 @@ tnanarong:
       position: post-doctoral scholar
       group: bg
       advisor: sbillinge
-      status: pd
+      status: postdoc
   github_id: tinatn29
   grp_mtg_active: true
   name: Tina Na Narong
@@ -5768,6 +5783,26 @@ tproffen:
       position: post-doctoral scholar
   name: Thomas Proffen
   position: director
+tqzhang:
+  active: true
+  aka: []
+  avatar: https://github.com/tieqiong.png
+  bio: bio
+  education: []
+  email: tz2600@columbia.edu
+  employment:
+    - begin_date: 2024-02-16
+      end_date: 2024-08-31
+      organization: columbiau
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: tieqiong
+  grp_mtg_active: true
+  name: Tieqiong Zhang
+  orcid_id: ''
+  position: undergraduate researcher
 tschertenleib:
   active: true
   aka: []
@@ -6369,6 +6404,26 @@ zthatcher:
   name: Zach Thatcher
   orcid_id: 0000-0002-8680-1540
   position: graduate research assistant
+zzachko:
+  active: true
+  aka: []
+  avatar: https://github.com/zzachko.png
+  bio: bio
+  education: []
+  email: zz2828@columbia.edu
+  employment:
+    - begin_date: 2024-01-14
+      end_date: 2024-05-31
+      organization: columbiau
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: zzachko
+  grp_mtg_active: true
+  name: Zoe Zachko
+  orcid_id: ''
+  position: "'undergraduate researcher"
 zzgong:
   active: false
   aka:
