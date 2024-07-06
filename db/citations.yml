@@ -10934,6 +10934,39 @@ scard;aca16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/me0628.pdf
   year: '2016'
+scher;jac24:
+  ackno: ''
+  author:
+    - Till Schertenleib
+    - Daniel Schmuckler
+    - Yucong Chen
+    - Geng Bang Jin
+    - Simon~J.~L. Billinge
+  doi: ''
+  entrytype: article
+  facility: nslsii, pdf
+  grant: 3m21
+  journal: J Appl. Crystallogr.
+  month: tbd
+  nb: ''
+  note: submitted
+  number: ''
+  pages: ''
+  professional_summary: Increasingly, there is demand to use laboratory based diffractometers
+    to collect x-ray diffraction data suitable for PDF analysis.  In this paper we
+    explore different protocols for acquiring data, and explore whether it is necessary
+    to carry out an absorption correction when using a Mo Lab source together with
+    the PDFgetX3 data reduction protocols.  The lab-data derived PDFs were compared
+    to those obtained from the same materials but using the commonly used synchrotron
+    Rapid Acquisition PDF approach.
+  synopsis: Protocols for data acquisition and analysis are compared on test samples
+    of amorphous and crystalline silica. Optimal protocols are proposed.
+  tags: data_analysis, lab_data, absorption_corretion
+  title: Protocols for obtaining reliable PDFs from Laboratory x-ray sources using
+    {PDFgetX3}
+  url: ''
+  volume: ''
+  year: '2023'
 schmi;jpcm03:
   author:
     - Schmidt, M.
@@ -11724,6 +11757,37 @@ taher;mrsb23:
     alloys
   url: https://doi.org/10.1557/s43577-023-00591-8
   volume: '48'
+  year: '2023'
+tao;cm23:
+  ackno: Use of the National Synchrotron Light Source II, Brookhaven National Laboratory,
+    was supported by the U.S. Department of Energy, Office of Science, Office of Basic
+    Energy Sciences, under Contract No. DE-SC0012704. PDF analysis, modeling and writing
+    were supported by the U.S. National Science Foundation through grant DMREF-1922234.
+    Nanocrystal synthesis was supported by funding from Ghent University
+  author:
+    - Songsheng Tao
+    - Jonas Billet
+    - Jonathan De Roo
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: nslsii, xpd
+  grant: dmref19
+  journal: Chem Mater
+  month: tbd
+  nb: ' art '
+  note: submitted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: A detailed case study is presented in how to model nanoparticle stucture
+    from the  PDF using diffpy cmi and attenuated crystal models
+  tags: tio2, nanoparticle, oxide_nanoparticle, modeling
+  title: 'Rapid modeling of the local structure of metal oxide nanoparticles from
+    {PDF} data: A Case Study using {TiO$_2$} nanoparticles'
+  url: ''
+  volume: ''
   year: '2023'
 terba;cec22:
   ackno: DH and MM would like to thank University of Trieste for partially funding
@@ -13768,67 +13832,3 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
-scher;jac24:
-  ackno: ''
-  author:
-    - Till Schertenleib
-    - Daniel Schmuckler
-    - Yucong Chen
-    - Geng Bang Jin
-    - Simon~J.~L. Billinge
-  doi: ''
-  entrytype: article
-  facility: nslsii, pdf
-  grant: 3m21
-  journal: J Appl. Crystallogr.
-  month: tbd
-  nb: ''
-  note: submitted
-  number: ''
-  pages: ''
-  professional_summary: Increasingly, there is demand to use laboratory based diffractometers
-    to collect x-ray diffraction data suitable for PDF analysis.  In this paper we
-    explore different protocols for acquiring data, and explore whether it is necessary
-    to carry out an absorption correction when using a Mo Lab source together with
-    the PDFgetX3 data reduction protocols.  The lab-data derived PDFs were compared
-    to those obtained from the same materials but using the commonly used synchrotron
-    Rapid Acquisition PDF approach.
-  synopsis: Protocols for data acquisition and analysis are compared on test samples
-    of amorphous and crystalline silica. Optimal protocols are proposed.
-  tags: data_analysis, lab_data, absorption_corretion
-  title: Protocols for obtaining reliable PDFs from Laboratory x-ray sources using
-    {PDFgetX3}
-  url: ''
-  volume: ''
-  year: '2023'
-tao;cm23:
-  ackno: Use of the National Synchrotron Light Source II, Brookhaven National Laboratory,
-    was supported by the U.S. Department of Energy, Office of Science, Office of Basic
-    Energy Sciences, under Contract No. DE-SC0012704. PDF analysis, modeling and writing
-    were supported by the U.S. National Science Foundation through grant DMREF-1922234.
-    Nanocrystal synthesis was supported by funding from Ghent University
-  author:
-    - Songsheng Tao
-    - Jonas Billet
-    - Jonathan De Roo
-    - Simon J. L. Billinge
-  doi: ''
-  entrytype: article
-  facility: nslsii, xpd
-  grant: dmref19
-  journal: Chem Mater
-  month: tbd
-  nb: ' art '
-  note: submitted
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
-  synopsis: A detailed case study is presented in how to model nanoparticle stucture
-    from the  PDF using diffpy cmi and attenuated crystal models
-  tags: tio2, nanoparticle, oxide_nanoparticle, modeling
-  title: 'Rapid modeling of the local structure of metal oxide nanoparticles from
-    {PDF} data: A Case Study using {TiO$_2$} nanoparticles'
-  url: ''
-  volume: ''
-  year: '2023'
