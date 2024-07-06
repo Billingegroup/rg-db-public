@@ -250,7 +250,7 @@ anker;actaa23:
   optnote: submitted
   pages: 213-220
   professional_summary: Small clusters of atoms in solution or in a nanomaterial are
-    easy to masure using PDF methods, but it is very hard to find models to explain
+    easy to measure using PDF methods, but it is very hard to find models to explain
     the PDFs.  This paper describes an approach where the goal was to search for structural
     motifs (small clusters of well-ordered atoms) from the PDF signal.  Working on
     the assumption that specific types of atoms of will prefer to form lower energy
@@ -13768,3 +13768,110 @@ zhu;gca11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/12zhugca.pdf
   year: '2012'
+scher;jac24:
+  ackno: ''
+  author:
+    - Till Schertenleib
+    - Daniel Schmuckler
+    - Yucong Chen
+    - Geng Bang Jin
+    - Simon~J.~L. Billinge
+  doi: ''
+  entrytype: article
+  facility: nslsii, pdf
+  grant: 3m21
+  journal: J Appl. Crystallogr.
+  month: tbd
+  nb: ''
+  note: submitted
+  number: ''
+  pages: ''
+  professional_summary: Increasingly, there is demand to use laboratory based diffractometers
+    to collect x-ray diffraction data suitable for PDF analysis.  In this paper we
+    explore different protocols for acquiring data, and explore whether it is necessary
+    to carry out an absorption correction when using a Mo Lab source together with
+    the PDFgetX3 data reduction protocols.  The lab-data derived PDFs were compared
+    to those obtained from the same materials but using the commonly used synchrotron
+    Rapid Acquisition PDF approach.
+  synopsis: Protocols for data acquisition and analysis are compared on test samples
+    of amorphous and crystalline silica. Optimal protocols are proposed.
+  tags: data_analysis, lab_data, absorption_corretion
+  title: Protocols for obtaining reliable PDFs from Laboratory x-ray sources using
+    {PDFgetX3}
+  url: ''
+  volume: ''
+  year: '2023'
+tao;cm23:
+  ackno: Use of the National Synchrotron Light Source II, Brookhaven National Laboratory,
+    was supported by the U.S. Department of Energy, Office of Science, Office of Basic
+    Energy Sciences, under Contract No. DE-SC0012704. PDF analysis, modeling and writing
+    were supported by the U.S. National Science Foundation through grant DMREF-1922234.
+    Nanocrystal synthesis was supported by funding from Ghent University
+  author:
+    - Songsheng Tao
+    - Jonas Billet
+    - Jonathan De Roo
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: nslsii, xpd
+  grant: dmref19
+  journal: Chem Mater
+  month: tbd
+  nb: ' art '
+  note: submitted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: A detailed case study is presented in how to model nanoparticle stucture
+    from the  PDF using diffpy cmi and attenuated crystal models
+  tags: tio2, nanoparticle, oxide_nanoparticle, modeling
+  title: 'Rapid modeling of the local structure of metal oxide nanoparticles from
+    {PDF} data: A Case Study using {TiO$_2$} nanoparticles'
+  url: ''
+  volume: ''
+  year: '2023'
+wustr;jacs21:
+  ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
+    Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,
+    Office of Science, Basic Energy Sciences under Award Number DE-SC0019212. This
+    research used resources at beamline 28-ID-2 of the National Synchrotron Light
+    Source II, a U.S. Department of Energy (DOE) Office of Science User Facility operated
+    for the DOE Office of Science by Brookhaven National Laboratory under Contract
+    No. DE-SC0012704. Use of the Advanced Photon Source at Argonne National Laboratory
+    was supported by the U. S. Department of Energy, Office of Science, Office of
+    Basic Energy Sciences, under Contract No. DE-AC02-06CH11357. We thank Christopher
+    L. Rom for XRD plotting software (github.com/CLRom)'
+  author:
+    - Allison Wustrow
+    - Guanglong Huang
+    - Matthew J. McDermott
+    - Daniel O'Nolan
+    - Chia-Hao Liu
+    - Gia Thinh Tran
+    - Brennan C. McBride
+    - Shyam S. Dwaraknath
+    - Karena W. Chapman
+    - Simon J. L. Billinge
+    - Kristin A. Persson
+    - Katsuyo Thornton
+    - James R. Neilson
+  doi: ''
+  entrytype: article
+  facility: xpd, nslsii, aps, 11bm
+  grant: efrc18
+  journal: J. Amer. Chem. Soc.
+  month: tbd
+  nb: ' art '
+  note: submitted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  tags: synthesis, in-situ
+  title: Lowering Ternary Oxide Synthesis Temperatures by Solid State Cometathesis
+    Reactions
+  url: ''
+  volume: ''
+  year: '2021'
