@@ -1216,6 +1216,39 @@
   begin_date: 2023-09-01
   end_date: 2026-08-31
   funder: DOE-BES
+  impacts:
+    principal_discipline:
+      - to enable new science to be carried out from in situ and operando experiments
+        at neutron sources.  This can allow for better understanding of how materials
+        behave in real operating devices.
+    other_discipline: []
+    human_resource_development:
+      - Students are being trained in PDF methods, application of AI/ML to materials
+        science and scattering, and in advanced software development techniques as
+        well as general career development including organizing meetings, project
+        planning, making presentations, making periodic reports and writing papers.
+    physical_infrastructure: []
+    institutional_infrastructure: []
+    information_infrastructure: []
+    technology_transfer: []
+    broader_society: []
+  narrative: 'The main goal of the project is to develop data analysis and knowledge
+    extraction strategies to separate signals in complex data from in situ and operando
+    neutron diffraction measurements. In general, operating devices are highly heterogeneous,
+    made up of different components in complex arrangements on micron and millimeter
+    lengths-scales. \n\n Approaches will take advantage of developments in artificial
+    intelligence and machine learning to separate signals from heterogeneous devices.
+    \n\n We will address two challenges, (1) heterogeneity, requiring the separation
+    and interpretation of overlapping signals, (2) sample non-ideality, where experimental
+    geometries make data non-ideal, for example bad powder averages (spotty data)
+    due to the inability to spin a battery. Other aspects of the problem are the existence
+    of sets of time-series data and  occasionally the need to extract tiny signals
+    from large backgrounds. \n\n The goal is to develop the algorithms, software and
+    computational tools that will allow the community to study complex heterogeneous
+    samples with neutrons. \n\n The work is captured in the hypothesis: It is possible
+    to separate overlapping signals from heterogeneous samples in time of flight neutron
+    experiments by exploiting the high dimensionality of the “experiment parameter
+    space” and using modern algorithms.'
   team:
     - institution: columbiau
       name: Simon Billinge
