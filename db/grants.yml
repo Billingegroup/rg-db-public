@@ -1216,22 +1216,6 @@
   begin_date: 2023-09-01
   end_date: 2026-08-31
   funder: DOE-BES
-  impacts:
-    principal_discipline:
-      - to enable new science to be carried out from in situ and operando experiments
-        at neutron sources.  This can allow for better understanding of how materials
-        behave in real operating devices.
-    other_discipline: []
-    human_resource_development:
-      - Students are being trained in PDF methods, application of AI/ML to materials
-        science and scattering, and in advanced software development techniques as
-        well as general career development including organizing meetings, project
-        planning, making presentations, making periodic reports and writing papers.
-    physical_infrastructure: []
-    institutional_infrastructure: []
-    information_infrastructure: []
-    technology_transfer: []
-    broader_society: []
   narrative: 'The main goal of the project is to develop data analysis and knowledge
     extraction strategies to separate signals in complex data from in situ and operando
     neutron diffraction measurements. In general, operating devices are highly heterogeneous,
