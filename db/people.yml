@@ -69,7 +69,7 @@ aajayi:
       advisor: sbillinge
       status: undergrad
   github_id: aajayi-21
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Adeolu Ajayi
   orcid_id: ''
   position: undergraduate researcher
@@ -357,7 +357,7 @@ ayang:
   email: ay2546@columbia.edu
   employment:
     - begin_date: 2023-06-01
-      end_date: 2023-08-31
+      end_date: 2024-08-31
       organization: columbiau
       position: undergraduate research assistant
       group: bg
@@ -749,15 +749,15 @@ cmyers:
     - begin_date: 2024-02-05
       end_date: 2024-05-12
       organization: columbiau
-      position: masters
+      position: masters researcher
       group: bg
       advisor: sbillinge
-      status: masters
+      status: ms
   github_id: cadenmyers13
   grp_mtg_active: true
   name: Caden Myers
   orcid_id: ''
-  position: masters
+  position: masters researcher
 cseno:
   active: true
   aka: []
@@ -1137,7 +1137,7 @@ dbkim:
       position: Software Engineer Intern
       group: Financial Services
   github_id: davidkim1
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: David Kim Brady
   orcid_id: ''
   position: Undergrad Researcher
@@ -1238,7 +1238,7 @@ dschmuckler:
       advisor: sbillinge
       status: ug
   github_id: schmucklerd
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Daniel Schmuckler
   orcid_id: ''
   position: Undergraduate Researcher
@@ -1324,14 +1324,14 @@ ebohorquez:
   email: eb3280@columbia.edu
   employment:
     - begin_date: 2022-09-01
-      end_date: 2024-12-31
+      end_date: 2025-12-31
       organization: columbiau
       position: graduate research assistant
       group: bg
       advisor: sbillinge
       status: gra
   github_id: steff3280
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Estefania Bohorquez
   orcid_id: ''
   position: graduate research assistant
@@ -1600,7 +1600,7 @@ ekjaer:
   position: visiting student
   position_full: visiting PhD Researcher, U. Copenhagen
 erowbotham:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/rowbotham-evan.png
   bio: bio
@@ -1615,7 +1615,7 @@ erowbotham:
       advisor: sbillinge
       status: undergrad
   github_id: rowbotham-evan
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Evan Rowbotham
   orcid_id: ''
   position: Undergraduate Researcher
@@ -2179,7 +2179,7 @@ iadnan:
       organization: Ministry of Interior, Kuwait
       position: Network engineer intern
   github_id: EngrIbrahimAdnan
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Ibrahim Adnan
   orcid_id: 0009-0007-8256-9733
   position: Masters Researcher
@@ -2199,7 +2199,7 @@ idouglas:
       advisor: sbillinge
       status: undergrad
   github_id: imanis-d
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Imani Douglas
   orcid_id: ''
   position: undergraduate research fellow
@@ -2918,8 +2918,7 @@ llan:
   employment:
     - begin_year: 2020
       begin_month: 8
-      end_year: 2024
-      end_month: 8
+      end_date: 2024-12-31
       organization: columbiau
       position: graduate research assistant
       group: bg
@@ -3867,6 +3866,27 @@ ranselm:
   name: Ryan Anselm
   orcid_id: ''
   position: undergrad researcher
+rdhua:
+  active: true
+  aka:
+    - Rundong Hua
+  avatar: https://github.com/stevenhua0320.png
+  bio: bio
+  education: []
+  email: r.hua@mail.utoronto.ca
+  employment:
+    - begin_date: 2024-05-06
+      end_date: 2024-08-31
+      organization: columbiau
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: stevenhua0320
+  grp_mtg_active: true
+  name: Rundong (Steven) Hua
+  orcid_id: 0009-0003-1947-1857
+  position: undergraduate researcher
 rdifrancesco:
   active: false
   aka: []
@@ -4125,7 +4145,7 @@ sandrello:
   email: sqa2001@columbia.edu
   employment:
     - begin_date: 2023-07-07
-      end_date: 2024-05-31
+      end_date: 2024-08-31
       organization: columbiau
       position: Undergraduate Researcher
       group: bg
@@ -4255,6 +4275,21 @@ sbillinge:
     of Acta Crystallographica Section A: Advances and Foundations. He regularly chairs
     and participates in reviews of major facilities and federally funded programs."
   bios:
+    - Professor Simon Billinge is a professor of Materials Science and of Applied
+      Physics and of Applied Mathematics at Columbia University.  He teaches materials
+      science and data science and carries out scientific research with his group
+      of undergraduate, graduate students and postdoctoral fellows.\n The research
+      involves developing and applying methods to study local structure in materials
+      using x-rays, neutrons and electrons. He got his PhD in 1992 and has been at
+      Columbia since 2008.  Prof. Billinge has published more than 350 papers in scholarly
+      journals.  The ultimate goal is to discover better materials for applications
+      in sustainable energy (batteries and photovoltaics), environmental remediation
+      and health (pharmaceuticals).  The approach is to understand how arrangements
+      of atoms in space give rise to different material properties, so that we can
+      then try and design new materials that have better performance in devices by
+      modifying the atomic arrangements. He loves working with students and in his
+      spare time likes rowing, cooking, gardening and is trying to learn to play guitar
+      which he should have done when he was much younger.
     - "Prof. Billinge earned his Ph.D in Materials Science and Engineering from University
       of Pennsylvania in 1992, following a BA at Oxford University. He spent 2 years
       at Los Alamos National Laboratory in New Mexico as a post-doc before joining
@@ -4327,6 +4362,46 @@ sbillinge:
           a pair distribution function study '
   email: sb2896@columbia.edu
   employment:
+    - organization: iucr
+      begin_year: 2011
+      department: aca
+      not_in_cv: true
+      position: editor
+      coworkers:
+        - aallen
+        - aaltomare
+        - lbourgeois
+        - pdominiak
+        - jeon
+        - ugrimm
+        - dkeen
+        - wkuhs
+        - lmarks
+        - hschenk
+        - ktsuda
+        - ivartaniants
+        - pwillmott
+        - mnespolo
+    - organization: iucr
+      begin_year: 2011
+      department: aca
+      not_in_cv: true
+      position: editor
+      coworkers:
+        - aallen
+        - aaltomare
+        - lbourgeois
+        - pdominiak
+        - jeon
+        - ugrimm
+        - dkeen
+        - wkuhs
+        - lmarks
+        - hschenk
+        - ktsuda
+        - ivartaniants
+        - pwillmott
+        - mnespolo
     - organization: iucr
       begin_year: 2011
       department: aca
@@ -6073,7 +6148,7 @@ ycchen:
   email: yucong.c@columbia.edu
   employment:
     - begin_date: 2023-10-23
-      end_date: 2024-05-31
+      end_date: 2024-08-31
       organization: columbiau
       position: masters researcher
       group: bg
@@ -6083,7 +6158,7 @@ ycchen:
   grp_mtg_active: true
   name: Yucong Chen
   orcid_id: ''
-  position: undergraduate researcher
+  position: masters researcher
 yjhu:
   active: false
   aka:
@@ -6413,7 +6488,7 @@ zzachko:
   email: zz2828@columbia.edu
   employment:
     - begin_date: 2024-01-14
-      end_date: 2024-05-31
+      end_date: 2024-08-31
       organization: columbiau
       position: undergraduate researcher
       group: bg
@@ -6423,7 +6498,7 @@ zzachko:
   grp_mtg_active: true
   name: Zoe Zachko
   orcid_id: ''
-  position: "'undergraduate researcher"
+  position: undergraduate researcher
 zzgong:
   active: false
   aka:
