@@ -5272,7 +5272,7 @@
   begin_date: 2023-12-11
   end_date: 2023-12-15
   location: Aspen Center for Physics, Aspen, CO
-  meeting_name: Disorder and Quantum Phases of Matter
+  meeting_name: Disorder and Quantum Phases of Matter Workshop
   notes: []
   project:
     - all
@@ -5456,6 +5456,36 @@
   title: Supervised and Unsupervised machine learning applied to challenging and rapid
     diffraction and structural problems
   type: invited
+2405sb_erice_ml:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2024-05-31
+  end_date: 2024-06-07
+  location: Erice, Italy
+  meeting_name: 'International School of Crystallography “Powder diffraction: Real
+    materials in the information era'
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: AI and Machine Learning for Powder Crystallographers
+  type: invited
+2405sb_erice_powder:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2024-05-31
+  end_date: 2024-06-07
+  location: Ettore Majorana Foundation and Centre for Scientific Culture, Erice, Italy
+  meeting_name: 'International School of Crystallography “Powder diffraction: Real
+    materials in the information era”'
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Powder Diffraction beyond Powders
+  type: invited
 2405sb_pittsburg,pa:
   abstract: 'The development of crystallography over the previous century has revolutionized
     our ability to understand the material universe. However, crystallography has
@@ -5502,7 +5532,85 @@
   status: declined
   title: na
   type: invited
-2408sb_padova,italy:
+2407sb_spetsesislandingreece:
+  abstract: "Spoiler alert, materials do not have a genome. Yet for the past decade,
+    and into the next decade, in the USA there has been a presidential and inter-agency
+    funding initiative called the 'Materials Genome Initative (MGI)'. This initiative
+    has nothing to do with real genomes, materials or otherwise. However, in this
+    talk I, somewhat whimsically, explore some ideas about what a materials gene could
+    be, and how it could be used to further our understanding of materials structure
+    and properties. The result is a slightly non-conventional, less crystal-centric,
+    view of material structure that we believe can, will, and is, resulting in novel
+    materials insights.  \n I will lay out some mathematical background for candidate
+    materials gene-codings and will discuss how these fit into our new world view,
+    populated as it is with Artificial Intelligence and Machine Learning.  I will
+    also describe some of our efforts to apply ML to the nanostructure inverse problem:
+    given a 1D measured PDF, what is the 3D arrangement of atoms that gave rise to
+    it.  Preliminary results seem to be very promising."
+  authors:
+    - sbillinge
+  begin_date: 2024-07-14
+  end_date: 2024-07-19
+  location: Spetses Island in Greece
+  meeting_name: Joint USA-European Symposium on Machine learning, simulations and
+    experiments for ultra low-power materials and devices
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Do materials have a genome, and if they do, what can be done with it?
+  type: invited
+2407sb_washingtondc:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2024-07-30
+  end_date: 2024-07-31
+  location: Washington DC
+  meeting_name: MGI-PI meeting
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Intrinsic quantum textures: Broken local symmetry in quantum materials'
+  type: poster
+2408sb_padovaecm,italy:
+  abstract: A big discussion in the atomic pair distribution function (PDF) community
+    seems to revolve around "big box" vs "small box" modeling.  In this framing, a
+    big box is a structural model that contains many thousands of atoms and typically
+    uses a stochastic regression algorithm such as simulated annealing, and "small
+    box" modeling has a greatly reduced number of atoms in the box, similar to crystallographic
+    approaches of finding the unit cell and its contents.  In these models, a local
+    search is often carried out over a highly constrained set of parameters.  There
+    are clearly merits to both approaches.  In this talk I will frame the question
+    slightly differently in terms of what I call George Box modeling that takes inspiration
+    from the writings of the famous 20th Century statistician, George Box.  It gives
+    us a slightly different way of looking at the question that may unlock some new
+    insights. \n The session is also about "black boxes".  I will take the discussion
+    further to comment on black boxes, especially in the context of the recent push
+    to apply machine learning (ML) approaches to crystallography problems.  I will
+    also reach out to George Box to help think about black boxes, but will also touch
+    upon interpretable ML and how it can open small windows into black boxes, albeit
+    slightly foggy and possibly distorted windows. I will also describe some of our
+    efforts to apply ML to the nanostructure inverse problem, i.e., given a 1D measured
+    PDF, what is the 3D arrangement of atoms that gave rise to it.  Preliminary results
+    seem to be very promising, for example the DeepStruc autoencoder deep neural network
+    model that was developed together with the groups of Kirsten Jensen and Raghav
+    Selven in Copenhagen [1] illustrated in the figure, but can the results be trusted?
+  authors:
+    - sbillinge
+  begin_date: 2024-08-26
+  end_date: 2024-08-30
+  location: Padova, Italy
+  meeting_name: 34th European Crystallographic Meeting (ECM34)
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Big box, small box, black box, George Box: some personal thoughts on determination
+    and interpretation of structural models'
+  type: invited
+2408sb_padovaepdic,italy:
   abstract: At the heart of powder diffraction is the idea that we are studying real
     materials doing real things, often in real devices.  It is now possible to solve
     single crystal structures from tiny crystals that are smaller than powder grains
@@ -5526,7 +5634,7 @@
   begin_date: 2024-08-30
   end_date: 2024-09-02
   location: Padova, Italy
-  meeting_name: European Powder Diffraction Conference 2024
+  meeting_name: Eighteenth European Powder Diffraction Conference (EPDIC18) 2024
   notes: []
   project:
     - all

@@ -250,7 +250,7 @@ anker;actaa23:
   optnote: submitted
   pages: 213-220
   professional_summary: Small clusters of atoms in solution or in a nanomaterial are
-    easy to masure using PDF methods, but it is very hard to find models to explain
+    easy to measure using PDF methods, but it is very hard to find models to explain
     the PDFs.  This paper describes an approach where the goal was to search for structural
     motifs (small clusters of well-ordered atoms) from the PDF signal.  Working on
     the assumption that specific types of atoms of will prefer to form lower energy
@@ -1026,7 +1026,14 @@ billi;aa24:
   number: '2'
   optnote: Submitted
   pages: 102-105
-  synopsis: the history of ML in the IUCr journals is reviewed
+  professional_summary: An overview is presented of the virtual special issue on Machine
+    Learning in crystallography and structural science, as represented in Acta Crystallographica
+    Sections A, B and D, IUCrJ and J. Synchrotron Radiation.  Some terms and concepts
+    related to Artificial Intelligence and Machine Learning are briefly introduced
+    and described and a brief history presented of ML in structure science as it appeared
+    in the IUCr journals to whet the appetite for the rest of the special issue.
+  synopsis: The article introduces the Virtual Special Edition on Machine learning
+    in crystallography and structural science of the IUCr journals.
   tags: ml
   title: Machine learning in crystallography and structural science
   url: https://doi.org/10.1107/S2053273324000172
@@ -1125,8 +1132,14 @@ billi;b;apdfap24:
   month: feb
   nb: ' book, pdf, highlight, typeA, fy12 '
   optnote: ''
+  professional_summary: This book presents introductory examples of solving scientific
+    problems using PDF analysis.  It addresses a gap in the literature between high
+    level reference works such as the "Underneath the Bragg Peaks" books and "getting
+    started" tutorials that come along with PDF software programs.  The reader is
+    taken step by step through scientific examples in the literature, including code
+    examples, that they can use as templates for studies in their own research.
   publisher: Oxford University Press
-  synopsis: The PDF to the people book.
+  synopsis: The PDF to the people book
   tags: highlight, review, book
   title: 'Atomic pair distribution function analysis: a primer'
   url: 
@@ -1837,7 +1850,23 @@ billi;m24:
   note: Submitted
   number: ''
   pages: ''
-  synopsis: the history of ML in the IUCr journals is reviewed
+  professional_summary: 'An emerging technology for obtaining pure water from highly
+    saline brines, and also for chemical extractions from similar feedstocks, is to
+    use thermal solvent swing extraction (TSSE) methods.  These rely on liquids with
+    a very special property: They exhibit the rare lower critical solution temperature
+    (LCST) phenomenon.  Liquid mixtures with this phenomenon phase separate at high
+    temperature but mix at lower temperature, the opposite of the canonical behavior
+    of immiscible liquids which mix at high temperature due to the higher entropy
+    of mixing. Hypotheses suggest that LCST behavior is driven by molecular clustering
+    in the liquid mixture, but despite almost of 100 years since this mechanism was
+    first hypothesized, there is no direct experimental support for it.  In this work
+    we developed a double-differential PDF analysis technique on synchrotron x-ray
+    data, combined with small angle scattering data, collected as a function of composition
+    and temperature to convincingly show dumbbell like amine-water-amine structures
+    that form into very stable reverse micelle structures.'
+  synopsis: A double-differential PDF method is developed and used to verify and characterize
+    molecular clustering in technologically important Upper Critical Solution Temperature
+    materials for the first time
   tags: amine, liquid, lcst
   title: A structural underpinning of the lower critical solution temperature (LCST)
     behavior behind temperature-switchable liquids
@@ -4998,7 +5027,7 @@ frank;unpub23:
   doi: ''
   entrytype: article
   facility: maxiv, desy
-  grant: null
+  grant: efrc18
   journal: J. Appl. Crystallogr.
   month: tbd
   nb: ''
@@ -5796,10 +5825,26 @@ guo;unpub23:
   optannote: ''
   optwwwlanl: ''
   pages: ''
-  synopsis: ''
+  professional_summary: Structure solution from powder diffraction data is a challenging
+    task and often fails.  It is necessary when single crystals are not available
+    for a compound.  The current process involves taking high quality powder diffraction
+    data, indexing it to obtain the unit cell and labelling the Bragg peaks with hkl
+    values, then using direct methods or real-space methods to get atomic arrangements
+    in the unit cell. In this work we explore using an ML model to do an end-to-end
+    structure solution from powder data.  A convolutional variational autoencoder
+    is used and given powder diffraction data and some compositional information.  It
+    outputs a continuous electron density distribution in a distorted Euclidean space,
+    which can then be inverse mapped back to a crystal structure.  It shows promise
+    at discovering the unit cell and atomic positions directly from the input information
+    without navigating the human intensive workflows of current methods.  It works
+    on a wide range of inorganic compounds from the ICSD database, including oxides
+    and chalcogenides, currently restricted to cubic and trigonal space-groups.
+  synopsis: An AI/ML model for structure solution from powder diffraction data is
+    presented.  It takes XRPD data to 3D electron density and then structures and
+    is demonstrated for cubic and trigonal structures as a proof of concept
   tags: structure_prediction, powder_diffraction, ml
-  title: Towards end-to-end structure solutions from information-compromised diffraction
-    data via generative deep learning
+  title: Towards End-to-End Structure Determination from X-Ray Diffraction Data Using
+    Deep Learning
   url: https://arxiv.org/abs/2312.15136
   volume: ''
   wwwemail: ''
@@ -7116,6 +7161,58 @@ kjaer;dd22:
   volume: '2'
   wwwemail: ''
   year: '2023'
+kjaer;dd24:
+  ackno: This work is part of a project that has received funding from the European
+    Research Council (ERC) under the European Union's Horizon 2020 Research and Innovation
+    Program (grant agreement No. 804066). We are grateful to the Villum Foundation
+    for financial support through a Villum Young Investigator grant (VKR00015416).
+    Funding from the Danish Ministry of Higher Education and Science through the SMART
+    Lighthouse is gratefully acknowledged. We acknowledge support from the Danish
+    National Research Foundation Center for High Entropy Alloy Catalysis (DNRF 149).
+    AK gratefully acknowledges the Deutsche Forschungsgemeinschaft (DFG, German science
+    foundation) for funding of the project Ki 2427/1-1 (# 429360100). Work in the
+    Billinge group was supported by the U.S. Department of Energy, Office of Science,
+    Basic Energy Sciences under Award Number DE-SC0019212. We acknowledge DESY (Hamburg,
+    Germany), a member of the Helmholtz Association HGF, for the provision of experimental
+    facilities. Parts of this research were carried out at PETRA III beamline P02.1
+    and P21.1. Beamtime was allocated for proposal I-20210486 EC.
+  author:
+    - Emil T. S. Kjær
+    - Andy S. Anker
+    - Andrea Kirsch
+    - Joakim Lajer
+    - Olivia Aalling-Frederiksen
+    - Simon J. L. Billinge
+    - Kirsten M. Ø. Jensen
+  doi: 10.1039/D4DD00001C
+  entrytype: article
+  facility: desy, petraiii, p02.1
+  grant: efrc18
+  journal: Digital Discovery
+  month: mar
+  nb: wrong grant but efrc18 is what is in the acknos.   Submit an erratum to switch
+    to doeneutron?
+  note: ''
+  number: ''
+  pages: 908-918
+  professional_summary: Finding the structure of a material from a diffraction or
+    PDF signal is still a slightly tedious job even when it is a known material and
+    the structure resides in a database. The StructureMining app at the pdfitc.org
+    ``PDF in the cloud" site serves this role for PDF data.  It finds all candidate
+    structures in the database that satisfy a filter and then carries out a quick
+    and dirty structure refinement to the uploaded dataset.  This paper describes
+    an effort to accelerate this process by pre-training a machine-learning model
+    to return matches from the database without doing the refinement step.  It was
+    trained on a relatively limited array of oxide materials, but works well for materials
+    in that class.
+  synopsis: A machine learning model is trained for accelerating the StructureMining
+    activity.  It works well for a limited number of oxide systems.
+  tags: modeling, model_screening, crystals, nanoparticles
+  title: 'MLstructureMining: A machine learning tool for structure identification
+    from X-ray pair distribution function data'
+  url: https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00001c
+  volume: '3'
+  year: '2024'
 knox;prb13:
   author:
     - Knox, K. R.
@@ -8369,29 +8466,20 @@ lo;nc19:
   wwwpub: ''
   year: '2019'
 lomba;jcp24:
-  ackno: The prospect of creating ferroelectric or high permittivity nanomaterials
-    provides motivation for investigating complex transition metal oxides of the form
-    Ba(Ti,MV)O3, where M= Nb or Ta. Solid state processing typically produces mixtures
-    of crystalline phases, rarely beyond minimally doped Nb/Ta. Using a modified sol-gel
-    method, we prepared single phase nanocrystals of Ba(Ti, M)O3. Compositional and
-    elemental analysis puts the empirical formulas close to BaTi0.5Nb0.5O3−$\delta$
-    and BaTi0.5Ta0.5O3−$\delta$. For both materials, a reversible temperature dependent
-    phase transition (non-centrosymmetric to symmetric) is observed in the Raman spectrum
-    in the region 533–583 K (260–310 XC); for Ba(Ti, Nb)O3, the onset is at 543 K
-    (270 XC); and for Ba(Ti, Ta)O3, the onset is at 533 K (260 XC), which are comparable
-    with 390–393 K (117–120 XC) for bulk BaTiO3. The crystal structure was resolved
-    by examination of the powder x-ray diffraction and atomic pair distribution function
-    (PDF) analysis of synchrotron total scattering data. It was postulated whether
-    the structure adopted at the nanoscale was single or double perovskite. Double
-    perovskites (A2B'B''O6) are characterized by the type and extent of cation ordering,
-    which gives rise to higher symmetry crystal structures. PDF analysis was used
-    to examine all likely candidate structures and to look for evidence of higher
-    symmetry. The feasible phase space that evolves includes the ordered double perovskite
-    structure Ba2(Ti, MV)O6 (M = Nb, Ta) Fm-3m, a disordered cubic structure, as a
-    suitable high temperature analog, Ba(Ti, MV)O3 Pm-3m, and an orthorhombic Ba(Ti,
-    MV)O3 Amm2, a room temperature structure that presents an unusually high level
-    of lattice displacement, possibly due to octahedral tilting, and indication of
-    a highly polarized crystal.
+  ackno: 'This work was partly supported by the National Science Foundation, under
+    NSF DMR Award No. 1461499, NSF CREST No. 2112550, and NSF DGE No. 2151945. S.O.
+    is grateful to the PSC-CUNY Research Awards Program for additional support. S.O.
+    and J.L. thank Dr. Ali Younes (Hunter College, CUNY) for assistance with the ICP-OES
+    data collection. The PDF data collection, analysis, and modeling were supported
+    as part of GENESIS: A Next Generation Synthesis Center, an Energy Frontier Research
+    Center funded by the U.S. Department of Energy, Office of Science, Basic Energy
+    Sciences under Award No. DE-SC0019212. X-ray PDF measurements were conducted at
+    beamline 28-ID-2 of the National Synchrotron Light Source II, a U.S. Department
+    of Energy (DOE) Office of Science User Facility operated for the DOE Office of
+    Science by Brookhaven National Laboratory under Contract No. DE-SC0012704. A.J.R.
+    and J.E.S. acknowledge support from the U.S. Army Research Office under Grant
+    No. W911NF-21-1-0126, the U.S. Army Research Laboratory under cooperative agreement
+    No. W911NF-19-2-0119, and the National Science Foundation under DMR 1608887.'
   author:
     - Julien Lombardi
     - Long Yang
@@ -8406,56 +8494,24 @@ lomba;jcp24:
   facility: nslsii, xpd
   grant: efrc18
   journal: J. Chem. Phys.
-  month: feb
+  month: apr
   nb: ''
   notes: ''
   number: ''
   optnote: submitted
-  pages: ''
+  pages: '134702'
   synopsis: A novel sol-gel method is used to make barium titanate nanoparticles with
     high dopings of barium and tantalum that have high dielectric permittivity.  These
     are difficult to make by conventional methods but have potential applications.  Extensive
-    x-ray PDF characterizations were carried out to verify structure.
-  tags: nanoparticle, batio3, perovskite
+    x-ray PDF characterizations were carried out to verify structure. They are shown
+    by PDF to be non-centrosymmetric and therefore potentiall ferroic. Their structural
+    phase transition temperatures are increased by the doping.
+  tags: nanoparticle, batio3, perovskite, bto, ferroelectricity
   title: Structure and phase transitions in niobium and tantalum derived nanoscale
     transition metal perovskites, {Ba(Ti,M$^V$)O$_3$}, {M=Nb},{Ta}
   url: https://doi.org/10.1063/5.0192488
   volume: '160'
   year: '2024'
-lomba;tbd23:
-  ackno: ''
-  author:
-    - Julien Lombardi
-    - Long Yang
-    - Nasim Farahmand
-    - Anthony Ruffino
-    - Ali Younes
-    - Jonathan Spanier
-    - Simon J. L. Billinge
-    - Stephen O’Brien
-  doi: ''
-  entrytype: article
-  facility: nslsii, bnl, xpd
-  grant: efrc18
-  journal: tbd
-  month: tbd
-  nb: ''
-  note: Submitted
-  number: ''
-  optannote: ''
-  optwwwlanl: ''
-  pages: ''
-  professional_summary: ''
-  synopsis: Nanosized ferroelectric perovskites are synthesized at low temperature.  This
-    approach allows much more Nb/Ta to go in. They are shown by PDF to be non-centrosymmetric
-    and therefore potentiall ferroic. Their structural phase transition temperatures
-    are increased by the doping.
-  tags: bto, ferroelectricity, nanoparticle
-  title: Structure and phase transitions in niobium and tantalum derived nanoscale
-    transition metal perovskites, {Ba(Ti,M$^V$)O$_3$ M=Nb,Ta}
-  url: .
-  volume: ''
-  year: '2023'
 lombardi;cm19:
   author:
     - Lombardi, Julien
@@ -10836,6 +10892,18 @@ sbilli;m24:
   notes: ''
   number: ''
   pages: ''
+  professional_summary: The materials genome project is a major inter-agency initiative
+    in the USA to use "genomic-like" informatic methods to accelerate the discovery,
+    development and deployment of new materials in devices.  It gets its name from
+    the highly successful "Human Genome Project" of the 1990's which had the goal
+    of sequencing the human genome, but which enables the development of understanding
+    of, and therapies for, diseases developed using informatic methods, despite the
+    fact that materials do not have a genome.  In this paper we explore whether we
+    can actually define a materials genome if we define a gene as a 1D code that codes
+    for 3D atomic structure, much as DNA does for folded proteins.  We explore whether
+    the atomic pair distribution function (PDF) can fulfill this role, and further,
+    if we do use the PDF, and other mathematical invariants based on the PDF, what
+    new discoveries and insights about materials might emerge.
   synopsis: The PDF is discussed as a possible example of a materials genome
   tags: materials_genome, clusterography
   title: Do materials have a genome, and if they do, what can be done with it?
@@ -10866,6 +10934,39 @@ scard;aca16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/me0628.pdf
   year: '2016'
+scher;jac24:
+  ackno: ''
+  author:
+    - Till Schertenleib
+    - Daniel Schmuckler
+    - Yucong Chen
+    - Geng Bang Jin
+    - Simon~J.~L. Billinge
+  doi: ''
+  entrytype: article
+  facility: nslsii, pdf
+  grant: 3m21
+  journal: J Appl. Crystallogr.
+  month: tbd
+  nb: ''
+  note: submitted
+  number: ''
+  pages: ''
+  professional_summary: Increasingly, there is demand to use laboratory based diffractometers
+    to collect x-ray diffraction data suitable for PDF analysis.  In this paper we
+    explore different protocols for acquiring data, and explore whether it is necessary
+    to carry out an absorption correction when using a Mo Lab source together with
+    the PDFgetX3 data reduction protocols.  The lab-data derived PDFs were compared
+    to those obtained from the same materials but using the commonly used synchrotron
+    Rapid Acquisition PDF approach.
+  synopsis: Protocols for data acquisition and analysis are compared on test samples
+    of amorphous and crystalline silica. Optimal protocols are proposed.
+  tags: data_analysis, lab_data, absorption_corretion
+  title: Protocols for obtaining reliable PDFs from Laboratory x-ray sources using
+    {PDFgetX3}
+  url: ''
+  volume: ''
+  year: '2023'
 schmi;jpcm03:
   author:
     - Schmidt, M.
@@ -11656,6 +11757,37 @@ taher;mrsb23:
     alloys
   url: https://doi.org/10.1557/s43577-023-00591-8
   volume: '48'
+  year: '2023'
+tao;cm23:
+  ackno: Use of the National Synchrotron Light Source II, Brookhaven National Laboratory,
+    was supported by the U.S. Department of Energy, Office of Science, Office of Basic
+    Energy Sciences, under Contract No. DE-SC0012704. PDF analysis, modeling and writing
+    were supported by the U.S. National Science Foundation through grant DMREF-1922234.
+    Nanocrystal synthesis was supported by funding from Ghent University
+  author:
+    - Songsheng Tao
+    - Jonas Billet
+    - Jonathan De Roo
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: nslsii, xpd
+  grant: dmref19
+  journal: Chem Mater
+  month: tbd
+  nb: ' art '
+  note: submitted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: A detailed case study is presented in how to model nanoparticle stucture
+    from the  PDF using diffpy cmi and attenuated crystal models
+  tags: tio2, nanoparticle, oxide_nanoparticle, modeling
+  title: 'Rapid modeling of the local structure of metal oxide nanoparticles from
+    {PDF} data: A Case Study using {TiO$_2$} nanoparticles'
+  url: ''
+  volume: ''
   year: '2023'
 terba;cec22:
   ackno: DH and MM would like to thank University of Trieste for partially funding

@@ -419,6 +419,17 @@ nanostructure_problem:
     - doeneutron23
     - efrc18
     - tri22
+  highlights:
+    - year: 2024
+      month: 3
+      description: 'Publication in ChemComm was selected to feature in an online collection
+        highlighting 60 pioneering historic papers from North America.  The paper
+        is Beyond crystallography: the study of disorder, nanocrystallinity and crystallographically
+        challenged materials with pair distribution functions (DOI:10.1039/b309577k)'
+    - year: 2024
+      month: 3
+      description: 3.3.1 Release of diffpy.utils software with new diffraction software
+        objects, new precise interpolation function, and bugfixes.
   name: The nanostructure inverse problem
   team:
     - name: sbillinge
@@ -426,6 +437,7 @@ nanostructure_problem:
       begin_year: 2016
   type: funded
 pytentiostat:
+  active: false
   description: Outreach project to develop an affordable potentiostat based on the
     arduino platform, and hands-on workshops to train users in East Africa to use
     it.

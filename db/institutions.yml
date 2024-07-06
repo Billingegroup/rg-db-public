@@ -3079,6 +3079,21 @@ unisa:
   name: University of Salerno
   state: ''
   zip: '84084'
+unotredame:
+  aka:
+    - Nore Dame
+    - NDU
+  city: Notre Dame
+  country: USA
+  date: 2024-06-02
+  departments:
+    physics:
+      name: Department of Physics
+  name: University of Notre Dame
+  state: IN
+  updated: 2024-06-02 05:53:15.256383
+  uuid: 2eae06e1-8d50-4f94-9301-05468d2b9a10
+  zip: '46556'
 unsw:
   city: Sydney
   country: Australia
