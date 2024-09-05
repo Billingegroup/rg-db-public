@@ -5529,15 +5529,15 @@ sjblee:
     - begin_date: 2024-07-28
       end_date: 2024-12-31
       organization: columbiau
-      position: undergraduate researcher
+      position: masters researcher
       group: bg
       advisor: sbillinge
-      status: undergrad
+      status: ms
   github_id: bobleesj
   grp_mtg_active: true
   name: Sangjoon Bob Lee
   orcid_id: 0000-0002-2367-3932
-  position: undergraduate researcher
+  position: masters researcher
 smayers:
   active: false
   aka:
