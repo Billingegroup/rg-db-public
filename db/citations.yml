@@ -386,6 +386,36 @@ anker;npjcm22:
   url: https://doi.org/10.1038/s41524-022-00896-3
   volume: '8'
   year: '2022'
+guo;npjcm24:
+  ackno: Work in the Lipson group was supported by U.S. National Science Foundation under AI Institute for 
+    Dynamical Systems grant 372 2112085. Work in the Billinge group was supported by the U.S. Department of 
+    Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0024141.
+  author:
+    - Gabe Guo
+    - Judah Goldfeder
+    - Ling Lan
+    - Aniv Ray
+    - Albert Hanming Yang
+    - Boyuan Chen
+    - Simon J. L. Billinge
+    - Hod Lipson
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: doeneutron23
+  journal: npj Computational Materials
+  month: ''
+  nb: ''
+  number: ''
+  note: to be published.  Available on arXiv
+  pages: ''
+  professional_summary: ""
+  synopsis: ''
+  tags: ml, structure_solution, modeling
+  title:
+  url: https://doi.org/10.1038/s41524-022-00896-3
+  volume: '8'
+  year: '2022'
 antic;jpcm13:
   author:
     - Antic, B.
@@ -5468,17 +5498,27 @@ greta;prl13:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/gretarsson_prl13.pdf
   year: '2013'
 griff;unpub23:
-  ackno: Work at Brookhaven National Laboratory was supported by the U.S. Department
-    of Energy, Office of Science, Office of Basic Energy Sciences, under Contract
-    No. DE-SC0012704. Use of the Linac Coherent Light Source (LCLS), SLAC National
-    Accelerator Laboratory, is supported by the U.S. Department of Energy, Office
-    of Science, Office of Basic Energy Sciences under Contract No. DE-AC02-76SF00515.
-    This work was supported by the National Institutes of Health grant S10 OD023453.
-    We would like to thank Andrey A. Yakovenko and Uta Ruett for help with reference
-    synchrotron measurements of equilibrium CuIr2S4. The measurements were carried
-    out at the Advanced Photon Source (APS) beamline 11-ID-C, which was supported
-    by the U. S. Department of Energy, Office of Science, Office of Basic Energy Sciences,
-    under Contract No. DE-AC02-06CH11357.
+  ackno: Work at Brookhaven National Laboratory was supported by the US Department
+    of Energy, Office of Science, Office of Basic Energy Sciences, under contract
+    no. DE-SC0012704 (J.G., A.F.S., L.W., M.P.M.D., I.R. and S.J.L.B). Sample preparation
+    utilized the resources of the Center for Functional Nanomaterials at Brookhaven
+    National Laboratory also funded under contract no. DE-SC0012704. Use of the Linac
+    Coherent Light Source (LCLS), SLAC National Accelerator Laboratory, is supported
+    by the US Department of Energy, Office of Science, Office of Basic Energy Sciences,
+    under contract no. DE-AC0276SF00515 (V.E. and S.B.). The use of the Rayonix 340
+    detector at the MFX beamline was supported by the National Institutes of Health
+    grant S10 OD023453 (S.B.). Work at Argonne National Laboratory (sample synthesis
+    and characterization) was supported by the US Department of Energy, Office of
+    Science, Basic Energy Sciences, Materials Science and Engineering Division (J.F.M.).
+    We gratefully acknowledge support from the US Department of Energy, Office of
+    Science, under grant no. DE-FG02-04ER46147 (S.D.M. and P.G.E.) and from the US
+    NSF through the University of Wisconsin Materials Research Science and Engineering
+    Center (DMR-2309000 and DMR-1720415) (S.D.M. and P.G.E.). Work performed at University
+    College London was supported by EPSRC (I.R.). We would like to thank A. A. Yakovenko
+    and U. Ruett for help with the reference synchrotron measurements of equilibrium
+    CIS. These reference measurements were carried out at the Advanced Photon Source
+    (APS) beamline 11-ID-C, which was supported by the US Department of Energy, Office
+    of Science, Office of Basic Energy Sciences, under contract no. DE-AC02-06CH11357.
   author:
     - Jack Griffiths
     - Ana Flávia Suzana
@@ -5493,24 +5533,35 @@ griff;unpub23:
     - Ian Robinson
     - Simon J. L. Billinge
     - Emil S. Bozin
-  doi: ''
+  doi: 10.1038/s41563-024-01927-8
   entrytype: article
   facility: slac lcls aps 11idc
   grant: fwp20
   journal: Nature Materials
-  month: tbd
+  month: jun
   nb: ''
-  note: to be published
   number: ''
-  pages: ''
-  professional_summary: ''
-  synopsis: ''
+  optnote: to be published
+  pages: 1041–1047
+  professional_summary: A key challenge in materials is understanding how they transition
+    from one phase to another, the so-called reaction coordinate. In principle, the
+    ability to measure time-resolved atomic pair distribution functions with sub-picosecond
+    time resolution could solve this challenge as the PDF can show quantitatively
+    how atoms move with respect to each other as a following a exciting stimulus.  A
+    major challenge is to carry out these experiments in using the X-ray free electron
+    lasers (XFELs) that can provide this time resolution in prinicple.  This experiment
+    demonstrates that this is possile, opening the door to future such experiments
+    on a wide range of materials. In this case, the destruction of an ordered charge
+    density wave state at the metal-insulator transition of the quantum material,
+    CuIr2S2, was studied.
+  synopsis: The first fully quantitative ultra-fast PDF experiment is demonstrated
+    from data from the LCLS at SLAC
   tags: ufpdf, cis, dimer, ultra_fast
-  title: Resolving length scale dependent transient disorder through an ultrafast
+  title: Resolving length-scale-dependent transient disorder through an ultrafast
     phase transition
-  url: ''
-  volume: ''
-  year: '2023'
+  url: https://doi.org/10.1038/s41563-024-01927-8
+  volume: '23'
+  year: '2024'
 gu;aca19:
   ackno: This research was supported by the US National Science Foundation (NSF) through
     grant DMREF-1534910. SB acknowledges support from the National Defense Science
@@ -5577,15 +5628,18 @@ gu;aca23:
   wwwemail: ''
   wwwpub: ''
   year: '2023'
-gu;unpublished23:
-  ackno: We would like to thank Dr. Daniel Olds, for assistance during the measurements
+gu;npjcm24:
+  ackno: 'We would like to thank Dr. Daniel Olds, for assistance during the measurements
     of the experimental PDF data. The work described here was funded by the Next Generation
     Synthesis Center (GENESIS), an Energy Frontier Research Center funded by the U.S.
     Department of Energy, Office of Science, Basic Energy Sciences under Award Number
     DE-SC0019212. X-ray PDF measurements were conducted on beamline 28-ID-2 of the
     National Synchrotron Light Source II, a US DOE Office of Science User Facility
     operated for the DOE Office of Science by Brookhaven National Laboratory under
-    contract No. DESC0012704.
+    contract No. DESC0012704. Q.D. is also partially supported by DOE-ASCRDE-SC0022317.
+    G.E.K received training and support as a part of QuADS: Quantitative Analysis
+    of Dynamic Structures National Science Foundation Research Traineeship Program,
+    grant number NSF DGE 1922639.'
   author:
     - Ran Gu
     - Yevgeny Rakita
@@ -5599,25 +5653,25 @@ gu;unpublished23:
     - Karena W. Chapman
     - Qiang Du
     - Simon J. L. Billinge
-  doi: ''
+  doi: 10.1038/s41524-024-01377-5
   entrytype: article
   facility: nslslii, xpd
   grant: efrc18
-  journal: arXiv
-  month: tbd
+  journal: npj Comp. Mater.
+  month: aug
   nb: fy24, typeA
-  note: arXiv:2311.15173 [cond-mat.mtrl-sci]
   number: ''
   optannote: ''
-  pages: ''
+  optnote: arXiv:2311.15173 [cond-mat.mtrl-sci]
+  pages: '193'
   synopsis: stretched and sparse-stretched NMF unsupervised ML algorithms are described
     and tested against temperature dependent x-ray data from in situ inorganic chemical
     synthesis experiments.
   tags: ml, nmf, synthesis, in-situ
-  title: Stretched Non-negative Matrix Factorization
-  url: http://arxiv.org/abs/2311.15173
-  volume: ''
-  year: '2023'
+  title: Stretched non-negative matrix factorization
+  url: https://doi.org/10.1038/s41524-024-01377-5
+  volume: '10'
+  year: '2024'
 gualt;jac08:
   author:
     - Gualtieri, A. F.

@@ -1195,7 +1195,7 @@
   title: Towards a machine readable literature
 22_tri:
   amount: 290000
-  awardnr: n/a
+  awardnr: PO-002332
   begin_date: 2023-01-01
   end_date: 2024-12-31
   funder: Toyota Research Institute
@@ -1216,7 +1216,7 @@
   begin_date: 2023-09-01
   end_date: 2026-08-31
   funder: DOE-BES
-  narrative: 'The main goal of the project is to develop data analysis and knowledge
+  narrative: 'Fixme The main goal of the project is to develop data analysis and knowledge
     extraction strategies to separate signals in complex data from in situ and operando
     neutron diffraction measurements. In general, operating devices are highly heterogeneous,
     made up of different components in complex arrangements on micron and millimeter
