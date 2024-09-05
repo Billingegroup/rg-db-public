@@ -87,6 +87,12 @@
     "description": "The zipcode of the school",
     "required": false,
     "type": ["string", "integer"]}
+  },
+  "presentations": {
+   "subtitle": {
+    "description": "The subtitle",
+    "required": false,
+    "type": "string"}
   }
  },
   "repos": [{"_id": "talk_repo",
