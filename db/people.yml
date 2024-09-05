@@ -4677,6 +4677,23 @@ sbillinge:
       begin_year: 1987
   service:
     - type: profession
+      name: External PhD examiner for PhD student Rasmus Stubkjær Christensen of Aarhus
+        University
+      month: 12
+      year: 2024
+      role: member
+      other: []
+    - type: profession
+      name: Member of the external advisory board, of the FULL-MAP project (Furthering
+        the development of a materials acceleration platform for sustainable batteries
+        (combining AI, big data, autonomous synthesis robotics, high throughput testing)
+        (Batt4EU Partnership)) at Vrije Universiteit Brussels
+      month: 12
+      begin_date: 2024-08-01
+      end_date: 2027-07-31
+      role: member
+      other: []
+    - type: profession
       name: Review panel for Linear Coherent Light Source
       month: 4
       year: 2024
@@ -5501,6 +5518,26 @@ sharouna-mayer:
   grp_mtg_active: false
   name: Sani Harouna-Mayer
   position: visiting student
+sjblee:
+  active: true
+  aka: []
+  avatar: https://github.com/bobleesj.png
+  bio: bio
+  education: []
+  email: sl5400@columbia.edu
+  employment:
+    - begin_date: 2024-07-28
+      end_date: 2024-12-31
+      organization: columbiau
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: bobleesj
+  grp_mtg_active: true
+  name: Sangjoon Bob Lee
+  orcid_id: 0000-0002-2367-3932
+  position: undergraduate researcher
 smayers:
   active: false
   aka:
@@ -6148,7 +6185,7 @@ ycchen:
   email: yucong.c@columbia.edu
   employment:
     - begin_date: 2023-10-23
-      end_date: 2024-08-31
+      end_date: 2025-05-31
       organization: columbiau
       position: masters researcher
       group: bg

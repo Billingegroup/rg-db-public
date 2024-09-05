@@ -5561,7 +5561,7 @@
   title: Do materials have a genome, and if they do, what can be done with it?
   type: invited
 2407sb_washingtondc:
-  abstract: tbd
+  abstract: na
   authors:
     - sbillinge
   begin_date: 2024-07-30
@@ -5607,10 +5607,56 @@
   project:
     - all
   status: accepted
-  title: 'Big box, small box, black box, George Box: some personal thoughts on determination
-    and interpretation of structural models'
+  subtitle: Some personal thoughts on determination and interpretation of structural
+    models
+  title: Big box, small box, black box, George Box
   type: invited
-2408sb_padovaepdic,italy:
+2408sb_padovasoftwarefayre,italy:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2024-08-26
+  end_date: 2024-08-30
+  location: Padova, Italy
+  meeting_name: Software Fayre of the European Powder Diffraction Conference (EPDIC)
+    18
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Updates on PDF modeling software with diffpy-cm
+  type: invited
+2409sb_krakow,poland:
+  abstract: At the heart of materials science studies for next generation materials
+    is an idea that we want to be studying real materials doing real things, often
+    in real devices.  In practice, this presents a number of key data analysis and
+    interpretation challenges because it implies we are studying ever more complicated
+    samples, often in complex heterogeneous environments and in time-resolved operando
+    setups, and we are interrogating our data for more and more subtle effects such
+    as microstructures and evolving defects and local structures. Advanced data analysis
+    algorithms and software are essential for the success of this enterprise.  In
+    this talk I will describe various developments that leverage the power of artificial
+    intelligence (AI), principally machine learning (ML), to aid in this task.  Some
+    of these powerful tools are clearly ready to be applied more broadly in the community
+    and others are still in the future but look very promising.  They include unsupervised
+    and supervised machine learning approaches, conventional ML and deep neural networks,
+    including generative models, as well as approaches for autonomous time-resolved
+    experimentation. I will lay out various aspects of ML in structure science using
+    examples from our own work.
+  authors:
+    - sbillinge
+  begin_date: 2024-09-01
+  end_date: 2024-09-08
+  location: Krakow, Poland
+  meeting_name: Swedish-German R\ontgen-\AAngstrom cluster (R\AA C) conference on
+    "X-ray and neutron research on bio-inspired materials and sustainable energy technology
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: '{AI} in material structure research: basics and applications'
+  type: invited
+2409sb_padovaepdic,italy:
   abstract: At the heart of powder diffraction is the idea that we are studying real
     materials doing real things, often in real devices.  It is now possible to solve
     single crystal structures from tiny crystals that are smaller than powder grains
@@ -5639,6 +5685,69 @@
   project:
     - all
   status: accepted
-  title: '{AI} at your service: {AI} as a tool for extracting more science, more easily
-    from powder diffraction data'
+  subtitle: '{AI} as a tool for extracting more science, more easily from powder diffraction
+    data'
+  title: '{AI} at your service'
+  type: invited
+2411sb_tsukuba,japan:
+  abstract: At the heart of materials science studies for next generation materials
+    is an idea that we want to be studying real materials doing real things, often
+    in real devices.  In practice, this presents a number of key data analysis and
+    interpretation challenges because it implies we are studying ever more complicated
+    samples, often in complex heterogeneous environments and in time-resolved operando
+    setups, and we are interrogating our data for more and more subtle effects such
+    as microstructures and evolving defects and local structures. Advanced data analysis
+    algorithms and software are essential for the success of this enterprise.  Of
+    particular interest is the study of nanomaterials and materials structure on different
+    lengthscales.  In this talk I will describe various developments that leverage
+    latest data acquisiont and analysis techniques, sometimes powered by artificial
+    intelligence (AI) and machine learning (ML), that reveal how materials behave
+    on different length-scales and sometimes also timescales.  The materials studied
+    include materials for sustainable energy, environmental remediation, and cultural
+    heritage studies, and techniques range from spatially resolved x-ray and electron
+    nanostrucuture studies and neutron diffraction and scattering.
+  authors:
+    - sbillinge
+  begin_date: 2024-11-05
+  end_date: 2024-11-08
+  location: Tsukuba, Japan
+  meeting_name: Japanese national institute for materials science ({NIMS}) annual
+    award symposium
+  notes:
+    - ian work
+    - mary rose
+    - yevgeny work
+    - ufPDF
+    - nature materials with Kimber
+  project:
+    - all
+  status: accepted
+  title: 'Real Materials in Action: studying structure on different length and time-scales'
+  type: invited
+2412sb_kigali,rwanda:
+  abstract: 'Development of next generation materials for applications in sustainable
+    energy and beyond require us to study the structure of real materials in real
+    devices even as they operate: for example, putting operating batteries in the
+    beam, studying spatially resolved labs-on-chip, doing real-time autonomous experiments
+    and using computed tomography to see diffraction from cross-sections of bulk samples.
+    These developments, powered by wonderful synchrotron and neutron source and detector
+    developments, present major challenges on the data acquisition and analysis side.
+    I will describe experimental approaches that we have been developing for measuring
+    and analyzing atomic pair distribution functions (PDF) from synchtrotron x-ray
+    diffraction data.  The experiments are straightforward and broadly accessible
+    through general user programs at synchrotrons, including mail-in experiments.  Software
+    for analyzing the data can be run on laptop computers and is available free of
+    charge.  I will present recent experimental developments, but also lay out approaches
+    for getting started doing experiments such as these.'
+  authors:
+    - sbillinge
+  begin_date: 2024-12-16
+  end_date: 2024-12-19
+  location: Kigali, Rwanda
+  meeting_name: 'African Materials Research Society  (AMRS) Meeting '
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Structure-property studies of nano-materials using synchrotron radiation
   type: invited
