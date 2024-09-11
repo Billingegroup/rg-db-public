@@ -412,10 +412,10 @@ guo;npjcm24:
   professional_summary: ""
   synopsis: ''
   tags: ml, structure_solution, modeling
-  title:
+  title: Towards end-to-end structure solutions from information-compromised diffraction data via generative deep learning
   url: https://doi.org/10.1038/s41524-022-00896-3
   volume: '8'
-  year: '2022'
+  year: '2024'
 antic;jpcm13:
   author:
     - Antic, B.
@@ -5497,7 +5497,7 @@ greta;prl13:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/gretarsson_prl13.pdf
   year: '2013'
-griff;unpub23:
+griff;nm24:
   ackno: Work at Brookhaven National Laboratory was supported by the US Department
     of Energy, Office of Science, Office of Basic Energy Sciences, under contract
     no. DE-SC0012704 (J.G., A.F.S., L.W., M.P.M.D., I.R. and S.J.L.B). Sample preparation
