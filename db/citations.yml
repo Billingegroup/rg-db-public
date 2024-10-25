@@ -8563,14 +8563,14 @@ nanarong;npj24:
     - Zoe N. Zachko
     - Steven B. Torrisi
     - Simon J. L. Billinge
-  doi:
+  doi: 10.48550/arXiv.2410.17467
   entrytype: article
-  facility:
-  grant:
-  journal: Npj Comput. Mater.
-  month: oct
+  facility: ''
+  grant: TRI
+  journal: ''
+  month: ''
   nb: ''
-  note: to be submitted
+  note: submitted to npj Comput. Mater.
   notes: ''
   number: ''
   optannote: ''
@@ -8593,7 +8593,7 @@ nanarong;npj24:
   tags: ml, xanes, pdf, random-forest
   title: 'Use of machine learning in experiment design for multi-modal analysis of materials: 
   x-ray absorption near-edge spectra (XANES) and pair distribution functions (PDF)'
-  url: https://doi.org/
+  url: https://doi.org/10.48550/arXiv.2410.17467
   volume: ''
   year: '2024'
 nguye;pnas19:
