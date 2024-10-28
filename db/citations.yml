@@ -8566,11 +8566,11 @@ nanarong;npj24:
   doi: 10.48550/arXiv.2410.17467
   entrytype: article
   facility: ''
-  grant: TRI
-  journal: ''
+  grant: tri22
+  journal: arXiv
   month: ''
   nb: ''
-  note: submitted to npj Comput. Mater.
+  note: https://doi.org/10.48550/arXiv.2410.17467
   notes: ''
   number: ''
   optannote: ''
@@ -8586,10 +8586,8 @@ nanarong;npj24:
     in both spectra and how the information is balanced between them. Our approach 
     enables exploration of information content and can inform experimental design 
     when choosing between different methods.
-  synopsis: Random forest models trained on XANES, PDF, and both combined 
-    and the feature importance analysis allow us to combine information 
-    from heterogeneous experimental spectra and investigate the information 
-    content and complementarity between the two inputs.
+  synopsis: original paper demonstrating use of interpretable ML for combining
+    heterogeneous input spectra, XANES and PDF
   tags: ml, xanes, pdf, random-forest
   title: 'Use of machine learning in experiment design for multi-modal analysis of materials: 
   x-ray absorption near-edge spectra (XANES) and pair distribution functions (PDF)'
