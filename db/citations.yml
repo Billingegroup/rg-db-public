@@ -8455,6 +8455,40 @@ llan;RobustnessTestSpacegroupMining22:
   wwwemail: ''
   wwwpub: ''
   year: '2022'
+llan;sbm;prm24:
+  ackno: ''
+  author:
+    - Ling Lan
+    - Qiang Du
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: DE-SC0024141
+  journal: Physical Review Materials
+  month: tbd
+  nb: ''
+  note: submitted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: A quantitative measure of symmetry breaking is introduced that allows the quantification
+   of which symmetries are most strongly broken due to the introduction of some kind of defect in a 
+   perfect structure. The method uses a statistical approach based on the Jensen-Shannon divergence. 
+   The measure is calculated by comparing the transformed atomic density function with its original. 
+   Software code is presented that carries the calculations out numer- ically using Monte Carlo 
+   methods. The behavior of this symmetry breaking measure is tested for various cases including 
+   finite size crystallites (where the surfaces break the crystallographic symmetry), atomic 
+   displacements from high symmetry positions, and collective motions of atoms due to rotations of 
+   rigid octahedra. The approach provides a powerful tool for assessing local symmetry breaking 
+   and offers new insights that can help researchers understand how different structural distortions 
+   affect different symmetry operations.
+  tags: symmetry_breaking
+  title: A continuous symmetry breaking measure for finite clusters using Jensen-Shannon divergence
+  url: ''
+  volume: ''
+  year: '2024'
 lo;nc19:
   ackno: We dedicate this paper to the memory of H.-Y. Huang (Department of Chemistry,
     Chung Yuan Christian University) for her enthusiasm for—and encouragement of—this
