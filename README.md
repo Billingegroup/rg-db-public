@@ -13,26 +13,6 @@ You need to be a current or former member of the Billinge Group at Columbia
 University to update entries in this database.  Please reach out to Prof. 
 Billinge (sb2896@columbia.edu) if you are interested in joining the group.
 
-For group members, the current branching workflow is to directly clone this 
-repo to your local, make pushes to branches directly on this GitHub repository
-and create a PR into the default branch `main`.  We are no longer using a
-forking workflow (i.e., don't create a fork).
-
-These commands might help you get going:
-```
-cd dbs
-git clone git@github.com:Billingegroup/rg-db-public.git
-git checkout <branch_name>
-git add <files>
-git commit -m "an informative commit message"
-git push -u origin <branch_name>
-```
-then go to GitHub to open a PR into `main`, so it will look like 
-`base:main <- compare:<branch_name>`
-
-Do not ever merge directly into main (actually you shouldn't be able to on GitHub).
-This merge will be done by Prof. Billinge after review.   
-
 To prevent nasty accidents,
 1. create a file in `rg-db-public/.git/hooks` called `pre-commit` and copy-paste the 
  following into it and save it
