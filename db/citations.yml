@@ -9055,6 +9055,44 @@ nakam;jmchema17:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/nakam_jmca17.pdf
   year: '2017'
+nanarong;npj24:
+  ackno: This work was funded by Toyota Research Institute, grant number PO-002332.
+  author:
+    - Tanaporn Na Narong
+    - Zoe N. Zachko
+    - Steven B. Torrisi
+    - Simon J. L. Billinge
+  doi: 10.48550/arXiv.2410.17467
+  entrytype: article
+  facility: ''
+  grant: tri22
+  journal: arXiv
+  month: ''
+  nb: ''
+  note: arXiv:2410.17467
+  notes: ''
+  number: ''
+  optannote: ''
+  optnote: ''
+  optwwwlanl: ''
+  pages: ''
+  summary_professional: Interpretable machine learning (ML) provides a 
+    generalizable approach for combining information from multiple heterogeneous 
+    spectra. Random forest models were trained on X-ray absorption near-edge 
+    spectra (XANES), atomic pair distribution functions (PDFs), and both inputs 
+    combined, to extract local atomic environments of transition metal cations 
+    in oxides. Feature importance analysis revealed the most informative regions 
+    in both spectra and how the information is balanced between them. Our approach 
+    enables exploration of information content and can inform experimental design 
+    when choosing between different methods.
+  synopsis: original paper demonstrating use of interpretable ML for combining
+    heterogeneous input spectra, XANES and PDF
+  tags: ml, xanes, pdf, random-forest
+  title: 'Use of machine learning in experiment design for multi-modal analysis of materials: 
+  x-ray absorption near-edge spectra (XANES) and pair distribution functions (PDF)'
+  url: https://doi.org/10.48550/arXiv.2410.17467
+  volume: ''
+  year: '2024'
 nguye;pnas19:
   author:
     - Andy I. Nguyen
