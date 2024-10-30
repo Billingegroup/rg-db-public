@@ -8455,6 +8455,30 @@ llan;RobustnessTestSpacegroupMining22:
   wwwemail: ''
   wwwpub: ''
   year: '2022'
+llan;sbm;prm24:
+  ackno: ''
+  author:
+    - Ling Lan
+    - Qiang Du
+    - Simon J. L. Billinge
+  doi: 10.48550/arXiv.2410.21880
+  entrytype: article
+  facility: ''
+  grant: doeneutron23
+  journal: Physical Review Materials
+  month: tbd
+  nb: ''
+  note: arxiv published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: Introduce a continuous symmetry breaking measure based on Jensen-Shannon divergence
+  tags: symmetry_breaking
+  title: A continuous symmetry breaking measure for finite clusters using Jensen-Shannon divergence
+  url: https://arxiv.org/abs/2410.21880
+  volume: ''
+  year: '2024'
 lo;nc19:
   ackno: We dedicate this paper to the memory of H.-Y. Huang (Department of Chemistry,
     Chung Yuan Christian University) for her enthusiasm for—and encouragement of—this
