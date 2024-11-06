@@ -5394,33 +5394,6 @@
   title: 'ML-Edex-4STEM: Teaching and applying machine learning to physical science
     students'
   type: poster
-2404sb_rpi:
-  abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
-    are at the heart of next generation technological solutions in sustainable energy,
-    effective new pharmac euticals and environmental remediation.  A key to making
-    progress is to be able to understand the nanoparticle structure, the arrangements
-    of atoms in the nanoparticles and nanoscale structures. Also critical is understanding
-    the distribution of the nanoparticles and how they change in time as devices run
-    and reactions take place.  We use advanced x-ray, neutron and electron scattering
-    methods to get at this problem.  I will talk about these methods and show some
-    recent success-stories in the fields of sustainable energy, environmental remediation
-    and cultural heritage preservation.  However, I will also discuss the fundamental
-    limitations on our ability to extract information from the data and how we are
-    now turning to machine learning and artificial intelligence techniques to give
-    more insights.
-  authors:
-    - sbillinge
-  begin_date: 2024-04-03
-  department: physics
-  end_date: 2024-04-03
-  institution: rensselaerpolytechnicinstitute
-  notes: []
-  project:
-    - all
-  status: accepted
-  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
-    saving the planet: understanding nanostructure with x-rays and algorithms'
-  type: colloquium
 2404sb_seattle,wa:
   abstract: "Development of next generation materials for applications in sustainable
     energy and beyond require us to study the structure of real materials in real
@@ -5688,6 +5661,144 @@
   subtitle: '{AI} as a tool for extracting more science, more easily from powder diffraction
     data'
   title: '{AI} at your service'
+  type: invited
+2409sb_rpi:
+  abstract: At the heart of materials science studies for next generation materials
+    is an idea that we want to be studying real materials doing real things, often
+    in real devices.  A key to making progress is to be able to understand the nanoparticle
+    structure, the arrangements of atoms in the nanoparticles and nanoscale structures.
+    Also critical is understanding the distribution of the nanoparticles and how they
+    change in time as devices run and reactions take place.  We use advanced x-ray,
+    neutron and electron scattering methods to get at this problem. In practice, this
+    presents a number of key data analysis and interpretation challenges because it
+    implies we are studying ever more complicated samples, often in complex heterogeneous
+    environments and in time-resolved operando setups, and we are interrogating our
+    data for more and more subtle effects such as microstructures and evolving defects
+    and local structures. We use advanced x-ray, neutron and electron scattering methods
+    to get at this problem.  I will talk about these methods and show some recent
+    success-stories in the fields of sustainable energy, environmental remediation
+    and cultural heritage preservation.  In particular, we need to study not only
+    the atomic-scale structure (everything), but how it varies with position in the
+    device (everywhere), and how it varies with time (all at once). I will also discuss
+    the fundamental challenges on our ability to extract information from the data
+    and how we are now turning to machine learning and artificial intelligence techniques
+    to give more insights. Some of these powerful tools are clearly ready to be applied
+    more broadly in the community and others are still in the future but look very
+    promising.  They include unsupervised and supervised machine learning approaches,
+    conventional ML and deep neural networks, including generative models, as well
+    as approaches for autonomous time-resolved experimentation.
+  authors:
+    - sbillinge
+  begin_date: 2024-09-18
+  department: physics
+  end_date: 2024-09-18
+  institution: rpi
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Real materials in action: everything, everywhere, all at once'
+  type: colloquium
+2409sb_universityofliverpool,uk:
+  abstract: We have recently been thinking, somewhat whimsically, about the materials
+    genome. The materials genome initiative (MGI) is a US government initiative from
+    2011 to speed up, and lower the cost of, the discovery of new advanced materials,
+    and their deployment in technologies, by applying data analytic methods inspired
+    by biological genomics.  Of course, materials do not have a genome.  However,
+    if we generalize the concept of a genome as a 1D discrete quantity that codes
+    for the 3-dimensional arrangement of atoms, then we do have quantities that could
+    serve as this generalized genome.  At MACSMIN 2023 I introduced our thinking on
+    this idea in a general sense.  In this talk I will briefly reiterate the main
+    idea, and then discuss, developments in our thinking over the past year. Two new
+    concepts emerge from this framing.  One is the idea of the materials ribosome.  The
+    ribosome is the cellular machinery that converts a DNA code into protein molecules
+    which then fold to unique 3D structures.  For our materials genome, this would
+    be machinery, either physical or computational, that can convert our materials
+    genome code into a 3D structure. The other concept is that of heredity, whereby
+    we can find new materials similar to existing ones by making small mutations to
+    our materials genome.  I will discuss how this way of thinking can guide us in
+    our search for genomic codings for materials structure.  Something that has emerged
+    from this thinking is a realization that the field of crystallography doesn't
+    have clear definitions of what constitutes a structure.  I call this the "structure
+    definition problem" and I suggest that, as a community it would be most beneficial
+    if we could address this problem and formalize definitions for what is meant by
+    materials structure.
+  authors:
+    - sbillinge
+  begin_date: 2024-09-09
+  end_date: 2024-09-13
+  location: University of Liverpool, UK
+  meeting_name: MACSMIN 2024
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Materials genomics, materials heredity and the structure definition problem
+  type: invited
+  webinar: true
+2410sb_ucsb_matsci:
+  abstract: At the heart of materials science studies for next generation materials
+    is an idea that we want to be studying real materials doing real things, often
+    in real devices.  A key to making progress is to be able to understand the nanostructure,
+    the arrangements of atoms on nanometer lengthscales. Also critical is understanding
+    the spatial distribution of structures and how they change in time as devices
+    run and reactions take place. In practice, this presents a number of key data
+    analysis and interpretation challenges because it implies we are studying ever
+    more complicated samples, often in complex heterogeneous environments and in time-resolved
+    operando setups, and we are interrogating our data for more and more subtle effects
+    such as microstructures and evolving defects and local structures. We use advanced
+    x-ray, neutron and electron scattering methods to get at this problem.  I will
+    talk about these methods and show some recent success-stories in the fields of
+    sustainable energy, environmental remediation and cultural heritage preservation.  In
+    particular, we need to study not only the atomic-scale structure (everything),
+    but how it varies with position in the device (everywhere), and how it varies
+    with time (all at once). I will also discuss the fundamental challenges on our
+    ability to extract information from the data and how we are now turning to machine
+    learning and artificial intelligence techniques to give more insights.
+  authors:
+    - sbillinge
+  begin_date: 2024-10-07
+  department: matsci
+  end_date: 2024-10-08
+  institution: ucsb
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Watching real materials in Action: everything, everywhere, all at once'
+  type: colloquium
+2411sb_shivnadarinstitutionofeminence-delhincr,india:
+  abstract: "Density functional theory has revolutionized our understanding of materials. but can it also lead 
+    us astray when it gets things wrong?  We understand that DFT is approximate because of the poorly determined 
+    exchange correlation functional.  However, in this talk I would like to bring up another issue that I 
+    think does not get sufficient attention: that DFT is generally carried out on the average structure of a 
+    material. What I mean by average structure is that the inputs to DFT are generally the crystal structure of 
+    the material.  The crystal structure is a periodically averaged version of the actual structure.  In the 
+    absence of disorder the average structure and the actual structure are the same.  However, in the presence 
+    of defects and other non-periodic components to the structure, the actual structure is different from the 
+    average structure, so we are feeding DFT the wrong structure.  Does this matter?  In other words, if 
+    there are small defects, is the DFT electronic structure a good starting point and we can perturbatively 
+    find the actual behavior?  I will argue that actually this is not the case in general, because the 
+    average of the properties is not equal to the properties of the average. This is strictly true even if 
+    the defects are small (e.g., phonons) but in practice is probably not a big deal.  However, local 
+    structural measurements using x-ray and neutron total scattering and PDF measurements, often indicate 
+    that materials with interesting properties have quite highly perturbed broken symmetry local structures.  
+    In this case, DFT can yield qualitatively incorrect predictions of properties, as we will discuss.  
+    However, emerging methods that use machine-learned potentials open the door to methods that can address 
+    this issue in practice.  I am not an expert in DFT, so this talk is more a call-to-arms and a description 
+    of the problem rather than describing actual solutions."
+  authors:
+    - sbillinge
+  begin_date: 2024-11-10
+  end_date: 2024-11-17
+  location: Shiv Nadar Institution of Eminence - Delhi NCR, India
+  meeting_name: Sagamore XX - 2024
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'All density functional theory ({DFT}) is wrong: the average of the properties
+    $\ne$ the properties of the average'
   type: invited
 2411sb_tsukuba,japan:
   abstract: At the heart of materials science studies for next generation materials

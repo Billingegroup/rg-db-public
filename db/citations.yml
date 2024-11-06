@@ -5845,23 +5845,25 @@ guo;npjcm24:
     - Boyuan Chen
     - Simon J. L. Billinge
     - Hod Lipson
-  doi: ''
+  doi: 10.1038/s41524-024-01401-8
   entrytype: article
   facility: ''
   grant: doeneutron23
   journal: npj Computational Materials
-  month: ''
+  month: Sep
   nb: ''
-  note: to be published.  Available on arXiv
   number: ''
-  pages: ''
+  optnote: to be published.  Available on arXiv
+  pages: '209'
   professional_summary: ''
-  synopsis: ''
+  synopsis: The variational encoder that can regress electron density in cubic and
+    trigonal systems.
   tags: ml, structure_solution, modeling
-  title: null
-  url: https://doi.org/10.1038/s41524-022-00896-3
-  volume: '8'
-  year: '2022'
+  title: Towards end-to-end structure determination from x-ray diffraction data using
+    deep learning
+  url: https://doi.org/10.1038/s41524-024-01401-8
+  volume: '10'
+  year: '2024'
 guo;unpub23:
   ackno: Work in the Lipson group was supported by U.S. National Science Foundation
     under AI Institute for Dynamical Systems grant 2112085. Work in the Billinge group
@@ -8461,6 +8463,30 @@ llan;RobustnessTestSpacegroupMining22:
   wwwemail: ''
   wwwpub: ''
   year: '2022'
+llan;sbm;prm24:
+  ackno: ''
+  author:
+    - Ling Lan
+    - Qiang Du
+    - Simon J. L. Billinge
+  doi: 10.48550/arXiv.2410.21880
+  entrytype: article
+  facility: ''
+  grant: doeneutron23
+  journal: Physical Review Materials
+  month: tbd
+  nb: ''
+  note: arxiv published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: Introduce a continuous symmetry breaking measure based on Jensen-Shannon divergence
+  tags: symmetry_breaking
+  title: A continuous symmetry breaking measure for finite clusters using Jensen-Shannon divergence
+  url: https://arxiv.org/abs/2410.21880
+  volume: ''
+  year: '2024'
 lo;nc19:
   ackno: We dedicate this paper to the memory of H.-Y. Huang (Department of Chemistry,
     Chung Yuan Christian University) for her enthusiasm for—and encouragement of—this
@@ -9061,6 +9087,44 @@ nakam;jmchema17:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/nakam_jmca17.pdf
   year: '2017'
+nanarong;npj24:
+  ackno: This work was funded by Toyota Research Institute, grant number PO-002332.
+  author:
+    - Tanaporn Na Narong
+    - Zoe N. Zachko
+    - Steven B. Torrisi
+    - Simon J. L. Billinge
+  doi: 10.48550/arXiv.2410.17467
+  entrytype: article
+  facility: ''
+  grant: tri22
+  journal: arXiv
+  month: ''
+  nb: ''
+  note: arXiv:2410.17467
+  notes: ''
+  number: ''
+  optannote: ''
+  optnote: ''
+  optwwwlanl: ''
+  pages: ''
+  summary_professional: Interpretable machine learning (ML) provides a 
+    generalizable approach for combining information from multiple heterogeneous 
+    spectra. Random forest models were trained on X-ray absorption near-edge 
+    spectra (XANES), atomic pair distribution functions (PDFs), and both inputs 
+    combined, to extract local atomic environments of transition metal cations 
+    in oxides. Feature importance analysis revealed the most informative regions 
+    in both spectra and how the information is balanced between them. Our approach 
+    enables exploration of information content and can inform experimental design 
+    when choosing between different methods.
+  synopsis: original paper demonstrating use of interpretable ML for combining
+    heterogeneous input spectra, XANES and PDF
+  tags: ml, xanes, pdf, random-forest
+  title: 'Use of machine learning in experiment design for multi-modal analysis of materials: 
+  x-ray absorption near-edge spectra (XANES) and pair distribution functions (PDF)'
+  url: https://doi.org/10.48550/arXiv.2410.17467
+  volume: ''
+  year: '2024'
 nguye;pnas19:
   author:
     - Andy I. Nguyen

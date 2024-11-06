@@ -2698,6 +2698,18 @@ ucsandiego:
   updated: 2021-11-23 07:20:22.864254
   uuid: ce930e69-3a2c-4ef8-87a7-1ac70eb0832c
   zip: '92093'
+ucsb:
+  city: Santa Barbara
+  country: USA
+  date: 2021-11-23
+  departments:
+    matsci:
+      name: Materials Department
+  name: University of California Santa Barbara
+  state: CA
+  updated: 2021-11-23 07:20:22.864254
+  uuid: ce930e69-3a2c-4ef8-87a7-1ac70eb0832c
+  zip: '93106'
 udaressalaam:
   aka:
     - daressalaamu
