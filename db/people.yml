@@ -1678,6 +1678,26 @@ fatassi:
       group: bg
   name: Farad Atassi
   position: unknown
+fballerini:
+  active: true
+  aka: []
+  avatar: https://github.com/fil158.png
+  bio: bio
+  education: []
+  email: filippo.ballerini@unimi.it
+  employment:
+    - begin_date: 2024-10-01
+      end_date: 2025-05-31
+      organization: columbiau
+      position: visiting student
+      group: bg
+      advisor: sbillinge
+      status: visitor-unsupported
+  github_id: fil158
+  grp_mtg_active: true
+  name: Filippo Ballerini
+  orcid_id: 0009-0006-7970-7341
+  position: visiting student
 fbertolotti:
   active: false
   aka: []

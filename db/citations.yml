@@ -1038,6 +1038,29 @@ billi;4or18:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/18billi4OR.pdf
   year: '2018'
+shi;m24:
+  ackno: tbd
+  author:
+    - Changmin Shi
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: doeneutron23
+  journal: Matter
+  month: tbd
+  nb: ''
+  number: ''
+  note: Submitted
+  pages: ''
+  professional_summary: A group working class pedagogy is described as well as personal
+    anecdotes about different strategies for succhessful implementaion.
+  synopsis: The approach of group work on worksheets is laid out
+  tags: teaching, pedagogy
+  title: Teaching materials science and engineering students in the 21st century
+  url: ''
+  volume: ''
+  year: '2024'
 billi;aa24:
   ackno: SJLB acknowledges support from the U.S. Department of Energy, Office of Science,
     Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0024141. Work
@@ -1861,7 +1884,13 @@ billi;lsfd98:
   wwwlanl: ''
   year: '1998'
 billi;m24:
-  ackno: ''
+  ackno: The authors thank Dr. Sanjit Ghose for help with the synchrotron experiments, including designing and 
+    constructing a temperature stage. I.H.B. thanks Kinnari M. Shah, Eliza Dach, and Sherry Zhang for useful 
+    conversations and Marshall Tekell for help with SAXS measurements. Work in the Yip lab was based upon work 
+    supported by the US Department of Energy, Office of Science, Basic Energy Sciences under award no. DE-SC0024574.
+    Work in the Billinge group in the Applied Physics and Applied Mathematics Department was supported by the 
+    US Department of Energy, Office of Science, Office of Basic Energy Sciences under contract no. DE-SC0024141.
+    C.H.T. acknowledges support from the US Bureau of Reclamation, no.R23AC00435.
   author:
     - Ian Henry Billinge
     - Gabriel D. Barbosa
@@ -1870,16 +1899,16 @@ billi;m24:
     - C. Heath Turner
     - Simon J. L. Billinge
     - Ngai Yin Yip
-  doi: ''
+  doi: 10.1016/j.matt.2024.09.023
   entrytype: article
-  facility: ''
+  facility: nslsii, xpd, pdf
   grant: doeneutron23
   journal: Matter
-  month: mar
+  month: jan
   nb: ''
-  note: Submitted
+  optnote: Submitted
   number: ''
-  pages: ''
+  pages: '1--12'
   professional_summary: 'An emerging technology for obtaining pure water from highly
     saline brines, and also for chemical extractions from similar feedstocks, is to
     use thermal solvent swing extraction (TSSE) methods.  These rely on liquids with
@@ -1900,9 +1929,9 @@ billi;m24:
   tags: amine, liquid, lcst
   title: A structural underpinning of the lower critical solution temperature (LCST)
     behavior behind temperature-switchable liquids
-  url: ''
-  volume: ''
-  year: '2024'
+  url: https://doi.org/10.1016/j.matt.2024.09.023
+  volume: '8'
+  year: '2025'
 billi;mrssp99:
   author:
     - Billinge, S. J. L.
@@ -11815,34 +11844,31 @@ taher;mrsb23:
 tao;cm23:
   ackno: Use of the National Synchrotron Light Source II, Brookhaven National Laboratory,
     was supported by the U.S. Department of Energy, Office of Science, Office of Basic
-    Energy Sciences, under Contract No. DE-SC0012704. PDF analysis, modeling and writing
-    were supported by the U.S. National Science Foundation through grant DMREF-1922234.
+    Energy Sciences, under Contract No. DE-SC0012704. 
     Nanocrystal synthesis was supported by funding from Ghent University
   author:
     - Songsheng Tao
     - Jonas Billet
     - Jonathan De Roo
     - Simon J. L. Billinge
-  doi: ''
+  doi: 10.1021/acs.chemmater.3c03002
   entrytype: article
   facility: nslsii, xpd
-  grant: dmref19
+  grant: doeneutron23
   journal: Chem Mater
-  month: tbd
-  nb: ' art '
-  note: submitted
+  month: oct
+  nb: ''
+  optnote: submitted
   number: ''
-  optannote: ''
-  optwwwlanl: ''
   pages: ''
   synopsis: A detailed case study is presented in how to model nanoparticle stucture
     from the  PDF using diffpy cmi and attenuated crystal models
   tags: tio2, nanoparticle, oxide_nanoparticle, modeling
   title: 'Rapid modeling of the local structure of metal oxide nanoparticles from
     {PDF} data: A Case Study using {TiO$_2$} nanoparticles'
-  url: ''
+  url: https://pubs.acs.org/doi/full/10.1021/acs.chemmater.3c03002
   volume: ''
-  year: '2023'
+  year: '2024'
 terba;cec22:
   ackno: DH and MM would like to thank University of Trieste for partially funding
     this study through the “Fondo per la Ricerca di Ateneo (FRA 2020)” grant scheme.
