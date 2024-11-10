@@ -5768,25 +5768,30 @@
   title: 'Watching real materials in Action: everything, everywhere, all at once'
   type: colloquium
 2411sb_shivnadarinstitutionofeminence-delhincr,india:
-  abstract: "Density functional theory has revolutionized our understanding of materials. but can it also lead 
-    us astray when it gets things wrong?  We understand that DFT is approximate because of the poorly determined 
-    exchange correlation functional.  However, in this talk I would like to bring up another issue that I 
-    think does not get sufficient attention: that DFT is generally carried out on the average structure of a 
-    material. What I mean by average structure is that the inputs to DFT are generally the crystal structure of 
-    the material.  The crystal structure is a periodically averaged version of the actual structure.  In the 
-    absence of disorder the average structure and the actual structure are the same.  However, in the presence 
-    of defects and other non-periodic components to the structure, the actual structure is different from the 
-    average structure, so we are feeding DFT the wrong structure.  Does this matter?  In other words, if 
-    there are small defects, is the DFT electronic structure a good starting point and we can perturbatively 
-    find the actual behavior?  I will argue that actually this is not the case in general, because the 
-    average of the properties is not equal to the properties of the average. This is strictly true even if 
-    the defects are small (e.g., phonons) but in practice is probably not a big deal.  However, local 
-    structural measurements using x-ray and neutron total scattering and PDF measurements, often indicate 
-    that materials with interesting properties have quite highly perturbed broken symmetry local structures.  
-    In this case, DFT can yield qualitatively incorrect predictions of properties, as we will discuss.  
-    However, emerging methods that use machine-learned potentials open the door to methods that can address 
-    this issue in practice.  I am not an expert in DFT, so this talk is more a call-to-arms and a description 
-    of the problem rather than describing actual solutions."
+  abstract: 'Density functional theory has revolutionized our understanding of materials.
+    but can it also lead us astray when it gets things wrong?  We understand that
+    DFT is approximate because of the poorly determined exchange correlation functional.  However,
+    in this talk I would like to bring up another issue that I think does not get
+    sufficient attention: that DFT is generally carried out on the average structure
+    of a material. What I mean by average structure is that the inputs to DFT are
+    generally the crystal structure of the material.  The crystal structure is a periodically
+    averaged version of the actual structure.  In the absence of disorder the average
+    structure and the actual structure are the same.  However, in the presence of
+    defects and other non-periodic components to the structure, the actual structure
+    is different from the average structure, so we are feeding DFT the wrong structure.  Does
+    this matter?  In other words, if there are small defects, is the DFT electronic
+    structure a good starting point and we can perturbatively find the actual behavior?  I
+    will argue that actually this is not the case in general, because the average
+    of the properties is not equal to the properties of the average. This is strictly
+    true even if the defects are small (e.g., phonons) but in practice is probably
+    not a big deal.  However, local structural measurements using x-ray and neutron
+    total scattering and PDF measurements, often indicate that materials with interesting
+    properties have quite highly perturbed broken symmetry local structures. In this
+    case, DFT can yield qualitatively incorrect predictions of properties, as we will
+    discuss. However, emerging methods that use machine-learned potentials open the
+    door to methods that can address this issue in practice.  I am not an expert in
+    DFT, so this talk is more a call-to-arms and a description of the problem rather
+    than describing actual solutions.'
   authors:
     - sbillinge
   begin_date: 2024-11-10
@@ -5797,8 +5802,8 @@
   project:
     - all
   status: accepted
-  title: 'All density functional theory ({DFT}) is wrong: the average of the properties
-    $\ne$ the properties of the average'
+  subtitle: the average of the properties $\ne$ the properties of the average
+  title: All density functional theory ({DFT}) is wrong
   type: invited
 2411sb_tsukuba,japan:
   abstract: At the heart of materials science studies for next generation materials
