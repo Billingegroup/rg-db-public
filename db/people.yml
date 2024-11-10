@@ -1701,7 +1701,7 @@ fatassi:
 fballerini:
   active: true
   aka: []
-  avatar: https://github.com/filippo1598.png
+  avatar: https://github.com/fil158.png
   bio: bio
   education: []
   email: filippo.ballerini@unimi.it
@@ -1713,7 +1713,7 @@ fballerini:
       group: bg
       advisor: sbillinge
       status: visitor-unsupported
-  github_id: filippo1598
+  github_id: fil158
   grp_mtg_active: true
   name: Filippo Ballerini
   orcid_id: 0009-0006-7970-7341
