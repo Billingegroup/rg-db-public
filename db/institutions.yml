@@ -122,6 +122,15 @@ altadevices:
   name: Alta Devices
   state: CA
   year: 2020
+amazon:
+  city: Seattle
+  country: USA
+  date: 2024-11-27
+  name: 'Amazon '
+  state: WA
+  updated: 2024-11-27 00:10:53.670131
+  uuid: 303e8a48-a59e-4628-8e5b-62e1c9e03434
+  zip: '98109'
 anl:
   aka:
     - A
@@ -305,6 +314,18 @@ bostonu:
   updated: 2021-04-11 17:45:04.473145
   uuid: 211de403-28d9-4640-95a4-5722bdf2b369
   zip: '02215'
+brownu:
+  city: Providence
+  country: USA
+  date: 2024-11-26
+  departments:
+    matsci:
+      name: Materials Science and Engineering
+  name: Brown University
+  state: RI
+  updated: 2024-11-26 23:19:34.610612
+  uuid: ddd1ddbf-c98e-4e1b-ad6d-f1865807a6d5
+  zip: '02912'
 bruker:
   city: Billerica
   country: USA
@@ -445,6 +466,15 @@ chungyuanchristianu:
   updated: 2020-03-17 21:05:39.486688
   uuid: 6a6433e5-cb6f-44a4-8634-90e3b823fbda
   year: 2020
+citadel:
+  city: New York
+  country: USA
+  date: 2024-11-27
+  name: Citadel SPV LLC
+  state: NY
+  updated: 2024-11-27 00:14:35.010417
+  uuid: 6eddaa2c-5c2f-4197-a3c8-4078f1687100
+  zip: '10004'
 cmu:
   aka:
     - cmu
@@ -733,6 +763,9 @@ epfl:
       name: Institute of Chemical Sciences and Engineering
       aka:
         - Institut des sciences et ingénierie chimiques
+    cime:
+      name: Interdisciplinary Centre for Electron Microscopy
+      aka: []
   name: École Polytechnique Fédérale de Lausanne
   schools:
     sb:
@@ -763,6 +796,9 @@ esrf:
       aka:
         - sas_bl
       name: Dutch-Belgian Beamline
+    snbl:
+      aka: []
+      name: Swiss-Norwegian Beamline
   name: European Synchrotron Radiation Facility
   state: Rhone-Alps
   street: 71 Avenue des Martyrs
@@ -1469,6 +1505,15 @@ mit:
   uuid: 8acc5248-f9f0-4b26-8deb-3f7dd54c041e
   year: 2020
   zip: '02139'
+momentumtransfer:
+  aka: []
+  city: Mannheim
+  country: Germany
+  date: 2024-11-27
+  name: Moentum Transfer GMBH
+  updated: 2024-11-27 00:12:21.783529
+  uuid: bdca208f-7d6c-4734-95b9-fe553b59694a
+  zip: '68169'
 monashu:
   aka:
     - Monash University
@@ -2268,6 +2313,18 @@ ssrf:
   city: Shanghai
   country: China
   name: Shanghai Synchrotron Radiation Facility
+stanfordu:
+  city: Palo Alto
+  country: USA
+  date: 2024-12-12
+  departments:
+    physics:
+      name: Physics Department
+  name: Stanford University
+  state: CA
+  updated: 2024-12-12 12:07:00.862959
+  uuid: cee0a90e-0da1-450b-a908-da81740e4d8d
+  zip: '94305'
 stockholmu:
   aka: []
   city: Stockholm
@@ -2413,7 +2470,18 @@ tohokuu:
   month: 3
   name: Tohoku University
   year: 2020
-toyotaresearch:
+tongjiu:
+  city: Shanghai
+  country: China
+  date: 2024-11-27
+  departments:
+    matsci:
+      name: Materials Science
+  name: Tongji University
+  updated: 2024-11-27 00:03:05.073073
+  uuid: 55e7cdaf-501d-4849-9009-b16ef29d9ba0
+  zip: '200070'
+toyotaresearchannarbor:
   aka:
     - tri
   city: Ann Arbor
@@ -2424,6 +2492,31 @@ toyotaresearch:
   updated: 2021-04-11 19:11:23.196767
   uuid: 62a93967-5a0d-4c2a-9255-e72e469a63ad
   zip: '48105'
+toyotaresearchi:
+  city: Los Altos
+  country: USA
+  date: 2024-11-26
+  departments:
+    eam:
+      name: Energy and Materials
+  name: Toyota Research Institute
+  state: CA
+  updated: 2024-11-26 23:13:29.063344
+  uuid: 6543bb0a-8144-4098-8a49-34afc219043e
+  zip: '94023'
+tudresden:
+  aka: []
+  city: Dresden
+  country: Germany
+  day: 20
+  departments:
+    chemistry:
+      name: Department of Chemistry
+  month: 11
+  name: Technische Universit\"{a}t Dresden
+  updated: 2020-03-17 02:27:00.262253
+  uuid: 4768wec5-6e58-4b2e-b765-7d72403ee42d
+  year: 2024
 ualabama:
   aka: []
   city: Tuscaloosa
@@ -2552,6 +2645,9 @@ ucambridge:
   city: Cambridge
   country: UK
   day: 15
+  departments:
+    cheme:
+      name: Departement of Chemical Engineering and Biotechnology
   month: 3
   name: University of Cambridge
   year: 2020
@@ -2569,7 +2665,7 @@ ucberkeley:
   country: USA
   departments:
     physics:
-      name: Physcis Department
+      name: Physics Department
   name: University of California, Berkeley
   state: CA
   street: 2000 Carleton Street
