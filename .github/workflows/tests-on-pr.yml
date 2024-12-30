@@ -15,8 +15,20 @@ jobs:
 
     runs-on: ubuntu-latest
     steps:
-      - name: Check out rg-db-public repository
-        uses: actions/checkout@v4
+      - name: check out rg-db-public
+        uses: actions/checkout@v3
+        with:
+          # make sure rg-db-public is at the same level as rg-db-local in the
+          # directory tree
+          path: rg-db-public
+
+      - name: check out regolith
+        uses: actions/checkout@v3
+        with:
+          repository: regro/regolith
+          # for bookkeeping have regolith at the same level as everything else in the
+          # directory tree
+          path: regolith
 
       - name: Initialize miniconda
         uses: conda-incubator/setup-miniconda@v3
