@@ -239,6 +239,26 @@ alappas:
       group: bg
   name: Alexandros Lappas
   position: professor
+alwu:
+  active: true
+  aka: []
+  avatar: https://github.com/alisnwu.png
+  bio: bio
+  education: []
+  email: cw3465@columbia.edu
+  employment:
+    - begin_date: 2024-10-01
+      end_date: 2024-12-31
+      organization: columbiau
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: alisnwu
+  grp_mtg_active: true
+  name: Alison Wu
+  orcid_id: ''
+  position: undergraduate researcher
 amasadeh:
   active: false
   aka: []
@@ -357,7 +377,7 @@ ayang:
   email: ay2546@columbia.edu
   employment:
     - begin_date: 2023-06-01
-      end_date: 2024-08-31
+      end_date: 2024-12-31
       organization: columbiau
       position: undergraduate research assistant
       group: bg
@@ -1678,6 +1698,26 @@ fatassi:
       group: bg
   name: Farad Atassi
   position: unknown
+fballerini:
+  active: true
+  aka: []
+  avatar: https://github.com/fil158.png
+  bio: bio
+  education: []
+  email: filippo.ballerini@unimi.it
+  employment:
+    - begin_date: 2024-10-01
+      end_date: 2025-05-31
+      organization: columbiau
+      position: visiting student
+      group: bg
+      advisor: sbillinge
+      status: visitor-unsupported
+  github_id: fil158
+  grp_mtg_active: true
+  name: Filippo Ballerini
+  orcid_id: 0009-0006-7970-7341
+  position: visiting student
 fbertolotti:
   active: false
   aka: []
@@ -4269,11 +4309,10 @@ sbillinge:
     the 2022 Distinguished Powder Diffractionist Prize of the European Powder Diffraction
     Conference, the 2018 Warren Award of the American Crystallographic Association
     and being honored in 2011 for contributions to the nation as an immigrant by the
-    Carnegie Corporation of New York, the 2010 J. D. Hanawalt Award of the International
-    Center for Diffraction Data, University, Distinguished Faculty award at Michigan
-    State, and the Thomas H. Osgood Undergraduate Teaching Award. He is Section Editor
-    of Acta Crystallographica Section A: Advances and Foundations. He regularly chairs
-    and participates in reviews of major facilities and federally funded programs."
+    Carnegie Corporation of New York.  He is the 2025 laureate of the Gregori Aminoff
+    prize of the Royal Swedish Academy of Sciences. He is Section Editor of Acta Crystallographica
+    Section A: Advances and Foundations. He regularly chairs and participates in reviews
+    of major facilities and federally funded programs."
   bios:
     - Professor Simon Billinge is a professor of Materials Science and of Applied
       Physics and of Applied Mathematics at Columbia University.  He teaches materials
@@ -4313,18 +4352,17 @@ sbillinge:
       problem, where the goal is to find an unknown synthesis recipe given a desired
       material product. These are non trivial ill-posed inverse problems that require
       novel applied math and computational approaches to solve.\nProf. Billinge has
-      published more than 300 papers in scholarly journals. He is a fellow of the
+      published more than 350 papers in scholarly journals. He is a fellow of the
       American Physical Society and the Neutron Scattering Society of America, a former
       Fulbright and Sloan fellow and has earned a number of awards including being
       honored in 2011 for contributions to the nation as an immigrant by the Carnegie
       Corporation of New York, the 2020 distinguished powder diffraction prize of
       the European Powder Diffraction Conference, the 2018 Warren award of the American
       Crystallographic Association, the 2010 J. D. Hanawalt Award of the International
-      Center for Diffraction Data, the University Distinguished Faculty award at Michigan
-      State, and the Thomas H. Osgood Undergraduate Teaching Award. He is Section
-      Editor of Acta Crystalographica Section A: Advances and Foundations. He regularly
-      chairs and participates in reviews of major facilities and federally funded
-      programs."
+      Center for Diffraction Data, He is the 2025 laureate of the Gregori Aminoff
+      prize of the Royal Swedish Academy of Sciences. He is Section Editor of Acta
+      Crystalographica Section A: Advances and Foundations. He regularly chairs and
+      participates in reviews of major facilities and federally funded programs."
     - I give a brief bio about myself here. I have been carrying research in materials
       science since 1989 and been a faculty member in Physics and Applied Physics
       departments since 1994, though my training is in materials science.  I have
@@ -4362,66 +4400,6 @@ sbillinge:
           a pair distribution function study '
   email: sb2896@columbia.edu
   employment:
-    - organization: iucr
-      begin_year: 2011
-      department: aca
-      not_in_cv: true
-      position: editor
-      coworkers:
-        - aallen
-        - aaltomare
-        - lbourgeois
-        - pdominiak
-        - jeon
-        - ugrimm
-        - dkeen
-        - wkuhs
-        - lmarks
-        - hschenk
-        - ktsuda
-        - ivartaniants
-        - pwillmott
-        - mnespolo
-    - organization: iucr
-      begin_year: 2011
-      department: aca
-      not_in_cv: true
-      position: editor
-      coworkers:
-        - aallen
-        - aaltomare
-        - lbourgeois
-        - pdominiak
-        - jeon
-        - ugrimm
-        - dkeen
-        - wkuhs
-        - lmarks
-        - hschenk
-        - ktsuda
-        - ivartaniants
-        - pwillmott
-        - mnespolo
-    - organization: iucr
-      begin_year: 2011
-      department: aca
-      not_in_cv: true
-      position: editor
-      coworkers:
-        - aallen
-        - aaltomare
-        - lbourgeois
-        - pdominiak
-        - jeon
-        - ugrimm
-        - dkeen
-        - wkuhs
-        - lmarks
-        - hschenk
-        - ktsuda
-        - ivartaniants
-        - pwillmott
-        - mnespolo
     - organization: Columbia University
       begin_year: 2008
       group: bg
@@ -4570,6 +4548,8 @@ sbillinge:
       month: 5
       day: 12
   honors:
+    - name: Gregori Aminoff prize of the Royal Swedish Academy of Sciences
+      year: 2025
     - name: Flack Lecturer of the Swiss Society for Crystallography
       year: 2023
     - name: Distinguished Powder Diffractionist Prize of the European Powder Diffraction

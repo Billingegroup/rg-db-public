@@ -1861,7 +1861,15 @@ billi;lsfd98:
   wwwlanl: ''
   year: '1998'
 billi;m24:
-  ackno: ''
+  ackno: The authors thank Dr. Sanjit Ghose for help with the synchrotron experiments,
+    including designing and constructing a temperature stage. I.H.B. thanks Kinnari
+    M. Shah, Eliza Dach, and Sherry Zhang for useful conversations and Marshall Tekell
+    for help with SAXS measurements. Work in the Yip lab was based upon work supported
+    by the US Department of Energy, Office of Science, Basic Energy Sciences under
+    award no. DE-SC0024574. Work in the Billinge group in the Applied Physics and
+    Applied Mathematics Department was supported by the US Department of Energy, Office
+    of Science, Office of Basic Energy Sciences under contract no. DE-SC0024141. C.H.T.
+    acknowledges support from the US Bureau of Reclamation, no.R23AC00435.
   author:
     - Ian Henry Billinge
     - Gabriel D. Barbosa
@@ -1870,16 +1878,16 @@ billi;m24:
     - C. Heath Turner
     - Simon J. L. Billinge
     - Ngai Yin Yip
-  doi: ''
+  doi: 10.1016/j.matt.2024.09.023
   entrytype: article
-  facility: ''
+  facility: nslsii, xpd, pdf
   grant: doeneutron23
   journal: Matter
-  month: mar
+  month: jan
   nb: ''
-  note: Submitted
   number: ''
-  pages: ''
+  optnote: Submitted
+  pages: 1--12
   professional_summary: 'An emerging technology for obtaining pure water from highly
     saline brines, and also for chemical extractions from similar feedstocks, is to
     use thermal solvent swing extraction (TSSE) methods.  These rely on liquids with
@@ -1900,9 +1908,9 @@ billi;m24:
   tags: amine, liquid, lcst
   title: A structural underpinning of the lower critical solution temperature (LCST)
     behavior behind temperature-switchable liquids
-  url: ''
-  volume: ''
-  year: '2024'
+  url: https://doi.org/10.1016/j.matt.2024.09.023
+  volume: '8'
+  year: '2025'
 billi;mrssp99:
   author:
     - Billinge, S. J. L.
@@ -5853,6 +5861,39 @@ guguc;sa18:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   year: '2018'
+guo;npjcm24:
+  ackno: Work in the Lipson group was supported by U.S. National Science Foundation
+    under AI Institute for Dynamical Systems grant 372 2112085. Work in the Billinge
+    group was supported by the U.S. Department of Energy, Office of Science, Office
+    of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0024141.
+  author:
+    - Gabe Guo
+    - Judah Goldfeder
+    - Ling Lan
+    - Aniv Ray
+    - Albert Hanming Yang
+    - Boyuan Chen
+    - Simon J. L. Billinge
+    - Hod Lipson
+  doi: 10.1038/s41524-024-01401-8
+  entrytype: article
+  facility: ''
+  grant: doeneutron23
+  journal: npj Computational Materials
+  month: Sep
+  nb: ''
+  number: ''
+  optnote: to be published.  Available on arXiv
+  pages: '209'
+  professional_summary: ''
+  synopsis: The variational encoder that can regress electron density in cubic and
+    trigonal systems.
+  tags: ml, structure_solution, modeling
+  title: Towards end-to-end structure determination from x-ray diffraction data using
+    deep learning
+  url: https://doi.org/10.1038/s41524-024-01401-8
+  volume: '10'
+  year: '2024'
 guo;unpub23:
   ackno: Work in the Lipson group was supported by U.S. National Science Foundation
     under AI Institute for Dynamical Systems grant 2112085. Work in the Billinge group
@@ -8452,6 +8493,30 @@ llan;RobustnessTestSpacegroupMining22:
   wwwemail: ''
   wwwpub: ''
   year: '2022'
+llan;sbm;prm24:
+  ackno: ''
+  author:
+    - Ling Lan
+    - Qiang Du
+    - Simon J. L. Billinge
+  doi: 10.48550/arXiv.2410.21880
+  entrytype: article
+  facility: ''
+  grant: doeneutron23
+  journal: Physical Review Materials
+  month: tbd
+  nb: ''
+  note: arxiv published
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: Introduce a continuous symmetry breaking measure based on Jensen-Shannon divergence
+  tags: symmetry_breaking
+  title: A continuous symmetry breaking measure for finite clusters using Jensen-Shannon divergence
+  url: https://arxiv.org/abs/2410.21880
+  volume: ''
+  year: '2024'
 lo;nc19:
   ackno: We dedicate this paper to the memory of H.-Y. Huang (Department of Chemistry,
     Chung Yuan Christian University) for her enthusiasm for—and encouragement of—this
@@ -9052,6 +9117,44 @@ nakam;jmchema17:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/nakam_jmca17.pdf
   year: '2017'
+nanarong;npj24:
+  ackno: This work was funded by Toyota Research Institute, grant number PO-002332.
+  author:
+    - Tanaporn Na Narong
+    - Zoe N. Zachko
+    - Steven B. Torrisi
+    - Simon J. L. Billinge
+  doi: 10.48550/arXiv.2410.17467
+  entrytype: article
+  facility: ''
+  grant: tri22
+  journal: arXiv
+  month: ''
+  nb: ''
+  note: arXiv:2410.17467
+  notes: ''
+  number: ''
+  optannote: ''
+  optnote: ''
+  optwwwlanl: ''
+  pages: ''
+  summary_professional: Interpretable machine learning (ML) provides a 
+    generalizable approach for combining information from multiple heterogeneous 
+    spectra. Random forest models were trained on X-ray absorption near-edge 
+    spectra (XANES), atomic pair distribution functions (PDFs), and both inputs 
+    combined, to extract local atomic environments of transition metal cations 
+    in oxides. Feature importance analysis revealed the most informative regions 
+    in both spectra and how the information is balanced between them. Our approach 
+    enables exploration of information content and can inform experimental design 
+    when choosing between different methods.
+  synopsis: original paper demonstrating use of interpretable ML for combining
+    heterogeneous input spectra, XANES and PDF
+  tags: ml, xanes, pdf, random-forest
+  title: 'Use of machine learning in experiment design for multi-modal analysis of materials: 
+  x-ray absorption near-edge spectra (XANES) and pair distribution functions (PDF)'
+  url: https://doi.org/10.48550/arXiv.2410.17467
+  volume: ''
+  year: '2024'
 nguye;pnas19:
   author:
     - Andy I. Nguyen
@@ -11250,6 +11353,29 @@ shi;jpcc13:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/shi_jpcc13.pdf
   year: '2013'
+shi;m24:
+  ackno: tbd
+  author:
+    - Changmin Shi
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: doeneutron23
+  journal: Matter
+  month: tbd
+  nb: ''
+  note: Submitted
+  number: ''
+  pages: ''
+  professional_summary: A group working class pedagogy is described as well as personal
+    anecdotes about different strategies for succhessful implementaion.
+  synopsis: The approach of group work on worksheets is laid out
+  tags: teaching, pedagogy
+  title: Teaching materials science and engineering students in the 21st century
+  url: ''
+  volume: ''
+  year: '2024'
 shi;nm13i:
   author:
     - Shi, X.
@@ -11815,34 +11941,31 @@ taher;mrsb23:
 tao;cm23:
   ackno: Use of the National Synchrotron Light Source II, Brookhaven National Laboratory,
     was supported by the U.S. Department of Energy, Office of Science, Office of Basic
-    Energy Sciences, under Contract No. DE-SC0012704. PDF analysis, modeling and writing
-    were supported by the U.S. National Science Foundation through grant DMREF-1922234.
-    Nanocrystal synthesis was supported by funding from Ghent University
+    Energy Sciences, under Contract No. DE-SC0012704. Nanocrystal synthesis was supported
+    by funding from Ghent University
   author:
     - Songsheng Tao
     - Jonas Billet
     - Jonathan De Roo
     - Simon J. L. Billinge
-  doi: ''
+  doi: 10.1021/acs.chemmater.3c03002
   entrytype: article
   facility: nslsii, xpd
-  grant: dmref19
+  grant: doeneutron23
   journal: Chem Mater
-  month: tbd
-  nb: ' art '
-  note: submitted
+  month: oct
+  nb: ''
   number: ''
-  optannote: ''
-  optwwwlanl: ''
+  optnote: submitted
   pages: ''
   synopsis: A detailed case study is presented in how to model nanoparticle stucture
     from the  PDF using diffpy cmi and attenuated crystal models
   tags: tio2, nanoparticle, oxide_nanoparticle, modeling
   title: 'Rapid modeling of the local structure of metal oxide nanoparticles from
     {PDF} data: A Case Study using {TiO$_2$} nanoparticles'
-  url: ''
+  url: https://pubs.acs.org/doi/full/10.1021/acs.chemmater.3c03002
   volume: ''
-  year: '2023'
+  year: '2024'
 terba;cec22:
   ackno: DH and MM would like to thank University of Trieste for partially funding
     this study through the “Fondo per la Ricerca di Ateneo (FRA 2020)” grant scheme.
