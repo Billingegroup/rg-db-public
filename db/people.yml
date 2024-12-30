@@ -407,7 +407,13 @@ bfrandsen:
       group: bg
       advisor: sbillinge
   employment:
+    - begin_year: 2018
+      begin_month: 9
+      position: assistant professor
+      organization: Brigham Young University
     - begin_year: 2016
+      end_year: 2018
+      end_month: 8
       begin_month: 5
       position: post-doctoral scholar
       organization: University of California, Berkeley
@@ -769,15 +775,15 @@ cmyers:
     - begin_date: 2024-02-05
       end_date: 2024-05-12
       organization: columbiau
-      position: masters researcher
+      position: graduate research assistant
       group: bg
       advisor: sbillinge
-      status: ms
+      status: phd
   github_id: cadenmyers13
   grp_mtg_active: true
   name: Caden Myers
   orcid_id: ''
-  position: masters researcher
+  position: graduate research assistant
 cseno:
   active: true
   aka: []
@@ -789,7 +795,7 @@ cseno:
     - begin_date: 2023-10-23
       end_date: 2024-05-31
       organization: columbiau
-      position: "'visiting student'"
+      position: visiting student
       group: bg
       advisor: sbillinge
       status: visitor-unsupported
@@ -797,7 +803,7 @@ cseno:
   grp_mtg_active: true
   name: Carlotta Seno
   orcid_id: ''
-  position: "'visiting student'"
+  position: visiting student
 cwright:
   active: false
   aka:
@@ -861,6 +867,19 @@ cwright:
       gpa: 3.49
   email: cjwright4242@gmail.com
   employment:
+    - begin_year: 2021
+      begin_month: 6
+      location: New York, NY
+      organization: Citadel
+      position: director
+      position_full: Head of Software Infrastructure
+    - begin_year: 2019
+      end_year: 2021
+      end_month: 3
+      location: New York, NY
+      organization: Lab 49
+      position: engineer
+      position_full: Associate
     - begin_year: 2019
       location: New York, NY
       organization: Lab 49
@@ -2501,6 +2520,26 @@ jgriffiths:
   name: Jack Griffiths
   orcid_id: 0000-0002-4052-1770
   position: Post Doctoral Scholar
+jhalloram:
+  active: true
+  aka: []
+  avatar: https://github.com/john-halloran.png
+  bio: bio
+  education: []
+  email: jwh2180@columbia.edu
+  employment:
+    - begin_date: 2024-11-12
+      end_date: 2025-05-31
+      organization: columbiau
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: john-halloran
+  grp_mtg_active: true
+  name: John Halloram
+  orcid_id: ''
+  position: undergraduate researcher
 jliu:
   active: false
   aka:
@@ -3015,6 +3054,11 @@ lyang:
       institution: Columbia University
   email: long.yang@columbia.edu
   employment:
+    - begin_year: 2020
+      begin_month: 9
+      position: assistant professor
+      organization: tongjiu
+      department: matsci
     - begin_year: 2017
       end_year: 2020
       end_month: 9
@@ -3299,8 +3343,14 @@ mterban:
       end_year: 2017
       end_month: 8
   employment:
+    - begin_year: 2023
+      begin_month: 2
+      position: manager
+      organization: momentumtransfer
     - begin_year: 2017
       begin_month: 9
+      end_year: 2024
+      end_month: 1
       position: post-doctoral scholar
       organization: Max Planck Institute
     - begin_year: 2013
@@ -3314,7 +3364,7 @@ mterban:
       group: bg
   name: Maxwell Terban
   orcid_id: 0000-0002-7094-1266
-  position: post-doctoral scholar
+  position: chief technical officer
 mtrumbull:
   active: false
   aka: []
@@ -4185,7 +4235,7 @@ sandrello:
   email: sqa2001@columbia.edu
   employment:
     - begin_date: 2023-07-07
-      end_date: 2024-08-31
+      end_date: 2025-05-31
       organization: columbiau
       position: Undergraduate Researcher
       group: bg
@@ -4656,6 +4706,15 @@ sbillinge:
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
   service:
+    - type: profession
+      name: Member of the scientific Committee of the international conference “Advances
+        in Solid State Physics and New Materials – Celebrating 30 Years of the Center
+        for Solid State Physics and New Materials” to be held in Belgrade, Serbia
+        during the period May 19 to 23, 2025
+      begin_date: 2024-11-12
+      end_date: 2025-05-23
+      role: member
+      other: []
     - type: profession
       name: External PhD examiner for PhD student Rasmus Stubkjær Christensen of Aarhus
         University
@@ -5507,7 +5566,7 @@ sjblee:
   email: sl5400@columbia.edu
   employment:
     - begin_date: 2024-07-28
-      end_date: 2024-12-31
+      end_date: 2025-05-31
       organization: columbiau
       position: masters researcher
       group: bg
@@ -5620,6 +5679,10 @@ sstao:
       location: Beijing, China
   email: st3107@columbia.edu
   employment:
+    - begin_year: 2023
+      begin_month: 2
+      position: programmer
+      organization: Amazon
     - begin_year: 2017
       end_year: 2023
       end_month: 1
@@ -5802,7 +5865,7 @@ tnanarong:
       degree: BA in Physics
     - begin_year: 2016
       end_year: 2023
-      institution: Stanford
+      institution: stanfordu
       degree: PhD in Physics
   email: tn2539@columbia.edu
   employment:
@@ -5906,7 +5969,7 @@ tschertenleib:
     - begin_date: 2023-02-17
       end_date: 2023-12-31
       organization: columbiau
-      position: Visiting Researcher
+      position: visiting student
       group: bg
       advisor: sbillinge
       status: visitor-unsupported
@@ -5914,7 +5977,7 @@ tschertenleib:
   grp_mtg_active: true
   name: Till Schertenleib
   orcid_id: 0000-0003-4989-5821
-  position: Visiting Researcher
+  position: visiting student
 vgharakhanyan:
   active: false
   aka: []
@@ -6498,7 +6561,8 @@ zthatcher:
   position: graduate research assistant
 zzachko:
   active: true
-  aka: []
+  aka:
+    - Zoe N. Zachko
   avatar: https://github.com/zzachko.png
   bio: bio
   education: []
