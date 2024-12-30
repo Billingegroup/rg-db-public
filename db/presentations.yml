@@ -5818,6 +5818,36 @@
   status: accepted
   title: 'Watching real materials in Action: everything, everywhere, all at once'
   type: colloquium
+2411sb_johannesburg,southafrica:
+  abstract: At the heart of materials science studies for next generation materials
+    is an idea that we want to be studying real materials doing real things, often
+    in real devices.  In practice, this presents a number of key data analysis and
+    interpretation challenges because it implies we are studying ever more complicated
+    samples, often in complex heterogeneous environments and in time-resolved operando
+    setups, and we are interrogating our data for more and more subtle effects such
+    as microstructures and evolving defects and local structures. Of particular interest
+    is the study of nanomaterials and materials structure on different length-scales.  In
+    this talk I will describe various developments that leverage the latest data acquisition
+    and analysis techniques, sometimes powered by artificial intelligence (AI) and
+    machine learning (ML), that reveal how materials behave on ultra-fast (picosecond)
+    time-scales after being hit with a laser. The material studied is a quantum material
+    with a charge-density wave transition, but is a model system that demonstrates
+    an approach that could be used to study chemical reaction coordinates for real
+    processes in sustainable energy, environmental remediation, and health.
+  authors:
+    - sbillinge
+  begin_date: 2024-11-18
+  end_date: 2024-11-21
+  location: Johannesburg, South Africa
+  meeting_name: The African Synchrotron Light Source ({AfLS7}-2024) Conference
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Studying real materials in action: Time resolved measurements of local structure
+    in materials at synchrotrons and XFELs'
+  type: invited
+  webinar: true
 2411sb_shivnadarinstitutionofeminence-delhincr,india:
   abstract: 'Density functional theory has revolutionized our understanding of materials.
     but can it also lead us astray when it gets things wrong?  We understand that
