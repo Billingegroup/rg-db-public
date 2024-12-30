@@ -1437,6 +1437,9 @@ billi;cec10:
   optannote: ''
   optwwwlanl: ''
   pages: 1366--1368
+  synopsis: the original paper that demonstrated the utility of using PDF with high
+    real-space resolution to look at organic and pharma compounds
+  tags: pharma, organics
   title: Characterisation of amorphous and nanocrystalline molecular materials by
     total scattering
   url: http://pubs.rsc.org/en/Content/ArticleLanding/2010/CE/b915453a
@@ -3939,6 +3942,9 @@ davis;cgd13:
   optnote: to be published
   optwwwlanl: ''
   pages: 4239–4244
+  synopsis: A test of using PDF to do quantitative phase analysis of crystalline and
+    amorphous drugs using sulfamerazine as an example
+  tags: organics, pharma
   title: 'Towards phase quantification at the nanoscale using the total scattering
     pair distribution function {(TSPDF)} method: recrystallization of cryomilled sulfamerazine'
   url: http://pubs.acs.org/doi/abs/10.1021/cg400179p
@@ -4308,6 +4314,10 @@ dykhn;phmr11:
   optnote: ''
   optwwwlanl: ''
   pages: 1041--1048
+  synopsis: The paper that explored how PDFs become less useful as the Qmax gets less
+    and less, so Mo and Ag Kalpha is preferred over Cu, and in the latter case, going
+    to high angle is preferred
+  tags: organics, pharma
   title: Data requirements for the reliable use of atomic pair distribution functions
     in amorphous pharmaceutical fingerprinting
   url: http://link.springer.com/article/10.1007/s11095-010-0350-0
@@ -8481,9 +8491,11 @@ llan;sbm;prm24:
   optannote: ''
   optwwwlanl: ''
   pages: ''
-  synopsis: Introduce a continuous symmetry breaking measure based on Jensen-Shannon divergence
+  synopsis: Introduce a continuous symmetry breaking measure based on Jensen-Shannon
+    divergence
   tags: symmetry_breaking
-  title: A continuous symmetry breaking measure for finite clusters using Jensen-Shannon divergence
+  title: A continuous symmetry breaking measure for finite clusters using Jensen-Shannon
+    divergence
   url: https://arxiv.org/abs/2410.21880
   volume: ''
   year: '2024'
@@ -8787,6 +8799,68 @@ mcgur;prb04:
   wwwemail: ' sb2896@columbia.edu'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/mcgur_prb04.pdf
   year: '2004'
+mfeuer;unpub24:
+  ackno: This work was primarily supported by the NSF through the Columbia University
+    Materials Research Science and Engineering Center (MRSEC) on Precision-Assembled
+    Quantum Materials DMR-2011738. Magnetic measurements were supported as part of
+    Programmable Quantum Materials, an Energy Frontier Research Center funded by the
+    DOE, Office of Science, Basic Energy Sciences (Award DE-SC0019443). This research
+    used resources of beamline 28-ID-1 of the National Synchrotron Light Source II,
+    a U.S. Department of Energy (DOE) Office of Science User Facility operated for
+    the DOE Office of Science by Brookhaven National Laboratory under Contract No.
+    DE-SC0012704. PDF analysis in the Billinge group was supported by U.S. Department
+    of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
+    contract No. DE-SC0024141. We thank Maya Nair for her help with the XPS run at
+    Advanced Science Research Center of City University of New York. We thank Louise
+    Bolge for help with ICP-MS. M.L.F. is supported by the NSF Graduate Research Fellowship
+    Program (DGE-2036197). The PPMS used to perform magnetic susceptibility measurements
+    was purchased with financial support from the NSF through a supplement to award
+    DMR-1751949. The Columbia University Shared Materials Characterization Laboratory
+    (SMCL) was used extensively for this research. The authors are grateful to Columbia
+    University for the support of this facility
+  author:
+    - Margalit L. Feuer
+    - Morgan Thinel
+    - Xiong Huang
+    - Zhi-Hao Cui
+    - Yinming Shao
+    - Asish K. Kundu
+    - Daniel G. Chica
+    - Myung-Geun Han
+    - Rohan Pokratath
+    - Evan J. Telford
+    - Jordan Cox
+    - Emma York
+    - Saya Okuno
+    - Chun-Ying Huang
+    - Colin P. Nuckolls
+    - Cory R. Dean
+    - Simon J. L. Billinge
+    - Xiaoyang Zhu
+    - Yimei Zhu
+    - Dmitri N. Basov
+    - Andrew J. Millis
+    - David R. Reichman
+    - Abhay N. Pasupathy
+    - Xavier Roy
+    - Michael E. Ziebel
+  doi: ''
+  entrytype: article
+  facility: nslsii, xpd
+  grant: doeneutron23
+  journal: Nature Materials
+  month: tbd
+  nb: ''
+  note: arxiv.org/abs/2412.08631.
+  number: ''
+  pages: ''
+  professional_summary: ''
+  tags: cdw, 2d-material
+  title: Doping Induced Charge Density Wave and Ferromagnetism in the van der {Waals}
+    Semiconductor {CrSBr}
+  url: https://arxiv.org/abs/2412.08631.
+  volume: ''
+  year: '2024'
 miao;s16:
   abstract: "Structured Abstract\nBACKGROUNDTo understand material properties and
     functionality at the most fundamental level, one must know the three-dimensional
@@ -9108,20 +9182,20 @@ nanarong;npj24:
   optnote: ''
   optwwwlanl: ''
   pages: ''
-  summary_professional: Interpretable machine learning (ML) provides a 
-    generalizable approach for combining information from multiple heterogeneous 
-    spectra. Random forest models were trained on X-ray absorption near-edge 
-    spectra (XANES), atomic pair distribution functions (PDFs), and both inputs 
-    combined, to extract local atomic environments of transition metal cations 
-    in oxides. Feature importance analysis revealed the most informative regions 
-    in both spectra and how the information is balanced between them. Our approach 
-    enables exploration of information content and can inform experimental design 
-    when choosing between different methods.
-  synopsis: original paper demonstrating use of interpretable ML for combining
-    heterogeneous input spectra, XANES and PDF
+  summary_professional: Interpretable machine learning (ML) provides a generalizable
+    approach for combining information from multiple heterogeneous spectra. Random
+    forest models were trained on X-ray absorption near-edge spectra (XANES), atomic
+    pair distribution functions (PDFs), and both inputs combined, to extract local
+    atomic environments of transition metal cations in oxides. Feature importance
+    analysis revealed the most informative regions in both spectra and how the information
+    is balanced between them. Our approach enables exploration of information content
+    and can inform experimental design when choosing between different methods.
+  synopsis: original paper demonstrating use of interpretable ML for combining heterogeneous
+    input spectra, XANES and PDF
   tags: ml, xanes, pdf, random-forest
-  title: 'Use of machine learning in experiment design for multi-modal analysis of materials: 
-  x-ray absorption near-edge spectra (XANES) and pair distribution functions (PDF)'
+  title: 'Use of machine learning in experiment design for multi-modal analysis of
+    materials: x-ray absorption near-edge spectra (XANES) and pair distribution functions
+    (PDF)'
   url: https://doi.org/10.48550/arXiv.2410.17467
   volume: ''
   year: '2024'
@@ -10422,7 +10496,7 @@ rakit;am23:
   facility: ''
   grant: efrc18
   journal: Acta Materiala
-  month: Jan
+  month: jan
   nb: ''
   number: ''
   optannote: ''
@@ -10473,7 +10547,7 @@ rakit;jacs20:
   facility: aps, 9bm
   grant: efrc18
   journal: J. Am. Chem. Soc.
-  month: Nov
+  month: nov
   nb: art, hilight
   number: '44'
   optannote: ''
@@ -10578,7 +10652,7 @@ redmo;ecssl12:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/redmoessl12.pdf
   year: '2012'
-rijck;unpub22:
+rijck;sst22:
   ackno: This work was financially supported by the European Union Horizon 2020 Marie
     Curie Actions under the project SynFoNY (H2020/2016-722071). H. R. acknowledges
     support and funding as postdoctoral fellow fundamental research of the Research
@@ -10644,7 +10718,7 @@ rijcka;mdpim18:
   facility: nslsii, xpd
   grant: fwp17, typeB2, fy19
   journal: MDPI-Materials
-  month: Jun
+  month: jun
   nb: typeB2, fy18, typeB2, fy19
   number: ''
   optannote: ''
@@ -10745,7 +10819,7 @@ rohani;afm19:
   facility: xpd, nslsii
   grant: fwp17, typeB2, fy19
   journal: Adv. Funct. Mater.
-  month: Jan
+  month: jan
   nb: typeB2, fy19
   number: ''
   optannote: ''
@@ -10893,7 +10967,7 @@ sangi;prm18:
   facility: sls, xo6sa, fy18
   grant: ' fwp17, typeA, fy18 '
   journal: Phys. Rev. Materials
-  month: Aug
+  month: aug
   nb: typeA, fy18
   note: ''
   number: ''
@@ -11008,17 +11082,18 @@ sbilli;m24:
     contract No. DE-SC0024141.
   author:
     - Simon J. L. Billinge
-  doi: ''
+  day: '6'
+  doi: 10.1016/j.matt.2024.06.026
   entrytype: article
   facility: ''
   grant: doeneutron23
   journal: Matter
-  month: apr
+  month: nov
   nb: ''
-  note: submitted
   notes: ''
-  number: ''
-  pages: ''
+  number: '11'
+  optnote: submitted
+  pages: 3714--3727
   professional_summary: The materials genome project is a major inter-agency initiative
     in the USA to use "genomic-like" informatic methods to accelerate the discovery,
     development and deployment of new materials in devices.  It gets its name from
@@ -11034,8 +11109,8 @@ sbilli;m24:
   synopsis: The PDF is discussed as a possible example of a materials genome
   tags: materials_genome, clusterography
   title: Do materials have a genome, and if they do, what can be done with it?
-  url: ''
-  volume: ''
+  url: https://doi.org/10.1016/j.matt.2024.06.026
+  volume: '7'
   year: '2024'
 scard;aca16:
   author:
@@ -11048,7 +11123,7 @@ scard;aca16:
   facility: fy17
   grant: 'fwp14 '
   journal: Acta Crystallogr. A
-  month: Nov
+  month: nov
   nb: fy17, typeA
   number: ''
   optannote: ''
@@ -11073,10 +11148,10 @@ scher;jac24:
   entrytype: article
   facility: nslsii, pdf
   grant: 3m21
-  journal: J Appl. Crystallogr.
+  journal: arXiv
   month: tbd
   nb: ''
-  note: submitted
+  note: 2406.18177
   number: ''
   pages: ''
   professional_summary: Increasingly, there is demand to use laboratory based diffractometers
@@ -11091,9 +11166,62 @@ scher;jac24:
   tags: data_analysis, lab_data, absorption_corretion
   title: Protocols for obtaining reliable PDFs from Laboratory x-ray sources using
     {PDFgetX3}
+  url: https://arxiv.org/abs/2406.18177
+  volume: ''
+  year: '2024'
+scher;sub24:
+  ackno: 'Work in Prof. Wendy Queen’s group was funded by the Swiss National Science
+    Foundation under grant number 200021 188536. The authors thank Carlotta Seno for
+    her helpful input in analyzing the atomic pair distribution functions of Zr-oxo
+    clusters. M.A. expresses gratitude to the European Research Council (ERC) for
+    evaluating the project with the reference number 101106377 titled ”CLARIFIER”
+    and accepting it for funding under the HORIZON TMA MSCA Postdoctoral Fellowships
+    - European Fellowships. Furthermore, M.A. acknowledges the funding provided by
+    UK Research and Innovation (UKRI) under the UK government’s Horizon Europe funding
+    guarantee (Grant Reference: EP/Y023447/1; Organization Reference: 101106377).
+    B.M. acknowledges funding from the European Union’s Horizon 2020 research and
+    innovation program under the Marie Skłodowska- Curie grant agreement No. 945363.
+    SJLB acknowledges funding from the the U.S. Department of Energy, Office of Science,
+    Office of Basic Energy Sciences (DOE- BES) under contract No. DE-SC0024141. The
+    Swiss Norwegian beamlines (SNBL) at the European Synchrotron Research Facility
+    (ESRF) are acknowledged for the provision of beamtime and its staff for invaluable
+    support. The BM31 setup was funded by the Swiss National Science Foundation (grant
+    206021 189629) and the Research Council of Norway (grant 296087). The total scattering
+    and x-ray absorption spectroscopy experiments were measured during the beamtime
+    under proposal number A31-1-205 (https://doi.esrf. fr/10.15151/ESRF-ES-1213114713).'
+  author:
+    - Till Schertenleib
+    - Mehrdad Asgari
+    - Beatriz Mouri
+    - Vikram V. Karve
+    - Timo Felder
+    - Dragos Stoian
+    - Volodymyr Bon
+    - Jian Hao
+    - Andres Ortega-Guerrero
+    - Emad Oveisi
+    - Kumar Varoon Agrawal
+    - Berend Smit
+    - Stefan Kaskel
+    - Simon J. L. Billinge
+    - Wendy L. Queen
+  doi: ''
+  entrytype: article
+  facility: nslsii, pdf
+  grant: doeneutron23
+  journal: Nature Catalysis
+  month: tbd
+  nb: ''
+  note: submitted
+  number: ''
+  pages: ''
+  professional_summary: ''
+  synopsis: ''
+  title: 'Anisotropic node distortions in amorphous {MOF}s: low valent {Zr} sites
+    as catalytic hotspots'
   url: ''
   volume: ''
-  year: '2023'
+  year: '2024'
 schmi;jpcm03:
   author:
     - Schmidt, M.
@@ -11324,27 +11452,30 @@ shi;jpcc13:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/shi_jpcc13.pdf
   year: '2013'
 shi;m24:
-  ackno: tbd
+  ackno: S.J.L.B. acknowledges support while writing this paper from the US Department
+    of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
+    contract no. DE-SC002414.
   author:
     - Changmin Shi
     - Simon J. L. Billinge
-  doi: ''
+  day: 4
+  doi: 10.1016/j.matt.2024.10.018
   entrytype: article
   facility: ''
   grant: doeneutron23
   journal: Matter
-  month: tbd
+  month: dec
   nb: ''
-  note: Submitted
-  number: ''
-  pages: ''
+  number: '12'
+  optnote: To be Published
+  pages: p4130-4133
   professional_summary: A group working class pedagogy is described as well as personal
     anecdotes about different strategies for succhessful implementaion.
   synopsis: The approach of group work on worksheets is laid out
   tags: teaching, pedagogy
   title: Teaching materials science and engineering students in the 21st century
-  url: ''
-  volume: ''
+  url: https://doi.org/10.1016/j.matt.2024.10.018
+  volume: '7'
   year: '2024'
 shi;nm13i:
   author:
@@ -11979,9 +12110,9 @@ terba;cec22:
     of different polymers has a significant effect on the desolvation.  Through the
     use of PDF analysis and Raman scattering, the intricate role of specific solvent-polymer
     interactions is revealed.
-  tags: orgranic, drug, food, raman, pharma
+  tags: organics, drug, food, raman, pharma
   title: Controlling desolvation through polymer-assisted grinding
-  url: https://pubs.rsc.org./en/content/articlehtml/2022/ce/d2ce00162d
+  url: https://pubs.rsc.org/en/content/articlehtml/2022/ce/d2ce00162d
   volume: '24'
   year: '2022'
 terba;cgd15:
@@ -12157,7 +12288,9 @@ terba;nan15:
   optannote: ''
   optwwwlanl: ''
   pages: 5480--5487
-  tags: weak scattering, pharma, solution
+  synopsis: The paper that showed that using PDFgetX3 we could detect very weak signals
+    of nanocrystalline drug compounds in an aqueous solution
+  tags: weak_scattering, pharma, solution, organics
   title: Detection and characterization of nanoparticles in suspension at low concentrations
     using the x-ray total scattering pair distribution function technique
   url: http://dx.doi.org/10.1039/C4NR06486K
