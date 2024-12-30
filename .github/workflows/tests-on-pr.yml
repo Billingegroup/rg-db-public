@@ -15,7 +15,7 @@ jobs:
 
     runs-on: ubuntu-latest
     steps:
-      - name: Check out regolith repository
+      - name: Check out rg-db-public repository
         uses: actions/checkout@v4
 
       - name: Initialize miniconda
