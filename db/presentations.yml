@@ -5582,7 +5582,7 @@
   status: accepted
   subtitle: Some personal thoughts on determination and interpretation of structural
     models
-  title: Big box, small box, black box, George Box
+  title: Big box, small box, black box, {George Box}
   type: invited
 2408sb_padovasoftwarefayre,italy:
   abstract: na
@@ -5598,6 +5598,20 @@
     - all
   status: accepted
   title: Updates on PDF modeling software with diffpy-cm
+  type: invited
+2409sb_krakow,poland:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2024-09-01
+  end_date: 2024-09-08
+  location: Krakow, Poland
+  meeting_name: RAC International Summer School 2024
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: tbd
   type: invited
 2409sb_krakow_poland:
   abstract: At the heart of materials science studies for next generation materials
@@ -5629,6 +5643,43 @@
   status: accepted
   title: '{AI} in material structure research: basics and applications'
   type: invited
+2409sb_macsmin,universityofliverpool,uk:
+  abstract: We have recently been thinking, somewhat whimsically, about the materials
+    genome. The materials genome initiative (MGI) is a US government initiative from
+    2011 to speed up, and lower the cost of, the discovery of new advanced materials,
+    and their deployment in technologies, by applying data analytic methods inspired
+    by biological genomics.  Of course, materials do not have a genome.  However,
+    if we generalize the concept of a genome as a 1D discrete quantity that codes
+    for the 3-dimensional arrangement of atoms, then we do have quantities that could
+    serve as this generalized genome.  At MACSMIN 2023 I introduced our thinking on
+    this idea in a general sense.  In this talk I will briefly reiterate the main
+    idea, and then discuss, developments in our thinking over the past year. Two new
+    concepts emerge from this framing.  One is the idea of the materials ribosome.  The
+    ribosome is the cellular machinery that converts a DNA code into protein molecules
+    which then fold to unique 3D structures.  For our materials genome, this would
+    be machinery, either physical or computational, that can convert our materials
+    genome code into a 3D structure. The other concept is that of heredity, whereby
+    we can find new materials similar to existing ones by making small mutations to
+    our materials genome.  I will discuss how this way of thinking can guide us in
+    our search for genomic codings for materials structure.  Something that has emerged
+    from this thinking is a realization that the field of crystallography doesn't
+    have clear definitions of what constitutes a structure.  I call this the "structure
+    definition problem" and I suggest that, as a community it would be most beneficial
+    if we could address this problem and formalize definitions for what is meant by
+    materials structure.
+  authors:
+    - sbillinge
+  begin_date: 2024-09-09
+  end_date: 2024-09-13
+  location: University of Liverpool, UK
+  meeting_name: MACSMIN 2024
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Materials genomics, materials heredity and the structure definition problem
+  type: invited
+  webinar: true
 2409sb_padovaepdic,italy:
   abstract: At the heart of powder diffraction is the idea that we are studying real
     materials doing real things, often in real devices.  It is now possible to solve
