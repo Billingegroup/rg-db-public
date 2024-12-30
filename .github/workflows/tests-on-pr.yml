@@ -20,7 +20,7 @@ jobs:
         with:
           # make sure rg-db-public is at the same level as rg-db-local in the
           # directory tree
-          path: rg-db-public
+          path: .
 
       - name: check out regolith
         uses: actions/checkout@v3
