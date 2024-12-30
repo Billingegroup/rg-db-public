@@ -386,36 +386,6 @@ anker;npjcm22:
   url: https://doi.org/10.1038/s41524-022-00896-3
   volume: '8'
   year: '2022'
-guo;npjcm24:
-  ackno: Work in the Lipson group was supported by U.S. National Science Foundation under AI Institute for 
-    Dynamical Systems grant 372 2112085. Work in the Billinge group was supported by the U.S. Department of 
-    Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0024141.
-  author:
-    - Gabe Guo
-    - Judah Goldfeder
-    - Ling Lan
-    - Aniv Ray
-    - Albert Hanming Yang
-    - Boyuan Chen
-    - Simon J. L. Billinge
-    - Hod Lipson
-  doi: ''
-  entrytype: article
-  facility: ''
-  grant: doeneutron23
-  journal: npj Computational Materials
-  month: ''
-  nb: ''
-  number: ''
-  note: to be published.  Available on arXiv
-  pages: ''
-  professional_summary: ""
-  synopsis: ''
-  tags: ml, structure_solution, modeling
-  title: Towards end-to-end structure solutions from information-compromised diffraction data via generative deep learning
-  url: https://doi.org/10.1038/s41524-022-00896-3
-  volume: '8'
-  year: '2024'
 antic;jpcm13:
   author:
     - Antic, B.
