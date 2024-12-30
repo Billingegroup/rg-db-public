@@ -51,6 +51,7 @@ jobs:
 
       - name: Install regolith and requirements
         run: |
+          cd regolith
           conda install --file requirements/test.txt
           conda install --file requirements/conda.txt
           pip install gooey
@@ -59,7 +60,7 @@ jobs:
       - name: Validate rg-db-public
         shell: bash -l {0}
         run: |
-          cd rg-db-public/local
+          cd ../rg-db-public/local
           conda activate test
           regolith validate
           regolith build publist --no-pdf
