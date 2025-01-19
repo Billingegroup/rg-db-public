@@ -10,7 +10,7 @@ aabeykoon:
     - Milinda Abeykoon
     - A. M. M. Abeykoon
   avatar: https://www.bnl.gov/assets/global/images/render.php?q=0|24383.jpg|500
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2003
       begin_month: 6
@@ -71,7 +71,7 @@ aajayi:
   github_id: aajayi-21
   grp_mtg_active: false
   name: Adeolu Ajayi
-  orcid_id: ''
+  orcid_id: ""
   position: undergraduate researcher
 achoudhry:
   active: false
@@ -103,7 +103,7 @@ aday:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 1980
       institution: upenn
@@ -122,7 +122,7 @@ adippel:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2002
       institution: rwthaachen
@@ -140,7 +140,7 @@ aeberhadt:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 0
       institution: unknown
@@ -161,7 +161,8 @@ aejaz:
     - Adiba E.
     - Ejaz, Adiba
   avatar: https://github.com/adibaejaz.png
-  bio: Adiba is an undergraduate at Columbia College from Dubai, U.A.E. majoring in
+  bio:
+    Adiba is an undergraduate at Columbia College from Dubai, U.A.E. majoring in
     Math and Computer Science. She joined the Billinge Group as a research assistant
     in May 2020. She has experience with proof-based analysis and algebra; introductory
     statistics; and data structures in Java and Python, and has previously done research
@@ -175,7 +176,7 @@ aejaz:
       degree: B.A. Mathematics and Computer Science
       end_year: 2023
       end_month: 5
-  email: 'adiba.ejaz@columbia.edu '
+  email: "adiba.ejaz@columbia.edu "
   employment:
     - begin_year: 2020
       begin_month: 5
@@ -194,7 +195,7 @@ akovyakh:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2015
       degree: PhD in Physics
@@ -219,7 +220,7 @@ alappas:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 1989
       degree: PhD
@@ -257,13 +258,13 @@ alwu:
   github_id: alisnwu
   grp_mtg_active: true
   name: Alison Wu
-  orcid_id: ''
+  orcid_id: ""
   position: undergraduate researcher
 amasadeh:
   active: false
   aka: []
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2003
       degree: PhD
@@ -293,7 +294,7 @@ asartbaeva:
     - Sartbaeva, A.
     - Sartbaeva, Asel
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2002
       degree: PhD in Mineral Physics
@@ -346,7 +347,8 @@ ashaaban:
   active: false
   aka: []
   avatar: https://github.com/ahmeds343.png
-  bio: Ahmed is an undergraduate student from Cairo, Egypt. Ahmed is majoring in computer
+  bio:
+    Ahmed is an undergraduate student from Cairo, Egypt. Ahmed is majoring in computer
     science with interests in Mathematics, and Physics.
   education:
     - begin_year: 2018
@@ -386,7 +388,7 @@ ayang:
   github_id: Sparks29032
   grp_mtg_active: true
   name: Andrew Yang
-  orcid_id: ''
+  orcid_id: ""
   position: undergraduate research assistant
 bfrandsen:
   active: false
@@ -396,7 +398,7 @@ bfrandsen:
     - Frandsen, B. A.
     - Benjamin A. Frandsen
   avatar: https://github.com/benfrandsen.png
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2011
       begin_month: 9
@@ -432,7 +434,8 @@ bozer:
   active: false
   aka: []
   avatar: https://github.com/berrakozer.png
-  bio: Berrak is from Istanbul, Turkey. She acquired her Bachelor of Science Degree
+  bio:
+    Berrak is from Istanbul, Turkey. She acquired her Bachelor of Science Degree
     with a Major in Operations Research in Engineering Management Systems and a Minor
     in Materials Science and Engineering from Columbia University. She is currently
     pursuing her Master of Science Degree in Materials Science and Engineering in
@@ -478,7 +481,7 @@ btabanpour:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2014
       begin_month: 9
@@ -507,7 +510,8 @@ cbracy:
     - Bracy, Connor J.
     - Bracy, C. J.
   avatar: https://avatars.githubusercontent.com/u/7377785
-  bio: Connor was born and raised in a suburb just outside of Seattle Washington where
+  bio:
+    Connor was born and raised in a suburb just outside of Seattle Washington where
     he continued to live until coming to Columbia. Having originally started his higher
     education pursuing programming physics engines, he eventually transitioned to
     pursuing physics research. When he’s not working, you might find him running,
@@ -549,7 +553,8 @@ cbullard:
   active: false
   aka: []
   avatar: https://github.com/chloeann95.png
-  bio: Chloë grew up in Michigan and attended Michigan State University for her undergraduate
+  bio:
+    Chloë grew up in Michigan and attended Michigan State University for her undergraduate
     degrees in Physics and Mechanical Engineering, where she worked on computational
     plasma physics research. Afterward she attended the University of Toledo completing
     a Masters in Chemical Engineering while working on modeling CFD simulations for
@@ -600,7 +605,7 @@ cfarrow:
     - Farrow, Chris
     - Farrow, Christopher L.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2002
       degree: PhD
@@ -641,9 +646,9 @@ cgutierrez:
   active: false
   aka: []
   avatar: https://github.com/.png
-  bio: ''
+  bio: ""
   education: []
-  email: 'gutierrez@physics.ucla.edu '
+  email: "gutierrez@physics.ucla.edu "
   employment:
     - begin_date: 2011-01-01
       end_date: 2016-08-15
@@ -652,9 +657,9 @@ cgutierrez:
       group: bg
       advisor: sbillinge
       status: phd
-  github_id: ''
+  github_id: ""
   name: Christopher Gutierrez
-  orcid_id: ''
+  orcid_id: ""
   position: graduate research assistant
 chliu:
   active: false
@@ -665,7 +670,7 @@ chliu:
     - Liu, Chia-Hao
     - Liu, C-H.
   avatar: https://github.com/chiahaoliu.png
-  bio: ''
+  bio: ""
   education:
     - institution: Columbia University
       begin_year: 2014
@@ -674,7 +679,7 @@ chliu:
       group: bg
       advisor: sbillinge
       other:
-        - 'Advisor: Simon Billinge'
+        - "Advisor: Simon Billinge"
       department: apam
       degree: masters research assistant in Applied Physics
   email: cl3077@columbia.edu
@@ -693,7 +698,8 @@ chliu:
       advisor: sbillinge
       group: bg
   honors:
-    - name: Margaret C. Etter Student lecturer Award of the American Crystallographic
+    - name:
+        Margaret C. Etter Student lecturer Award of the American Crystallographic
         Association
       year: 2019
   name: Chia-Hao (Timothy) Liu
@@ -714,7 +720,7 @@ ckkim:
     - Kim, Chun. K.
     - Kim, C. K.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2007
       degree: PhD
@@ -782,10 +788,10 @@ cmyers:
   github_id: cadenmyers13
   grp_mtg_active: true
   name: Caden Myers
-  orcid_id: ''
+  orcid_id: ""
   position: graduate research assistant
 cseno:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/carltta.png
   bio: bio
@@ -800,9 +806,9 @@ cseno:
       advisor: sbillinge
       status: visitor-unsupported
   github_id: carltta
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Carlotta Seno
-  orcid_id: ''
+  orcid_id: ""
   position: visiting student
 cwright:
   active: false
@@ -815,7 +821,8 @@ cwright:
     - Christopher J. ``CJ" Wright
     - Christopher ``CJ" Wright
   avatar: https://github.com/CJ-Wright.png
-  bio: Christopher grew up in Rockville Centre, New York. He attended Brown University
+  bio:
+    Christopher grew up in Rockville Centre, New York. He attended Brown University
     where he earned a BS with honors in Chemical Physics. He worked with Prof. Shouheng
     Sun on electrochemical CO2 reduction and the structural dynamics of nanoparticles.
     After working at Brookhaven National Laboratory as a summer intern, he attended
@@ -837,8 +844,8 @@ cwright:
       begin_year: 2017
       end_year: 2019
       other:
-        - 'Advisor: Simon J.L. Billinge'
-        - 'Thesis: Towards Real Time Characterization of Grain Growth From the Melt'
+        - "Advisor: Simon J.L. Billinge"
+        - "Thesis: Towards Real Time Characterization of Grain Growth From the Melt"
     - institution: columbiau
       begin_year: 2016
       group: bg
@@ -849,19 +856,19 @@ cwright:
       begin_year: 2014
       end_year: 2014
       other:
-        - 'Advisor: Xiao-Dong Zhou'
-        - 'Thesis: Solving Atomic Structures using Statistical Mechanical Searches
-          on X-ray Scattering Derived Potential Energy Surfaces'
-        - 'Website: https://github.com/CJ-Wright/Masters_Thesis/raw/master/thesis.pdf'
+        - "Advisor: Xiao-Dong Zhou"
+        - "Thesis: Solving Atomic Structures using Statistical Mechanical Searches
+          on X-ray Scattering Derived Potential Energy Surfaces"
+        - "Website: https://github.com/CJ-Wright/Masters_Thesis/raw/master/thesis.pdf"
       degree: MS in Chemical Engineering
       location: Columbia, SC
     - institution: Brown University
       begin_year: 2010
       end_year: 2014
       other:
-        - 'Advisor: Shouheng Sun'
-        - 'Thesis: Solving Atomic Structures using Statistical Mechanical Searches
-          on X-ray Scattering Derived Potential Energy Surfaces'
+        - "Advisor: Shouheng Sun"
+        - "Thesis: Solving Atomic Structures using Statistical Mechanical Searches
+          on X-ray Scattering Derived Potential Energy Surfaces"
       degree: ScB in Chemical Physics with Honors
       location: Providence, RI
       gpa: 3.49
@@ -897,16 +904,16 @@ cwright:
       begin_year: 2015
       location: Upton, NY
       other:
-        - 'pyIID: The Python Infinite Improbability Drive, Monte Carlo Searches of
-          X-ray Scattering Derived Structures'
+        - "pyIID: The Python Infinite Improbability Drive, Monte Carlo Searches of
+          X-ray Scattering Derived Structures"
       position: visiting student
       organization: National Synchrotron Light Source-II, Brookhaven National Laboratory
     - end_year: 2014
       begin_year: 2014
       location: Upton, NY
       other:
-        - 'pyXPD: prototype controls software for the x-ray powder diffraction beamline,
-          28-ID'
+        - "pyXPD: prototype controls software for the x-ray powder diffraction beamline,
+          28-ID"
       position: programmer
       position_full: Software Engineer, SURP
       organization: National Synchrotron Light Source-II, Brookhaven National Laboratory
@@ -957,13 +964,14 @@ cwright:
         - Organized seminars with distinguished scientists, with an emphasis on talks
           on diversity and LGBTQ+ issues in STEM
       type: school
-    - name: 'Enhanced Learning Experience lecturer: University of South Carolina'
+    - name: "Enhanced Learning Experience lecturer: University of South Carolina"
       year: 2016
       other:
         - Presented a lecture and laboratory on electochemistry and catalysis
       type: department
-    - name: 'Electrochemical Society Student Chapter President: University of South
-        Carolina'
+    - name:
+        "Electrochemical Society Student Chapter President: University of South
+        Carolina"
       year: 2015
       other:
         - Organized seminars and outreach
@@ -984,7 +992,8 @@ cwright:
         - Organized an panel of chemistry alumni to discuss their careers both inside
           and outside of academia
       type: department
-    - name: Brown-Yale CCI Presenter at the Brown Science Conference at the Vartan
+    - name:
+        Brown-Yale CCI Presenter at the Brown Science Conference at the Vartan
         Gregorian Elementary School
       year: 2013
       other:
@@ -992,12 +1001,13 @@ cwright:
           water splitting, and associated pH changes, titled: "The Colorful Chemistry
           of Electricity"'
       type: profession
-    - name: 'Master of Ceremonies and Organizer Brown University "Chemistry: Believe
+    - name:
+        'Master of Ceremonies and Organizer Brown University "Chemistry: Believe
         it or Not" public chemistry demonstration'
       year: 2013
       type: department
     - end_year: 2013
-      name: ' Chemistry STEM Panelist Brown University A Day on College Hill'
+      name: " Chemistry STEM Panelist Brown University A Day on College Hill"
       begin_year: 2012
       other:
         - Discussed the Brown STEM program, especially the Chemical Physics program
@@ -1007,10 +1017,11 @@ cwright:
       other:
         - Prepared and presented demonstrations of guncotton, liquid nitrogen, and
           others
-        - 'Youtube video: https://www.youtube.com/watch?v=k8GxX7D2PI0'
+        - "Youtube video: https://www.youtube.com/watch?v=k8GxX7D2PI0"
       type: department
     - end_year: 2014
-      name: Renewable Energy Presenter and Facility Tour Guide at the NSLS "Science
+      name:
+        Renewable Energy Presenter and Facility Tour Guide at the NSLS "Science
         Sunday" laboratory open house at Brookhaven National Laboratory
       begin_year: 2012
       other:
@@ -1100,7 +1111,7 @@ cyshi:
     - Chenyang Shi
     - Shi, Chenyang
   avatar: https://github.com/curieshicy.png
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2011
       begin_month: 9
@@ -1140,7 +1151,8 @@ dbkim:
     - DK
     - David (Spanish pronunciation)
   avatar: https://github.com/davidkim1.png
-  bio: David is from Venezuela and is Half Korean. He enjoys making products that
+  bio:
+    David is from Venezuela and is Half Korean. He enjoys making products that
     people can use. he majored in Applied Math in college after having studied Computer
     Science for and Math for two years. He is currently working on a network and platform
     both to let your friends now when you are available to hangout and to find events
@@ -1178,7 +1190,7 @@ dbkim:
   github_id: davidkim1
   grp_mtg_active: false
   name: David Kim Brady
-  orcid_id: ''
+  orcid_id: ""
   position: Undergrad Researcher
 dhsu:
   active: false
@@ -1187,7 +1199,7 @@ dhsu:
     - Hsu, Daniel J.
     - Hsu, Daniel
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education: []
   employment:
     - begin_year: 2012
@@ -1206,7 +1218,8 @@ dpeters:
   aka:
     - Dom
   avatar: https://github.com/dpeters001.png
-  bio: Dominic is a rising-senior and chemical engineering undergraduate with minors
+  bio:
+    Dominic is a rising-senior and chemical engineering undergraduate with minors
     in mathematics and business administration. He has experience with Linux-based
     and python coding languages/protocols. His previous research experience includes
     protein engineering of the SARS-CoV-2 spike protein and the mapping of energetic
@@ -1236,7 +1249,7 @@ dpodgorski:
   aka:
     - Dragica Prill
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2014
       institution: ufrankfurt
@@ -1279,13 +1292,13 @@ dschmuckler:
   github_id: schmucklerd
   grp_mtg_active: false
   name: Daniel Schmuckler
-  orcid_id: ''
+  orcid_id: ""
   position: Undergraduate Researcher
 dtordari:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 0
       institution: uvalencia
@@ -1306,7 +1319,8 @@ dyano:
     - Daniela Hikari Yano
     - Daniela Yano
   avatar: http://github.com/dy2403.png
-  bio: Daniela was born and raised in Brazil, and is a student at Barnard College.
+  bio:
+    Daniela was born and raised in Brazil, and is a student at Barnard College.
     She started working with the Billinge Group the second semester of her first year,
     and is part of the Science Pathways Scholars Program at Barnard, a program to
     support young women from minorities who convey strong interest in science. Daniela
@@ -1338,7 +1352,7 @@ ebellingham:
   active: false
   aka: []
   avatar: https://github.com/ejb2203.png
-  bio: ''
+  bio: ""
   education: []
   email: ejb2203@columbia.edu
   employment:
@@ -1372,7 +1386,7 @@ ebohorquez:
   github_id: steff3280
   grp_mtg_active: false
   name: Estefania Bohorquez
-  orcid_id: ''
+  orcid_id: ""
   position: graduate research assistant
 ebozin:
   active: false
@@ -1384,7 +1398,7 @@ ebozin:
     - Bozin, E. S.
     - Bozin, E.
   avatar: https://gitlab.thebillingegroup.com/uploads/-/system/user/avatar/25/avatar.png
-  bio: ''
+  bio: ""
   education:
     - institution: Michigan State University
       begin_year: 1996
@@ -1394,7 +1408,7 @@ ebozin:
       degree: PhD in Physics
       advisor: sbillinge
       other:
-        - 'Advisor: Simon Billinge'
+        - "Advisor: Simon Billinge"
     - institution: Michigan State University
       begin_year: 1996
       end_year: 1999
@@ -1479,7 +1493,8 @@ eculbertson:
     - Culbertson, Elizabeth A.
     - Culbertson, Elizabeth Audrey
   avatar: https://github.com/eaculb.png
-  bio: Elizabeth grew up in Northern Virginia and earned her bachelors degree from
+  bio:
+    Elizabeth grew up in Northern Virginia and earned her bachelors degree from
     Stanford University in 2016, studying engineering physics and computer science.
     After starting her Ph.D. in applied physics at Columbia, she joined the Billinge
     group in fall 2017. She is excited to apply PDF techniques to the characterization
@@ -1490,7 +1505,7 @@ eculbertson:
       degree: masters research assistant in Applied Physics
       group: bg
       other:
-        - 'Advisor: Simon Billinge'
+        - "Advisor: Simon Billinge"
       department: apam
       begin_year: 2016
       gpa: 3.83
@@ -1498,8 +1513,8 @@ eculbertson:
       begin_year: 2012
       end_year: 2016
       other:
-        - 'Concentration: Renewable Energy'
-        - 'Minor: Computer Science'
+        - "Concentration: Renewable Energy"
+        - "Minor: Computer Science"
       degree: BS in Engineering Physics
       location: Stanford, CA
       gpa: 3.85
@@ -1524,21 +1539,21 @@ eculbertson:
       begin_year: 2015
       location: Stanford, CA
       other:
-        - 'Course: Physics 45: Light and Heat'
+        - "Course: Physics 45: Light and Heat"
       position: teaching assistant
       organization: Stanford University Department of Physics
     - end_year: 2015
       begin_year: 2015
       location: Stanford, CA
       other:
-        - 'Courses: Theory of Relativity, Quantum Mechanics'
+        - "Courses: Theory of Relativity, Quantum Mechanics"
       position: teaching assistant
       organization: Stanford Pre-Collegiate Studies Summer Institutues
     - end_year: 2015
       begin_year: 2013
       location: Stanford, CA
       other:
-        - 'Course: Inquiry-Based Physics'
+        - "Course: Inquiry-Based Physics"
       position: teaching assistant
       organization: Stanford Online High School
     - end_year: 2014
@@ -1551,7 +1566,7 @@ eculbertson:
       begin_year: 2013
       location: Stanford, CA
       other:
-        - 'Courses: Theory of Relativity, Quantum Mechanics'
+        - "Courses: Theory of Relativity, Quantum Mechanics"
       position: teaching assistant
       organization: Stanford Pre-Collegiate Studies Summer Institutues
   membership:
@@ -1563,12 +1578,13 @@ eculbertson:
   position: graduate research assistant
   service: []
   skills: []
-  title: ''
+  title: ""
 edennis:
   active: false
   aka: []
   avatar: https://github.com/eryndennis.png
-  bio: Eryn is a second year undergraduate student at Penn State University. She is
+  bio:
+    Eryn is a second year undergraduate student at Penn State University. She is
     studying Applied Data Sciences with an emphasis in Human-Centered Design and Development.
     She is originally from Philadelphia, PA, and in her free time she enjoys singing,
     working out, and crocheting. She is conducting research with the Columbia SURE
@@ -1578,7 +1594,8 @@ edennis:
   education:
     - begin_year: 2022
       begin_month: 8
-      degree: B.S. in Applied Data Sciences; emphasis in Human-Centered Design and
+      degree:
+        B.S. in Applied Data Sciences; emphasis in Human-Centered Design and
         Development
       institution: Penn State University
   email: ezd5337@psu.edu
@@ -1593,7 +1610,7 @@ edennis:
   github_id: eryndennis
   grp_mtg_active: false
   name: Eryn Dennis
-  orcid_id: ''
+  orcid_id: ""
   position: undergraduate researcher
 ekjaer:
   active: false
@@ -1604,7 +1621,7 @@ ekjaer:
     - Emil T. S. Kj{\\ae}r
     - Emil T. S. Kj{\ae}r
   avatar: https://github.com/EmilSkaaning.png
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2019
       begin_month: 9
@@ -1656,7 +1673,7 @@ erowbotham:
   github_id: rowbotham-evan
   grp_mtg_active: false
   name: Evan Rowbotham
-  orcid_id: ''
+  orcid_id: ""
   position: Undergraduate Researcher
 eshen:
   active: false
@@ -1668,7 +1685,8 @@ eshen:
     - Shen, Eric J.
     - Shen, E. J.
   avatar: https://github.com/sheneric88.png
-  bio: Eric is a Materials Science Ph.D. student from Detroit/Houston. He graduated
+  bio:
+    Eric is a Materials Science Ph.D. student from Detroit/Houston. He graduated
     from Cornell University with a B.A. in Physics, B.A. in Chemistry, and minor in
     Music. In his free time, you can find him playing violin, conducting, cooking
     Taiwanese food, taking an excessive amount of photos, or going on runs (to play
@@ -1702,7 +1720,7 @@ fatassi:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 0
       institution: purdueu
@@ -1741,7 +1759,7 @@ fbertolotti:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2010
       degree: PhD
@@ -1768,7 +1786,8 @@ fkwei:
     - Fengkai Wei
     - F.K. Wei
   avatar: https://github.com/Fengkai-Wei.png
-  bio: Fengkai Wei grew up in Nanjing(Nanking), China. He graduated from University
+  bio:
+    Fengkai Wei grew up in Nanjing(Nanking), China. He graduated from University
     of Sheffield with bachelor degree of Material Physics in 2020. He won a third
     prize in Contemporary Undergraduate Mathematical Contest in Modeling in 2018.
     He is interested in simulation of physical phenomena. In his spare time, you will
@@ -1800,7 +1819,7 @@ fmohiuddin-jacobs:
   aka:
     - Farida Mohiuddin-Jacobs
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 1992
       degree: PhD
@@ -1826,7 +1845,8 @@ fsimpson:
   active: false
   aka: []
   avatar: https://github.com/jc-umana.png
-  bio: Farrah Graduated from Columbia Applied Physics program in 2017 and is doing
+  bio:
+    Farrah Graduated from Columbia Applied Physics program in 2017 and is doing
     a PhD in experimental high energy physics at Brown University
   education:
     - institution: Columbia University
@@ -1835,7 +1855,7 @@ fsimpson:
       location: New York, NY
       department: apam
       degree: BS in Applied Physics
-  email: ''
+  email: ""
   employment:
     - begin_year: 2016
       begin_month: 4
@@ -1852,7 +1872,7 @@ gcampi:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2005
       degree: PostDoctoral researcher
@@ -1877,7 +1897,7 @@ gpaglia:
     - Paglia G.
     - Paglia, G.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2000
       degree: PhD in Materials Science
@@ -1950,7 +1970,8 @@ hcchiu:
     - Hoi Chun Chiu
     - Hoi Chun
   avatar: https://github.com/jasonhcc.png
-  bio: Hoi Chun is an Applied Physics PhD student from Hong Kong. Prior to joining
+  bio:
+    Hoi Chun is an Applied Physics PhD student from Hong Kong. Prior to joining
     Columbia, he obtained a BSc in Physics from HKUST. He joined the Billinge group
     in summer 2021. He loves listening to Cantonese music and watching movies during
     his free time.
@@ -1986,7 +2007,7 @@ hhu:
     - Hefei Hu
     - Hu, H.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2006
       degree: PhD in Physics
@@ -2035,7 +2056,7 @@ hjkim:
   aka:
     - Hyun-Jeong Kim
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2002
       end_year: 2007
@@ -2067,7 +2088,7 @@ hlin:
   active: false
   aka: []
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2000
       degree: PhD
@@ -2095,7 +2116,7 @@ htiwari:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2010
       begin_month: 9
@@ -2122,7 +2143,8 @@ hvuong:
     - Vuong, H-T.
     - Hung T. Vuong
   avatar: https://github.com/tienhungvuong.png
-  bio: Hung Vuong is a Chemical Physics Ph.D student from Hanoi, Vietnam. Before coming
+  bio:
+    Hung Vuong is a Chemical Physics Ph.D student from Hanoi, Vietnam. Before coming
     to Columbia, he graduated from Grinnell College in Iowa with a B.A. in Mathematics
     and Chemistry. His research in the Billinge group will be about applying Machine
     Learning in analyzing PDF data. Outside academics, he's interested in photography
@@ -2133,7 +2155,7 @@ hvuong:
       group: bg
       advisor: rfriesner
       other:
-        - 'Advisor: Richard Friesner'
+        - "Advisor: Richard Friesner"
       department: chemistry
       degree: PhD in Chemical Physics
       location: New York, NY
@@ -2168,7 +2190,7 @@ hyavas:
   active: false
   aka: []
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2001
       degree: PhD
@@ -2199,7 +2221,8 @@ iadnan:
     - Mr Adnan
     - Mr ALIbrahim
   avatar: https://github.com/EngrIbrahimAdnan.png
-  bio: Ibrahim, originally from kuwait, is a Masters student in the Electrical engineering
+  bio:
+    Ibrahim, originally from kuwait, is a Masters student in the Electrical engineering
     department at Columbia university. He obtained his undergraduate degree in Electronic
     Engineering from university of Portsmouth, United Kingdom. Upon graduating in
     july of 2021, he worked as a network engineer at kuwait's ministry of interior
@@ -2218,7 +2241,7 @@ iadnan:
       end_year: 2024
       advisor: sbillinge
       other:
-        - 'Advisor: Peter Kinget'
+        - "Advisor: Peter Kinget"
     - begin_year: 2018
       degree: Bachelor of Science
       institution: University of Portsmouth, United Kingdom
@@ -2260,14 +2283,14 @@ idouglas:
   github_id: imanis-d
   grp_mtg_active: false
   name: Imani Douglas
-  orcid_id: ''
+  orcid_id: ""
   position: undergraduate research fellow
 ikjeong:
   active: false
   aka:
     - Jeong, {I. -K. }
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 1998
       end_year: 2001
@@ -2300,7 +2323,7 @@ jbloch:
   aka:
     - Jacques Bloch
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 1992
       degree: PhD in Physics
@@ -2378,7 +2401,8 @@ jcalamari:
     - Justin S Calamari
     - Calamari
   avatar: https://github.com/justcalamari.png
-  bio: Justin grew up in Port Washington, New York. He is currently a senior at Columbia
+  bio:
+    Justin grew up in Port Washington, New York. He is currently a senior at Columbia
     University, pursuing a BS in Applied Physics with a minor in Computer Science.
     With the Billinge Group, Justin is developing software for group data management.
   education:
@@ -2389,7 +2413,7 @@ jcalamari:
       department: apam
       begin_year: 2014
       other:
-        - 'Minor: Computer Science'
+        - "Minor: Computer Science"
       gpa: 4.11
   email: jsc2223@columbia.edu
   employment:
@@ -2452,7 +2476,7 @@ jchung:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 0
       institution: msu
@@ -2473,7 +2497,8 @@ jeaster:
     - J. Y. Easter
     - J. Easter
   avatar: https://github.com/easterjaylah.png
-  bio: Jay Easter is a Henson Entrepreneur Endowed Honors scholar at the University
+  bio:
+    Jay Easter is a Henson Entrepreneur Endowed Honors scholar at the University
     of Maryland Eastern Shore, studying general engineering with a mechanical engineering
     specialization. His general research interests pertain to understanding the relationship
     between the atomic structure and the emergent properties of organic materials
@@ -2497,14 +2522,14 @@ jeaster:
   github_id: easterjaylah
   grp_mtg_active: false
   name: Jaylah Easter
-  orcid_id: ''
+  orcid_id: ""
   position: Undergraduate Researcher
 jgriffiths:
   active: false
   aka:
     - Jack P. Griffiths
   avatar: https://github.com/j-griffo.png
-  bio: ''
+  bio: ""
   education: []
   email: jpg66@cam.ac.uk
   employment:
@@ -2538,7 +2563,7 @@ jhalloram:
   github_id: john-halloran
   grp_mtg_active: true
   name: John Halloram
-  orcid_id: ''
+  orcid_id: ""
   position: undergraduate researcher
 jliu:
   active: false
@@ -2547,7 +2572,7 @@ jliu:
     - Liu, J.
     - Liu, Jiwu
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2006
       degree: PhD
@@ -2594,7 +2619,8 @@ jumana:
     - Jaylyn Umana
     - J. Umana
   avatar: https://github.com/jc-umana.png
-  bio: Jaylyn C. Umana grew up on Long Island, NY and is currently an undergraduate
+  bio:
+    Jaylyn C. Umana grew up on Long Island, NY and is currently an undergraduate
     student and researcher at Columbia University pursuing degrees in both physics
     and mathematics. His primary research interests are in condensed matter with a
     focus on transition metal oxides. He has experience with synthesis as well as
@@ -2621,7 +2647,8 @@ jwilley:
   active: false
   aka: []
   avatar: https://en.gravatar.com/userimage/47018931/e47a250619adbfe7d9857ce3d628b837.jpg
-  bio: John Willey is currently pursuing a master's degree in applied physics. He
+  bio:
+    John Willey is currently pursuing a master's degree in applied physics. He
     has been a data scientist and software engineer in biotech since 2008. His research
     interests include solid state physics, quantum computing, and quantum optics.
     Outside of physics he enjoys spending time with his wife, daughter, and dog.
@@ -2666,7 +2693,8 @@ jwlee:
   active: false
   aka: []
   avatar: https://github.com/jaewon078.png
-  bio: Jaewon Lee is currently a student at Columbia University majoring in Computer
+  bio:
+    Jaewon Lee is currently a student at Columbia University majoring in Computer
     Science.
   education:
     - institution: Columbia University
@@ -2686,7 +2714,7 @@ jwlee:
   github_id: jaewon078
   grp_mtg_active: false
   name: Jaewon Lee
-  orcid_id: ''
+  orcid_id: ""
   position: Undergraduate Researcher
 jwzang:
   active: false
@@ -2696,7 +2724,8 @@ jwzang:
     - J. Zang
     - Zang, J.
   avatar: https://github.com/jiaweizang.png
-  bio: Jiawei grew up in Shandong, China. She earned her B.S. in Physics in 2019 from
+  bio:
+    Jiawei grew up in Shandong, China. She earned her B.S. in Physics in 2019 from
     Fudan University. She joined the Billinge Group in the summer of 2020 and is interested
     in applying data science to the analysis of materials. In her spare time, she
     likes rock climbing and trying different foods.
@@ -2736,7 +2765,7 @@ kjensen:
     - Jensen, Kirsten M. O.
     - Kirsten M. {\O}. Jensen
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2008
       degree: PhD in Chemistry
@@ -2770,7 +2799,7 @@ kknox:
     - Knox, K. R.
     - Knox, Kevin R.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2006
       degree: PhD
@@ -2832,7 +2861,8 @@ klkim:
   active: false
   aka: []
   avatar: https://github.com/kaylabim.png
-  bio: Kayla Kim is currently an undergraduate student at Columbia University pursuing
+  bio:
+    Kayla Kim is currently an undergraduate student at Columbia University pursuing
     a B.S. in Applied Mathematics and a minor in Computer Science.
   education:
     - begin_year: 2020
@@ -2857,7 +2887,7 @@ kloza:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2011
       degree: PhD
@@ -2880,7 +2910,7 @@ kseth:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2016
       begin_month: 9
@@ -2905,7 +2935,8 @@ kwang:
   active: false
   aka: []
   avatar: https://github.com/mkwang2024.png
-  bio: Kevin grew up in Beijing, China. He is an undergraduate student in Columbia
+  bio:
+    Kevin grew up in Beijing, China. He is an undergraduate student in Columbia
     College studying physics with a minor in computer science. He is interested in
     condensed matter physics and machine learning. In his free time, he enjoys playing
     tennis and squash.
@@ -2934,7 +2965,8 @@ lcheng:
   active: false
   aka: []
   avatar: https://github.com/OpusXI.png
-  bio: Louis is from Singapore and Hong Kong. He is currently a GS student studying
+  bio:
+    Louis is from Singapore and Hong Kong. He is currently a GS student studying
     Data Science, and he wishes to pursue a Business Analytics master's. Previously,
     he has worked for Valencia Club de Futbol and Singapore Civil Defence Force. In
     his free time, he enjoys playing soccer and tennis.
@@ -2955,13 +2987,14 @@ lcheng:
   github_id: OpusXI
   grp_mtg_active: false
   name: Louis Cheng
-  orcid_id: ''
+  orcid_id: ""
   position: undergraduate researcher
 lkranis:
   active: false
   aka: []
   avatar: https://github.com/lkranis.png
-  bio: Lauren is from Long Island, New York. She is a combined plan student currently
+  bio:
+    Lauren is from Long Island, New York. She is a combined plan student currently
     studying material science and engineering in SEAS and studied mathematics at Franklin
     and Marshall College. In her free time she enjoys playing soccer and running.
   education:
@@ -2985,13 +3018,13 @@ lkranis:
   github_id: lkranis
   grp_mtg_active: false
   name: Lauren Kranis
-  orcid_id: ''
+  orcid_id: ""
   position: undergraduate researcher
 llan:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/lanikaling.png
-  bio: ''
+  bio: ""
   education: []
   email: ll3350@columbia.edu
   employment:
@@ -3012,7 +3045,7 @@ lmalavasi:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2000
       degree: PhD
@@ -3036,7 +3069,7 @@ lyang:
     - Long Yang
     - Yang, Long
   avatar: https://github.com/dragonyanglong.png
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2015
       begin_month: 9
@@ -3076,7 +3109,7 @@ mdapiaggi:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 1991
       degree: PhD
@@ -3102,7 +3135,7 @@ mgarciafernandez:
     - Mirian García-Fernández
     - García-Fernández, Mirian.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2006
       begin_month: 9
@@ -3137,7 +3170,7 @@ mgutmann:
     - Gutmann, M.
     - Gutmann, M
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 0
       institution: unknown
@@ -3162,7 +3195,7 @@ mkane:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 0
       institution: unknown
@@ -3180,7 +3213,7 @@ mkarlsen:
   active: false
   aka: []
   avatar: https://github.com/maak-sdu.png
-  bio: ''
+  bio: ""
   education: []
   email: maak@sku.dk
   employment:
@@ -3203,7 +3236,7 @@ mkemali:
   aka:
     - Mohamed Kemali
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 1997
       degree: PhD
@@ -3225,7 +3258,7 @@ moneebshatnawi:
   active: false
   aka: []
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2004
       degree: PhD
@@ -3256,7 +3289,7 @@ mouathshatnawi:
     - Shatnawi, Mouath
     - Shatnawi, Mouath Ghazi
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2001
       degree: PhD
@@ -3300,7 +3333,7 @@ mschmidt:
   aka:
     - Marek Schmidt
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 1998
       degree: PhD
@@ -3332,7 +3365,7 @@ mterban:
     - Maxwell W. Terban
     - Terban, Maxwell
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2013
       begin_month: 1
@@ -3369,7 +3402,7 @@ mtrumbull:
   active: false
   aka: []
   avatar: https://github.com/MichaelTrumbull.png
-  bio: ''
+  bio: ""
   education: []
   email: mjt2211@columbia.edu
   employment:
@@ -3383,7 +3416,7 @@ mtrumbull:
   github_id: MichaelTrumbull
   grp_mtg_active: false
   name: Michael Trumbull
-  orcid_id: ''
+  orcid_id: ""
   position: masters researcher
 mwaddell:
   active: false
@@ -3393,7 +3426,7 @@ mwaddell:
     - Waddell, Michael A.
     - Michael Alexander Waddell
   avatar: https://github.com/Mwaddellcolumbia.png
-  bio: ''
+  bio: ""
   education:
     - institution: George Washington University
       begin_year: 2007
@@ -3438,7 +3471,8 @@ mwinitch:
   active: false
   aka: []
   avatar: https://github.com/mwinitch.png
-  bio: Michael is an undergraduate from New York. He is majoring in computer science
+  bio:
+    Michael is an undergraduate from New York. He is majoring in computer science
     at Columbia Engineering. He joined the Billinge Group in Spring 2020.
   education: []
   email: mlw2173@columbia.edu
@@ -3463,7 +3497,8 @@ mzhao:
     - Max Zhao
     - Zhao, Jinpai
   avatar: https://github.com/MaxPaiPai.png
-  bio: Jinpai (Max) Zhao grew up in Shenzhen, China. He's a three plus two engineering
+  bio:
+    Jinpai (Max) Zhao grew up in Shenzhen, China. He's a three plus two engineering
     combined plan student from Davidson College, NC. Right now he's a Applied Math
     junior at Columbia Univeristy.At Davidson College, he worked on creating a new
     network ranking which targeted underrated players using python networkx package.
@@ -3476,14 +3511,14 @@ mzhao:
       department: Applied Mathematics
       end_year: 2023
       other:
-        - 'Advisors: Dr. Kui Ren'
+        - "Advisors: Dr. Kui Ren"
     - begin_year: 2018
       degree: Bachelor of Art
       institution: Davidson College
       department: Mathematics and Computer Science
       end_year: 2021
       other:
-        - 'Advisors: Dr. Rich Neidinger'
+        - "Advisors: Dr. Rich Neidinger"
   email: jz3445@columbia.edu
   employment:
     - begin_date: 2021-09-14
@@ -3507,7 +3542,8 @@ nasker:
     - Nicholas George Asker
     - N.G.Asker
   avatar: https://github.com/N-G-Asker.png
-  bio: Nicholas Asker is a masters student in computer science at Columbia University.
+  bio:
+    Nicholas Asker is a masters student in computer science at Columbia University.
     Prior to pursuing a graduate degree, Nicholas was a cybersecurity consultant at
     Booz Allen Hamilton, where his on-the-job experience doing technology and security
     research for government clients sparked an interest in programming. He holds a
@@ -3537,14 +3573,14 @@ nasker:
   github_id: N-G-Asker
   grp_mtg_active: false
   name: Nick Asker
-  orcid_id: ''
+  orcid_id: ""
   position: masters researcher
 nfuller:
   active: false
   aka:
     - N Fuller
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - institution: Brooklyn College of the City University of New York (CUNY)
       begin_year: 2011
@@ -3570,7 +3606,8 @@ nthomas:
     - Nancy Knight Thomas
     - Nancy K. Thomas
   avatar: https://github.com/noniethomas.png
-  bio: Nonie is a senior studying Applied Mathematics in the School of Engineering
+  bio:
+    Nonie is a senior studying Applied Mathematics in the School of Engineering
     and Applied Science at Columbia. She started working with the Billinge Group the
     second semester of her senior year. After  graduating, she will be attending MIT
     Sloan to pursue a Master of Business Analytics.
@@ -3604,7 +3641,7 @@ oprymak:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2002
       degree: PhD
@@ -3628,7 +3665,7 @@ ostachs:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 0
       institution: unknown
@@ -3647,7 +3684,7 @@ pdas:
   aka:
     - Partha Pratim Das
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2007
       degree: PhD
@@ -3680,7 +3717,7 @@ pjuhas:
     - Juhás, Pavol
     - Juh\'{a}s, P.
   avatar: https://github.com/pavoljuhas.png
-  bio: ''
+  bio: ""
   education:
     - degree: PhD in Physics
       institution: upenn
@@ -3733,7 +3770,8 @@ pliu:
   active: false
   aka: []
   avatar: https://github.com/pliu2781.png
-  bio: Peter was born in New York, and grew up in suburban New Jersey. He completed
+  bio:
+    Peter was born in New York, and grew up in suburban New Jersey. He completed
     his Bachelor's  Degree at NYU Tandon School of Engineering, majoring in Applied
     Physics with a minor in Computer Science and a minor in Nuclear Engineering. He
     is currently pursuing his M.S. degree at Columbia SEAS, majoring in Applied Physics.
@@ -3759,13 +3797,14 @@ pliu:
   github_id: pliu2781
   grp_mtg_active: false
   name: Peter Liu
-  orcid_id: ''
+  orcid_id: ""
   position: masters researcher
 pnehra:
   active: false
   aka: []
   avatar: https://github.com/priyankaanehra.png
-  bio: Priyanka is from BC, Canada. She is currently an undergraduate student studying
+  bio:
+    Priyanka is from BC, Canada. She is currently an undergraduate student studying
     applied mathematics in SEAS. For the past 3 years, she studied mathematics with
     a pure math focus in Virginia, while also minoring in physics and conducting research
     in the chemistry field. In her spare time, she enjoys running and baking.
@@ -3790,14 +3829,14 @@ pnehra:
   github_id: priyankaanehra
   grp_mtg_active: false
   name: Priyanka Nehra
-  orcid_id: ''
+  orcid_id: ""
   position: undergraduate researcher
 ppeterson:
   active: false
   aka:
     - Peterson, P. F.
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: ''
+  bio: ""
   education:
     - begin_year: 1999
       degree: PhD
@@ -3828,7 +3867,7 @@ ptian:
   aka:
     - Peng Tian
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2008
       begin_month: 9
@@ -3884,7 +3923,8 @@ qdu:
     - Qiang, Du
     - Du, Qiang
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: Dr.Du is the Fu Foundation Professor of Applied Mathematics at the Department
+  bio:
+    Dr.Du is the Fu Foundation Professor of Applied Mathematics at the Department
     of Applied Physics and Applied Mathematics (APAM), Fu Foundation School of Engineering
     and Applied Science (SEAS), Columbia University. He is also an affiliated with
     the Data Science Institute (DSI). He chaired the Applied Mathematics Program Committee
@@ -3905,7 +3945,8 @@ raidun:
   active: false
   aka: []
   avatar: https://github.com/raidun99.png
-  bio: Ruby grew up in Albuquerque, NM. She is currently an undergraduate student
+  bio:
+    Ruby grew up in Albuquerque, NM. She is currently an undergraduate student
     studying Materials Science and Engineering with a minor in Computer Science. In
     her spare time she enjoys baking and listening to podcasts.
   education: []
@@ -3923,13 +3964,14 @@ raidun:
   github_id: raidun99
   grp_mtg_active: false
   name: Ruby Aidun
-  orcid_id: '0000'
+  orcid_id: "0000"
   position: undergraduate researcher
 ranselm:
   active: false
   aka: []
   avatar: https://github.com/ryboselm.png
-  bio: Ryan is an undergraduate in SEAS from Houston, Texas studying computer science
+  bio:
+    Ryan is an undergraduate in SEAS from Houston, Texas studying computer science
     with a minor in applied math and/or applied physics. He has previously worked
     on finding and characterizing charge density saddle points in crystalline lattices.
     In his free time, he enjoys going on runs and reading postmodern fiction. He is
@@ -3954,10 +3996,10 @@ ranselm:
   github_id: ryboselm
   grp_mtg_active: false
   name: Ryan Anselm
-  orcid_id: ''
+  orcid_id: ""
   position: undergrad researcher
 rdhua:
-  active: true
+  active: false
   aka:
     - Rundong Hua
   avatar: https://github.com/stevenhua0320.png
@@ -3973,7 +4015,7 @@ rdhua:
       advisor: sbillinge
       status: undergrad
   github_id: stevenhua0320
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Rundong (Steven) Hua
   orcid_id: 0009-0003-1947-1857
   position: undergraduate researcher
@@ -3981,7 +4023,7 @@ rdifrancesco:
   active: false
   aka: []
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: ''
+  bio: ""
   education:
     - begin_year: 1992
       degree: PhD
@@ -4013,7 +4055,8 @@ rgu:
     - Ran Gu
     - Gu, Ran
   avatar: https://github.com/guran1214.png
-  bio: Ran was born in Shandong Province, China in 1989. He attended Nankai University
+  bio:
+    Ran was born in Shandong Province, China in 1989. He attended Nankai University
     located in Tianjin where he earned a B. S. in Mathematics and earned a PhD in
     Computational Mathematics in Chinese Academy of Sciences located in Beijing. He
     joined the Billinge Group and Du's CM3 group in fall 2017 and is currently working
@@ -4047,8 +4090,7 @@ rgu:
       group: bg
       organization: Columbia University
   github_id: guran1214
-  google_scholar_url: 
-    https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F7z7xLHLAfG-0KjERWe7zeuQgGtwaYiHFOad01S66fU1UZDsC9gMhfU2okIFbtvgeXHRtYu6igeFqbLBqKw12J1zF2K3g&user=3MveL9IAAAAJ
+  google_scholar_url: https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F7z7xLHLAfG-0KjERWe7zeuQgGtwaYiHFOad01S66fU1UZDsC9gMhfU2okIFbtvgeXHRtYu6igeFqbLBqKw12J1zF2K3g&user=3MveL9IAAAAJ
   grp_mtg_active: false
   name: Ran Gu
   orcid_id: 0000-0002-4416-5021
@@ -4058,7 +4100,7 @@ rjacubinas:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 0
       institution: unknown
@@ -4081,7 +4123,7 @@ rkoch:
     - R. J. Koch
     - Robert J. Koch
   avatar: https://gitlab.thebillingegroup.com/uploads/-/system/user/avatar/107/avatar.png
-  bio: ''
+  bio: ""
   education:
     - institution: University of Trento
       begin_year: 2012
@@ -4090,7 +4132,7 @@ rkoch:
       department: physics
       degree: PhD in Physics
       other:
-        - 'Advisors: Paolo Scardi, Matteo Leoni'
+        - "Advisors: Paolo Scardi, Matteo Leoni"
   email: rkoch@bnl.gov
   employment:
     - begin_month: 9
@@ -4126,7 +4168,7 @@ rlee:
   github_id: sl5035
   grp_mtg_active: false
   name: Robin Lee
-  orcid_id: ''
+  orcid_id: ""
   position: undergrad researcher
 rnzhang:
   active: false
@@ -4153,7 +4195,8 @@ rpokratath:
   aka:
     - Rohan Pokratath
   avatar: https://www.github.com/rohanpok.png
-  bio: Rohan was born in Calicut, India in 1993. He did his masters in Material Science
+  bio:
+    Rohan was born in Calicut, India in 1993. He did his masters in Material Science
     from Indian Institute of Technology Bombay and currently enrolled as a PhD student
     at University of Basel, on the topic of characterizing metal oxide nanocrystals
     using X-ray Pair Distribution Function Analysis. At Columbia Univertsity, he is
@@ -4197,7 +4240,7 @@ rzyu:
   aka:
     - Yu, Runze
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2010
       degree: PhD in Physics
@@ -4223,9 +4266,9 @@ rzyu:
 sandrello:
   active: true
   aka: []
-  avatar: 
-    https://media.licdn.com/dms/image/D4E03AQFXa02w443ZCg/profile-displayphoto-shrink_200_200/0/1667414532631?e=1695254400&v=beta&t=o2XvkKEklVgkrx646E2f8PGkxGHjU2r7CfTjkJ1He0Q
-  bio: Rising Junior at Columbia University studying Applied Physics with a minor
+  avatar: https://media.licdn.com/dms/image/D4E03AQFXa02w443ZCg/profile-displayphoto-shrink_200_200/0/1667414532631?e=1695254400&v=beta&t=o2XvkKEklVgkrx646E2f8PGkxGHjU2r7CfTjkJ1He0Q
+  bio:
+    Rising Junior at Columbia University studying Applied Physics with a minor
     in CS. Interests in all types of computational physics.
   education:
     - institution: Columbia University (SEAS)
@@ -4244,14 +4287,14 @@ sandrello:
   github_id: 8bitsam
   grp_mtg_active: true
   name: Samuel Andrello
-  orcid_id: ''
+  orcid_id: ""
   position: Undergraduate Researcher
 sbandi:
   active: false
   aka:
     - Sasaank Bandi
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2015
       end_year: 2019
@@ -4282,7 +4325,7 @@ sbanerjee:
     - Banerjee, S.
     - S. Banerjee
   avatar: https://github.com/sbanerjee23.png
-  bio: ''
+  bio: ""
   education:
     - institution: columbiau
       begin_year: 2013
@@ -4295,7 +4338,7 @@ sbanerjee:
       advisor: sbillinge
       degree: masters research assistant in Applied Physics
       other:
-        - 'Advisor: Simon Billinge'
+        - "Advisor: Simon Billinge"
     - institution: Wake Forest University
       degree: BS in Physics
       begin_year: 2008
@@ -4344,7 +4387,8 @@ sbillinge:
     - sbillinge
     - Simon John Laird Billinge
   avatar: https://github.com/sbillinge.png
-  bio: "Prof. Billinge has more than 25 years of experience developing and  applying
+  bio:
+    "Prof. Billinge has more than 25 years of experience developing and  applying
     techniques to study local structure in materials using x-ray,  neutron and electron
     diffraction including the development of novel data analysis methods including
     graph theoretic, artificial intelligence and machine learning approaches. He earned
@@ -4436,8 +4480,8 @@ sbillinge:
       degree: BA in Metallurgy and Materials Science
       advisor: George Smith
       other:
-        - 'Disseration: Development of a novel ultra-high strength alloy steel for
-          wire and cable'
+        - "Disseration: Development of a novel ultra-high strength alloy steel for
+          wire and cable"
     - institution: upenn
       advisor: Takeshi Egami
       begin_year: 1987
@@ -4445,17 +4489,17 @@ sbillinge:
       department: mse
       degree: PhD in Materials Science and Engineering
       other:
-        - 'Advisors: Takeshi Egami and Peter Davies'
-        - 'Disseration: Local atomic structure and superconducivity of Nd$_{2-x}$Ce$_x$CuO$_{4-y}$:
-          a pair distribution function study '
+        - "Advisors: Takeshi Egami and Peter Davies"
+        - "Disseration: Local atomic structure and superconducivity of Nd$_{2-x}$Ce$_x$CuO$_{4-y}$:
+          a pair distribution function study "
   email: sb2896@columbia.edu
   employment:
     - organization: Columbia University
       begin_year: 2008
       group: bg
       other:
-        - 'Full title: Professor of Materials Science and of Applied Physics and of
-          Applied Mathematics'
+        - "Full title: Professor of Materials Science and of Applied Physics and of
+          Applied Mathematics"
       department: Applied Physics and Applied Mathematics
       position: professor
       status: pi
@@ -4509,13 +4553,22 @@ sbillinge:
       begin_year: 1992
       end_year: 1994
       other:
-        - 'Advisor: George Kwei'
+        - "Advisor: George Kwei"
       status: postdoc
   funding: []
   github_id: sbillinge
   google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
   grp_mtg_active: false
   hindex:
+    - h: 89
+      h_last_five: 52
+      citations: 35679
+      citations_last_five: 14979
+      origin: Google Scholar
+      since: 1991
+      year: 2025
+      month: 1
+      day: 13
     - h: 86
       h_last_five: 54
       citations: 32450
@@ -4602,7 +4655,8 @@ sbillinge:
       year: 2025
     - name: Flack Lecturer of the Swiss Society for Crystallography
       year: 2023
-    - name: Distinguished Powder Diffractionist Prize of the European Powder Diffraction
+    - name:
+        Distinguished Powder Diffractionist Prize of the European Powder Diffraction
         Conference
       year: 2022
     - name: Warren Award of the American Crystallographic Association
@@ -4616,14 +4670,15 @@ sbillinge:
     - year: 2012
       name: Neutron Scattering Society of America Service Award for outstanding service
     - year: 2012
-      name: 'Editor of Acta Crystallographica Section A: Foundations of Crystallography'
+      name: "Editor of Acta Crystallographica Section A: Foundations of Crystallography"
     - year: 2011
       name: Fulbright Research Scholar
     - year: 2011
       name: Carnegie Foundation of New York honored as one of 24 Outstanding Immigrants
     - year: 2011
-      name: 'Co-editor of Journal Acta Crystallographica Section A: Foundations of
-        Crystallography'
+      name:
+        "Co-editor of Journal Acta Crystallographica Section A: Foundations of
+        Crystallography"
     - year: 2010
       name: J. D.  Hanawalt Award of the International Center for Diffraction Data
     - year: 2007
@@ -4631,7 +4686,8 @@ sbillinge:
     - year: 2006
       name: Fellow, American Physical Society
     - year: 2006
-      name: Michigan State University, College of  Natural Science, Distinguished
+      name:
+        Michigan State University, College of  Natural Science, Distinguished
         Faculty Award
     - year: 1998
       name: Thomas H. Osgood Undergraduate Teaching Award
@@ -4676,38 +4732,45 @@ sbillinge:
       title: New fast camera shutter shows how materials move heat around
       date: 2023-03-17
       publication: Materialstoday
-      text: ''
-      url: 
-        https://www.materialstoday.com/energy/news/fast-camera-shutter-shows-how-materials-move-heat/
+      text: ""
+      url: https://www.materialstoday.com/energy/news/fast-camera-shutter-shows-how-materials-move-heat/
       grant: dmref19
   research_focus_areas:
-    - description: Solving the nanostructure inverse problem (finding the location
+    - description:
+        Solving the nanostructure inverse problem (finding the location
         of atoms in nanomaterials and nanostructured bulk materials)
       begin_year: 2010
-    - description: Developing concepts in materials genomics, towards predictive synthesis
+    - description:
+        Developing concepts in materials genomics, towards predictive synthesis
         of new materials, by developing and applying concepts in graph theory, machine
         learning and statistics
       begin_year: 2014
-    - description: Application of Machine Learning to solve otherwise intractible
+    - description:
+        Application of Machine Learning to solve otherwise intractible
         problems in materials characterization and discovery
       begin_year: 2018
-    - description: Broadening the applicability and use of the atomic pair distribution
+    - description:
+        Broadening the applicability and use of the atomic pair distribution
         function method
       begin_year: 1987
-    - description: Understanding the physics of strongly correlated electron materials
+    - description:
+        Understanding the physics of strongly correlated electron materials
         by studying their nanoscale electronic and magnetic textures
       begin_year: 1987
-    - description: Local structure property relationships of disordered crystals and
+    - description:
+        Local structure property relationships of disordered crystals and
         nanocrystals using advanced x-ray and neutron diffraction techniques.
       begin_year: 1987
     - description: Local structure of organic molecules and materials.
       begin_year: 1987
-    - description: More information about my research, (p)reprints, and a complete
+    - description:
+        More information about my research, (p)reprints, and a complete
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
   service:
     - type: profession
-      name: Member of the scientific Committee of the international conference “Advances
+      name:
+        Member of the scientific Committee of the international conference “Advances
         in Solid State Physics and New Materials – Celebrating 30 Years of the Center
         for Solid State Physics and New Materials” to be held in Belgrade, Serbia
         during the period May 19 to 23, 2025
@@ -4716,14 +4779,16 @@ sbillinge:
       role: member
       other: []
     - type: profession
-      name: External PhD examiner for PhD student Rasmus Stubkjær Christensen of Aarhus
+      name:
+        External PhD examiner for PhD student Rasmus Stubkjær Christensen of Aarhus
         University
       month: 12
       year: 2024
       role: member
       other: []
     - type: profession
-      name: Member of the external advisory board, of the FULL-MAP project (Furthering
+      name:
+        Member of the external advisory board, of the FULL-MAP project (Furthering
         the development of a materials acceleration platform for sustainable batteries
         (combining AI, big data, autonomous synthesis robotics, high throughput testing)
         (Batt4EU Partnership)) at Vrije Universiteit Brussels
@@ -4746,7 +4811,8 @@ sbillinge:
       other:
         - CHEX at CHESS, Cornell University
     - type: profession
-      name: Chair and organizer for the NSF-funded workshop Scientific Opportunities
+      name:
+        Chair and organizer for the NSF-funded workshop Scientific Opportunities
         and Instrumentation Needs for Next Generation Materials Genomics Based Materials
         Research in Materials with Long-Range Order
       month: 11
@@ -4755,7 +4821,8 @@ sbillinge:
       other:
         - Report submitted to NSF in July 2023
     - type: profession
-      name: Co-organizer with Prof Sossina Haile (Northwestern) and Tom Mallouk (Penn
+      name:
+        Co-organizer with Prof Sossina Haile (Northwestern) and Tom Mallouk (Penn
         State) of the fourth 2-week JUAMI Materials for Sustainable Development workshop
         in Nairobi, Kenya
       month: 6
@@ -4776,13 +4843,15 @@ sbillinge:
       notes:
         - Linear Coherent Light Source
     - type: profession
-      name: Office of Science (SC) Supply Chain Roundtable. Committee to study the
+      name:
+        Office of Science (SC) Supply Chain Roundtable. Committee to study the
         problem of supply chain risks for scientific facilities and tools, and to
         suggest solutions
       begin_date: 2021-09-30
       end_date: 2021-11-30
     - type: profession
-      name: External examiner for the PhD thesis of Shuyan Zhang, co-advised by Dr.
+      name:
+        External examiner for the PhD thesis of Shuyan Zhang, co-advised by Dr.
         Alan McGaughey and Dr. B. Reeja Jayan in the Mechanical Engineering Department
         at Carnegie Mellon University
       begin_date: 2021-10-06
@@ -4791,35 +4860,42 @@ sbillinge:
       name: PhD thesis committee, Mel Abler
       date: 2021-08-11
     - type: profession
-      name: Member of the review committee of the D4 diffractometer at the Institut
+      name:
+        Member of the review committee of the D4 diffractometer at the Institut
         Laue Langevin, Grenoble, France
       begin_date: 2021-09-23
       end_date: 2022-09-24
     - type: profession
-      name: Member of the review committee Neutron Initiative of the Oak Ridge National
+      name:
+        Member of the review committee Neutron Initiative of the Oak Ridge National
         Laboratory’s Laboratory Directed Research and Development (LDRD) Program
       begin_date: 2021-09-13
       end_date: 2024-09-15
     - type: profession
-      name: Member of the Initiative Review Committee (IRC) for the Neutron Data Interpretation
+      name:
+        Member of the Initiative Review Committee (IRC) for the Neutron Data Interpretation
         Platform Ecosystem initiative at Oak Ridge National Laboratory (ORNL)
       begin_date: 2021-07-23
       end_date: 2024-07-22
     - type: profession
-      name: External examiner for PhD thesis defense of Nasim Farahmand from the Department
+      name:
+        External examiner for PhD thesis defense of Nasim Farahmand from the Department
         of Chemistry at City College
       date: 2021-09-08
     - type: profession
-      name: Member of the Neutron Advisory Board (NAB) to the Neutron Sciences Directorate
+      name:
+        Member of the Neutron Advisory Board (NAB) to the Neutron Sciences Directorate
         (NScD) or Oak Ridge National Laboratory
       begin_year: 2021
       end_year: 2024
     - type: profession
-      name: Member of the National Academy of Sciences panel reviewing the operations
+      name:
+        Member of the National Academy of Sciences panel reviewing the operations
         of the National Center for Neutron Research at NIST
       year: 2021
     - type: outreach
-      name: Group diversity and inclusion effort CODER (the committee on diversity
+      name:
+        Group diversity and inclusion effort CODER (the committee on diversity
         and equity in research).
       other:
         - The committee currently has a mission to increase inclusivity in the research
@@ -4841,33 +4917,40 @@ sbillinge:
           warranted.
       begin_date: 2021-06-01
     - type: profession
-      name: Member of the Hanawalt Award committee of the International Center for
+      name:
+        Member of the Hanawalt Award committee of the International Center for
         Diffraction Data (ICDD)
       year: 2021
     - type: profession
-      name: Member of the Future Leaders–African Independent Research (FLAIR) panel
+      name:
+        Member of the Future Leaders–African Independent Research (FLAIR) panel
         of the African Academy of Sciences panel.
       begin_date: 2021-02-08
       end_date: 2023-12-31
     - type: profession
-      name: Chair of the Second Target Station Instrument Review Committee of the
+      name:
+        Chair of the Second Target Station Instrument Review Committee of the
         DOE-funded Spallation Neutron Source at Oak Ridge National Laboratory.
-      notes: This committee will review and make recommendations for the initial suite
+      notes:
+        This committee will review and make recommendations for the initial suite
         of 8 instruments to be built as part of the second target station construction
         project.
       date: 2021-08-01
     - type: profession
-      name: Organizing committee of the meeting "Autonomous Discovery in Science and
+      name:
+        Organizing committee of the meeting "Autonomous Discovery in Science and
         Engineering.", held at Lawrence Berkeley Laboratory.
       year: 2021
       month: April
     - type: profession
-      name: Reviewer for the Cyberinfrastructure for Sustained Scientific Innovation
+      name:
+        Reviewer for the Cyberinfrastructure for Sustained Scientific Innovation
         solicitation (CSSI) program, NSF.
       year: 2021
       month: Feb
     - type: profession
-      name: member of the scientific expert team for the Petra IV synchrotron development
+      name:
+        member of the scientific expert team for the Petra IV synchrotron development
         project, DESY, Hamburg, Germany.
       begin_year: 2021
       begin_month: Jan
@@ -4877,40 +4960,47 @@ sbillinge:
       year: 2020
       month: Dec
     - type: profession
-      name: External examiner for Masters Diploma Thesis for Mr. Sani Harouna-Mayer,
+      name:
+        External examiner for Masters Diploma Thesis for Mr. Sani Harouna-Mayer,
         University of Hamburg, Germany
       year: 2020
       month: Nov
     - type: profession
-      name: Chair, National Science Foundation (NSF) oversight virtual site visit
+      name:
+        Chair, National Science Foundation (NSF) oversight virtual site visit
         review team of the Center for High Energy X-ray Science (CHEXS) at the Cornell
         High Energy X-ray Source (CHESS)
       year: 2020
       month: Oct
     - type: profession
-      name: External evaluation of Anthony Phillips for promotion to Reader at Queen
+      name:
+        External evaluation of Anthony Phillips for promotion to Reader at Queen
         Mary University London
       year: 2020
       month: July
     - type: profession
-      name: Member of the International review committee of the Mantid neutron data
+      name:
+        Member of the International review committee of the Mantid neutron data
         analysis software project
       year: 2020
       month: May
     - type: profession
-      name: Co-organizer of the Chemistry, Chemical Engineering, and Materials Science
+      name:
+        Co-organizer of the Chemistry, Chemical Engineering, and Materials Science
         track of the Machine Learning in Science & Engineering conference at Columbia
         University, New York, Dec 14 - 15, 2020
       year: 2020
       month: Dec
     - type: profession
-      name: External Thesis examiner, Nathan Nakamura, Carnegie Mellon University
+      name:
+        External Thesis examiner, Nathan Nakamura, Carnegie Mellon University
         Department of Chemical Engineering
       year: 2020
       month: Apr
     - type: profession
-      name: 'CCQ: Machine Learning Quantum Matter Data Workshop, Flatiron Institute
-        New York, NY'
+      name:
+        "CCQ: Machine Learning Quantum Matter Data Workshop, Flatiron Institute
+        New York, NY"
       year: 2020
       month: Jan
     - type: profession
@@ -4918,20 +5008,23 @@ sbillinge:
       year: 2019
       month: Oct
     - type: profession
-      name: 'Organizer, Microsymposium on Disordered materials: spectroscopic and
+      name:
+        "Organizer, Microsymposium on Disordered materials: spectroscopic and
         scattering techniques at the 25th General Assembly and Congress of the International
-        Union of Crystallography, Prague, Czech Republic, August 22-29th 2020'
+        Union of Crystallography, Prague, Czech Republic, August 22-29th 2020"
       begin_year: 2019
       begin_month: Aug
       end_year: 2020
       end_month: Aug
     - type: profession
-      name: Chaired the 2021 Prize Committee of the Warren Award of the American Crystallographic
+      name:
+        Chaired the 2021 Prize Committee of the Warren Award of the American Crystallographic
         Association
       year: 2021
       month: Jan
     - type: profession
-      name: Organized a symposium at the 2020 American Physical Society March Meeting
+      name:
+        Organized a symposium at the 2020 American Physical Society March Meeting
         entitled "Emergent local symmetry breaking in transition metal compounds due
         to orbital degeneracy lifting (ODL)"
       year: 2020
@@ -4941,7 +5034,8 @@ sbillinge:
       year: 2020
       month: 9
     - type: profession
-      name: Review of the Data Reduction Handling and Analysis at the instruments
+      name:
+        Review of the Data Reduction Handling and Analysis at the instruments
         suite at the High Flux Isotope Reactor (HFIR) and the Spallation Neutron Source
         (SNS)" at Oak Ridge National Laboratory
       year: 2019
@@ -4950,29 +5044,35 @@ sbillinge:
       name: Mentor for week-long NSF Harnessing the Data Revolution Ideas Lab workshop
       year: 2019
       month: May
-      description: Labs organized by NSF to put together groups of people who can
+      description:
+        Labs organized by NSF to put together groups of people who can
         work together to solve big problems.
     - type: profession
-      name: Chair of the NSLS-II Powder Instrument Next Generation (PING) collaboration
+      name:
+        Chair of the NSLS-II Powder Instrument Next Generation (PING) collaboration
         beamline advisory team
       begin_year: 2012
       end_year: 2015
-      description: For the powder diffraction and PDF beamlines that will be constructed
+      description:
+        For the powder diffraction and PDF beamlines that will be constructed
         as part of the construction project for NSLS-II at Brookhaven National Laboratory
     - type: profession
-      name: PDF beamline development team at the National Synchrotron Light Source
+      name:
+        PDF beamline development team at the National Synchrotron Light Source
         (NSLS) beam-port X17A.
       begin_year: 2008
       end_year: 2010
       role: Co-leader with Lars Ehm, SUNY-Stony Brook
       description: The development of a PDF beamline development at NSLS.
     - type: profession
-      name: High-intensity, high-Q, high-resolution powder diffraction (H3PD) instrument
+      name:
+        High-intensity, high-Q, high-resolution powder diffraction (H3PD) instrument
         for the LANSCE beamline
       begin_year: 2000
       end_year: 2002
       role: Co-leader with Takeshi Egami, U. Pennsylvania
-      description: to build a neutron powder diffractometer at Los Alamos for materials
+      description:
+        to build a neutron powder diffractometer at Los Alamos for materials
         science and the study of complex materials using Rietveld and PDF methods
         (see NSF instrumentation grant, above). Diffractometer is now called NPDF
         and was constructed on time and under budget. It has entered the Manuel Lujan,
@@ -4984,7 +5084,8 @@ sbillinge:
       begin_year: 2000
       end_year: 2008
       role: Member of team led by Alan Goldman, Iowa State University
-      description: Collaboration to build and operate an x-ray beamline at the Advanced
+      description:
+        Collaboration to build and operate an x-ray beamline at the Advanced
         Photon Source at Argonne National Laboratory for local structure studies of
         complex materials (see DOE-BES grant above).  I am lead Co-PI with Prof. Alan
         Goldman on this project. The hutches and upstream beam transport components
@@ -4995,35 +5096,42 @@ sbillinge:
         from 8 Universities, for surface studies under high vacuum conditions, magnetic
         scattering and high energy diffraction
     - type: profession
-      name: Collaboration to build a wide angle capability for the high-resolution
+      name:
+        Collaboration to build a wide angle capability for the high-resolution
         chopper spectrometer PHAROS at Los Alamos
       begin_year: 1996
       end_year: 1997
       role: Member of team led by Robert Robinson, Los Alamos National Laboratory
-      description: This project was funded and the Pharos uprade has been carried
+      description:
+        This project was funded and the Pharos uprade has been carried
         out at LANSCE.
     - type: profession
-      name: Organizer of a one-day JUAMI symposium on materials for sustainable energy
+      name:
+        Organizer of a one-day JUAMI symposium on materials for sustainable energy
         at the 2019 African MRS meeting in Arusha, Tanzania.
       year: 2019
       month: 12
     - type: profession
-      name: National Academy of Science Panel on the Review of the Center for Neutron
+      name:
+        National Academy of Science Panel on the Review of the Center for Neutron
         Research at the National Institute of Standards and Technology
       year: 2018
     - type: profession
-      name: Member of the Italian Association of Crystallography, Commission for the
+      name:
+        Member of the Italian Association of Crystallography, Commission for the
         Mammi Prize
       year: 2019
     - type: profession
-      name: Member of the External Advisory Board for NSF Science and Technology Center
+      name:
+        Member of the External Advisory Board for NSF Science and Technology Center
         (STROBE) at U. Colorado
       year: 2018
     - type: profession
       name: Workshop, Local Structure from Diffraction, Traverse City, MI, July 1998.
       year: 1998
     - type: profession
-      name: Co-organizer with Prof Sossina Haile (Northwestern) and Tom Mallouk (Penn
+      name:
+        Co-organizer with Prof Sossina Haile (Northwestern) and Tom Mallouk (Penn
         State) of the third 2-week JUAMI Materials for Sustainable Development workshop
         in Kampala, Uganda
       month: 6
@@ -5038,7 +5146,8 @@ sbillinge:
           in 2012, the second in Arusha, Tanzania, in 2016.  This one was in Kampala,
           Uganda.
     - type: profession
-      name: Data Acquisition, Management and Analysis (DAMA) review panel, at NSLS-II,
+      name:
+        Data Acquisition, Management and Analysis (DAMA) review panel, at NSLS-II,
         BNL
       year: 2017
       month: Mar
@@ -5047,34 +5156,40 @@ sbillinge:
       year: 2017
       month: Apr
     - type: profession
-      name: Chair, Materials Special Interest Group of the American Crystallographic
+      name:
+        Chair, Materials Special Interest Group of the American Crystallographic
         Association
       year: 2015
     - type: profession
-      name: Lead of the crosscutting panel on In situ characterization at the DOE-BES
+      name:
+        Lead of the crosscutting panel on In situ characterization at the DOE-BES
         workshop on Basic Research Needs for Synthesis Science for Energy Relevant
         Technology, May 2-4, 2016
       year: 2016
       month: May
     - type: profession
-      name: Chair, XPD beamline project Beamline Advisory Team (BAT), National Synchrotron
+      name:
+        Chair, XPD beamline project Beamline Advisory Team (BAT), National Synchrotron
         Light Source II, Brookhaven National Laboratory
       begin_year: 2008
       end_year: 2014
     - type: profession
-      name: 'Chair Advanced Analysis of X-Ray and Neutron Scattering Data: Getting
-        from data to science Workshop, Brookhaven National Laboratory'
+      name:
+        "Chair Advanced Analysis of X-Ray and Neutron Scattering Data: Getting
+        from data to science Workshop, Brookhaven National Laboratory"
       year: 2013
       month: July
     - type: profession
-      name: Chair, microsymposium on total pattern fitting, Accuracy in Powder Diffraction
+      name:
+        Chair, microsymposium on total pattern fitting, Accuracy in Powder Diffraction
         Conference, NIST
       year: 2013
     - type: profession
       name: Chair of the J.D. Hanawalt Prize selection committee of the ICDD
       year: 2013
     - type: profession
-      name: Chair of the Joint US/Africa Materials Initiative Materials (JUAMI) Research
+      name:
+        Chair of the Joint US/Africa Materials Initiative Materials (JUAMI) Research
         School, Addis Ababa, Ethiopia
       year: 2012
       month: Dec
@@ -5083,12 +5198,14 @@ sbillinge:
       year: 2012
       month: Feb
     - type: profession
-      name: Chair of the symposium Amorphous, Activated and Nanomaterials at the 10th
+      name:
+        Chair of the symposium Amorphous, Activated and Nanomaterials at the 10th
         Annual Pharmaceutical Powder X-ray Diffraction Symposium (PPXRD), Lyon, France
       year: 2011
       month: May
     - type: profession
-      name: Chair of the microsymposium SAXS/SANS, total scattering and the nanostructure
+      name:
+        Chair of the microsymposium SAXS/SANS, total scattering and the nanostructure
         problem at the  XXII congress of  the International Union of Crystallography
         (IUCr), Madrid, Spain
       year: 2011
@@ -5100,42 +5217,50 @@ sbillinge:
       name: Conference Chair of the American Conference on Neutron Scattering, Ottawa
       year: 2010
     - type: profession
-      name: Conference Chair of the International  Conference on Neutron Scattering,
+      name:
+        Conference Chair of the International  Conference on Neutron Scattering,
         Knoxville, NM
       year: 2009
       month: May
     - type: profession
-      name: Conference Chair of the American Conference on Neutron Scattering, Santa
+      name:
+        Conference Chair of the American Conference on Neutron Scattering, Santa
         Fe, NM
       year: 2008
       month: May
     - type: profession
-      name: Member, NSF-DMR steering committee on Cyber-Infrastructure for the Materials
+      name:
+        Member, NSF-DMR steering committee on Cyber-Infrastructure for the Materials
         Sciences
       begin_year: 2005
       end_year: 2007
     - type: profession
-      name: Conference chair, American Conference on Neutron Scattering, Chicago,
+      name:
+        Conference chair, American Conference on Neutron Scattering, Chicago,
         IL
       year: 2006
       month: Jun
     - type: profession
-      name: Workshop participant, Cyber Infrastructure for Materials Science, NSF
+      name:
+        Workshop participant, Cyber Infrastructure for Materials Science, NSF
         supported workshop to identify CI needs for the materials science community,
         Washington DC
       year: 2006
       month: May
     - type: profession
-      name: Conference organizer, Local Structure from Diffraction, Traverse City,
+      name:
+        Conference organizer, Local Structure from Diffraction, Traverse City,
         MI, July 1998.
       year: 1998
     - type: profession
-      name: 'Conference organizer, From Semiconductors to Proteins: beyond the average
-        structure, Traverse City, MI.'
+      name:
+        "Conference organizer, From Semiconductors to Proteins: beyond the average
+        structure, Traverse City, MI."
       year: 2001
       month: Aug
     - type: profession
-      name: Chair, Neutron scattering Special Interest Group, American Crystallographic
+      name:
+        Chair, Neutron scattering Special Interest Group, American Crystallographic
         Association
       begin_date: 2001-08-01
       end_date: 2002-08-01
@@ -5148,7 +5273,7 @@ sbillinge:
       begin_year: 2017
       role: Member
     - type: profession
-      name: 'Journal Acta Crystallographica Section A: Foundations of Crystallography'
+      name: "Journal Acta Crystallographica Section A: Foundations of Crystallography"
       begin_year: 2011
       role: Editor
     - type: profession
@@ -5161,7 +5286,8 @@ sbillinge:
       end_year: 2012
       role: Vice president
     - type: profession
-      name: Executive Committee of the International Commission on Powder Diffraction
+      name:
+        Executive Committee of the International Commission on Powder Diffraction
         of the Union of Crystallography
       begin_year: 2005
       end_year: 2010
@@ -5182,8 +5308,9 @@ sbillinge:
       end_year: 2007
       role: Member
     - type: profession
-      name: 'Symposium Electronic Oxides: Properties and Applications, CFMR spring
-        symposium , Michigan State University'
+      name:
+        "Symposium Electronic Oxides: Properties and Applications, CFMR spring
+        symposium , Michigan State University"
       year: 1997
       role: Organizer
     - type: profession
@@ -5192,13 +5319,15 @@ sbillinge:
       end_year: 2007
       role: Member
     - type: profession
-      name: Joint US/Africa Materials Initiative Materials (JUAMI) Research School,
+      name:
+        Joint US/Africa Materials Initiative Materials (JUAMI) Research School,
         Arusha, Tanzania
       year: 2016
       month: Dec
       role: Co-Organizer
     - type: profession
-      name: Symposium ``Powder Pair Distribution Function and Pharmaceuticals” at
+      name:
+        Symposium ``Powder Pair Distribution Function and Pharmaceuticals” at
         ACA annual meeting, Philadelphia
       year: 2015
       month: July
@@ -5208,29 +5337,34 @@ sbillinge:
       date: 2013-12-10
       role: Co-Organizer
     - type: profession
-      name: Joint US/Africa Materials Initiative Materials Research (JUAMI) School,
+      name:
+        Joint US/Africa Materials Initiative Materials Research (JUAMI) School,
         Addis Ababa, Ethiopia
       begin_date: 2012-12-17
       end_date: 2012-12-22
       role: Co-Organizer
     - type: profession
-      name: Symposium “Nanoscale Materials Diffraction” at the NSLS/CFN users meeting,
+      name:
+        Symposium “Nanoscale Materials Diffraction” at the NSLS/CFN users meeting,
         Brookhaven National Laboratory
       date: 2010-05-24
       role: Co-Organizer
     - type: profession
-      name: 'Workshop Beyond crystallography: Structure of nanostructured materials,
-        Tempe, AZ'
+      name:
+        "Workshop Beyond crystallography: Structure of nanostructured materials,
+        Tempe, AZ"
       begin_date: 2008-05-17
       end_date: 2008-05-21
       role: Co-Organizer
     - type: profession
-      name: National Academy of Sciences Panel on the Review of the Center for Neutron
+      name:
+        National Academy of Sciences Panel on the Review of the Center for Neutron
         Research at the National Institute of Standards and Technology
       year: 2018
       role: Reviewer
     - type: profession
-      name: DISCOVER instrument advisory committee, Spallation Neutron Source, Oak
+      name:
+        DISCOVER instrument advisory committee, Spallation Neutron Source, Oak
         Ridge National Laboratory
       begin_year: 2017
       end_year: 2021
@@ -5246,13 +5380,15 @@ sbillinge:
       month: March
       role: Chair of the review committee
     - type: profession
-      name: Powder Diffraction Beamline Review Panel, Spallation Neutron Source, Oak
+      name:
+        Powder Diffraction Beamline Review Panel, Spallation Neutron Source, Oak
         Ridge National Laboratory
       year: 2016
       month: Aug
       role: Reviewer
     - type: profession
-      name: Advisory Committee, MICCoM (http://miccom-center.org/), computational
+      name:
+        Advisory Committee, MICCoM (http://miccom-center.org/), computational
         materials science center Argonne National Laboratory
       year: 2016
       role: Reviewer
@@ -5265,13 +5401,15 @@ sbillinge:
       year: 2013
       role: Reviewer
     - type: profession
-      name: User Working Group, XPDF beamline construction project, Diamond Light
+      name:
+        User Working Group, XPDF beamline construction project, Diamond Light
         Source, UK
       begin_year: 2013
       end_year: 2016
       role: Reviewer
     - type: profession
-      name: Advisory board member of the Materials Research Institute, Queen Mary’s
+      name:
+        Advisory board member of the Materials Research Institute, Queen Mary’s
         College, London
       year: 2013
       role: Advisory Board Member
@@ -5280,12 +5418,14 @@ sbillinge:
       year: 2013
       role: Advisory Committee Member
     - type: profession
-      name: Program committee of the International Conference on Neutron Scattering,
+      name:
+        Program committee of the International Conference on Neutron Scattering,
         Edinburgh
       year: 2013
       role: Committee member
     - type: profession
-      name: International Advisory Committee, International Conference on Communication,
+      name:
+        International Advisory Committee, International Conference on Communication,
         Computational skills and Nanotechnology,  Swami Ramanand Teerth Marathwada
         University, Nanded, Maharashtra State,  India
       year: 2011
@@ -5297,13 +5437,15 @@ sbillinge:
       end_year: 2012
       role: Advisory Committee Member
     - type: profession
-      name: Advisory Committee for the Expansion Initiative of the NIST Center for
+      name:
+        Advisory Committee for the Expansion Initiative of the NIST Center for
         Neutron Research (NCNR), NIST
       begin_year: 2010
       end_year: 2011
       role: Advisory Committee member
     - type: profession
-      name: DOE-BES review committee of  Neutron Scattering Science Division at Oak
+      name:
+        DOE-BES review committee of  Neutron Scattering Science Division at Oak
         Ridge National Laboratory
       begin_year: 2010
       end_year: 2012
@@ -5314,7 +5456,8 @@ sbillinge:
       month: Nov
       role: Reviewer
     - type: profession
-      name: NSF-DMR review of the Center for High Resolution Neutron Scattering (CHRNS)
+      name:
+        NSF-DMR review of the Center for High Resolution Neutron Scattering (CHRNS)
         at NIST
       year: 2009
       month: Sep
@@ -5356,7 +5499,8 @@ sbillinge:
       end_date: 1999-08-13
       role: Co-Organizer
     - type: profession
-      name: Symposium, `Under the Bonnet' Powder Diffraction Software Workshop, European
+      name:
+        Symposium, `Under the Bonnet' Powder Diffraction Software Workshop, European
         Powder Diffraction Conference, Geneva, Switzerland
       begin_date: 2006-09-01
       end_date: 2006-09-04
@@ -5367,40 +5511,46 @@ sbillinge:
       end_date: 2004-12-08
       role: Co-Organizer
     - type: profession
-      name: Workshop, "Local Atomic Structure Using Neutron Pair Distribution Function
+      name:
+        Workshop, "Local Atomic Structure Using Neutron Pair Distribution Function
         (PDF) Analysis" at the American Conference on Neutron Scattering”, College
         Park, MD
       begin_date: 2004-06-06
       end_date: 2004-06-10
       role: Co-Organizer
     - type: profession
-      name: Symposium, “B. E. Warren Award Symposium” at the 2003 annual meeting of
+      name:
+        Symposium, “B. E. Warren Award Symposium” at the 2003 annual meeting of
         the American Crystallographic Association, Cincinnati
       year: 2003
       month: Jul
       role: Co-Organizer
     - type: profession
-      name: Workshop, ``Real-space Pair Distribution Function Methods" at the meeting
+      name:
+        Workshop, ``Real-space Pair Distribution Function Methods" at the meeting
         ``Neutrons In solid state Chemistry and the Earth Sciences Today and tomorrow
         (NICEST)”, Oak Ridge, TN
       year: 2003
       month: Mar
       role: Co-Organizer
     - type: profession
-      name: Symposia, ``Impact of Scattering on Nanoscience and Nanotechnology” and
+      name:
+        Symposia, ``Impact of Scattering on Nanoscience and Nanotechnology” and
         ``From Structures to Materials Science”, at the annual meeting of the American
         Crystallographic Association, San Antonio, TX
       year: 2002
       month: May
       role: Co-Organizer
     - type: profession
-      name: Workshop, Real-space Pair Distribution Function Methods, at the annual
+      name:
+        Workshop, Real-space Pair Distribution Function Methods, at the annual
         meeting of the American Crystallographic Association 2001, Los Angeles
       begin_date: 2001-07-21
       end_date: 2001-07-26
       role: Co-Organizer
     - type: profession
-      name: Symposium, “Microstructure and Texture of Real Materials", at the XVIIIth
+      name:
+        Symposium, “Microstructure and Texture of Real Materials", at the XVIIIth
         International Union of Crystrystallography congress and General Assembly,
         Glasgow, Scotland
       begin_date: 1999-08-04
@@ -5416,12 +5566,14 @@ sbillinge:
       name: Co-Organizer of a series of East African Materials Science Schools, JUAMI
       begin_year: 2012
     - type: outreach
-      name: Science Advisory Committee to the NSF funded PROMSE project to improve
+      name:
+        Science Advisory Committee to the NSF funded PROMSE project to improve
         math and science eduction in the K-12 sector
       begin_year: 2003
       end_year: 2010
     - type: outreach
-      name: Curriculum development for an AP course in nanotechnology at Everett High
+      name:
+        Curriculum development for an AP course in nanotechnology at Everett High
         school in Lansing, MI
       begin_year: 2006
       end_year: 2007
@@ -5431,7 +5583,7 @@ sdisch:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2007
       degree: PhD
@@ -5454,7 +5606,8 @@ sfrank:
   active: false
   aka: []
   avatar: https://github.com/sarafrank95.png
-  bio: Sara is from Aarhus, Denmark. She acquired her Master's Degree in Nanoscience
+  bio:
+    Sara is from Aarhus, Denmark. She acquired her Master's Degree in Nanoscience
     and is currently pursuing a PhD in Chemical Engineering at Aarhus University.
     She is exploring hybrid organic-inorganic catalysts for electrocatalytic CO2 reduction
     and investigates their structure-property relations with EXAFS and PDF.
@@ -5489,7 +5642,8 @@ sghose:
   active: false
   aka: []
   avatar: https://github.com/shogho0.png
-  bio: Shomik is from Houston, Texas and is an undergraduate student studying computer
+  bio:
+    Shomik is from Houston, Texas and is an undergraduate student studying computer
     science in Columbia's School of Engineering and Applied Sciences. He joined in
     the Billinge Group starting in summer 2020.
   education:
@@ -5517,7 +5671,8 @@ sharouna-mayer:
   aka:
     - Sani Y. Harouna-Mayer
   avatar: https://github.com/SaniHarouna-Mayer.png
-  bio: Sani grew up in Kassel, Germany. He earned his Bachelors degree in nanoscience
+  bio:
+    Sani grew up in Kassel, Germany. He earned his Bachelors degree in nanoscience
     in 2018 at the University of Hamburg. During his Bachelor project he worked on
     PDF analysis of electrochromic thin films in Prof. Dorota Koziej's group. Ever
     scince he continued working in her group as a research assistant, where he focuses
@@ -5608,7 +5763,7 @@ spattanaik:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 0
       institution: unknown
@@ -5627,7 +5782,7 @@ sskjaervoe:
   aka:
     - Sandra H. Skjærvø
   avatar: https://github.com/sandraskj.png
-  bio: ''
+  bio: ""
   education: []
   email: shs2196@columbia.edu
   employment:
@@ -5655,7 +5810,8 @@ sstao:
     - S. Tao
     - Tao, S.
   avatar: https://github.com/st3107.png
-  bio: Songsheng grew up in Beijing, China. He attended Peking University where he
+  bio:
+    Songsheng grew up in Beijing, China. He attended Peking University where he
     earned a B. S. in physics. As Ph. D. student in Columbia University, he joined
     the Billinge Group in fall 2018 and is currently working on developing tools for
     texture analysis and using pair distribution functions for structure analysis.
@@ -5671,7 +5827,7 @@ sstao:
       department: apam
       degree: PhD in Materials Science
       other:
-        - 'Advisor: Simon Billinge'
+        - "Advisor: Simon Billinge"
     - institution: Peking University
       degree: BS in Physics
       begin_year: 2013
@@ -5702,7 +5858,7 @@ swhan:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 0
       institution: unknown
@@ -5722,7 +5878,8 @@ swu:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: Sean is a third year undergraduate student at Pepperdine University. He is
+  bio:
+    Sean is a third year undergraduate student at Pepperdine University. He is
     studying Computer Science/Mathematics and is interested in advancing medicine
     with machine learning. He loves to play basketball and piano. He is conducting
     research with the Columbia SURE program for Summer 2023.
@@ -5743,14 +5900,14 @@ swu:
   github_id: "\x16seanwu25"
   grp_mtg_active: false
   name: Sean Wu
-  orcid_id: ''
+  orcid_id: ""
   position: undergraduate visitor
 syxue:
   active: false
   aka:
     - other names
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2015
       degree: BSc
@@ -5772,7 +5929,8 @@ tcaswell:
   aka:
     - Thomas Alexander Caswell
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: Tom, all around great guy, is a computational scientist at Brookhaven National
+  bio:
+    Tom, all around great guy, is a computational scientist at Brookhaven National
     Lab, an Adjunct faculty at Columbia, and a very welcome honorary member of the
     Billinge group for as long as he wants to be.
   education:
@@ -5815,7 +5973,7 @@ tdavis:
   aka:
     - Timur Dykhne
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2009
       degree: PhD
@@ -5851,7 +6009,8 @@ tnanarong:
     - Tanaporn Na Narong
     - T. Na Narong
   avatar: https://github.com/tinatn29.png
-  bio: Tina is a postdoctoral researcher in Billinge group and the Data Science Institute
+  bio:
+    Tina is a postdoctoral researcher in Billinge group and the Data Science Institute
     at Columbia University. She is working on developing machine learning techniques
     to combine data from the PDF and other methods for materials prediction. A quantum
     physicist by training, Tina received her PhD in Physics from Stanford University
@@ -5888,7 +6047,7 @@ tproffen:
     - Proffen, {Th. }
     - Proffen, {Th.}
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 1988
       degree: PhD in Physics
@@ -5899,7 +6058,8 @@ tproffen:
       begin_month: 10
       organization: Oak Ridge National Laboratory
       position: scientist
-      position_full: Director Science Initiative for High Performance Computing and
+      position_full:
+        Director Science Initiative for High Performance Computing and
         Data Analytics
     - begin_year: 2012
       begin_month: 10
@@ -5956,7 +6116,7 @@ tqzhang:
   github_id: tieqiong
   grp_mtg_active: true
   name: Tieqiong Zhang
-  orcid_id: ''
+  orcid_id: ""
   position: undergraduate researcher
 tschertenleib:
   active: true
@@ -5982,7 +6142,7 @@ vgharakhanyan:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2019
       begin_month: 9
@@ -6005,7 +6165,8 @@ vlin:
   active: false
   aka: []
   avatar: https://github.com/vivianlin2000.png
-  bio: Vivian is an undergraduate research assistant  at Columbia University. She
+  bio:
+    Vivian is an undergraduate research assistant  at Columbia University. She
     was born and raised in Northern Virginia (which is completely different from the
     rest of VA) and is pursuing a BS in Applied Math with a concentration in Computer
     Science. Vivian joined the Billinge group in the spring of 2020 and is excited
@@ -6038,7 +6199,7 @@ vnield:
   aka:
     - Vicki Nield
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 0
       institution: unknown
@@ -6059,7 +6220,7 @@ wzhou:
     - Zhou, W.
     - Zhou, Wenduo
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 1999
       degree: PhD
@@ -6095,7 +6256,7 @@ xchen:
   active: false
   aka: []
   avatar: https://github.com/.png
-  bio: ''
+  bio: ""
   education: []
   email: xc2421@columbia.edu
   employment:
@@ -6106,9 +6267,9 @@ xchen:
       group: bg
       advisor: sbillinge
       status: undergrad
-  github_id: ''
+  github_id: ""
   name: Xin Chen
-  orcid_id: ''
+  orcid_id: ""
   position: undergraduate research assistant
 xhyang:
   active: false
@@ -6116,7 +6277,7 @@ xhyang:
     - Xiaohao Yang
     - Yang, Xiaohao
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2012
       begin_month: 1
@@ -6169,7 +6330,7 @@ xyqiu:
     - Xiangyun
     - Qiu, Xiangyun
   avatar: https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk
-  bio: ''
+  bio: ""
   education:
     - begin_year: 1999
       degree: PhD
@@ -6195,7 +6356,7 @@ xyun:
   aka:
     - Xin Yun
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2015
       begin_month: 9
@@ -6237,14 +6398,14 @@ ycchen:
   github_id: yucongalicechen
   grp_mtg_active: true
   name: Yucong Chen
-  orcid_id: ''
+  orcid_id: ""
   position: masters researcher
 yjhu:
   active: false
   aka:
     - Joey Hu
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2006
       degree: PhD
@@ -6267,7 +6428,7 @@ ylin:
   active: false
   aka: []
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2013
       begin_month: 9
@@ -6301,7 +6462,8 @@ yrakita:
     - Yevgeny Rakita Shlafstein
     - Rakita, Yevgeny
   avatar: https://github.com/yevgenyr.png
-  bio: Yevgeny Rakita (Shlafstein) grew up in Israel and, after finishing his PhD,
+  bio:
+    Yevgeny Rakita (Shlafstein) grew up in Israel and, after finishing his PhD,
     joined Simon Billinge's group. In the Billige group Yevgeny developes electron-beam
     based Pair Distribution Function (PDF) analysis techniques,   focusing on derivation
     and mapping of PDF-based quantities. In addition, he explores data harvesting
@@ -6329,18 +6491,18 @@ yrakita:
       department: Materials and Interfaces
       end_year: 2019
       other:
-        - 'Advisors: Profs. Gary Hodes and David Cahen'
-        - 'Thesis title: Between Structure and Performance in Halide Perovskites for
-          Photovoltaic Applications: the Role of Defects'
+        - "Advisors: Profs. Gary Hodes and David Cahen"
+        - "Thesis title: Between Structure and Performance in Halide Perovskites for
+          Photovoltaic Applications: the Role of Defects"
     - begin_year: 2010
       degree: M.Sc.
       institution: Tel-Aviv University
       department: Materials Engineering & Nanotechnology
       end_year: 2014
       other:
-        - 'Advisors: Dr. Amir Natan and Prof. Dianna Golodnitsky'
-        - 'Thesis title: Modelling the effect of adsorbed polyelectrolytes on the
-          electric potential at charged surfaces'
+        - "Advisors: Dr. Amir Natan and Prof. Dianna Golodnitsky"
+        - "Thesis title: Modelling the effect of adsorbed polyelectrolytes on the
+          electric potential at charged surfaces"
         - (summa cum laude)
     - begin_year: 2005
       degree: B.Sc.
@@ -6374,7 +6536,7 @@ yrshang:
     - Shang, Y.
     - Shang, Yingrui
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2005
       degree: PhD in Physics
@@ -6405,7 +6567,7 @@ yztao:
   aka:
     - Yunzhe Tao
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2013
       begin_month: 1
@@ -6430,7 +6592,8 @@ zcliu:
     - Zicheng Liu
     - Taylor Liu
   avatar: https://github.com/zichengliu1997.png
-  bio: Zicheng is from Guangzhou, China. He has spent the last year working as an
+  bio:
+    Zicheng is from Guangzhou, China. He has spent the last year working as an
     undergraduate research assistant in the plasma physics laboratory at Columbia
     University while majoring in applied physics. He joined Dr. Billinge's group in
     the summer of 2020 as a visiting undergraduate research assistant.
@@ -6475,7 +6638,7 @@ zguguchia:
     - Guguchia, Z.
     - Guguchia, Zurab
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - begin_year: 2010
       degree: PhD
@@ -6507,7 +6670,8 @@ zthatcher:
     - Zachary A. Thatcher
     - Zachary Thatcher
   avatar: https://github.com/zthatch.png
-  bio: Zach grew up in Connecticut and worked previously as an engineering consultant
+  bio:
+    Zach grew up in Connecticut and worked previously as an engineering consultant
     in Arlington, VA. At the University of Connecticut he worked on characterization
     of ferroelectric thin films as a member of HueyAFM Labs. As an consulting engineer,
     he acted primarily as a a firmware developer for the medical device industry,
@@ -6578,7 +6742,7 @@ zzachko:
   github_id: zzachko
   grp_mtg_active: true
   name: Zoe Zachko
-  orcid_id: ''
+  orcid_id: ""
   position: undergraduate researcher
 zzgong:
   active: false
@@ -6590,14 +6754,14 @@ zzgong:
     - ZiZhou Gong
     - Gong, Z.
   avatar: https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y
-  bio: ''
+  bio: ""
   education:
     - institution: columbiau
       degree: masters research assistant in Physics
       group: bg
       advisor: sbillinge
       other:
-        - 'Adviser: Simon Billinge and Yasutomo Uemura'
+        - "Adviser: Simon Billinge and Yasutomo Uemura"
       department: physics
       begin_year: 2013
       end_year: 2018
@@ -6605,7 +6769,7 @@ zzgong:
     - begin_year: 2018
       location: San Jose, CA
       other:
-        - ''
+        - ""
       position: engineer
       position_full: Senior Optical Engineer
       organization: Hermes Microvision
