@@ -34,7 +34,8 @@
       name: sbillinge
       position: pi
       subaward_amount: 20000
-  title: Local structure and properties of transition metal oxides using pair distribution
+  title:
+    Local structure and properties of transition metal oxides using pair distribution
     function analysis
 0095_sloan:
   amount: 30000
@@ -57,7 +58,8 @@
       name: sbillinge
       position: pi
       subaward_amount: 20000
-  title: Local atomic structure of semiconductor alloys using pair distribution function
+  title:
+    Local atomic structure of semiconductor alloys using pair distribution function
     analysis
 0096_cfmr_kaplan:
   amount: 45000
@@ -75,7 +77,8 @@
     - institution: msu
       name: Tom Kaplan
       position: copi
-  title: Electronic and magnetic structure of transition metal oxides and related
+  title:
+    Electronic and magnetic structure of transition metal oxides and related
     systems
 0096_cfmr_pinnavaia:
   amount: 65000
@@ -110,7 +113,8 @@
       name: sbillinge
       position: pi
       subaward_amount: 210000
-  title: A study of the local structure of transition metal oxides using pair distribution
+  title:
+    A study of the local structure of transition metal oxides using pair distribution
     function analysis
 0096_nsfche_pinnavaia:
   amount: 1760865
@@ -161,7 +165,8 @@
     - institution: upenn
       name: Takeshi Egami
       position: copi
-  title: Wide angle capability for the high-resolution chopper spectrometer PHAROS
+  title:
+    Wide angle capability for the high-resolution chopper spectrometer PHAROS
     at Los Alamos
 0097_cfmr:
   amount: 13000
@@ -176,7 +181,8 @@
     - institution: msu
       name: Michael Thorpe
       position: copi
-  title: Local atomic structure of semiconductor alloys using pair distribution function
+  title:
+    Local atomic structure of semiconductor alloys using pair distribution function
     analysis
 0097_cfmr_kaplan:
   amount: 45000
@@ -194,7 +200,8 @@
     - institution: msu
       name: Tom Kaplan
       position: copi
-  title: Electronic and magnetic structure of transition metal oxides and related
+  title:
+    Electronic and magnetic structure of transition metal oxides and related
     systems
 0097_cfmr_pinnavaia:
   amount: 65000
@@ -230,7 +237,8 @@
       name: sbillinge
       position: pi
       subaward_amount: 270000
-  title: Local atomic structure and properties of transition metal oxides using pair
+  title:
+    Local atomic structure and properties of transition metal oxides using pair
     distribution function analysis
 0097_doe_thorpe:
   amount: 431395
@@ -246,7 +254,8 @@
     - institution: msu
       name: Michael Thorpe
       position: copi
-  title: Local atomic structure of semiconductor alloys using pair distribution function
+  title:
+    Local atomic structure of semiconductor alloys using pair distribution function
     analysis
 0098_cfmr:
   amount: 13000
@@ -261,8 +270,9 @@
     - institution: msu
       name: Michael Thorpe
       position: copi
-  title: 'Modelling defects in topologically connected networks: Application to perovskite
-    structures'
+  title:
+    "Modelling defects in topologically connected networks: Application to perovskite
+    structures"
 0098_cfmr_kaplan:
   amount: 33000
   begin_date: 1998-06-15
@@ -282,7 +292,8 @@
     - institution: msu
       name: Bhanu Mahanti
       position: copi
-  title: Theoretical and Experimental studies of electronic and structural properties
+  title:
+    Theoretical and Experimental studies of electronic and structural properties
     of pristine and doped manganites
 0099_nist_pinnavaia:
   amount: 155030
@@ -297,7 +308,8 @@
     - institution: msu
       name: Tom Pinnavaia
       position: copi
-  title: Neutron Scattering Studies of Structure and Dynamics in Disordered Mesoporous
+  title:
+    Neutron Scattering Studies of Structure and Dynamics in Disordered Mesoporous
     Materials
 0099_nsfche_pinnavaia:
   amount: 1917858
@@ -352,7 +364,8 @@
     - institution: moscowstateu
       name: E. Antipov
       position: copi
-  title: Charge Inhomogeneities on Different Length-scales probed with high-resolution
+  title:
+    Charge Inhomogeneities on Different Length-scales probed with high-resolution
     neutron diffraction
 00_dmr:
   amount: 330000
@@ -429,8 +442,9 @@
     - institution: msu
       name: Phillip Duxbury
       position: copi
-  title: 'Cluster Refinement Method for PDF Analysis:  Application to Cuprates and
-    Manganites'
+  title:
+    "Cluster Refinement Method for PDF Analysis:  Application to Cuprates and
+    Manganites"
 01_doe_bes:
   amount: 330000
   begin_date: 2001-09-01
@@ -444,7 +458,8 @@
     - institution: msu
       name: Michael Thorpe
       position: copi
-  title: Local atomic structure of functional materials using pair distribution function
+  title:
+    Local atomic structure of functional materials using pair distribution function
     analysis of neutron and x-ray data
 01_isis_postdoc:
   amount: 200000
@@ -456,7 +471,8 @@
       name: sbillinge
       position: pi
       subaward_amount: 200000
-  title: Local Structure-Property relationship of electronic oxides (funds a post-doc
+  title:
+    Local Structure-Property relationship of electronic oxides (funds a post-doc
     at ISIS)
 02_anl_merix:
   amount: 109670
@@ -468,7 +484,8 @@
       name: sbillinge
       position: pi
       subaward_amount: 109670
-  title: Development of medium resolution inelastic x-ray scattering (MERIX) spectrometer
+  title:
+    Development of medium resolution inelastic x-ray scattering (MERIX) spectrometer
     for the study of correlated electron systems
 02_nsfche_pinnavaia:
   amount: 2232644
@@ -583,7 +600,8 @@
     - institution: caltech
       name: Brent Fultz
       position: pi
-  title: Distributed Data Analysis for Neutron Scattering Experiments (Construction
+  title:
+    Distributed Data Analysis for Neutron Scattering Experiments (Construction
     proposal)
 06_rapdf_detector:
   amount: 279894
@@ -615,7 +633,7 @@
     - institution: msu
       name: Michael F. Thorpe
       position: copi
-  title: 'FRG: Beyond Crystallography: Structure of  Nanostructured Materials'
+  title: "FRG: Beyond Crystallography: Structure of  Nanostructured Materials"
 08_FWP-I:
   amount: 3600000.0
   awardnr: DE-SC0012704
@@ -628,7 +646,8 @@
       name: Simon Billinge
       position: pi
       subaward_amount: 3600000.0
-  title: Towards an understanding of nano-scale fluctuations in strongly correlated
+  title:
+    Towards an understanding of nano-scale fluctuations in strongly correlated
     electron systems
 09_Columbia_EFRC:
   amount: 15254325.0
@@ -669,10 +688,11 @@
     - institution: riceu
       name: Pengcheng Dai
       position: copi
-    - institution: ''
+    - institution: ""
       name: Christopher Wiebe
       position: copi
-  title: PIRE:International consortium for probing novel superconductors with neutrons,
+  title:
+    PIRE:International consortium for probing novel superconductors with neutrons,
     muons, photons and STM
 10_toyota:
   amount: 20228
@@ -684,7 +704,8 @@
       name: sbillinge
       position: pi
       subaward_amount: 20228
-  title: Use of Pair Distribution Function Analysis to determine the Surface Energy
+  title:
+    Use of Pair Distribution Function Analysis to determine the Surface Energy
     of Nanoparticle Catalysts
 11_JUAMI-I:
   amount: 200000.0
@@ -705,7 +726,7 @@
     - institution: northwesternu
       name: Sossina Haile
       position: copi
-  title: 'Joint US - Africa Materials Science Institute (JUAMI)  '
+  title: "Joint US - Africa Materials Science Institute (JUAMI)  "
 12_SIXNS:
   amount: 300000.0
   awardnr: DMR-1216643
@@ -728,8 +749,9 @@
     - institution: uwashington
       name: John Rehr
       position: copi
-  title: 'Collaborative Research: Scientific Software Innovation Institute for Advanced
-    Analysis of X-Ray and Neutron Scattering Data (SIXNS)'
+  title:
+    "Collaborative Research: Scientific Software Innovation Institute for Advanced
+    Analysis of X-Ray and Neutron Scattering Data (SIXNS)"
 12_complex_modeling_LDRD:
   amount: 1500000.0
   awardnr: 12-007
@@ -746,8 +768,9 @@
       name: Simon Billinge
       position: pi
       subaward_amount: 1500000.0
-  title: 'Complex Modeling: leveraging data with theory and computation to push back
-    the materials complexity frontier (Software development project)'
+  title:
+    "Complex Modeling: leveraging data with theory and computation to push back
+    the materials complexity frontier (Software development project)"
 14_CU/Glasgow_student_fellowship:
   amount: 10000.0
   begin_day: 30
@@ -764,7 +787,8 @@
       name: Billinge Simon
       position: copi
       subaward_amount: 10000.0
-  title: Study of spatial distribution of degradation products in hull wood from the
+  title:
+    Study of spatial distribution of degradation products in hull wood from the
     Mary Rose
 14_FWP:
   amount: 2850000.0
@@ -777,7 +801,8 @@
       name: Simon Billinge
       position: pi
       subaward_amount: 500000
-  title: Towards an understanding of nano-scale fluctuations in strongly correlated
+  title:
+    Towards an understanding of nano-scale fluctuations in strongly correlated
     electron systems
 14_mrsec:
   amount: 10092792.0
@@ -838,8 +863,9 @@
       name: Daniel Hsu
       position: copi
       subaward_amount: 322785
-  title: 'DMREF: Novel, data validated, nanostructure determination methods for accelerating
-    materials discovery'
+  title:
+    "DMREF: Novel, data validated, nanostructure determination methods for accelerating
+    materials discovery"
 15_ROADs:
   amount: 99062.0
   awardnr: ROADS
@@ -860,11 +886,12 @@
     - institution: columbiau
       name: Qiang Du
       position: copi
-  title: 'Advancing Materials Genomics: Quantifying Uncertainties for Nanostructure
-    Determination and Optimization (QUNDO) (ROADS)'
+  title:
+    "Advancing Materials Genomics: Quantifying Uncertainties for Nanostructure
+    Determination and Optimization (QUNDO) (ROADS)"
 16_GSK_proposal:
   amount: 92734.0
-  awardnr: ''
+  awardnr: ""
   begin_date: 2016-03-15
   end_date: 2017-09-14
   funder: GlaxoSmithKline
@@ -873,8 +900,9 @@
       name: Simon Billinge
       position: pi
       subaward_amount: 92734.0
-  title: 'Prediction of amorphous stability, quantification of amorphous content,
-    and characterization of nano-particles using PDF methods '
+  title:
+    "Prediction of amorphous stability, quantification of amorphous content,
+    and characterization of nano-particles using PDF methods "
 16_dmref_sanat:
   amount: 1271974.0
   awardnr: CBET-1629502
@@ -892,8 +920,9 @@
     - institution: usouthcarolina
       name: Brian Benicewicz
       position: copi
-  title: 'DMREF: Collaborative Research: Designing Optimal Nanoparticle Shapes and
-    Ligand Parameters for Polymer-Grafted Nanoparticle Membranes '
+  title:
+    "DMREF: Collaborative Research: Designing Optimal Nanoparticle Shapes and
+    Ligand Parameters for Polymer-Grafted Nanoparticle Membranes "
 17_Clearfield_DOE:
   amount: 333813.0
   awardnr: DE-SC0017864
@@ -953,7 +982,7 @@
       admin_people:
         - Ria Miranda
         - Daniel Alicea
-  title: 'GENESIS: A Next Generation Synthesis Center'
+  title: "GENESIS: A Next Generation Synthesis Center"
 18_ctPDF@NSLS-II:
   amount: 70103
   begin_date: 2018-05-31
@@ -994,7 +1023,8 @@
     - institution: bnl
       name: Line Pouchard
       position: pi
-  title: Data analysis pipelines with provenance for in-situ x-ray powder diffraction
+  title:
+    Data analysis pipelines with provenance for in-situ x-ray powder diffraction
     and atomic pair distribution function analysis
 1999_cfmr:
   amount: 10000
@@ -1030,8 +1060,9 @@
     - institution: columbiau
       name: Jon Owen
       position: copi
-  title: 'DMREF: Collaborative Research: Complex Nanofeatures in Crystals: Theory
-    and Experiment meet in the Cloud'
+  title:
+    "DMREF: Collaborative Research: Complex Nanofeatures in Crystals: Theory
+    and Experiment meet in the Cloud"
 20_fwp:
   amount: 4100000.0
   awardnr: DE-SC0012704
@@ -1065,7 +1096,8 @@
       name: Ngai Yin Yip
       position: pi
       subaward_amount: 42577
-  title: Towards a Mechanistic Understanding of Inter- and Intra-molecular Interactions
+  title:
+    Towards a Mechanistic Understanding of Inter- and Intra-molecular Interactions
     in Temperature Swing Solvent Extraction Desalination with Novel Atomistic Measurements
 21_3m:
   amount: 101638
@@ -1078,7 +1110,8 @@
       name: Simon Billinge
       position: pi
       subaward_amount: 101638
-  title: Pair Distribution Function (PDF) Methodology and Advanced Computing for Nanostructure
+  title:
+    Pair Distribution Function (PDF) Methodology and Advanced Computing for Nanostructure
     Determination
 21_bnl:
   amount: 67376.63
@@ -1111,7 +1144,8 @@
       name: Dinsefa Mensur
       position: copi
       subaward_amount: 10000
-  title: Developing Accessible Educational and Research Resources for East African
+  title:
+    Developing Accessible Educational and Research Resources for East African
     Graduate Students in Computational Materials Science and Sustainability
 21_jhu_mitra:
   amount: 55000
@@ -1142,9 +1176,10 @@
       name: Simon Billinge
       position: pi
       subaward_amount: 49153
-  title: 'Conference: WORKSHOP ON SCIENTIFIC OPPORTUNITIES AND INSTRUMENTATION NEEDS
+  title:
+    "Conference: WORKSHOP ON SCIENTIFIC OPPORTUNITIES AND INSTRUMENTATION NEEDS
     FOR NEXT GENERATION MATERIALS GENOMICS BASED MATERIALS RESEARCH IN MATERIALS WITH
-    LONG RANGE ORDER'
+    LONG RANGE ORDER"
 22_collaboratory:
   amount: 70000
   awardnr: n/a
@@ -1208,7 +1243,8 @@
       name: Steven Torrissi
       position: co-pi
       subaward_amount: 0
-  title: A Data-driven Approach to Solving the Structure Refinement Problem for Defected
+  title:
+    A Data-driven Approach to Solving the Structure Refinement Problem for Defected
     and Disordered Nanoparticles
 23_doe_neutron_scattering:
   amount: 900000
@@ -1216,26 +1252,9 @@
   begin_date: 2023-09-01
   end_date: 2026-08-31
   funder: DOE-BES
-  narrative: 'Fixme The main goal of the project is to develop data analysis and knowledge
-    extraction strategies to separate signals in complex data from in situ and operando
-    neutron diffraction measurements. In general, operating devices are highly heterogeneous,
-    made up of different components in complex arrangements on micron and millimeter
-    lengths-scales. \n\n Approaches will take advantage of developments in artificial
-    intelligence and machine learning to separate signals from heterogeneous devices.
-    \n\n We will address two challenges, (1) heterogeneity, requiring the separation
-    and interpretation of overlapping signals, (2) sample non-ideality, where experimental
-    geometries make data non-ideal, for example bad powder averages (spotty data)
-    due to the inability to spin a battery. Other aspects of the problem are the existence
-    of sets of time-series data and  occasionally the need to extract tiny signals
-    from large backgrounds. \n\n The goal is to develop the algorithms, software and
-    computational tools that will allow the community to study complex heterogeneous
-    samples with neutrons. \n\n The work is captured in the hypothesis: It is possible
-    to separate overlapping signals from heterogeneous samples in time of flight neutron
-    experiments by exploiting the high dimensionality of the “experiment parameter
-    space” and using modern algorithms.'
   team:
     - institution: columbiau
       name: Simon Billinge
       position: pi
       subaward_amount: 900000
-  title: 'Real materials in action: Data analysis developments for real materials'
+  title: "Real materials in action: Data analysis developments for real materials"
