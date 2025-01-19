@@ -1,29 +1,41 @@
-algebra_of_synthesis:
+ai-ml-to-solve-problems-in-matsci:
   active: true
   description:
-    'Modern materials genomics aims to discover novel materials and bring
-    them into to applications on an accelerated time-scale using "genomic" methods
-    based on data mining, materials informatics, and AI/ML.  It has been very successful
-    at predicting previously undiscovered atomic arrangements ("materials") that are
-    stable or nearly stable using computational methods.  But the ability to subsequently
-    make those materials is a greater challenge.  This project aims to tackle not
-    the materials prediction problem, but the materials synthesis problem: given a
-    material, what is the recipe, or protocol, for making it.  We are interested in
-    taking a data analytic view of this problem with a view to apply generative AI
-    to the problem, but initially aim to find a simplifying framework for the problem
-    by understanding the basic non-commutative algebra and topology of synthesis operations.'
+    "Since 2015 or so, advances in AI/ML have started to have transoformational impacts
+    on our lives in general.  A question arises whether they will be useful tools to help
+    us carry out our scientific research.  In this project, we explore this question and
+    develop AI/ML methods for carrying out better and more innovative materials science
+    research."
   group: bg
   highlights: []
-  name: The algebra and topology of synthesis
+  name: AI/ML applied to solve problems in materials science
   summary:
-    "This project aims to tackle the materials synthesis problem: given a material,
-    what is the recipe, or protocol, for making it.  The approach is to develop generative
-    AI/ML approaches but also in parallel to understand underlying rules that govern
-    the interactions between different synthesis operations."
+    "This project aims to explore and develop AI/ML methods to solve outstanding problems in
+    materials science"
   team:
     - name: sbillinge
       position: PI
-      begin_year: 2022
+      begin_year: 2018
+  type: research
+structure-of-excited-materials:
+  active: true
+  description:
+    "Knowledge of the structure of materials is behind our understanding of materials properties.
+    However, the structures of materials that we solve normally are those of the material in its
+    ground-state, i.e., its stable, relaxed state.  However, in real operating devices, materials are typically
+    not in their ground-state.  In the device,  a force is applied to the material which is responding
+    to that force.  To fully understand how materials are going to behave in devices, we therefore need
+    to be able to study their structure out of the ground-state, in various excited states.  These
+    could be states where the material is responding to a voltage or physical or chemical stress.  It
+    can also be where the material is responding to a pulse of light from a laser"
+  group: bg
+  highlights: []
+  name: Structure of excited materials
+  summary: "This project aims to develop methods to study the structure of materials in their excited states."
+  team:
+    - name: sbillinge
+      position: PI
+      begin_year: 2025
   type: research
 complex_liquids:
   active: true
@@ -52,96 +64,9 @@ complex_liquids:
   team:
     - name: sbillinge
       position: PI
-      begin_year: 2016
+      begin_year: 2022
   type: research
-dmref15:
-  active: false
-  description:
-    Advancing applied mathematics and computational approaches to the study
-    of the nanostructure of materials
-  grants:
-    - dmref15
-  group: bg
-  highlights:
-    - year: 2021
-      month: 1
-      description:
-        Launched PDF in the cloud (PDFitc) website, the first atomic pair
-        distribution function data analysis website.  Instead of downloading group
-        software and using it on their local computers, users can now upload their
-        measured PDFs and search for candidate structures that are pulled from large
-        structural databases.
-    - year: 2021
-      month: 1
-      description:
-        Published a series of papers that applied artificial intelligence
-        (AI) and machine learning (ML) to the study of nanostructure inverse problems,
-        including using a convolutional neural net (CNN) to predict the space group
-        of a material given an atomic pair distribution function (PDF) measured from
-        x-ray or neutron powder diffraction data.
-    - year: 2020
-      month: 3
-      description:
-        Launched PDF in the cloud (PDFitc) website, the first atomic pair
-        distribution function data analysis website.  Instead of downloading group
-        software and using it on their local computers, users can now upload their
-        measured PDFs and search for candidate structures that are pulled from large
-        structural databases.
-    - year: 2018
-      month: 6
-      description:
-        Discovered a novel approach to model metallic nanoparticle structures
-        by building discrete models algoritmically for databases. published in Acta
-        Crystallographica A.
-  name:
-    Using data analytics to regularize the nanostructure inverse problem, and
-    NSF funded DMREF center
-  team:
-    - name: sbillinge
-      position: PI
-      begin_year: 2016
-  type: research
-dmrefcheme16:
-  active: false
-  description:
-    Finding polymer membranes that are both selective to separating particular
-    gas species, and also have high permeability, is a frontier challenge in chemical
-    engineering.  Thid project sought to apply AI/ML to search for novel gas membrane
-    candidates
-  grants:
-    - dmrefcheme16
-  group: bg
-  highlights: []
-  name: AI/ML search for improved gas separation membranes
-  summary: Apply AI and machine learning to get better gas separation membranes
-  team:
-    - name: sbillinge
-      position: Co-PI
-      begin_year: 2018
-    - name: yrakita
-      position: postdoc
-      begin_year: 2019
-    - name: cwright
-      position: gra
-      begin_year: 2018
-      end_year: 2019
-    - name: chliu
-      position: gra
-      begin_year: 2018
-      end_year: 2020
-    - name: sbanerjee
-      position: gra
-      begin_year: 2018
-      end_year: 2019
-    - name: rgu
-      position: postdoc
-      begin_year: 2019
-    - name: John Parise
-      position: pi
-      begin_year: 2018
-  type: funded
-  website: ""
-education_outreach_inclusion:
+education_outreach:
   active: true
   description:
     Activities in the group in education, outreach as well as diversity,
@@ -272,104 +197,17 @@ local_symmetry_breaking:
       begin_year: 2016
   type: research
   website: ""
-matsci_colab:
-  active: false
-  description:
-    This project built a one-semester accelerated course in machine learning
-    (ML) applied to STEM research problems for graduate and senior undergraduate level
-    students in physical science and engineering.
-  group: bg
-  highlights:
-    - year: 2023
-      month: 9
-      description:
-        Taught the course for the first time as MSAE4990.  Limited to 8
-        students, but was well received by the students.
-    - year: 2023
-      month: 4
-      description:
-        Developed a GitHub repo containing the educational examples ("edexes")
-        used in the course.
-    - year: 2022
-      month: 5
-      description:
-        Proposal funded to develop course to teach ML to physical science
-        and engineering students in Columbia Engineering
-  name: Machine Learning for Materials Science course development
-  team:
-    - name: sbillinge
-      position: PI
-      begin_year: 2022
-    - name: skumar
-      position: Co-PI
-      begin_year: 2022
-    - name: tzheng
-      position: Co-PI
-      begin_year: 2022
-  type: teaching
-  website: ""
-mrsec14:
-  active: false
-  description: Study of nanoparticle assemblies and superatom systems using PDF analysis
-  grants:
-    - mrsec14
-  group: bg
-  highlights:
-    - year: 2018
-      month: 6
-      description:
-        Published a Nature Communications paper where we characterized
-        the structure of nanoparticles arranged into a metal-organic expanded structure.
-  name: Assembly of superatoms
-  team:
-    - name: sbillinge
-      position: co-pi
-      begin_year: 2015
-      end_year: 2019
-    - name: Xavier Roy
-      position: co-pi
-      begin_year: 2014
-      end_year: 2019
-    - name: James Hone
-      position: pi
-      begin_year: 2014
-      end_year: 2019
-    - name: Collin Nuckolls
-      position: co-pi
-      begin_year: 2014
-      end_year: 2019
-    - name: Michael Steigerwald
-      position: co-pi
-      begin_year: 2014
-      end_year: 2019
-    - name: chliu
-      position: gra
-      begin_year: 2018
-      end_year: 2018
-    - name: eculbertson
-      position: gra
-      begin_year: 2017
-      end_year: 2018
-    - name: lyang
-      position: gra
-      begin_year: 2017
-      end_year: 2017
-    - name: sbanerjee
-      position: gra
-      begin_year: 2019
-      end_year: 2019
-  type: funded
 nanostructure_problem:
   active: true
   description:
     "Material properties depend sensitively on the arrangements of the
-    atoms.  The atomic structure. For around 100 years we have had x-ray based tools
+    atoms. I.e., the atomic structure. For around 100 years we have had x-ray based tools
     and algorithms that allow us to solve the structure of crystalline materials:
     crystallography.  Increasingly, we want to engineer materials at the nanoscale
     to give us different properties, but the nanostructure problem, the ability to
     solve the structure of nanomaterials, remains an unsolved problem in general.  This
     decadal project develops experiments, algorithms, and computational methods to
-    tackle the nanostructure problem."
+    solve the nanostructure problem."
   grants:
     - doeneutron23
     - efrc18
@@ -440,19 +278,3 @@ nanostructure_problem:
       position: mentor
       begin_year: 2016
   type: funded
-pytentiostat:
-  active: false
-  description:
-    Outreach project to develop an affordable potentiostat based on the
-    arduino platform, and hands-on workshops to train users in East Africa to use
-    it.
-  logo: https://github.com/juami.png
-  name: Pytentiostat
-  other: []
-  repo: https://github.com/juami/pytentiostat
-  team:
-    - name: sbillinge
-      position: PI
-      begin_year: 2016
-  type: research
-  website: ""
