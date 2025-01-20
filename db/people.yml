@@ -241,7 +241,7 @@ alappas:
   name: Alexandros Lappas
   position: professor
 alwu:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/alisnwu.png
   bio: bio
@@ -256,7 +256,7 @@ alwu:
       advisor: sbillinge
       status: undergrad
   github_id: alisnwu
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Alison Wu
   orcid_id: ""
   position: undergraduate researcher
@@ -2989,6 +2989,27 @@ lcheng:
   name: Louis Cheng
   orcid_id: ""
   position: undergraduate researcher
+ldasilva:
+  active: true
+  aka:
+    - Lucas Da Silva
+  avatar: https://github.com/.png
+  bio: bio
+  education: []
+  email: Lucas.Lemos.Da.Silva@iwm.fraunhofer.de
+  employment:
+    - begin_date: 2025-01-01
+      end_date: 2025-06-30
+      organization: columbiau
+      position: visiting student
+      group: bg
+      advisor: sbillinge
+      status: visitor-unsupported
+  github_id: ""
+  grp_mtg_active: true
+  name: Lucas Lemos Da Silva
+  orcid_id: ""
+  position: visiting student
 lkranis:
   active: false
   aka: []
@@ -6398,6 +6419,26 @@ ycchen:
   github_id: yucongalicechen
   grp_mtg_active: true
   name: Yucong Chen
+  orcid_id: ""
+  position: masters researcher
+ycexiao:
+  active: true
+  aka: []
+  avatar: https://github.com/ethan-yuchen.png
+  bio: bio
+  education: []
+  email: yx2924@columbia.edu
+  employment:
+    - begin_date: 2025-01-01
+      end_date: 2025-05-31
+      organization: columbiau
+      position: masters researcher
+      group: bg
+      advisor: sbillinge
+      status: masters
+  github_id: ethan-yuchen
+  grp_mtg_active: true
+  name: Yuchen Xiao (Ethan)
   orcid_id: ""
   position: masters researcher
 yjhu:
