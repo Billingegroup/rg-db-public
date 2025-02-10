@@ -920,7 +920,6 @@ berto;acsn17:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/17bertoacsn.pdf
   year: '2017'
 berto;c218:
-  annote: DOI:10.28954/2018.csq.02.001
   author:
     - Bertolotti, Federica
     - Proppe, Andrew H.
@@ -1092,7 +1091,7 @@ billi;ae24:
     and the funding over the years (DMR2023698, DMR1756245, DMR1539724, DMR1069120),
     as well as additional financial support from Northwestern University, the International
     Center for Theoretical Physics and US Office of Naval Research Global, and logistical
-    support from MRS, AMRS and AAS. We also thank the presenters who share their time
+    support from MRS, AMRS and African Academy of Science. We also thank the presenters who share their time
     and expertise so freely, and the students who engage so thoroughly and bring so
     much passion.
   author:
@@ -2679,7 +2678,7 @@ bozin;jac09:
   optwwwlanl: ''
   pages: 724-725
   title: Atomic pair distribution function analysis from the {ARCS} chopper spectrometer
-    at the {S}pallation {N}eutron {S}ource
+    at the {Spallation Neutron Source}
   url: http://scripts.iucr.org/cgi-bin/paper?wf5045
   volume: '42'
   wwwemail: ''
@@ -2794,7 +2793,7 @@ bozin;nc19:
   pages: '3638'
   synopsis: Local symmetry breaking at high temperature associated with a breaking
     of orbital degeneracy is established in a model system, CuIr2S4, using PDF.  This
-    is the paper that establishes the phenomonenon and its importance for understanding
+    is the paper that establishes the phenomenon and its importance for understanding
     lower temperature ground-states.
   tags: odl, cis, nsf2pcv, highlight
   title: Local orbital degeneracy lifting as a precursor to an orbital-selective Peierls
@@ -3768,7 +3767,7 @@ chupa;iucrcpd03:
   number: '29'
   pages: 24--25
   tags: in_situ
-  title: In-situ time resolved powder diffraction studies in heterogenous catalysis;
+  title: In-situ time resolved powder diffraction studies in heterogeneous catalysis;
     coupling the study of long range and local structural changes
   volume: ''
   year: '2003'
@@ -5356,7 +5355,7 @@ ghidi;cc14:
   synopsis: One of the first papers describing the synthesis of MXenes, including
     an early quantitative structural characterization using PDF
   tags: mxene, highlight
-  title: Synthesis and charaterization of two-dimensional {Nb$_4$C$_3$} {(MXene)}
+  title: Synthesis and characterization of two-dimensional {Nb$_4$C$_3$} {(MXene)}
   url: http://pubs.rsc.org/en/content/articlelanding/2014/cc/c4cc03366c\#!divAbstract
   volume: '50'
   wwwemail: ''
@@ -5571,7 +5570,7 @@ griff;nm24:
     how atoms move with respect to each other as a following a exciting stimulus.  A
     major challenge is to carry out these experiments in using the X-ray free electron
     lasers (XFELs) that can provide this time resolution in prinicple.  This experiment
-    demonstrates that this is possile, opening the door to future such experiments
+    demonstrates that this is possible, opening the door to future such experiments
     on a wide range of materials. In this case, the destruction of an ordered charge
     density wave state at the metal-insulator transition of the quantum material,
     CuIr2S2, was studied.
@@ -7114,7 +7113,7 @@ kimbe;nm23:
     At Northwestern University, work on thermoelectric materials is primarily supported
     by the U.S Department of Energy, Office of Science and Office of Basic Energy
     Sciences under award number DE-SC0014520.  Ce travail a \'{e}t\'{e} soutenu par
-    le programme ”Investissements d’Avenir”, projet ISITE-BFC (contrat ANR-15-IDEX-0003).
+    le programme ”Investissements d’Avenir”, project ISITE-BFC (contrat ANR-15-IDEX-0003).
   author:
     - Simon A. J. Kimber
     - Jiayong Zhang
@@ -7149,7 +7148,7 @@ kimbe;nm23:
     the shutter is open blur out and gradually disappear from the image. By varying
     the shutter speed you can see them disappear and reappear. This allows you to
     know which parts of an image are stationary and which are moving.  It also gives
-    information about their speed by which is realted to the shutter speed where they
+    information about their speed by which is related to the shutter speed where they
     appear/disappear.  The new technique uses neutrons as a probe of the material
     and we called it variable-shutter PDF (vsPDF). The new information allowed a theory
     to be developed by the team that gives novel insight into the atomic bonding in
@@ -8404,7 +8403,7 @@ liu;jacs22:
     contrast of just 0.48.  Metal-metal correlations are important in this mechanism
     as indicated by PDF analysis.
   synopsis: Low temperature glass forming MOF structures are reported with good optical
-    properties suitable for infomration storage applications
+    properties suitable for information storage applications
   tags: mof, liquid, molecular, glass, amorphous
   title: Designing Glass and Crystalline Phases of Metal–Bis(acetamide) Networks to
     Promote High Optical Contrast
@@ -8570,7 +8569,7 @@ lo;nc19:
   grant: tamu17
   journal: Nature Chemistry
   month: dec
-  nb: art, hilight
+  nb: art, highlight
   optannote: Require change to the acknowledgement. No MRSEC.
   optnote: ''
   optwwwlanl: ''
@@ -9031,10 +9030,10 @@ morro;jfeng18:
     can be amorphized in different ways.  In this study, the structure, physical and
     chemical properties of sugar amorphized in different ways was studied.  Our total
     scattering PDF was able to show that local molecular-level ordering differences
-    existed between Melt quenched, feeze dried, spray dried and spin melt-quenched
+    existed between Melt quenched, freeze dried, spray dried and spin melt-quenched
     sugare existed.  Together with other characterizations of the degree of crystallinity
     and water contents, a picture emerged where at a fundamental level, the nature
-    of the reuslting amorphous state depended sensitively on the amorphization method.
+    of the resulting amorphous state depended sensitively on the amorphization method.
   tags: sugar, organics, food, amorphous
   title: Effect of amorphization method on the physicochemical properties of amorphous
     sucrose
@@ -10266,7 +10265,7 @@ proff;jac01:
   grant: ' nsf-dmr00 '
   journal: J. Appl. Crystallogr.
   nb: ' art, pdf '
-  optnote: sumbitted
+  optnote: submitted
   optwwwprep: http://www.pa.msu.edu/cmp/billinge-group/papers/proffe_jac01.pdf
   pages: '767'
   title: Teaching diffraction using computer simulations over the internet
@@ -10503,8 +10502,8 @@ qiu;prl05:
 rakit;am23:
   ackno: J.L.H and P.P.D contributed equally. Y.R. thank Songsheng Tau for his assistance
     in developing the MiniPipes code. We also ac- knowledge Michael L. Falk and Darius
-    D. Alix-Williams for provid- ing atomic structures to support diffraction simulations.
-    Develop- ment of data analysis pipelines and protocols in the Billinge group was
+    D. Alix-Williams for providing atomic structures to support diffraction simulations.
+    Development of data analysis pipelines and protocols in the Billinge group was
     funded by the Next Generation Synthesis Center (GENESIS), an Energy Frontier Research
     Center funded by the U.S. Department of Energy , Office of Science, Basic Energy
     Sciences under Award Num- ber DE-SC0019212 . Electron microscopy in the Taheri
@@ -10539,7 +10538,7 @@ rakit;am23:
   professional_summary: Electron micrscopy is a powerful method for studying loca
     arrangements of atoms and atomic defects in materials and has had enormous scientific
     impact.  However, when materials are very disordered, the description of the local
-    structure becomes more statistical in nature and useful descriptions of the strucuture
+    structure becomes more statistical in nature and useful descriptions of the structure
     are in the form of correlation functions that indicate probabilities of finding
     atoms in the vicinity of other atoms.  This is measured using methods such as
     atomic pair distribution function (PDF) analysis. Here we combine PDF with scanning
@@ -10581,7 +10580,7 @@ rakit;jacs20:
   grant: efrc18
   journal: J. Am. Chem. Soc.
   month: nov
-  nb: art, hilight
+  nb: art, highlight
   number: '44'
   optannote: ''
   optnote: toc caption.  Schematic of an experiment to make a target material, cuprous
@@ -11535,7 +11534,7 @@ shi;m24:
   optnote: To be Published
   pages: p4130-4133
   professional_summary: A group working class pedagogy is described as well as personal
-    anecdotes about different strategies for succhessful implementaion.
+    anecdotes about different strategies for successful implementation.
   synopsis: The approach of group work on worksheets is laid out
   tags: teaching, pedagogy
   title: Teaching materials science and engineering students in the 21st century
@@ -12124,7 +12123,7 @@ tao;cm23:
   number: ''
   optnote: submitted
   pages: ''
-  synopsis: A detailed case study is presented in how to model nanoparticle stucture
+  synopsis: A detailed case study is presented in how to model nanoparticle structure
     from the  PDF using diffpy cmi and attenuated crystal models
   tags: tio2, nanoparticle, oxide_nanoparticle, modeling
   title: 'Rapid modeling of the local structure of metal oxide nanoparticles from
@@ -12320,7 +12319,7 @@ terba;mp20:
   grant: gsk16
   journal: Molecular Pharmaceutics
   month: April
-  nb: art, hilight
+  nb: art, highlight
   notes: ''
   number: '7'
   optannote: ''
@@ -12478,22 +12477,22 @@ thatc;aa22:
   public_summary: Advancements in engineering have led to widespread utilization of
     increasingly complex materials in devices that have become integral parts of our
     everyday lives. A few examples of this complexity include the dynamic rearrangement
-    of atoms in various geometric patterns durring use (i.e. batteries) and the use
+    of atoms in various geometric patterns during use (i.e. batteries) and the use
     of materials that require precise control of atom configuration during manufacturing.
     In order to improve the devices that depend on these complex materials, we need
     to gain a better understanding of how the atomic configuration changes over time
-    and space. Determing the average configuration of atoms throughout space and time
+    and space. Determining the average configuration of atoms throughout space and time
     is a difficult task, typically requiring that geometric models be developed and
     subsequently tracked over a large number of experimental signals. However, recent
     advancements in machine learning has lead to the development of tools that can
     track these kinds of signals over space and time without the need to develop or
-    utilize a geometric model. This can rapidly provide unforseen insight into how
+    utilize a geometric model. This can rapidly provide unforeseen insight into how
     the atoms are rearranging from one measurement to the next. This work describes
     a new web application that makes utilization of this algorithm, known as NMF,
     intuitive for scientists that specialize in tracking average atomic arrangements.
   synopsis: A web application called nmfMapping was created and launched on the pdfitc.org
     website. This application provides a graphical interface for performing NMF decomposition
-    of powder x-ray diffraction (PXRD) and atomic pair distribtion function (PDF)
+    of powder x-ray diffraction (PXRD) and atomic pair distribution function (PDF)
     data. This paper describes the utility of this application through a description
     of the interface, along with two examples of how the app has been used to accelerate
     the analysis process.

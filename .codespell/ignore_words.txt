@@ -13,5 +13,43 @@ fro
 ;; The facility not the attitude
 SLAC
 
-;; The chemical
+;; The chemicals
 Nd
+ThSe
+Te
+NWO
+AFE
+
+;; The names of collaborators
+Nam
+Skelton
+Tennant
+BASF
+Joo
+Hart
+Comin
+Stach
+Comor
+Flor
+Winn
+Studi
+
+;; Whet as in appetite
+whet
+
+;; journal abbreviations
+Commun
+Ser
+bridg
+slac
+SHS
+stach
+selt
+als
+basf
+
+;; citation things
+annote
+
+;; the state
+ND

@@ -1,6 +1,7 @@
 from pprint import pprint
 
 import pandas as pd
+from ruamel.yaml import YAML
 
 us_states = {
     "AK": "Alaska",
@@ -121,7 +122,6 @@ for u in unis:
                 data_id += "u"
             output.update({data_id: dd})
 pprint(output)
-from ruamel.yaml import YAML
 
 yaml = YAML()
 with open("unis.yaml", "w") as f:

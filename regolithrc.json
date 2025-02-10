@@ -60,7 +60,7 @@
 
             "type": {
               "required": true,
-              "description": "the type of the acitivity",
+              "description": "the type of the activity",
               "type": "string",
               "eallowed": ["teaching", "research"]
             },

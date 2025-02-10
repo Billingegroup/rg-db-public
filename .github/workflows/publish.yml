@@ -1,4 +1,4 @@
-name: Publish Group Webiste
+name: Publish Group Website
 
 on:
   push:

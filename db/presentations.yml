@@ -186,7 +186,7 @@
     structure, which is a major experimental challenge. There are recently emerging
     powerful experimental developments, for example, using the atomic pair distribution
     function technique (PDF), among others. I will describe the structural insights
-    that can be obtained from heterogenous nanostructured components such as electrodes
+    that can be obtained from heterogeneous nanostructured components such as electrodes
     and electrolytes in fuel cells and batteries and thermoelectrics. These approaches
     can yield quantitative information such as thermodynamic parameters that help
     us to understand function even in working devices, as well as to study failure
@@ -216,7 +216,7 @@
     structure, which is a major experimental challenge. There are recently emerging
     powerful experimental developments, for example, using the atomic pair distribution
     function technique (PDF), among others. I will describe the structural insights
-    that can be obtained from heterogenous nanostructured components such as electrodes
+    that can be obtained from heterogeneous nanostructured components such as electrodes
     and electrolytes in fuel cells and batteries and thermoelectrics. These approaches
     can yield quantitative information such as thermodynamic parameters that help
     us to understand function even in working devices, as well as to study failure
@@ -559,7 +559,7 @@
     where disorder and nanoscale structures are valued in\ \ materials, the PDF is
     having an impact.  And disorder and nanoscale structures\ \ are valued pretty
     much everywhere. There are multiple beamlines dedicated\ \ to the technique around
-    the world, and software programs are becomeing widely\ \ available and easier
+    the world, and software programs are becoming widely\ \ available and easier
     to use, easing access to the method.  Moving forward\ \ we project the method's
     adoption and applications to grow enormously.  In\ \ this talk I will describe,
     as I see it, the events that have given rise\ \ to this phenomenal growth.  I
@@ -675,7 +675,7 @@
     structure, which is a major experimental challenge. There are recently emerging
     powerful experimental developments, for example, using the atomic pair distribution
     function technique (PDF), among others. I will describe the structural insights
-    that can be obtained from heterogenous nanostructured components such as electrodes
+    that can be obtained from heterogeneous nanostructured components such as electrodes
     and electrolytes in fuel cells and batteries and thermoelectrics. These approaches
     can yield quantitative information such as thermodynamic parameters that help
     us to understand function even in working devices, as well as to study failure
@@ -808,7 +808,7 @@
     structure, which is a major experimental challenge. There are recently emerging
     powerful experimental developments, for example, using the atomic pair distribution
     function technique (PDF), among others. I will describe the structural insights
-    that can be obtained from heterogenous nanostructured components such as electrodes
+    that can be obtained from heterogeneous nanostructured components such as electrodes
     and electrolytes in fuel cells and batteries and thermoelectrics. These approaches
     can yield quantitative information such as thermodynamic parameters that help
     us to understand function even in working devices, as well as to study failure
@@ -1074,7 +1074,7 @@
     structure, which is a major experimental challenge. There are recently emerging
     powerful experimental developments, for example, using the atomic pair distribution
     function technique (PDF), among others. I will describe the structural insights
-    that can be obtained from heterogenous nanostructured components such as electrodes
+    that can be obtained from heterogeneous nanostructured components such as electrodes
     and electrolytes in fuel cells and batteries and thermoelectrics. These approaches
     can yield quantitative information such as thermodynamic parameters that help
     us to understand function even in working devices, as well as to study failure
@@ -1254,7 +1254,7 @@
     structure, which is a major experimental challenge. There are recently emerging
     powerful experimental developments, for example, using the atomic pair distribution
     function technique (PDF), among others. I will describe the structural insights
-    that can be obtained from heterogenous nanostructured components such as electrodes
+    that can be obtained from heterogeneous nanostructured components such as electrodes
     and electrolytes in fuel cells and batteries and thermoelectrics. These approaches
     can yield quantitative information such as thermodynamic parameters that help
     us to understand function even in working devices, as well as to study failure
@@ -1282,9 +1282,9 @@
 1908sb_ecmAI:
   abstract: The scientific literature has served mankind valiantly for more than 350
     years, resulting in scientific and technological revolutions in areas from energy
-    and food to healthcare and the environmnent, resulting in a life for modern humans
+    and food to healthcare and the environment, resulting in a life for modern humans
     that would be completely unrecognizable to people in the late 17th century when
-    the first journals were founded. This happened following many millenia of human
+    the first journals were founded. This happened following many millennia of human
     development over which life changed little.  What was the recipe for such success?  The
     basic recipe is to create incentives to share knowledge freely, and to have safeguards
     in place that ensure standards of quality and veracity in the knowledge base are
@@ -1697,7 +1697,7 @@
     present a new cloud-based nanostructure data analysis platform, PDFitc (PDF in
     the cloud), at https://pdfitc.org, which provides a solution to collect experimental
     diffraction data on synthesized materials all over the world. A potential use-case
-    is structure-mining, which automatically screens large numbers of stuctures against
+    is structure-mining, which automatically screens large numbers of structures against
     uploaded experimental atomic pair distributionfunction (PDF) data without human
     intervention. Tests on various material systems show the effectiveness and robustness
     of the algorithm in finding the correct atomic crystal structure. It works on
@@ -1829,7 +1829,7 @@
     present a new cloud-based nanostructure data analysis platform, PDFitc (PDF in
     the cloud), at https://pdfitc.org, which provides a solution to collect experimental
     diffraction data on synthesized materials all over the world. A potential use-case
-    is structure-mining, which automatically screens large numbers of stuctures against
+    is structure-mining, which automatically screens large numbers of structures against
     uploaded experimental atomic pair distributionfunction (PDF) data without human
     intervention. Tests on various material systems show the effectiveness and robustness
     of the algorithm in finding the correct atomic crystal structure. It works on
@@ -1939,13 +1939,13 @@
 2007yr_dsischolarssummer:
   abstract: Theory, experiments and simulations, are the three known ways for discovering
     new materials. These ways brought us to the point we are now; but can we do better?
-    Nowdays, where computers have (almost) unlimited storange capacity and computerional
-    power, data can be harvested, stored and analized in no-time. The goal is to development
-    a "global-intuition" on how to synthesize known mateirals, which then teach us,
+    Nowadays, where computers have (almost) unlimited storage capacity and computational
+    power, data can be harvested, stored and analyzed in no time. The goal is to develop
+    a "global-intuition" on how to synthesize known materials, which then teach us,
     using machine-learning, to discover new functional materials. I will talk about
-    why and how we, as scientists and computer-scitists, should embrce the (fourth)
+    why and how we, as scientists and computer-scientists, should embrace the (fourth)
     data-driven scientific approach in order to discover new functional materials,
-    and the chalenges we are facing in turning old habbits into our favor.
+    and the challenges we are facing in turning old habits into our favor.
   authors:
     - yrakita
     - sbillinge
@@ -2107,7 +2107,7 @@
     temperature and composition, and have significant impacts on the material properties.
     They are difficult to detect by conventional measurements sensitive tolong-range
     order, which is why they have been largely overlooked until the pastfew years,
-    but that doesn’t mean that they are not important to the physics ofthe materials.
+    but that doesn’t mean that they are not important to the physics of the materials.
     They can produce gaps in the electronic structure that are large, and in a number
     of cases studied to date are important, but previously overlooked, precursors
     to insulator-metaltransitions, charge density wave states, nematicity, and more.
@@ -2452,14 +2452,14 @@
   title: 'Keeping up with the data: accelerating discovery in a high data velocity
     world'
   type: invited
-2105sb_initiativeforcomputationalscienceandengineering,columbiauniveristy,newyork,ny:
+2105sb_initiativeforcomputationalscienceandengineering,columbiauniversity,newyork,ny:
   abstract: tbd
   authors:
     - sbillinge
   begin_date: 2021-05-12
   end_date: 2021-05-12
   location: Initiative for Computational Science and Engineering (iCSE), Columbia
-    Univeristy, New York, NY
+    University, New York, NY
   meeting_name: Virtual Research Day 2021
   project:
     - all
@@ -2514,7 +2514,7 @@
     structure, which is a major experimental challenge. There are recently emerging
     powerful experimental developments, for example, using the atomic pair distribution
     function technique (PDF), among others. I will describe the structural insights
-    that can be obtained from heterogenous nanostructured components such as electrodes
+    that can be obtained from heterogeneous nanostructured components such as electrodes
     and electrolytes in fuel cells and batteries and thermoelectrics. These approaches
     can yield quantitative information such as thermodynamic parameters that help
     us to understand function even in working devices, as well as to study failure
@@ -3743,9 +3743,9 @@
     Alternatively, one can use a data-driven approaches, where relational datasets
     are used to measure variations in the structure. Using relational Pair Distribution
     Function (PDF) data, one can reduce the contributions of systematic errors and
-    allow one to follow the evolution of local strucutral motifs without the need
-    in a complete strucutral model. Using the rapidly evolving machine-learning tools,
-    realational PDF datasets can be used to disentangle partial structural motifs
+    allow one to follow the evolution of local structural motifs without the need
+    in a complete structural model. Using the rapidly evolving machine-learning tools,
+    relational PDF datasets can be used to disentangle partial structural motifs
     and their evolution. I will show examples from electron and x-ray total-scattering
     experiments, where relational PDF were used.
   authors:
@@ -4048,7 +4048,7 @@
 2208sb_versailles,paris,france:
   abstract: I will describe recent efforts to apply machine learning to the analysis
     of total scattering and PDF data and modeling.  This includes the use of deep
-    neural nets for finding the unknown space-group of a measured PDF and automaticallly
+    neural nets for finding the unknown space-group of a measured PDF and automatically
     finding chemically reasonable components in large sets of powder diffraction and
     PDF measurements from, for example, an in situ synthesis experiment, using unsupervised
     machine learning methods.  I will also present preliminary results of applying
@@ -4284,7 +4284,7 @@
     that can provide good flux of hard x-rays (~30 keV energy for example) making
     in principle ufPDF a very real possibility.  The short wavelength of electrons
     also suggests that ultrafast electron diffraction could be a explored for PDF
-    analysis too.  In this talk I will describe the PDF method and our intital attempts
+    analysis too.  In this talk I will describe the PDF method and our initial attempts
     to measure and make corrections to data from LCLS to obtain quantitatively reliable
     PDFs on picosecond timescales.  The experiment is to study the response of electronic
     dimers (a form of charge density wave) in  a strongly correlated electron system,
@@ -4311,10 +4311,10 @@
     moleculare materials and liquids, as well as a growing interest in the study of
     local symmetry breaking in bulk crystals.  It is a direct measure of the local
     structure in the vicinity of an atom.  As such, it is a very interesting representation
-    of the structure in the context of time resolved measurements, becuase if the
+    of the structure in the context of time resolved measurements, because if the
     local bonding state or coordination of an atom is changed through photoexcitation,
     the PDF gives a direct measure of that change, and how the change propagates out
-    in time from the location where it occured.\nDespite this, to date there has been
+    in time from the location where it occurred.\nDespite this, to date there has been
     very little work in measuring ultrafast PDFs (ufPDFs).  The reasons are technological
     rather than scientific.  First, the resolution of the PDF in real space is directly
     determined by the measured range in momentum, Q.  To get quantitatively reliable
@@ -4646,10 +4646,10 @@
     moleculare materials and liquids, as well as a growing interest in the study of
     local symmetry breaking in bulk crystals.  It is a direct measure of the local
     structure in the vicinity of an atom.  As such, it is a very interesting representation
-    of the structure in the context of time resolved measurements, becuase if the
+    of the structure in the context of time resolved measurements, because if the
     local bonding state or coordination of an atom is changed through photoexcitation,
     the PDF gives a direct measure of that change, and how the change propagates out
-    in time from the location where it occured.\nDespite this, to date there has been
+    in time from the location where it occurred.\nDespite this, to date there has been
     very little work in measuring ultrafast PDFs (ufPDFs).  The reasons are technological
     rather than scientific.  First, the resolution of the PDF in real space is directly
     determined by the measured range in momentum, Q.  To get quantitatively reliable
@@ -4756,7 +4756,7 @@
     the atoms in the structure and then making a histogram of these lengths, weighted
     by the average scattering power of each atom.  This is closely related to the
     quantity you get by making a Cech filtration of a point cloud of points.  The
-    PDF does not guaruntee a unique 3D structure, and as pointed out by Vitaliy Kurlin
+    PDF does not guarantee a unique 3D structure, and as pointed out by Vitaliy Kurlin
     has pointed out, higher order correlation functions are needed to do that.  Nonetheless,
     the PDF is experimentally accessible and often sufficient to give unique 3D embeddings
     of the graph.  In this talk I introduce the PDF and describe what is possible
@@ -4897,7 +4897,7 @@
     it gets tedious when we want to start making publication quality graphics for
     our papers.   I will share a number of tips and tricks for making this part more
     straightforward and resulting in better looking figures more quickly, for example,
-    the use of style sheets, and poweful gridding tools.  I will share a few style
+    the use of style sheets, and powerful gridding tools.  I will share a few style
     tips about along the way, but mostly it will be about how to structure your code
     to make better matploblib figures more easily.
   authors:
@@ -5366,7 +5366,7 @@
     or predicting housing prices or interesting movies.  They would therefore benefit
     from course materials that are designed to play to their strengths and interests.   With
     funding help from the collaboratory@columbia University we have developed a set
-    of "Educational examples" or Edexes that take real examples from the physial science
+    of "Educational examples" or Edexes that take real examples from the physical science
     literature and right-size them as an educational example (i.e., so they can be
     computed on a laptop in reasonable time).  These are chosen so that different
     concepts in ML can be rolled out but on real problems from the literature.  The
@@ -5507,7 +5507,7 @@
 2407sb_spetsesislandingreece:
   abstract: "Spoiler alert, materials do not have a genome. Yet for the past decade,
     and into the next decade, in the USA there has been a presidential and inter-agency
-    funding initiative called the 'Materials Genome Initative (MGI)'. This initiative
+    funding initiative called the 'Materials Genome Initiative (MGI)'. This initiative
     has nothing to do with real genomes, materials or otherwise. However, in this
     talk I, somewhat whimsically, explore some ideas about what a materials gene could
     be, and how it could be used to further our understanding of materials structure
@@ -5896,7 +5896,7 @@
   status: cancelled
   title: Structure-property studies of nano-materials using synchrotron radiation
   type: invited
-2502sb_massachussettsinstituteoftechnology,boston,ma:
+2502sb_massachusettsinstituteoftechnology,boston,ma:
   abstract: At the heart of materials science studies for next generation materials
     is an idea that we want to be studying real materials doing real things, often
     in real devices.  In practice, this presents a number of key data analysis and
@@ -5906,8 +5906,8 @@
     as microstructures and evolving defects and local structures. Advanced data analysis
     algorithms and software are essential for the success of this enterprise.  Of
     particular interest is the study of nanomaterials and materials structure on different
-    lengthscales.  In this talk I will describe various developments that leverage
-    latest data acquisiont and analysis techniques, sometimes powered by artificial
+    length-scales.  In this talk I will describe various developments that leverage
+    latest data acquisition and analysis techniques, sometimes powered by artificial
     intelligence (AI) and machine learning (ML), that reveal how materials behave
     on different length-scales and sometimes also timescales.  The materials studied
     include materials for sustainable energy, environmental remediation, and cultural
@@ -5917,7 +5917,7 @@
     - sbillinge
   begin_date: 2025-02-14
   end_date: 2025-02-22
-  location: Massachussetts Institute of Technology, Boston, MA
+  location: Massachusetts Institute of Technology, Boston, MA
   meeting_name: 'Bruker-AXS / MIT Symposium 2025: Non-Bragg Methods for Your In-House
     Source'
   notes: []
