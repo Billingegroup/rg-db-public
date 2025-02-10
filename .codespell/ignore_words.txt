@@ -9,3 +9,9 @@ socio-economic
 
 ;; Frobenius norm used in np.linalg.norm
 fro
+
+;; The facility not the attitude
+SLAC
+
+;; The chemical
+Nd

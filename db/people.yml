@@ -845,7 +845,7 @@ cwright:
       end_year: 2017
       department: apam
       degree: MS in Materials Science
-    - institution: University of Sourth Carolina
+    - institution: University of South Carolina
       begin_year: 2014
       end_year: 2014
       other:
@@ -3486,7 +3486,7 @@ mzhao:
   avatar: https://github.com/MaxPaiPai.png
   bio: Jinpai (Max) Zhao grew up in Shenzhen, China. He's a three plus two engineering
     combined plan student from Davidson College, NC. Right now he's a Applied Math
-    junior at Columbia Univeristy.At Davidson College, he worked on creating a new
+    junior at Columbia University.At Davidson College, he worked on creating a new
     network ranking which targeted underrated players using python networkx package.
     He also worked on error analysis on nuetron rich nuclei. During free time, he
     likes to play basketball and making cocktails.
@@ -4861,7 +4861,7 @@ sbillinge:
           feel that bringing meaningful change starts by addressing these issues internally
           first. As we make progress the plan is to reach outside the group to find
           similar activities in other research groups, departments and across the
-          school, univesity and the academy.  The results of this activity have been
+          school, university and the academy.  The results of this activity have been
           eye opening, bringing to light the extent and ingrainedness of implicit
           biases while helping us to recognize them without feeling bad that they
           are there, and underscoring that the inreach before outreach approach is
@@ -5027,7 +5027,7 @@ sbillinge:
       begin_year: 1996
       end_year: 1997
       role: Member of team led by Robert Robinson, Los Alamos National Laboratory
-      description: This project was funded and the Pharos uprade has been carried
+      description: This project was funded and the Pharos upgrade has been carried
         out at LANSCE.
     - type: profession
       name: Organizer of a one-day JUAMI symposium on materials for sustainable energy
@@ -5444,7 +5444,7 @@ sbillinge:
       begin_year: 2012
     - type: outreach
       name: Science Advisory Committee to the NSF funded PROMSE project to improve
-        math and science eduction in the K-12 sector
+        math and science education in the K-12 sector
       begin_year: 2003
       end_year: 2010
     - type: outreach
@@ -5547,7 +5547,7 @@ sharouna-mayer:
   bio: Sani grew up in Kassel, Germany. He earned his Bachelors degree in nanoscience
     in 2018 at the University of Hamburg. During his Bachelor project he worked on
     PDF analysis of electrochromic thin films in Prof. Dorota Koziej's group. Ever
-    scince he continued working in her group as a research assistant, where he focuses
+    science he continued working in her group as a research assistant, where he focuses
     on similar electrochromic systems and insitu imaging of nanostructures. He currently
     works in the group of Simon Billinge for an external Masters project. In his free
     time he loves watching soccer, going to the gym and playing the piano.
@@ -6283,7 +6283,7 @@ ycexiao:
       status: masters
   github_id: ethan-yuchen
   grp_mtg_active: true
-  name: Yuchen Xiao (Ethan)
+  name: Yuchen (Ethan) Xiao
   orcid_id: ''
   position: masters researcher
 yjhu:
