@@ -1,4 +1,4 @@
-***Required fields in people schema for group members
+\*\*\*Required fields in people schema for group members
 
 ```
     "people": {

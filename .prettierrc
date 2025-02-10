@@ -1,0 +1,12 @@
+{
+  "overrides": [
+    {
+      "files": "*.yml",
+      "options": {
+        "singleQuote": true,
+        "proseWrap": "preserve"
+      }
+    }
+  ],
+  "printWidth": 115
+}

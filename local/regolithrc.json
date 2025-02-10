@@ -1,107 +1,117 @@
-{"groupname": "Billinge Group",
- "databases": [
-  {"name": "billingegroup-public",
-   "url": "..",
-   "public": true,
-   "path": "db",
-   "local": true}
- ],
- "schemas": {
-  "people": {
-   "position_full": {
-    "type": "string"
-   },
-   "bios": {
-    "anyof_type": ["string", "list"]
-   },
-   "employment": {
-    "type": "list",
-    "schema": {
-     "type": "dict",
-     "schema": {
-      "advisor": {
-       "required":  false,
-       "type": "string",
-       "description": "name or id of advisor"
-      },
+{
+  "groupname": "Billinge Group",
+  "databases": [
+    {
+      "name": "billingegroup-public",
+      "url": "..",
+      "public": true,
+      "path": "db",
+      "local": true
+    }
+  ],
+  "schemas": {
+    "people": {
       "position_full": {
-       "required":  false,
-       "type": "string"
+        "type": "string"
       },
-      "coworkers": {
-       "required":  false,
-       "type": "list",
-       "description": "list of names or ids of coworkers.  Used to find coeditors"
+      "bios": {
+        "anyof_type": ["string", "list"]
+      },
+      "employment": {
+        "type": "list",
+        "schema": {
+          "type": "dict",
+          "schema": {
+            "advisor": {
+              "required": false,
+              "type": "string",
+              "description": "name or id of advisor"
+            },
+            "position_full": {
+              "required": false,
+              "type": "string"
+            },
+            "coworkers": {
+              "required": false,
+              "type": "list",
+              "description": "list of names or ids of coworkers.  Used to find coeditors"
+            }
+          }
+        }
+      },
+      "education": {
+        "type": "list",
+        "schema": {
+          "type": "dict",
+          "schema": {
+            "advisor": {
+              "required": false,
+              "type": "string",
+              "description": "name or id of advisor"
+            }
+          }
+        }
+      },
+      "service": {
+        "type": "list",
+        "schema": {
+          "type": "dict",
+          "schema": {
+            "type": {
+              "required": false,
+              "type": "string"
+            }
+          }
+        }
       }
-     }
-    }
-   },
-   "education": {
-    "type": "list",
-    "schema": {
-     "type": "dict",
-     "schema": {
-      "advisor": {
-       "required":  false,
-       "type": "string",
-       "description": "name or id of advisor"
+    },
+    "institutions": {
+      "year": {
+        "description": "The year when the entry was updated",
+        "required": false,
+        "type": "integer"
+      },
+      "month": {
+        "description": "The month when the entry was updated",
+        "required": false,
+        "type": ["string", "integer"]
+      },
+      "day": {
+        "description": "The day when the the entry was updated",
+        "required": false,
+        "type": "integer"
+      },
+      "updated": {
+        "description": "The timestamp of the update",
+        "required": false,
+        "type": ["string", "date", "datetime"]
+      },
+      "uuid": {
+        "description": "A uuid for the entry",
+        "required": false,
+        "type": "string"
+      },
+      "zip": {
+        "description": "The zipcode of the school",
+        "required": false,
+        "type": ["string", "integer"]
       }
-     }
-    }
-   },
-   "service": {
-    "type": "list",
-    "schema": {
-     "type": "dict",
-     "schema": {
-      "type": {
-       "required":  false,
-       "type": "string"
+    },
+    "presentations": {
+      "subtitle": {
+        "description": "The subtitle",
+        "required": false,
+        "type": "string"
       }
-     }
     }
-   }
   },
-  "institutions": {
-   "year": {
-    "description": "The year when the entry was updated",
-    "required": false,
-    "type": "integer"},
-   "month": {
-    "description": "The month when the entry was updated",
-    "required": false,
-    "type": ["string", "integer"]},
-   "day": {
-    "description": "The day when the the entry was updated",
-    "required": false,
-    "type": "integer"},
-   "updated": {
-    "description": "The timestamp of the update",
-    "required": false,
-    "type": ["string", "date", "datetime"]},
-   "uuid": {
-    "description": "A uuid for the entry",
-    "required": false,
-    "type": "string"},
-   "zip": {
-    "description": "The zipcode of the school",
-    "required": false,
-    "type": ["string", "integer"]}
-  },
-  "presentations": {
-   "subtitle": {
-    "description": "The subtitle",
-    "required": false,
-    "type": "string"}
-  }
- },
-  "repos": [{"_id": "talk_repo",
-            "params": {"namespace_id": "35",
-                       "initialize_with_readme": "true"},
-            "url": "https://gitlab.thebillingegroup.com",
-            "api_route": "/api/v4/projects/",
-            "namespace_name": "talks"
-                     }
-]
-
+  "repos": [
+    {
+      "_id": "talk_repo",
+      "params": { "namespace_id": "35", "initialize_with_readme": "true" },
+      "url": "https://gitlab.thebillingegroup.com",
+      "api_route": "/api/v4/projects/",
+      "namespace_name": "talks"
+    }
+  ]
 }

@@ -16,7 +16,7 @@
   title: tbd
   type: invited
 1712sb_gaberone:
-  abstract: ""
+  abstract: ''
   authors:
     - sbillinge
   begin_day: 5
@@ -30,10 +30,10 @@
   project:
     - all
   status: accepted
-  title: "JUAMI: the joint understanding for an African materials institute"
+  title: 'JUAMI: the joint understanding for an African materials institute'
   type: invited
 1712sb_pretoria:
-  abstract: ""
+  abstract: ''
   authors:
     - sbillinge
   begin_day: 5
@@ -47,11 +47,10 @@
   project:
     - all
   status: accepted
-  title: "Synchrotron x-rays: helping build communities and get drugs to market"
+  title: 'Synchrotron x-rays: helping build communities and get drugs to market'
   type: invited
 1803_essen:
-  abstract:
-    Modern materials under study for next generation technologies, such as
+  abstract: Modern materials under study for next generation technologies, such as
     for energy conversion and storage, environmental remediation and health, are highly
     complex, often heterogeneous and nano-structured.  A full understanding of the
     structure requires us to go beyond crystallography and to study the local aperiodic
@@ -79,7 +78,7 @@
   title: On the robustness of atomic pair distribution function ({PDF}) models
   type: invited
 1803_mrsecIRG2talk:
-  abstract: ""
+  abstract: ''
   authors:
     - sbillinge
   begin_day: 29
@@ -96,7 +95,7 @@
   title: Opportunities for nanostructure determination with the {PDF} method
   type: invited
 1803_mrsecIRG2talk2:
-  abstract: ""
+  abstract: ''
   authors:
     - eculbertson
     - sbillinge
@@ -114,8 +113,7 @@
   title: Atomic pair distribution function ({PDF}) analysis of {Co-Se} superatoms
   type: invited
 1803_stuttgart:
-  abstract:
-    "Recent developments from PDFland: new methods for nanostructure determination',
+  abstract: "Recent developments from PDFland: new methods for nanostructure determination',
     Abstract: 'Modern materials under study for next generation technologies, such
     as for energy conversion and storage, environmental remediation and health, are
     highly complex, often heterogeneous and nano-structured.  A full understanding
@@ -142,10 +140,10 @@
   project:
     - all
   status: accepted
-  title: "Recent developments from {PDF}land: new methods for nanostructure determination"
+  title: 'Recent developments from {PDF}land: new methods for nanostructure determination'
   type: seminar
 1803cw_bayreuth:
-  abstract: ""
+  abstract: ''
   authors:
     - cwright
     - sbillinge
@@ -163,7 +161,7 @@
   title: An introduction to {{ePDF}} experiments, analysis, and modeling.
   type: seminar
 1803cw_ulm:
-  abstract: ""
+  abstract: ''
   authors:
     - cwright
     - sbillinge
@@ -181,8 +179,7 @@
   title: Algorithms and Approaches for Robust {PDF}s
   type: invited
 1804_kentState:
-  abstract:
-    Modern materials under study for next generation technologies, such as
+  abstract: Modern materials under study for next generation technologies, such as
     for energy conversion and storage,   environmental remediation and health, are
     highly complex, often heterogeneous and nano structured.  A full understanding
     of the structure requires us to go beyond crystallography and to study the local
@@ -212,8 +209,7 @@
   title: Robust prediction of real material structure
   type: colloquium
 1804sb_Copenhagen:
-  abstract:
-    Modern materials under study for next generation technologies, such as
+  abstract: Modern materials under study for next generation technologies, such as
     for energy conversion and storage,   environmental remediation and health, are
     highly complex, often heterogeneous and nano structured.  A full understanding
     of the structure requires us to go beyond crystallography and to study the local
@@ -241,11 +237,10 @@
   project:
     - all
   status: accepted
-  title: "{PDF} then, now and in the pipeline"
+  title: '{PDF} then, now and in the pipeline'
   type: invited
 1805_BusseLectureUW:
-  abstract:
-    "Increasingly we seek smarter ways to deliver therapies in a targeted
+  abstract: 'Increasingly we seek smarter ways to deliver therapies in a targeted
     way.  Nanoscience can play an important role in this endeavor and many researchers
     are exploring ways to engineer materials at the nanoscale to get formulations
     for such targeted deliveries. But to do this safely and effectively it is crucial
@@ -261,7 +256,7 @@
     arrangements at the nanoscale in organics, pharmaceuticals and excipients.  The
     ability to measure with spatial and temporal resolution is allowing us to visualize
     heterogeneous materials and probe nanostructure inside solid objects.  This talk
-    will be a tour of the nanostructure characterization landscape state of the art.  "
+    will be a tour of the nanostructure characterization landscape state of the art.  '
   authors:
     - sbillinge
   begin_day: 2
@@ -278,8 +273,7 @@
   title: Finding and controlling atoms at the nanoscale for better drug delivery
   type: award
 1805_BusseLectureUW2:
-  abstract:
-    "In the solid state, small molecules such as active pharmaceutical ingredient
+  abstract: "In the solid state, small molecules such as active pharmaceutical ingredient
     (API) molecules tend to pack in well defined arrangements leading to different
     crystalline polymorphs. An alternative solid form, increasingly of interest in
     the pharmaceutical industry, is the amorphous state. This state is characterized
@@ -313,13 +307,11 @@
   project:
     - all
   status: accepted
-  title:
-    Amorphous or nanocrystalline? Advances in the total scattering pair distribution
+  title: Amorphous or nanocrystalline? Advances in the total scattering pair distribution
     function methods for characterizing amorphous and nanocrystalline pharmaceuticals,
   type: colloquium
 1805_PurduesynchrotronPDF:
-  abstract:
-    "The atomic pair distribution function (PDF) analysis is having huge impacts
+  abstract: 'The atomic pair distribution function (PDF) analysis is having huge impacts
     in studies of inorganic nanomaterials.  Beginning in the mid oughties we were
     able to extend this to weakly scattering systems, dilute systems and molecular
     systems, making this an ideal tool for studying organics and pharmaceuticals.  PDF
@@ -329,7 +321,7 @@
     modeling are giving us an unprecedented view into atomic arrangements at the nanoscale
     in organics, pharmaceuticals and excipients.  I will briefly review where we have
     come from, but focus on some of the recent developments that look particularly
-    promising for pharmaceutical research.  "
+    promising for pharmaceutical research.  '
   authors:
     - sbillinge
   begin_day: 8
@@ -339,8 +331,7 @@
   end_month: 5
   end_year: 2018
   location: Purdue University, West Lafayette, IN
-  meeting_name:
-    Pharmaceutical studies with data gathered from synchrotron x-ray powder
+  meeting_name: Pharmaceutical studies with data gathered from synchrotron x-ray powder
     diffraction
   notes: Steven Byrne Purdue conference
   project:
@@ -349,8 +340,7 @@
   title: Recent developments in {PDF} analysis of organics and pharmaceuticals
   type: invited
 1805cw_nslsii:
-  abstract:
-    Provenance-enabled sample measurements for multi-modal analysis and predictive
+  abstract: Provenance-enabled sample measurements for multi-modal analysis and predictive
     synthesis.
   authors:
     - cwright
@@ -368,8 +358,7 @@
   project:
     - 18cw_xpdan
   status: accepted
-  title:
-    Provenance-enabled Sample Measurements and Tracking for Multi-modal Analysis
+  title: Provenance-enabled Sample Measurements and Tracking for Multi-modal Analysis
     and Predictive Synthesis.
   type: invited
 1805ec_nslsii:
@@ -390,8 +379,7 @@
     - 18ec_molecularconformation
     - 17ec_pterphenyl
   status: accepted
-  title:
-    Total scattering characterization of organic materials using the pair distribution
+  title: Total scattering characterization of organic materials using the pair distribution
     function
   type: poster
 1805mt_nslsiibaumert:
@@ -409,8 +397,7 @@
   project:
     - all
   status: accepted
-  title:
-    Characterizing the atomic structure in low concentrations of weakly ordered,
+  title: Characterizing the atomic structure in low concentrations of weakly ordered,
     weakly scattering materials using the pair distribution function
   type: award
 1805sob_nslsii:
@@ -430,12 +417,11 @@
   project:
     - 18sob_clustermining
   status: accepted
-  title:
-    "{ClusterMining}: Determining metallic nanoparticle core structures from
-    atomic pair distribution function data"
+  title: '{ClusterMining}: Determining metallic nanoparticle core structures from
+    atomic pair distribution function data'
   type: poster
 1806ec_summerREU:
-  abstract: ""
+  abstract: ''
   authors:
     - eculbertson
   begin_day: 28
@@ -450,13 +436,11 @@
     - 17ec_pTerphenyl
     - 17ec_molecularModeling
   status: accepted
-  title:
-    Structural Characterization of Organic Materials using the Pair Distribution
+  title: Structural Characterization of Organic Materials using the Pair Distribution
     Function
   type: invited
 1806sb_SR50liverpool:
-  abstract:
-    The origins of the atomic pair distribution function (PDF) technique go
+  abstract: The origins of the atomic pair distribution function (PDF) technique go
     all the way back to the Debye scattering equation in 1915 and its incorporation
     in the language of correlation functions through the work of Zernike and Prins
     in the 1920's.  It was used somewhat as the method of last resort in the study
@@ -493,16 +477,14 @@
   end_month: 6
   end_year: 2018
   location: University of Liverpool, Liverpool, UK
-  meeting_name:
-    "{UKSR50}: 50 years of Synchrotron Radiation in the {UK} and its global
-    impact"
+  meeting_name: '{UKSR50}: 50 years of Synchrotron Radiation in the {UK} and its global
+    impact'
   project:
     - all
   status: accepted
-  title:
-    "A series of fortunate events: how the atomic pair distribution function
+  title: 'A series of fortunate events: how the atomic pair distribution function
     method went from niche technique to mainstream and  beyond, and how this was unlocked
-    by synchrotron radiation"
+    by synchrotron radiation'
   type: plenary
 1806sob_nyuxray:
   abstract: n/a
@@ -521,13 +503,11 @@
   project:
     - all
   status: accepted
-  title:
-    Atomic pair distribution function ({PDF}) analysis of nanostructured and
+  title: Atomic pair distribution function ({PDF}) analysis of nanostructured and
     disordered materials
   type: invited
 1807_ACATorontoUdgp:
-  abstract:
-    A revolution in materials science followed the invention of x-ray crystallography
+  abstract: A revolution in materials science followed the invention of x-ray crystallography
     at the beginning of the 20th century.  The importance of knowing the structure
     of a material cannot be overstated. Yet we still struggle to solve the structures
     of nanoscale finite objects, though powerful new methods are emerging. We have
@@ -562,8 +542,7 @@
   title: Some theoretical and computational aspects of nanocluster structure solution
   type: contributed_oral
 1807_ACATorontoWarren:
-  abstract:
-    The origins\ \ of the atomic pair distribution function (PDF) technique
+  abstract: The origins\ \ of the atomic pair distribution function (PDF) technique
     go all the way\ \ back to the Debye Scattering equation in 1915 and its incorporation
     in the\ \ language of correlation functions through the work of Zernike and Prins\
     \ in the 1920's.  It was used somewhat as the method of last resort in the\ \
@@ -601,9 +580,8 @@
   project:
     - all
   status: accepted
-  title:
-    "A series of fortunate events: How the {PDF} method went from niche technique
-    to mainstream and beyond"
+  title: 'A series of fortunate events: How the {PDF} method went from niche technique
+    to mainstream and beyond'
   type: award
 1807sb_REU:
   abstract: n/a
@@ -616,9 +594,8 @@
   project:
     - all
   status: accepted
-  title:
-    "A series of fortunate events: How the PDF method went from niche technique
-    to mainstream and beyond"
+  title: 'A series of fortunate events: How the PDF method went from niche technique
+    to mainstream and beyond'
   type: contributed_oral
 1807sb_ferrogordon:
   abstract: n/a
@@ -632,8 +609,7 @@
   end_month: 8
   end_year: 2018
   location: Bates College, Lewiston, ME
-  meeting_name:
-    Effects in Multiferroics Beyond the Coupling of Magnetic and Electric
+  meeting_name: Effects in Multiferroics Beyond the Coupling of Magnetic and Electric
     Order, 2018 Gordon Conference on Multiferroic and Magnetoelectric Materials
   project:
     - 18sb_odl
@@ -692,8 +668,7 @@
   title: Software development workflow for robust software
   type: tutorial
 1809sb_Croatia:
-  abstract:
-    Modern materials under study for next generation technologies, such as
+  abstract: Modern materials under study for next generation technologies, such as
     for energy conversion and storage,   environmental remediation and health, are
     highly complex, often heterogeneous and nano structured.  A full understanding
     of the structure requires us to go beyond crystallography and to study the local
@@ -721,12 +696,11 @@
   project:
     - all
   status: accepted
-  title:
-    "Total scattering and atomic pair distribution function analysis: overview
-    and applications"
+  title: 'Total scattering and atomic pair distribution function analysis: overview
+    and applications'
   type: tutorial
 1809sb_PDFPDFworkshop:
-  abstract: ""
+  abstract: ''
   authors:
     - sbillinge
   begin_day: 17
@@ -740,13 +714,11 @@
   project:
     - all
   status: accepted
-  title:
-    "Total scattering and atomic pair distribution function analysis: overview
-    and applications"
+  title: 'Total scattering and atomic pair distribution function analysis: overview
+    and applications'
   type: tutorial
 1809sb_SantaFe:
-  abstract:
-    The discovery of new materials involves prediction of novel materials
+  abstract: The discovery of new materials involves prediction of novel materials
     with useful properties.  However, beyond that, we need also to reliably predict
     the synthesis 'recipe' that we will use to make those novel materials. This is
     an extremely difficult challenge because, especially for inorganic materials there
@@ -766,15 +738,13 @@
   end_month: 10
   end_year: 2018
   location: Santa Fe, NM
-  meeting_name:
-    "Gap Analysis: Materials Discovery through Data Science at Advanced
-    User Light Sources"
+  meeting_name: 'Gap Analysis: Materials Discovery through Data Science at Advanced
+    User Light Sources'
   project:
     - all
   status: accepted
-  title:
-    "Materials discovery is more than materials prediction: the role of light-sources
-    in addressing the materials synthesis data gap"
+  title: 'Materials discovery is more than materials prediction: the role of light-sources
+    in addressing the materials synthesis data gap'
   type: plenary
 1809sb_maxIV:
   abstract: n/a
@@ -794,8 +764,7 @@
   title: n/a
   type: invited
 1810_FCMP:
-  abstract:
-    "One of the remarkable properties of strongly interacting systems is the
+  abstract: 'One of the remarkable properties of strongly interacting systems is the
     metal-insulator transition (MIT): MIT materials can change from metals to insulators
     as a function of an external perturbing parameter such as temperature, composition,
     pressure and so on.  Why this is remarkable is that it implies a rather huge modification
@@ -814,7 +783,7 @@
     forensics are we beginning to piece together the complete picture. What we are
     learning in this system has implications across the much broader universe of MIT
     materials in general and could help us to gain a broader understanding of this
-    phenomenon."
+    phenomenon.'
   authors:
     - sbillinge
   begin_day: 19
@@ -828,13 +797,11 @@
   project:
     - all
   status: accepted
-  title:
-    "Fluctuating valence bonds in strongly interacting systems: hard to find
-    but then hard to ignore"
+  title: 'Fluctuating valence bonds in strongly interacting systems: hard to find
+    but then hard to ignore'
   type: seminar
 1810sb_delaware:
-  abstract:
-    Modern materials under study for next generation technologies, such as
+  abstract: Modern materials under study for next generation technologies, such as
     for energy conversion and storage,   environmental remediation and health, are
     highly complex, often heterogeneous and nano structured.  A full understanding
     of the structure requires us to go beyond crystallography and to study the local
@@ -863,8 +830,7 @@
   title: Robust prediction of real material structure
   type: colloquium
 1811_CRE:
-  abstract:
-    The natural and physical sciences increasingly need streaming data processing
+  abstract: The natural and physical sciences increasingly need streaming data processing
     for live data analysis and autonomous experimentation. Furthermore, data provenance
     and replicability are important to assure the veracity of scientific results.
     Here we describe a software system that combines high performance computing, streaming
@@ -895,8 +861,7 @@
   end_month: 11
   end_year: 2018
   location: Dallas, TX
-  meeting_name:
-    The International Conference for High Performance Computing, Networking,
+  meeting_name: The International Conference for High Performance Computing, Networking,
     Storage, and Analysis
   project:
     - LDRD
@@ -904,8 +869,7 @@
   title: Reproducibility for streaming analysis
   type: contributed_oral
 1811cl_mrs:
-  abstract:
-    Nanoparticle superlattice assemblies (NPSA) are being developed for their
+  abstract: Nanoparticle superlattice assemblies (NPSA) are being developed for their
     special properties in applications such as flat-panel displays. The properties
     of the resulting assemblies can be further engineered by controlling interparticle
     spacings and arrangements. It is therefore crucial to be able to determine the
@@ -949,11 +913,10 @@
     - 18cl_polymerNPSA
     - 18cl_sasPDF
   status: submitted
-  title: "{sasPDF}: pair distribution function ({PDF}) analysis of nanoparticle assemblies"
+  title: '{sasPDF}: pair distribution function ({PDF}) analysis of nanoparticle assemblies'
   type: contributed_oral
 1811cw_mrs:
-  abstract:
-    Autonomous experiments have three major parts, data acquisition, data
+  abstract: Autonomous experiments have three major parts, data acquisition, data
     analysis, and feedback. While all three are crucial to performing the experiment,
     the data analysis portion may be the most challenging. The data analysis must
     take raw data, produce meaningful quantities of interest, and translate them into
@@ -984,13 +947,11 @@
     - 18cw_xpdan
     - 18cw_shed
   status: submitted
-  title:
-    "Streaming data analysis software taking us towards autonomous experimentation:
-    {SHED and Streamz}"
+  title: 'Streaming data analysis software taking us towards autonomous experimentation:
+    {SHED and Streamz}'
   type: contributed_oral
 1811sb_mrs:
-  abstract:
-    Defects, nanoscale structures, interfaces, surfaces, or multi-scale heterogeneities
+  abstract: Defects, nanoscale structures, interfaces, surfaces, or multi-scale heterogeneities
     in materials have important impacts on materials properties but are difficult
     to study. Pair distribution Function (PDF) analysis of x-ray and neutron powder
     diffraction data is a powerful approach for studying such non-periodic structural
@@ -1026,13 +987,11 @@
     - 17cl_classifyPDFs
     - 17cl_bootstrapUQ
   status: submitted
-  title:
-    Machine learning enhanced pair distribution function ({PDF}) analysis for
+  title: Machine learning enhanced pair distribution function ({PDF}) analysis for
     local structure discovery
   type: contributed_oral
 1811sob_mrs:
-  abstract:
-    Accurate determination of the structure of noble metallic nanomaterials
+  abstract: Accurate determination of the structure of noble metallic nanomaterials
     is a key step towards understanding and controlling their properties. This is
     especially challenging for small particles, below 10 nm, where x-ray diffraction
     data is often broad and diffuse and not amenable to quantitative crystallographic
@@ -1074,18 +1033,16 @@
   location: Boston, MA
   meeting_name: 2018 MRS Fall Meeting and Exhibit
   notes:
-    - "NM02: Nanometal-Synthesis, Properties and Applications"
+    - 'NM02: Nanometal-Synthesis, Properties and Applications'
   project:
     - 17sob_clusterPDF
     - 18sob_clustermining
   status: submitted
-  title:
-    Determining Metallic nanoparticle core structures from atomic pair distribution
+  title: Determining Metallic nanoparticle core structures from atomic pair distribution
     function data
   type: contributed_oral
 1901sb_ghana:
-  abstract:
-    Shared facilities, such as synchrotron sources, are important and dynamic
+  abstract: Shared facilities, such as synchrotron sources, are important and dynamic
     hubs for scientific collaboration and innovation.  They also proved state of the
     art capabilities that can catapault science forwards and provide a focal point
     in scientific communities, as well as providing important capabilities for industry
@@ -1102,17 +1059,15 @@
   end_month: 2
   end_year: 2019
   location: Accra, Ghana
-  meeting_name:
-    2nd Pan African Conference on Crystallography and the 2nd African
+  meeting_name: 2nd Pan African Conference on Crystallography and the 2nd African
     Light Source Project Workshop
   project:
     - all
   status: accepted
-  title: "Synchrotron x-rays: helping build communities and get drugs to market"
+  title: 'Synchrotron x-rays: helping build communities and get drugs to market'
   type: invited
 1901sb_rice:
-  abstract:
-    Modern materials under study for next generation technologies, such as
+  abstract: Modern materials under study for next generation technologies, such as
     for energy conversion and storage,   environmental remediation and health, are
     highly complex, often heterogeneous and nano structured.  A full understanding
     of the structure requires us to go beyond crystallography and to study the local
@@ -1136,13 +1091,11 @@
   project:
     - all
   status: accepted
-  title:
-    Atomic pair distribution function ({PDF}) analysis of nanostructured and
+  title: Atomic pair distribution function ({PDF}) analysis of nanostructured and
     disordered materials
   type: seminar
 1902_BYU:
-  abstract:
-    Modern materials under study for next generation technologies, such as
+  abstract: Modern materials under study for next generation technologies, such as
     for energy conversion and storage,   environmental remediation and health, are
     highly complex, often heterogeneous and nano structured.  A full understanding
     of the structure requires us to go beyond crystallography and to study the local
@@ -1167,13 +1120,11 @@
   project:
     - all
   status: accepted
-  title:
-    "When hard materials act soft: Local symmetry breaking in materials, how
-    to find it, and why you should care about it"
+  title: 'When hard materials act soft: Local symmetry breaking in materials, how
+    to find it, and why you should care about it'
   type: colloquium
 1903_ADD2019:
-  abstract:
-    The atomic pair distribution function (PDF) method is becoming more widely
+  abstract: The atomic pair distribution function (PDF) method is becoming more widely
     used, and more widely known.  There are recently emerging powerful experimental
     developments related to PDF and total-scattering studies. At this workshop you
     will learn in detail about carrying out and applying PDF to your own scientific
@@ -1202,8 +1153,7 @@
   title: Recent and future developments in {PDF}-land
   type: invited
 1903_kentState:
-  abstract:
-    Modern materials under study for next generation technologies, such as
+  abstract: Modern materials under study for next generation technologies, such as
     for energy conversion and storage,   environmental remediation and health, are
     highly complex, often heterogeneous and nano structured.  A full understanding
     of the structure requires us to go beyond crystallography and to study the local
@@ -1228,9 +1178,8 @@
   project:
     - all
   status: accepted
-  title:
-    "When hard materials act soft: Local symmetry breaking in materials, how
-    to find it, and why you should care about it"
+  title: 'When hard materials act soft: Local symmetry breaking in materials, how
+    to find it, and why you should care about it'
   type: colloquium
 1903_weizmann:
   abstract: none
@@ -1243,17 +1192,15 @@
   end_month: 7
   end_year: 2019
   location: Tel Aviv, Israel
-  meeting_name:
-    Workshop on low-energy structural and electronic dynamics in soft
+  meeting_name: Workshop on low-energy structural and electronic dynamics in soft
     semiconducting materials
   project:
     - all
   status: accepted
-  title: "Think local, act global: when hard materials act soft"
+  title: 'Think local, act global: when hard materials act soft'
   type: invited
 1905_neutronGordon:
-  abstract:
-    the atomic pair distribution function (PDF) method is gaining popularity
+  abstract: the atomic pair distribution function (PDF) method is gaining popularity
     because of its ability to yield quantitative information about nanoscale atomic
     structures of materials.   The advent of advanced neutron and synchrotron-based
     x-ray sources, coupled with advanced computing and a growing need to understand
@@ -1279,7 +1226,7 @@
   project:
     - all
   status: accepted
-  title: "computed tomography {PDF} ({ctPDF}): Digging up buried nanostructures"
+  title: 'computed tomography {PDF} ({ctPDF}): Digging up buried nanostructures'
   type: invited
 1906_telluride:
   abstract: None
@@ -1292,8 +1239,7 @@
   end_month: 6
   end_year: 2019
   location: Telluride, CO
-  meeting_name:
-    Workshop on Competing Interactions and Colossal Responses in Transition
+  meeting_name: Workshop on Competing Interactions and Colossal Responses in Transition
     Metal Oxides and Related Compounds
   project:
     - all
@@ -1301,8 +1247,7 @@
   title: Orbital degeneracy lifting, broken local symmetries and their orderings
   type: invited
 1908sb_acsFall:
-  abstract:
-    Modern materials under study for next generation technologies, such as
+  abstract: Modern materials under study for next generation technologies, such as
     for energy conversion and storage,   environmental remediation and health, are
     highly complex, often heterogeneous and nano structured.  A full understanding
     of the structure requires us to go beyond crystallography and to study the local
@@ -1326,19 +1271,16 @@
   end_month: 8
   end_year: 2019
   location: San Diego, CA
-  meeting_name:
-    Chemistry of Materials Lectureship & Best Paper Award symposium, American
+  meeting_name: Chemistry of Materials Lectureship & Best Paper Award symposium, American
     Chemical Society Fall Meeting
   project:
     - all
   status: accepted
-  title:
-    Atomic pair distribution function ({PDF}) analysis of nanostructured and
+  title: Atomic pair distribution function ({PDF}) analysis of nanostructured and
     disordered materials
   type: invited
 1908sb_ecmAI:
-  abstract:
-    The scientific literature has served mankind valiantly for more than 350
+  abstract: The scientific literature has served mankind valiantly for more than 350
     years, resulting in scientific and technological revolutions in areas from energy
     and food to healthcare and the environmnent, resulting in a life for modern humans
     that would be completely unrecognizable to people in the late 17th century when
@@ -1377,9 +1319,8 @@
   end_month: 8
   end_year: 2019
   location: Vienna, Austria
-  meeting_name:
-    "Workshop on Data Science Skills in Publishing: for authors, editors
-    and referees"
+  meeting_name: 'Workshop on Data Science Skills in Publishing: for authors, editors
+    and referees'
   project:
     - all
   status: accepted
@@ -1420,7 +1361,7 @@
   title: Hands-on {PDF} and {mPDF} tutorials
   type: invited
 1909sb_resseminar:
-  abstract: ""
+  abstract: ''
   authors:
     - sbillinge
   begin_date: 2019-09-20
@@ -1433,8 +1374,7 @@
   title: Local structure of real materials
   type: seminar
 1910sb_columbiamrsec:
-  abstract:
-    The development of advanced atomic pair distribution function (PDF) methods
+  abstract: The development of advanced atomic pair distribution function (PDF) methods
     is rapid, both on experimental and modeling sides, and the insights we can gain
     about the structure of nanomaterials is rapidly changing.  In this talk I will
     go over some of the more exciting recent developments with a special emphasis
@@ -1456,13 +1396,11 @@
   project:
     - all
   status: accepted
-  title:
-    Clusters, cluster-mining, and cluster assembly structures from advanced x-ray
+  title: Clusters, cluster-mining, and cluster assembly structures from advanced x-ray
     scattering measurements
   type: seminar
 1910sb_harvard:
-  abstract:
-    Materials in 21st century applications are increasingly complex, nano-
+  abstract: Materials in 21st century applications are increasingly complex, nano-
     and meso-structured, heterogeneous and defective.  We seek to engineer exactly
     this complexity to get the high performance that we desire from the materials.  Not
     only that, functional materials generally change their structure when they are
@@ -1495,8 +1433,7 @@
   title: Towards Clusterography, a crystallography for our 21st Century materials
   type: colloquium
 1912sb_amrsArusha:
-  abstract:
-    Researchers are investigating ever more complex materials, including nanomaterials.  These
+  abstract: Researchers are investigating ever more complex materials, including nanomaterials.  These
     are not amenable to traditional crystallographic analysis so it is difficult to
     solve the structure, yet as with conventional materials, the structure is a key
     determinant of the properties.  I will describe modern methods, called atomic
@@ -1521,13 +1458,11 @@
   project:
     - all
   status: accepted
-  title:
-    "Characterizing structure when your material is disordered or nanostructured:
-    yes you can"
+  title: 'Characterizing structure when your material is disordered or nanostructured:
+    yes you can'
   type: invited
 2001sb_MichiganStateUniversity:
-  abstract:
-    The recent developments in advanced atomic pair distribution function
+  abstract: The recent developments in advanced atomic pair distribution function
     (PDF) methods is rapid, both on the experimental and modeling sides, and the insights
     we can gain about the structure of nanomaterials is rapidly changing.  In this
     talk I will go over some of the more exciting recent developments with a special
@@ -1556,7 +1491,7 @@
   title: Clusters, cluster-mining, and teaching machines to study nanostructure
   type: seminar
 2001sb_flatiron:
-  abstract: ""
+  abstract: ''
   authors:
     - sbillinge
   begin_day: 23
@@ -1565,8 +1500,7 @@
   end_day: 24
   end_month: 1
   end_year: 2020
-  location:
-    Center for Computational Quantum Physics (CCQ) of the Flatiron Institute,
+  location: Center for Computational Quantum Physics (CCQ) of the Flatiron Institute,
     New York, NY
   meeting_name: Workshop on Machine Learning Quantum Matter Data
   project:
@@ -1575,8 +1509,7 @@
   title: Machine learning materials science from experimental and theoretical data
   type: invited
 2002sb_ColumbiaUniversity:
-  abstract:
-    Everything is made of atoms, and the properties of everything depends
+  abstract: Everything is made of atoms, and the properties of everything depends
     sensitively on the arrangement of those atoms.  This is called the structure-property
     relationship.  Often, nature likes to arrange the atoms in symmetric patterns,
     and the first step of the task of determining the atomic arrangement of a new
@@ -1625,13 +1558,11 @@
   project:
     - all
   status: accepted
-  title:
-    On the origins, ubiquity and the need for a new language to classify correlated
+  title: On the origins, ubiquity and the need for a new language to classify correlated
     disorder
   type: invited
 2002sb_bnl:
-  abstract:
-    We live in the age of data science and machine learning.  The scientific
+  abstract: We live in the age of data science and machine learning.  The scientific
     community has been a bit slow to embrace this new world, but they are catching
     on.  So how does one leverage these new tools and how can we catapult our beloved
     synchrotron to play a leadership role in this new world?  The first steps are
@@ -1665,8 +1596,7 @@
   title: Efficient capture of metadata during experiments.  Why, when and how?
   type: invited
 2003_ekDataScienceDay:
-  abstract:
-    Pair Distribution Function analysis (PDF) has become a popular characterization
+  abstract: Pair Distribution Function analysis (PDF) has become a popular characterization
     technique over the last decades as it provides an intuitive way of characterizing
     materials on to the nanoscale. However, PDF modelling is both time-consuming and
     restricted to domain experts. We here propose a modelling technique based on a
@@ -1695,13 +1625,11 @@
   project:
     - 20ek_autoencoders
   status: submitted
-  title:
-    Graph Conditional Variational Autoencoders (cVAE) for Structure Characterization
+  title: Graph Conditional Variational Autoencoders (cVAE) for Structure Characterization
     using X-ray Total Scattering Data.
   type: poster
 2003_yrDataScienceDay:
-  abstract:
-    In a world of "big-data", the best way to encode information about chemical
+  abstract: In a world of "big-data", the best way to encode information about chemical
     synthesis is under debate. Currently, databases typically define materials based
     on their structure, where for crystalline solids it is standardized in crystallographic
     forms using CIF - crystallographic information framework. We define a sample as
@@ -1731,8 +1659,7 @@
   title: MOSY – an effective encoding and storage of experimental synthesis data
   type: poster
 2003ek_DataScienceDay:
-  abstract:
-    Pair Distribution Function analysis (PDF) has become a popular characterization
+  abstract: Pair Distribution Function analysis (PDF) has become a popular characterization
     technique over the last decades as it provides an intuitive way of characterizing
     materials on to the nanoscale. However, PDF modelling is both time-consuming and
     restricted to domain experts. We here propose a modelling technique based on a
@@ -1761,13 +1688,11 @@
   project:
     - 20ek_autoencoders
   status: cancelled
-  title:
-    Graph Conditional Variational Autoencoders (cVAE) for Structure Characterization
+  title: Graph Conditional Variational Autoencoders (cVAE) for Structure Characterization
     using X-ray Total Scattering Data.
   type: poster
 2003ly_cuds:
-  abstract:
-    The sparsity of experimental data remains one of the biggest challenges
+  abstract: The sparsity of experimental data remains one of the biggest challenges
     for applying machine learning techniques in the materials science area. Here we
     present a new cloud-based nanostructure data analysis platform, PDFitc (PDF in
     the cloud), at https://pdfitc.org, which provides a solution to collect experimental
@@ -1847,8 +1772,7 @@
   end_month: 5
   end_year: 2020
   location: Argonne National Laboratory, Argonne, IL
-  meeting_name:
-    3rd Spring Pharmaceutical Synchrotron X-ray Powder Diffraction Workshop
+  meeting_name: 3rd Spring Pharmaceutical Synchrotron X-ray Powder Diffraction Workshop
     (SPS-XRPD-3)
   notes: []
   project:
@@ -1857,8 +1781,7 @@
   title: na
   type: invited
 2005sb_SibenikCroatia:
-  abstract:
-    "The nanostructure inverse problem (NIP) aims to answer the following\
+  abstract: "The nanostructure inverse problem (NIP) aims to answer the following\
     \  question: given a diffraction pattern from a nanostructured material, what
     is the 3D arrangement of atoms that gave rise to it?  It seems that it the same
     as the 'crystal structure inverse problem' that is (largely) solved by the powerful
@@ -1892,8 +1815,7 @@
   end_month: 5
   end_year: 2020
   location: Sibenik, Croatia
-  meeting_name:
-    The Distinguished Powder Diffractionist award presentation of the
+  meeting_name: The Distinguished Powder Diffractionist award presentation of the
     European Powder Diffraction Conference (EPDIC)
   notes: []
   project:
@@ -1902,8 +1824,7 @@
   title: The nanostructure inverse problem in the time of artificial intelligence
   type: award
 2006ly_mlse:
-  abstract:
-    The sparsity of experimental data remains one of the biggest challenges
+  abstract: The sparsity of experimental data remains one of the biggest challenges
     for applying machine learning techniques in the materials science area. Here we
     present a new cloud-based nanostructure data analysis platform, PDFitc (PDF in
     the cloud), at https://pdfitc.org, which provides a solution to collect experimental
@@ -1957,8 +1878,7 @@
   type: invited
   webinar: true
 2007ly_acns:
-  abstract:
-    Here we present a new approach to obtain candidate structures from neutron
+  abstract: Here we present a new approach to obtain candidate structures from neutron
     and x-ray atomic pair distribution function (PDF) data in a highly automated way.
     It pulls, from structural databases, all the structures meeting the search criteria
     and performs structure refinements on them without human intervention. Tests on
@@ -1993,9 +1913,8 @@
   project:
     - 18ly_structureMining
   status: submitted
-  title:
-    "Structure-mining: an automated tool to find candidate structures from neutron
-    and x-ray diffraction data"
+  title: 'Structure-mining: an automated tool to find candidate structures from neutron
+    and x-ray diffraction data'
   type: contributed_oral
   webinar: true
 2007sb_flatironi:
@@ -2018,8 +1937,7 @@
   type: seminar
   webinar: true
 2007yr_dsischolarssummer:
-  abstract:
-    Theory, experiments and simulations, are the three known ways for discovering
+  abstract: Theory, experiments and simulations, are the three known ways for discovering
     new materials. These ways brought us to the point we are now; but can we do better?
     Nowdays, where computers have (almost) unlimited storange capacity and computerional
     power, data can be harvested, stored and analized in no-time. The goal is to development
@@ -2046,8 +1964,7 @@
   type: contributed_oral
   webinar: true
 2008ek_AIChem:
-  abstract:
-    Nanostructures have gained a significant increase in attention due to
+  abstract: Nanostructures have gained a significant increase in attention due to
     their “different” properties compared to their bulk counterparts1. The Pair Distribution
     Function analysis (PDF) has become an increasingly popular characterization technique
     for nanoparticles as it provides an intuitive way of obtaining structural information2.
@@ -2086,14 +2003,12 @@
   project:
     - CVAE project
   status: accepted
-  title:
-    Characterising the atomic structure of mono-metallic nanoparticles from x-ray
+  title: Characterising the atomic structure of mono-metallic nanoparticles from x-ray
     scattering data using conditional generative models
   type: poster
   webinar: true
 2008ek_KDD:
-  abstract:
-    Nanostructures have gained a significant increase in attention due to
+  abstract: Nanostructures have gained a significant increase in attention due to
     their “different” properties compared to their bulk counterparts1. The Pair Distribution
     Function analysis (PDF) has become an increasingly popular characterization technique
     for nanoparticles as it provides an intuitive way of obtaining structural information2.
@@ -2132,8 +2047,7 @@
   project:
     - CVAE project
   status: accepted
-  title:
-    Characterising the atomic structure of mono-metallic nanoparticles from x-ray
+  title: Characterising the atomic structure of mono-metallic nanoparticles from x-ray
     scattering data using conditional generative models
   type: poster
   webinar: true
@@ -2179,7 +2093,7 @@
   begin_date: 2020-10-30
   end_date: 2020-10-30
   location: Army Research Office online virtual workshop
-  meeting_name: "Beyond Epitaxy: New {Moire} platforms"
+  meeting_name: 'Beyond Epitaxy: New {Moire} platforms'
   project:
     - all
   status: accepted
@@ -2187,8 +2101,7 @@
   type: invited
   webinar: true
 2010sb_caltech:
-  abstract:
-    Recently, experiments have begun to indicate that broken symmetries that
+  abstract: Recently, experiments have begun to indicate that broken symmetries that
     are not long-range ordered but local in nature, andwhich may be fluctuating, are
     widespread in transition metals, robust in thatthey exist over wide ranges of
     temperature and composition, and have significant impacts on the material properties.
@@ -2218,9 +2131,8 @@
   project:
     - all
   status: accepted
-  title:
-    "Orbital degeneracy lifting: broken local symmetries and their orderings
-    in interesting electronic materials"
+  title: 'Orbital degeneracy lifting: broken local symmetries and their orderings
+    in interesting electronic materials'
   type: colloquium
   webinar: true
 2010sb_ufederaldoabc:
@@ -2234,14 +2146,12 @@
   project:
     - all
   status: accepted
-  title:
-    Local and nanoscale structure from {AI} and computationally enhanced pair
+  title: Local and nanoscale structure from {AI} and computationally enhanced pair
     distribution function ({PDF}) diffraction data
   type: seminar
   webinar: true
 2011sb_desy,hamburg:
-  abstract:
-    Nanostructure is now at the center of many efforts to design advanced
+  abstract: Nanostructure is now at the center of many efforts to design advanced
     next generation materials.  Total scattering and atomic pair distribution function
     methods are especially valuable in this regard. The ability to measure PDFs rapidly
     with small beams of sufficiently high energy, together with modern detectors and
@@ -2254,8 +2164,7 @@
   begin_date: 2020-11-04
   end_date: 2020-11-04
   location: DESY, Hamburg
-  meeting_name:
-    Petra IV workshop Structure of Nanomaterials and Nanoparticles during
+  meeting_name: Petra IV workshop Structure of Nanomaterials and Nanoparticles during
     Growth, In-situ and Operando Conditions
   notes:
     - registered
@@ -2263,8 +2172,7 @@
   project:
     - all
   status: accepted
-  title:
-    Opportunities for diffraction-based temporally and spatially resolved nanostructure
+  title: Opportunities for diffraction-based temporally and spatially resolved nanostructure
     studies in situ with small beams
   type: invited
   webinar: true
@@ -2285,9 +2193,8 @@
   project:
     - fwp20
   status: accepted
-  title:
-    "Dynamics and control in complex oxides: towards ultra-fast pair distribution
-    analysis ({ufPDF}) studies"
+  title: 'Dynamics and control in complex oxides: towards ultra-fast pair distribution
+    analysis ({ufPDF}) studies'
   type: invited
   webinar: true
 2011sb_doepimtgxray:
@@ -2308,12 +2215,11 @@
   project:
     - fwp20
   status: accepted
-  title: "Hidden Broken Symmetries: Local structure and domains"
+  title: 'Hidden Broken Symmetries: Local structure and domains'
   type: invited
   webinar: true
 2012ek_MLSE:
-  abstract:
-    Nanostructures have gained a significant increase in attention due to
+  abstract: Nanostructures have gained a significant increase in attention due to
     their “different” properties compared to their bulk counterparts1. The Pair Distribution
     Function analysis (PDF) has become an increasingly popular characterization technique
     for nanoparticles as it provides an intuitive way of obtaining structural information2.
@@ -2352,14 +2258,12 @@
   project:
     - CVAE project
   status: accepted
-  title:
-    Characterising the atomic structure of mono-metallic nanoparticles from x-ray
+  title: Characterising the atomic structure of mono-metallic nanoparticles from x-ray
     scattering data using conditional generative models
   type: poster
   webinar: true
 2012hv_columbiauniversity:
-  abstract:
-    Being able to determine the symmetry information, such as space group,
+  abstract: Being able to determine the symmetry information, such as space group,
     based on the atomic pair-distribution function (PDF) will lead to more possibilities
     of solving structures from a wider class of material. Recently, machine learning
     (ML) has emerged as a powerful tool with great predictive power in different fields
@@ -2391,8 +2295,7 @@
   project:
     - all
   status: accepted
-  title:
-    Using a machine learning approach to determine the space group of a structure
+  title: Using a machine learning approach to determine the space group of a structure
     from the atomic pair distribution function
   type: contributed_oral
 2012sb_onlinemeeting:
@@ -2402,18 +2305,16 @@
   begin_date: 2020-12-04
   end_date: 2020-12-05
   location: Shanghai, China
-  meeting_name:
-    PDF-2020, a two-day celebration of the pair distribution function
+  meeting_name: PDF-2020, a two-day celebration of the pair distribution function
     for scientific research
   project:
     - all
   status: accepted
-  title: "{PDF} perspectives from the past to the future"
+  title: '{PDF} perspectives from the past to the future'
   type: invited
   webinar: true
 2101sb_hpatom:
-  abstract:
-    Crystals are periodically long-range ordered arrays of atoms.  But crystals
+  abstract: Crystals are periodically long-range ordered arrays of atoms.  But crystals
     are not always as they seem.  For sure, they have a long-range ordered component
     that is encoded in their Bragg scattering signal.  But what if this is just an
     average over different local atomic arrangements.  Does that happen? How does
@@ -2435,7 +2336,7 @@
   project:
     - all
   status: accepted
-  title: "Local symmetry breaking in crystals: nature, origins and consequences"
+  title: 'Local symmetry breaking in crystals: nature, origins and consequences'
   type: invited
   webinar: true
 2102sb_munich:
@@ -2449,8 +2350,7 @@
   end_month: Feb
   end_year: 2021
   location: Technical University of Munich, Munich, Germany
-  meeting_name:
-    3rd international seminar on 'Electron and phonon dynamics in soft
+  meeting_name: 3rd international seminar on 'Electron and phonon dynamics in soft
     optoelectronic materials'
   notes:
     - Omer Yaffe disorder meeting
@@ -2460,8 +2360,7 @@
   title: tbd
   type: invited
 2102sb_technion-israelinstituteoftechnology:
-  abstract:
-    Nanostructure is now at the center of many efforts to design advanced
+  abstract: Nanostructure is now at the center of many efforts to design advanced
     next generation materials.  Total scattering and atomic pair distribution function
     methods from x-ray synchrotron sources and latest generation electron microscopes
     are especially valuable in this regard. The ability to measure PDFs rapidly with
@@ -2481,8 +2380,7 @@
   project:
     - all
   status: accepted
-  title:
-    Advanced Data Analytics in the Service of Structure Science, Convolutional
+  title: Advanced Data Analytics in the Service of Structure Science, Convolutional
     Neural Networks for Space-Group Classification and beyond
   type: seminar
   webinar: true
@@ -2501,8 +2399,7 @@
   type: invited
   webinar: true
 2105pk_esrf,grenoble,france:
-  abstract:
-    Here, we present an automated and rapid method for nondestructive mapping
+  abstract: Here, we present an automated and rapid method for nondestructive mapping
     of crystal grains in a rod-shaped sample. The approach was designed for application
     to in situ float-zone crystal growth experiments at an X-ray synchrotron source
     but could be useful in other applications. The methods have been tested on a TiO2
@@ -2531,8 +2428,7 @@
   type: contributed_oral
   webinar: true
 2105sb_bnl:
-  abstract:
-    Increased data rates are great.  Who doesn't want more, better, data?
+  abstract: Increased data rates are great.  Who doesn't want more, better, data?
     But we need help to keep up with all this high velocity data. As well as the data
     coming more quickly, it is also coming in more abstract form.  Gone are the days
     when a Bragg peak appears in front of our eyes as we measure each point individually.  Instead
@@ -2548,15 +2444,13 @@
   begin_date: 2021-05-17
   end_date: 2021-05-20
   location: Brookhaven National Laboratory
-  meeting_name:
-    Machine Learning Augmented X-Ray Scattering and Spectroscopies Workshop
+  meeting_name: Machine Learning Augmented X-Ray Scattering and Spectroscopies Workshop
     at the 2021 NSLS-II & CFN Users' Meeting
   project:
     - all
   status: accepted
-  title:
-    "Keeping up with the data: accelerating discovery in a high data velocity
-    world"
+  title: 'Keeping up with the data: accelerating discovery in a high data velocity
+    world'
   type: invited
 2105sb_initiativeforcomputationalscienceandengineering,columbiauniveristy,newyork,ny:
   abstract: tbd
@@ -2564,16 +2458,14 @@
     - sbillinge
   begin_date: 2021-05-12
   end_date: 2021-05-12
-  location:
-    Initiative for Computational Science and Engineering (iCSE), Columbia
+  location: Initiative for Computational Science and Engineering (iCSE), Columbia
     Univeristy, New York, NY
   meeting_name: Virtual Research Day 2021
   project:
     - all
   status: accepted
-  title:
-    "towards the autonomation of experiments: quasi-real time analysis of heterogeneous
-    streaming data from scientific experiments"
+  title: 'towards the autonomation of experiments: quasi-real time analysis of heterogeneous
+    streaming data from scientific experiments'
   type: invited
   webinar: true
 2105sb_ucberkeley:
@@ -2583,8 +2475,7 @@
   begin_date: 2021-05-19
   end_date: 2021-05-20
   location: UC Berkeley
-  meeting_name:
-    JUAMI-Open Computing Facility Symposium Panel on Equitable Access
+  meeting_name: JUAMI-Open Computing Facility Symposium Panel on Equitable Access
     to Computing
   project:
     - all
@@ -2593,8 +2484,7 @@
   type: invited
   webinar: true
 2106ek_smart_lighthouse:
-  abstract:
-    Understanding the atomic structure of advanced functional materials is
+  abstract: Understanding the atomic structure of advanced functional materials is
     crucial for advancements in material chemistry. X-ray Total Scattering with Pair
     Distribution Function (PDF) has been proven to be a powerful technique for characterization
     of atomic structure of crystalline and disordered nanomaterials. However, identifying
@@ -2617,8 +2507,7 @@
   title: automated phase characterization for pair distribution function data
   type: poster
 2106sb_CINScanada:
-  abstract:
-    Modern materials under study for next generation technologies, such as
+  abstract: Modern materials under study for next generation technologies, such as
     for energy conversion and storage,   environmental remediation and health, are
     highly complex, often heterogeneous and nano structured.  A full understanding
     of the structure requires us to go beyond crystallography and to study the local
@@ -2645,8 +2534,7 @@
   title: Local structure from diffraction with the help of epithermal neutrons
   type: invited
 2106sb_universityofminnesotacenterforquantummaterials:
-  abstract:
-    Modern materials under study for next generation technologies, such as
+  abstract: Modern materials under study for next generation technologies, such as
     for energy conversion and storage,   environmental remediation and health, are
     highly complex, often heterogeneous and nano structured.  A full understanding
     of the structure requires us to go beyond crystallography and to study the local
@@ -2665,7 +2553,7 @@
   begin_date: 2021-06-09
   end_date: 2021-06-10
   location: University of Minnesota Center for Quantum Materials
-  meeting_name: "Quantum Materials: New Insights from Neutron Scattering"
+  meeting_name: 'Quantum Materials: New Insights from Neutron Scattering'
   notes:
     - It would be great if your talk were to cover both an overview of technique/analysis
       development and results for a number of bulk materials systems. We are aiming
@@ -2673,14 +2561,12 @@
   project:
     - all
   status: accepted
-  title:
-    "When hard materials act soft: Local symmetry breaking in quantum materials,
-    how to find it, and why you should care about it"
+  title: 'When hard materials act soft: Local symmetry breaking in quantum materials,
+    how to find it, and why you should care about it'
   type: invited
   webinar: true
 2107ek_geometric_deep_learning:
-  abstract:
-    Understanding the atomic structure of advanced functional materials is
+  abstract: Understanding the atomic structure of advanced functional materials is
     crucial for advancements in material chemistry. X-ray Total Scattering with Pair
     Distribution Function (PDF) has been proven to be a powerful technique for characterization
     of atomic structure of crystalline and disordered nanomaterials. However, identifying
@@ -2700,8 +2586,7 @@
   project:
     - dmref19
   status: accepted
-  title:
-    automated characterization of the atomic structure of mono-metallic nanoparticles
+  title: automated characterization of the atomic structure of mono-metallic nanoparticles
     from x-ray scattering data using generative models
   type: poster
 2108ff_prague,czechrepublic:
@@ -2734,7 +2619,7 @@
   project:
     - all
   status: accepted
-  title: "{PDFitc}, {structureMining} and {similarityMapping} demo"
+  title: '{PDFitc}, {structureMining} and {similarityMapping} demo'
   type: invited
 2108mk_pydatar_fayre:
   abstract: na
@@ -2749,7 +2634,7 @@
   project:
     - all
   status: accepted
-  title: "{pyDataRecognition} Demo"
+  title: '{pyDataRecognition} Demo'
   type: invited
 2108s_prague,czechrepublic:
   abstract: na
@@ -2762,9 +2647,8 @@
   project:
     - all
   status: accepted
-  title:
-    "Moving towards a more data-centric scientific literature: pilot with {IUCr},
-    pydatarecognition "
+  title: 'Moving towards a more data-centric scientific literature: pilot with {IUCr},
+    pydatarecognition '
   type: invited
   webinar: true
 2108sb_PragueCzechRepublic:
@@ -2783,10 +2667,9 @@
   project:
     - all
   status: postponed
-  title:
-    "Lecture 1: Advanced modeling of nanostructure from Atomic Pair Distribution
+  title: 'Lecture 1: Advanced modeling of nanostructure from Atomic Pair Distribution
     Functions (PDFs) using Diffpy-CMI on Windows 10 and Lecture 2: atomic pair distribution
-    function (PDF) in the cloud"
+    function (PDF) in the cloud'
   type: invited
 2108sb_iucr25_pdfitc_fayre:
   abstract: na
@@ -2803,8 +2686,7 @@
   type: tutorial
   webinar: true
 2108sb_oakridgenationallaboratory:
-  abstract:
-    Increased data rates are great.  Who doesn't want more, better, data?
+  abstract: Increased data rates are great.  Who doesn't want more, better, data?
     But we need help to keep up with all this high velocity data. As well as the data
     coming more quickly, it is also coming in more abstract form.  Gone are the days
     when a Bragg peak appears in front of our eyes as we measure each point individually.  Instead
@@ -2824,9 +2706,8 @@
   project:
     - all
   status: accepted
-  title:
-    "Keeping up with the data: accelerating discovery in a high data velocity
-    world"
+  title: 'Keeping up with the data: accelerating discovery in a high data velocity
+    world'
   type: invited
   webinar: true
 2108sb_prague,czechrepublic:
@@ -2840,8 +2721,7 @@
   project:
     - all
   status: accepted
-  title:
-    Advanced modeling of nanostructure from Atomic Pair Distribution Functions
+  title: Advanced modeling of nanostructure from Atomic Pair Distribution Functions
     ({PDF}s) using {diffpyCMI} on Windows 10
   type: tutorial
   webinar: true
@@ -2856,13 +2736,11 @@
   project:
     - all
   status: accepted
-  title:
-    "Keeping up with the data: accelerating discovery in a high data velocity
-    world with the help of machine learning"
+  title: 'Keeping up with the data: accelerating discovery in a high data velocity
+    world with the help of machine learning'
   type: invited
 2108ss_prague:
-  abstract:
-    "When doing structural refinements of total scattering data from highly
+  abstract: "When doing structural refinements of total scattering data from highly
     crystalline compounds, one starts by choosing an atomic model and then imposing
     constraints that dictate how the atoms are allowed to move. These constraints
     are typically based on space group symmetry. The resulting structure representation
@@ -2901,13 +2779,11 @@
   project:
     - dmref19
   status: submitted
-  title:
-    "Local structure representation beyond symmetry constraints: Glazer tilts
-    in perovskites"
+  title: 'Local structure representation beyond symmetry constraints: Glazer tilts
+    in perovskites'
   type: oral_contributed
 2108yr_prague,czechrepublic:
-  abstract:
-    In recent years, Electron Diffraction, and especially the 4D-STEM [2]
+  abstract: In recent years, Electron Diffraction, and especially the 4D-STEM [2]
     is growingly becoming a routine part of structural characterizations of materials
     at the nano-scale. Its un-matched spatial resolution (down to sub-nm) enables
     the exploration of local variations within a sample, which alternatively is averaged
@@ -2961,14 +2837,12 @@
   project:
     - all
   status: accepted
-  title:
-    Scanning Nano-Structure Electron Microscopy - Hidden Potential for Evolving
+  title: Scanning Nano-Structure Electron Microscopy - Hidden Potential for Evolving
     Systems
   type: contributed_oral
   webinar: true
 2109ek_phd_seminar:
-  abstract:
-    Understanding the atomic structure of advanced functional materials is
+  abstract: Understanding the atomic structure of advanced functional materials is
     crucial for advancements in material chemistry. X-ray Total Scattering with Pair
     Distribution Function (PDF) has been proven to be a powerful technique for characterization
     of atomic structure of crystalline and disordered nanomaterials. However, identifying
@@ -2988,8 +2862,7 @@
   project:
     - dmref19
   status: accepted
-  title:
-    automated characterization of the atomic structure of mono-metallic nanoparticles
+  title: automated characterization of the atomic structure of mono-metallic nanoparticles
     from x-ray scattering data using generative models
   type: poster
 2109sb_granada,spain:
@@ -3017,7 +2890,7 @@
   project:
     - all
   status: accepted
-  title: "{PDFgui} hands on demonstration"
+  title: '{PDFgui} hands on demonstration'
   type: workshop
   webinar: true
 2109sb_prague,czechrepublic:
@@ -3046,8 +2919,7 @@
   project:
     - all
   status: accepted
-  title:
-    Advanced modeling of nanostructure from Atomic Pair Distribution Functions
+  title: Advanced modeling of nanostructure from Atomic Pair Distribution Functions
     ({PDF}s) using diffpy{CMI}
   type: tutorial
   webinar: true
@@ -3062,9 +2934,8 @@
   project:
     - all
   status: accepted
-  title:
-    "Contributing to Community Codes: {GitHub} Workflow for Community software
-    Development"
+  title: 'Contributing to Community Codes: {GitHub} Workflow for Community software
+    Development'
   type: tutorial
   webinar: true
 2109sb_prague,czechrepublic_packaging:
@@ -3093,12 +2964,11 @@
   project:
     - all
   status: accepted
-  title: "Testing your code: Test driven development"
+  title: 'Testing your code: Test driven development'
   type: tutorial
   webinar: true
 2110ek_danscatt:
-  abstract:
-    Understanding the atomic structure of advanced functional materials is
+  abstract: Understanding the atomic structure of advanced functional materials is
     crucial for advancements in material chemistry. X-ray Total Scattering with Pair
     Distribution Function (PDF) has been proven to be a powerful technique for characterization
     of atomic structure of crystalline and disordered nanomaterials. However, identifying
@@ -3118,8 +2988,7 @@
   project:
     - dmref19
   status: accepted
-  title:
-    automated characterization of the atomic structure of mono-metallic nanoparticles
+  title: automated characterization of the atomic structure of mono-metallic nanoparticles
     from x-ray scattering data using generative models
   type: poster
 2110sb_columbiauniversity:
@@ -3133,15 +3002,13 @@
   project:
     - all
   status: accepted
-  title:
-    Mapping nanostructure at the micro and nanoscale with the help of x-rays
+  title: Mapping nanostructure at the micro and nanoscale with the help of x-rays
     and applied math
   type: seminar
 2110sb_gaithersburg,md:
-  abstract:
-    "GENESIS has expanded our ability to interrogate, predict, and control
+  abstract: 'GENESIS has expanded our ability to interrogate, predict, and control
     the pathways that govern synthesis, and lead to new materials through development
-    of next generation data science and experimental tools. "
+    of next generation data science and experimental tools. '
   authors:
     - chliu
     - cwright
@@ -3173,8 +3040,7 @@
   type: poster
   webinar: true
 2110sb_oakridgenationallaboratory:
-  abstract:
-    Total Scattering and atomic pair distribution function analysis continues
+  abstract: Total Scattering and atomic pair distribution function analysis continues
     to have important scientific impacts in nanoscience, sustainable energy and beyond.  The
     advent of powerful sources of x-rays, neutrons and electrons mean that increasing
     complicated experimental scenarios can be studied in quasi-real time, smaller
@@ -3215,8 +3081,7 @@
   type: plenary
   webinar: true
 2111mk_2021mrsfall_boston:
-  abstract:
-    "The inevitable and necessary green transition towards sustainable energy
+  abstract: 'The inevitable and necessary green transition towards sustainable energy
     sources depends completely on the ability to store energy. One possibility is
     to store the excess energy from renewable energy sources electrochemically in
     rechargeable batteries. A possibility that has also been realized for the substitution
@@ -3260,7 +3125,7 @@
     also starting to enter the ballpark of PDF analysis. The ‘structureMining’, ‘spacegroupMining’,
     and ‘clusterMining’ apps at PDFitc mine structural databases and guide users in
     their PDF analyses to enable the users to explore the atomic level structure of
-    their materials."
+    their materials.'
   authors:
     - mkarlsen
     - sbillinge
@@ -3272,8 +3137,7 @@
   project:
     - all
   status: submitted
-  title:
-    Established and emerging methodologies for operando x total scattering and
+  title: Established and emerging methodologies for operando x total scattering and
     pair distribution function analysis for rechargeable batteries
   type: contributed_oral
 2111sb_heldvirtually:
@@ -3283,9 +3147,8 @@
   begin_date: 2021-11-15
   end_date: 2021-11-19
   location: Held Virtually
-  meeting_name:
-    "The Third African Synchrotron Light Source Conference (AfLS3) : towards
-    a brighter future"
+  meeting_name: 'The Third African Synchrotron Light Source Conference (AfLS3) : towards
+    a brighter future'
   project:
     - all
   status: declined
@@ -3293,8 +3156,7 @@
   type: invited
   webinar: true
 2111sb_rwanda:
-  abstract:
-    Devices for sustainable energy applications are notoriously complex in
+  abstract: Devices for sustainable energy applications are notoriously complex in
     structure, with heterogeneities and structures on different lengthscales. This
     requires characterization tools that can study material structure on different
     lengthscales with high precision.  This is possible with intense x-rays and advanced
@@ -3307,8 +3169,7 @@
   begin_date: 2021-11-15
   end_date: 2021-11-19
   location: Rwanda
-  meeting_name:
-    Joint virtual meeting of the African Light Source (AfLS3-2021), Pan-African
+  meeting_name: Joint virtual meeting of the African Light Source (AfLS3-2021), Pan-African
     Conference on Crystallography Online (ePCCr), and the African Physical Society
     (AfPS-2021)
   notes:
@@ -3320,8 +3181,7 @@
   type: invited
   webinar: true
 2111ss_boston:
-  abstract:
-    "Crystallographically  determined long-range ordered structures of materials
+  abstract: 'Crystallographically  determined long-range ordered structures of materials
     are often taken for granted when investigating properties and functionalities.
     Although this simplifies our lives, there is a growing awareness of the fact that
     short-range deviations from the long-range order is not only common, but also
@@ -3346,7 +3206,7 @@
     and determine their degree and type of structural tilting disorder. PDF analysis
     and modeling in the Billinge group was supported by the U.S. National Science
     Foundation through grant DMREF-1922234. [1] Glazer, A. M. ‘The Classification
-    of Tilted Octahedra in Perovskites’. Acta Cryst. B 28, no. 11 (1972): 3384–92."
+    of Tilted Octahedra in Perovskites’. Acta Cryst. B 28, no. 11 (1972): 3384–92.'
   authors:
     - Sandra H. Skjaervoe
     - Simon J. L. Billinge
@@ -3360,8 +3220,7 @@
   title: Looking for Glazer tilts in the local structure of perovskites
   type: contributed_oral
 2111st_mrs,ma,usa:
-  abstract:
-    Metal oxide nanoparticles have a number of important technological applications
+  abstract: Metal oxide nanoparticles have a number of important technological applications
     in electronic devices. In particular, titanium(IV) oxide nanoparticles have potential
     applications in lithium ion batteries. A particular synthesis challenge with titanium(IV)
     oxide nanoparticles is that it has multiple possible structural phases. Differentiating
@@ -3400,13 +3259,11 @@
   project:
     - fwp20
   status: submitted
-  title:
-    Phase analysis of titanium oxide nanoparticles by the application of attenuated
+  title: Phase analysis of titanium oxide nanoparticles by the application of attenuated
     crystal models on x-ray pair distribution functions
   type: contributed_oral
 2111yr_mrs,ma,usa:
-  abstract:
-    In recent years, Electron Diffraction, and especially the 4D-STEM [1]
+  abstract: In recent years, Electron Diffraction, and especially the 4D-STEM [1]
     is growingly becoming a routine part of structural characterizations of materials
     at the nano-scale. Its un-matched spatial resolution (down to sub-nm) enables
     the exploration of local variations within a sample, which alternatively is averaged
@@ -3468,13 +3325,11 @@
   project:
     - all
   status: submitted
-  title:
-    Looking at Structural Heterogeneity with Scanning Nano-Structure Electron
+  title: Looking at Structural Heterogeneity with Scanning Nano-Structure Electron
     Microscopy
   type: contributed_oral
 2112Da_charlotte,nc,usa:
-  abstract:
-    A chemically complex matrix with the potential for chemical ordering distinguishes
+  abstract: A chemically complex matrix with the potential for chemical ordering distinguishes
     multi-principal element alloys (MPEAs) from conventional alloys. As this pertains
     to mechanical behavior, a nominally disordered matrix presents a non-uniform energetic
     landscape for dislocation motion which can be modulated by varying degrees of
@@ -3510,13 +3365,11 @@
   project:
     - all
   status: submitted
-  title:
-    Electron diffraction-based analysis of the role of chemical short-range order
+  title: Electron diffraction-based analysis of the role of chemical short-range order
     on the dynamic deformation response of FCC and BCC multi-principal element alloys
   type: contributed_poster
 2112sb_bostonuniversity:
-  abstract:
-    Increased data rates are great.  Who doesn't want more, better, data?
+  abstract: Increased data rates are great.  Who doesn't want more, better, data?
     But we need help to keep up with all this high velocity data. As well as the data
     coming more quickly, it is also coming in more abstract form.  Gone are the days
     when a Bragg peak appears in front of our eyes as we measure each point individually.  Instead
@@ -3536,9 +3389,8 @@
   project:
     - all
   status: accepted
-  title:
-    "Keeping up with the data: accelerating materials discovery in a high data
-    velocity world"
+  title: 'Keeping up with the data: accelerating materials discovery in a high data
+    velocity world'
   type: seminar
   webinar: true
 2201sb_orlando,florida,usa.:
@@ -3548,8 +3400,7 @@
   begin_date: 2022-01-19
   end_date: 2022-01-22
   location: Orlando, Florida, USA.
-  meeting_name:
-    symposium “S1-Characterization of structure-property relationships
+  meeting_name: symposium “S1-Characterization of structure-property relationships
     in functional ceramics” at the 2022 Conference on Electronic Materials and Applications
     (EMA)
   notes:
@@ -3560,8 +3411,7 @@
   title: tbd
   type: invited
 2203Da_anaheim,ca,usa:
-  abstract:
-    Multi-principle element alloys (MPEAs), and specifically single-phase
+  abstract: Multi-principle element alloys (MPEAs), and specifically single-phase
     high entropy alloys (HEAs), offer a unique framework to study fundamental processes
     of deformation in metallic materials such as dislocation slip and mechanical twinning.  Owing
     to their chemical and structural disorder, the energetic landscape for deformation
@@ -3595,13 +3445,11 @@
   project:
     - all
   status: submitted
-  title:
-    Electron diffraction-based analysis of the role of chemical short-range order
+  title: Electron diffraction-based analysis of the role of chemical short-range order
     on the dynamic deformation response of FCC and BCC multi-principal element alloys
   type: contributed_oral
 2203yr_barilanu:
-  abstract:
-    With the growing complexity of functional materials and chemical systems,
+  abstract: With the growing complexity of functional materials and chemical systems,
     we often find ourselves limited in our ability to fully represent the set of descriptors
     of a chemical system. In complex chemical systems, finding a complete crystallographic
     model that folds all the interatomic correlations using a small set of structural
@@ -3651,8 +3499,7 @@
   title: Experimental Data-driven Paradigms for Unfolding Complexity in Chemical Systems
   type: seminar
 2203yr_bengurionu:
-  abstract:
-    With the growing complexity of functional materials and chemical systems,
+  abstract: With the growing complexity of functional materials and chemical systems,
     we often find ourselves limited in our ability to fully represent the set of descriptors
     of a chemical system. In complex chemical systems, finding a complete crystallographic
     model that folds all the interatomic correlations using a small set of structural
@@ -3702,8 +3549,7 @@
   title: Experimental Data-driven Paradigms for Unfolding Complexity in Chemical Systems
   type: seminar
 2203yr_telavivu:
-  abstract:
-    With the growing complexity of functional materials and chemical systems,
+  abstract: With the growing complexity of functional materials and chemical systems,
     we often find ourselves limited in our ability to fully represent the set of descriptors
     of a chemical system. In complex chemical systems, finding a complete crystallographic
     model that folds all the interatomic correlations using a small set of structural
@@ -3753,8 +3599,7 @@
   title: Experimental Data-driven Paradigms for Unfolding Complexity in Chemical Systems
   type: seminar
 2203yr_weizmanni:
-  abstract:
-    With the growing complexity of functional materials and chemical systems,
+  abstract: With the growing complexity of functional materials and chemical systems,
     we often find ourselves limited in our ability to fully represent the set of descriptors
     of a chemical system. In complex chemical systems, finding a complete crystallographic
     model that folds all the interatomic correlations using a small set of structural
@@ -3804,8 +3649,7 @@
   title: Experimental Data-driven Paradigms for Unfolding Complexity in Chemical Systems
   type: seminar
 2204sb_rigaku:
-  abstract:
-    Increasingly we seek to move away from well ordered crystalline materials
+  abstract: Increasingly we seek to move away from well ordered crystalline materials
     in high performance applications. This is also true in the world of pharmaceuticals
     where effective drug candidates may suffer from low solubility and low bioavailability
     in crystalline form, but show much better performance in the amorphous or nanocrystalline
@@ -3829,14 +3673,12 @@
   project:
     - all
   status: accepted
-  title:
-    Characterizing amorphous and nanostuctured materials with total scattering
+  title: Characterizing amorphous and nanostuctured materials with total scattering
     pair distribution function analysis
   type: plenary
   webinar: true
 2204sb_rigakupharma:
-  abstract:
-    "Increasingly, it is becoming necessary to formulate pharmaceuticals with
+  abstract: "Increasingly, it is becoming necessary to formulate pharmaceuticals with
     the active pharmaceutical ingredient (API) in complex forms such as nanocrystalline
     or in the amorphous state, and often in a composite with other amorphous excipients.
     The amorphous state is characterized by a broad and largely featureless XRD pattern,
@@ -3890,14 +3732,12 @@
   project:
     - all
   status: accepted
-  title:
-    x-ray characterization of amorphous, nanocrystalline and heterogeneous products
+  title: x-ray characterization of amorphous, nanocrystalline and heterogeneous products
     using atomic pair distribution function ({PDF}) analysis
   type: invited
   webinar: true
 2204yr_rigaku:
-  abstract:
-    With the growing structural and chemical complexity of functional materials,
+  abstract: With the growing structural and chemical complexity of functional materials,
     finding a complete crystallographic model that folds all the interatomic correlations
     using a small set of structural descriptors may not always be feasible or practical.
     Alternatively, one can use a data-driven approaches, where relational datasets
@@ -3921,8 +3761,7 @@
   type: invited
   webinar: true
 2205sb_3m:
-  abstract:
-    Properties of real materials depend very sensitively on structural defects
+  abstract: Properties of real materials depend very sensitively on structural defects
     and deviations from ideal atomic arrangements.  These may be surfaces, interfaces,
     point defects and increasingly, nanostructuring and other types of structura disorder.  The
     materials under study for next generation technologies, such as for energy conversion
@@ -3949,14 +3788,12 @@
   project:
     - all
   status: accepted
-  title:
-    "Characterizing structure in sticky situations: Atomic pair distribution
-    function ({PDF}) analysis "
+  title: 'Characterizing structure in sticky situations: Atomic pair distribution
+    function ({PDF}) analysis '
   type: seminar
   webinar: true
 2205sb_eciBoulderCO:
-  abstract:
-    "Purpose: Increasingly, it is becoming necessary to formulate pharmaceuticals
+  abstract: "Purpose: Increasingly, it is becoming necessary to formulate pharmaceuticals
     with the active pharmaceutical ingredient (API) in complex forms such as nanocrystalline
     or in the amorphous state, and often in a composite with other amorphous excipients.
     The amorphous states is characterized by a broad and largely featureless XRD pattern,
@@ -4016,17 +3853,15 @@
   end_month: May
   end_year: 2022
   location: Boulder, CO
-  meeting_name:
-    "ECI conference Pharmaceutical Engineering: At the Frontier of Drug
-    Substance and Drug Product"
+  meeting_name: 'ECI conference Pharmaceutical Engineering: At the Frontier of Drug
+    Substance and Drug Product'
   project:
     - all
   status: declined
   title: Advanced X-Ray Analysis of Disordered and Composite Materials
   type: invited
 2205sb_sibenik,croatia:
-  abstract:
-    "The nanostructure inverse problem (NIP) aims to answer the following\
+  abstract: "The nanostructure inverse problem (NIP) aims to answer the following\
     \  question: given a diffraction pattern from a nanostructured material, what
     is the 3D arrangement of atoms that gave rise to it?  It seems that it the same
     as the 'crystal structure inverse problem' that is (largely) solved by the powerful
@@ -4056,8 +3891,7 @@
   begin_date: 2022-05-31
   end_date: 2022-06-03
   location: Šibenik, Croatia
-  meeting_name:
-    The Distinguished Powder Diffractionist award presentation of the
+  meeting_name: The Distinguished Powder Diffractionist award presentation of the
     European Powder Diffraction Conference (EPDIC)
   project:
     - all
@@ -4065,8 +3899,7 @@
   title: The nanostructure inverse problem in the time of artificial intelligence
   type: award
 2205sb_universityofinsubria:
-  abstract:
-    Modern materials under study for next generation technologies, such as
+  abstract: Modern materials under study for next generation technologies, such as
     for energy conversion and storage,   environmental remediation and health, are
     highly complex, often heterogeneous and nano structured.  A full understanding
     of the structure requires us to go beyond crystallography and to study the local
@@ -4089,13 +3922,11 @@
   project:
     - all
   status: accepted
-  title:
-    "When hard materials act soft: Local symmetry breaking in bulk materials,
-    how to find it, and why you should care about it"
+  title: 'When hard materials act soft: Local symmetry breaking in bulk materials,
+    how to find it, and why you should care about it'
   type: seminar
 2205sb_universityofmilan:
-  abstract:
-    Nanoparticles and nanostructures are at the heart of next generation technological
+  abstract: Nanoparticles and nanostructures are at the heart of next generation technological
     solutions in sustainable energy, effective new pharmaceuticals and environmental
     remediation.  A key to making progress is to be able to understand the nanoparticle
     structure, the arrangements of atoms in the nanoparticles and nanoscale structures.
@@ -4116,9 +3947,8 @@
   project:
     - all
   status: accepted
-  title:
-    "From saving pharmaceuticals to saving priceless historical artefacts via
-    saving the planet: understanding nanostructure with x-rays and algorithms"
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms'
   type: seminar
 2206sb_collegepark,md:
   abstract: na
@@ -4135,7 +3965,7 @@
   project:
     - all
   status: accepted
-  title: "Intrinsic local symmetry breaking in materials: implications for {MGI}"
+  title: 'Intrinsic local symmetry breaking in materials: implications for {MGI}'
   type: poster
 2206sb_erice,italy:
   abstract: na
@@ -4144,15 +3974,13 @@
   begin_date: 2022-06-03
   end_date: 2022-06-11
   location: Erice, Italy
-  meeting_name:
-    "International School of Crystallography, Diffuse scattering: the
-    crystallography of dynamics, defects, and disorder"
+  meeting_name: 'International School of Crystallography, Diffuse scattering: the
+    crystallography of dynamics, defects, and disorder'
   project:
     - all
   status: accepted
-  title:
-    "Total scattering and atomic pair distribution function analysis: overview
-    and applications"
+  title: 'Total scattering and atomic pair distribution function analysis: overview
+    and applications'
   type: invited
 2206sb_nssa_plenary:
   abstract: na
@@ -4174,8 +4002,7 @@
   begin_date: 2022-06-21
   end_date: 2022-06-25
   location: Telluride, CO
-  meeting_name:
-    Twelfth Workshop on Competing Interactions and Colossal Responses
+  meeting_name: Twelfth Workshop on Competing Interactions and Colossal Responses
     in Transition Metal Oxides and Related Compounds
   notes:
     - declined because on Sabbatical
@@ -4185,8 +4012,7 @@
   title: na
   type: invited
 2207sb_nationalinstituteofstandardsandtechnology,gaithesburg,md:
-  abstract:
-    Everything is made of atoms, and the properties of everything depends
+  abstract: Everything is made of atoms, and the properties of everything depends
     sensitively on the arrangement of those atoms.  This is called the structure-property
     relationship.  Often, nature likes to arrange the atoms in symmetric patterns,
     and the first step of the task of determining the atomic arrangement of a new
@@ -4220,8 +4046,7 @@
   type: invited
   webinar: true
 2208sb_versailles,paris,france:
-  abstract:
-    I will describe recent efforts to apply machine learning to the analysis
+  abstract: I will describe recent efforts to apply machine learning to the analysis
     of total scattering and PDF data and modeling.  This includes the use of deep
     neural nets for finding the unknown space-group of a measured PDF and automaticallly
     finding chemically reasonable components in large sets of powder diffraction and
@@ -4235,15 +4060,13 @@
   begin_date: 2022-08-23
   end_date: 2022-08-27
   location: Versailles, Paris, France
-  meeting_name:
-    33rd European Crystallographic Meeting (ECM33), symposium Computations
+  meeting_name: 33rd European Crystallographic Meeting (ECM33), symposium Computations
     with/for Pair Distribution Functions
   presentation_url: 2205sb_ecm33
   project:
     - all
   status: accepted
-  title:
-    Unsupervised and supervised machine learning for total scattering and PDF
+  title: Unsupervised and supervised machine learning for total scattering and PDF
     analyses
   type: invited
 2209sb_2022ssrl/lclsusersmeeting:
@@ -4258,9 +4081,8 @@
   project:
     - all
   status: accepted
-  title:
-    "Community coding practices for scientific software: Tips and tricks for
-    making better code and having it outlive your participation in the project"
+  title: 'Community coding practices for scientific software: Tips and tricks for
+    making better code and having it outlive your participation in the project'
   type: invited
   webinar: true
 2209sb_chicheleyhall,miltonkeynes,uk:
@@ -4288,14 +4110,12 @@
   project:
     - all
   status: accepted
-  title:
-    Unsupervised and supervised machine learning for total scattering and {PDF}
+  title: Unsupervised and supervised machine learning for total scattering and {PDF}
     analyses
   type: invited
   webinar: true
 2209sb_iucrquantumcrystallographycommission:
-  abstract:
-    The materials genome initiative (MGI) is a US government initiative from
+  abstract: The materials genome initiative (MGI) is a US government initiative from
     2011 to speed up, and lower
   authors:
     - sbillinge
@@ -4319,18 +4139,16 @@
   location: ujohannesburg
   meeting_name: LAAAMP-AfLS Africa Workshop
   notes:
-    - "url of meeting: https://events.saip.org.za/event/231/"
+    - 'url of meeting: https://events.saip.org.za/event/231/'
   project:
     - all
   status: accepted
-  title:
-    Using synchrotrons to study structure-property relationships in complex nanostructured
+  title: Using synchrotrons to study structure-property relationships in complex nanostructured
     materials
   type: invited
   webinar: true
 2210sb_addgrenoblecmitalk:
-  abstract:
-    "This presentation and the associated hands-on tutorial will introduce
+  abstract: 'This presentation and the associated hands-on tutorial will introduce
     DiffPy-CMI, a software for structure analysis from experimental atomic Pair Distribution
     Function (PDF) and for Complex Modeling [1, 2].  DiffPy-CMI (Complex Modeling
     Infrastructure) has been developed to handle ill-posed inverse problems, where
@@ -4354,7 +4172,7 @@
     implementation of new ideas and more accurate models.  We will demonstrate the
     capabilities of DiffPy-CMI on a series of science cases, starting from simple
     forward calculations and following up with PDF fitting examples that go beyond
-    PDFgui.  "
+    PDFgui.  '
   authors:
     - sbillinge
     - pjuhas
@@ -4367,7 +4185,7 @@
   project:
     - all
   status: accepted
-  title: "DiffPy-CMI - a software toolbox for real-space structure analysis "
+  title: 'DiffPy-CMI - a software toolbox for real-space structure analysis '
   type: tutorial
 2210sb_centerforresearchinenergyandmaterials(cnpem),campinas,brazil:
   abstract: na
@@ -4385,8 +4203,7 @@
   type: invited
   webinar: true
 2210sb_grenoble,france:
-  abstract:
-    "There are recently emerging powerful experimental developments related
+  abstract: 'There are recently emerging powerful experimental developments related
     to atomic pair distribution function (PDF) method and total-scattering studies.
     At this workshop you will learn in detail about carrying out and applying PDF
     to your own scientific research, and there will be excellent tutorial talks on
@@ -4396,7 +4213,7 @@
     and novel approaches to modeling. I will also talk about recent applications of
     PDF to scientific problems enabled by the new developments.  I will also describe
     recent and upcoming developments in PDF analysis and modeling software that are
-    under development in the group. "
+    under development in the group. '
   authors:
     - sbillinge
   begin_date: 2022-10-16
@@ -4423,8 +4240,7 @@
   title: na
   type: invited
 2211ll_datascience,newyork:
-  abstract:
-    Machine learning has emerged as a powerful method for performing statistical
+  abstract: Machine learning has emerged as a powerful method for performing statistical
     learning on material science data. But Machine learning has not been used for
     extracting structural distortions, because it is hard to define distortion rigorously
     and it is also challenging to collect a clean and big enough dataset. In this
@@ -4442,13 +4258,11 @@
   project:
     - ll_mlglazermining
   status: accepted
-  title:
-    Classification and Determination of Octahedral Tilts in Perovskites Using
+  title: Classification and Determination of Octahedral Tilts in Perovskites Using
     a Machine Learning Approach
   type: poster
 2211sb_johannesburg,southafrica:
-  abstract:
-    It has long been a goal to obtain "atomic movies", where frames are captured
+  abstract: It has long been a goal to obtain "atomic movies", where frames are captured
     showing how atoms rearrange during and after excitation.  To do this, we need
     a camera that can "see" atoms, with a shutter speed and a frame-rate on the femtosecond
     time-scales, the time-scale of atomic motions.   It has long been realized that
@@ -4487,14 +4301,12 @@
   project:
     - all
   status: accepted
-  title:
-    "Ultra fast atomic pair distribution function ({PDF}) analysis: a new chapter
-    in the goal of atomic movies"
+  title: 'Ultra fast atomic pair distribution function ({PDF}) analysis: a new chapter
+    in the goal of atomic movies'
   type: invited
   webinar: true
 2301sb_ultrafast,desy,hamburg:
-  abstract:
-    "The atomic pair distribution function method is growing in popularity
+  abstract: "The atomic pair distribution function method is growing in popularity
     as an approach for studying local structure in nanomaterials, amorphous materials,
     moleculare materials and liquids, as well as a growing interest in the study of
     local symmetry breaking in bulk crystals.  It is a direct measure of the local
@@ -4530,8 +4342,7 @@
   title: Ultrafast atomic pair distribution function analysis
   type: invited
 2302sb_bari,italy:
-  abstract:
-    Nanoparticles and nanostructures are at the heart of next generation technological
+  abstract: Nanoparticles and nanostructures are at the heart of next generation technological
     solutions in sustainable energy, effective new pharmaceuticals and environmental
     remediation.  A key to making progress is to be able to understand the nanoparticle
     structure, the arrangements of atoms in the nanoparticles and nanoscale structures.
@@ -4553,13 +4364,11 @@
   project:
     - all
   status: accepted
-  title:
-    "From saving pharmaceuticals to saving priceless historical artefacts via
-    saving the planet: understanding nanostructure with x-rays and algorithms"
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms'
   type: seminar
 2303sb_ral:
-  abstract:
-    Material properties depend sensitively on the atomic structure, and on
+  abstract: Material properties depend sensitively on the atomic structure, and on
     the local structure.  The local structure may a symmetry breaking in a crystal,
     an explicit nanocrystalline or nanoporous sample or even an amorphous or liquid
     material.  We now have powerful tools for studying such materials, many based
@@ -4594,8 +4403,7 @@
   title: Local structural analysis when a material has spatial, temporal and orientational  heterogeneities
   type: seminar
 2303sb_weizmanni:
-  abstract:
-    Nanoparticles and nanostructures are at the heart of next generation technological
+  abstract: Nanoparticles and nanostructures are at the heart of next generation technological
     solutions in sustainable energy, effective new pharmaceuticals and environmental
     remediation.  A key to making progress is to be able to understand the nanoparticle
     structure, the arrangements of atoms in the nanoparticles and nanoscale structures.
@@ -4617,13 +4425,11 @@
   project:
     - all
   status: accepted
-  title:
-    "From saving pharmaceuticals to saving priceless historical artefacts via
-    saving the planet: understanding nanostructure with x-rays and algorithms"
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms'
   type: colloquium
 2304rnz_data_science_day_edexml:
-  abstract:
-    While there are many online resources available today for students to
+  abstract: While there are many online resources available today for students to
     learn machine learning, there are very few, if any, tutorials available for applying
     machine learning to solve scientific research problems. Our project aims to fill
     in this gap. We have designed a series of hands-on educational examples to integrate
@@ -4655,13 +4461,11 @@
   notes: []
   presentation_url: https://gitlab.thebillingegroup.com/talks/2304rnz_data_science_day_edexml
   status: submitted
-  title:
-    "Introduction to Machine Learning in the Physical Sciences: A New Hands-on
-    Course at Columbia"
+  title: 'Introduction to Machine Learning in the Physical Sciences: A New Hands-on
+    Course at Columbia'
   type: poster
 2304sb_argonnenationallaboratory,argonne,il:
-  abstract:
-    Hard x-rays tend to make experiments easy.  They are penetrating allowing
+  abstract: Hard x-rays tend to make experiments easy.  They are penetrating allowing
     in situ, operando and spatially resolved measurements.  Large regions of reciprocal
     space can be covered rapidly opening the door to high real-space resolution total
     scattering measurements.  Absorption is lower making corrections easier, and resulting
@@ -4690,22 +4494,19 @@
   begin_date: 2023-04-19
   end_date: 2023-04-20
   location: Argonne National Laboratory, Argonne, IL
-  meeting_name:
-    Real-time Analysis of Synchrotron Light Source and Nanoscale Research
+  meeting_name: Real-time Analysis of Synchrotron Light Source and Nanoscale Research
     Center Data using AI/ML for APS-U First Experiments workshop at the 2023 APS/CNM
     Users Meeting
   notes: []
   project:
     - all
   status: accepted
-  title:
-    "{AI} and Machine Learning aided prompt analysis of powder diffraction and
-    {PDF} data"
+  title: '{AI} and Machine Learning aided prompt analysis of powder diffraction and
+    {PDF} data'
   type: invited
   webinar: true
 2304sb_brookhavennationallaboratory:
-  abstract:
-    Hard x-rays tend to make experiments easy.  They are penetrating allowing
+  abstract: Hard x-rays tend to make experiments easy.  They are penetrating allowing
     in situ, operando and spatially resolved measurements.  Large regions of reciprocal
     space can be covered rapidly opening the door to high real-space resolution total
     scattering measurements.  Absorption is lower making corrections easier, and resulting
@@ -4737,14 +4538,12 @@
   institution: Brookhaven National Laboratory
   notes: []
   status: accepted
-  title:
-    "Treasure from trash: algorithms to help hard x-rays handle hard experimental
-    situations"
+  title: 'Treasure from trash: algorithms to help hard x-rays handle hard experimental
+    situations'
   type: seminar
   webinar: true
 2304sb_lawrenceberkeleynationallaboratory,berkeleyca:
-  abstract:
-    Hard x-rays tend to make experiments easy.  They are penetrating allowing
+  abstract: Hard x-rays tend to make experiments easy.  They are penetrating allowing
     in situ, operando and spatially resolved measurements.  Large regions of reciprocal
     space can be covered rapidly opening the door to high real-space resolution total
     scattering measurements.  Absorption is lower making corrections easier, and resulting
@@ -4773,20 +4572,17 @@
   begin_date: 2023-04-17
   end_date: 2023-04-18
   location: Lawrence Berkeley National Laboratory, Berkeley CA
-  meeting_name:
-    Machine Learning for X-ray and Neutron Scattering Workshop on April
+  meeting_name: Machine Learning for X-ray and Neutron Scattering Workshop on April
     17th and 18th
   notes: []
   project:
     - all
   status: accepted
-  title:
-    "{AI} and Machine Learning aided prompt analysis of powder diffraction and
-    {PDF} data"
+  title: '{AI} and Machine Learning aided prompt analysis of powder diffraction and
+    {PDF} data'
   type: invited
 2304sb_paulscherrerinstitution:
-  abstract:
-    Modern materials under study for next generation technologies, such as
+  abstract: Modern materials under study for next generation technologies, such as
     for energy conversion and storage,   environmental remediation and health, are
     highly complex, often heterogeneous and nano structured.  A full understanding
     of the structure requires us to go beyond crystallography and to study the local
@@ -4810,14 +4606,12 @@
   project:
     - all
   status: accepted
-  title:
-    "When hard materials act soft: Local symmetry breaking in materials, how
-    to find it, and why you should care about it"
+  title: 'When hard materials act soft: Local symmetry breaking in materials, how
+    to find it, and why you should care about it'
   type: colloquium
   webinar: true
 2305sb_anl_autonomous:
-  abstract:
-    This talk will explore whether and how autonomation can accelerate scientific
+  abstract: This talk will explore whether and how autonomation can accelerate scientific
     discovery.  By autonomation, we mean computer controlled measurements where an
     adaptive decision policy is carried out also by the computer without a human in
     the loop.  Subsequent measurements are run based on the results of prior experiments,
@@ -4835,22 +4629,19 @@
   begin_date: 2023-05-01
   end_date: 2023-05-02
   location: Argonne National Laboratory, Argonne, IL
-  meeting_name:
-    Toward Synchrotron-Based Autonomous Scattering Studies of Synthesis
+  meeting_name: Toward Synchrotron-Based Autonomous Scattering Studies of Synthesis
     and Processing workshop at the Advanced Photon Source (APS)/Center for Nanoscale
     Materials (CNM) annual User Meeting
   notes: []
   project:
     - all
   status: accepted
-  title:
-    "Autonomation for Scientific Discovery: Beamline experiments of the Future,
-    what they might look like and how to get there"
+  title: 'Autonomation for Scientific Discovery: Beamline experiments of the Future,
+    what they might look like and how to get there'
   type: invited
   webinar: true
 2305sb_argonnenationallaboratory:
-  abstract:
-    "The atomic pair distribution function method is growing in popularity
+  abstract: "The atomic pair distribution function method is growing in popularity
     as an approach for studying local structure in nanomaterials, amorphous materials,
     moleculare materials and liquids, as well as a growing interest in the study of
     local symmetry breaking in bulk crystals.  It is a direct measure of the local
@@ -4882,8 +4673,8 @@
   notes:
     - The workshop will also discuss new/enhanced time-resolved capabilities that
       leverage APS-U capabilities and their scientific applications
-    - " (2) Time-resolved X-ray total scattering with atomic pair distribution function
-      (TR-PDF) analysis "
+    - ' (2) Time-resolved X-ray total scattering with atomic pair distribution function
+      (TR-PDF) analysis '
     - invite you to give a half-hour talk at our workshop. You’re welcome to pick
       your specific topic, but we would especially appreciate your thoughts on the
       new opportunities that APS-U will provide to time-resolved atomic PDF experiments
@@ -4894,8 +4685,7 @@
   type: invited
   webinar: true
 2305sb_purdueuniversity:
-  abstract:
-    Increasingly we seek to move away from well ordered crystalline materials
+  abstract: Increasingly we seek to move away from well ordered crystalline materials
     in high performance applications. This is also true in the world of pharmaceuticals
     where effective drug candidates may suffer from low solubility and low bioavailability
     in crystalline form, but show much better performance in the amorphous or nanocrystalline
@@ -4924,8 +4714,7 @@
   type: invited
   webinar: true
 2305sb_ubirmingham:
-  abstract:
-    Nanoparticles, nanoporous materials and nanostructured bulk materials
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
     are at the heart of next generation technological solutions in sustainable energy,
     effective new pharmaceuticals and environmental remediation.  A key to making
     progress is to be able to understand the nanoparticle structure, the arrangements
@@ -4948,13 +4737,11 @@
   project:
     - all
   status: accepted
-  title:
-    "From saving pharmaceuticals to saving priceless historical artefacts via
-    saving the planet: understanding nanostructure with x-rays and algorithms"
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms'
   type: seminar
 2305sb_universityofliverpool,liverpool,uk:
-  abstract:
-    The materials genome initiative (MGI) is a US government initiative from
+  abstract: The materials genome initiative (MGI) is a US government initiative from
     2011 to speed up, and lower the cost of, the discovery of new advanced materials,
     and their deployment in technologies, by applying data analytic methods inspired
     by biological genomics.  Of course, materials do not have a genome.  However,
@@ -4988,8 +4775,7 @@
   title: Do materials have a genome, and if they do, what can we do with it?
   type: invited
 2305sb_usheffield:
-  abstract:
-    Nanoparticles, nanoporous materials and nanostructured bulk materials
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
     are at the heart of next generation technological solutions in sustainable energy,
     effective new pharmaceuticals and environmental remediation.  A key to making
     progress is to be able to understand the nanoparticle structure, the arrangements
@@ -5012,9 +4798,8 @@
   project:
     - all
   status: accepted
-  title:
-    "From saving pharmaceuticals to saving priceless historical artefacts via
-    saving the planet: understanding nanostructure with x-rays and algorithms"
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms'
   type: seminar
 2306sb_grpmeeting:
   abstract: A high level overview of methods for materials characterization
@@ -5072,12 +4857,11 @@
   project:
     - all
   status: accepted
-  title: "Total Scattering: Materials Beyond Crystallography"
+  title: 'Total Scattering: Materials Beyond Crystallography'
   type: invited
   webinar: false
 2308sb_excelsusstructuralsolutions,stjohanncampus,basel,switzerlan:
-  abstract:
-    Amorphous, nanoparticulate, nanoporous and nanostructured bulk materials
+  abstract: Amorphous, nanoparticulate, nanoporous and nanostructured bulk materials
     are at the heart of next generation technological solutions in many areas from
     sustainable energy and environmental remediation to effective new pharmaceuticals.
     Structural characterization of such materials, in all its complexity, remains
@@ -5102,11 +4886,10 @@
   project:
     - all
   status: accepted
-  title: "The atomic pair distribution {(PDF)} method: application to pharmaceuticals"
+  title: 'The atomic pair distribution {(PDF)} method: application to pharmaceuticals'
   type: seminar
 2308sb_melbourne,australia:
-  abstract:
-    This talk will be down in the trenches and aimed at a target audience
+  abstract: This talk will be down in the trenches and aimed at a target audience
     of programmers.  Those of us who use Python extensively for our data analysis
     and modeling find ourselves often making plots and figures using the ubiquitous
     matplotlib package.   It is deliciously easy to use to make  great exploratory
@@ -5131,8 +4914,7 @@
   type: invited
   webinar: true
 2308sb_sanfrancisco:
-  abstract:
-    ' Hard x-rays tend to make experiments easy.  They are penetrating allowing
+  abstract: ' Hard x-rays tend to make experiments easy.  They are penetrating allowing
     in situ, operando and spatially resolved measurements.  Large regions of reciprocal
     space can be covered rapidly opening the door to high real-space resolution total
     scattering measurements.  Absorption is lower making corrections easier, and resulting
@@ -5161,20 +4943,17 @@
   begin_date: 2023-08-13
   end_date: 2023-08-17
   location: San Francisco
-  meeting_name:
-    Data-Driven Design of Energy Materials Workshop at the American Chemical
+  meeting_name: Data-Driven Design of Energy Materials Workshop at the American Chemical
     Society (ACS) Fall Meeting
   notes: []
   project:
     - all
   status: accepted
-  title:
-    "{AI} and machine learning aided extraction of static and dynamic local structural
-    information from total scattering data"
+  title: '{AI} and machine learning aided extraction of static and dynamic local structural
+    information from total scattering data'
   type: invited
 2308sb_universitadiroma"lasapienza",rome,italy:
-  abstract:
-    Material properties depend sensitively on the atomic structure, and on
+  abstract: Material properties depend sensitively on the atomic structure, and on
     the local structure.  The local structure may be a symmetry breaking in a crystal,
     an explicit nanocrystalline or nanoporous sample or even an amorphous or liquid
     material.  We now have powerful tools for studying such materials, many based
@@ -5201,14 +4980,13 @@
   begin_date: 2023-08-30
   end_date: 2023-09-01
   location: Universita di Roma "La Sapienza", Rome, Italy
-  meeting_name:
-    Advanced Data Analysis Methodologies workshop at the 2023 Annual Meeting
+  meeting_name: Advanced Data Analysis Methodologies workshop at the 2023 Annual Meeting
     of the Societa Italiana Luce di Sincrotroni (SILS)
   notes: []
   project:
     - all
   status: accepted
-  title: "Handling heterogeneity: Approaches to separate signals using multiple spaces"
+  title: 'Handling heterogeneity: Approaches to separate signals using multiple spaces'
   type: keynote
 2309sb_columbiauniversity:
   abstract: na
@@ -5222,13 +5000,11 @@
   project:
     - all
   status: accepted
-  title:
-    "Handling heterogeneity in materials structure characterization: approaches
-    to separate signals using multiple spaces"
+  title: 'Handling heterogeneity in materials structure characterization: approaches
+    to separate signals using multiple spaces'
   type: invited
 2310sb_caltech:
-  abstract:
-    Nanoparticles, nanoporous materials and nanostructured bulk materials
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
     are at the heart of next generation technological solutions in sustainable energy,
     effective new pharmaceuticals and environmental remediation.  A key to making
     progress is to be able to understand the nanoparticle structure, the arrangements
@@ -5251,13 +5027,11 @@
   project:
     - all
   status: accepted
-  title:
-    "From saving pharmaceuticals to saving priceless historical artefacts: understanding
-    nanostructure with x-rays and algorithms"
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts: understanding
+    nanostructure with x-rays and algorithms'
   type: seminar
 2311sb_boston:
-  abstract:
-    Although theory has been quite successful at using AI and machine learning
+  abstract: Although theory has been quite successful at using AI and machine learning
     for predicting stable materials with potentially interesting properties, experimental
     science is playing catch-up.  In this talk I will discuss some of the challenges
     and emerging opportunities for using AI and machine learning to guide experiments.
@@ -5274,8 +5048,7 @@
   begin_date: 2023-11-26
   end_date: 2023-12-01
   location: Boston, MA
-  meeting_name:
-    Emerging Challenges and Opportunities in Materials by Design Symposium,
+  meeting_name: Emerging Challenges and Opportunities in Materials by Design Symposium,
     Fall meeting of the Materials Research Society
   notes: []
   project:
@@ -5284,8 +5057,7 @@
   title: Prospects for autonomous materials discovery guided by in situ diffraction
   type: invited
 2311sb_dectris,baden,switzerland:
-  abstract:
-    Hard x-rays tend to make experiments easy.  They are penetrating allowing
+  abstract: Hard x-rays tend to make experiments easy.  They are penetrating allowing
     in situ, operando and spatially resolved measurements.  Large regions of reciprocal
     space can be covered rapidly opening the door to high real-space resolution total
     scattering measurements.  Absorption is lower making corrections easier, and resulting
@@ -5319,13 +5091,11 @@
   project:
     - all
   status: accepted
-  title:
-    Watching real materials in real devices with the atomic pair distribution
+  title: Watching real materials in real devices with the atomic pair distribution
     function ({PDF}),
   type: award
 2311sb_epflsion,switzerland:
-  abstract:
-    Nanoparticles, nanoporous materials and nanostructured bulk materials
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
     are at the heart of next generation technological solutions in sustainable energy,
     effective new pharmaceuticals, and environmental remediation.    Their study involves
     going beyond traditional crystallography to understand local arrangements of atoms
@@ -5346,11 +5116,10 @@
   project:
     - all
   status: accepted
-  title: "Real Materials in Action: studying structure on different length and timescales"
+  title: 'Real Materials in Action: studying structure on different length and timescales'
   type: award
 2311sb_eth,zurich,switzerland:
-  abstract:
-    Nanoparticles, nanoporous materials and nanostructured bulk materials
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
     are at the heart of next generation technological solutions in sustainable energy,
     effective new pharmaceuticals, and environmental remediation.    Their study involves
     going beyond traditional crystallography to understand local arrangements of atoms
@@ -5371,11 +5140,10 @@
   project:
     - all
   status: accepted
-  title: "Real Materials in Action: studying structure on different length and timescales"
+  title: 'Real Materials in Action: studying structure on different length and timescales'
   type: award
 2311sb_johannesburg,southafrica:
-  abstract:
-    Nanoparticles, nanoporous materials and nanostructured bulk materials
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
     are at the heart of next generation technological solutions in sustainable energy,
     effective new pharmaceuticals and environmental remediation.  A key to making
     progress is to be able to understand the nanoparticle structure, the arrangements
@@ -5398,14 +5166,12 @@
   project:
     - all
   status: accepted
-  title:
-    Watching real materials in real devices with the atomic pair distribution
+  title: Watching real materials in real devices with the atomic pair distribution
     function ({PDF})
   type: invited
   webinar: true
 2311sb_paulscherrerinstitute,switzerland:
-  abstract:
-    Material properties depend sensitively on the atomic structure, and on
+  abstract: Material properties depend sensitively on the atomic structure, and on
     the local structure.  The local structure may a symmetry breaking in a crystal,
     an explicit nanocrystalline or nanoporous sample or even an amorphous or liquid
     material.  We now have powerful tools for studying such materials, many based
@@ -5437,13 +5203,11 @@
   project:
     - all
   status: accepted
-  title:
-    Local structural analysis when a material has spatial, temporal and orientational
+  title: Local structural analysis when a material has spatial, temporal and orientational
     heterogeneities
   type: award
 2311sb_universityofbasel,basel,switzerland:
-  abstract:
-    Nanoparticles and nanostructures are at the heart of next generation technological
+  abstract: Nanoparticles and nanostructures are at the heart of next generation technological
     solutions in sustainable energy, effective new pharmaceuticals and environmental
     remediation.  A key to making progress is to be able to understand the nanoparticle
     structure, the arrangements of atoms in the nanoparticles and nanoscale structures.
@@ -5465,13 +5229,11 @@
   project:
     - all
   status: accepted
-  title:
-    "From saving pharmaceuticals to saving priceless historical artefacts via
-    saving the planet: understanding nanostructure with x-rays and algorithms"
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms'
   type: award
 2311sb_universityofbern,bern,switzerland:
-  abstract:
-    Nanoparticles and nanostructures are at the heart of next generation technological
+  abstract: Nanoparticles and nanostructures are at the heart of next generation technological
     solutions in sustainable energy, effective new pharmaceuticals and environmental
     remediation.  A key to making progress is to be able to understand the nanoparticle
     structure, the arrangements of atoms in the nanoparticles and nanoscale structures.
@@ -5493,13 +5255,11 @@
   project:
     - all
   status: accepted
-  title:
-    "From saving pharmaceuticals to saving priceless historical artefacts via
-    saving the planet: understanding nanostructure with x-rays and algorithms"
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms'
   type: award
 2312sb_aspencenterforphysics,aspen,co:
-  abstract:
-    For a number of years now it has been apparent from local structural probes
+  abstract: For a number of years now it has been apparent from local structural probes
     such as the atomic pair distribution (PDF) analysis of x-ray and neutron data,
     that a significant number of interesting quantum materials have local structures
     that have distinctively lower symmetry than the average structure. These can be
@@ -5516,13 +5276,11 @@
   project:
     - all
   status: accepted
-  title:
-    "Intrinsic quantum textures: quantifying local symmetry breaking from the
-    atomic pair distribution function analysis of x-ray and neutron diffraction data"
+  title: 'Intrinsic quantum textures: quantifying local symmetry breaking from the
+    atomic pair distribution function analysis of x-ray and neutron diffraction data'
   type: poster
 2312sb_uindiana:
-  abstract:
-    Nanoparticles, nanoporous materials and nanostructured bulk materials
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk materials
     are at the heart of next generation technological solutions in sustainable energy,
     effective new pharmac euticals and environmental remediation.  A key to making
     progress is to be able to understand the nanoparticle structure, the arrangements
@@ -5545,13 +5303,11 @@
   project:
     - all
   status: accepted
-  title:
-    "From saving pharmaceuticals to saving priceless historical artefacts via
-    saving the planet: understanding nanostructure with x-rays and algorithms"
+  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
+    saving the planet: understanding nanostructure with x-rays and algorithms'
   type: colloquium
 2401sb_rockville,md:
-  abstract:
-    Modern materials under study for next generation technologies, such as
+  abstract: Modern materials under study for next generation technologies, such as
     for energy conversion and storage, environmental remediation and health, are highly
     complex, often heterogeneous and nanostructured. In real applications the materials
     can undergo dramatic changes that are at the heart of the property that we are
@@ -5570,13 +5326,11 @@
   project:
     - all
   status: accepted
-  title:
-    "Real materials in action: Data analysis developments for real materials
-    doing real things"
+  title: 'Real materials in action: Data analysis developments for real materials
+    doing real things'
   type: invited
 2403sb_neworleans,la:
-  abstract:
-    The atomic pair distribution function (PDF) analysis of x-ray diffraction
+  abstract: The atomic pair distribution function (PDF) analysis of x-ray diffraction
     data has been used to study the structure of liquids since its invention in the
     1930's.  However, due to structural averaging, the amount of information we can
     glean about the liquid structure can be quite limited.  Recently, improvements
@@ -5594,20 +5348,17 @@
   begin_date: 2024-03-17
   end_date: 2024-03-21
   location: New Orleans, LA
-  meeting_name:
-    Award symposium in honor of Jarad Mason at the Spring 2024 American
+  meeting_name: Award symposium in honor of Jarad Mason at the Spring 2024 American
     Chemical Society Meeting
   notes: []
   project:
     - all
   status: accepted
-  title:
-    Seeing structuring in liquids using advances in atomic pair distribution
+  title: Seeing structuring in liquids using advances in atomic pair distribution
     function methods
   type: invited
 2404mm_columbiauniversity,newyork,ny:
-  abstract:
-    This poster describes an effort to develop pedagogical materials for teaching
+  abstract: This poster describes an effort to develop pedagogical materials for teaching
     machine learning to physical science students.  The premise is that physical scientists
     have significant training in mathematics, especially algebra and calculus, but
     less exposure to the statistics and linear algebra needed for ML.  they also are
@@ -5639,13 +5390,11 @@
   project:
     - all
   status: submitted
-  title:
-    "ML-Edex-4STEM: Teaching and applying machine learning to physical science
-    students"
+  title: 'ML-Edex-4STEM: Teaching and applying machine learning to physical science
+    students'
   type: poster
 2404sb_seattle,wa:
-  abstract:
-    "Development of next generation materials for applications in sustainable
+  abstract: "Development of next generation materials for applications in sustainable
     energy and beyond require us to study the structure of real materials in real
     devices even as they operate: for example, putting operating batteries in the
     beam, studying spatially resolved labs-on-chip, doing real-time autonomous experiments
@@ -5669,16 +5418,14 @@
   begin_date: 2024-04-22
   end_date: 2024-04-26
   location: Seattle, WA
-  meeting_name:
-    Symposium Machine Learning Methods, Data and Automation for Sustainability
+  meeting_name: Symposium Machine Learning Methods, Data and Automation for Sustainability
     and Electronics at the Spring meeting of the Materials Research Society
   notes:
     - Keith Butler inviter
   project:
     - all
   status: accepted
-  title:
-    Supervised and Unsupervised machine learning applied to challenging and rapid
+  title: Supervised and Unsupervised machine learning applied to challenging and rapid
     diffraction and structural problems
   type: invited
 2405sb_erice_ml:
@@ -5688,9 +5435,8 @@
   begin_date: 2024-05-31
   end_date: 2024-06-07
   location: Erice, Italy
-  meeting_name:
-    "International School of Crystallography “Powder diffraction: Real
-    materials in the information era"
+  meeting_name: 'International School of Crystallography “Powder diffraction: Real
+    materials in the information era'
   notes: []
   project:
     - all
@@ -5704,9 +5450,8 @@
   begin_date: 2024-05-31
   end_date: 2024-06-07
   location: Ettore Majorana Foundation and Centre for Scientific Culture, Erice, Italy
-  meeting_name:
-    "International School of Crystallography “Powder diffraction: Real
-    materials in the information era”"
+  meeting_name: 'International School of Crystallography “Powder diffraction: Real
+    materials in the information era”'
   notes: []
   project:
     - all
@@ -5714,8 +5459,7 @@
   title: Powder Diffraction beyond Powders
   type: invited
 2405sb_pittsburg,pa:
-  abstract:
-    'The development of crystallography over the previous century has revolutionized
+  abstract: 'The development of crystallography over the previous century has revolutionized
     our ability to understand the material universe. However, crystallography has
     limitations: It results in classifications that are not unique and are discontinuous
     under small distortions of the structure and it is not well suited to comparing
@@ -5743,8 +5487,7 @@
   project:
     - all
   status: accepted
-  title:
-    The materials genome and the search for universal and continuous structure
+  title: The materials genome and the search for universal and continuous structure
     representations
   type: invited
 2407sb_denver,co:
@@ -5762,8 +5505,7 @@
   title: na
   type: invited
 2407sb_spetsesislandingreece:
-  abstract:
-    "Spoiler alert, materials do not have a genome. Yet for the past decade,
+  abstract: "Spoiler alert, materials do not have a genome. Yet for the past decade,
     and into the next decade, in the USA there has been a presidential and inter-agency
     funding initiative called the 'Materials Genome Initative (MGI)'. This initiative
     has nothing to do with real genomes, materials or otherwise. However, in this
@@ -5782,8 +5524,7 @@
   begin_date: 2024-07-14
   end_date: 2024-07-19
   location: Spetses Island in Greece
-  meeting_name:
-    Joint USA-European Symposium on Machine learning, simulations and
+  meeting_name: Joint USA-European Symposium on Machine learning, simulations and
     experiments for ultra low-power materials and devices
   notes: []
   project:
@@ -5803,11 +5544,10 @@
   project:
     - all
   status: accepted
-  title: "Intrinsic quantum textures: Broken local symmetry in quantum materials"
+  title: 'Intrinsic quantum textures: Broken local symmetry in quantum materials'
   type: poster
 2408sb_padovaecm,italy:
-  abstract:
-    A big discussion in the atomic pair distribution function (PDF) community
+  abstract: A big discussion in the atomic pair distribution function (PDF) community
     seems to revolve around "big box" vs "small box" modeling.  In this framing, a
     big box is a structural model that contains many thousands of atoms and typically
     uses a stochastic regression algorithm such as simulated annealing, and "small
@@ -5839,8 +5579,7 @@
   project:
     - all
   status: accepted
-  subtitle:
-    Some personal thoughts on determination and interpretation of structural
+  subtitle: Some personal thoughts on determination and interpretation of structural
     models
   title: Big box, small box, black box, {George Box}
   type: invited
@@ -5851,8 +5590,7 @@
   begin_date: 2024-08-26
   end_date: 2024-08-30
   location: Padova, Italy
-  meeting_name:
-    Software Fayre of the European Powder Diffraction Conference (EPDIC)
+  meeting_name: Software Fayre of the European Powder Diffraction Conference (EPDIC)
     18
   notes: []
   project:
@@ -5861,8 +5599,7 @@
   title: Updates on PDF modeling software with diffpy-cm
   type: invited
 2409sb_krakow_poland:
-  abstract:
-    At the heart of materials science studies for next generation materials
+  abstract: At the heart of materials science studies for next generation materials
     is an idea that we want to be studying real materials doing real things, often
     in real devices.  In practice, this presents a number of key data analysis and
     interpretation challenges because it implies we are studying ever more complicated
@@ -5883,18 +5620,16 @@
   begin_date: 2024-09-01
   end_date: 2024-09-08
   location: Krakow, Poland
-  meeting_name:
-    Swedish-German R\o ntgen-\AA ngstrom cluster (R\AA C) conference on
+  meeting_name: Swedish-German R\o ntgen-\AA ngstrom cluster (R\AA C) conference on
     "X-ray and neutron research on bio-inspired materials and sustainable energy technology
   notes: []
   project:
     - all
   status: accepted
-  title: "{AI} in material structure research: basics and applications"
+  title: '{AI} in material structure research: basics and applications'
   type: invited
 2409sb_macsmin,universityofliverpool,uk:
-  abstract:
-    We have recently been thinking, somewhat whimsically, about the materials
+  abstract: We have recently been thinking, somewhat whimsically, about the materials
     genome. The materials genome initiative (MGI) is a US government initiative from
     2011 to speed up, and lower the cost of, the discovery of new advanced materials,
     and their deployment in technologies, by applying data analytic methods inspired
@@ -5931,8 +5666,7 @@
   type: invited
   webinar: true
 2409sb_padovaepdic,italy:
-  abstract:
-    At the heart of powder diffraction is the idea that we are studying real
+  abstract: At the heart of powder diffraction is the idea that we are studying real
     materials doing real things, often in real devices.  It is now possible to solve
     single crystal structures from tiny crystals that are smaller than powder grains
     so if powder diffraction was just for solving structures, we wouldn't need powder
@@ -5960,14 +5694,12 @@
   project:
     - all
   status: accepted
-  subtitle:
-    "{AI} as a tool for extracting more science, more easily from powder diffraction
-    data"
-  title: "{AI} at your service"
+  subtitle: '{AI} as a tool for extracting more science, more easily from powder diffraction
+    data'
+  title: '{AI} at your service'
   type: invited
 2409sb_rpi:
-  abstract:
-    At the heart of materials science studies for next generation materials
+  abstract: At the heart of materials science studies for next generation materials
     is an idea that we want to be studying real materials doing real things, often
     in real devices.  A key to making progress is to be able to understand the nanoparticle
     structure, the arrangements of atoms in the nanoparticles and nanoscale structures.
@@ -6001,11 +5733,10 @@
   project:
     - all
   status: accepted
-  title: "Real materials in action: everything, everywhere, all at once"
+  title: 'Real materials in action: everything, everywhere, all at once'
   type: colloquium
 2410sb_ucsb_matsci:
-  abstract:
-    At the heart of materials science studies for next generation materials
+  abstract: At the heart of materials science studies for next generation materials
     is an idea that we want to be studying real materials doing real things, often
     in real devices.  A key to making progress is to be able to understand the nanostructure,
     the arrangements of atoms on nanometer lengthscales. Also critical is understanding
@@ -6033,11 +5764,10 @@
   project:
     - all
   status: accepted
-  title: "Watching real materials in Action: everything, everywhere, all at once"
+  title: 'Watching real materials in Action: everything, everywhere, all at once'
   type: colloquium
 2411sb_johannesburg,southafrica:
-  abstract:
-    At the heart of materials science studies for next generation materials
+  abstract: At the heart of materials science studies for next generation materials
     is an idea that we want to be studying real materials doing real things, often
     in real devices.  In practice, this presents a number of key data analysis and
     interpretation challenges because it implies we are studying ever more complicated
@@ -6062,14 +5792,12 @@
   project:
     - all
   status: accepted
-  title:
-    "Studying real materials in action: Time resolved measurements of local structure
-    in materials at synchrotrons and XFELs"
+  title: 'Studying real materials in action: Time resolved measurements of local structure
+    in materials at synchrotrons and XFELs'
   type: invited
   webinar: true
 2411sb_shivnadarinstitutionofeminence-delhincr,india:
-  abstract:
-    "Density functional theory has revolutionized our understanding of materials.
+  abstract: 'Density functional theory has revolutionized our understanding of materials.
     but can it also lead us astray when it gets things wrong?  We understand that
     DFT is approximate because of the poorly determined exchange correlation functional.  However,
     in this talk I would like to bring up another issue that I think does not get
@@ -6092,7 +5820,7 @@
     discuss. However, emerging methods that use machine-learned potentials open the
     door to methods that can address this issue in practice.  I am not an expert in
     DFT, so this talk is more a call-to-arms and a description of the problem rather
-    than describing actual solutions."
+    than describing actual solutions.'
   authors:
     - sbillinge
   begin_date: 2024-11-10
@@ -6107,8 +5835,7 @@
   title: All density functional theory ({DFT}) is wrong
   type: invited
 2411sb_tsukuba,japan:
-  abstract:
-    At the heart of materials science studies for next generation materials
+  abstract: At the heart of materials science studies for next generation materials
     is an idea that we want to be studying real materials doing real things, often
     in real devices.  In practice, this presents a number of key data analysis and
     interpretation challenges because it implies we are studying ever more complicated
@@ -6129,8 +5856,7 @@
   begin_date: 2024-11-05
   end_date: 2024-11-08
   location: Tsukuba, Japan
-  meeting_name:
-    Japanese national institute for materials science ({NIMS}) annual
+  meeting_name: Japanese national institute for materials science ({NIMS}) annual
     award symposium
   notes:
     - ian work
@@ -6141,11 +5867,10 @@
   project:
     - all
   status: accepted
-  title: "Real Materials in Action: studying structure on different length and time-scales"
+  title: 'Real Materials in Action: studying structure on different length and time-scales'
   type: invited
 2412sb_kigali,rwanda:
-  abstract:
-    "Development of next generation materials for applications in sustainable
+  abstract: 'Development of next generation materials for applications in sustainable
     energy and beyond require us to study the structure of real materials in real
     devices even as they operate: for example, putting operating batteries in the
     beam, studying spatially resolved labs-on-chip, doing real-time autonomous experiments
@@ -6158,22 +5883,65 @@
     through general user programs at synchrotrons, including mail-in experiments.  Software
     for analyzing the data can be run on laptop computers and is available free of
     charge.  I will present recent experimental developments, but also lay out approaches
-    for getting started doing experiments such as these."
+    for getting started doing experiments such as these.'
   authors:
     - sbillinge
   begin_date: 2024-12-16
   end_date: 2024-12-19
   location: Kigali, Rwanda
-  meeting_name: "African Materials Research Society  (AMRS) Meeting "
+  meeting_name: 'African Materials Research Society  (AMRS) Meeting '
   notes: []
   project:
     - all
   status: cancelled
   title: Structure-property studies of nano-materials using synchrotron radiation
   type: invited
+2502sb_massachussettsinstituteoftechnology,boston,ma:
+  abstract: At the heart of materials science studies for next generation materials
+    is an idea that we want to be studying real materials doing real things, often
+    in real devices.  In practice, this presents a number of key data analysis and
+    interpretation challenges because it implies we are studying ever more complicated
+    samples, often in complex heterogeneous environments and in time-resolved operando
+    setups, and we are interrogating our data for more and more subtle effects such
+    as microstructures and evolving defects and local structures. Advanced data analysis
+    algorithms and software are essential for the success of this enterprise.  Of
+    particular interest is the study of nanomaterials and materials structure on different
+    lengthscales.  In this talk I will describe various developments that leverage
+    latest data acquisiont and analysis techniques, sometimes powered by artificial
+    intelligence (AI) and machine learning (ML), that reveal how materials behave
+    on different length-scales and sometimes also timescales.  The materials studied
+    include materials for sustainable energy, environmental remediation, and cultural
+    heritage studies, and techniques range from spatially resolved x-ray and electron
+    nanostrucuture studies and neutron diffraction and scattering.
+  authors:
+    - sbillinge
+  begin_date: 2025-02-14
+  end_date: 2025-02-22
+  location: Massachussetts Institute of Technology, Boston, MA
+  meeting_name: 'Bruker-AXS / MIT Symposium 2025: Non-Bragg Methods for Your In-House
+    Source'
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Watching real materials in action: everything, everywhere, all at once'
+  type: invited
+2503sb_stockholm,sweden:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2025-03-02
+  end_date: 2025-03-02
+  location: Stockholm, Sweden
+  meeting_name: Gregori Aminoff prize presentation 2025
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Watching real materials in action: everything, everywhere, all at once'
+  type: award
 2506sb_ohrid,northmacedonia:
-  abstract:
-    At the heart of materials science studies for next generation materials
+  abstract: At the heart of materials science studies for next generation materials
     is an idea that we want to be studying real materials doing real things, often
     in real devices.  In practice, this presents a number of key data analysis and
     interpretation challenges because it implies we are studying ever more complicated
@@ -6199,11 +5967,10 @@
   project:
     - all
   status: accepted
-  title: "Real Materials in Action: studying structure on different length and time-scales"
+  title: 'Real Materials in Action: studying structure on different length and time-scales'
   type: invited
 2507sb_lombard,illinois:
-  abstract:
-    "The 2025 Transactions Symposium, titled The Evolving Landscape of Structural
+  abstract: 'The 2025 Transactions Symposium, titled The Evolving Landscape of Structural
     Science: AI and Multi-Method Approaches, focuses on showcasing the growth in the
     diversity of structural methods such as AI, Cryo-EM, micro-ED, XFELS, as well
     as advances in chemical and macromolecular crystallography, materials science,
@@ -6213,14 +5980,13 @@
     to direct their presentation to a more general audience. In addition, the Transactions
     Symposium is considered the premier session at the ACA meeting and speakers are
     asked to publish their presentations as proceedings in Structural Dynamics, a
-    joint AIP-ACA journal. This writeup will be due in late 2025."
+    joint AIP-ACA journal. This writeup will be due in late 2025.'
   authors:
     - sbillinge
   begin_date: 2025-07-18
   end_date: 2025-07-23
   location: Lombard, Illinois
-  meeting_name:
-    Transactions Symposium at the 75th American Crystallographic Association
+  meeting_name: Transactions Symposium at the 75th American Crystallographic Association
     Annual Meeting
   notes: []
   project:
@@ -6229,8 +5995,7 @@
   title: tbd
   type: invited
 2508sb_posnan,poland:
-  abstract:
-    At the heart of materials science studies for next generation materials
+  abstract: At the heart of materials science studies for next generation materials
     is an idea that we want to be studying real materials doing real things, often
     in real devices in real time.  In practice, this presents a number of key data
     analysis and interpretation challenges because it implies we are studying ever
@@ -6256,5 +6021,5 @@
   project:
     - all
   status: accepted
-  title: "{AI/ML} in crystallography: what can it do for us, what can we do with it?"
+  title: '{AI/ML} in crystallography: what can it do for us, what can we do with it?'
   type: plenary

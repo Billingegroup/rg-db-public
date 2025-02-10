@@ -10,7 +10,7 @@ bg:
   mission_statement: Making the world better, one PDF at a time
   name: Billinge Group
   pi_name: Simon J. L. Billinge
-  projects: ""
+  projects: ''
   website: www.thebillingegroup.com
 xray:
   aka:
@@ -23,5 +23,5 @@ xray:
   mission_statement: Making the world better, one PDF at a time
   name: x-ray scattering group
   pi_name: Simon J. L. Billinge
-  projects: ""
+  projects: ''
   website: bnl.gov/cmpmsd/xray

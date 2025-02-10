@@ -9,7 +9,7 @@
   state: MN
   updated: 2022-07-01 03:11:09.484958
   uuid: 8898deba-b180-43ef-84e3-54f9b4be2b59
-  zip: "55144"
+  zip: '55144'
 aarhusu:
   aka:
     - U Aarhus
@@ -21,8 +21,8 @@ aarhusu:
     inano:
       name: Interdisciplinar Nanoscience Center (iNANO)
   name: Aarhus University
-  state: ""
-  zip: ""
+  state: ''
+  zip: ''
 abbott:
   aka:
     - abbott
@@ -40,7 +40,7 @@ aca:
     - acta crystallographica A
   city: Chester
   country: UK
-  name: "Acta Crystallographica Section A: Foundations and Advances"
+  name: 'Acta Crystallographica Section A: Foundations and Advances'
 academiasinica:
   aka: []
   city: Taipei
@@ -64,7 +64,7 @@ adamau:
   name: Adama Science and Technology University
   updated: 2023-05-05 18:56:29.517950
   uuid: 5fcae255-a086-4d11-8b4a-015472e287cb
-  zip: "1888"
+  zip: '1888'
 addisababau:
   aka:
     - University College of Addis Ababa
@@ -80,8 +80,8 @@ addisababau:
   schools:
     cns:
       name: College of Natural Science
-  state: ""
-  zip: ""
+  state: ''
+  zip: ''
 afrl:
   city: Wright-Patterson Air Force Base
   country: USA
@@ -90,7 +90,7 @@ afrl:
   state: OH
   updated: 2021-04-11 17:30:07.571638
   uuid: e7db51d4-0fa1-4690-8ea6-0a1e9716b642
-  zip: "45433"
+  zip: '45433'
 aist:
   city: Tsukuba
   country: Japan
@@ -126,11 +126,11 @@ amazon:
   city: Seattle
   country: USA
   date: 2024-11-27
-  name: "Amazon "
+  name: 'Amazon '
   state: WA
   updated: 2024-11-27 00:10:53.670131
   uuid: 303e8a48-a59e-4628-8e5b-62e1c9e03434
-  zip: "98109"
+  zip: '98109'
 anl:
   aka:
     - A
@@ -144,7 +144,7 @@ anl:
       name: Materials Science Division
   name: Argonne National Laboratory
   state: IL
-  zip: "60439"
+  zip: '60439'
 apple:
   aka:
     - Apple
@@ -153,7 +153,7 @@ apple:
   country: USA
   name: Apple Inc.
   state: CA
-  zip: "95014"
+  zip: '95014'
 aps:
   aka:
     - APS
@@ -161,7 +161,7 @@ aps:
   country: USA
   name: Advanced Photon Source
   state: IL
-  zip: "60439"
+  zip: '60439'
 astrazeneca:
   aka:
     - Astra Zeneca
@@ -170,10 +170,10 @@ astrazeneca:
   country: UK
   departments:
     na:
-      name: ""
+      name: ''
   name: AstraZeneca
   schools: {}
-  state: ""
+  state: ''
   street: 15 Stanhope Gate
   zip: W1K 1LN
 asu:
@@ -193,8 +193,8 @@ asu:
     sms:
       name: School of Molecular Sciences
   state: Arizona
-  street: ""
-  zip: "85287"
+  street: ''
+  zip: '85287'
 bardcatsimonsrock:
   city: Great Barrington
   country: USA
@@ -206,7 +206,7 @@ bardcatsimonsrock:
   state: MA
   updated: 2021-07-05 07:13:18.392712
   uuid: 0110db16-b727-4bac-8631-0b2efa32dfbc
-  zip: "01230"
+  zip: '01230'
 bardcsr:
   aka:
     - Simon's Rock
@@ -218,7 +218,7 @@ bardcsr:
       name: Department of Science, Mathematics, and Computing
   name: Bard College at Simon's Rock
   state: MA
-  zip: "01230"
+  zip: '01230'
 barilanu:
   city: Tel Aviv
   country: Israel
@@ -229,7 +229,7 @@ barilanu:
   name: Bar Ilan University
   updated: 2022-03-30 18:35:22.648977
   uuid: 513ecc50-8c07-4771-ae13-010bcc39738c
-  zip: "5290002"
+  zip: '5290002'
 barnardc:
   aka: []
   city: New York
@@ -241,7 +241,7 @@ barnardc:
       name: Department of Physics
   name: Barnard College
   state: NY
-  zip: "10027"
+  zip: '10027'
 basf:
   aka: []
   city: Basel
@@ -249,7 +249,7 @@ basf:
   day: 10
   month: 1
   name: BASF
-  updated: "2020-01-10 17:22:19.907453"
+  updated: '2020-01-10 17:22:19.907453'
   uuid: 74833595-46ab-409c-abd4-8a2a4289ee4b
   year: 2020
 batesc:
@@ -263,7 +263,7 @@ batesc:
   name: Bates College
   state: Maine
   street: 2 Andrews Road
-  zip: "04240"
+  zip: '04240'
 beijingit:
   aka:
     - beijingit
@@ -306,7 +306,7 @@ bnl:
       name: Nuclear Science and Technology Department
   name: Brookhaven National Laboratory
   state: NY
-  zip: "11973"
+  zip: '11973'
 bostonu:
   city: Boston
   country: USA
@@ -315,7 +315,7 @@ bostonu:
   state: MA
   updated: 2021-04-11 17:45:04.473145
   uuid: 211de403-28d9-4640-95a4-5722bdf2b369
-  zip: "02215"
+  zip: '02215'
 brownu:
   city: Providence
   country: USA
@@ -327,7 +327,7 @@ brownu:
   state: RI
   updated: 2024-11-26 23:19:34.610612
   uuid: ddd1ddbf-c98e-4e1b-ad6d-f1865807a6d5
-  zip: "02912"
+  zip: '02912'
 bruker:
   city: Billerica
   country: USA
@@ -336,7 +336,7 @@ bruker:
   state: MA
   updated: 2021-04-11 17:22:43.762798
   uuid: 85ed8753-6a73-479b-b90c-d726aedefb0f
-  zip: "01821"
+  zip: '01821'
 bupt:
   aka:
     - BUPT
@@ -351,7 +351,7 @@ butterflynetwork:
   state: NY
   updated: 2021-03-09 11:14:43.555039
   uuid: a3f65d6b-f310-4fe6-a3e0-50d1dacf711c
-  zip: "10010"
+  zip: '10010'
 byu:
   aka:
     - BYU
@@ -377,7 +377,7 @@ calpolysu:
   state: CA
   updated: 2022-01-18 08:28:04.891025
   uuid: ac38b031-f189-490f-ad9f-bf37ac02bcf4
-  zip: "93407"
+  zip: '93407'
 caltech:
   aka:
     - caltech
@@ -404,7 +404,7 @@ caltech:
   state: CA
   updated: 2023-11-05 09:36:25.851282
   uuid: 437a804a-80b9-4a04-ae87-29c6ed99612a
-  zip: "91125"
+  zip: '91125'
 cas:
   aka:
     - cas
@@ -445,7 +445,7 @@ ccny:
         - Grove
   state: NY
   street: 160 Convent Avenue
-  zip: "10031"
+  zip: '10031'
 cell:
   city: Boston
   country: USA
@@ -454,7 +454,7 @@ cell:
   state: MA
   updated: 2024-03-31 21:37:24.340522
   uuid: fd4b61fe-4457-47c2-a4d7-e6df5bff1402
-  zip: "02139"
+  zip: '02139'
 chungyuanchristianu:
   aka: []
   city: Taoyuan City
@@ -476,7 +476,7 @@ citadel:
   state: NY
   updated: 2024-11-27 00:14:35.010417
   uuid: 6eddaa2c-5c2f-4197-a3c8-4078f1687100
-  zip: "10004"
+  zip: '10004'
 cmu:
   aka:
     - cmu
@@ -506,7 +506,7 @@ cnr:
   name: Consiglio Nazionale delle Ricerche
   updated: 2023-02-23 10:06:42.294611
   uuid: b32b0116-9df8-4330-9ad8-cffcbcef9c5f
-  zip: "00185"
+  zip: '00185'
 coloradostateu:
   aka: []
   city: Fort Collins
@@ -515,10 +515,10 @@ coloradostateu:
   month: 1
   name: Colorado State University
   state: Colorado
-  updated: "2020-01-10 17:14:33.613288"
+  updated: '2020-01-10 17:14:33.613288'
   uuid: 859d2388-8abe-462d-8c6f-71487ccd7d6c
   year: 2020
-  zip: "80523"
+  zip: '80523'
 columbiau:
   aka:
     - Columbia University
@@ -556,7 +556,7 @@ columbiau:
         - School of Engineering and Applied Science
       name: Fu Foundation School of Engineering and Applied Science
   state: NY
-  zip: "10027"
+  zip: '10027'
 cornellu:
   aka:
     - Cornell
@@ -574,13 +574,13 @@ cornellu:
       name: Department of Materials Science and Engineering
   name: Cornell University
   state: New York
-  street: ""
-  zip: "14850"
+  street: ''
+  zip: '14850'
 csiro:
   city: Melbourne
   country: Australia
   date: 2021-04-11
-  name: "CSIRO: Commonwealth Scientific and Industrial Research Organization"
+  name: 'CSIRO: Commonwealth Scientific and Industrial Research Organization'
   updated: 2021-04-11 17:35:36.730975
   uuid: 7e82dee3-b38c-44f6-8cb8-cd88a8014f85
 cuny:
@@ -611,11 +611,11 @@ deakinu:
   state: Victoria
   updated: 2024-04-01 18:32:28.909724
   uuid: 8575b92e-9167-429b-a1b4-4761cfc84433
-  zip: "3220"
+  zip: '3220'
 deceased:
   aka: []
-  city: ""
-  country: ""
+  city: ''
+  country: ''
   name: Deceased
 delftutchnology:
   aka:
@@ -673,7 +673,7 @@ doe:
   name: Department of Energy
   state: DC
   street: 1000 Independence Avenue., SW
-  zip: "20585"
+  zip: '20585'
 doebes:
   city: Germantown
   country: USA
@@ -682,7 +682,7 @@ doebes:
   state: MD
   updated: 2021-03-09 09:35:11.082791
   uuid: df891fa6-08c3-4d5c-b44e-b627f51f0528
-  zip: "20874"
+  zip: '20874'
 drexelu:
   aka:
     - drexel university
@@ -703,7 +703,7 @@ drexelu:
     eng:
       name: College of Engineering
   state: PA
-  zip: "19104"
+  zip: '19104'
 dscsolutions:
   aka:
     - dscsolutions
@@ -731,17 +731,17 @@ elettra:
     crystallography:
       name: Istituto di Cristallografia
   name: Sincrotrone Elettra
-  state: ""
+  state: ''
   street: Strada Statale 14-Km 163, 5 Area Science Park, Basovizza,
-  zip: "34149"
+  zip: '34149'
 emba:
   aka:
     - EMBA
   city: Zurich
   country: Switzerland
   name: EMBA
-  state: ""
-  zip: ""
+  state: ''
+  zip: ''
 enthought:
   city: Austin
   country: USA
@@ -750,7 +750,7 @@ enthought:
   state: TX
   updated: 2020-12-29 04:16:46.030159
   uuid: 358f4e2b-e0dc-44e6-8cf4-605409118494
-  zip: "78701"
+  zip: '78701'
 epfl:
   aka:
     - EFPL
@@ -786,7 +786,7 @@ ercfmaswe:
   name: Ernst Ruska-Centre for Microscopy and Spectroscopy with Electrons
   updated: 2022-01-18 12:32:39.144852
   uuid: 99ab2ac7-2394-4fc4-af6a-3f38139723ae
-  zip: "52428"
+  zip: '52428'
 esrf:
   aka:
     - European Synchrotron Radiation Facility
@@ -804,7 +804,7 @@ esrf:
   name: European Synchrotron Radiation Facility
   state: Rhone-Alps
   street: 71 Avenue des Martyrs
-  zip: "38000"
+  zip: '38000'
 ess:
   aka:
     - European Spallation Source
@@ -823,14 +823,14 @@ ethzurich:
     mattheory:
       name: Materials Theory
   name: ETH Zurich
-  state: ""
+  state: ''
   street: Wolfgang-Pauli-Strasse 27
   zip: CH-8093
 excelsus:
   city: Basel
   country: Switzerland
   date: 2023-07-19
-  name: " Excelsus Structural Solutions (Swiss) AG"
+  name: ' Excelsus Structural Solutions (Swiss) AG'
   updated: 2023-07-19 11:27:14.607830
   uuid: 5a2732fa-06d2-4f7e-9ec4-ceff7852aa44
 famu:
@@ -841,7 +841,7 @@ famu:
   state: FL
   updated: 2021-04-11 17:37:39.210167
   uuid: 305e2d22-a7c8-4a96-8331-9f0662417986
-  zip: "32307"
+  zip: '32307'
 famufsu:
   city: Tallahassee
   country: USA
@@ -850,7 +850,7 @@ famufsu:
   state: FL
   updated: 2021-04-11 18:25:01.593878
   uuid: 9aba8e43-5018-4fe8-8293-14f213e0cd74
-  zip: "32310"
+  zip: '32310'
 fau:
   aka:
     - FAU
@@ -858,7 +858,7 @@ fau:
   city: Erlangen
   country: Germany
   name: Friedrich-Alexander-Universität Erlangen-Nürnberg
-  state: ""
+  state: ''
 fdzz:
   city: New York
   country: USA
@@ -867,7 +867,7 @@ fdzz:
   state: NY
   updated: 2021-11-23 07:17:27.332137
   uuid: 5b9726eb-a42a-4b0e-a6e8-e5df991331a4
-  zip: "10022"
+  zip: '10022'
 flatironinstitute:
   aka:
     - flatiron
@@ -882,7 +882,7 @@ flatironinstitute:
   state: NY
   updated: 2020-07-07 04:45:25.008649
   uuid: ea28bcef-fc0e-415d-91e9-f48b37464e91
-  zip: "10010"
+  zip: '10010'
 fordhamu:
   city: The Bronx
   country: USA
@@ -891,7 +891,7 @@ fordhamu:
   state: NY
   updated: 2021-04-11 17:46:18.186011
   uuid: 80cd4956-bb84-4a0d-8142-9dd053c0f1f0
-  zip: "10458"
+  zip: '10458'
 formlabs:
   aka:
     - Formlabs
@@ -919,9 +919,9 @@ fudanu:
     physics:
       name: Department of Physics
   name: Fudan University
-  state: ""
+  state: ''
   street: 220 Handan Rd.
-  zip: "200433"
+  zip: '200433'
 gatech:
   aka: []
   city: Atlanta
@@ -939,7 +939,7 @@ geli:
   state: CA
   updated: 2022-02-25 04:00:13.840468
   uuid: 0e4665d0-8914-4e84-aff9-219e502d0d74
-  zip: "94105"
+  zip: '94105'
 georgewashingtonu:
   aka:
     - GWU
@@ -950,7 +950,7 @@ georgewashingtonu:
   state: DC
   updated: 2020-12-29 04:00:13.840468
   uuid: 29d7d28e-0ac7-462b-82b1-b789cc8276b5
-  zip: "20052"
+  zip: '20052'
 ghentu:
   aka:
     - University of Ghent
@@ -965,13 +965,12 @@ ghentu:
     chemistry:
       name: Department of Chemistry
     matsci:
-      name:
-        Sol-gel Centre for Research on Inorganic Powders and Thin films Synthesis
+      name: Sol-gel Centre for Research on Inorganic Powders and Thin films Synthesis
         (SCRiPTS)
   name: Ghent University
   state: East Flanders
   street: St. Pietersnieuwstraat 33
-  zip: "9000"
+  zip: '9000'
 gndu:
   aka:
     - GND University
@@ -983,7 +982,7 @@ gndu:
       name: Department of Physics
   name: Guru Nanak Dev University
   state: Punjab
-  zip: ""
+  zip: ''
 google:
   aka: []
   city: Cupertino
@@ -1000,7 +999,7 @@ google:
   updated: 2020-02-14 19:30:31.244412
   uuid: 3b9f002f-cdee-41a7-99d5-074cbc6992bd
   year: 2020
-  zip: "10011"
+  zip: '10011'
 gsk:
   aka:
     - gsk
@@ -1035,9 +1034,9 @@ harvardu:
         - Rowland Institute
   name: Harvard University
   state: MA
-  street: ""
+  street: ''
   updated: 2021-03-09 11:06:08.230552
-  zip: "02138"
+  zip: '02138'
 hashemiteu:
   aka: []
   city: Zarqua
@@ -1045,7 +1044,7 @@ hashemiteu:
   day: 10
   month: 1
   name: Hashemite University
-  updated: "2020-01-10 17:18:19.635036"
+  updated: '2020-01-10 17:18:19.635036'
   uuid: 65f16cfa-e364-47c5-a7f1-0a1dcd4e68ce
   year: 2020
 hermesmicrovision:
@@ -1100,7 +1099,7 @@ huazhongust:
   state: Hubei
   updated: 2022-01-18 07:27:00.980260
   uuid: b715a66b-d95e-4ef9-9f21-957afbbf8ff3
-  zip: " 430074"
+  zip: ' 430074'
 hunterc:
   aka:
     - Hunter
@@ -1115,7 +1114,7 @@ hunterc:
   state: NY
   updated: 2024-04-01 07:04:01.065985
   uuid: b67955e3-732a-49fb-98c2-9360e87ca8ef
-  zip: "10065"
+  zip: '10065'
 ic-cnr-bari:
   aka:
     - ic
@@ -1131,7 +1130,7 @@ ic-cnr-bari:
   name: Consiglio Nazionale delle Ricerche
   updated: 2023-02-23 10:06:42.294611
   uuid: b32b0116-9df8-4330-9ad8-cffcbcef9c5f
-  zip: "70126"
+  zip: '70126'
 ic-cnr-como:
   aka: []
   city: Como
@@ -1143,7 +1142,7 @@ ic-cnr-como:
   name: Consiglio Nazionale delle Ricerche
   updated: 2023-02-23 10:06:42.294611
   uuid: b32b0116-9df8-4330-9ad8-cffcbcef9c5f
-  zip: ""
+  zip: ''
 icdd:
   aka:
     - ICDD
@@ -1156,7 +1155,7 @@ icdd:
   updated: 2020-02-07 16:37:40.763311
   uuid: 64d3043d-df1c-4d20-97a1-718cf93fc369
   year: 2020
-  zip: "19073"
+  zip: '19073'
 icl:
   aka:
     - icl
@@ -1206,9 +1205,9 @@ ill:
     users:
       name: User Office
   name: Institut Laue Langevin
-  state: ""
+  state: ''
   street: 71 Avenue des Martyrs
-  zip: "38000"
+  zip: '38000'
 indianau:
   city: Bloomington
   country: USA
@@ -1220,7 +1219,7 @@ indianau:
   state: IN
   updated: 2023-11-05 09:32:50.934448
   uuid: a69e338a-a9c7-4115-a4e6-e4021f822fc4
-  zip: "47408 "
+  zip: '47408 '
 instituteofphysicschineseacademyofsciences:
   aka:
     - IoP-CAS
@@ -1243,7 +1242,7 @@ intelcorp:
   state: CA
   updated: 2022-01-18 07:55:04.389159
   uuid: 4d91f1b3-7fcb-470c-8e81-d6a8eeaa1b5e
-  zip: "95052"
+  zip: '95052'
 iowastateu:
   aka:
     - ISU
@@ -1254,7 +1253,7 @@ iowastateu:
   state: IA
   updated: 2022-07-01 03:07:01.971634
   uuid: 12f70064-0060-4f00-90c3-8f1eeb7ec04e
-  zip: "50011"
+  zip: '50011'
 iucr:
   aka:
     - IUCR
@@ -1263,7 +1262,7 @@ iucr:
   country: UK
   departments:
     aca:
-      name: "Acta Crystallographica Section A: Foundations and Advances"
+      name: 'Acta Crystallographica Section A: Foundations and Advances'
   name: International Union of Crystallography
 jaea:
   aka:
@@ -1289,7 +1288,7 @@ jhu:
   state: MD
   updated: 2022-07-01 02:58:00.359991
   uuid: 73235b12-0817-42b4-9f64-224d46000b2d
-  zip: "21218"
+  zip: '21218'
 jinr:
   city: Moscow
   country: Russia
@@ -1305,7 +1304,7 @@ johnshopkinsu:
   state: MD
   updated: 2021-04-11 17:44:03.092387
   uuid: 36941e0e-8310-42aa-ae8f-4eee06871bd5
-  zip: "21218"
+  zip: '21218'
 jpmorgan:
   aka:
     - J. P. Morgan
@@ -1318,7 +1317,7 @@ jpmorgan:
   state: NY
   updated: 2020-12-29 04:03:48.958488
   uuid: a883cf4b-a816-4359-b946-328243b1ef34
-  zip: "10017"
+  zip: '10017'
 jülichcentreforneutronscience:
   aka:
     - Julich Centre for Neutron Science
@@ -1339,7 +1338,7 @@ kebotix:
   state: MA
   updated: 2021-04-11 17:48:12.762845
   uuid: 6d15e033-1380-4f09-ae82-49a8443c2d30
-  zip: "02139"
+  zip: '02139'
 kentstateu:
   aka:
     - kent state
@@ -1361,7 +1360,7 @@ kentstateu:
       name: College of Arts and Sciences
   state: OH
   street: 208 Schwartz Center, 800 E. Summit St.
-  zip: "44242"
+  zip: '44242'
 kenyattau:
   aka:
     - kenyattau
@@ -1401,7 +1400,7 @@ lanl:
       name: Materials Science and Technology Division
   name: Los Alamos National Laboratory
   state: NM
-  zip: "87545"
+  zip: '87545'
 lbnl:
   aka:
     - LBNL
@@ -1414,7 +1413,7 @@ lbnl:
       name: Molecular Foundry
   name: Lawrence Berkeley National Laboratory
   state: CA
-  zip: "94720"
+  zip: '94720'
 lehighu:
   aka:
     - Lehigh
@@ -1426,7 +1425,7 @@ lehighu:
       name: Department of Physics
   name: Lehigh University
   state: PA
-  zip: "18015"
+  zip: '18015'
 lhmfcas:
   aka:
     - Laboratory of High Magnetic Field of the Chinese Academy of Sciences
@@ -1485,14 +1484,14 @@ microsoft:
   state: WA
   updated: 2022-01-18 08:02:39.857369
   uuid: f39ae413-3aab-444c-8a43-bd3674683a3d
-  zip: "98052"
+  zip: '98052'
 missing:
   aka: []
   city: missing
   country: missing
   name: missing
-  state: ""
-  zip: ""
+  state: ''
+  zip: ''
 missouris&t:
   aka:
     - MUST
@@ -1502,7 +1501,7 @@ missouris&t:
   country: USA
   name: Missouri University of Science and Technology
   state: MS
-  zip: "65409"
+  zip: '65409'
 mit:
   aka: []
   city: Boston
@@ -1514,7 +1513,7 @@ mit:
   updated: 2020-03-17 02:30:29.709566
   uuid: 8acc5248-f9f0-4b26-8deb-3f7dd54c041e
   year: 2020
-  zip: "02139"
+  zip: '02139'
 momentumtransfer:
   aka: []
   city: Mannheim
@@ -1523,7 +1522,7 @@ momentumtransfer:
   name: Moentum Transfer GMBH
   updated: 2024-11-27 00:12:21.783529
   uuid: bdca208f-7d6c-4734-95b9-fe553b59694a
-  zip: "68169"
+  zip: '68169'
 monashu:
   aka:
     - Monash University
@@ -1553,7 +1552,7 @@ mpi:
     ssp:
       name: Institute for Solid State Physics
   name: Max Planck Institute
-  state: ""
+  state: ''
 mpicps:
   aka:
     - MPI-CPS
@@ -1602,7 +1601,7 @@ mprassociates:
   state: DC
   updated: 2023-02-27 23:27:04.581588
   uuid: 13edc5ab-b90d-4384-9a71-4aab5ba72926
-  zip: "22314"
+  zip: '22314'
 msu:
   aka:
     - MSU
@@ -1617,7 +1616,7 @@ msu:
   name: Michigan State University
   state: MI
   street: 220 Trowbridge Rd
-  zip: "48824"
+  zip: '48824'
 munichreventures:
   city: San Francisco
   country: USA
@@ -1626,7 +1625,7 @@ munichreventures:
   state: CA
   updated: 2022-01-18 08:09:46.853121
   uuid: 68eec7eb-1cf6-4571-a96e-fa01972855fd
-  zip: "94111"
+  zip: '94111'
 nankaiu:
   city: Nankai
   country: China
@@ -1642,7 +1641,7 @@ nanohydrochemllc:
   state: NY
   updated: 2022-01-18 11:22:37.638152
   uuid: e88f1f9f-cb5d-4e14-bc52-1753d91856bd
-  zip: "14260"
+  zip: '14260'
 nanomegas:
   city: Brussels
   country: Belgium
@@ -1670,9 +1669,9 @@ natautoumexico:
       aka:
         - Facultad de Ciencias
       name: Faculty of Sciences
-  state: ""
+  state: ''
   street: Av Universidad 3000, Cd. Universitaria, Coyoacán
-  zip: "04510"
+  zip: '04510'
 nationaltaiwannormalu:
   aka: []
   city: Taipei
@@ -1711,7 +1710,7 @@ navalresearchlaboratory:
   updated: 2020-03-17 01:52:10.463834
   uuid: 87adc340-8b39-4e02-a154-1abc47758dc3
   year: 2020
-  zip: "20375"
+  zip: '20375'
 navigant:
   aka: []
   city: New York
@@ -1723,7 +1722,7 @@ navigant:
   updated: 2020-03-17 02:13:03.136543
   uuid: 849f52fd-2c8c-4644-b744-440a4d0facf1
   year: 2020
-  zip: "10017"
+  zip: '10017'
 neilsbohrinstitute:
   city: Copenhagen
   country: Denmark
@@ -1752,7 +1751,7 @@ nist:
   name: National Institute of Standards and Technology
   state: MD
   street: 100 Bureau Drive
-  zip: "20899"
+  zip: '20899'
 nmaist:
   aka:
     - NMAIST
@@ -1764,7 +1763,7 @@ nmaist:
   updated: 2020-02-18 22:51:23.990291
   uuid: 8c0c942d-d718-4f23-b434-393bc723e493
   year: 2020
-  zip: "23100"
+  zip: '23100'
 northcarolinastateu:
   aka:
     - ncstateu
@@ -1778,7 +1777,7 @@ northcarolinastateu:
   updated: 2020-03-17 02:03:02.889144
   uuid: 907b56df-c900-4f51-903b-7128ae7a1afb
   year: 2020
-  zip: "27695"
+  zip: '27695'
 northwesternu:
   aka:
     - nwu
@@ -1792,7 +1791,7 @@ northwesternu:
       name: 3Department of Materials Science and Engineering
   month: 1
   name: Northwestern University
-  updated: "2020-01-10 17:26:45.692690"
+  updated: '2020-01-10 17:26:45.692690'
   uuid: 6bfefc1b-60a8-4ef3-bf24-85761fdadb9c
   year: 2020
 norwegianuofscienceandtechnology:
@@ -1819,7 +1818,7 @@ nslsii:
   country: USA
   name: National Synchrotron Light Source II
   state: NY
-  zip: "11973"
+  zip: '11973'
 nyu:
   aka:
     - nyu
@@ -1833,7 +1832,7 @@ nyu:
       name: Department of Chemistry
   name: New York University
   state: NY
-  zip: "10003"
+  zip: '10003'
 ohiostateu:
   city: Columbus
   country: USA
@@ -1842,7 +1841,7 @@ ohiostateu:
   state: OH
   updated: 2022-01-18 09:47:25.887588
   uuid: 8170617b-1a6b-4e7f-beb6-24d81665051d
-  zip: "43210"
+  zip: '43210'
 ohiou:
   aka:
     - Ohio
@@ -1866,7 +1865,7 @@ openu:
   country: USA
   name: Open University Foundation
   state: NY
-  zip: "10020"
+  zip: '10020'
 organizationalscienceconsultingresearch:
   city: Charlotte
   country: USA
@@ -1875,7 +1874,7 @@ organizationalscienceconsultingresearch:
   state: NC
   updated: 2022-01-18 12:26:03.150074
   uuid: a96750c6-3515-4e31-a007-74d3daef10cb
-  zip: "28223"
+  zip: '28223'
 ornl:
   city: Oak Ridge
   country: USA
@@ -1903,7 +1902,7 @@ oxfordu:
     physics:
       name: Department of Physics
   name: Oxford University
-  state: ""
+  state: ''
 pacificnorthwestnationallaboratory:
   aka:
     - PNNL
@@ -1917,7 +1916,7 @@ pacificnorthwestnationallaboratory:
   updated: 2020-02-14 20:01:23.541003
   uuid: 2afc5352-77fe-49a0-840b-dfb971c0319a
   year: 2020
-  zip: "99352"
+  zip: '99352'
 parisdiderotu:
   aka: []
   city: Paris
@@ -1957,9 +1956,9 @@ pekingu:
     physics:
       name: School of Physics
   name: Peking University
-  state: ""
+  state: ''
   street: 5 Yiheyuan Road
-  zip: "100871"
+  zip: '100871'
 pennstateu:
   aka:
     - Penn State
@@ -1973,7 +1972,7 @@ pennstateu:
   updated: 2020-03-17 01:34:58.029007
   uuid: de98224b-cc3a-4fc1-bd2e-44b1a26a39be
   year: 2020
-  zip: "16801"
+  zip: '16801'
 pohangacceleratorlaboratory:
   aka: []
   city: Pohang
@@ -2003,7 +2002,7 @@ polycrystallography:
   state: IL
   updated: 2021-04-11 18:22:34.685316
   uuid: dfc8c912-a15e-4034-868a-e9a288b360f4
-  zip: "60540"
+  zip: '60540'
 pomonacollege:
   aka: []
   city: Claremont
@@ -2015,7 +2014,7 @@ pomonacollege:
   updated: 2020-03-17 01:25:00.837030
   uuid: 772f31ea-2598-4210-91ee-d09b06c9c07c
   year: 2020
-  zip: "91711"
+  zip: '91711'
 portlandstateu:
   city: Portland
   country: USA
@@ -2027,7 +2026,7 @@ portlandstateu:
   state: OR
   updated: 2020-12-29 04:10:33.674667
   uuid: 229c8719-fe58-40b9-ae80-ec834ab9ae69
-  zip: "97207"
+  zip: '97207'
 princetonu:
   aka: []
   city: Princeton
@@ -2039,7 +2038,7 @@ princetonu:
   updated: 2020-03-17 01:21:03.347677
   uuid: 88b80a20-2af7-4b78-a6b4-8fd0473d7394
   year: 2020
-  zip: "08544"
+  zip: '08544'
 psi:
   aka:
     - PSI
@@ -2054,7 +2053,7 @@ psi:
   name: Paul Scherrer Institute
   state: MD
   updated: 2022-07-01 02:58:39.348744
-  zip: "21218"
+  zip: '21218'
 puneu:
   aka:
     - University of Pune
@@ -2067,7 +2066,7 @@ puneu:
       name: Department of Physics
   name: Savitribai Phule Pune University
   state: Maharashtra
-  zip: "411007"
+  zip: '411007'
 purdueu:
   aka: []
   city: Indiana
@@ -2079,7 +2078,7 @@ purdueu:
   updated: 2020-03-17 01:17:13.501190
   uuid: 0579805b-cd14-4e9d-ba87-5f7dd68e2945
   year: 2020
-  zip: "47907"
+  zip: '47907'
 qmul:
   aka:
     - QMUL
@@ -2095,9 +2094,9 @@ qmul:
   schools:
     physastro:
       name: The School of Physics and Astronomy
-  state: ""
-  street: ""
-  zip: ""
+  state: ''
+  street: ''
+  zip: ''
 queensu:
   aka: []
   city: Kingston
@@ -2137,7 +2136,7 @@ rensselaerpolytechnicinstitute:
   updated: 2020-03-17 01:03:23.615105
   uuid: 00ccb56c-b14f-4f88-bbf2-bf86c64eb678
   year: 2020
-  zip: "12180"
+  zip: '12180'
 riceu:
   aka:
     - Rice
@@ -2150,7 +2149,7 @@ riceu:
       name: Department of Chemistry
   name: Rice University
   state: TX
-  zip: "77251"
+  zip: '77251'
 rigaku:
   city: Tokyo
   country: Japan
@@ -2172,7 +2171,7 @@ roivantsciences:
   state: NY
   updated: 2022-01-18 08:46:40.344518
   uuid: d3c6cc00-9ca9-4faa-9951-40dec81d1575
-  zip: "10001"
+  zip: '10001'
 rutgers:
   aka:
     - The State University of New Jersey—Piscataway
@@ -2181,7 +2180,7 @@ rutgers:
   country: USA
   name: Rutgers, The State University of New Jersey—Piscataway
   state: NJ
-  zip: "08854"
+  zip: '08854'
 rutgersu:
   aka:
     - Rutgers
@@ -2227,7 +2226,7 @@ sandianationallaboratories:
   updated: 2020-03-17 00:55:31.682359
   uuid: a82449b8-1821-4a74-8c8c-80ea897a9b46
   year: 2020
-  zip: "20024"
+  zip: '20024'
 sap:
   city: Newtown Square
   country: USA
@@ -2236,17 +2235,16 @@ sap:
   state: PA
   updated: 2022-01-18 08:08:29.306097
   uuid: 660374ac-4463-4a3d-a4bf-9d869548ee60
-  zip: "19073"
+  zip: '19073'
 sci-tec:
   aka: []
   city: Milan
   country: Italy
-  name:
-    Institute of Chemical Sciences and Technologies "G.Natta" Consiglio Nazionale
+  name: Institute of Chemical Sciences and Technologies "G.Natta" Consiglio Nazionale
     delle Ricerche (SCI-TEC)
-  state: ""
+  state: ''
   street: via A. Corti 12
-  zip: "20133"
+  zip: '20133'
 singaporepolytechnic:
   aka: []
   city: Singapore
@@ -2257,7 +2255,7 @@ singaporepolytechnic:
   updated: 2020-03-13 21:45:03.583337
   uuid: 695827de-7bff-4556-9fda-77b24d12c9b7
   year: 2020
-  zip: "139651"
+  zip: '139651'
 slacnationalacceleratorlaboratory:
   aka:
     - slac
@@ -2271,7 +2269,7 @@ slacnationalacceleratorlaboratory:
   updated: 2020-03-16 23:59:34.706335
   uuid: a74122e0-8f59-4e8a-a65f-b35161128447
   year: 2020
-  zip: "94025"
+  zip: '94025'
 sns:
   aka:
     - SNS
@@ -2285,7 +2283,7 @@ sns:
   updated: 2020-02-07 16:17:45.398130
   uuid: 8e7cf53d-c0e0-421a-b990-cb5b36eacb92
   year: 2020
-  zip: "37830"
+  zip: '37830'
 sogangu:
   aka: []
   city: Seoul
@@ -2317,7 +2315,7 @@ srtmu:
       name: Department of Physics
   name: Swami Ramanand Teerth Marathwada University
   state: Maharashtra
-  zip: ""
+  zip: ''
 ssrf:
   aka:
     - SSRF
@@ -2335,7 +2333,7 @@ stanfordu:
   state: CA
   updated: 2024-12-12 12:07:00.862959
   uuid: cee0a90e-0da1-450b-a908-da81740e4d8d
-  zip: "94305"
+  zip: '94305'
 stockholmu:
   aka: []
   city: Stockholm
@@ -2348,8 +2346,7 @@ stockholmu:
   name: Stockholm University
   schools:
     pmisc:
-      name:
-        Berzelii Centre EXSELENT on Porous Materials and Inorganic and Structural
+      name: Berzelii Centre EXSELENT on Porous Materials and Inorganic and Structural
         Chemistry
   updated: 2020-03-17 21:15:14.610311
   uuid: a968ff5a-a73c-4f95-8288-607d2b9911d6
@@ -2371,7 +2368,7 @@ stonybrooku:
   name: State University of New York, Stony Brook
   state: NY
   year: 2020
-  zip: "11794"
+  zip: '11794'
 sunybuffalo:
   aka:
     - SUNY Buffalo
@@ -2382,8 +2379,8 @@ sunybuffalo:
     cheme:
       name: Department of Chemical and Biological Engineering
   name: The State University of New York at Buffalo
-  state: ""
-  zip: "14260"
+  state: ''
+  zip: '14260'
 sunysb:
   aka:
     - SUNY-SB
@@ -2400,8 +2397,8 @@ sunysb:
       name: Department of Physics and Astronomy
   name: Stony Brook University
   state: NY
-  street: ""
-  zip: "11794"
+  street: ''
+  zip: '11794'
 tamu:
   aka: []
   city: College Station
@@ -2438,7 +2435,7 @@ technion:
     mse:
       name: Materials Science and Engineering Department
   name: Technion-Israel Institute of Technology
-  state: ""
+  state: ''
   street: Technion City
   zip: 3200003
 telavivu:
@@ -2492,7 +2489,7 @@ tongjiu:
   name: Tongji University
   updated: 2024-11-27 00:03:05.073073
   uuid: 55e7cdaf-501d-4849-9009-b16ef29d9ba0
-  zip: "200070"
+  zip: '200070'
 toyotaresearchannarbor:
   aka:
     - tri
@@ -2503,7 +2500,7 @@ toyotaresearchannarbor:
   state: MI
   updated: 2021-04-11 19:11:23.196767
   uuid: 62a93967-5a0d-4c2a-9255-e72e469a63ad
-  zip: "48105"
+  zip: '48105'
 toyotaresearchi:
   city: Los Altos
   country: USA
@@ -2515,7 +2512,7 @@ toyotaresearchi:
   state: CA
   updated: 2024-11-26 23:13:29.063344
   uuid: 6543bb0a-8144-4098-8a49-34afc219043e
-  zip: "94023"
+  zip: '94023'
 tudresden:
   aka: []
   city: Dresden
@@ -2543,7 +2540,7 @@ ualabama:
   state: AL
   updated: 2024-04-01 07:09:29.457311
   uuid: 724d47e4-6218-4ec1-b4fb-d8e40576272d
-  zip: "35487"
+  zip: '35487'
 uamsterdam:
   aka:
     - Universiteit van Amsterdam
@@ -2565,7 +2562,7 @@ ubasel:
   name: University of Basel
   updated: 2022-01-18 08:56:06.554782
   year: 2020
-  zip: "4001"
+  zip: '4001'
 ubath:
   city: Bath
   country: UK
@@ -2574,7 +2571,7 @@ ubath:
   state: Somerset
   updated: 2022-01-18 07:53:49.440051
   uuid: 025f4f38-e0d9-4c82-b048-1b9cbf494bd7
-  zip: " BA2 7AY"
+  zip: ' BA2 7AY'
 ubayreuth:
   aka:
     - Bayreuth
@@ -2587,7 +2584,7 @@ ubayreuth:
         - chem
       name: Biology, Chemistry & Earth Sciences
   name: Universität Bayreuth
-  state: ""
+  state: ''
 ubelgrade:
   aka:
     - University of Belgrade
@@ -2602,15 +2599,15 @@ ubelgrade:
       name: Institute of Physics
   name: University of Belgrade
   street: Studentski trg 1
-  zip: "11000"
+  zip: '11000'
 ubern:
   aka:
     - Bern
   city: Bern
   country: Switzerland
   name: University of Bern
-  state: ""
-  zip: ""
+  state: ''
+  zip: ''
 ubirmingham:
   city: Birmingham
   country: UK
@@ -2640,7 +2637,7 @@ ubourgogne:
       name: Faculty of Science and Technology
   updated: 2024-04-01 18:30:11.869060
   uuid: 2a804be6-3c42-4f9b-9d04-26e7180abb61
-  zip: "21000"
+  zip: '21000'
 ubuffalo:
   aka:
     - buffalou
@@ -2681,7 +2678,7 @@ ucberkeley:
   name: University of California, Berkeley
   state: CA
   street: 2000 Carleton Street
-  zip: "94720"
+  zip: '94720'
 ucdavis:
   aka:
     - UC Davis
@@ -2689,7 +2686,7 @@ ucdavis:
   country: USA
   name: University of California, Davis
   state: CA
-  zip: "95616"
+  zip: '95616'
 uchicago:
   aka:
     - chicagou
@@ -2716,7 +2713,7 @@ uci:
   state: CA
   updated: 2022-08-13 10:43:36.819707
   uuid: 68ed8449-a352-4f09-8b08-7438972b6e64
-  zip: "92697"
+  zip: '92697'
 ucla:
   aka:
     - University of California, Los Angeles
@@ -2768,8 +2765,8 @@ ucopenhagen:
     computersci:
       name: Department of Computer Science
   name: University of Copenhagen
-  state: ""
-  zip: ""
+  state: ''
+  zip: ''
 ucostarica:
   city: San José
   country: Costa Rica
@@ -2796,7 +2793,7 @@ ucriverside:
   state: CA
   updated: 2022-01-18 10:23:06.853167
   uuid: f60c8002-828c-471b-ab63-ce3c886dcabf
-  zip: "92521"
+  zip: '92521'
 ucsandiego:
   city: La Jolla
   country: USA
@@ -2805,7 +2802,7 @@ ucsandiego:
   state: CA
   updated: 2021-11-23 07:20:22.864254
   uuid: ce930e69-3a2c-4ef8-87a7-1ac70eb0832c
-  zip: "92093"
+  zip: '92093'
 ucsb:
   city: Santa Barbara
   country: USA
@@ -2817,7 +2814,7 @@ ucsb:
   state: CA
   updated: 2021-11-23 07:20:22.864254
   uuid: ce930e69-3a2c-4ef8-87a7-1ac70eb0832c
-  zip: "93106"
+  zip: '93106'
 udaressalaam:
   aka:
     - daressalaamu
@@ -2840,8 +2837,8 @@ udelaware:
       name: Department of Physics and Astronomy
   name: University of Delaware
   state: DE
-  street: ""
-  zip: "19716"
+  street: ''
+  zip: '19716'
 udelorraine:
   aka:
     - Université de Lorraine
@@ -2871,7 +2868,7 @@ uduisburgessen:
   name: University of Duisburg-Essen
   state: North Rhine-Westphalia
   street: Universitaetsstrasse 7
-  zip: "45117"
+  zip: '45117'
 ufederaldoabc:
   aka:
     - UFABC
@@ -2882,8 +2879,8 @@ ufederaldoabc:
     physics:
       name: Department of Physics
   name: Universidade Federal do ABC
-  state: ""
-  zip: ""
+  state: ''
+  zip: ''
 ufederaldoriodejaneiro:
   aka:
     - Federal University of Rio de Janeiro
@@ -2927,8 +2924,8 @@ ufrankfurt:
       name: Department of Chemistry
     physics:
       name: Department of Physics
-  state: ""
-  zip: "60323"
+  state: ''
+  zip: '60323'
 ufsc:
   aka:
     - Universidade Federal de Santa Catarina
@@ -2956,7 +2953,7 @@ ughent:
   name: Ghent University
   updated: 2023-02-27 21:05:54.664393
   uuid: c0d6b206-23c2-4e51-91f6-fe76353c3d7e
-  zip: "9000"
+  zip: '9000'
 uglasgow:
   aka:
     - glasgowu
@@ -2996,7 +2993,7 @@ uhamburg:
     chn:
       name: Center for Hybrid Nanostructures
   name: Universität Hamburg
-  state: ""
+  state: ''
   zip: fixme
 uhouston:
   aka: []
@@ -3023,7 +3020,7 @@ uillinoischampaign:
   updated: 2020-02-07 14:59:22.135702
   uuid: f03e902b-b7bf-48dd-83a2-f5aa6bf9fa3f
   year: 2020
-  zip: "61820"
+  zip: '61820'
 uinsubria:
   aka:
     - Universita Insubria
@@ -3038,8 +3035,8 @@ uinsubria:
     dsat:
       name: Department of Science and Advanced Technology
   name: Università degli Studi dell'Insubria
-  state: ""
-  zip: ""
+  state: ''
+  zip: ''
 uiuc:
   aka:
     - UI Urbana-Champaign
@@ -3056,7 +3053,7 @@ ujordan:
   name: University of Jordan
   updated: 2022-01-18 07:52:34.999052
   uuid: fa13370b-0c0d-46e1-bc76-7304da4f1b92
-  zip: " "
+  zip: ' '
 ulyon:
   aka:
     - ensdelyon
@@ -3103,7 +3100,7 @@ umaryland:
   state: MD
   updated: 2021-04-11 18:23:56.146390
   uuid: 9f5f197d-444f-4d40-9121-6b4cbe61879b
-  zip: "20742"
+  zip: '20742'
 umichigan:
   aka:
     - michiganu
@@ -3134,7 +3131,7 @@ uminnesota:
       name: Chemical Engineering and Materials Science
   name: University of Minnesota
   state: MN
-  zip: "55455"
+  zip: '55455'
 umissouri:
   aka:
     - Mizzou
@@ -3145,7 +3142,7 @@ umissouri:
   state: MO
   updated: 2022-07-01 03:08:26.844519
   uuid: 83d9d5fc-871e-4b6c-abcc-27cba105b827
-  zip: "65211"
+  zip: '65211'
 umodena:
   city: Modena
   country: Italy
@@ -3156,7 +3153,7 @@ umodena:
   name: University of Modena and Reggio Emilia
   updated: 2020-12-29 03:35:29.119124
   uuid: cf819f68-4953-4a9b-b1ce-33b47d39b1da
-  zip: "41100"
+  zip: '41100'
 umontreal:
   aka:
     - UdeM
@@ -3197,8 +3194,8 @@ unisa:
     pharma:
       name: Department of Pharmacy
   name: University of Salerno
-  state: ""
-  zip: "84084"
+  state: ''
+  zip: '84084'
 unotredame:
   aka:
     - Nore Dame
@@ -3213,7 +3210,7 @@ unotredame:
   state: IN
   updated: 2024-06-02 05:53:15.256383
   uuid: 2eae06e1-8d50-4f94-9301-05468d2b9a10
-  zip: "46556"
+  zip: '46556'
 unsw:
   city: Sydney
   country: Australia
@@ -3242,10 +3239,10 @@ uofdayton:
   month: 1
   name: University of Dayton
   state: Ohio
-  updated: "2020-01-10 17:12:54.190176"
+  updated: '2020-01-10 17:12:54.190176'
   uuid: 246717b8-b66d-45d3-b62c-594a5fe4d803
   year: 2020
-  zip: "45469"
+  zip: '45469'
 uofduisbergessen:
   aka:
     - duisbergessenu
@@ -3267,7 +3264,7 @@ uoferlangen-nuremberg:
   day: 10
   month: 1
   name: Friedrich-Alexander-Universität Erlangen-Nürnberg
-  updated: "2020-01-10 18:10:21.189617"
+  updated: '2020-01-10 18:10:21.189617'
   uuid: c4210aab-cde7-428b-b1c4-d62bcab401e0
   year: 2020
 uoficeland:
@@ -3320,7 +3317,7 @@ uoftrento:
       name: Department of Civil, Environmental and Mechanical Engineering
   month: 1
   name: University of Trento
-  updated: "2020-01-10 17:28:15.929580"
+  updated: '2020-01-10 17:28:15.929580'
   uuid: bfee0e16-7115-428e-bffb-26edbdba766d
   year: 2020
 uofzurich:
@@ -3343,8 +3340,8 @@ uosijek:
     chemistry:
       name: Department of Chemistry
   name: Josip Juraj Strossmayer University of Osijek
-  state: ""
-  zip: ""
+  state: ''
+  zip: ''
 upenn:
   aka:
     - Penn
@@ -3369,7 +3366,7 @@ upenn:
         - Columbia Engineering
       name: School of Engineering and Applied Science
   state: PA
-  zip: "18015"
+  zip: '18015'
 upittsburgh:
   city: Pittsburgh
   country: USA
@@ -3390,7 +3387,7 @@ uregensburg:
   name: Regensburg Univeristy
   updated: 2022-01-18 08:01:39.959312
   uuid: 9823f4d6-3edf-424f-87ea-c8736ea6dbe1
-  zip: "93053"
+  zip: '93053'
 urome:
   aka:
     - uroma
@@ -3405,9 +3402,9 @@ urome:
     physics:
       name: Department of Physcis
   name: University of Rome, `La Sapienza'
-  state: ""
+  state: ''
   street: Piazzale Aldo Moro 5
-  zip: "00185"
+  zip: '00185'
 usc:
   aka:
     - usoutherncalifornia
@@ -3453,7 +3450,7 @@ usouthcarolina:
   state: SC
   updated: 2022-07-01 03:13:45.237211
   uuid: a8c7a966-b8fd-4784-9698-ea1af041854e
-  zip: "29208"
+  zip: '29208'
 utennessee:
   aka:
     - ut
@@ -3467,7 +3464,7 @@ utennessee:
   updated: 2020-03-17 02:30:29.709566
   uuid: 8acc5248-f9f0-4b26-8deb-3f7dd54c041e
   year: 2020
-  zip: "37996"
+  zip: '37996'
 utokyo:
   aka:
     - utokyo
@@ -3514,7 +3511,7 @@ utrieste:
   name: University of Trieste
   updated: 2022-01-18 09:10:59.836867
   uuid: c01b006a-d815-446c-9b86-4c390f04b6cf
-  zip: "34127"
+  zip: '34127'
 utsinghua:
   aka:
     - Tsinghua
@@ -3532,7 +3529,7 @@ utsinghua:
   name: Tsinghua University
   state: Haidian
   street: 30 Shuangqing Rd
-  zip: "100084"
+  zip: '100084'
 utsydney:
   aka:
     - utsydney
@@ -3584,7 +3581,7 @@ uwashington:
       name: Department of Chemistry
   name: University of Washington
   state: WS
-  zip: "98195"
+  zip: '98195'
 uwisconsin:
   aka:
     - Wisco
@@ -3605,7 +3602,7 @@ uwisconsin:
       name: School of Pharmacy
   state: WI
   street: 1509 University Ave.
-  zip: "53706"
+  zip: '53706'
 uwmilwaukee:
   aka:
     - UWM
@@ -3616,7 +3613,7 @@ uwmilwaukee:
       name: Department of Physics
   name: University of Wisconsin Milwaukee
   state: Wisconsin
-  zip: "411007"
+  zip: '411007'
 vanderbiltu:
   aka:
     - Vanderbilt
@@ -3655,7 +3652,7 @@ waterdistrictofsoutherncalifornia:
   updated: 2020-03-17 02:33:24.687682
   uuid: f4a37279-1ccc-41f3-847b-94e0d117fafd
   year: 2020
-  zip: "90012"
+  zip: '90012'
 weizmanni:
   city: Tel Aviv
   country: Israel
@@ -3674,7 +3671,7 @@ wellsfargosecurities:
   state: NC
   updated: 2022-01-18 08:07:35.212236
   uuid: 1d7f7f11-3e42-4b5b-8c91-20ab905d81b8
-  zip: "28202"
+  zip: '28202'
 westvirginiau:
   aka:
     - westvirginiau
@@ -3711,7 +3708,7 @@ x-themoonshotco:
   state: CA
   updated: 2021-04-11 18:26:06.334303
   uuid: b6ae5aab-cf42-4318-9f14-9d50795d862c
-  zip: "94043"
+  zip: '94043'
 zhejiangu:
   aka:
     - zhejiangu

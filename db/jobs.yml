@@ -8,8 +8,7 @@ phdr:
     - Fully supported on an RA or TA of Fellowship
   contact: Please contact Prof. Simon Billinge at sb2896ATcolumbia.edu.
   day: 1
-  description:
-    <p> We usually have open research opportunities in the group for excellent
+  description: <p> We usually have open research opportunities in the group for excellent
     and motivated graduate students.  If this fits your description and you think
     you may want to join us we would love to hear from you</p> <ol> <li>If you are
     a Ph.D student at Columbia University in Materials Science, Applied Physics, Applied
@@ -52,13 +51,12 @@ ugmr:
       including AI, and machine learning.
   compensation:
     - Unpaid
-    - "Please see here for fellowship opportunities for Columbia/Barnard students:
-      https://studentresearch.engineering.columbia.edu/research-projects"
-    - "And here for more fellowship opportunities more broadly: https://studentresearch.engineering.columbia.edu/content/research-opportunities"
+    - 'Please see here for fellowship opportunities for Columbia/Barnard students:
+      https://studentresearch.engineering.columbia.edu/research-projects'
+    - 'And here for more fellowship opportunities more broadly: https://studentresearch.engineering.columbia.edu/content/research-opportunities'
   contact: Please contact Prof. Simon Billinge at sb2896ATcolumbia.edu.
   day: 1
-  description:
-    <p>Local atomic structure of nanomaterials from advanced x-ray neutron
+  description: <p>Local atomic structure of nanomaterials from advanced x-ray neutron
     and electron diffraction data</p> <p> We love having undergraduate researchers
     in our lab!</p> <p>There are multiple opportunities in the group for summer or
     semester-time research to learn how to understand atomic arrangements on the nanoscale
