@@ -559,14 +559,13 @@
     where disorder and nanoscale structures are valued in\ \ materials, the PDF is
     having an impact.  And disorder and nanoscale structures\ \ are valued pretty
     much everywhere. There are multiple beamlines dedicated\ \ to the technique around
-    the world, and software programs are becoming widely\ \ available and easier
-    to use, easing access to the method.  Moving forward\ \ we project the method's
-    adoption and applications to grow enormously.  In\ \ this talk I will describe,
-    as I see it, the events that have given rise\ \ to this phenomenal growth.  I
-    will review where I think we are with the\ \ technique and the exciting possibilities
-    that are just now emerging that\ \ will, hopefully be a launchpad for even more
-    impacts and growth in the power\ \ of the method and the scientific questions
-    it can address.
+    the world, and software programs are becoming widely\ \ available and easier to
+    use, easing access to the method.  Moving forward\ \ we project the method's adoption
+    and applications to grow enormously.  In\ \ this talk I will describe, as I see
+    it, the events that have given rise\ \ to this phenomenal growth.  I will review
+    where I think we are with the\ \ technique and the exciting possibilities that
+    are just now emerging that\ \ will, hopefully be a launchpad for even more impacts
+    and growth in the power\ \ of the method and the scientific questions it can address.
   authors:
     - sbillinge
   begin_day: 20
@@ -3745,8 +3744,8 @@
     Function (PDF) data, one can reduce the contributions of systematic errors and
     allow one to follow the evolution of local structural motifs without the need
     in a complete structural model. Using the rapidly evolving machine-learning tools,
-    relational PDF datasets can be used to disentangle partial structural motifs
-    and their evolution. I will show examples from electron and x-ray total-scattering
+    relational PDF datasets can be used to disentangle partial structural motifs and
+    their evolution. I will show examples from electron and x-ray total-scattering
     experiments, where relational PDF were used.
   authors:
     - yrakita
@@ -4314,8 +4313,8 @@
     of the structure in the context of time resolved measurements, because if the
     local bonding state or coordination of an atom is changed through photoexcitation,
     the PDF gives a direct measure of that change, and how the change propagates out
-    in time from the location where it occurred.\nDespite this, to date there has been
-    very little work in measuring ultrafast PDFs (ufPDFs).  The reasons are technological
+    in time from the location where it occurred.\nDespite this, to date there has
+    been very little work in measuring ultrafast PDFs (ufPDFs).  The reasons are technological
     rather than scientific.  First, the resolution of the PDF in real space is directly
     determined by the measured range in momentum, Q.  To get quantitatively reliable
     PDF high Qmax values of greater than 20 inv. angstroms are required, and this
@@ -4649,8 +4648,8 @@
     of the structure in the context of time resolved measurements, because if the
     local bonding state or coordination of an atom is changed through photoexcitation,
     the PDF gives a direct measure of that change, and how the change propagates out
-    in time from the location where it occurred.\nDespite this, to date there has been
-    very little work in measuring ultrafast PDFs (ufPDFs).  The reasons are technological
+    in time from the location where it occurred.\nDespite this, to date there has
+    been very little work in measuring ultrafast PDFs (ufPDFs).  The reasons are technological
     rather than scientific.  First, the resolution of the PDF in real space is directly
     determined by the measured range in momentum, Q.  To get quantitatively reliable
     PDF high Qmax values of greater than 20 inv. angstroms are required, and this
@@ -4914,7 +4913,7 @@
   type: invited
   webinar: true
 2308sb_sanfrancisco:
-  abstract: ' Hard x-rays tend to make experiments easy.  They are penetrating allowing
+  abstract: " Hard x-rays tend to make experiments easy.  They are penetrating allowing
     in situ, operando and spatially resolved measurements.  Large regions of reciprocal
     space can be covered rapidly opening the door to high real-space resolution total
     scattering measurements.  Absorption is lower making corrections easier, and resulting
@@ -4925,19 +4924,19 @@
     by wonderful source and detector developments, present major challenges on the
     data analysis side.  Now we are putting heterogeneous devices in the beam and
     getting signals from different parts of them.  We have bad powder averages (spotty
-    data) because we can''t spin the battery, and single crystal spots coming from
+    data) because we can't spin the battery, and single crystal spots coming from
     some component in the setup that happens to be in the way of the beam.  We have
     unknown and unexpected phases coming and going, and want to extract tiny signals
     from large backgrounds. I will take this opportunity to discuss some of the data
     analysis, algorithmic and computational developments that are helping us to overcome
-    these challenging situations and not only recovering from "bad data", but also
+    these challenging situations and not only recovering from \"bad data\", but also
     turning bad data into good data.  Spotty powder patterns have more information
     in them than smooth powder rings.  Normally, data that contain more information
-    would be thought as "better" than data with less, but it is considered bad because
-    we don''t have great ways to extract that information.  I will describe some new
+    would be thought as \"better\" than data with less, but it is considered bad because
+    we don't have great ways to extract that information.  I will describe some new
     approaches, algorithmic, statistical, machine learning and otherwise, that are
     helping us move the goalposts in this domain, which can open up new opportunities
-    for studying complex heterogeneous samples with hard x-rays.'
+    for studying complex heterogeneous samples with hard x-rays."
   authors:
     - sbillinge
   begin_date: 2023-08-13
@@ -5366,9 +5365,9 @@
     or predicting housing prices or interesting movies.  They would therefore benefit
     from course materials that are designed to play to their strengths and interests.   With
     funding help from the collaboratory@columbia University we have developed a set
-    of "Educational examples" or Edexes that take real examples from the physical science
-    literature and right-size them as an educational example (i.e., so they can be
-    computed on a laptop in reasonable time).  These are chosen so that different
+    of "Educational examples" or Edexes that take real examples from the physical
+    science literature and right-size them as an educational example (i.e., so they
+    can be computed on a laptop in reasonable time).  These are chosen so that different
     concepts in ML can be rolled out but on real problems from the literature.  The
     initial suite of Edexes come from the materials science field and include predicting
     melting points of materials from structural descriptors using linear regression
