@@ -1,6 +1,7 @@
 from pprint import pprint
 
 import pandas as pd
+from ruamel.yaml import YAML
 
 us_states = {
     "AK": "Alaska",
@@ -97,53 +98,30 @@ for u in unis:
             dd = {"country": "USA", "aka": []}
             dd.update({k: data[n][v] for k, v in regolith_info.items()})
             if len(dd["name"].split("University")[0]) > 1:
-                dd["aka"].append(
-                    dd["name"].split(",")[0].split("University")[0].strip()
-                )
+                dd["aka"].append(dd["name"].split(",")[0].split("University")[0].strip())
                 dd["aka"].append(dd["aka"][0].lower())
-            data_id = (
-                dd["name"]
-                .split("University")[0]
-                .split(",")[0]
-                .strip()
-                .lower()
-                .replace(" ", "")
-            )
+            data_id = dd["name"].split("University")[0].split(",")[0].strip().lower().replace(" ", "")
             dd["zip"] = str(dd["zip"])
-            if (
-                "state" in dd["name"].lower()
-                and us_states[dd["state"]] in dd["name"]
-            ):
-                data_id = "".join(
-                    [a[0] for a in dd["name"].split(" ")]
-                ).lower()
-            if dd["name"].startswith("University of " ):
-                data_id = (
-                    "".join([a[0] for a in dd["name"].split(" of ")])
-                    + dd["city"]
-                ).lower()
+            if "state" in dd["name"].lower() and us_states[dd["state"]] in dd["name"]:
+                data_id = "".join([a[0] for a in dd["name"].split(" ")]).lower()
+            if dd["name"].startswith("University of "):
+                data_id = ("".join([a[0] for a in dd["name"].split(" of ")]) + dd["city"]).lower()
                 dd["aka"].append(
-                    ("".join([a[0] for a in dd["name"].split(" of ")])).upper()
-                    + " "
-                    + dd['name'].rsplit(' ')[-1]
+                    ("".join([a[0] for a in dd["name"].split(" of ")])).upper() + " " + dd["name"].rsplit(" ")[-1]
                 )
             # DIRTY HACK
             if "University of Illinois" in dd["name"]:
                 data_id = "uiuc"
-                dd['aka'].append('UIUC')
+                dd["aka"].append("UIUC")
             if dd["name"] == "California Institute of Technology":
                 data_id = "caltech"
-                dd['aka'].append('CalTech')
+                dd["aka"].append("CalTech")
             if "rutgers" in dd["name"].lower():
                 data_id = "rutgers"
-            if (
-                "u" not in data_id
-                and "Institute of Technology" not in dd["name"]
-            ):
+            if "u" not in data_id and "Institute of Technology" not in dd["name"]:
                 data_id += "u"
             output.update({data_id: dd})
 pprint(output)
-from ruamel.yaml import YAML
 
 yaml = YAML()
 with open("unis.yaml", "w") as f:

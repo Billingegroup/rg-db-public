@@ -240,7 +240,7 @@ alappas:
   name: Alexandros Lappas
   position: professor
 alwu:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/alisnwu.png
   bio: bio
@@ -255,7 +255,7 @@ alwu:
       advisor: sbillinge
       status: undergrad
   github_id: alisnwu
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Alison Wu
   orcid_id: ''
   position: undergraduate researcher
@@ -785,7 +785,7 @@ cmyers:
   orcid_id: ''
   position: graduate research assistant
 cseno:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/carltta.png
   bio: bio
@@ -800,7 +800,7 @@ cseno:
       advisor: sbillinge
       status: visitor-unsupported
   github_id: carltta
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Carlotta Seno
   orcid_id: ''
   position: visiting student
@@ -845,7 +845,7 @@ cwright:
       end_year: 2017
       department: apam
       degree: MS in Materials Science
-    - institution: University of Sourth Carolina
+    - institution: University of South Carolina
       begin_year: 2014
       end_year: 2014
       other:
@@ -2957,6 +2957,27 @@ lcheng:
   name: Louis Cheng
   orcid_id: ''
   position: undergraduate researcher
+ldasilva:
+  active: true
+  aka:
+    - Lucas Da Silva
+  avatar: https://github.com/.png
+  bio: bio
+  education: []
+  email: Lucas.Lemos.Da.Silva@iwm.fraunhofer.de
+  employment:
+    - begin_date: 2025-01-01
+      end_date: 2025-06-30
+      organization: columbiau
+      position: visiting student
+      group: bg
+      advisor: sbillinge
+      status: visitor-unsupported
+  github_id: ''
+  grp_mtg_active: true
+  name: Lucas Lemos Da Silva
+  orcid_id: ''
+  position: visiting student
 lkranis:
   active: false
   aka: []
@@ -2988,7 +3009,7 @@ lkranis:
   orcid_id: ''
   position: undergraduate researcher
 llan:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/lanikaling.png
   bio: ''
@@ -3465,7 +3486,7 @@ mzhao:
   avatar: https://github.com/MaxPaiPai.png
   bio: Jinpai (Max) Zhao grew up in Shenzhen, China. He's a three plus two engineering
     combined plan student from Davidson College, NC. Right now he's a Applied Math
-    junior at Columbia Univeristy.At Davidson College, he worked on creating a new
+    junior at Columbia University.At Davidson College, he worked on creating a new
     network ranking which targeted underrated players using python networkx package.
     He also worked on error analysis on nuetron rich nuclei. During free time, he
     likes to play basketball and making cocktails.
@@ -3957,7 +3978,7 @@ ranselm:
   orcid_id: ''
   position: undergrad researcher
 rdhua:
-  active: true
+  active: false
   aka:
     - Rundong Hua
   avatar: https://github.com/stevenhua0320.png
@@ -3973,7 +3994,7 @@ rdhua:
       advisor: sbillinge
       status: undergrad
   github_id: stevenhua0320
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Rundong (Steven) Hua
   orcid_id: 0009-0003-1947-1857
   position: undergraduate researcher
@@ -4047,8 +4068,7 @@ rgu:
       group: bg
       organization: Columbia University
   github_id: guran1214
-  google_scholar_url: 
-    https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F7z7xLHLAfG-0KjERWe7zeuQgGtwaYiHFOad01S66fU1UZDsC9gMhfU2okIFbtvgeXHRtYu6igeFqbLBqKw12J1zF2K3g&user=3MveL9IAAAAJ
+  google_scholar_url: https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F7z7xLHLAfG-0KjERWe7zeuQgGtwaYiHFOad01S66fU1UZDsC9gMhfU2okIFbtvgeXHRtYu6igeFqbLBqKw12J1zF2K3g&user=3MveL9IAAAAJ
   grp_mtg_active: false
   name: Ran Gu
   orcid_id: 0000-0002-4416-5021
@@ -4223,8 +4243,7 @@ rzyu:
 sandrello:
   active: true
   aka: []
-  avatar: 
-    https://media.licdn.com/dms/image/D4E03AQFXa02w443ZCg/profile-displayphoto-shrink_200_200/0/1667414532631?e=1695254400&v=beta&t=o2XvkKEklVgkrx646E2f8PGkxGHjU2r7CfTjkJ1He0Q
+  avatar: https://media.licdn.com/dms/image/D4E03AQFXa02w443ZCg/profile-displayphoto-shrink_200_200/0/1667414532631?e=1695254400&v=beta&t=o2XvkKEklVgkrx646E2f8PGkxGHjU2r7CfTjkJ1He0Q
   bio: Rising Junior at Columbia University studying Applied Physics with a minor
     in CS. Interests in all types of computational physics.
   education:
@@ -4516,6 +4535,15 @@ sbillinge:
   google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
   grp_mtg_active: false
   hindex:
+    - h: 89
+      h_last_five: 52
+      citations: 35679
+      citations_last_five: 14979
+      origin: Google Scholar
+      since: 1991
+      year: 2025
+      month: 1
+      day: 13
     - h: 86
       h_last_five: 54
       citations: 32450
@@ -4677,8 +4705,7 @@ sbillinge:
       date: 2023-03-17
       publication: Materialstoday
       text: ''
-      url: 
-        https://www.materialstoday.com/energy/news/fast-camera-shutter-shows-how-materials-move-heat/
+      url: https://www.materialstoday.com/energy/news/fast-camera-shutter-shows-how-materials-move-heat/
       grant: dmref19
   research_focus_areas:
     - description: Solving the nanostructure inverse problem (finding the location
@@ -4834,7 +4861,7 @@ sbillinge:
           feel that bringing meaningful change starts by addressing these issues internally
           first. As we make progress the plan is to reach outside the group to find
           similar activities in other research groups, departments and across the
-          school, univesity and the academy.  The results of this activity have been
+          school, university and the academy.  The results of this activity have been
           eye opening, bringing to light the extent and ingrainedness of implicit
           biases while helping us to recognize them without feeling bad that they
           are there, and underscoring that the inreach before outreach approach is
@@ -5000,7 +5027,7 @@ sbillinge:
       begin_year: 1996
       end_year: 1997
       role: Member of team led by Robert Robinson, Los Alamos National Laboratory
-      description: This project was funded and the Pharos uprade has been carried
+      description: This project was funded and the Pharos upgrade has been carried
         out at LANSCE.
     - type: profession
       name: Organizer of a one-day JUAMI symposium on materials for sustainable energy
@@ -5417,7 +5444,7 @@ sbillinge:
       begin_year: 2012
     - type: outreach
       name: Science Advisory Committee to the NSF funded PROMSE project to improve
-        math and science eduction in the K-12 sector
+        math and science education in the K-12 sector
       begin_year: 2003
       end_year: 2010
     - type: outreach
@@ -5520,7 +5547,7 @@ sharouna-mayer:
   bio: Sani grew up in Kassel, Germany. He earned his Bachelors degree in nanoscience
     in 2018 at the University of Hamburg. During his Bachelor project he worked on
     PDF analysis of electrochromic thin films in Prof. Dorota Koziej's group. Ever
-    scince he continued working in her group as a research assistant, where he focuses
+    science he continued working in her group as a research assistant, where he focuses
     on similar electrochromic systems and insitu imaging of nanostructures. He currently
     works in the group of Simon Billinge for an external Masters project. In his free
     time he loves watching soccer, going to the gym and playing the piano.
@@ -6237,6 +6264,26 @@ ycchen:
   github_id: yucongalicechen
   grp_mtg_active: true
   name: Yucong Chen
+  orcid_id: ''
+  position: masters researcher
+ycexiao:
+  active: true
+  aka: []
+  avatar: https://github.com/ethan-yuchen.png
+  bio: bio
+  education: []
+  email: yx2924@columbia.edu
+  employment:
+    - begin_date: 2025-01-01
+      end_date: 2025-05-31
+      organization: columbiau
+      position: masters researcher
+      group: bg
+      advisor: sbillinge
+      status: masters
+  github_id: ethan-yuchen
+  grp_mtg_active: true
+  name: Yuchen (Ethan) Xiao
   orcid_id: ''
   position: masters researcher
 yjhu:

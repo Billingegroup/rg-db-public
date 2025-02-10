@@ -302,6 +302,8 @@ bnl:
       name: Sustainable Energy Technologies Department
     csi:
       name: Computational Science Initiative
+    nsatd:
+      name: Nuclear Science and Technology Department
   name: Brookhaven National Laboratory
   state: NY
   zip: '11973'
@@ -852,7 +854,7 @@ famufsu:
 fau:
   aka:
     - FAU
-    - Erlangen Univeristy
+    - Erlangen University
   city: Erlangen
   country: Germany
   name: Friedrich-Alexander-Universität Erlangen-Nürnberg
@@ -901,6 +903,13 @@ formlabs:
   name: Formlabs
   state: MA
   year: 2020
+fraunhofferdresden:
+  city: Dresden
+  country: Germany
+  date: 2025-01-13
+  name: Fraunhoffer Institute, Dresden
+  updated: 2025-01-13 18:36:09.907531
+  uuid: 687bb93a-9d51-4288-9c69-dea89176b91d
 fudanu:
   aka:
     - Fudan
@@ -2586,7 +2595,7 @@ ubelgrade:
     physics:
       aka:
         - IPB
-        - Institue of Physics Belgrade
+        - Institute of Physics Belgrade
       name: Institute of Physics
   name: University of Belgrade
   street: Studentski trg 1
@@ -3169,7 +3178,7 @@ umontreal:
 unina:
   aka:
     - University of Napoli Federico II
-    - Univeristy of Naples Federico II
+    - University of Naples Federico II
     - Universita degli Studo di Napoli Federico II
   city: Naples
   country: Italy
@@ -3189,7 +3198,7 @@ unisa:
   zip: '84084'
 unotredame:
   aka:
-    - Nore Dame
+    - Notre Dame
     - NDU
   city: Notre Dame
   country: USA
@@ -3375,7 +3384,7 @@ uregensburg:
   city: Regensburg
   country: Germany
   date: 2022-01-18
-  name: Regensburg Univeristy
+  name: Regensburg University
   updated: 2022-01-18 08:01:39.959312
   uuid: 9823f4d6-3edf-424f-87ea-c8736ea6dbe1
   zip: '93053'
@@ -3391,7 +3400,7 @@ urome:
   country: Italy
   departments:
     physics:
-      name: Department of Physcis
+      name: Department of Physics
   name: University of Rome, `La Sapienza'
   state: ''
   street: Piazzale Aldo Moro 5

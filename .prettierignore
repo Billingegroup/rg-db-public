@@ -1,0 +1,2 @@
+# Ignore jinja2 variables within the project
+{{ cookiecutter.github_repo_name }}

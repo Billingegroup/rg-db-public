@@ -1,20 +1,21 @@
-import sys
-
-import ruamel.yaml as yaml
 import argparse
+import sys
 from pathlib import Path
 
+import ruamel.yaml as yaml
 from regolith.fsclient import dump_yaml
 
-THIS_DIR = Path('.')
+THIS_DIR = Path(".")
 collsdir = THIS_DIR / ".." / ".." / "rg-db-public" / "db"
 
 
 def parser():
     parser = argparse.ArgumentParser()
-    parser.add_argument("collections", nargs='+',
-                        help="collections or collections to round-trip "
-                             "e.g., -c people contacts expenses")
+    parser.add_argument(
+        "collections",
+        nargs="+",
+        help="collections or collections to round-trip " "e.g., -c people contacts expenses",
+    )
     args = parser.parse_args()
     return args
 
@@ -22,8 +23,10 @@ def parser():
 def main():
     args = parser()
     if not args.collections:
-        sys.exit("please specify a collection, or list of collections, using "
-                 "the -c switch, e.g., -c people contacts expenses")
+        sys.exit(
+            "please specify a collection, or list of collections, using "
+            "the -c switch, e.g., -c people contacts expenses"
+        )
     if isinstance(args.collections, str):
         collections = [args.collections]
     else:
@@ -33,14 +36,14 @@ def main():
     for coll in needed_dbs:
         fullcoll = coll + ".yml"
         collfile = collsdir / fullcoll
-        with open(collfile, "r", encoding='utf8') as i:
+        with open(collfile, "r", encoding="utf8") as i:
             current = yaml.safe_load(i)
         sync_coll(collfile, current)
         print("{} has been roundtripped".format(coll))
 
 
 def sync_coll(collfile, dict):
-    with open(collfile, "r", encoding='utf8') as i:
+    with open(collfile, "r", encoding="utf8") as i:
         current = yaml.safe_load(i)
     current.update(dict)
     for k, v in current.items():
@@ -48,5 +51,5 @@ def sync_coll(collfile, dict):
     dump_yaml(collfile, current)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

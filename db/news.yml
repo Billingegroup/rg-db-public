@@ -1,15 +1,15 @@
 19sb_iucrnewsletter:
   author: Simon Billinge
   body: Read Prof. Billinge's thoughts on crystallography in the 21st Century in this
-    recent IUCr Newsletter article:\ 
+    recent IUCr Newsletter article:\
     https://www.iucr.org/news/newsletter/etc/articles?issue=145052&result_138339_result_page=7
   day: 21
   month: Dec
   year: 2019
 CJ_SWC:
-  author: Christpher Wright
-  body: Christpher took part in the Foundations of Reseach Computing's first Software  Carpentry
-    Workshp as an instructure
+  author: Christopher Wright
+  body: Christopher took part in the Foundations of Research Computing's first Software  Carpentry
+    Workshop as an instructor
   day: 27
   month: August
   year: 2018
@@ -20,8 +20,8 @@ CJ_conda-forge:
   month: March
   year: 2018
 FRC:
-  author: Christpher Wright
-  body: Christpher joins the Foundations of Research Computing Advisory Committe to
+  author: Christopher Wright
+  body: Christopher joins the Foundations of Research Computing Advisory Committee to
     advance their mission of helping Columbia University graduate students to develop
     fundamental skills for harnessing computation.
   day: 30
