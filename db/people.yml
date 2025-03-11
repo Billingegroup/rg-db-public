@@ -6545,6 +6545,26 @@ zguguchia:
       position: post-doctoral scholar
   name: Zurab Guguchia
   position: scientist
+zmxu:
+  active: true
+  aka: []
+  avatar: https://github.com/zmx27.png
+  bio: bio
+  education: []
+  email: zx2525@columbia.edu
+  employment:
+    - begin_date: 2025-03-03
+      end_date: 2025-12-31
+      organization: columbiau
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: zmx27
+  grp_mtg_active: true
+  name: Zhi Ming Xu
+  orcid_id: ''
+  position: undergraduate researcher
 zthatcher:
   active: false
   aka:

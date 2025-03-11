@@ -238,7 +238,7 @@ anker;actaa23:
     - Kirsten M. Ø. Jensen
   doi: 10.1107/S2053273324001116
   entrytype: article
-  facility: maxiv, danmax, desy, petraiii, p02.1, p07, soleil, swing, aps
+  facility: maxiv, danmax, desy, petraiii, p02.1, p07
   grant: dmref19
   journal: Acta Crystallogr. A
   month: nov
@@ -1091,15 +1091,15 @@ billi;ae24:
     and the funding over the years (DMR2023698, DMR1756245, DMR1539724, DMR1069120),
     as well as additional financial support from Northwestern University, the International
     Center for Theoretical Physics and US Office of Naval Research Global, and logistical
-    support from MRS, AMRS and African Academy of Science. We also thank the presenters who share their time
-    and expertise so freely, and the students who engage so thoroughly and bring so
-    much passion.
+    support from MRS, AMRS and African Academy of Science. We also thank the presenters
+    who share their time and expertise so freely, and the students who engage so thoroughly
+    and bring so much passion.
   author:
     - Simon J. L. Billinge
   doi: 10.1107/S2056989023010915
   entrytype: article
   facility: ''
-  grant: dmref19
+  grant: juami15
   journal: 'Acta Crystallographica: Section E'
   month: feb
   nb: ''
@@ -12481,13 +12481,13 @@ thatc;aa22:
     of materials that require precise control of atom configuration during manufacturing.
     In order to improve the devices that depend on these complex materials, we need
     to gain a better understanding of how the atomic configuration changes over time
-    and space. Determining the average configuration of atoms throughout space and time
-    is a difficult task, typically requiring that geometric models be developed and
-    subsequently tracked over a large number of experimental signals. However, recent
-    advancements in machine learning has lead to the development of tools that can
-    track these kinds of signals over space and time without the need to develop or
-    utilize a geometric model. This can rapidly provide unforeseen insight into how
-    the atoms are rearranging from one measurement to the next. This work describes
+    and space. Determining the average configuration of atoms throughout space and
+    time is a difficult task, typically requiring that geometric models be developed
+    and subsequently tracked over a large number of experimental signals. However,
+    recent advancements in machine learning has lead to the development of tools that
+    can track these kinds of signals over space and time without the need to develop
+    or utilize a geometric model. This can rapidly provide unforeseen insight into
+    how the atoms are rearranging from one measurement to the next. This work describes
     a new web application that makes utilization of this algorithm, known as NMF,
     intuitive for scientists that specialize in tracking average atomic arrangements.
   synopsis: A web application called nmfMapping was created and launched on the pdfitc.org
