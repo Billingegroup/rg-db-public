@@ -240,7 +240,7 @@ anker;actaa23:
     - Kirsten M. Ø. Jensen
   doi: 10.1107/S2053273324001116
   entrytype: article
-  facility: maxiv, danmax, desy, petraiii, p02.1, p07, soleil, swing, aps
+  facility: maxiv, danmax, desy, petraiii, p02.1, p07
   grant: dmref19
   journal: Acta Crystallogr. A
   month: nov
@@ -1104,7 +1104,7 @@ billi;ae24:
   doi: 10.1107/S2056989023010915
   entrytype: article
   facility: ''
-  grant: dmref19
+  grant: juami15
   journal: 'Acta Crystallographica: Section E'
   month: feb
   nb: ''
@@ -8834,25 +8834,27 @@ mcgur;prb04:
   wwwemail: ' sb2896@columbia.edu'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/mcgur_prb04.pdf
   year: '2004'
-mfeuer;unpub24:
+mfeuer;am25:
   ackno: This work was primarily supported by the NSF through the Columbia University
     Materials Research Science and Engineering Center (MRSEC) on Precision-Assembled
     Quantum Materials DMR-2011738. Magnetic measurements were supported as part of
-    Programmable Quantum Materials, an Energy Frontier Research Center funded by the
-    DOE, Office of Science, Basic Energy Sciences (Award DE-SC0019443). This research
-    used resources of beamline 28-ID-1 of the National Synchrotron Light Source II,
-    a U.S. Department of Energy (DOE) Office of Science User Facility operated for
-    the DOE Office of Science by Brookhaven National Laboratory under Contract No.
-    DE-SC0012704. PDF analysis in the Billinge group was supported by U.S. Department
-    of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
-    contract No. DE-SC0024141. We thank Maya Nair for her help with the XPS run at
-    Advanced Science Research Center of City University of New York. We thank Louise
-    Bolge for help with ICP-MS. M.L.F. is supported by the NSF Graduate Research Fellowship
-    Program (DGE-2036197). The PPMS used to perform magnetic susceptibility measurements
-    was purchased with financial support from the NSF through a supplement to award
-    DMR-1751949. The Columbia University Shared Materials Characterization Laboratory
-    (SMCL) was used extensively for this research. The authors are grateful to Columbia
-    University for the support of this facility
+    Programmable Quantum Materials, an Energy Frontier Research Center funded by the DOE,
+    Office of Science, Basic Energy Sciences (Award DE-SC0019443). Scanning tunneling
+    microscopy measurements were supported in part by the US Air Force Office of Scientific
+    Research (AFOSR) under award number FA9550-22-1-0389. This research used resources of the
+    Condensed Matter and Materials Science Division and of beamline 28-ID-1 of the National
+    Synchrotron Light Source II, a U.S. Department of Energy (DOE) Office of Science User
+    Facility operated for the DOE Office of Science by Brookhaven National Laboratory under
+    Contract No. DE-SC0012704. PDF analysis in the Billinge group was supported by U.S.
+    Department of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
+    contract No. DE-SC0024141. We thank Maya Nair for her help with the XPS run at Advanced
+    Science Research Center of City University of New York. We thank Louise Bolge for her help
+    with ICP-MS. M.L.F. is supported by the NSF Graduate Research Fellowship Program (DGE-
+    2036197). The PPMS used to perform magnetic susceptibility measurements was purchased with
+    financial support from the NSF through a supplement to award DMR-1751949. The Columbia
+    University Shared Materials Characterization Laboratory (SMCL) was used extensively for this
+    research. The authors are grateful to Columbia University for the support of this facility. The
+    Flatiron Institute is a division of the Simons foundation.
   author:
     - Margalit L. Feuer
     - Morgan Thinel
@@ -8883,7 +8885,7 @@ mfeuer;unpub24:
   entrytype: article
   facility: nslsii, xpd
   grant: doeneutron23
-  journal: Nature Materials
+  journal: Advanced Materials
   month: tbd
   nb: ''
   note: arxiv.org/abs/2412.08631.
@@ -8895,7 +8897,7 @@ mfeuer;unpub24:
     Semiconductor {CrSBr}
   url: https://arxiv.org/abs/2412.08631.
   volume: ''
-  year: '2024'
+  year: '2025'
 miao;s16:
   abstract: "Structured Abstract\nBACKGROUNDTo understand material properties and
     functionality at the most fundamental level, one must know the three-dimensional

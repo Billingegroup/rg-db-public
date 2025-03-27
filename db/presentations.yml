@@ -5914,7 +5914,7 @@
     nanostrucuture studies and neutron diffraction and scattering.
   authors:
     - sbillinge
-  begin_date: 2025-02-14
+  begin_date: 2025-02-21
   end_date: 2025-02-22
   location: Massachusetts Institute of Technology, Boston, MA
   meeting_name: 'Bruker-AXS / MIT Symposium 2025: Non-Bragg Methods for Your In-House
@@ -5924,6 +5924,21 @@
     - all
   status: accepted
   title: 'Watching real materials in action: everything, everywhere, all at once'
+  type: invited
+2502sb_mit,pdfwshop:
+  abstract: An introduction and hands-on workshop of PDF methods
+  authors:
+    - sbillinge
+  begin_date: 2025-02-21
+  end_date: 2025-02-22
+  location: Massachusetts Institute of Technology, Boston, MA
+  meeting_name: 'Bruker-AXS / MIT Symposium 2025: Non-Bragg Methods for Your In-House
+    Source'
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Atomic pair distribution function tutorial
   type: invited
 2503sb_stockholm,sweden:
   abstract: tbd
@@ -5939,6 +5954,61 @@
   status: accepted
   title: 'Watching real materials in action: everything, everywhere, all at once'
   type: award
+2503sb_universityofcalifornia,santabarbara:
+  abstract: Total scattering and the atomic pair distribution function (PDF) has been
+    successful at elucidating local structure and atomic short-range order of materials,
+    giving novel insights into real materials including defects and local broken symmetries.
+    However, the PDF does not normally tell you whether disorder that it sees is static
+    or dynamic. Recently we have been thinking of ways to extend total scattering
+    to reveal the time dependence of local structure. I will talk about ultra-fast
+    stroboscopic pump-probe methods, a method called variable-shutter PDF where we
+    can use inelastic neutron scattering to systematically change the camera shutter-speed
+    of our PDF measurement, combining inelastic x-ray scattering with PDF to understand
+    structural disorder in hybrid perovskites, and finally, using machine-learning
+    inspired symmetry adapted filters to extract rotational dynamics of driven skyrmion
+    lattices. All these developments show promise for extending total scattering into
+    the time domain to help understand how atoms move in material processes, going
+    beyond knowing just where they are.
+  authors:
+    - sbillinge
+  begin_date: 2025-03-06
+  department: Department of Materials Science
+  end_date: 2025-03-06
+  institution: ucsb
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Local Structure on the move: Emerging methods to study local dynamics'
+  type: seminar
+2505sb_instituteofphysics,serbianacademyofsciences,belgrade,serbia:
+  abstract: Total scattering and the atomic pair distribution function (PDF) has been
+    successful at elucidating local structure and atomic short-range order of materials,
+    giving novel insights into real materials including defects and local broken symmetries.
+    However, the PDF does not normally tell you whether disorder that it sees is static
+    or dynamic. Recently we have been thinking of ways to extend total scattering
+    to reveal the time dependence of local structure. I will talk about recent developments
+    for studying local order and dynamics in functional amaterials, including magnetic
+    PDF and a method called variable-shutter PDF where we can use inelastic neutron
+    scattering to systematically change the camera shutter-speed of our PDF measurement,
+    combining inelastic x-ray scattering with PDF to understand structural disorder
+    in hybrid perovskites. Finally, I will mention efforts to use machine-learning
+    inspired symmetry adapted filters to extract rotational dynamics of driven skyrmion
+    lattices. All these developments show promise for finding local orders and even
+    giving information on dynamics of the local order to help understand how atoms
+    move in material processes, going beyond knowing just where they are.
+  authors:
+    - sbillinge
+  begin_date: 2025-05-17
+  end_date: 2025-05-24
+  location: Institute of Physics, Serbian Academy of Sciences, Belgrade, Serbia
+  meeting_name: Advances in Solid State Physics and New Materials Symposium
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Tracking local order and dynamics in functional materials
+  type: invited
 2506sb_ohrid,northmacedonia:
   abstract: At the heart of materials science studies for next generation materials
     is an idea that we want to be studying real materials doing real things, often
@@ -6021,4 +6091,31 @@
     - all
   status: accepted
   title: '{AI/ML} in crystallography: what can it do for us, what can we do with it?'
+  type: plenary
+2510sb_fortaleza,brazil:
+  abstract: Local structure is at the heart of materials science studies for materials
+    for next generation devices.  In practice, this presents a number of key data
+    analysis and interpretation challenges because it implies we are studying ever
+    more complicated samples, often in complex heterogeneous environments and in time-resolved
+    operando setups, and we are interrogating our data for more and more subtle effects
+    such as microstructures and evolving defects and local structures. Of particular
+    interest is the study of nanomaterials and materials structure on different length-scales.  In
+    this talk I will describe the frontier for studying such systems using x-ray,
+    neutron and electron diffraction. Various developments that leverage the latest
+    data acquisition and analysis techniques are powered by artificial intelligence
+    (AI) and machine learning (ML).  I will describe our attempts to push these boundaries
+    forward by developing these emerging tools in the application to local structure
+    studies.
+  authors:
+    - sbillinge
+  begin_date: 2025-10-11
+  end_date: 2025-10-14
+  location: Fortaleza, Brazil
+  meeting_name: First Latin American Powder Diffraction Conference (LAPDiC)
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Frontiers of local structure determination and prospects for AI to extend
+    them
   type: plenary
