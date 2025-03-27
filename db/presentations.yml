@@ -5981,6 +5981,34 @@
   status: accepted
   title: 'Local Structure on the move: Emerging methods to study local dynamics'
   type: seminar
+2505sb_instituteofphysics,serbianacademyofsciences,belgrade,serbia:
+  abstract: Total scattering and the atomic pair distribution function (PDF) has been
+    successful at elucidating local structure and atomic short-range order of materials,
+    giving novel insights into real materials including defects and local broken symmetries.
+    However, the PDF does not normally tell you whether disorder that it sees is static
+    or dynamic. Recently we have been thinking of ways to extend total scattering
+    to reveal the time dependence of local structure. I will talk about recent developments
+    for studying local order and dynamics in functional amaterials, including magnetic
+    PDF and a method called variable-shutter PDF where we can use inelastic neutron
+    scattering to systematically change the camera shutter-speed of our PDF measurement,
+    combining inelastic x-ray scattering with PDF to understand structural disorder
+    in hybrid perovskites. Finally, I will mention efforts to use machine-learning
+    inspired symmetry adapted filters to extract rotational dynamics of driven skyrmion
+    lattices. All these developments show promise for finding local orders and even
+    giving information on dynamics of the local order to help understand how atoms
+    move in material processes, going beyond knowing just where they are.
+  authors:
+    - sbillinge
+  begin_date: 2025-05-17
+  end_date: 2025-05-24
+  location: Institute of Physics, Serbian Academy of Sciences, Belgrade, Serbia
+  meeting_name: Advances in Solid State Physics and New Materials Symposium
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Tracking local order and dynamics in functional materials
+  type: invited
 2506sb_ohrid,northmacedonia:
   abstract: At the heart of materials science studies for next generation materials
     is an idea that we want to be studying real materials doing real things, often
