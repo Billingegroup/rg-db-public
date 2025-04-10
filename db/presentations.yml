@@ -4913,7 +4913,7 @@
   type: invited
   webinar: true
 2308sb_sanfrancisco:
-  abstract: ' Hard x-rays tend to make experiments easy.  They are penetrating allowing
+  abstract: " Hard x-rays tend to make experiments easy.  They are penetrating allowing
     in situ, operando and spatially resolved measurements.  Large regions of reciprocal
     space can be covered rapidly opening the door to high real-space resolution total
     scattering measurements.  Absorption is lower making corrections easier, and resulting
@@ -4924,19 +4924,19 @@
     by wonderful source and detector developments, present major challenges on the
     data analysis side.  Now we are putting heterogeneous devices in the beam and
     getting signals from different parts of them.  We have bad powder averages (spotty
-    data) because we can''t spin the battery, and single crystal spots coming from
+    data) because we can't spin the battery, and single crystal spots coming from
     some component in the setup that happens to be in the way of the beam.  We have
     unknown and unexpected phases coming and going, and want to extract tiny signals
     from large backgrounds. I will take this opportunity to discuss some of the data
     analysis, algorithmic and computational developments that are helping us to overcome
-    these challenging situations and not only recovering from "bad data", but also
+    these challenging situations and not only recovering from \"bad data\", but also
     turning bad data into good data.  Spotty powder patterns have more information
     in them than smooth powder rings.  Normally, data that contain more information
-    would be thought as "better" than data with less, but it is considered bad because
-    we don''t have great ways to extract that information.  I will describe some new
+    would be thought as \"better\" than data with less, but it is considered bad because
+    we don't have great ways to extract that information.  I will describe some new
     approaches, algorithmic, statistical, machine learning and otherwise, that are
     helping us move the goalposts in this domain, which can open up new opportunities
-    for studying complex heterogeneous samples with hard x-rays.'
+    for studying complex heterogeneous samples with hard x-rays."
   authors:
     - sbillinge
   begin_date: 2023-08-13

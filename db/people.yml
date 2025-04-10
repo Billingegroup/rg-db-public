@@ -4068,7 +4068,8 @@ rgu:
       group: bg
       organization: Columbia University
   github_id: guran1214
-  google_scholar_url: https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F7z7xLHLAfG-0KjERWe7zeuQgGtwaYiHFOad01S66fU1UZDsC9gMhfU2okIFbtvgeXHRtYu6igeFqbLBqKw12J1zF2K3g&user=3MveL9IAAAAJ
+  google_scholar_url: 
+    https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F7z7xLHLAfG-0KjERWe7zeuQgGtwaYiHFOad01S66fU1UZDsC9gMhfU2okIFbtvgeXHRtYu6igeFqbLBqKw12J1zF2K3g&user=3MveL9IAAAAJ
   grp_mtg_active: false
   name: Ran Gu
   orcid_id: 0000-0002-4416-5021
@@ -4243,7 +4244,8 @@ rzyu:
 sandrello:
   active: true
   aka: []
-  avatar: https://media.licdn.com/dms/image/D4E03AQFXa02w443ZCg/profile-displayphoto-shrink_200_200/0/1667414532631?e=1695254400&v=beta&t=o2XvkKEklVgkrx646E2f8PGkxGHjU2r7CfTjkJ1He0Q
+  avatar: 
+    https://media.licdn.com/dms/image/D4E03AQFXa02w443ZCg/profile-displayphoto-shrink_200_200/0/1667414532631?e=1695254400&v=beta&t=o2XvkKEklVgkrx646E2f8PGkxGHjU2r7CfTjkJ1He0Q
   bio: Rising Junior at Columbia University studying Applied Physics with a minor
     in CS. Interests in all types of computational physics.
   education:
@@ -4708,7 +4710,8 @@ sbillinge:
       date: 2023-03-17
       publication: Materialstoday
       text: ''
-      url: https://www.materialstoday.com/energy/news/fast-camera-shutter-shows-how-materials-move-heat/
+      url: 
+        https://www.materialstoday.com/energy/news/fast-camera-shutter-shows-how-materials-move-heat/
       grant: dmref19
   research_focus_areas:
     - description: Solving the nanostructure inverse problem (finding the location
@@ -6553,8 +6556,8 @@ zmxu:
   aka:
     - Zhi Ming Xu
   avatar: https://github.com/zmx27.png
-  bio: Zhi Ming is an undergraduate student studying computer engineering
-    in Columbia's School of Engineering and Applied Sciences. He joined the
+  bio: Zhi Ming is an undergraduate student studying computer engineering 
+    in Columbia's School of Engineering and Applied Sciences. He joined the 
     Billinge Group starting in spring 2025 as a way to deepen his passion
     for applying computational tools to real-world scientific problems.
     He is excited to contribute to projects at the intersection of engineering
