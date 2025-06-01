@@ -9191,23 +9191,24 @@ nakam;jmchema17:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/nakam_jmca17.pdf
   year: '2017'
-nanarong;npj24:
+nanarong;npj25:
   ackno: This work was funded by Toyota Research Institute, grant number PO-002332.
   author:
     - Tanaporn Na Narong
     - Zoe N. Zachko
     - Steven B. Torrisi
     - Simon J. L. Billinge
-  doi: 10.48550/arXiv.2410.17467
+  doi: 10.1038/s41524-025-01589-3
   entrytype: article
   facility: ''
   grant: tri22
-  journal: arXiv
-  month: ''
+  journal: npj Computational Materials
+  month: Apr
   nb: ''
-  note: arXiv:2410.17467
+  note: ''
   notes: ''
-  number: ''
+  volume: '11'
+  number: '98'
   optannote: ''
   optnote: ''
   optwwwlanl: ''
@@ -9226,9 +9227,8 @@ nanarong;npj24:
   title: 'Use of machine learning in experiment design for multi-modal analysis of
     materials: x-ray absorption near-edge spectra (XANES) and pair distribution functions
     (PDF)'
-  url: https://doi.org/10.48550/arXiv.2410.17467
-  volume: ''
-  year: '2024'
+  url: https://doi.org/10.1038/s41524-025-01589-3
+  year: '2025'
 nguye;pnas19:
   author:
     - Andy I. Nguyen
