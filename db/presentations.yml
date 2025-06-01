@@ -5940,13 +5940,13 @@
   status: accepted
   title: Atomic pair distribution function tutorial
   type: invited
-2503sb_stockholm,sweden:
+2503sb_lund,sweden:
   abstract: tbd
   authors:
     - sbillinge
   begin_date: 2025-03-02
   end_date: 2025-03-02
-  location: Stockholm, Sweden
+  location: Lund, Sweden
   meeting_name: Gregori Aminoff prize presentation 2025
   notes: []
   project:
@@ -5954,7 +5954,7 @@
   status: accepted
   title: 'Watching real materials in action: everything, everywhere, all at once'
   type: award
-2503sb_universityofcalifornia,santabarbara:
+2503sb_ucsb:
   abstract: Total scattering and the atomic pair distribution function (PDF) has been
     successful at elucidating local structure and atomic short-range order of materials,
     giving novel insights into real materials including defects and local broken symmetries.
@@ -5976,12 +5976,44 @@
   end_date: 2025-03-06
   institution: ucsb
   notes: []
+  presenter: sbillinge
   project:
     - all
   status: accepted
+  talk_id: 50-local-structure-on-the-move
   title: 'Local Structure on the move: Emerging methods to study local dynamics'
   type: seminar
-2505sb_instituteofphysics,serbianacademyofsciences,belgrade,serbia:
+2504sb_seattle,wa:
+  abstract: At the heart of materials science studies for next-generation materials
+    is an idea that we want to be studying real materials doing real things, often
+    in real devices.  In practice, this presents a number of key data analysis and
+    interpretation challenges because it implies we are studying ever more complicated
+    samples, often in complex heterogeneous environments and in time-resolved operando
+    setups, and we are interrogating our data for more and more subtle effects such
+    as microstructures and evolving defects and local structures. Advanced data analysis
+    algorithms and software are essential for the success of this enterprise.  Of
+    particular interest is the study of nanomaterials and materials structure on different
+    length scales.  In this talk I will describe various developments that leverage
+    latest data acquisition and analysis techniques, sometimes powered by artificial
+    intelligence (AI) and machine learning (ML), that reveal how materials behave
+    on different length-scales and sometimes also time scales.  The materials studied
+    include materials for sustainable energy, environmental remediation, and cultural
+    heritage studies, and techniques range from spatially resolved x-ray and electron
+    nanostrucuture studies and neutron diffraction and scattering.
+  authors:
+    - sbillinge
+  begin_date: 2025-04-09
+  end_date: 2025-04-09
+  location: Seattle, WA
+  meeting_name: Materials Research Society Spring Meeting Prize Symposium
+  notes: []
+  project:
+    - all
+  status: accepted
+  talk_id: real_materials_in_action_50
+  title: 'Watching Real Materials in Action: Everything, Everywhere, All at Once'
+  type: award
+2505sb_iopbelgrade:
   abstract: Total scattering and the atomic pair distribution function (PDF) has been
     successful at elucidating local structure and atomic short-range order of materials,
     giving novel insights into real materials including defects and local broken symmetries.
@@ -6004,9 +6036,11 @@
   location: Institute of Physics, Serbian Academy of Sciences, Belgrade, Serbia
   meeting_name: Advances in Solid State Physics and New Materials Symposium
   notes: []
+  presenter: sbillinge
   project:
     - all
   status: accepted
+  talk_id: 30-local-structure-on-the-move
   title: Tracking local order and dynamics in functional materials
   type: invited
 2506sb_ohrid,northmacedonia:
@@ -6033,23 +6067,32 @@
   location: Ohrid, North Macedonia
   meeting_name: 10th European Crystallography School, ESC10
   notes: []
+  presenter: sbillinge
   project:
     - all
-  status: accepted
+  status: declined
+  talk_id: tbd
   title: 'Real Materials in Action: studying structure on different length and time-scales'
   type: invited
 2507sb_lombard,illinois:
-  abstract: 'The 2025 Transactions Symposium, titled The Evolving Landscape of Structural
-    Science: AI and Multi-Method Approaches, focuses on showcasing the growth in the
-    diversity of structural methods such as AI, Cryo-EM, micro-ED, XFELS, as well
-    as advances in chemical and macromolecular crystallography, materials science,
-    X-ray scattering and multi-method approaches. The full session description is
-    appended to the bottom of this email. Transactions Symposium talks will be 20-30
-    minutes. With the broad range of topics being discussed we are asking speakers
-    to direct their presentation to a more general audience. In addition, the Transactions
-    Symposium is considered the premier session at the ACA meeting and speakers are
-    asked to publish their presentations as proceedings in Structural Dynamics, a
-    joint AIP-ACA journal. This writeup will be due in late 2025.'
+  abstract: At the heart of powder diffraction is the idea that we are studying real
+    materials doing real things, often in real devices.  It is now possible to solve
+    single crystal structures from tiny crystals that are smaller than powder grains
+    so if powder diffraction was just for solving structures, we wouldn't need powder
+    diffraction any more.  But the field is as strong as ever, and if anything, getting
+    stronger and more impactful, exactly because it is solving scientific and technological
+    problems in real situations.  However, this presents a number of key data analysis
+    and interpretation challenges because it implies we are studying ever more complicated
+    samples, often in complex heterogeneous devices and in time-resolved operando
+    setups, and we are interrogating our data for more and more subtle effects such
+    as microstructures and evolving defects and local structures.  Advanced data analysis
+    algorithms and software are essential for the success of this enterprise.  In
+    this talk I will describe various developments that leverage the power of artificial
+    intelligence (AI), principally machine learning (ML), to aid in this task.  Some
+    of these powerful tools are clearly ready to be applied more broadly in the community
+    and others are still in the future but look very promising.  They include unsupervised
+    and supervised machine learning approaches, conventional ML and deep neural networks,
+    as well as approaches for autonomous time-resolved experimentation.
   authors:
     - sbillinge
   begin_date: 2025-07-18
@@ -6058,10 +6101,54 @@
   meeting_name: Transactions Symposium at the 75th American Crystallographic Association
     Annual Meeting
   notes: []
+  presenter: sbillinge
   project:
     - all
   status: accepted
-  title: tbd
+  talk_id: tbd
+  title: '{AI} at your service: AI tools for solving crystallographic problems'
+  type: invited
+2507sb_rockville,md:
+  abstract: For 100 years, since the development of x-ray crystallography, we have
+    been able to study atomic structure.  This knowledge is the foundation for much
+    of our understanding of material properties.  Despite these successes, challenges
+    remain. I will describe some advances in AI/ML that are helping us take a completely
+    new look at solving structure. As well as helping us solve conventional unsolved
+    problems, these new methods are helping us to think about structure in new ways,
+    causing us to ponder questions whose answers seemed hitherto obvious, such as
+    "what is the structure of this material?", "when do two materials have the same
+    structure and when do they have a different structure?", and "when is a defect a
+    defect?".  Many of these questions don't have good answers, but
+    defining the problem is often a first step. In many cases, the problem is the
+    problem, not the solution.
+  authors:
+    - sbillinge
+  begin_date: 2025-07-09
+  end_date: 2025-07-10
+  location: Rockville, MD
+  meeting_name: Artificial Intelligence for Materials Science (AIMS) Workshop
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Revisiting material structure in the time of AI
+  type: invited
+2507sb_spetsesislandingreece:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2025-06-21
+  end_date: 2025-06-28
+  location: Spetses Island in Greece
+  meeting_name: Joint USA-European Symposium on Machine learning, simulations and
+    experiments for ultra low-power materials and devices
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: declined
+  talk_id: tbd
+  title: na
   type: invited
 2508sb_posnan,poland:
   abstract: At the heart of materials science studies for next generation materials
@@ -6087,9 +6174,11 @@
   location: Posnan, Poland
   meeting_name: 35th Europan Crystallographic Meeting
   notes: []
+  presenter: sbillinge
   project:
     - all
   status: accepted
+  talk_id: tbd
   title: '{AI/ML} in crystallography: what can it do for us, what can we do with it?'
   type: plenary
 2510sb_fortaleza,brazil:
@@ -6113,9 +6202,28 @@
   location: Fortaleza, Brazil
   meeting_name: First Latin American Powder Diffraction Conference (LAPDiC)
   notes: []
+  presenter: sbillinge
   project:
     - all
   status: accepted
+  talk_id: tbd
+  title: Frontiers of local structure determination and prospects for AI to extend
+    them
+  type: plenary
+zzzslide-builder:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2025-10-11
+  end_date: 2025-10-14
+  location: Nowhere
+  meeting_name: Vacation
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: zzzslide-builder
   title: Frontiers of local structure determination and prospects for AI to extend
     them
   type: plenary

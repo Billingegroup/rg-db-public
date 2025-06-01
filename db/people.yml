@@ -1133,6 +1133,26 @@ cyshi:
   google_scholar_url: https://scholar.google.com/citations?user=W32kTkEAAAAJ
   name: Chenyang Shi
   position: scientist
+dabeykoon:
+  active: true
+  aka: []
+  avatar: https://github.com/dabeycorn.png
+  bio: bio
+  education: []
+  email: dasun20202020@gmail.com
+  employment:
+    - begin_date: 2025-05-23
+      end_date: 2025-08-31
+      organization: columbiau
+      position: intern
+      group: bg
+      advisor: sbillinge
+      status: visitor-unsupported
+  github_id: dabeycorn
+  grp_mtg_active: true
+  name: Dasun Abeykoon
+  orcid_id: 0009-0003-4681-777X
+  position: intern
 dbkim:
   active: false
   aka:
@@ -4363,8 +4383,8 @@ sbillinge:
     - sbillinge
     - Simon John Laird Billinge
   avatar: https://github.com/sbillinge.png
-  bio: "Prof. Billinge has more than 25 years of experience developing and  applying
-    techniques to study local structure in materials using x-ray,  neutron and electron
+  bio: "Prof. Billinge has more than 25 years of experience developing and applying
+    techniques to study local structure in materials using x-ray, neutron and electron
     diffraction including the development of novel data analysis methods including
     graph theoretic, artificial intelligence and machine learning approaches. He earned
     his Ph.D in Materials Science and Engineering from University of Pennsylvania
@@ -4374,12 +4394,11 @@ sbillinge:
     of Physicist at Brookhaven National Laboratory between 2008 and 2022.\n Prof.
     Billinge has published more than 350 papers in scholarly journals. He is a fellow
     of the American Physical Society and the Neutron Scattering Society of America,
-    a former Fulbright and Sloan fellow and has earned a number of awards including
-    the 2022 Distinguished Powder Diffractionist Prize of the European Powder Diffraction
-    Conference, the 2018 Warren Award of the American Crystallographic Association
-    and being honored in 2011 for contributions to the nation as an immigrant by the
-    Carnegie Corporation of New York.  He is the 2025 laureate of the Gregori Aminoff
-    prize of the Royal Swedish Academy of Sciences. He is Section Editor of Acta Crystallographica
+    a former Fulbright and Sloan fellow and has earned a number of awards including,
+    in 2025, the Gregori Aminoff prize of the Royal Swedish Academy of sciences, and
+    the Innovation in Materials Characterization Award of the Materials Research Society.
+    He was honored in 2011 for contributions to the nation as an immigrant by the
+    Carnegie Corporation of New York.  He is Section Editor of Acta Crystallographica
     Section A: Advances and Foundations. He regularly chairs and participates in reviews
     of major facilities and federally funded programs."
   bios:
@@ -4429,9 +4448,10 @@ sbillinge:
       the European Powder Diffraction Conference, the 2018 Warren award of the American
       Crystallographic Association, the 2010 J. D. Hanawalt Award of the International
       Center for Diffraction Data, He is the 2025 laureate of the Gregori Aminoff
-      prize of the Royal Swedish Academy of Sciences. He is Section Editor of Acta
-      Crystalographica Section A: Advances and Foundations. He regularly chairs and
-      participates in reviews of major facilities and federally funded programs."
+      prize of the Royal Swedish Academy of Sciences and the 2025 Innovation in Materials
+      Characterization Award of the Materials Research Society. He is Section Editor
+      of Acta Crystalographica Section A: Advances and Foundations. He regularly chairs
+      and participates in reviews of major facilities and federally funded programs."
     - I give a brief bio about myself here. I have been carrying research in materials
       science since 1989 and been a faculty member in Physics and Applied Physics
       departments since 1994, though my training is in materials science.  I have
@@ -4535,6 +4555,15 @@ sbillinge:
   google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
   grp_mtg_active: false
   hindex:
+    - h: 91
+      h_last_five: 54
+      citations: 36398
+      citations_last_five: 15714
+      origin: Google Scholar
+      since: 1991
+      year: 2025
+      month: 4
+      day: 9
     - h: 89
       h_last_five: 52
       citations: 35679
