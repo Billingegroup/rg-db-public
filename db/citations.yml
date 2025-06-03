@@ -9207,7 +9207,6 @@ nanarong;npj25:
   nb: ''
   note: ''
   notes: ''
-  volume: '11'
   number: '98'
   optannote: ''
   optnote: ''
@@ -9228,6 +9227,7 @@ nanarong;npj25:
     materials: x-ray absorption near-edge spectra (XANES) and pair distribution functions
     (PDF)'
   url: https://doi.org/10.1038/s41524-025-01589-3
+  volume: '11'
   year: '2025'
 nguye;pnas19:
   author:
