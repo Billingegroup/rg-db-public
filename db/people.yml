@@ -6562,7 +6562,11 @@ zmxu:
     for applying computational tools to real-world scientific problems.
     He is excited to contribute to projects at the intersection of engineering
     and material science.
-  education: []
+  education:
+    - begin_year: 2024
+      degree: BS in Computer Engineering
+      institution: Columbia University
+      end_year: 2028
   email: zx2525@columbia.edu
   employment:
     - begin_date: 2025-03-03
