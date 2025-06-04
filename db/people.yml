@@ -6550,10 +6550,20 @@ zguguchia:
   position: scientist
 zmxu:
   active: true
-  aka: []
+  aka:
+    - Zhi Ming Xu
   avatar: https://github.com/zmx27.png
-  bio: bio
-  education: []
+  bio: Zhi Ming is an undergraduate student studying computer engineering
+    in Columbia's School of Engineering and Applied Sciences. He joined the
+    Billinge Group starting in summer 2025 as a way to deepen his passion
+    for applying computational tools to real-world scientific problems.
+    He is excited to contribute to projects at the intersection of engineering
+    and material science.
+  education:
+    - begin_year: 2024
+      degree: BS in Computer Engineering
+      institution: Columbia University
+      end_year: 2028
   email: zx2525@columbia.edu
   employment:
     - begin_date: 2025-03-03
