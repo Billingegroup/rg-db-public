@@ -6,7 +6,17 @@ ai-ml-to-solve-problems-in-matsci:
     this question and develop AI/ML methods for carrying out better and more innovative
     materials science research.
   group: bg
-  highlights: []
+  highlights:
+    - year: 2025
+      month: 3
+      description: Ill posed inverse problems need either more information on the
+        input side or more constraints on the output side to solve them, in principle.
+        We made significant progress on an ill-posed inverse problem of finding the
+        local environment around a transition metal ion in a complex material sucha
+        as a metal organic framework or a catalyst by combining heterogeneous input
+        signals from different methods, XANES and PDF.  We did this using tree-based
+        ML models for the first time. This appeared in npj Computational Materials
+        in April 2025.
   name: AI/ML applied to solve problems in materials science
   summary: This project aims to explore and develop AI/ML methods to solve outstanding
     problems in materials science
@@ -58,9 +68,21 @@ education_outreach:
       month: 2
       description: Curriculum development of a course in machine learning in materials
         science The course is being given for the first time in spring 2024 as MSAE4990.
-  name: Education, outreach, diversity, equity and inclusion
-  summary: Activities in the group in education, outreach as well as diversity, equity
-    and inclusion.
+    - year: 2025
+      month: 3
+      description: Won the Gregori Aminoff Prize of the Royal Swedish Academy of Sciences.
+        This is their top international prize for crystallography, considered as the
+        Nobel prize for crystallography, though by no means an actual Nobel prize.
+        The award is presented in a white-tie celebration in Stockholm. The award
+        citation is for a decisive contribution to making the pair distribution function
+        a widely useful tool for structural and materials science.  This honors technique
+        developments over my entire career. I was the sole winner.  I also received
+        this spring the The Innovation in Materials Characterization Award of the
+        Materials Research Society for For pioneering developments of pair distribution
+        function methods that have significantly broadened the use of this technique
+        and enabled transformative local structure studies of a wide range of materials.
+  name: Education and outreach
+  summary: Activities in the group in education, outreach.
   team:
     - name: sbillinge
       position: PI
@@ -75,6 +97,7 @@ gtasr:
     that come from this general structure will need to be satisfied in a broad range
     of situations.  This project explores the fundamental nature of systems and extends
     the results to a broad range of situations.
+  group: bg
   highlights: []
   name: A general theory of abstract system responses (gTASR)
   summary: This project is to develop a fundamental understanding of complex system
@@ -82,10 +105,10 @@ gtasr:
     in human life.
   team:
     - name: sbillinge
-      position: mentor
-      begin_year: 2016
+      position: PI
+      begin_year: 2022
   type: research
-  website: https://github.com/diffpy
+  website: ''
 local_symmetry_breaking:
   active: true
   description: 'Quantum materials are at the heart of emerging technologies from quantum
@@ -171,7 +194,16 @@ nanostructure_problem:
     - doeneutron23
     - efrc18
     - tri22
+  group: bg
   highlights:
+    - year: 2025
+      month: 3
+      description: We made significant progress in solving a long-standing problem,
+        the so called nanostructure inverse problem.  This problem can be stated as,
+        given a diffraction signal from a nanoparticle sample, what is the atomic
+        arrangement in the nanoparticles.  Our solution used a generative AI diffusion
+        model, a similar architecture to that used for AI generated art. This will
+        be published in Nature Materials shortly.
     - year: 2024
       month: 3
       description: 'Publication in ChemComm was selected to feature in an online collection
@@ -224,7 +256,7 @@ nanostructure_problem:
   name: The nanostructure inverse problem
   team:
     - name: sbillinge
-      position: mentor
+      position: PI
       begin_year: 2016
   type: funded
 structure-of-excited-materials:
@@ -240,7 +272,13 @@ structure-of-excited-materials:
     physical or chemical stress.  It can also be where the material is responding
     to a pulse of light from a laser
   group: bg
-  highlights: []
+  highlights:
+    - year: 2024
+      month: 5
+      description: We published the very first ultra-fast picosecond time-resolved
+        PDF in Nature Materials.  It showed the photo-excited destruction of a charge
+        density wave Peierls distortion and how the atoms on the lattice rearranged
+        in response.
   name: Structure of excited materials
   summary: This project aims to develop methods to study the structure of materials
     in their excited states.

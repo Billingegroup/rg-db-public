@@ -52,7 +52,7 @@ jobs:
       - name: Install regolith and requirements
         run: |
           cd regolith
-          conda install --file requirements/test.txt
+          conda install --file requirements/tests.txt
           conda install --file requirements/conda.txt
           pip install gooey
           python -m pip install . --no-deps

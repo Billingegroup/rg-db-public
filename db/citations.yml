@@ -1823,7 +1823,7 @@ billi;lsfd98:
   wwwemail: sb2896@columbia.edu
   wwwlanl: ''
   year: '1998'
-billi;m24:
+billi;m25:
   ackno: The authors thank Dr. Sanjit Ghose for help with the synchrotron experiments,
     including designing and constructing a temperature stage. I.H.B. thanks Kinnari
     M. Shah, Eliza Dach, and Sherry Zhang for useful conversations and Marshall Tekell
@@ -1873,6 +1873,89 @@ billi;m24:
     behavior behind temperature-switchable liquids
   url: https://doi.org/10.1016/j.matt.2024.09.023
   volume: '8'
+  year: '2025'
+cox;unpub25:
+  ackno: tbd
+  author:
+    - Jordan Cox
+    - Willa Mihalyi-Koch
+    - Sophie Beck
+    - Eric Seewald
+    - Asish K. Kundu
+    - Zhi-Hao Cui
+    - Till Schertenleib
+    - Chun-Ying Huang
+    - Yinming Shao
+    - Siyuan Qiu
+    - Chiara Trovatello
+    - Daniel G. Chica
+    - Xiong Huang
+    - Xiaoyu Song
+    - Michael E. Ziebel
+    - P. James Schuck
+    - David R. Reichman
+    - Xiaoyang Zhu
+    - S. J. L. Billinge
+    - Dmitri N. Basov
+    - Abhay N. Pasupathy
+    - Xavier Roy
+  doi: ''
+  entrytype: article
+  facility: esrf, bm31
+  grant: doeneutron23
+  journal: tbd
+  month: tbd
+  nb: ''
+  number: ''
+  optnote: Submitted
+  pages: ''
+  professional_summary: ''
+  synopsis: The interesting materials system WO2X2 is described and
+    characterized for the first time
+  tags: 2d-materials, wo2x2, vdw-material
+  title: Chemical control of symmetry and bandgap in a van der waals
+    semiconductor
+  url: ''
+  volume: ''
+  year: '2025'
+lee;sa25:
+  ackno: We thank the NSLS-II scientific-python-cookiecutter project for
+    providing the starting point for our development. We are also grateful
+    to the conda-forge volunteers for their support of the open source
+    community. We thank the cookiecutter project for providing a framework
+    to scaffold new projects. We thank All the Billinge-group contributors
+    to our code base, but especially Pavol Juhas and Chris Farrow for their
+    earlier development of software in the Billinge group, which provided
+    the basis for implementing and testing scikit-package, including the
+    diffpy. namespace structure. We also thank Yuchen Xiao for the
+    development of user-configurable defaults, Yucong Chen, Tina Na Narong,
+    and Sam Andrello for their constructive feedback, which helped improve
+    scikit-package and its documentation. Work in the Billinge Group was
+    supported by the U.S. Department of Energy, Office of Science, Office
+    of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0024141.
+  author:
+    - Sangjoon Lee
+    - Caden Myers
+    - Andrew Yang
+    - Tieqiong Zhang
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: doeneutron23
+  journal: Science Advances
+  month: Jul
+  nb: ''
+  number: ''
+  note: 'ArXiv:2507.03328v2'
+  pages: ''
+  professional_summary: ''
+  synopsis: The
+  tags: software, packaging, distribution
+  title: scikit-package - software packaging standards and roadmap
+    for sharing reproducible scientific software
+  url: ''
+  volume: ''
   year: '2025'
 billi;mrssp99:
   author:
@@ -5874,19 +5957,29 @@ guguc;sa18:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/
   year: '2018'
 guo;nm24:
-  ackno: ''
+  ackno: We thank J. Goldfeder for helpful discussions regarding the viability of
+    a diffusion-based approach. We thank E. Bondick and H. Lin for their assistance
+    in the preliminary materials visualization. Work in H.L.’s group was supported
+    by the US National Science Foundation under the AI Institute for Dynamical Systems
+    (grant no. 2112085). Work in S.J.L.B.’s group was supported by the US Department
+    of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES), under
+    contract no. DE-SC0024141. This material is based upon work supported by the US
+    Department of Energy, Office of Science, Office of Advanced Scientific Computing
+    Research, Department of Energy Computational Science Graduate Fellowship, under
+    award no. DE-SC0025528 to G.G. This work was supported in part by grant SF-159
+    from the Columbia Data Science Institute.
   author:
     - Gabe Guo
     - Tristan Luca Saidi
     - Maxwell W. Terban
     - Simon J. L. Billinge
     - Hod Lipson
-  doi: ''
+  doi: 10.1038/s41563-025-02220-y
   entrytype: article
   facility: ''
   grant: doeneutron23
-  journal: arXiv
-  month: jun
+  journal: Nature Materials
+  month: Apr
   nb: ''
   number: ''
   optnote: to be published.  Available on arXiv
@@ -5896,9 +5989,9 @@ guo;nm24:
   tags: structure_solution, powder_diffraction, ml, modeling
   title: Diffusion models are promising for ab initio structure solutions from nanocrystalline
     powder diffraction data
-  url: https://arxiv.org/abs/2406.10796
+  url: https://doi.org/10.1038/s41563-025-02220-y
   volume: ''
-  year: '2024'
+  year: '2025'
 guo;npjcm24:
   ackno: Work in the Lipson group was supported by U.S. National Science Foundation
     under AI Institute for Dynamical Systems grant 372 2112085. Work in the Billinge
@@ -8508,6 +8601,12 @@ llan;sbm;prm24:
   optannote: ''
   optwwwlanl: ''
   pages: ''
+  professional_summary: A continuous measure of symmetry breaking was developed. It
+    measures the degree to which a particular symmetry is broken by a structural distortion.
+    Traditionally, a symmetry is either present or absent. However, practically, when
+    a structure distorts, some symmetries may be slightly broken and others more severely.  Material
+    properties may depend only on symmetries that are strongly broken.  This measure
+    allows the degree of symmetry breaking of each symmetry element to be quantified.
   synopsis: Introduce a continuous symmetry breaking measure based on Jensen-Shannon
     divergence
   tags: symmetry_breaking
@@ -8820,23 +8919,24 @@ mfeuer;am25:
   ackno: This work was primarily supported by the NSF through the Columbia University
     Materials Research Science and Engineering Center (MRSEC) on Precision-Assembled
     Quantum Materials DMR-2011738. Magnetic measurements were supported as part of
-    Programmable Quantum Materials, an Energy Frontier Research Center funded by the DOE,
-    Office of Science, Basic Energy Sciences (Award DE-SC0019443). Scanning tunneling
+    Programmable Quantum Materials, an Energy Frontier Research Center funded by the
+    DOE, Office of Science, Basic Energy Sciences (Award DE-SC0019443). Scanning tunneling
     microscopy measurements were supported in part by the US Air Force Office of Scientific
-    Research (AFOSR) under award number FA9550-22-1-0389. This research used resources of the
-    Condensed Matter and Materials Science Division and of beamline 28-ID-1 of the National
-    Synchrotron Light Source II, a U.S. Department of Energy (DOE) Office of Science User
-    Facility operated for the DOE Office of Science by Brookhaven National Laboratory under
-    Contract No. DE-SC0012704. PDF analysis in the Billinge group was supported by U.S.
-    Department of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under
-    contract No. DE-SC0024141. We thank Maya Nair for her help with the XPS run at Advanced
-    Science Research Center of City University of New York. We thank Louise Bolge for her help
-    with ICP-MS. M.L.F. is supported by the NSF Graduate Research Fellowship Program (DGE-
-    2036197). The PPMS used to perform magnetic susceptibility measurements was purchased with
-    financial support from the NSF through a supplement to award DMR-1751949. The Columbia
-    University Shared Materials Characterization Laboratory (SMCL) was used extensively for this
-    research. The authors are grateful to Columbia University for the support of this facility. The
-    Flatiron Institute is a division of the Simons foundation.
+    Research (AFOSR) under award number FA9550-22-1-0389. This research used resources
+    of the Condensed Matter and Materials Science Division and of beamline 28-ID-1
+    of the National Synchrotron Light Source II, a U.S. Department of Energy (DOE)
+    Office of Science User Facility operated for the DOE Office of Science by Brookhaven
+    National Laboratory under Contract No. DE-SC0012704. PDF analysis in the Billinge
+    group was supported by U.S. Department of Energy, Office of Science, Office of
+    Basic Energy Sciences (DOE-BES) under contract No. DE-SC0024141. We thank Maya
+    Nair for her help with the XPS run at Advanced Science Research Center of City
+    University of New York. We thank Louise Bolge for her help with ICP-MS. M.L.F.
+    is supported by the NSF Graduate Research Fellowship Program (DGE- 2036197). The
+    PPMS used to perform magnetic susceptibility measurements was purchased with financial
+    support from the NSF through a supplement to award DMR-1751949. The Columbia University
+    Shared Materials Characterization Laboratory (SMCL) was used extensively for this
+    research. The authors are grateful to Columbia University for the support of this
+    facility. The Flatiron Institute is a division of the Simons foundation.
   author:
     - Margalit L. Feuer
     - Morgan Thinel
@@ -9196,7 +9296,6 @@ nanarong;npj25:
   nb: ''
   note: ''
   notes: ''
-  volume: '11'
   number: '98'
   optannote: ''
   optnote: ''
@@ -9217,6 +9316,7 @@ nanarong;npj25:
     materials: x-ray absorption near-edge spectra (XANES) and pair distribution functions
     (PDF)'
   url: https://doi.org/10.1038/s41524-025-01589-3
+  volume: '11'
   year: '2025'
 nguye;pnas19:
   author:
@@ -10094,12 +10194,12 @@ pokra;unpub24:
     - Maryame Bina
     - Simon Billinge
     - Jonathan De Roo
-  doi: 10.26434/chemrxiv-2024-9cvv0
+  doi: 10.1107/S1600576725001761
   entrytype: article
-  facility: ''
+  facility: aps, 11idb
   grant: doeneutron23
-  journal: ChemRxiv
-  month: mar
+  journal: J. Appl. Crystallogr.
+  month: apr
   nb: ''
   number: ''
   optnote: Submitted
@@ -10109,9 +10209,9 @@ pokra;unpub24:
   tags: ''
   title: 'Local orthorhombic phase in zirconium oxide nanocrystals: insights from
     x-ray pair distribution function analysis'
-  url: https://chemrxiv.org/engage/chemrxiv/article-details/660481aae9ebbb4db9b5dfe9
-  volume: ''
-  year: '2024'
+  url: https://doi.org/10.1107/S1600576725001761
+  volume: '58'
+  year: '2025'
 pouch;b;hobdamlitps20:
   ackno: tbd
   address: Singapore
@@ -10141,6 +10241,35 @@ pouch;b;hobdamlitps20:
   volume: ''
   wwwemail: ''
   year: '2020'
+powel;jcis23:
+  ackno: ''
+  author:
+    - Joshua A. Powell
+    - Maxwell W. Terban
+    - Jiaqi Zhang
+    - Songsheng Tao
+    - Simon J. L. Billinge
+    - Hong-Cai Zhou
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: doeneutron23, dmref19
+  journal: ACS Appl. Mater. Interfaces
+  month: tbd
+  nb: ''
+  note: submitted
+  number: ''
+  optannote: ''
+  optwwwlanl: ''
+  pages: ''
+  synopsis: ''
+  tags: mof, zro2, nanoparticle
+  title: Structural templation of MOF-derived zirconia nanoparticles
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2025'
 prill;aca16:
   author:
     - Prill, Dragica
@@ -11168,40 +11297,7 @@ scard;aca16:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/me0628.pdf
   year: '2016'
-scher;jac24:
-  ackno: ''
-  author:
-    - Till Schertenleib
-    - Daniel Schmuckler
-    - Yucong Chen
-    - Geng Bang Jin
-    - Simon~J.~L. Billinge
-  doi: ''
-  entrytype: article
-  facility: nslsii, pdf
-  grant: 3m21
-  journal: arXiv
-  month: tbd
-  nb: ''
-  note: 2406.18177
-  number: ''
-  pages: ''
-  professional_summary: Increasingly, there is demand to use laboratory based diffractometers
-    to collect x-ray diffraction data suitable for PDF analysis.  In this paper we
-    explore different protocols for acquiring data, and explore whether it is necessary
-    to carry out an absorption correction when using a Mo Lab source together with
-    the PDFgetX3 data reduction protocols.  The lab-data derived PDFs were compared
-    to those obtained from the same materials but using the commonly used synchrotron
-    Rapid Acquisition PDF approach.
-  synopsis: Protocols for data acquisition and analysis are compared on test samples
-    of amorphous and crystalline silica. Optimal protocols are proposed.
-  tags: data_analysis, lab_data, absorption_corretion
-  title: Protocols for obtaining reliable PDFs from Laboratory x-ray sources using
-    {PDFgetX3}
-  url: https://arxiv.org/abs/2406.18177
-  volume: ''
-  year: '2024'
-scher;sub24:
+scher;c25:
   ackno: 'Work in Prof. Wendy Queen’s group was funded by the Swiss National Science
     Foundation under grant number 200021 188536. The authors thank Carlotta Seno for
     her helpful input in analyzing the atomic pair distribution functions of Zr-oxo
@@ -11237,23 +11333,68 @@ scher;sub24:
     - Stefan Kaskel
     - Simon J. L. Billinge
     - Wendy L. Queen
-  doi: ''
+  doi: 10.1016/j.chempr.2025.102619
   entrytype: article
   facility: nslsii, pdf
   grant: doeneutron23
-  journal: Nature Catalysis
-  month: tbd
-  nb: ''
-  note: submitted
-  number: ''
-  pages: ''
-  professional_summary: ''
-  synopsis: ''
+  journal: Chem
+  month: Nov
+  note: ''
+  pages: '102619'
+  professional_summary: A new approach is introduced to defect engineering in Zr-based
+    metal-organic frameworks (Zr-MOFs), aiming to reduce Zr site valency while preserving
+    high node connectivity. Using a rapid heat treatment (RHT) in humid air, oxygen
+    vacancies (O-vacancies) were created in Dresden University of Technology (DUT)-67
+    through cluster dehydration. Unlike conventional defect engineering, aimed at
+    creating missing-linker defects, this method breaks intra-cluster Zr-μ3O–Zr bonds,
+    generating coordinatively unsaturated Zr (Zrcus) sites. Pair distribution function
+    (PDF) analysis, X-ray absorption spectroscopy (XAS), and density functional theory
+    (DFT) calculations reveal that the O-vacancies lead to symmetry breaking, irreversible
+    node distortions, and framework amorphization. This treatment converts 50% of
+    metal sites to Zrcus sites, nearly doubling the catalytic activity of DUT-67 in
+    glyoxal conversion to glycolic acid. DFT modeling and in situ PDF analysis highlight
+    the dynamic behavior of Zr clusters under reaction conditions, suggesting a new
+    avenue for defect engineering in Zr-MOFs to enhance catalytic performance.
+  synopsis: PDF is able to see distortions to the metal clusters that form the nodes
+    of an important catalytic MOF and relate that to the catalytic properties
   title: 'Anisotropic node distortions in amorphous {MOF}s: low valent {Zr} sites
     as catalytic hotspots'
-  url: ''
+  url: https://doi.org/10.1016/j.chempr.2025.102619
+  volume: '11'
+  year: '2025'
+scher;cm25:
+  ackno: ''
+  author:
+    - Till Schertenleib
+    - Daniel Schmuckler
+    - Yucong Chen
+    - Geng~Bang Jin
+    - Simon~J.~L. Billinge
+  doi: 10.1002/cmtd.202500001
+  entrytype: article
+  facility: nslsii, pdf
+  grant: 3m21
+  journal: Chemistry - Methods
+  month: May
+  nb: ''
+  number: ''
+  optnote: 2406.18177
+  pages: ''
+  professional_summary: Increasingly, there is demand to use laboratory based diffractometers
+    to collect x-ray diffraction data suitable for PDF analysis.  In this paper we
+    explore different protocols for acquiring data, and explore whether it is necessary
+    to carry out an absorption correction when using a Mo Lab source together with
+    the PDFgetX3 data reduction protocols.  The lab-data derived PDFs were compared
+    to those obtained from the same materials but using the commonly used synchrotron
+    Rapid Acquisition PDF approach.
+  synopsis: Protocols for data acquisition and analysis are compared on test samples
+    of amorphous and crystalline silica. Optimal protocols are proposed.
+  tags: data_analysis, lab_data, absorption_corretion
+  title: Testing protocols for obtaining reliable pair distribution functions from
+    laboratory x‐Ray sources using {PDFgetX3}
+  url: https://doi.org/10.1002/cmtd.202500001
   volume: ''
-  year: '2024'
+  year: '2025'
 scher;unpub24:
   ackno: Work in the Billinge group was supported by a grant from 3M Corporate Research
     Analytical Laboratory. Synchrotron x-ray PDF measurements were conducted on beamline
@@ -12720,6 +12861,7 @@ toby;aca04:
   author:
     - Toby, B. H.
     - Billinge, S. J. L.
+  doi: 10.1107/S0108767304011754
   entrytype: article
   facility: ' '
   grant: ' doe97 '
