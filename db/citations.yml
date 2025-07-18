@@ -1823,7 +1823,7 @@ billi;lsfd98:
   wwwemail: sb2896@columbia.edu
   wwwlanl: ''
   year: '1998'
-billi;m24:
+billi;m25:
   ackno: The authors thank Dr. Sanjit Ghose for help with the synchrotron experiments,
     including designing and constructing a temperature stage. I.H.B. thanks Kinnari
     M. Shah, Eliza Dach, and Sherry Zhang for useful conversations and Marshall Tekell
@@ -1873,6 +1873,89 @@ billi;m24:
     behavior behind temperature-switchable liquids
   url: https://doi.org/10.1016/j.matt.2024.09.023
   volume: '8'
+  year: '2025'
+cox;unpub25:
+  ackno: tbd
+  author:
+    - Jordan Cox
+    - Willa Mihalyi-Koch
+    - Sophie Beck
+    - Eric Seewald
+    - Asish K. Kundu
+    - Zhi-Hao Cui
+    - Till Schertenleib
+    - Chun-Ying Huang
+    - Yinming Shao
+    - Siyuan Qiu
+    - Chiara Trovatello
+    - Daniel G. Chica
+    - Xiong Huang
+    - Xiaoyu Song
+    - Michael E. Ziebel
+    - P. James Schuck
+    - David R. Reichman
+    - Xiaoyang Zhu
+    - S. J. L. Billinge
+    - Dmitri N. Basov
+    - Abhay N. Pasupathy
+    - Xavier Roy
+  doi: ''
+  entrytype: article
+  facility: esrf, bm31
+  grant: doeneutron23
+  journal: tbd
+  month: tbd
+  nb: ''
+  number: ''
+  optnote: Submitted
+  pages: ''
+  professional_summary: ''
+  synopsis: The interesting materials system WO2X2 is described and
+    characterized for the first time
+  tags: 2d-materials, wo2x2, vdw-material
+  title: Chemical control of symmetry and bandgap in a van der waals
+    semiconductor
+  url: ''
+  volume: ''
+  year: '2025'
+lee;sa25:
+  ackno: We thank the NSLS-II scientific-python-cookiecutter project for
+    providing the starting point for our development. We are also grateful
+    to the conda-forge volunteers for their support of the open source
+    community. We thank the cookiecutter project for providing a framework
+    to scaffold new projects. We thank All the Billinge-group contributors
+    to our code base, but especially Pavol Juhas and Chris Farrow for their
+    earlier development of software in the Billinge group, which provided
+    the basis for implementing and testing scikit-package, including the
+    diffpy. namespace structure. We also thank Yuchen Xiao for the
+    development of user-configurable defaults, Yucong Chen, Tina Na Narong,
+    and Sam Andrello for their constructive feedback, which helped improve
+    scikit-package and its documentation. Work in the Billinge Group was
+    supported by the U.S. Department of Energy, Office of Science, Office
+    of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0024141.
+  author:
+    - Sangjoon Lee
+    - Caden Myers
+    - Andrew Yang
+    - Tieqiong Zhang
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: doeneutron23
+  journal: Science Advances
+  month: Jul
+  nb: ''
+  number: ''
+  note: 'ArXiv:2507.03328v2'
+  pages: ''
+  professional_summary: ''
+  synopsis: The
+  tags: software, packaging, distribution
+  title: scikit-package - software packaging standards and roadmap
+    for sharing reproducible scientific software
+  url: ''
+  volume: ''
   year: '2025'
 billi;mrssp99:
   author:
@@ -8518,6 +8601,12 @@ llan;sbm;prm24:
   optannote: ''
   optwwwlanl: ''
   pages: ''
+  professional_summary: A continuous measure of symmetry breaking was developed. It
+    measures the degree to which a particular symmetry is broken by a structural distortion.
+    Traditionally, a symmetry is either present or absent. However, practically, when
+    a structure distorts, some symmetries may be slightly broken and others more severely.  Material
+    properties may depend only on symmetries that are strongly broken.  This measure
+    allows the degree of symmetry breaking of each symmetry element to be quantified.
   synopsis: Introduce a continuous symmetry breaking measure based on Jensen-Shannon
     divergence
   tags: symmetry_breaking
@@ -11244,22 +11333,34 @@ scher;c25:
     - Stefan Kaskel
     - Simon J. L. Billinge
     - Wendy L. Queen
-  doi: ''
+  doi: 10.1016/j.chempr.2025.102619
   entrytype: article
   facility: nslsii, pdf
   grant: doeneutron23
   journal: Chem
-  month: tbd
-  nb: ''
-  note: to be published
-  number: ''
-  pages: ''
-  professional_summary: ''
-  synopsis: ''
+  month: Nov
+  note: ''
+  pages: '102619'
+  professional_summary: A new approach is introduced to defect engineering in Zr-based
+    metal-organic frameworks (Zr-MOFs), aiming to reduce Zr site valency while preserving
+    high node connectivity. Using a rapid heat treatment (RHT) in humid air, oxygen
+    vacancies (O-vacancies) were created in Dresden University of Technology (DUT)-67
+    through cluster dehydration. Unlike conventional defect engineering, aimed at
+    creating missing-linker defects, this method breaks intra-cluster Zr-μ3O–Zr bonds,
+    generating coordinatively unsaturated Zr (Zrcus) sites. Pair distribution function
+    (PDF) analysis, X-ray absorption spectroscopy (XAS), and density functional theory
+    (DFT) calculations reveal that the O-vacancies lead to symmetry breaking, irreversible
+    node distortions, and framework amorphization. This treatment converts 50% of
+    metal sites to Zrcus sites, nearly doubling the catalytic activity of DUT-67 in
+    glyoxal conversion to glycolic acid. DFT modeling and in situ PDF analysis highlight
+    the dynamic behavior of Zr clusters under reaction conditions, suggesting a new
+    avenue for defect engineering in Zr-MOFs to enhance catalytic performance.
+  synopsis: PDF is able to see distortions to the metal clusters that form the nodes
+    of an important catalytic MOF and relate that to the catalytic properties
   title: 'Anisotropic node distortions in amorphous {MOF}s: low valent {Zr} sites
     as catalytic hotspots'
-  url: ''
-  volume: ''
+  url: https://doi.org/10.1016/j.chempr.2025.102619
+  volume: '11'
   year: '2025'
 scher;cm25:
   ackno: ''

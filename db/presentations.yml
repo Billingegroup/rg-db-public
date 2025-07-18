@@ -4225,6 +4225,44 @@
   status: accepted
   title: Recent and future developments in {PDF}-land
   type: plenary
+2601sb_grenoble,france:
+  abstract: 'There are recently emerging powerful experimental developments related
+    to atomic pair distribution function (PDF) method and total-scattering studies.
+    At this workshop you will learn in detail about carrying out and applying PDF
+    to your own scientific research, and there will be excellent tutorial talks on
+    this. Therefore, in this talk I will focus on recent technological and methodological
+    developments, and some that are in the pipeline, that are allowing ever richer
+    science to be done.  Examples include new spatial and time resolved capabilities
+    and novel approaches to modeling. I will also talk about recent applications of
+    PDF to scientific problems enabled by the new developments.  I will also describe
+    recent and upcoming developments in PDF analysis and modeling software that are
+    under development in the group. '
+  authors:
+    - sbillinge
+  begin_date: 2026-01-11
+  end_date: 2026-01-16
+  location: Grenoble, France
+  meeting_name: School and conference on analysis of diffraction data in real space
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Recent and future developments in {PDF}-land
+  type: plenary
+2601sb_grenoble,france-tutorial:
+  abstract: ''
+  authors:
+    - sbillinge
+  begin_date: 2026-01-11
+  end_date: 2026-01-16
+  location: Grenoble, France
+  meeting_name: School and conference on analysis of diffraction data in real space
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: real-space structure analysis and Complex Modeling
+  type: tutorial
 2210sb_sanjuan,puertorico:
   abstract: na
   authors:
@@ -5690,11 +5728,13 @@
   location: Padova, Italy
   meeting_name: Eighteenth European Powder Diffraction Conference (EPDIC18) 2024
   notes: []
+  presenter: sbillinge
   project:
     - all
   status: accepted
   subtitle: '{AI} as a tool for extracting more science, more easily from powder diffraction
     data'
+  talk_id: 30-ml-at-your-service
   title: '{AI} at your service'
   type: invited
 2409sb_rpi:
@@ -6105,7 +6145,7 @@
   project:
     - all
   status: accepted
-  talk_id: tbd
+  talk_id: 30-ml-at-your-service
   title: '{AI} at your service: AI tools for solving crystallographic problems'
   type: invited
 2507sb_rockville,md:
@@ -6128,27 +6168,40 @@
   location: Rockville, MD
   meeting_name: Artificial Intelligence for Materials Science (AIMS) Workshop
   notes: []
-  project:
-    - all
-  status: accepted
-  title: Revisiting material structure in the time of AI
-  type: invited
-2507sb_spetsesislandingreece:
-  abstract: na
-  authors:
-    - sbillinge
-  begin_date: 2025-06-21
-  end_date: 2025-06-28
-  location: Spetses Island in Greece
-  meeting_name: Joint USA-European Symposium on Machine learning, simulations and
-    experiments for ultra low-power materials and devices
-  notes: []
   presenter: sbillinge
   project:
     - all
-  status: declined
-  talk_id: tbd
-  title: na
+  status: accepted
+  talk_id: 30-what-is-a-structure
+  title: Revisiting material structure in the time of AI
+  type: invited
+2508sb-ecm35-rosanna-arnt:
+  abstract: We sometimes wonder what artificial intelligence can teach us that we
+    don't already know.  Are there important life-lessons that we can glean from our
+    interactions with AI beyond a more efficient (and more error prone) web search?  In
+    my case, the answer is a firm yes, but  in a slightly surprising way.  I have
+    been a "crystallographer" (the quotes are because I like structure beyond crystals)
+    for my whole long career and for the entire time, whilst often advocating for
+    looking beyond the crystallographic description of structure, I have never questioned
+    my understanding of what a structure is.  However, when thinking about how to
+    use AI and machine learning (ML) to study structure, new questions were brought
+    into sharp focus that questioned my very understanding of what a structure is.
+    In this talk I will share this intellectual journey.  The journey is not over
+    and I hope that interaction with natural intelligence (the audience members) can
+    help to move the journey forward. I believe that there are somewhat serious and
+    interesting implications for the large and growing industry of people applying
+    ML to materials discovery.
+  authors:
+    - sbillinge
+  begin_date: 2025-08-22
+  end_date: 2025-08-30
+  location: Posnan, Poland
+  meeting_name: 35th European Crystallography Meeting (ECM 35)
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: What I learned about structure from artificial intelligence
   type: invited
 2508sb_posnan,poland:
   abstract: At the heart of materials science studies for next generation materials
@@ -6181,6 +6234,60 @@
   talk_id: tbd
   title: '{AI/ML} in crystallography: what can it do for us, what can we do with it?'
   type: plenary
+2509sb_graz,austria,webinar:
+  abstract: The properties of materials depend sensitively on the arrangements of
+    the atoms, the sc-called structure-property relation.  But what length-scale of
+    the structural order is important?  Do the properties depend on the local bonding
+    or the long-range order?  The answer to this question is somewhat complex, but
+    for many properties the local coordination of atoms is the strongest determinant.  For
+    example, biological enzymes operate within a single macromolecule to do their
+    business, and the actual chemistry takes place at a small active site within that
+    molecule.  It doesn't get much more local than that.   For >100 years we have
+    been able to find the long-range ordered structure using crystallography.  It
+    is often harder work to get the local structure directly.   However, very robust
+    experimental approaches such as the atomic pair distribution function (PDF) analysis
+    of powder and single crystal diffraction data, can give the local structure directly.  For
+    many years this was a somewhat esoteric method that was carried out almost exclusively
+    at powerful synchrotron and neutron sources around the world.  As computational
+    and experimental capabilities developed it has been possible to apply it more
+    quantitatively to a wider and wider array of scientific problems from catalysis,
+    to battery materials, thermoelectrics, quantum materials as well as cultural heritage
+    problems.  In situ and time resolved experiments are also possible now.  In the
+    coming years, a second revolution looks set to take place with the method as laboratory
+    instrument manufacturers have developed their capabilities for this class of measurement,
+    and now high quality PDFs can be obtained rapidly on the latest laboratory instruments.  In
+    this talk I will briefly introduce the method for those who are not familiar with
+    it (what), show some of the most exciting cutting edge scientific applications
+    (why) and briefly mention some of the aspects when doing this in the laboratory
+    (how).
+  authors:
+    - sbillinge
+  begin_date: 2025-09-10
+  end_date: 2025-09-10
+  location: Graz, Austria
+  meeting_name: Anton Paar Webinar Series
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Local Structure and the atomic pair distribution function (PDF): What, Why,
+    How?'
+  type: invited
+  webinar: true
+2510sb_algiers,algeria:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2025-10-25
+  end_date: 2025-10-30
+  location: Algiers, Algeria
+  meeting_name: 4th Pan-African Conference on Crystallography (PCCr4)
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: ai
+  type: plenary
 2510sb_fortaleza,brazil:
   abstract: Local structure is at the heart of materials science studies for materials
     for next generation devices.  In practice, this presents a number of key data
@@ -6210,6 +6317,66 @@
   title: Frontiers of local structure determination and prospects for AI to extend
     them
   type: plenary
+2511sb_boston,ma:
+  abstract: "We would love a black-box AI for predictive chemical synthesis.  Using
+    the language of cooking, the forward problem is: given this recipe, what dish
+    do I get? But the inverse problem that we want to solves is: given the dish that
+    I want, what recipe will give it to me?  This states the problem of predictive
+    synthesis in the language of inverse problems. In general, the way we solve inverse
+    problems is using regression.  We solve the forward problem many times in a trial-and-error
+    loop, with updates that gradually  move us towards the solution using algorithms
+    such as gradient descent, among many others.  AI and deep learning are very good
+    for this task.  You can train a complex non-linear model by showing it many (thousands
+    of) correct solutions of the forward problem and then ask it to find a solution
+    it hasn't seen before. But it requires a database of many (thousands of) correct
+    solutions.  For tasks where the forward problem is running density functional
+    theory (DFT), for example, we can generate large databases of simulated solutions
+    to train our model.  But inorganic synthesis is notoriously non-equilibrium and
+    irreversible.  We don't have a 'DFT' for the synthesis forward problem. We will
+    (likely) have to build large databases of experimental data.  In this talk, I
+    will develop these ideas, present some computational infrastructure we have been
+    developing called 'Action Graphs' that we hope can be used to tackle this task
+    and present preliminary results on fake data to test the infrastructure.  The
+    task is difficult, but solutions to this problem will be enormously impactful.\
+    \  Even the journey towards a solution is teaching us things about materials by
+    forcing us to think about the problem from the perspective of a ML algorithm which
+    is not how we tend to think about things in general."
+  authors:
+    - sbillinge
+  begin_date: 2025-11-30
+  end_date: 2025-12-05
+  location: Boston, MA
+  meeting_name: Materials Research Society (MRS) Fall Meeting 2025
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'Synthesis: a graph of unfortunate events'
+  type: invited
+2603sb_sandiego,ca:
+  abstract: Materials discovery using AI and ML is the plat du jour at the moment.
+    Algorithms are discovering millions of new materials. Or are they?  The actual
+    gains are questioned by chemists.  I will argue in this talk that the issue is
+    that we don't have a well enough described definition of what a material is, and
+    when a a new material is different.  I call this the "what is a material problem".  If
+    we don't have that definition, we simply cannot discuss the discovery of new materials.  Here,
+    I will explore this limitation and propose more rigorous paths forward. I will
+    describe some advances in AI/ML that are helping us take a completely new look
+    at solving structure. As well as helping us solve conventional unsolved problems,
+    these new methods are helping us to think about structure in new ways.
+  authors:
+    - sbillinge
+  begin_date: 2026-03-15
+  end_date: 2026-03-19
+  location: San Diego, CA
+  meeting_name: TMS2026
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: How do we know when a new material is discovered? The "what is a material
+    problem"
+  type: invited
 zzzslide-builder:
   abstract: na
   authors:
