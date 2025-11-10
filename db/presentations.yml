@@ -6394,3 +6394,70 @@ zzzslide-builder:
   title: Frontiers of local structure determination and prospects for AI to extend
     them
   type: plenary
+2601cm_SAF_grenoble,fr:
+  abstract: High-throughput small angle diffraction and imaging experiments on ordered
+    systems generate large two-dimensional datasets that often exhibit some degree
+    of rotational symmetry. Analyzing these datasets can require model-dependent approaches
+    or extensive manual effort to track how features evolve across measurements. In
+    this work, we present an algorithm for rapidly determining the orientation angle
+    of symmetric features using a brute-force angular search. The method employs a
+    symmetry-adapted filter (SAF) that leverages the known symmetry of the data. The
+    orientation angle is determined by first centering the SAF, applying a mask to
+    isolate the symmetric signal, and then rotating the SAF to maximize its inner product
+    with the image. This automated process enables scalable analysis of large image
+    datasets. We demonstrate the SAF algorithm in two applications, (1) extracting
+    the angular velocity from small angle neutron scattering (SANS) of a driven skyrmion
+    lattice in Cu$_2$OSeO$_3$, and (2) mapping local lattice orientations in atomically
+    resolved transmission electron microscopy (TEM) images.
+  authors:
+    - cmyers
+    - ychen
+    - nchalus
+    - meskildsen
+    - tsmidt
+    - sbillinge
+  begin_date: 2026-01-11
+  end_date: 2026-01-16
+  location: Grenoble, France
+  meeting_name: School and Conference on Analysis of Diffraction Data in Real Space (ADD 2026)
+  notes: []
+  presenter: cmyers
+  project:
+    - all
+  status: pending
+  talk_id: tbd
+  title: High-Throughput Orientation Extraction via Symmetry-Adapted Filters
+  type: poster
+2601cm_skpkg_grenoble,fr:
+  abstract: Scientific advancement relies on the ability to share and reproduce
+    results. When data analysis or calculations are carried out using software
+    written by scientists there are special challenges around code versions,
+    quality and code sharing. \skpkg provides a roadmap to facilitate code reuse
+    and sharing with minimal effort through tutorials coupled with automated and
+    centralized reusable workflows. The goal of the project is to provide
+    pedagogical and practical tools for scientists who are not professionally
+    trained software engineers to write more reusable and maintainable software
+    code. Code reuse can occur at multiple levels of complexity—from turning a
+    code block into a function within a single script, to publishing a publicly
+    installable, fully tested, and documented software package. \skpkg provides a
+    community maintained set of tools, and a roadmap, to help scientists bring
+    their software higher levels of reproducibility and shareability.
+  authors:
+    - slee
+    - cmyers
+    - ayang
+    - tzhang
+    - yxiao
+    - sbillinge
+  begin_date: 2026-01-11
+  end_date: 2026-01-16
+  location: Grenoble, France
+  meeting_name: School and Conference on Analysis of Diffraction Data in Real Space (ADD 2026)
+  notes: []
+  presenter: cmyers
+  project:
+    - all
+  status: pending
+  talk_id: tbd
+  title: scikit-package - software packaging standards and roadmap for sharing reproducible scientific software
+  type: poster
