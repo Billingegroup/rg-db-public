@@ -6424,7 +6424,7 @@ zzzslide-builder:
   presenter: cmyers
   project:
     - all
-  status: pending
+  status: accepted
   talk_id: tbd
   title: High-Throughput Orientation Extraction via Symmetry-Adapted Filters
   type: poster
@@ -6457,7 +6457,7 @@ zzzslide-builder:
   presenter: cmyers
   project:
     - all
-  status: pending
+  status: accepted
   talk_id: tbd
   title: scikit-package - software packaging standards and roadmap for sharing reproducible scientific software
   type: poster
