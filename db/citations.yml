@@ -1874,89 +1874,6 @@ billi;m25:
   url: https://doi.org/10.1016/j.matt.2024.09.023
   volume: '8'
   year: '2025'
-cox;unpub25:
-  ackno: tbd
-  author:
-    - Jordan Cox
-    - Willa Mihalyi-Koch
-    - Sophie Beck
-    - Eric Seewald
-    - Asish K. Kundu
-    - Zhi-Hao Cui
-    - Till Schertenleib
-    - Chun-Ying Huang
-    - Yinming Shao
-    - Siyuan Qiu
-    - Chiara Trovatello
-    - Daniel G. Chica
-    - Xiong Huang
-    - Xiaoyu Song
-    - Michael E. Ziebel
-    - P. James Schuck
-    - David R. Reichman
-    - Xiaoyang Zhu
-    - S. J. L. Billinge
-    - Dmitri N. Basov
-    - Abhay N. Pasupathy
-    - Xavier Roy
-  doi: ''
-  entrytype: article
-  facility: esrf, bm31
-  grant: doeneutron23
-  journal: tbd
-  month: tbd
-  nb: ''
-  number: ''
-  optnote: Submitted
-  pages: ''
-  professional_summary: ''
-  synopsis: The interesting materials system WO2X2 is described and
-    characterized for the first time
-  tags: 2d-materials, wo2x2, vdw-material
-  title: Chemical control of symmetry and bandgap in a van der waals
-    semiconductor
-  url: ''
-  volume: ''
-  year: '2025'
-lee;sa25:
-  ackno: We thank the NSLS-II scientific-python-cookiecutter project for
-    providing the starting point for our development. We are also grateful
-    to the conda-forge volunteers for their support of the open source
-    community. We thank the cookiecutter project for providing a framework
-    to scaffold new projects. We thank All the Billinge-group contributors
-    to our code base, but especially Pavol Juhas and Chris Farrow for their
-    earlier development of software in the Billinge group, which provided
-    the basis for implementing and testing scikit-package, including the
-    diffpy. namespace structure. We also thank Yuchen Xiao for the
-    development of user-configurable defaults, Yucong Chen, Tina Na Narong,
-    and Sam Andrello for their constructive feedback, which helped improve
-    scikit-package and its documentation. Work in the Billinge Group was
-    supported by the U.S. Department of Energy, Office of Science, Office
-    of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0024141.
-  author:
-    - Sangjoon Lee
-    - Caden Myers
-    - Andrew Yang
-    - Tieqiong Zhang
-    - Simon J. L. Billinge
-  doi: ''
-  entrytype: article
-  facility: ''
-  grant: doeneutron23
-  journal: Science Advances
-  month: Jul
-  nb: ''
-  number: ''
-  note: 'ArXiv:2507.03328v2'
-  pages: ''
-  professional_summary: ''
-  synopsis: The
-  tags: software, packaging, distribution
-  title: scikit-package - software packaging standards and roadmap
-    for sharing reproducible scientific software
-  url: ''
-  volume: ''
-  year: '2025'
 billi;mrssp99:
   author:
     - Billinge, S. J. L.
@@ -3968,6 +3885,76 @@ cossa;jpcl11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/cossa_jpcl11.pdf
   year: '2011'
+cox;jacs25:
+  ackno: This work was primarily supported by the Materials Science and Engineering
+    Research Center (MRSEC) on Precision Assembly of Quantum Materials (PAQM) through
+    NSF award DMR2011738 and the US Army Research Office under grant number W911NF-23-1-0056.
+    J.C. acknowledges support from the Dr. Katherine Lee Chen Graduate Chemistry Fellowship.
+    W.M.K. acknowledges funding provided by the Arnold and Mabel Beckman Foundation,
+    2025 Postdoctoral Fellowship in Chemical Sciences. S.B. acknowledges the Flatiron
+    Institute, a division of the Simons Foundation, and support from Simons Foundation
+    Grant No. 00010503. C.Y.H. acknowledges support from the Taiwan-Columbia Scholarship
+    funded by the Ministry of Education of Taiwan and Columbia University. X.S. acknowledges
+    support from the Columbia Quantum Initiative Postdoctoral Fellowship. Optical
+    characterizations were supported by the Air Force Office of Scientific Research
+    under award number FA9550-22-1-0389 and the Programmable Quantum Materials, an
+    Energy Frontier Research Center funded by the U.S. Department of Energy (DOE),
+    Office of Science, Basic Energy Sciences (BES), under award DESC0019443. ARPES
+    measurements used resources at 21ID (ESM) beamline of the National Synchrotron
+    Light Source II, a U.S. Department of Energy (DOE) Office of Science User Facility
+    operated for the DOE Office of Science by Brookhaven National Laboratory under
+    Contract No. DE-SC0012704. PDF analysis was supported by U.S. Department of Energy
+    (DOE), Office of Science, Basic Energy Sciences (BES), under award DE-SC0024141.
+    The Swiss Norwegian beamlines (SNBL) at the European Synchrotron Research Facility
+    (ESRF) are acknowledged for the provision of beamtime. The BM31 setup was funded
+    by the Swiss National Science Foundation (Grant 206021 189629) and the Research
+    Council of Norway (Grant 296087). The total scattering experiments were measured
+    during beamtime under proposal number A31-1271 (https://doi.esrf.fr/10.15151/ESRF-ES-1849618087).
+    C.T. acknowledges the European Union’s Horizon Europe research and innovation
+    program under the Marie Skłodowska Curie PIONEER HORIZON-MSCA-2021 PF-GF Grant
+    agreement No 101066108.
+  author:
+    - Jordan Cox
+    - Willa Mihalyi-Koch
+    - Sophie Beck
+    - Eric Seewald
+    - Asish K. Kundu
+    - Zhi-Hao Cui
+    - Till Schertenleib
+    - Chun-Ying Huang
+    - Yinming Shao
+    - Siyuan Qiu
+    - Chiara Trovatello
+    - Daniel G. Chica
+    - Xiong Huang
+    - Xiaoyu Song
+    - Michael E. Ziebel
+    - P. James Schuck
+    - David R. Reichman
+    - Xiaoyang Zhu
+    - S. J. L. Billinge
+    - Dmitri N. Basov
+    - Abhay N. Pasupathy
+    - Xavier Roy
+  doi: 10.1021/jacs.5c12238
+  entrytype: article
+  facility: esrf, bm31
+  grant: doeneutron23
+  journal: J. Am. Chem. Soc.
+  month: sep
+  nb: ''
+  number: ''
+  optnote: Submitted
+  pages: ''
+  professional_summary: ''
+  synopsis: The interesting materials system WO2X2 is described and characterized
+    for the first time
+  tags: 2d-materials, wo2x2, vdw-material
+  title: Chemical control of symmetry and bandgap in tungsten oxyhalide van der waals
+    semiconductors
+  url: https://doi.org/10.1021/jacs.5c12238
+  volume: ''
+  year: '2025'
 dapia;jpcs08:
   author:
     - Dapiaggi, Monica
@@ -4763,6 +4750,32 @@ farro;prb11:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/farroprb12.pdf
   year: '2011'
+fergus;arxiv25:
+  ackno: ''
+  author:
+    - Andrew Ferguson
+    - Marisa LaFleur
+    - Simon Billinge
+    - others
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: ''
+  journal: arxiv
+  month: sep
+  nb: ''
+  note: arXiv:2509.02661
+  number: ''
+  pages: ''
+  synopsis: ''
+  tags: ml, ai, policy
+  title: The future of artificial intelligence and the mathematical and physical sciences
+    ({AI+MPS})
+  url: ''
+  volume: ''
+  wwwemail: ''
+  wwwpub: ''
+  year: '2025'
 frand;aca14:
   author:
     - Frandsen, Benjamin A.
@@ -5444,30 +5457,38 @@ ghidi;cc14:
   wwwemail: ''
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/ghidi_cc14.pdf
   year: '2014'
-gong;aca18:
+gong;aca25:
+  ackno: The original work was supported by the US Department of Energy, Office of
+    Science, Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC00112704.
+    The rewriting and computational analysis was supported by the US Department of
+    Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under contract
+    No. DE- SC00241414.
   author:
-    - Gong, James
+    - Gong, Zizhou
+    - Songsheng Tao
     - Billinge, Simon J. L.
-  day: '25'
-  doi: ''
+  day: '1'
+  doi: 10.1107/S2053273325007387
   entrytype: article
   facility: ''
-  grant: fwp17, typeA, fy19
-  journal: ''
-  month: May
+  grant: fwp17, doeneutron23
+  journal: Acta Crystallographica Section A
+  month: Nov
   nb: art, typeA, fy19
-  note: arXiv:1805.10342 [cond-mat.mtrl-sci]
   number: ''
   optannote: ''
+  optnote: arXiv:1805.10342 [cond-mat.mtrl-sci]
   optwwwlanl: ''
   optwwwpub: ''
-  pages: ''
+  pages: 412-418
+  synopsis: The equations the describe the effects of preferred orientation and texture
+    on the resulting PDF are derived and reported
   title: 'Atomic pair distribution functions ({PDF}s) from textured polycrystalline
     samples: fundamentals'
-  url: https://arxiv.org/abs/1805.10342
-  volume: ''
+  url: https://doi.org/10.1107/S2053273325007387
+  volume: '81'
   wwwemail: ''
-  year: '2018'
+  year: '2025'
 gong;phdt;17:
   author:
     - ZiZhou Gong
@@ -7835,6 +7856,43 @@ lazar;prb14:
   volume: '89'
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/lazar_prb14.pdf
   year: '2014'
+lee;sa25:
+  ackno: We thank the NSLS-II scientific-python-cookiecutter project for providing
+    the starting point for our development. We are also grateful to the conda-forge
+    volunteers for their support of the open source community. We thank the cookiecutter
+    project for providing a framework to scaffold new projects. We thank All the Billinge-group
+    contributors to our code base, but especially Pavol Juhas and Chris Farrow for
+    their earlier development of software in the Billinge group, which provided the
+    basis for implementing and testing scikit-package, including the diffpy. namespace
+    structure. We also thank Yuchen Xiao for the development of user-configurable
+    defaults, Yucong Chen, Tina Na Narong, and Sam Andrello for their constructive
+    feedback, which helped improve scikit-package and its documentation. Work in the
+    Billinge Group was supported by the U.S. Department of Energy, Office of Science,
+    Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0024141.
+  author:
+    - Sangjoon Lee
+    - Caden Myers
+    - Andrew Yang
+    - Tieqiong Zhang
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: doeneutron23
+  journal: Science Advances
+  month: Jul
+  nb: ''
+  note: ArXiv:2507.03328v2
+  number: ''
+  pages: ''
+  professional_summary: ''
+  synopsis: The
+  tags: software, packaging, distribution
+  title: scikit-package - software packaging standards and roadmap for sharing reproducible
+    scientific software
+  url: ''
+  volume: ''
+  year: '2025'
 lei;ic13:
   author:
     - Lei, Hechang
@@ -10212,6 +10270,35 @@ pokra;unpub24:
   url: https://doi.org/10.1107/S1600576725001761
   volume: '58'
   year: '2025'
+popa;b;pdtap26:
+  ackno: ''
+  address: Cambridge, UK
+  author:
+    - Nicolae C. Popa
+    - Ann-Christin Dippel
+    - Simon J. L. Billinge
+  booktitle: 'Powder diffraction: theory and practice'
+  doi: ''
+  edition: 2nd
+  editor: Terban, Max and Dinnebier, Robert E. and Billinge, Simon J. L.
+  entrytype: inproceedings
+  facility: ''
+  grant: doeneutron23
+  journal: ''
+  month: May
+  nb: ''
+  note: To be Published
+  number: ''
+  pages: ''
+  professional_summary: ''
+  publisher: Royal Society of Chemistry
+  synopsis: The mathematics behind texture analysis of powder diffraction are laid,
+    along with a few practical examples are laid out in an introductory book chapter
+  tags: texture, preferred_orientation, textured-pdf
+  title: 'Microstructural Properties: Texture and Macrostress Effects'
+  url: ''
+  volume: ''
+  year: '2026'
 pouch;b;hobdamlitps20:
   ackno: tbd
   address: Singapore
@@ -10241,34 +10328,53 @@ pouch;b;hobdamlitps20:
   volume: ''
   wwwemail: ''
   year: '2020'
-powel;jcis23:
-  ackno: ''
+powel;aami25:
+  ackno: 'This work was supported by the Welch Foundation through the Welch Endowed
+    Chair to H.-C.Z. A-0030. Work on PDF data analysis by M.W.T. and S.T. was supported
+    by the U.S. National Science Foundation through grant DMREF-1922234 and S.J.L.B.
+    by U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences
+    (DOE-BES) under contract No. DE-SC0024141. The research used resources of the
+    National Synchrotron Light Source II, a U.S. Department of Energy (DOE) Office
+    of Science User Facility operated for the DOE Office of Science by Brookhaven
+    National Laboratory under Contract No. DE-SC0012704 and the Advanced Photon Source,
+    a U.S. Department of Energy (DOE) Office of Science user facility operated for
+    the DOE Office of Science by Argonne National Laboratory under Contract No. DE-AC02-
+    06CH11357 (Proposal ID GUP-69789) and was undertaken in part on the SAXS/WAXS
+    beamline at the Australian Synchrotron, part of ANSTO (EPN: 24087). The use of
+    the Texas A&M University Materials Characterization Facility (RRID: SCR_022202)
+    and X-ray Diffraction Laboratory are acknowledged. The X-ray diffractometers and
+    crystallographic computing systems in the X-ray Diffraction Laboratory at the
+    Department of Chemistry, Texas A&M University were purchased with funds provided
+    by the National Science Foundation (CHE-9807975, CHE-0079822 and CHE- 0215838).
+    Authors acknowledge the UQ School of Chemistry and Molecular Biosciences Elemental
+    Analysis facility for their support and assistance in this work. The authors would
+    also like to thank Dr. Gregory S. Day and Dr. Matthew R. Ryder for their helpful
+    discussions and Dr. Matthew Sheldon for his assistance with Raman spectroscopy.'
   author:
     - Joshua A. Powell
     - Maxwell W. Terban
     - Jiaqi Zhang
     - Songsheng Tao
+    - Jingwei Hou
     - Simon J. L. Billinge
     - Hong-Cai Zhou
-  doi: ''
+  doi: 0.1021/acsami.5c14965
   entrytype: article
-  facility: ''
+  facility: nslsii, 28id1, pdf xpd, 28id2
   grant: doeneutron23, dmref19
   journal: ACS Appl. Mater. Interfaces
-  month: tbd
+  month: nov
   nb: ''
-  note: submitted
   number: ''
   optannote: ''
+  optnote: submitted
   optwwwlanl: ''
   pages: ''
-  synopsis: ''
+  synopsis: PDF and XRPD show the nature of the formation mechanism of Zr MOF nanoparticlces
   tags: mof, zro2, nanoparticle
   title: Structural templation of MOF-derived zirconia nanoparticles
-  url: ''
+  url: https://pubs.acs.org/doi/pdf/10.1021/acsami.5c14965?ref=article_openPDF
   volume: ''
-  wwwemail: ''
-  wwwpub: ''
   year: '2025'
 prill;aca16:
   author:
@@ -11363,23 +11469,30 @@ scher;c25:
   volume: '11'
   year: '2025'
 scher;cm25:
-  ackno: ''
+  ackno: Work in the Billinge group was supported by a grant from 3M Corporate Research
+    Analytical Laboratory. Synchrotron X-ray PDF measurements were conducted on beamline
+    28-ID-1 of the National Synchrotron Light Source II, a U.S. Department of Energy
+    (DOE) Office of Science User Facility operated for the DOE Office of Science by
+    Brookhaven National Laboratory under Contract No. DE-SC0012704. T.S. acknowledges
+    support from the Swiss National Science Foundation under grant number 200021_188536.
+    The authors gratefully thank Anton Paar GmbH for carrying out measurements of
+    quartz on their XRDynamic 500 diffractometer.
   author:
     - Till Schertenleib
     - Daniel Schmuckler
     - Yucong Chen
-    - Geng~Bang Jin
-    - Simon~J.~L. Billinge
+    - Geng Bang Jin
+    - Simon J. L. Billinge
   doi: 10.1002/cmtd.202500001
   entrytype: article
   facility: nslsii, pdf
   grant: 3m21
-  journal: Chemistry - Methods
-  month: May
+  journal: Chemistry Methods
+  month: Apr
   nb: ''
-  number: ''
+  number: '9'
   optnote: 2406.18177
-  pages: ''
+  pages: e202500001
   professional_summary: Increasingly, there is demand to use laboratory based diffractometers
     to collect x-ray diffraction data suitable for PDF analysis.  In this paper we
     explore different protocols for acquiring data, and explore whether it is necessary
@@ -11393,7 +11506,7 @@ scher;cm25:
   title: Testing protocols for obtaining reliable pair distribution functions from
     laboratory x‐Ray sources using {PDFgetX3}
   url: https://doi.org/10.1002/cmtd.202500001
-  volume: ''
+  volume: '5'
   year: '2025'
 scher;unpub24:
   ackno: Work in the Billinge group was supported by a grant from 3M Corporate Research
@@ -11722,7 +11835,7 @@ shi;prb18:
     - Haskell, Richard C.
     - Hightower, Adrian
     - Monson, Todd C.
-  day: '15'
+  day: 15
   doi: 10.1103/PhysRevB.98.085421
   entrytype: article
   facility: nsls, x17a, fy18
@@ -11907,7 +12020,7 @@ skjae;prx19:
     - Simon J. L. Billinge
     - Emil S. Bozin
     - Sverre M. Selbach
-  day: '1'
+  day: 1
   doi: 10.1103/PhysRevX.9.031001
   entrytype: article
   facility: nomad, sns
@@ -12066,7 +12179,7 @@ stach;m21:
     - Sylvia Smullin
     - Valentin Stanev
     - Benji Maruyama
-  day: '26'
+  day: 26
   doi: 10.1016/j.matt.2021.06.036
   entrytype: article
   facility: ''

@@ -2764,7 +2764,7 @@
     we analyse a series of scattering data from well-known perovskites and determine
     their degree and type of structural tilting disorder. [1] Sartbaeva, A. ‘Quadrupolar
     Ordering in LaMnO3 Revealed from Scattering Data and Geometric Modeling’. Phys.
-    Rev. Lett. 99, no. 15 (2007): 155503. [2] Senn, M. S. et al. ‘Emergence of Long-Range
+    Rev. Lett. 99, no. 15 (2007): 155503. [2] Senn, M. S. \etal ‘Emergence of Long-Range
     Order in BaTiO3 from Local Symmetry-Breaking Distortions’. Phys. Rev. Lett. 116,
     no. 20 (2016): 207602. [3] Glazer, A. M. ‘The Classification of Tilted Octahedra
     in Perovskites’. Acta Cryst. B 28, no. 11 (1972): 3384–92."
@@ -4225,44 +4225,6 @@
   status: accepted
   title: Recent and future developments in {PDF}-land
   type: plenary
-2601sb_grenoble,france:
-  abstract: 'There are recently emerging powerful experimental developments related
-    to atomic pair distribution function (PDF) method and total-scattering studies.
-    At this workshop you will learn in detail about carrying out and applying PDF
-    to your own scientific research, and there will be excellent tutorial talks on
-    this. Therefore, in this talk I will focus on recent technological and methodological
-    developments, and some that are in the pipeline, that are allowing ever richer
-    science to be done.  Examples include new spatial and time resolved capabilities
-    and novel approaches to modeling. I will also talk about recent applications of
-    PDF to scientific problems enabled by the new developments.  I will also describe
-    recent and upcoming developments in PDF analysis and modeling software that are
-    under development in the group. '
-  authors:
-    - sbillinge
-  begin_date: 2026-01-11
-  end_date: 2026-01-16
-  location: Grenoble, France
-  meeting_name: School and conference on analysis of diffraction data in real space
-  notes: []
-  project:
-    - all
-  status: accepted
-  title: Recent and future developments in {PDF}-land
-  type: plenary
-2601sb_grenoble,france-tutorial:
-  abstract: ''
-  authors:
-    - sbillinge
-  begin_date: 2026-01-11
-  end_date: 2026-01-16
-  location: Grenoble, France
-  meeting_name: School and conference on analysis of diffraction data in real space
-  notes: []
-  project:
-    - all
-  status: accepted
-  title: real-space structure analysis and Complex Modeling
-  type: tutorial
 2210sb_sanjuan,puertorico:
   abstract: na
   authors:
@@ -5975,9 +5937,11 @@
   meeting_name: 'Bruker-AXS / MIT Symposium 2025: Non-Bragg Methods for Your In-House
     Source'
   notes: []
+  presenter: sbillinge
   project:
     - all
   status: accepted
+  talk_id: 50-pdf-tutorial-mit
   title: Atomic pair distribution function tutorial
   type: invited
 2503sb_lund,sweden:
@@ -6198,10 +6162,76 @@
   location: Posnan, Poland
   meeting_name: 35th European Crystallography Meeting (ECM 35)
   notes: []
+  presenter: sbillinge
   project:
     - all
   status: accepted
+  talk_id: 20-what-is-a-structure
   title: What I learned about structure from artificial intelligence
+  type: invited
+2508sb-ecm35-software-fayre-cmi:
+  abstract: ''
+  authors:
+    - sbillinge
+  begin_date: 2025-08-22
+  end_date: 2025-08-30
+  location: Posnan, Poland
+  meeting_name: Software Fayre of the 35th European Crystallography Meeting (ECM 35)
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 10-diffpy-cmi-overview
+  title: 'Diffpy.cmi a multi-modal modeling framework: ready for windows'
+  type: invited
+2508sb-ecm35-software-fayre-skpkg:
+  abstract: ''
+  authors:
+    - sbillinge
+  begin_date: 2025-08-22
+  end_date: 2025-08-30
+  location: Posnan, Poland
+  meeting_name: Software Fayre of the 35th European Crystallography Meeting (ECM 35)
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 10-scikit-package-overview
+  title: 'Scikit-package: share your code, make it reproducible'
+  type: invited
+2508sb_cityuniversity,hongkong:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2025-08-09
+  end_date: 2025-08-16
+  location: City University, Hong Kong
+  meeting_name: 2025 Croucher symposium on neutron scattering
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 90-pdf-overview
+  title: 'Structure of nanomaterials: PDF and total scattering analysis'
+  type: invited
+2508sb_cityuniversity,hongkong2:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2025-08-09
+  end_date: 2025-08-16
+  location: City University, Hong Kong
+  meeting_name: 2025 Croucher symposium on neutron scattering
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 50-pdf-introduction
+  title: 'Structure of nanomaterials: PDF and total scattering analysis'
   type: invited
 2508sb_posnan,poland:
   abstract: At the heart of materials science studies for next generation materials
@@ -6225,16 +6255,16 @@
   begin_date: 2025-08-25
   end_date: 2025-08-29
   location: Posnan, Poland
-  meeting_name: 35th Europan Crystallographic Meeting
+  meeting_name: 35th Europan Crystallographic Meeting (ECM35)
   notes: []
   presenter: sbillinge
   project:
     - all
   status: accepted
-  talk_id: tbd
+  talk_id: 45-ml-at-your-service
   title: '{AI/ML} in crystallography: what can it do for us, what can we do with it?'
   type: plenary
-2509sb_graz,austria,webinar:
+2509sb_anton_paar_webinar:
   abstract: The properties of materials depend sensitively on the arrangements of
     the atoms, the sc-called structure-property relation.  But what length-scale of
     the structural order is important?  Do the properties depend on the local bonding
@@ -6267,15 +6297,60 @@
   location: Graz, Austria
   meeting_name: Anton Paar Webinar Series
   notes: []
+  presenter: sbillinge
   project:
     - all
   status: accepted
+  talk_id: 60-pdf-intro-plus-lab-sources
   title: 'Local Structure and the atomic pair distribution function (PDF): What, Why,
     How?'
   type: invited
   webinar: true
+2509sb_macsmin,universityofliverpool,uk:
+  abstract: For 100 years, since the development of x-ray crystallography, we have
+    been able to study atomic structure.  This knowledge is the foundation for much
+    of our understanding of material properties.  Despite these successes, challenges
+    remain. I will describe some advances in AI/ML that are helping us take a completely
+    new look at solving structure. As well as helping us solve conventional unsolved
+    problems, these new methods are helping us to think about structure in new ways,
+    causing us to ponder questions whose answers seemed hitherto obvious, such as
+    "what is the structure of this material?", "when do two materials have the same
+    structure and when do they have a different structure?", and "when is a defect
+    a defect?".  Many of these questions don't have good answers, but defining the
+    problem is often a first step. In many cases, the problem is the problem, not
+    the solution.
+  authors:
+    - sbillinge
+  begin_date: 2025-09-09
+  end_date: 2025-09-13
+  location: University of Liverpool, UK
+  meeting_name: MACSMIN 2025
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 50-what-is-a-structure
+  title: When is a structure a new structure? Towards new measures of structural similarity
+  type: invited
+  webinar: true
 2510sb_algiers,algeria:
-  abstract: tbd
+  abstract: At the heart of materials science studies for next generation materials
+    is an idea that we want to be studying real materials doing real things, often
+    in real devices in real time.  In practice, this presents a number of key data
+    analysis and interpretation challenges because it implies we are studying ever
+    more complicated samples, often in complex heterogeneous environments and in time-resolved
+    operando setups, and we are interrogating our data for more and more subtle effects
+    such as microstructures and evolving defects and local structures. Advanced data
+    analysis algorithms and software are essential for the success of this enterprise.  In
+    this talk I will describe various developments that leverage the power of artificial
+    intelligence (AI), principally machine learning (ML), to aid in this task.  Some
+    of these powerful tools are clearly ready to be applied more broadly in the community
+    and others are still in the future but look very promising.  They include unsupervised
+    and supervised machine learning approaches, conventional ML and deep neural networks,
+    including generative models, as well as approaches for autonomous time-resolved
+    experimentation. I will lay out various aspects of ML in structure science using
+    examples from our own work.
   authors:
     - sbillinge
   begin_date: 2025-10-25
@@ -6283,11 +6358,39 @@
   location: Algiers, Algeria
   meeting_name: 4th Pan-African Conference on Crystallography (PCCr4)
   notes: []
+  presenter: sbillinge
   project:
     - all
   status: accepted
-  title: ai
+  talk_id: 45-ml-at-your-service
+  title: '{AI/ML} in crystallography: what can it do for us, what can we do with it?'
   type: plenary
+2510sb_columbiau:
+  abstract: We need better batteries, catalysts and magnets.  Let's use AI to discover
+    new materials with better properties for them!  No problem, we will train generative
+    AI models to find new materials and condition them on desired properties.  Great
+    idea, and we can make a startup so that when we discover the new material we will
+    patent it and become rich and famous.  This is such  good idea that just about
+    all the big tech companies have piled in on the game.  Deep Mind has published
+    the GNOME database with 4 million "new" compounds.  Not to be outdone, Meta has
+    published OMat24 with 118 million new materials and Microsoft has developed a
+    materials foundation model.  But do we have better batteries?  Not yet.  I will
+    describe these developments, our own contributions to this work, and then explore
+    if and where bottlenecks are in the whole enterprise
+  authors:
+    - sbillinge
+  begin_date: 2025-10-03
+  end_date: 2025-10-03
+  location: columbiau
+  meeting_name: AI for Science/Engineering
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 15-what-is-a-structure
+  title: 'AI enabled Materials Discovery: the big guns are piling in but is it working?'
+  type: invited
 2510sb_fortaleza,brazil:
   abstract: Local structure is at the heart of materials science studies for materials
     for next generation devices.  In practice, this presents a number of key data
@@ -6313,10 +6416,26 @@
   project:
     - all
   status: accepted
-  talk_id: tbd
+  talk_id: 50-real-materials-and-data
   title: Frontiers of local structure determination and prospects for AI to extend
     them
   type: plenary
+2510sb_pdf-tutorial,fortaleza,brazil:
+  abstract: The PDF tutorial
+  authors:
+    - sbillinge
+  begin_date: 2025-10-11
+  end_date: 2025-10-14
+  location: Fortaleza, Brazil
+  meeting_name: First Latin American Powder Diffraction Conference (LAPDiC)
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 50-pdf-tutorial
+  title: PDF Tutorial
+  type: tutorial
 2511sb_boston,ma:
   abstract: "We would love a black-box AI for predictive chemical synthesis.  Using
     the language of cooking, the forward problem is: given this recipe, what dish
@@ -6348,10 +6467,164 @@
   location: Boston, MA
   meeting_name: Materials Research Society (MRS) Fall Meeting 2025
   notes: []
+  presenter: sbillinge
   project:
     - all
   status: accepted
+  talk_id: 30-actiongraph-intro
   title: 'Synthesis: a graph of unfortunate events'
+  type: invited
+2601sb_addgrenoblecmitalk:
+  abstract: 'This presentation and the associated hands-on tutorial will introduce
+    DiffPy-CMI, a software for structure analysis from experimental atomic Pair Distribution
+    Function (PDF) and for Complex Modeling [1, 2].  DiffPy-CMI (Complex Modeling
+    Infrastructure) has been developed to handle ill-posed inverse problems, where
+    diffraction experiments do not provide enough signal to determine complicated
+    structures or nanostructures.  To overcome this problem, we use a Complex Modeling
+    approach [3] which allows users to combine additional experimental or theoretical
+    inputs and uses them all together in a common optimization routine.  DiffPy-CMI
+    is a flexible and extensible program allowing user to create such models tailored
+    for the specific knowledge about the material under study.  DiffPy-CMI runs on
+    Linux and Mac operating systems and is primarily written in Python with computationally
+    intense parts coded in C++.  It can also be run on windows using the Windows Linux
+    Subsystem (WSL). In the big picture DiffPy-CMI provides several ways of representing
+    atomic structures, a set of forward calculators (e.g., PDF, bond valence sums,
+    powder and single crystal diffraction), and finally a fit-manager to define and
+    run multi-input refinements.  The fits can be conducted with short Python scripts
+    or within the Jupyter Notebook interactive environment.  In addition to Complex
+    Modeling, DiffPy-CMI also enables more subtle PDF refinements which are not possible
+    in PDFgui [4] - for example PDF fits of non-periodic small clusters or of molecular
+    crystals with rigid structure units.  The software provides access to internal
+    simulation routines, which can be tweaked or extended, and thus permits rapid
+    implementation of new ideas and more accurate models.  We will demonstrate the
+    capabilities of DiffPy-CMI on a series of science cases, starting from simple
+    forward calculations and following up with PDF fitting examples that go beyond
+    PDFgui.  '
+  authors:
+    - sbillinge
+    - pjuhas
+  begin_date: 2026-01-11
+  end_date: 2026-01-16
+  location: Grenoble, France
+  meeting_name: School and conference on analysis of diffraction data in real space
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: 'DiffPy-CMI - a software toolbox for real-space structure analysis '
+  type: tutorial
+2601sb_grenoble,france:
+  abstract: 'There are recently emerging powerful experimental developments related
+    to atomic pair distribution function (PDF) method and total-scattering studies.
+    At this workshop you will learn in detail about carrying out and applying PDF
+    to your own scientific research, and there will be excellent tutorial talks on
+    this. Therefore, in this talk I will focus on recent technological and methodological
+    developments, and some that are in the pipeline, that are allowing ever richer
+    science to be done.  Examples include new spatial and time resolved capabilities
+    and novel approaches to modeling. I will also talk about recent applications of
+    PDF to scientific problems enabled by the new developments.  I will also describe
+    recent and upcoming developments in PDF analysis and modeling software that are
+    under development in the group. '
+  authors:
+    - sbillinge
+  begin_date: 2026-01-11
+  end_date: 2026-01-16
+  location: Grenoble, France
+  meeting_name: School and conference on analysis of diffraction data in real space
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: Recent and future developments in {PDF}-land
+  type: plenary
+2601sb_grenoble,france-tutorial:
+  abstract: ''
+  authors:
+    - sbillinge
+    - vkurlin
+  begin_date: 2026-01-11
+  end_date: 2026-01-16
+  location: Grenoble, France
+  meeting_name: School and conference on analysis of diffraction data in real space
+  notes: []
+  project:
+    - all
+  status: accepted
+  title: real-space structure analysis and Complex Modeling
+  type: tutorial
+2601sb_santabarbara,ca:
+  abstract: "We would love a black-box AI for predictive chemical synthesis.  Using
+    the language of cooking, the forward problem is: given this recipe, what dish
+    do I get? But the inverse problem that we want to solves is: given the dish that
+    I want, what recipe will give it to me?  This states the problem of predictive
+    synthesis in the language of inverse problems. In general, the way we solve inverse
+    problems is using regression.  We solve the forward problem many times in a trial-and-error
+    loop, with updates that gradually  move us towards the solution using algorithms
+    such as gradient descent, among many others.  AI and deep learning are very good
+    for this task.  You can train a complex non-linear model by showing it many (thousands
+    of) correct solutions of the forward problem and then ask it to find a solution
+    it hasn't seen before. But it requires a database of many (thousands of) correct
+    solutions.  For tasks where the forward problem is running density functional
+    theory (DFT), for example, we can generate large databases of simulated solutions
+    to train our model.  But inorganic synthesis is notoriously non-equilibrium and
+    irreversible.  We don't have a 'DFT' for the synthesis forward problem. We will
+    (likely) have to build large databases of experimental data.  In this talk, I
+    will develop these ideas, present some computational infrastructure we have been
+    developing called 'Action Graphs' that we hope can be used to tackle this task
+    and present preliminary results on fake data to test the infrastructure.  The
+    task is difficult, but solutions to this problem will be enormously impactful.\
+    \  Even the journey towards a solution is teaching us things about materials by
+    forcing us to think about the problem from the perspective of a ML algorithm which
+    is not how we tend to think about things in general."
+  authors:
+    - sbillinge
+  begin_date: 2026-01-28
+  end_date: 2026-01-29
+  location: Santa Barbara, CA
+  meeting_name: Materials Research Outreach Program  (MROP) 2026
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 30-actiongraph-intro
+  title: 'Synthesis: a graph of unfortunate events'
+  type: invited
+2601sb_washington,dc:
+  abstract: Everything is made of materials and all materials are made of arrangements
+    of atoms.  A special but pre-eminent case is that of crystals where the atoms
+    arrange periodically in space. This knowledge is the foundation for much of our
+    understanding of material properties that revolutionize our lives through technology.  Scientists
+    and engineers are constantly trying to discover new materials with better properties
+    for different applications, recently using machine learning, notably by Google
+    and Microsoft.  Claims made in these studies have been questioned. At the heart
+    of the controversy is the very definition of crystal structure, something that
+    seemed like it was a settled topic for more than a century.  It turns out that
+    traditional crystal structure representations have certain drawbacks in this context.  They
+    are not unique, they are not continuous, and they don't lend themselves to being
+    compared with valid distance metrics making it difficult to determine at scale
+    when structures are the same or similar.  In this talk, we will define this problem,
+    and present emerging solutions that define invariants up to isometry or rigid
+    motion that are unique and sometimes complete and computable.  These may be used
+    as structure representations alongside or instead of traditional crystallographic
+    representations, allowing structural comparisons to be computed rapidly and at
+    scale.  We believe that these could play a foundational role in the emerging computational
+    discovery of new materials.
+  authors:
+    - sbillinge
+  begin_date: 2026-01-07
+  end_date: 2026-01-07
+  location: Washington, DC
+  meeting_name: Open Problems in Geometric Data Science symposium at the Joint Mathematics
+    Meetings of the American Mathematical Association
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: tbd
+  title: Continuous representations of crystals and why that is important for materials
+    and mankind
   type: invited
 2603sb_sandiego,ca:
   abstract: Materials discovery using AI and ML is the plat du jour at the moment.
@@ -6377,12 +6650,30 @@
   title: How do we know when a new material is discovered? The "what is a material
     problem"
   type: invited
+handout-builder:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2025-10-11
+  end_date: 2025-10-14
+  hide: true
+  location: n/a
+  meeting_name: n/a
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: handout-pdf-tutorial
+  title: PDF Tutorial Handout
+  type: plenary
 zzzslide-builder:
   abstract: na
   authors:
     - sbillinge
   begin_date: 2025-10-11
   end_date: 2025-10-14
+  hide: true
   location: Nowhere
   meeting_name: Vacation
   notes: []

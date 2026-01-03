@@ -2526,6 +2526,16 @@ tudresden:
   updated: 2020-03-17 02:27:00.262253
   uuid: 4768wec5-6e58-4b2e-b765-7d72403ee42d
   year: 2024
+tuwien:
+  city: Vienna
+  country: Austria
+  date: 2025-10-21
+  departments:
+    issphysics:
+      name: Institute of Solid-State Physics
+  name: Technische Universität Wien
+  updated: 2025-10-21 23:37:53.746819
+  uuid: 9cd9a2e2-bedb-414c-a23d-836805b7d3b5
 ualabama:
   aka: []
   city: Tuscaloosa

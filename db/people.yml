@@ -369,7 +369,7 @@ ashaaban:
   name: Ahmed Shaaban
   position: undergraduate research assistant
 ayang:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/Sparks29032.png
   bio: bio
@@ -377,7 +377,7 @@ ayang:
   email: ay2546@columbia.edu
   employment:
     - begin_date: 2023-06-01
-      end_date: 2024-12-31
+      end_date: 2025-08-31
       organization: columbiau
       position: undergraduate research assistant
       group: bg
@@ -676,7 +676,7 @@ chliu:
       other:
         - 'Advisor: Simon Billinge'
       department: apam
-      degree: masters research assistant in Applied Physics
+      degree: PhD
   email: cl3077@columbia.edu
   employment:
     - begin_year: 2020
@@ -773,7 +773,7 @@ cmyers:
   email: cjm2304@columbia.edu
   employment:
     - begin_date: 2024-02-05
-      end_date: 2024-05-12
+      end_date: 2026-12-31
       organization: columbiau
       position: graduate research assistant
       group: bg
@@ -2942,7 +2942,7 @@ kseth:
   name: Kriti Seth
   position: visiting student
 kwagoner-oshima:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/kwagoner94.png
   bio: bio
@@ -2957,7 +2957,7 @@ kwagoner-oshima:
       advisor: sbillinge
       status: visitor-unsupported
   github_id: kwagoner94
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Kai Wagoner-Oshima
   orcid_id: ''
   position: visiting student
@@ -3681,6 +3681,26 @@ nthomas:
   github_id: noniethomas
   name: Nonie Thomas
   position: undergraduate research assistant
+omansour:
+  active: true
+  aka: []
+  avatar: https://github.com/omarsourman.png
+  bio: bio
+  education: []
+  email: om2432@columbia.edu
+  employment:
+    - begin_date: 2025-09-01
+      end_date: 2026-05-31
+      organization: columbiau
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: omarsourman
+  grp_mtg_active: true
+  name: Omar Mansour
+  orcid_id: ''
+  position: undergraduate researcher
 oprymak:
   active: false
   aka: []
@@ -4038,7 +4058,7 @@ ranselm:
   orcid_id: ''
   position: undergrad researcher
 rdhua:
-  active: false
+  active: true
   aka:
     - Rundong Hua
   avatar: https://github.com/stevenhua0320.png
@@ -4047,14 +4067,20 @@ rdhua:
   email: r.hua@mail.utoronto.ca
   employment:
     - begin_date: 2024-05-06
-      end_date: 2024-08-31
-      organization: columbiau
+      end_date: 2025-12-31
+      organization: utoronto
+      position: undergraduate
+      advisor: sbillinge
+      status: undergrad
+    - begin_date: 2025-09-05
+      end_date: 2026-05-31
+      organization: utoronto
       position: undergraduate researcher
       group: bg
       advisor: sbillinge
       status: undergrad
   github_id: stevenhua0320
-  grp_mtg_active: false
+  grp_mtg_active: true
   name: Rundong (Steven) Hua
   orcid_id: 0009-0003-1947-1857
   position: undergraduate researcher
@@ -4301,7 +4327,7 @@ rzyu:
   name: Runze Yu
   position: assistant professor
 sandrello:
-  active: true
+  active: false
   aka: []
   avatar: https://media.licdn.com/dms/image/D4E03AQFXa02w443ZCg/profile-displayphoto-shrink_200_200/0/1667414532631?e=1695254400&v=beta&t=o2XvkKEklVgkrx646E2f8PGkxGHjU2r7CfTjkJ1He0Q
   bio: Rising Junior at Columbia University studying Applied Physics with a minor
@@ -4428,10 +4454,11 @@ sbillinge:
     diffraction including the development of novel data analysis methods including
     graph theoretic, artificial intelligence and machine learning approaches. He earned
     his Ph.D in Materials Science and Engineering from University of Pennsylvania
-    in 1992. After 13 years as a faculty member at Michigan State University, in 2008
-    he took up his current position as Professor of Materials Science and Applied
-    Physics and Applied Mathematics at Columbia University and held a joint position
-    of Physicist at Brookhaven National Laboratory between 2008 and 2022.\n Prof.
+    in 1992. After 13 years as a faculty member at Michigan State University, and 18 years
+    at Columbia University he took up his current position as Professor of Materials Science
+    and Director of the California Nanosystems Institute (CNSI) at UC Santa Barbara.
+    He also held a joint position
+    of Physicist at Brookhaven National Laboratory between 2008 and 2022.\n\nProf.
     Billinge has published more than 350 papers in scholarly journals. He is a fellow
     of the American Physical Society and the Neutron Scattering Society of America,
     a former Fulbright and Sloan fellow and has earned a number of awards including,
@@ -4529,8 +4556,18 @@ sbillinge:
           a pair distribution function study '
   email: sb2896@columbia.edu
   employment:
+    - organization: ucsb
+      begin_date: 2025-01-01
+      group: bg
+      other:
+        - 'Full title: Distinguished Professor, Materials'
+      department: Materials Science
+      position: professor
+      status: pi
+      permanent: true
     - organization: Columbia University
-      begin_year: 2008
+      begin_date: 2008-01-01
+      end_date: 2025-12-31
       group: bg
       other:
         - 'Full title: Professor of Materials Science and of Applied Physics and of
@@ -4772,6 +4809,14 @@ sbillinge:
   position: professor
   publicity:
     - type: online
+      topic: personal profile
+      title: Q\& A with Simon Billinge
+      date: 2025-08-20
+      publication: Wiley Analytical Science
+      text: ''
+      url: https://analyticalscience18.com/content/article-do/q-simon-billinge.
+      grant: dmref19
+    - type: online
       topic: online news article
       title: New fast camera shutter shows how materials move heat around
       date: 2023-03-17
@@ -4814,6 +4859,19 @@ sbillinge:
         publication list, can be found at http://thebillingegroup.com/
       begin_year: 1987
   service:
+    - type: profession
+      name: Member of the International Center or Diffraction Data (ICDD)
+      begin_date: 2025-10-12
+      role: fellow
+      other: []
+    - type: profession
+      name: Co-organizer with Vitaliy Kurlin of the workshop on Open Problems in Geometric
+        Data Science at the Institute for Mathematical and Statistical Innovation,
+        IMSI (Chicago)
+      begin_date: 2027-08-01
+      end_date: 2027-08-31
+      role: organizer
+      other: []
     - type: profession
       name: Member of the scientific Committee of the international conference “Advances
         in Solid State Physics and New Materials – Celebrating 30 Years of the Center
@@ -5680,13 +5738,17 @@ sharouna-mayer:
   name: Sani Harouna-Mayer
   position: visiting student
 sjblee:
-  active: true
-  aka: []
+  active: false
+  aka:
+    - Sangjoon Lee
   avatar: https://github.com/bobleesj.png
   bio: bio
   education: []
   email: sl5400@columbia.edu
   employment:
+    - begin_date: 2026-06-01
+      organization: stanfordu
+      position: PhD student
     - begin_date: 2024-07-28
       end_date: 2025-05-31
       organization: columbiau
@@ -5992,7 +6054,7 @@ tnanarong:
   email: tn2539@columbia.edu
   employment:
     - begin_date: 2023-10-09
-      end_date: 2025-10-08
+      end_date: 2026-10-08
       organization: columbiau
       position: post-doctoral scholar
       group: bg
@@ -6061,15 +6123,18 @@ tproffen:
   name: Thomas Proffen
   position: director
 tqzhang:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/tieqiong.png
   bio: bio
   education: []
   email: tz2600@columbia.edu
   employment:
+    - begin_date: 2025-06-01
+      organization: riceu
+      position: PhD student
     - begin_date: 2024-02-16
-      end_date: 2024-08-31
+      end_date: 2025-08-31
       organization: columbiau
       position: undergraduate researcher
       group: bg
@@ -6088,6 +6153,10 @@ tschertenleib:
   education: []
   email: till.schertenleib@epfl.ch
   employment:
+    - begin_date: 2025-06-01
+      end_date: 2027-05-31
+      organization: ucopenhagen
+      position: Post Doctoral Researcher
     - begin_date: 2023-02-17
       end_date: 2023-12-31
       organization: columbiau
@@ -6101,7 +6170,7 @@ tschertenleib:
   orcid_id: 0000-0003-4989-5821
   position: visiting student
 tzhang:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/TingwenZhang.png
   bio: bio
@@ -6116,7 +6185,7 @@ tzhang:
       advisor: sbillinge
       status: undergrad
   github_id: TingwenZhang
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Ting Zhang
   orcid_id: ''
   position: undergraduate researcher
@@ -6362,7 +6431,7 @@ xyun:
   name: Xin Yun
   position: graduate research assistant
 ycchen:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/yucongalicechen.png
   bio: bio
@@ -6377,26 +6446,26 @@ ycchen:
       advisor: sbillinge
       status: ms
   github_id: yucongalicechen
-  grp_mtg_active: true
+  grp_mtg_active: false
   name: Yucong Chen
   orcid_id: ''
   position: masters researcher
 ycexiao:
   active: true
   aka: []
-  avatar: https://github.com/ethan-yuchen.png
+  avatar: https://github.com/ycexiao.png
   bio: bio
   education: []
   email: yx2924@columbia.edu
   employment:
     - begin_date: 2025-01-01
-      end_date: 2025-05-31
+      end_date: 2025-12-31
       organization: columbiau
       position: masters researcher
       group: bg
       advisor: sbillinge
       status: masters
-  github_id: ethan-yuchen
+  github_id: ycexiao
   grp_mtg_active: true
   name: Yuchen (Ethan) Xiao
   orcid_id: ''
@@ -6665,12 +6734,11 @@ zmxu:
   aka:
     - Zhi Ming Xu
   avatar: https://github.com/zmx27.png
-  bio: Zhi Ming is an undergraduate student studying computer engineering
-    in Columbia's School of Engineering and Applied Sciences. He joined the
-    Billinge Group starting in summer 2025 as a way to deepen his passion
-    for applying computational tools to real-world scientific problems.
-    He is excited to contribute to projects at the intersection of engineering
-    and material science.
+  bio: Zhi Ming is an undergraduate student studying computer engineering in Columbia's
+    School of Engineering and Applied Sciences. He joined the Billinge Group starting
+    in summer 2025 as a way to deepen his passion for applying computational tools
+    to real-world scientific problems. He is excited to contribute to projects at
+    the intersection of engineering and material science.
   education:
     - begin_year: 2024
       degree: BS in Computer Engineering
