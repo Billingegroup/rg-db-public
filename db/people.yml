@@ -4327,7 +4327,7 @@ rzyu:
   name: Runze Yu
   position: assistant professor
 sandrello:
-  active: falsae
+  active: false
   aka: []
   avatar: https://media.licdn.com/dms/image/D4E03AQFXa02w443ZCg/profile-displayphoto-shrink_200_200/0/1667414532631?e=1695254400&v=beta&t=o2XvkKEklVgkrx646E2f8PGkxGHjU2r7CfTjkJ1He0Q
   bio: Rising Junior at Columbia University studying Applied Physics with a minor
