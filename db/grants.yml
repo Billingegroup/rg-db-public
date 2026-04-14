@@ -12,7 +12,8 @@
     - institution: msu
       name: Rong Liu
       position: copi
-  title: Electronic and structural properties of colossal magnetoresistant oxides
+  title: Electronic and structural properties of colossal magnetoresistant
+    oxides
 0095_aurig:
   amount: 15000
   begin_date: 1995-05-01
@@ -28,14 +29,15 @@
   amount: 20000
   begin_date: 1995-06-15
   end_date: 1996-06-14
-  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
   team:
     - institution: msu
       name: sbillinge
       position: pi
       subaward_amount: 20000
-  title: Local structure and properties of transition metal oxides using pair distribution
-    function analysis
+  title: Local structure and properties of transition metal oxides using pair
+    distribution function analysis
 0095_sloan:
   amount: 30000
   begin_date: 1995-12-15
@@ -51,19 +53,21 @@
   amount: 13000
   begin_date: 1996-06-15
   end_date: 1997-06-14
-  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
   team:
     - institution: msu
       name: sbillinge
       position: pi
       subaward_amount: 20000
-  title: Local atomic structure of semiconductor alloys using pair distribution function
-    analysis
+  title: Local atomic structure of semiconductor alloys using pair distribution
+    function analysis
 0096_cfmr_kaplan:
   amount: 45000
   begin_date: 1996-06-15
   end_date: 1997-06-14
-  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
   team:
     - institution: msu
       name: sbillinge
@@ -75,13 +79,14 @@
     - institution: msu
       name: Tom Kaplan
       position: copi
-  title: Electronic and magnetic structure of transition metal oxides and related
-    systems
+  title: Electronic and magnetic structure of transition metal oxides and
+    related systems
 0096_cfmr_pinnavaia:
   amount: 65000
   begin_date: 1996-06-15
   end_date: 1997-06-14
-  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
   team:
     - institution: msu
       name: Tom Pinnavaia
@@ -110,8 +115,8 @@
       name: sbillinge
       position: pi
       subaward_amount: 210000
-  title: A study of the local structure of transition metal oxides using pair distribution
-    function analysis
+  title: A study of the local structure of transition metal oxides using pair
+    distribution function analysis
 0096_nsfche_pinnavaia:
   amount: 1760865
   awardnr: CHE-9633798
@@ -161,13 +166,14 @@
     - institution: upenn
       name: Takeshi Egami
       position: copi
-  title: Wide angle capability for the high-resolution chopper spectrometer PHAROS
-    at Los Alamos
+  title: Wide angle capability for the high-resolution chopper spectrometer
+    PHAROS at Los Alamos
 0097_cfmr:
   amount: 13000
   begin_date: 1997-06-15
   end_date: 1998-06-14
-  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
   team:
     - institution: msu
       name: sbillinge
@@ -176,13 +182,14 @@
     - institution: msu
       name: Michael Thorpe
       position: copi
-  title: Local atomic structure of semiconductor alloys using pair distribution function
-    analysis
+  title: Local atomic structure of semiconductor alloys using pair distribution
+    function analysis
 0097_cfmr_kaplan:
   amount: 45000
   begin_date: 1997-06-15
   end_date: 1998-06-14
-  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
   team:
     - institution: msu
       name: sbillinge
@@ -194,13 +201,14 @@
     - institution: msu
       name: Tom Kaplan
       position: copi
-  title: Electronic and magnetic structure of transition metal oxides and related
-    systems
+  title: Electronic and magnetic structure of transition metal oxides and
+    related systems
 0097_cfmr_pinnavaia:
   amount: 65000
   begin_date: 1997-06-15
   end_date: 1998-06-14
-  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
   team:
     - institution: msu
       name: Tom Pinnavaia
@@ -230,8 +238,8 @@
       name: sbillinge
       position: pi
       subaward_amount: 270000
-  title: Local atomic structure and properties of transition metal oxides using pair
-    distribution function analysis
+  title: Local atomic structure and properties of transition metal oxides using
+    pair distribution function analysis
 0097_doe_thorpe:
   amount: 431395
   awardnr: DE-FG02-97ER45651
@@ -246,13 +254,14 @@
     - institution: msu
       name: Michael Thorpe
       position: copi
-  title: Local atomic structure of semiconductor alloys using pair distribution function
-    analysis
+  title: Local atomic structure of semiconductor alloys using pair distribution
+    function analysis
 0098_cfmr:
   amount: 13000
   begin_date: 1998-06-15
   end_date: 1999-06-14
-  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
   team:
     - institution: msu
       name: sbillinge
@@ -267,7 +276,8 @@
   amount: 33000
   begin_date: 1998-06-15
   end_date: 1999-06-14
-  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
   team:
     - institution: msu
       name: sbillinge
@@ -282,8 +292,8 @@
     - institution: msu
       name: Bhanu Mahanti
       position: copi
-  title: Theoretical and Experimental studies of electronic and structural properties
-    of pristine and doped manganites
+  title: Theoretical and Experimental studies of electronic and structural
+    properties of pristine and doped manganites
 0099_nist_pinnavaia:
   amount: 155030
   begin_date: 1999-07-01
@@ -297,8 +307,8 @@
     - institution: msu
       name: Tom Pinnavaia
       position: copi
-  title: Neutron Scattering Studies of Structure and Dynamics in Disordered Mesoporous
-    Materials
+  title: Neutron Scattering Studies of Structure and Dynamics in Disordered
+    Mesoporous Materials
 0099_nsfche_pinnavaia:
   amount: 1917858
   begin_date: 1999-07-01
@@ -326,7 +336,8 @@
   amount: 26000
   begin_date: 2000-06-15
   end_date: 2001-06-14
-  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
   team:
     - institution: msu
       name: sbillinge
@@ -352,8 +363,8 @@
     - institution: moscowstateu
       name: E. Antipov
       position: copi
-  title: Charge Inhomogeneities on Different Length-scales probed with high-resolution
-    neutron diffraction
+  title: Charge Inhomogeneities on Different Length-scales probed with
+    high-resolution neutron diffraction
 00_dmr:
   amount: 330000
   begin_date: 2000-07-01
@@ -364,7 +375,8 @@
       name: sbillinge
       position: pi
       subaward_amount: 330000
-  title: Probing the Electronic State of Novel Materials using the Local Atomic Structure
+  title: Probing the Electronic State of Novel Materials using the Local Atomic
+    Structure
 00_mucat_bmbeamlines:
   amount: 1200000
   begin_date: 2000-09-01
@@ -387,7 +399,8 @@
     - institution: uwashington
       name: Ken Kelton
       position: copi
-  title: Development of the bending magnet beamlines in the MUCAT sector at the APS
+  title: Development of the bending magnet beamlines in the MUCAT sector at the
+    APS
 00_npdf:
   amount: 800000
   begin_date: 2000-09-01
@@ -406,7 +419,8 @@
   amount: 28000
   begin_date: 2001-06-15
   end_date: 2002-06-14
-  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
   team:
     - institution: msu
       name: sbillinge
@@ -420,7 +434,8 @@
   amount: 20000
   begin_date: 2001-06-15
   end_date: 2001-06-14
-  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
   team:
     - institution: msu
       name: sbillinge
@@ -444,8 +459,8 @@
     - institution: msu
       name: Michael Thorpe
       position: copi
-  title: Local atomic structure of functional materials using pair distribution function
-    analysis of neutron and x-ray data
+  title: Local atomic structure of functional materials using pair distribution
+    function analysis of neutron and x-ray data
 01_isis_postdoc:
   amount: 200000
   begin_date: 2001-01-15
@@ -456,8 +471,8 @@
       name: sbillinge
       position: pi
       subaward_amount: 200000
-  title: Local Structure-Property relationship of electronic oxides (funds a post-doc
-    at ISIS)
+  title: Local Structure-Property relationship of electronic oxides (funds a
+    post-doc at ISIS)
 02_anl_merix:
   amount: 109670
   begin_date: 2002-08-16
@@ -468,8 +483,8 @@
       name: sbillinge
       position: pi
       subaward_amount: 109670
-  title: Development of medium resolution inelastic x-ray scattering (MERIX) spectrometer
-    for the study of correlated electron systems
+  title: Development of medium resolution inelastic x-ray scattering (MERIX)
+    spectrometer for the study of correlated electron systems
 02_nsfche_pinnavaia:
   amount: 2232644
   begin_date: 2002-08-01
@@ -500,7 +515,8 @@
   amount: 40000
   begin_date: 2003-06-15
   end_date: 2004-06-14
-  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
   team:
     - institution: msu
       name: sbillinge
@@ -552,7 +568,8 @@
     - institution: caltech
       name: Brent Fultz
       position: pi
-  title: Distributed Data Analysis for Neutron Scattering Experiments (Design proposal)
+  title: Distributed Data Analysis for Neutron Scattering Experiments (Design
+    proposal)
 04_doe_bes:
   amount: 288195
   begin_date: 2004-09-01
@@ -583,8 +600,8 @@
     - institution: caltech
       name: Brent Fultz
       position: pi
-  title: Distributed Data Analysis for Neutron Scattering Experiments (Construction
-    proposal)
+  title: Distributed Data Analysis for Neutron Scattering Experiments
+    (Construction proposal)
 06_rapdf_detector:
   amount: 279894
   begin_date: 2006-06-01
@@ -628,8 +645,8 @@
       name: Simon Billinge
       position: pi
       subaward_amount: 3600000.0
-  title: Towards an understanding of nano-scale fluctuations in strongly correlated
-    electron systems
+  title: Towards an understanding of nano-scale fluctuations in strongly
+    correlated electron systems
 09_Columbia_EFRC:
   amount: 15254325.0
   awardnr: DE-SC0001085
@@ -672,8 +689,8 @@
     - institution: ''
       name: Christopher Wiebe
       position: copi
-  title: PIRE:International consortium for probing novel superconductors with neutrons,
-    muons, photons and STM
+  title: PIRE:International consortium for probing novel superconductors with
+    neutrons, muons, photons and STM
 10_toyota:
   amount: 20228
   begin_date: 2010-09-01
@@ -684,8 +701,8 @@
       name: sbillinge
       position: pi
       subaward_amount: 20228
-  title: Use of Pair Distribution Function Analysis to determine the Surface Energy
-    of Nanoparticle Catalysts
+  title: Use of Pair Distribution Function Analysis to determine the Surface
+    Energy of Nanoparticle Catalysts
 11_JUAMI-I:
   amount: 200000.0
   awardnr: DMR-1069120
@@ -764,8 +781,8 @@
       name: Billinge Simon
       position: copi
       subaward_amount: 10000.0
-  title: Study of spatial distribution of degradation products in hull wood from the
-    Mary Rose
+  title: Study of spatial distribution of degradation products in hull wood from
+    the Mary Rose
 14_FWP:
   amount: 2850000.0
   awardnr: DE-SC0012704
@@ -777,8 +794,8 @@
       name: Simon Billinge
       position: pi
       subaward_amount: 500000
-  title: Towards an understanding of nano-scale fluctuations in strongly correlated
-    electron systems
+  title: Towards an understanding of nano-scale fluctuations in strongly
+    correlated electron systems
 14_mrsec:
   amount: 10092792.0
   awardnr: DMR-1420634
@@ -908,7 +925,8 @@
     - institution: tamu
       name: Abraham Clearfield
       position: pi
-  title: Unconventional Metal Organic Frameworks for actinide-lanthanide separation
+  title: Unconventional Metal Organic Frameworks for actinide-lanthanide
+    separation
 17_NOMAD_GO!_student:
   amount: 232514.0
   awardnr: ORNL sub
@@ -964,7 +982,8 @@
       name: Simon Billinge
       position: pi
       subaward_amount: 70103
-  title: Nuclear Energy Enabling Technology and Nuclear Science User Facility Activities
+  title: Nuclear Energy Enabling Technology and Nuclear Science User Facility
+    Activities
 18_fwp_sub_for_Soham:
   amount: 40000
   awardnr: tbd
@@ -994,13 +1013,14 @@
     - institution: bnl
       name: Line Pouchard
       position: pi
-  title: Data analysis pipelines with provenance for in-situ x-ray powder diffraction
-    and atomic pair distribution function analysis
+  title: Data analysis pipelines with provenance for in-situ x-ray powder
+    diffraction and atomic pair distribution function analysis
 1999_cfmr:
   amount: 10000
   begin_date: 1999-06-15
   end_date: 2000-06-14
-  funder: Center for Fundamental Materials Research (CMFR) at Michigan State University
+  funder: Center for Fundamental Materials Research (CMFR) at Michigan State
+    University
   team:
     - institution: msu
       name: sbillinge
@@ -1065,8 +1085,9 @@
       name: Ngai Yin Yip
       position: pi
       subaward_amount: 42577
-  title: Towards a Mechanistic Understanding of Inter- and Intra-molecular Interactions
-    in Temperature Swing Solvent Extraction Desalination with Novel Atomistic Measurements
+  title: Towards a Mechanistic Understanding of Inter- and Intra-molecular
+    Interactions in Temperature Swing Solvent Extraction Desalination with Novel
+    Atomistic Measurements
 21_3m:
   amount: 101638
   awardnr: n/a
@@ -1078,8 +1099,8 @@
       name: Simon Billinge
       position: pi
       subaward_amount: 101638
-  title: Pair Distribution Function (PDF) Methodology and Advanced Computing for Nanostructure
-    Determination
+  title: Pair Distribution Function (PDF) Methodology and Advanced Computing for
+    Nanostructure Determination
 21_bnl:
   amount: 67376.63
   awardnr: n/a
@@ -1111,8 +1132,9 @@
       name: Dinsefa Mensur
       position: copi
       subaward_amount: 10000
-  title: Developing Accessible Educational and Research Resources for East African
-    Graduate Students in Computational Materials Science and Sustainability
+  title: Developing Accessible Educational and Research Resources for East
+    African Graduate Students in Computational Materials Science and
+    Sustainability
 21_jhu_mitra:
   amount: 55000
   begin_date: 2021-06-01
@@ -1164,7 +1186,8 @@
       name: Tian Zheng
       position: copi
       subaward_amount: 0
-  title: Applying Machine Learning to Valuable Data in the Physical Sciences and Engineering
+  title: Applying Machine Learning to Valuable Data in the Physical Sciences and
+    Engineering
 22_dsi_seed:
   amount: 75000
   awardnr: n/a
@@ -1208,8 +1231,8 @@
       name: Steven Torrisi
       position: co-pi
       subaward_amount: 0
-  title: A Data-driven Approach to Solving the Structure Refinement Problem for Defected
-    and Disordered Nanoparticles
+  title: A Data-driven Approach to Solving the Structure Refinement Problem for
+    Defected and Disordered Nanoparticles
 23_doe_neutron_scattering:
   amount: 900000
   awardnr: DE-SC0024141

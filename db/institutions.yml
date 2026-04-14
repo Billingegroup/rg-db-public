@@ -421,7 +421,8 @@ cas:
       name: Institute of Physics
     iocmasec:
       aka: []
-      name: Institute of Computational Mathematics and Scientific/Engineering Computing
+      name: Institute of Computational Mathematics and Scientific/Engineering
+        Computing
   month: 3
   name: The Chinese Academy of Sciences
   year: 2020
@@ -532,7 +533,8 @@ columbiau:
       aka:
         - Columbia MRSEC
         - PAS3
-      name: Center for Precision Assembly of Superstratic and Superatomic Solids (PAS3)
+      name: Center for Precision Assembly of Superstratic and Superatomic Solids
+        (PAS3)
     apam:
       aka:
         - APAM
@@ -965,8 +967,8 @@ ghentu:
     chemistry:
       name: Department of Chemistry
     matsci:
-      name: Sol-gel Centre for Research on Inorganic Powders and Thin films Synthesis
-        (SCRiPTS)
+      name: Sol-gel Centre for Research on Inorganic Powders and Thin films
+        Synthesis (SCRiPTS)
   name: Ghent University
   state: East Flanders
   street: St. Pietersnieuwstraat 33
@@ -2240,8 +2242,8 @@ sci-tec:
   aka: []
   city: Milan
   country: Italy
-  name: Institute of Chemical Sciences and Technologies "G.Natta" Consiglio Nazionale
-    delle Ricerche (SCI-TEC)
+  name: Institute of Chemical Sciences and Technologies "G.Natta" Consiglio
+    Nazionale delle Ricerche (SCI-TEC)
   state: ''
   street: via A. Corti 12
   zip: '20133'
@@ -2346,8 +2348,8 @@ stockholmu:
   name: Stockholm University
   schools:
     pmisc:
-      name: Berzelii Centre EXSELENT on Porous Materials and Inorganic and Structural
-        Chemistry
+      name: Berzelii Centre EXSELENT on Porous Materials and Inorganic and
+        Structural Chemistry
   updated: 2020-03-17 21:15:14.610311
   uuid: a968ff5a-a73c-4f95-8288-607d2b9911d6
   year: 2020
@@ -3398,6 +3400,23 @@ uregensburg:
   updated: 2022-01-18 08:01:39.959312
   uuid: 9823f4d6-3edf-424f-87ea-c8736ea6dbe1
   zip: '93053'
+urochester:
+  city: Rochester
+  country: USA
+  date: 2026-03-06
+  departments:
+    matsci:
+      name: Materials Science Program
+    meche:
+      name: Mechanical Engineering Department
+  name: University of Rochester
+  schools:
+    engineering:
+      name: Hajim School of Engineering & Applied Sciences
+  state: NY
+  updated: 2026-03-06 12:48:51.791145
+  uuid: 203ec8d7-a91e-4c8b-b935-ca0ed7469724
+  zip: '14627'
 urome:
   aka:
     - uroma
@@ -3719,6 +3738,20 @@ x-themoonshotco:
   updated: 2021-04-11 18:26:06.334303
   uuid: b6ae5aab-cf42-4318-9f14-9d50795d862c
   zip: '94043'
+yaleu:
+  city: New Haven
+  country: USA
+  date: 2026-03-11
+  departments:
+    cheme:
+      name: Department of Chemical and Environmental Engineering
+      aka:
+        - eee
+  name: Yale University
+  state: CT
+  updated: 2026-03-11 12:47:24.225824
+  uuid: 2303efbf-f777-4705-b217-6339b5fe25b7
+  zip: '06520'
 zhejiangu:
   aka:
     - zhejiangu

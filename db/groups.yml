@@ -12,6 +12,20 @@ bg:
   pi_name: Simon J. L. Billinge
   projects: ''
   website: www.thebillingegroup.com
+cnsi:
+  aka:
+    - CNSI
+    - California N
+    - The Billinge Group
+  banner: 20151103_173027.png
+  department: apam
+  email: <b>sbillinge</b> <i>(AT)</i> <b>ucsb.edu</b>
+  institution: ucsb
+  mission_statement: To nurture science and innovation in California
+  name: California NanoSystems Institute
+  pi_name: Simon J. L. Billinge
+  projects: ''
+  website: https://www.cnsi.ucsb.edu/
 xray:
   aka:
     - xray group
