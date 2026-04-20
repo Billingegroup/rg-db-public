@@ -7135,7 +7135,7 @@
   talk_id: 50-manifold-of-meaning
   title: The materials genome and the manifold of meaning
   type: seminar
-2604sb_grazuniversityoftechnology,graz,austria:
+2604sb-graz,austria:
   abstract: Nanoparticles, nanoporous materials and nanostructured bulk
     materials are at the heart of next generation technological solutions in
     sustainable energy, effective new pharmac euticals and environmental
@@ -7161,9 +7161,10 @@
   project:
     - all
   status: accepted
-  talk_id: tbd
+  subtitle: understanding nanostructure with x-rays and algorithms
+  talk_id: 50-saving-pharma-planet+lab-pdf
   title: 'From saving pharmaceuticals to saving priceless historical artefacts via
-    saving the planet: understanding nanostructure with x-rays and algorithms'
+    saving the planet:'
   type: plenary
 2605sb_ucsantabarbara,santabarbara,ca:
   abstract: AI powered virtual assistants have gone from being the butt of jokes
@@ -7188,6 +7189,41 @@
   status: accepted
   talk_id: tbd
   title: '{LLM} chatbots: omniscient super-intelligence or just BS'
+  type: invited
+2607sb_detroit,mi:
+  abstract: The atomic pair distribution function (PDF) method, as applied to
+    nanostructure in crystals, saw its first light in the early 1990s with the
+    advent of pulsed neutron sources. Los Alamos Neutron Scattering Center
+    played a pivotal role in its establishment, following first steps at IPNS in
+    Chicago. I spent my post-doc writing horrible spaghetti Fortran 77 code to
+    make it all work at LANSCE and this is where I first got to know Roger Pynn,
+    who provided encouragement and support. A little later, the opportunity came
+    along to upgrade the old high resolution powder diffractometer, NPD, by
+    adding an "F" to the end of its acronym and a bunch of new detectors.  The
+    NPDF instrument really revolutionized PDF studies in the US because of its
+    stability and low background, ideal for the delicate and quantitative
+    measurements of diffuse scattering needed for PDF studies. PDF is now a
+    widely established and used and is under continuous development, with
+    applications using x-rays and electrons as well as pulsed neutrons. The
+    rest, as they say, is history. I will share some recollections of the early
+    days at IPNS but more importantly at LANSCE (later the Lujan Center). As
+    well as PDF sticking to me like a rash, Roger Pynn has also stuck as we find
+    ourselves now together in Santa Barbara, all these years later, looking
+    forward to continuing our quest to make the world better, one PDF at a time.
+  authors:
+    - sbillinge
+  begin_date: 2026-07-12
+  end_date: 2026-07-16
+  location: Detroit, MI
+  meeting_name: 13th American Conference on Neutron Scattering (ACNS)
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: tbd
+  title: Local structure with neutron PDFs, from Fortran at LANSCE to the latest
+    GenAI
   type: invited
 2608md_calgary,canada:
   abstract: Modern structural problems are hard because of the complexity of
