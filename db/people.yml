@@ -1314,6 +1314,28 @@ dschmuckler:
   name: Daniel Schmuckler
   orcid_id: ''
   position: Undergraduate Researcher
+dsirakov:
+  active: true
+  aka:
+    - Daniel Sirakov
+    - Danny Sirakov
+  avatar: https://github.com/danielsirakov.png
+  bio: Daniel is a second year physics major at UC Santa Barbara. 
+       In his free time, he enjoys skateboarding, surfing, and drawing.
+  education: []
+  email: danielsirakov@ucsb.edu
+  employment:
+    - begin_date: 2026-05-26
+      organization: ucsb
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: danielsirakov
+  grp_mtg_active: true
+  name: Daniel Sirakov
+  orcid_id: 0009-0008-8800-4503
+  position: undergraduate researcher
 dtordari:
   active: false
   aka: []
