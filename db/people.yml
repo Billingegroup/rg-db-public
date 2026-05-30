@@ -1316,15 +1316,18 @@ dschmuckler:
   position: Undergraduate Researcher
 dsirakov:
   active: true
-  aka: []
+  aka:
+    - Daniel Sirakov
+    - Danny Sirakov
   avatar: https://github.com/danielsirakov.png
-  bio: bio
+  bio: Daniel is a second year physics major at UC Santa Barbara.
+    In his free time, he enjoys skateboarding, surfing, and drawing.
   education: []
   email: danielsirakov@ucsb.edu
   employment:
     - begin_date: 2026-05-26
       end_date: 2026-12-31
-      organization: columbiau
+      organization: ucsb
       position: undergraduate researcher
       group: bg
       advisor: sbillinge
@@ -1332,7 +1335,7 @@ dsirakov:
   github_id: danielsirakov
   grp_mtg_active: true
   name: Daniel Sirakov
-  orcid_id: ''
+  orcid_id: 0009-0008-8800-4503
   position: undergraduate researcher
 dtordari:
   active: false
@@ -5767,7 +5770,7 @@ sgeorge:
   employment:
     - begin_date: 2026-05-26
       end_date: 2100-12-31
-      organization: columbiau
+      organization: ucsb
       position: '"graduate research assistant"'
       group: bg
       advisor: sbillinge
@@ -6388,7 +6391,7 @@ whuang:
   employment:
     - begin_date: 2026-05-26
       end_date: 2026-12-31
-      organization: columbiau
+      organization: ucsb
       position: undergraduate researcher
       group: bg
       advisor: sbillinge
