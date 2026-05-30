@@ -1314,6 +1314,26 @@ dschmuckler:
   name: Daniel Schmuckler
   orcid_id: ''
   position: Undergraduate Researcher
+dsirakov:
+  active: true
+  aka: []
+  avatar: https://github.com/danielsirakov.png
+  bio: bio
+  education: []
+  email: danielsirakov@ucsb.edu
+  employment:
+    - begin_date: 2026-05-26
+      end_date: 2026-12-31
+      organization: columbiau
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: danielsirakov
+  grp_mtg_active: true
+  name: Daniel Sirakov
+  orcid_id: ''
+  position: undergraduate researcher
 dtordari:
   active: false
   aka: []
@@ -4764,6 +4784,8 @@ sbillinge:
       month: 5
       day: 12
   honors:
+    - name: Public Voices Fellow with the OpEd Project
+      year: 2026
     - name: Gregori Aminoff prize of the Royal Swedish Academy of Sciences
       year: 2025
     - name: Innovation in Materials Characterization Award of the Materials
@@ -4851,6 +4873,15 @@ sbillinge:
       text: ''
       url: https://analyticalscience18.com/content/article-do/q-simon-billinge.
       grant: dmref19
+    - type: online
+      topic: Public Voices Fellowship announcement
+      title: 'Shaping the national conversation: UC Santa Barbara announces third
+        cohort of Public Voices Fellows'
+      date: 2026-04-28
+      publication: UCSB web site
+      text: ''
+      url: https://hfa.ucsb.edu/news/shaping-national-conversation-uc-santa-barbara-announces-third-cohort-public-voices-fellows
+      grant: doeneutron23
     - type: online
       topic: online news article
       title: New fast camera shutter shows how materials move heat around
@@ -5726,6 +5757,26 @@ sfrank:
   name: Sara Frank
   orcid_id: 0000-0001-6321-8363
   position: visiting Researcher, U. Aarhus
+sgeorge:
+  active: true
+  aka: []
+  avatar: https://github.com/stevengeorge128.png
+  bio: bio
+  education: []
+  email: stevengeorge@ucsb.edu
+  employment:
+    - begin_date: 2026-05-26
+      end_date: 2100-12-31
+      organization: columbiau
+      position: '"graduate research assistant"'
+      group: bg
+      advisor: sbillinge
+      status: phd
+  github_id: stevengeorge128
+  grp_mtg_active: true
+  name: Steven George
+  orcid_id: 0009-0007-3486-3380
+  position: '"graduate research assistant"'
 sghose:
   active: false
   aka: []
@@ -6327,6 +6378,26 @@ vnield:
       group: bg
   name: Victoria M. Nield
   position: unknown
+whuang:
+  active: true
+  aka: []
+  avatar: https://github.com/symscae.png
+  bio: bio
+  education: []
+  email: william_huang@ucsb.edu
+  employment:
+    - begin_date: 2026-05-26
+      end_date: 2026-12-31
+      organization: columbiau
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: symscae
+  grp_mtg_active: true
+  name: William Huang
+  orcid_id: ''
+  position: undergraduate researcher
 wzhou:
   active: false
   aka:
