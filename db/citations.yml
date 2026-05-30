@@ -13877,6 +13877,34 @@ wrigh;phdt;19:
   title: Towards Real Time Characterization of Grain Growth from the Melt
   type: PhD Thesis
   year: '2019'
+wu;jpcc:
+  ackno: ''
+  author:
+    - Kunlun Wu
+    - Xinyi Ma
+    - Haolan Sun
+    - Songsheng Tao
+    - Simon J. L. Billinge
+    - Siu-Wai Chan
+  doi: 10.1021/acs.jpcc.6c00923
+  entrytype: article
+  facility: pdf, nslsii
+  grant: doeneutron23
+  journal: j physical chemistry C
+  month: apr
+  nb: ''
+  note: To be published
+  number: ''
+  pages: ''
+  professional_summary: ''
+  synopsis: PDF helped to explain the optical conductivity of an oxide
+    nanoparticle ceria sample
+  tags: ''
+  title: Conductivity and structure of nanoceria relating to catalytic
+    performance
+  url: https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6c00923
+  volume: ''
+  year: '2026'
 wustr;jacs21:
   ackno: 'This work was supported as part of GENESIS: A Next Generation Synthesis
     Center, an Energy Frontier Research Center funded by the U.S. Department of Energy,
