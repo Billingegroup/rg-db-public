@@ -6657,7 +6657,7 @@
     - sbillinge
   begin_date: 2025-10-03
   end_date: 2025-10-03
-  location: columbiau
+  location: Columbia University, New York, NY
   meeting_name: AI for Science/Engineering
   notes: []
   presenter: sbillinge
@@ -6665,7 +6665,7 @@
     - all
   status: accepted
   talk_id: 15-what-is-a-structure
-  title: 'AI enabled Materials Discovery: the big guns are piling in but is it working?'
+  title: '{AI} enabled Materials Discovery: the big guns are piling in but is it working?'
   type: invited
 2510sb_fortaleza,brazil:
   abstract: Local structure is at the heart of materials science studies for
@@ -6803,11 +6803,11 @@
     a community maintained set of tools, and a roadmap, to help scientists bring
     their software higher levels of reproducibility and shareability.
   authors:
-    - sjlee
+    - sjblee
     - cmyers
     - ayang
     - tzhang
-    - ycxiao
+    - ycexiao
     - sbillinge
   begin_date: 2026-01-11
   end_date: 2026-01-16
@@ -7061,20 +7061,20 @@
   title: 'Real materials in action: everything, everywhere, all at once'
   type: invited
 2603sb_oxford:
-  abstract: tbd
+  abstract: n/a
   authors:
     - sbillinge
   begin_date: 2026-03-25
   end_date: 2026-03-27
   location: St. John's College, Oxford University, UK
-  meeting_name: Keenfest, a 'festschrift' for Dave Keen
+  meeting_name: Keenfest, a festschrift for Dave Keen
   notes: []
   presenter: sbillinge
   project:
     - all
   status: accepted
   talk_id: 30-dave-keen
-  title: PDF in a Nutshell
+  title: '{PDF} in a nutshell'
   type: invited
 2603sb_sandiego,ca:
   abstract: Materials discovery using AI and ML is the plat du jour at the
@@ -7135,6 +7135,37 @@
   talk_id: 50-manifold-of-meaning
   title: The materials genome and the manifold of meaning
   type: seminar
+2604sb_coloradostateuniversity:
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk
+    materials are at the heart of next generation technological solutions in
+    sustainable energy, effective new pharmac euticals and environmental
+    remediation.  A key to making progress is to be able to understand the
+    nanoparticle structure, the arrangements of atoms in the nanoparticles and
+    nanoscale structures. Also critical is understanding the distribution of the
+    nanoparticles and how they change in time as devices run and reactions take
+    place.  We use advanced x-ray, neutron and electron scattering methods to
+    get at this problem.  I will talk about these methods and show some recent
+    success-stories in the fields of sustainable energy, environmental
+    remediation and cultural heritage preservation.  However, I will also
+    discuss the fundamental limitations on our ability to extract information
+    from the data and how we are now turning to machine learning and artificial
+    intelligence techniques to give more insights.
+  authors:
+    - sbillinge
+  begin_date: 2026-04-30
+  department: Department of Chemistry
+  end_date: 2026-04-30
+  institution: Colorado State University
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  subtitle: understanding nanostructure with x-rays and algorithms
+  talk_id: 50-saving-pharma-planet+lab-pdf
+  title: From saving pharmaceuticals to saving priceless historical artefacts
+    via saving the planet
+  type: seminar
 2604sb_grazuniversityoftechnology,graz,austria:
   abstract: Nanoparticles, nanoporous materials and nanostructured bulk
     materials are at the heart of next generation technological solutions in
@@ -7155,17 +7186,50 @@
   begin_date: 2026-04-14
   end_date: 2026-04-16
   location: Graz University of Technology, Graz, Austria
-  meeting_name: XRD excites 2026 Symposium
+  meeting_name: XRD {EXCITES} 2026 Symposium
   notes: []
   presenter: sbillinge
   project:
     - all
   status: accepted
-  talk_id: tbd
+  talk_id: 50-saving-pharma-planet+lab-pdf
   title: 'From saving pharmaceuticals to saving priceless historical artefacts via
     saving the planet: understanding nanostructure with x-rays and algorithms'
   type: plenary
-2605sb_ucsantabarbara,santabarbara,ca:
+2605sb_stanforduniversity:
+  abstract: At the heart of materials science studies for next generation
+    materials is an idea that we want to be studying real materials doing real
+    things, often in real devices in real time.  In practice, this presents a
+    number of key data analysis and interpretation challenges because it implies
+    we are studying ever more complicated samples, often in complex
+    heterogeneous environments and in time-resolved operando setups, and we are
+    interrogating our data for more and more subtle effects such as
+    microstructures and evolving defects and local structures. Advanced data
+    analysis algorithms and software are essential for the success of this
+    enterprise.  In this talk I will describe various developments that leverage
+    the power of artificial intelligence (AI), principally machine learning
+    (ML), to aid in this task.  Some of these powerful tools are clearly ready
+    to be applied more broadly in the community and others are still in the
+    future but look very promising.  They include unsupervised and supervised
+    machine learning approaches, conventional ML and deep neural networks,
+    including generative models, as well as approaches for autonomous
+    time-resolved experimentation. I will lay out various aspects of ML in
+    structure science using examples from our own work.
+  authors:
+    - sbillinge
+  begin_date: 2026-05-13
+  department: Materials Science and Engineering Department
+  end_date: 2026-05-13
+  institution: Stanford University
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 50-real-materials-and-data
+  title: '{AI/ML} in crystallography: what can it do for us, what can we do with it?'
+  type: colloquium
+2605sb_ucsantabarbara-ai:
   abstract: AI powered virtual assistants have gone from being the butt of jokes
     due to their dysfunction, to engendering fear that they will achieve
     super-intelligence and take over and destroy the human race, in a remarkably
@@ -7186,8 +7250,80 @@
   project:
     - all
   status: accepted
+  talk_id: 15-mats-ai+llms-bs
+  title: '{LLM} chatbots: omniscient super-intelligence or just {BS}'
+  type: invited
+2605sb_universityofliverpool,liverpool,uk:
+  abstract: 'When an object fills space uniformly, such as a crystal, we can describe
+    its symmetry uniquely by assigning it its space group. We can think of this symmetry
+    as being a topological quantity: the object either has the symmetry or it does
+    not. The group consists of a set of symmetry operations, each of which is satisfied
+    by the object. If any of the elements is not satisfied, the space-group changes.
+    However, we can ask a question: what if we introduce a small defect in the structure,
+    for example, by introducing a vacancy on a single atomic site. Strictly speaking,
+    the periodic symmetry is broken and we can''t even use space groups any more. But
+    the change is infinitely small, so practically speaking, we still want to be able
+    to apply group theory in this case, it can still be a useful tool for us. In practice,
+    we recover by doing some averaging and recovering a periodic signal and a deviatoric
+    correction and we can apply the space-group symmetry to the periodic part. But
+    this introduces the concept of "an approximately broken symmetry" or a "continuously
+    changing" symmetry. And it allows us to ask questions such as "If I introduce
+    ''such and such'' a defect, which of the symmetry operations will be strongly broken
+    and which will be weakly broken?". Working on the basis that such a concept could
+    be useful to science, we have explored ways to quantify symmetry breaking. I will
+    introduce these ideas in this talk. I introduce a method that uses a statistical
+    approach based on the Jensen-Shannon divergence. The measure is calculated by
+    comparing the transformed atomic density function with its original after applying
+    the symmetry transformation. I will introduce the measure and and show some tests
+    for various cases including finite size crystallites (where the surfaces break
+    the crystallographic symmetry), atomic displacements from high symmetry positions,
+    and collective motions of atoms due to rotations of rigid octahedra. The approach
+    provides a powerful tool for assessing local symmetry breaking and offers new
+    insights that can help researchers understand how different structural distortions
+    affect different symmetry operations.'
+  authors:
+    - sbillinge
+  begin_date: 2026-05-26
+  end_date: 2026-05-28
+  location: University of Liverpool, Liverpool, UK
+  meeting_name: '7th MACSMIN 2026: Mathematics and Computer Science for Materials
+    Innovation'
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 45-symmetry-and-hierarchy
+  title: Symmetry in a hierarchical world
+  type: invited
+  webinar: true
+2606sb_spetses(akss),greece:
+  abstract: AI and ML are beginning to have profound impacts on materials
+    science. Large models being run by universities but also tech companies and
+    startups are predicting hundreds of millions of putative ``new" materials
+    and machine learned interatomic potentials (MLIPs) are providing DFT
+    accuracy in very large (million atom) model simulations.  However, the vast
+    majority of these models are trained on theoretical data. There are a few
+    examples of experimental data being used to train models, such as
+    crystal-structure databases such as the PDB, ICSD, and CSD, that were built
+    up over decades of work by crystallographers, but these are the exception
+    rather than the rule.  In this talk, I will discuss some examples, but
+    mostly challenges and potential opportunities for addressing the problems
+    associated with capturing, cleaning, curating and creating experimental
+    databases that can be used to machine learn on.
+  authors:
+    - sbillinge
+  begin_date: 2026-06-21
+  end_date: 2026-06-26
+  location: Anargyreios and Korgialeneios School of Spetses (AKSS), Greece
+  meeting_name: AI in Materials Research-Theory-Experiment-Simulations Workshop
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
   talk_id: tbd
-  title: '{LLM} chatbots: omniscient super-intelligence or just BS'
+  title: What can {AI} models learn from experimental data?
   type: invited
 2608md_calgary,canada:
   abstract: Modern structural problems are hard because of the complexity of

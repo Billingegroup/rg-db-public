@@ -53,3 +53,7 @@ annote
 
 ;; the state
 ND
+
+;; a greek institution
+AKSS
+akss
