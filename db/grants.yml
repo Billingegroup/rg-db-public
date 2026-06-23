@@ -1245,3 +1245,45 @@
       position: pi
       subaward_amount: 900000
   title: 'Real materials in action: Data analysis developments for real materials'
+26_diffai:
+  amount: 270000
+  awardnr: DMR-2625202
+  begin_date: 2026-05-01
+  end_date: 2029-04-30
+  funder: NSF-DMR
+  team:
+    - institution: ucsb
+      name: Simon Billinge
+      position: copi
+      subaward_amount: 270000
+    - institution: urochester
+      name: Niaz Abdulrahman
+      position: pi
+      subaward_amount: 270000
+    - institution: nist
+      name: William Ratcliffe
+      position: copi
+      subaward_amount: 0
+  title: 'Collaborative Research: Elements: DiffAI: Diffraction Database and Intelligent
+    Analysis'
+26_keck_toney:
+  amount: 264641
+  awardnr: ''
+  begin_date: 2026-01-01
+  end_date: 2028-12-31
+  funder: Keck Foundation
+  team:
+    - institution: ucsb
+      name: Simon Billinge
+      position: copi
+      subaward_amount: 264641
+    - institution: ucolorado
+      name: Michael Toney
+      position: pi
+      subaward_amount: 430000
+    - institution: anl
+      name: Samuel Marks
+      position: copi
+      subaward_amount: 300000
+  title: Resolving the femtosecond local structural dynamics driving solid-state
+    ion transport

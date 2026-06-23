@@ -8109,44 +8109,37 @@ lazar;prb14:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/lazar_prb14.pdf
   year: '2014'
 lee;sa25:
-  ackno: We thank the NSLS-II scientific-python-cookiecutter project for
-    providing the starting point for our development. We are also grateful to
-    the conda-forge volunteers for their support of the open source community.
-    We thank the cookiecutter project for providing a framework to scaffold new
-    projects. We thank All the Billinge-group contributors to our code base, but
-    especially Pavol Juhas and Chris Farrow for their earlier development of
-    software in the Billinge group, which provided the basis for implementing
-    and testing scikit-package, including the diffpy. namespace structure. We
-    also thank Yuchen Xiao for the development of user-configurable defaults,
-    Yucong Chen, Tina Na Narong, and Sam Andrello for their constructive
-    feedback, which helped improve scikit-package and its documentation. Work in
-    the Billinge Group was supported by the U.S. Department of Energy, Office of
-    Science, Office of Basic Energy Sciences (DOE-BES) under contract No.
-    DE-SC0024141.
+  ackno:
+    We thank the NSLS-II scientific-python-cookiecutter project for providing the starting point for our development. We are also grateful to the conda-forge volunteers for their support of the open source community.
+    We thank the cookiecutter project for providing a framework to scaffold new projects.
+    We thank all the Billinge group contributors to our code base, but especially Pavol Juhas and Chris Farrow for their earlier development of software in the Billinge group, which provided the basis for implementing and testing \skpkg, including the \texttt{diffpy.} namespace structure.
+    We also thank Yucong Chen, Tina Na Narong, and Sam Andrello for their constructive feedback, which helped improve \skpkg and its documentation.
+    This work was supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0024141.
   author:
     - Sangjoon Lee
     - Caden Myers
     - Andrew Yang
     - Tieqiong Zhang
+    - Yuchen Xiao
     - Simon J. L. Billinge
   doi: ''
   entrytype: article
   facility: ''
   grant: doeneutron23
-  journal: Science Advances
+  journal: Digital Discovery
   month: Jul
   nb: ''
-  note: ArXiv:2507.03328v2
+  note: ArXiv:2507.03328v2.  To be published in Digital Discovery.
   number: ''
   pages: ''
   professional_summary: ''
-  synopsis: The
+  synopsis: The scikit-package for software packaging standards work is described
   tags: software, packaging, distribution
   title: scikit-package - software packaging standards and roadmap for sharing
     reproducible scientific software
   url: ''
   volume: ''
-  year: '2025'
+  year: '2026'
 lei;ic13:
   author:
     - Lei, Hechang
@@ -10600,6 +10593,47 @@ popa;b;pdtap26:
   url: ''
   volume: ''
   year: '2026'
+dalmi;nl26:
+  ackno: ''
+  author:
+    - Dalmieda, Johnson
+    - Tencio, Daybis
+    - Khan, Rohma
+    - Myers, Caden J.
+    - Shanahan, James P.
+    - Karube, Yuzuka
+    - Pagliero, Daniela
+    - Wolcott, Abraham
+    - Xu, Kang
+    - Ziffer, Mark E.
+    - Ghose, Sanjit
+    - Lee, Sang-Jun
+    - Nordlund, Dennis
+    - Schuck, P. James
+    - Billinge, Simon J.L.
+    - Ercius, Peter
+    - Meriles, Carlos A.
+    - Walker, David
+    - Whitaker, Matthew
+    - Braun, Augustin
+    - Owen, Jonathan
+  doi: ''
+  entrytype: article
+  facility: nslsii, pdf
+  grant: doeneutron23
+  journal: Nano Letters
+  month: tbd
+  nb: ''
+  note: To be Published
+  number: ''
+  pages: ''
+  professional_summary: ''
+  synopsis: ''
+  tags: diamond
+  title: High pressure synthesis of ultrasmall nanodiamonds with nitrogen vacancy centers
+  url: ''
+  volume: ''
+  year: '2026'
 pouch;b;hobdamlitps20:
   ackno: tbd
   address: Singapore
@@ -11785,6 +11819,50 @@ scher;c25:
   url: https://doi.org/10.1016/j.chempr.2025.102619
   volume: '11'
   year: '2025'
+scher;jacs26:
+  ackno: 'The authors would like to thank Dr. Pascal Schouwink for his help with analyzing XRD
+    data. The work in Prof. Wendy Queen’s group was supported by the Swiss National
+    Science Foundation under grant number 200021 188536. Total scattering and powder
+    x-ray diffraction data were collected at the BM31 beamline under proposal numbers
+    A31-1-205 and A31-1-271 at the Swiss-Norwegian beamlines (SNBL) at the European
+    Synchrotron Research Facility (ESRF). The BM31 setup was funded by the Swiss National
+    Science Foundation (grant 206021 189629) and the Research Council of Norway (grant
+    296087). X-ray absorption near-edge spectra were collected at the 7-BM (QAS) beamline
+    under proposal number GU-316364 at the National Synchrotron Light Source II, a U.S.
+    Department of Energy (DOE) Office of Science User Facility operated for the DOE Office
+    of Science by Brookhaven National Laboratory under Contract No. DE-SC0012704. N.
+    Taheri acknowledges the funding provided by Bridge - Proof of Concept under grant
+    number 238600. M. A. expresses gratitude to the European Research Council (ERC) for
+    evaluating the project with the reference number 101106377 titled “CLARIFIER” and
+    accepting it for funding under the HORIZON TMA MSCA Postdoctoral Fellowships –
+    European Fellowships. Furthermore, M. A. acknowledges the funding by UK Research
+    and Innovation (UKRI) under the UK government’s Horizon Europe funding guarantee
+    (EP/Y023447/1; organization reference: 101106377). T. N. acknowledges the funding from
+    Toyota Research Institute, grant number PO-002332.'
+  author:
+    - Till Schertenleib
+    - Timo Felder
+    - Nazanin Taheri
+    - Wei Shi
+    - Tanaporn Na Narong
+    - Mehrdad Asgari
+    - Pattaraphon Rodlamul
+    - Simon J. L. Billinge
+    - Wendy Queen
+  doi: ''
+  entrytype: article
+  facility: esrf, bm31, nslsii, 7bm, qas
+  grant: doeneutron23
+  journal: JACS
+  month: ''
+  note: submitted
+  pages: ''
+  professional_summary: ''
+  synopsis: ''
+  title: 'Node Distortions as a Means of Defect Engineering in Zr-based MOFs'
+  url: ''
+  volume: ''
+  year: '2026'
 scher;cm25:
   ackno: Work in the Billinge group was supported by a grant from 3M Corporate
     Research Analytical Laboratory. Synchrotron X-ray PDF measurements were

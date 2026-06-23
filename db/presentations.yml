@@ -5738,7 +5738,7 @@
     be, and how it could be used to further our understanding of materials structure
     and properties. The result is a slightly non-conventional, less crystal-centric,
     view of material structure that we believe can, will, and is, resulting in novel
-    materials insights.  \n I will lay out some mathematical background for candidate
+    materials insights.  I will lay out some mathematical background for candidate
     materials gene-codings and will discuss how these fit into our new world view,
     populated as it is with Artificial Intelligence and Machine Learning.  I will
     also describe some of our efforts to apply ML to the nanostructure inverse problem:
@@ -5752,9 +5752,11 @@
   meeting_name: Joint USA-European Symposium on Machine learning, simulations
     and experiments for ultra low-power materials and devices
   notes: []
+  presenter: sbillinge
   project:
     - all
   status: accepted
+  talk_id: 45-materials-genome
   title: Do materials have a genome, and if they do, what can be done with it?
   type: invited
 2407sb_washingtondc:
@@ -5894,9 +5896,11 @@
   location: University of Liverpool, UK
   meeting_name: MACSMIN 2024
   notes: []
+  presenter: sbillinge
   project:
     - all
   status: accepted
+  talk_id: 60-materials-genome-structure-definition
   title: Materials genomics, materials heredity and the structure definition
     problem
   type: invited
@@ -7297,6 +7301,68 @@
   title: Symmetry in a hierarchical world
   type: invited
   webinar: true
+2606sb_networkschool:
+  abstract: Local structure is at the heart of materials science studies for
+    materials for next generation devices.  In practice, this presents a number
+    of key data analysis and interpretation challenges because it implies we are
+    studying ever more complicated samples, often in complex heterogeneous
+    environments and in time-resolved operando setups, and we are interrogating
+    our data for more and more subtle effects such as microstructures and
+    evolving defects and local structures. Of particular interest is the study
+    of nanomaterials and materials structure on different length-scales.  In
+    this talk I will describe the frontier for studying such systems using
+    x-ray, neutron and electron diffraction. Various developments that leverage
+    the latest data acquisition and analysis techniques are powered by
+    artificial intelligence (AI) and machine learning (ML).  I will describe our
+    attempts to push these boundaries forward by developing these emerging tools
+    in the application to local structure studies.
+  authors:
+    - sbillinge
+  begin_date: 2026-06-16
+  department: AI Month
+  end_date: 2026-06-17
+  institution: Network School
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 45-real-materials-and-data
+  title: Real materials in action characterized with the help of {AI}
+  type: seminar
+2606sb_singapore:
+  abstract: At the heart of materials science studies for next generation
+    materials is an idea that we want to be studying real materials doing real
+    things, often in real devices in real time.  In practice, this presents a
+    number of key data analysis and interpretation challenges because it implies
+    we are studying ever more complicated samples, often in complex
+    heterogeneous environments and in time-resolved operando setups, and we are
+    interrogating our data for more and more subtle effects such as
+    microstructures and evolving defects and local structures. Advanced data
+    analysis algorithms and software are essential for the success of this
+    enterprise.  In this talk I will describe various developments that leverage
+    the power of artificial intelligence (AI), principally machine learning
+    (ML), to aid in this task.  Some of these powerful tools are clearly ready
+    to be applied more broadly in the community and others are still in the
+    future but look very promising.  They include unsupervised and supervised
+    machine learning approaches, conventional ML and deep neural networks,
+    including generative models, as well as approaches for autonomous
+    time-resolved experimentation. I will lay out various aspects of ML in
+    structure science using examples from our own work.
+  authors:
+    - sbillinge
+  begin_date: 2026-06-16
+  end_date: 2026-06-19
+  location: Singapore
+  meeting_name: AI4X-Accelerates Conference 2026
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 15-ml-for-mats-characterization-ml-audience
+  title: Characterizing electronic and structural states of materials with {ML}
+  type: invited
 2606sb_spetses(akss),greece:
   abstract: AI and ML are beginning to have profound impacts on materials
     science. Large models being run by universities but also tech companies and
@@ -7324,6 +7390,37 @@
   status: accepted
   talk_id: tbd
   title: What can {AI} models learn from experimental data?
+  type: invited
+2607sb_brownuniversity,providence,ri:
+  abstract: "Spoiler alert, materials do not have a genome. Yet for the past decade,
+    and into the next decade, in the USA there has been a presidential and inter-agency
+    funding initiative called the 'Materials Genome Initiative (MGI)'. This initiative
+    has nothing to do with real genomes, materials or otherwise. However, in this
+    talk I, somewhat whimsically, explore some ideas about what a materials gene could
+    be, and how it could be used to further our understanding of materials structure
+    and properties. The result is a slightly non-conventional, less crystal-centric,
+    view of material structure that we believe can, will, and is, resulting in novel
+    materials insights.  I will lay out some mathematical background for candidate
+    materials gene-codings and will discuss how these fit into our new world view,
+    populated as it is with Artificial Intelligence and Machine Learning.  I will
+    also describe some of our efforts to apply ML to the nanostructure inverse problem:
+    given a 1D measured PDF, what is the 3D arrangement of atoms that gave rise to
+    it.  Preliminary results seem to be very promising."
+  authors:
+    - sbillinge
+  begin_date: 2026-07-06
+  end_date: 2026-07-10
+  location: Brown University, Providence, RI
+  meeting_name: Rigidity Theory meets Geometric Data Science for Applications in
+    Chemistry and Biology, Institute for Computational and Experimental Research
+    in Mathematics (ICERM)
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 45-materials-genome
+  title: Do materials have a genome, and if they do, what can be done with it?
   type: invited
 2608md_calgary,canada:
   abstract: Modern structural problems are hard because of the complexity of
