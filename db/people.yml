@@ -4521,6 +4521,14 @@ sbillinge:
     and Foundations. He regularly chairs and participates in reviews of major facilities
     and federally funded programs."
   bios:
+    - 'Pitch bio: I am expert in elucidating the atomic structure of complex materials
+      by developing advanced scattering methods. I am an expert in the use of Artificial
+      Intelligence and Machine Learning applied to experimental scientific data.  I
+      have more than 350 publications in leading physics, chemistry and materials
+      journals, regularly review for journals and funding agencies.  I have mentored
+      more than fifty PhD and post-doctoral students. I have received awards from
+      major professional societies including the Gregori Aminoff prize of the Royal
+      Swedish Academy of Science.'
     - Professor Simon Billinge is a professor of Materials Science and of
       Applied Physics and of Applied Mathematics at Columbia University.  He
       teaches materials science and data science and carries out scientific
@@ -4613,6 +4621,7 @@ sbillinge:
   employment:
     - organization: ucsb
       begin_date: 2026-01-01
+      begin_year: 2026
       group: bg
       other:
         - 'Full title: Distinguished Professor, Materials'
@@ -4622,7 +4631,9 @@ sbillinge:
       permanent: true
     - organization: Columbia University
       begin_date: 2008-01-01
+      begin_year: 2008
       end_date: 2025-12-31
+      end_year: 2025
       group: bg
       other:
         - 'Full title: Professor of Materials Science and of Applied Physics and of
@@ -4630,7 +4641,6 @@ sbillinge:
       department: Applied Physics and Applied Mathematics
       position: professor
       status: pi
-      permanent: true
     - department: Condensed Matter Physics and Materials Science
       organization: Brookhaven National Laboratory
       position: physicist
@@ -4687,6 +4697,15 @@ sbillinge:
   google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
   grp_mtg_active: false
   hindex:
+    - h: 95
+      h_last_five: 56
+      citations: 41141
+      citations_last_five: 17661
+      origin: Google Scholar
+      since: 1991
+      year: 2026
+      month: 6
+      day: 14
     - h: 91
       h_last_five: 54
       citations: 36398
@@ -5701,6 +5720,26 @@ sbillinge:
       end_year: 2007
   skills: []
   title: Prof.
+scastaldi:
+  active: true
+  aka: []
+  avatar: https://github.com/sofiacas.png
+  bio: bio
+  education: []
+  email: sofiacastaldi@umail.ucsb.edu
+  employment:
+    - begin_date: 2026-05-31
+      end_date: 2026-12-31
+      organization: columbiau
+      position: ;undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: sofiacas
+  grp_mtg_active: true
+  name: Sofia Castaldi
+  orcid_id: ''
+  position: ;undergraduate researcher
 sdisch:
   active: false
   aka: []

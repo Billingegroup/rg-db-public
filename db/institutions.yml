@@ -1732,6 +1732,13 @@ neilsbohrinstitute:
   name: The Neils Bohr Institute
   updated: 2021-04-11 19:10:21.760184
   uuid: cb6308b9-d0e8-4e62-9635-d09bd2356116
+networkschool:
+  city: Forest City
+  country: Malaysia
+  date: 2026-06-13
+  name: Network School
+  updated: 2026-06-13 21:19:15.345018
+  uuid: 07c3ce80-67bc-4249-b6e8-ff0c473e6888
 newcastleu:
   aka: []
   city: Newcastle upon Tyne
