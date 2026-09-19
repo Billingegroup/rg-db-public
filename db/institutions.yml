@@ -421,7 +421,7 @@ cas:
       name: Institute of Physics
     iocmasec:
       aka: []
-      name: Institute of Computational Mathematics and Scientific/Engineering
+      name: Institute of Computational Mathematics and Scientific/Engineering 
         Computing
   month: 3
   name: The Chinese Academy of Sciences
@@ -967,7 +967,7 @@ ghentu:
     chemistry:
       name: Department of Chemistry
     matsci:
-      name: Sol-gel Centre for Research on Inorganic Powders and Thin films
+      name: Sol-gel Centre for Research on Inorganic Powders and Thin films 
         Synthesis (SCRiPTS)
   name: Ghent University
   state: East Flanders
@@ -1439,6 +1439,18 @@ lhmfcas:
   month: 3
   name: Laboratory of High Magnetic Field of the Chinese Academy of Sciences
   year: 2020
+llnl:
+  city: Livermore
+  country: USA
+  date: 2026-09-07
+  departments:
+    nif:
+      name: National Ignition Facility
+  name: Lawrence Livermore National Laboratory
+  state: CA
+  updated: 2026-09-07 07:11:50.148826
+  uuid: 8de7a09e-5f55-4f38-82f7-ca65dab3bf5a
+  zip: '94550'
 maryrosetrust:
   city: Portsmouth
   country: UK
@@ -2249,7 +2261,7 @@ sci-tec:
   aka: []
   city: Milan
   country: Italy
-  name: Institute of Chemical Sciences and Technologies "G.Natta" Consiglio
+  name: Institute of Chemical Sciences and Technologies "G.Natta" Consiglio 
     Nazionale delle Ricerche (SCI-TEC)
   state: ''
   street: via A. Corti 12
@@ -2355,7 +2367,7 @@ stockholmu:
   name: Stockholm University
   schools:
     pmisc:
-      name: Berzelii Centre EXSELENT on Porous Materials and Inorganic and
+      name: Berzelii Centre EXSELENT on Porous Materials and Inorganic and 
         Structural Chemistry
   updated: 2020-03-17 21:15:14.610311
   uuid: a968ff5a-a73c-4f95-8288-607d2b9911d6
