@@ -13,6 +13,9 @@ fro
 ;; The facility not the attitude
 SLAC
 
+;; The chemical not the style of the file
+formate
+
 ;; The chemicals
 Nd
 ThSe
