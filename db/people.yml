@@ -5057,20 +5057,6 @@ sbillinge:
       begin_year: 1987
   service:
     - type: profession
-      name: Member, Scientific Advisory Committee of the Water Infrastructure 
-        and Sustainable Energy Futures (WISE Futures) Center, Nelson Mandela 
-        African Institution of Science and Technology (NM-AIST)
-      begin_date: 2026-09-01
-      end_date: 2029-08-31
-      role: member
-      other: []
-    - type: profession
-      name: Organizer of a symposium on
-      begin_date: 2026-07-21
-      end_date: 2028-07-20
-      role: member
-      other: []
-    - type: profession
       name: Member of the external advisory committee of the Water 
         Infrastructure and Sustainable Energy Futures (WISE-Futures) 
         (https://www.wisefutures.ac.tz/) at the Nelson Mandela African 
@@ -5123,8 +5109,8 @@ sbillinge:
     - type: profession
       name: External examiner for PhD viver at University of Liverpool for 
         Jonathan Balasingham, student of Prof. Vitaliy Kurlin
-      begin_date: 2025-07-12
-      end_date: 2024-10-01
+      begin_date: 2024-10-01
+      end_date: 2025-07-12
       role: member
       other: []
     - type: profession

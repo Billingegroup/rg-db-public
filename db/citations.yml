@@ -3629,6 +3629,34 @@ cao;ami19:
   wwwemail: ''
   wwwpub: ''
   year: '2020'
+hanso;ct26:
+  ackno: This work was supported by NSF DMR grant 1206764 and used 28-ID-1 of the National Synchrotron Light Source II, a U.S. Department of Energy (DOE) Office of Science User Facility operated for the DOE Office of Science by Brookhaven National Laboratory (BNL) under Contract No. DE-SC0012704. The DRIFTS measurements were performed in the Catalysis Group in the Chemistry Department at BNL which is supported by DOE contract by the U.S. Department of Energy (DOE), Office of Science, Office of Basic Energy Sciences, Division of Chemical Sciences, Biosciences and Geosciences, under contract DE-SC0012704. The authors acknowledge the National Institute of Standards and Technology (NIST) for access to its facilities and instrumentation, which were essential for conducting this research. SWC acknowledges support from Department of Energy, Office of Science, by the DOE/BES Hydrogen Fuel Initiative program (#DE-FG02-05ER15730) and Mrs. Shirley Chiu Sgrouros.
+  author:
+    - Jonathan Hanson
+    - Milinda Abeykoon
+    - Dimitriy Vovchok
+    - Yuga Chitrapu
+    - Xin Chen
+    - Winnie Wong-Ng
+    - Simon Billinge
+    - Siu-Wai Chan
+  doi: 10.1016/j.cattod.2026.116012
+  entrytype: article
+  facility: nslsii, xpd
+  grant: none
+  journal: Catalysis Today
+  month: Sep
+  nb: ''
+  note: ''
+  number: ''
+  pages: ''
+  professional_summary: ''
+  synopsis: ''
+  tags: nanoparticle, strain
+  title: Surface Expansion of Nano-Ceria Induced by Hexamethylenetetramine (HMT) and Formate Binding
+  url: https://doi.org/10.1016/j.cattod.2026.116012
+  volume: ''
+  year: '2026'
 chalus;unpub26:
   ackno: This work is based on experiments performed at the Swiss Spallation 
     Neutron Source SINQ, Paul Scherrer Institute (PSI), Villigen, Switzerland. 
@@ -12061,6 +12089,32 @@ scher;jacs26:
   professional_summary: ''
   synopsis: ''
   title: Node Distortions as a Means of Defect Engineering in Zr-based MOFs
+  url: ''
+  volume: ''
+  year: '2026'
+rakit;arxiv26:
+  ackno: ''
+  author:
+    - Yevgeny Rakita
+    - Paul Todd
+    - Brennan McBride
+    - Thinh Tran
+    - James R. Neilson
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: doeneutron23
+  journal: tbd
+  month: ''
+  note: submitted
+  optnotes: author list likely to be updated.
+  pages: ''
+  professional_summary: ''
+  synopsis: The Action Graph concept is laid out but not called that but referred to as MPG,
+    'materials provenance graph'. MosyDB is described as an example of an MPG.
+  title: "Complex materials engineering via Provenance Action Graphs: potential, structure
+    and demonstration"
   url: ''
   volume: ''
   year: '2026'

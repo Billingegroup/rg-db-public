@@ -3459,11 +3459,16 @@ usc:
     - usc
   city: Los Angeles
   country: USA
-  day: 15
-  month: 3
+  departments:
+    cheme:
+      name: Chemical Engineering and Materials Science
+    matsci:
+      name: Chemical Engineering and Materials Science
+  day: 4
+  month: 10
   name: University of Southern California
   state: CA
-  year: 2020
+  year: 2026
 usda:
   aka:
     - United States Department of Agriculture

@@ -7455,8 +7455,8 @@
     - all
   status: accepted
   talk_id: 15-neutron-pdf
-  title: Local structure with neutron PDFs, from FORTRAN at LANSCE to the latest
-    in GenAI
+  title: Local structure with neutron {PDF}s, from {Fortran} at {LANSCE} to the latest
+    in {GenAI}
   type: invited
 2608md_calgary,canada:
   abstract: Modern structural problems are hard because of the complexity of 
@@ -7511,7 +7511,7 @@
     - all
   status: accepted
   talk_id: 60-ml-intro
-  title: ML overview in 60 minutes
+  title: 'Machine learning overview and applications in crystallography'
   type: invited
 2608sb-iucr27-calgary-software-fayre-cmi:
   abstract: ''
@@ -7564,9 +7564,25 @@
     - all
   status: accepted
   talk_id: 30-ultrafast-pdf-vision
-  title: 'Exciting local structure: high resolution ultrafast PDF science'
+  title: 'Exciting local structure: high resolution ultrafast {PDF} science'
   type: invited
-2610sb_universityofsoutherncalifornia(usc):
+2609sb_chateauballeroy,normandy,france:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2026-09-24
+  end_date: 2026-09-27
+  location: Château Balleroy, Normandy, France
+  meeting_name: 2026 Eddleman Quantum Institute Retreat
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 45-soft-hard-structural-compliance
+  title: Engineering fluctuating broken symmetries towards higher {Tcs}
+  type: invited
+2610sb_usc:
   abstract: Nanoparticles, nanoporous materials and nanostructured bulk 
     materials are at the heart of next generation technological solutions in 
     sustainable energy, effective new pharmac euticals and environmental 
@@ -7584,17 +7600,18 @@
   authors:
     - sbillinge
   begin_date: 2026-10-06
-  department: Chemical Engineering and Materials Science
+  department: cheme
   end_date: 2026-10-06
-  institution: University of Southern California (USC)
+  institution: usc
   notes: []
   presenter: sbillinge
   project:
     - all
   status: accepted
-  talk_id: tbd
+  talk_id: 50-real-materials-pharma-and-data
   title: 'From saving pharmaceuticals to saving priceless historical artefacts via
-    saving the planet: understanding nanostructure with x-rays and algorithms'
+    saving the planet'
+  subtitle: Understanding nanostructure with x-rays and algorithms
   type: colloquium
 2707sb_impa,riodejaneiro,brazil:
   abstract: Nanostructure refers to materials that consist of nano-sized 
