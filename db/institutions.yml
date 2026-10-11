@@ -1439,6 +1439,18 @@ lhmfcas:
   month: 3
   name: Laboratory of High Magnetic Field of the Chinese Academy of Sciences
   year: 2020
+llnl:
+  city: Livermore
+  country: USA
+  date: 2026-09-07
+  departments:
+    nif:
+      name: National Ignition Facility
+  name: Lawrence Livermore National Laboratory
+  state: CA
+  updated: 2026-09-07 07:11:50.148826
+  uuid: 8de7a09e-5f55-4f38-82f7-ca65dab3bf5a
+  zip: '94550'
 maryrosetrust:
   city: Portsmouth
   country: UK
@@ -3447,11 +3459,16 @@ usc:
     - usc
   city: Los Angeles
   country: USA
-  day: 15
-  month: 3
+  departments:
+    cheme:
+      name: Chemical Engineering and Materials Science
+    matsci:
+      name: Chemical Engineering and Materials Science
+  day: 4
+  month: 10
   name: University of Southern California
   state: CA
-  year: 2020
+  year: 2026
 usda:
   aka:
     - United States Department of Agriculture

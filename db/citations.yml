@@ -3604,6 +3604,82 @@ cao;ami19:
   wwwemail: ''
   wwwpub: ''
   year: '2020'
+hanso;ct26:
+  ackno: This work was supported by NSF DMR grant 1206764 and used 28-ID-1 of the National Synchrotron Light Source II, a U.S. Department of Energy (DOE) Office of Science User Facility operated for the DOE Office of Science by Brookhaven National Laboratory (BNL) under Contract No. DE-SC0012704. The DRIFTS measurements were performed in the Catalysis Group in the Chemistry Department at BNL which is supported by DOE contract by the U.S. Department of Energy (DOE), Office of Science, Office of Basic Energy Sciences, Division of Chemical Sciences, Biosciences and Geosciences, under contract DE-SC0012704. The authors acknowledge the National Institute of Standards and Technology (NIST) for access to its facilities and instrumentation, which were essential for conducting this research. SWC acknowledges support from Department of Energy, Office of Science, by the DOE/BES Hydrogen Fuel Initiative program (#DE-FG02-05ER15730) and Mrs. Shirley Chiu Sgrouros.
+  author:
+    - Jonathan Hanson
+    - Milinda Abeykoon
+    - Dimitriy Vovchok
+    - Yuga Chitrapu
+    - Xin Chen
+    - Winnie Wong-Ng
+    - Simon Billinge
+    - Siu-Wai Chan
+  doi: 10.1016/j.cattod.2026.116012
+  entrytype: article
+  facility: nslsii, xpd
+  grant: none
+  journal: Catalysis Today
+  month: Sep
+  nb: ''
+  note: ''
+  number: ''
+  pages: ''
+  professional_summary: ''
+  synopsis: ''
+  tags: nanoparticle, strain
+  title: Surface Expansion of Nano-Ceria Induced by Hexamethylenetetramine (HMT) and Formate Binding
+  url: https://doi.org/10.1016/j.cattod.2026.116012
+  volume: ''
+  year: '2026'
+chalus;unpub26:
+  ackno: This work is based on experiments performed at the Swiss Spallation
+    Neutron Source SINQ, Paul Scherrer Institute (PSI), Villigen, Switzerland.
+    The work was supported by the U.S. Department of Energy, Office of Basic
+    Energy Sciences, under Awards No. DESC0005051 (N.C., D.R.R., M.R.E.) and
+    DE-SC0024141 (C.M., Y.C., S.J.B.), and by the U.S. Air Force Office of
+    Scientific Research under grant FOA-AFRL-AFOSR- 2023-0011 (T.S.). This work
+    was supported by the Swiss National Science Foundation (SNSF) Sinergia
+    network NanoSkyrmionics under grant No. CRSII5-171003 (P.R.B., A.M.,
+    J.S.W.). Financial support from the PSI Laboratory for Neutron Scattering
+    and Imaging (LNS) for extended research visits of N.C., as well as from the
+    SNSF under grant no. 200021 188707 (J.S.W.) is gratefully acknowledged. We
+    are grateful to Joshua Cohn for providing unpublished data for the thermal
+    conductivity of Cu2OSeO3, and to Charles Reichhardt and Cynthia Olson
+    Reichhardt for numerous informative discussions. Raw data were generated at
+    the Swiss Spallation Neutron Source SINQ large-scale facility, and access
+    will be granted upon request.
+  author:
+    - Nathan Chalus
+    - Marek Bartkowiak
+    - Caden Myers
+    - Yucong Chen
+    - Priya R. Baral
+    - Daniel R. Romo
+    - Arnaud Magrez
+    - Tess Smidt
+    - Simon J. L. Billinge
+    - Jonathan S. White
+    - Morten R. Eskildsen
+  doi: ''
+  entrytype: article
+  facility: psi, sinq
+  grant: doeneutron23
+  journal: tbd
+  month: tbd
+  nb: ''
+  note: submitted
+  number: ''
+  pages: ''
+  professional_summary: ''
+  synopsis: The dynamics of the skyrmion lattice under a torque is studied with
+    SANS
+  tags: sans, skyrmion, magnetism, saf
+  title: Critical depinning and collective dynamics of magnetic skyrmion
+    lattices
+  url: ''
+  volume: ''
+  year: '2026'
 chen;cgd26:
   ackno: Synchrotron total scattering measurements were performed at beamline
     ID31 at the European Synchrotron Radiation Facility (ESRF). Work in the
@@ -4058,6 +4134,48 @@ cox;jacs25:
   url: https://doi.org/10.1021/jacs.5c12238
   volume: ''
   year: '2025'
+dalmi;nl26:
+  ackno: ''
+  author:
+    - Dalmieda, Johnson
+    - Tencio, Daybis
+    - Khan, Rohma
+    - Myers, Caden J.
+    - Shanahan, James P.
+    - Karube, Yuzuka
+    - Pagliero, Daniela
+    - Wolcott, Abraham
+    - Xu, Kang
+    - Ziffer, Mark E.
+    - Ghose, Sanjit
+    - Lee, Sang-Jun
+    - Nordlund, Dennis
+    - Schuck, P. James
+    - Billinge, Simon J.L.
+    - Ercius, Peter
+    - Meriles, Carlos A.
+    - Walker, David
+    - Whitaker, Matthew
+    - Braun, Augustin
+    - Owen, Jonathan
+  doi: ''
+  entrytype: article
+  facility: nslsii, pdf
+  grant: doeneutron23
+  journal: Nano Letters
+  month: tbd
+  nb: ''
+  note: To be Published
+  number: ''
+  pages: ''
+  professional_summary: ''
+  synopsis: ''
+  tags: diamond
+  title: High pressure synthesis of ultrasmall nanodiamonds with nitrogen
+    vacancy centers
+  url: ''
+  volume: ''
+  year: '2026'
 dapia;jpcs08:
   author:
     - Dapiaggi, Monica
@@ -4883,6 +5001,40 @@ fergus;arxiv25:
   wwwemail: ''
   wwwpub: ''
   year: '2025'
+fourm;am26:
+  ackno: This work was supported by Innoviris (Brussels Institute for Research
+    and Innovation, Brussels-Capital Region, Belgium) through the “Innovative
+    electron diffraction solutions for amorphous materials and electrochemistry
+    (NDIAMO)” project (2022 - RDI - 23). Software development and data analysis
+    carried out a Columbia and UCSB was supported by U.S. Department of Energy,
+    Office of Science, Office of Basic Energy Sciences (DOE-BES) under contract
+    No. DE-SC0024141. The authors gratefully acknowledge Prof. Laurent Cormier
+    for providing access to the X-ray diffraction facilities at IMPMC
+  author:
+    - Claire Fourmentin
+    - Partha Pratim Das
+    - Evangelos Grivas
+    - John Halloran
+    - Simon J. L. Billinge
+    - Stavros Nicolopoulos
+    - Stéphane Godet
+    - Alejandro Gómez-Pérez
+  doi: ''
+  entrytype: article
+  facility: nanomegas
+  grant: doeneutron23
+  journal: Acta Materiala
+  month: ''
+  note: submitted
+  pages: ''
+  professional_summary: ''
+  synopsis: ''
+  title: Spatially Resolved Structural Correlations at the nanoscale in
+    Phase-Separated Silicate Glass Revealed by Electron Total Scattering
+    Analysis using 4D-STEM
+  url: ''
+  volume: ''
+  year: '2026'
 frand;aca14:
   author:
     - Frandsen, Benjamin A.
@@ -5938,6 +6090,7 @@ gu;aplml26:
     - Heming Wang
     - Jun Xu
     - Ling Lan
+    - Nikhil Karpasi
     - Simon J. L. Billinge
     - Ran Gu
   doi: ''
@@ -8109,12 +8262,18 @@ lazar;prb14:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/lazar_prb14.pdf
   year: '2014'
 lee;sa25:
-  ackno:
-    We thank the NSLS-II scientific-python-cookiecutter project for providing the starting point for our development. We are also grateful to the conda-forge volunteers for their support of the open source community.
-    We thank the cookiecutter project for providing a framework to scaffold new projects.
-    We thank all the Billinge group contributors to our code base, but especially Pavol Juhas and Chris Farrow for their earlier development of software in the Billinge group, which provided the basis for implementing and testing \skpkg, including the \texttt{diffpy.} namespace structure.
-    We also thank Yucong Chen, Tina Na Narong, and Sam Andrello for their constructive feedback, which helped improve \skpkg and its documentation.
-    This work was supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0024141.
+  ackno: We thank the NSLS-II scientific-python-cookiecutter project for
+    providing the starting point for our development. We are also grateful to
+    the conda-forge volunteers for their support of the open source community.
+    We thank the cookiecutter project for providing a framework to scaffold new
+    projects. We thank all the Billinge group contributors to our code base, but
+    especially Pavol Juhas and Chris Farrow for their earlier development of
+    software in the Billinge group, which provided the basis for implementing
+    and testing \skpkg, including the \texttt{diffpy.} namespace structure. We
+    also thank Yucong Chen, Tina Na Narong, and Sam Andrello for their
+    constructive feedback, which helped improve \skpkg and its documentation.
+    This work was supported by the U.S. Department of Energy, Office of Science,
+    Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0024141.
   author:
     - Sangjoon Lee
     - Caden Myers
@@ -8122,22 +8281,23 @@ lee;sa25:
     - Tieqiong Zhang
     - Yuchen Xiao
     - Simon J. L. Billinge
-  doi: ''
+  doi: 10.1039/D6DD00121A
   entrytype: article
   facility: ''
   grant: doeneutron23
   journal: Digital Discovery
   month: Jul
   nb: ''
-  note: ArXiv:2507.03328v2.  To be published in Digital Discovery.
+  note: Advanced Article available as an Accepted Manuscript
   number: ''
   pages: ''
   professional_summary: ''
-  synopsis: The scikit-package for software packaging standards work is described
+  synopsis: The scikit-package for software packaging standards work is
+    described
   tags: software, packaging, distribution
   title: scikit-package - software packaging standards and roadmap for sharing
     reproducible scientific software
-  url: ''
+  url: https://www.doi.org/10.1039/D6DD00121A
   volume: ''
   year: '2026'
 lei;ic13:
@@ -10593,47 +10753,6 @@ popa;b;pdtap26:
   url: ''
   volume: ''
   year: '2026'
-dalmi;nl26:
-  ackno: ''
-  author:
-    - Dalmieda, Johnson
-    - Tencio, Daybis
-    - Khan, Rohma
-    - Myers, Caden J.
-    - Shanahan, James P.
-    - Karube, Yuzuka
-    - Pagliero, Daniela
-    - Wolcott, Abraham
-    - Xu, Kang
-    - Ziffer, Mark E.
-    - Ghose, Sanjit
-    - Lee, Sang-Jun
-    - Nordlund, Dennis
-    - Schuck, P. James
-    - Billinge, Simon J.L.
-    - Ercius, Peter
-    - Meriles, Carlos A.
-    - Walker, David
-    - Whitaker, Matthew
-    - Braun, Augustin
-    - Owen, Jonathan
-  doi: ''
-  entrytype: article
-  facility: nslsii, pdf
-  grant: doeneutron23
-  journal: Nano Letters
-  month: tbd
-  nb: ''
-  note: To be Published
-  number: ''
-  pages: ''
-  professional_summary: ''
-  synopsis: ''
-  tags: diamond
-  title: High pressure synthesis of ultrasmall nanodiamonds with nitrogen vacancy centers
-  url: ''
-  volume: ''
-  year: '2026'
 pouch;b;hobdamlitps20:
   ackno: tbd
   address: Singapore
@@ -11819,50 +11938,6 @@ scher;c25:
   url: https://doi.org/10.1016/j.chempr.2025.102619
   volume: '11'
   year: '2025'
-scher;jacs26:
-  ackno: 'The authors would like to thank Dr. Pascal Schouwink for his help with analyzing XRD
-    data. The work in Prof. Wendy Queen’s group was supported by the Swiss National
-    Science Foundation under grant number 200021 188536. Total scattering and powder
-    x-ray diffraction data were collected at the BM31 beamline under proposal numbers
-    A31-1-205 and A31-1-271 at the Swiss-Norwegian beamlines (SNBL) at the European
-    Synchrotron Research Facility (ESRF). The BM31 setup was funded by the Swiss National
-    Science Foundation (grant 206021 189629) and the Research Council of Norway (grant
-    296087). X-ray absorption near-edge spectra were collected at the 7-BM (QAS) beamline
-    under proposal number GU-316364 at the National Synchrotron Light Source II, a U.S.
-    Department of Energy (DOE) Office of Science User Facility operated for the DOE Office
-    of Science by Brookhaven National Laboratory under Contract No. DE-SC0012704. N.
-    Taheri acknowledges the funding provided by Bridge - Proof of Concept under grant
-    number 238600. M. A. expresses gratitude to the European Research Council (ERC) for
-    evaluating the project with the reference number 101106377 titled “CLARIFIER” and
-    accepting it for funding under the HORIZON TMA MSCA Postdoctoral Fellowships –
-    European Fellowships. Furthermore, M. A. acknowledges the funding by UK Research
-    and Innovation (UKRI) under the UK government’s Horizon Europe funding guarantee
-    (EP/Y023447/1; organization reference: 101106377). T. N. acknowledges the funding from
-    Toyota Research Institute, grant number PO-002332.'
-  author:
-    - Till Schertenleib
-    - Timo Felder
-    - Nazanin Taheri
-    - Wei Shi
-    - Tanaporn Na Narong
-    - Mehrdad Asgari
-    - Pattaraphon Rodlamul
-    - Simon J. L. Billinge
-    - Wendy Queen
-  doi: ''
-  entrytype: article
-  facility: esrf, bm31, nslsii, 7bm, qas
-  grant: doeneutron23
-  journal: JACS
-  month: ''
-  note: submitted
-  pages: ''
-  professional_summary: ''
-  synopsis: ''
-  title: 'Node Distortions as a Means of Defect Engineering in Zr-based MOFs'
-  url: ''
-  volume: ''
-  year: '2026'
 scher;cm25:
   ackno: Work in the Billinge group was supported by a grant from 3M Corporate
     Research Analytical Laboratory. Synchrotron X-ray PDF measurements were
@@ -11905,6 +11980,76 @@ scher;cm25:
   url: https://doi.org/10.1002/cmtd.202500001
   volume: '5'
   year: '2025'
+scher;jacs26:
+  ackno: 'The authors would like to thank Dr. Pascal Schouwink for his help with analyzing
+    XRD data. The work in Prof. Wendy Queen’s group was supported by the Swiss National
+    Science Foundation under grant number 200021 188536. Total scattering and powder
+    x-ray diffraction data were collected at the BM31 beamline under proposal numbers
+    A31-1-205 and A31-1-271 at the Swiss-Norwegian beamlines (SNBL) at the European
+    Synchrotron Research Facility (ESRF). The BM31 setup was funded by the Swiss National
+    Science Foundation (grant 206021 189629) and the Research Council of Norway (grant
+    296087). X-ray absorption near-edge spectra were collected at the 7-BM (QAS) beamline
+    under proposal number GU-316364 at the National Synchrotron Light Source II, a
+    U.S. Department of Energy (DOE) Office of Science User Facility operated for the
+    DOE Office of Science by Brookhaven National Laboratory under Contract No. DE-SC0012704.
+    N. Taheri acknowledges the funding provided by Bridge - Proof of Concept under
+    grant number 238600. M. A. expresses gratitude to the European Research Council
+    (ERC) for evaluating the project with the reference number 101106377 titled “CLARIFIER”
+    and accepting it for funding under the HORIZON TMA MSCA Postdoctoral Fellowships
+    – European Fellowships. Furthermore, M. A. acknowledges the funding by UK Research
+    and Innovation (UKRI) under the UK government’s Horizon Europe funding guarantee
+    (EP/Y023447/1; organization reference: 101106377). T. N. acknowledges the funding
+    from Toyota Research Institute, grant number PO-002332.'
+  author:
+    - Till Schertenleib
+    - Timo Felder
+    - Nazanin Taheri
+    - Wei Shi
+    - Tanaporn Na Narong
+    - Mehrdad Asgari
+    - Pattaraphon Rodlamul
+    - Simon J. L. Billinge
+    - Wendy Queen
+  doi: ''
+  entrytype: article
+  facility: esrf, bm31, nslsii, 7bm, qas
+  grant: doeneutron23
+  journal: JACS
+  month: ''
+  note: submitted
+  pages: ''
+  professional_summary: ''
+  synopsis: ''
+  title: Node Distortions as a Means of Defect Engineering in Zr-based MOFs
+  url: ''
+  volume: ''
+  year: '2026'
+rakit;arxiv26:
+  ackno: ''
+  author:
+    - Yevgeny Rakita
+    - Paul Todd
+    - Brennan McBride
+    - Thinh Tran
+    - James R. Neilson
+    - Simon J. L. Billinge
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: doeneutron23
+  journal: tbd
+  month: ''
+  note: submitted
+  optnotes: author list likely to be updated.
+  pages: ''
+  professional_summary: ''
+  synopsis: The Action Graph concept is laid out but not called that but referred to as MPG,
+    'materials provenance graph'. MosyDB is described as an example of an MPG.
+  title: 'Complex materials engineering via Provenance Action Graphs: potential, structure
+    and demonstration'
+  url: ''
+  volume: ''
+  year: '2026'
 schmi;jpcm03:
   author:
     - Schmidt, M.
@@ -12768,6 +12913,36 @@ tao;cm23:
   url: https://pubs.acs.org/doi/full/10.1021/acs.chemmater.3c03002
   volume: ''
   year: '2024'
+tavan;arxiv26:
+  ackno: ''
+  author:
+    - Francesco Tavani
+    - Saber Mirzaei
+    - Jian Yin
+    - Yen-hsu Lin
+    - Caden Myers
+    - Cheng-Hung Lin
+    - Milinda Abeykoon
+    - Simon J. L. Billinge
+    - Omar M. Yaghi
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: doeneutron23
+  journal: J Am. Chem. Soc.
+  month: aug
+  nb: ''
+  note: ArXiv
+  number: ''
+  pages: ''
+  professional_summary: ''
+  synopsis: ''
+  tags: mof
+  title: Local structure and dynamics of three-dimensional covalent organic
+    frameworks
+  url: ''
+  volume: ''
+  year: '2026'
 terba;cec22:
   ackno: DH and MM would like to thank University of Trieste for partially
     funding this study through the “Fondo per la Ricerca di Ateneo (FRA 2020)”

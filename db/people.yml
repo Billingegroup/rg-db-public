@@ -193,6 +193,26 @@ aejaz:
   grp_mtg_active: false
   name: Adiba Ejaz
   position: undergraduate research assistant
+akabir:
+  active: true
+  aka: []
+  avatar: https://github.com/Akadib.png
+  bio: bio
+  education: []
+  email: adibkabir@ucsb.edu
+  employment:
+    - begin_date: 2026-07-03
+      end_date: 2029-07-02
+      organization: ucsb
+      position: graduate research assistant
+      group: bg
+      advisor: sbillinge
+      status: phd
+  github_id: Akadib
+  grp_mtg_active: true
+  name: Adib Kabir
+  orcid_id: 0009-0003-4284-5300
+  position: graduate research assistant
 akovyakh:
   active: false
   aka: []
@@ -372,13 +392,20 @@ ashaaban:
   name: Ahmed Shaaban
   position: undergraduate research assistant
 ayang:
-  active: false
+  active: true
   aka: []
   avatar: https://github.com/Sparks29032.png
   bio: bio
   education: []
   email: ay2546@columbia.edu
   employment:
+    - begin_date: 2027-06-01
+      end_date: 2025-09-01
+      organization: caltech
+      position: visiting student
+      group: bg
+      advisor: sbillinge
+      status: visitor-unsupported
     - begin_date: 2023-06-01
       end_date: 2025-08-31
       organization: columbiau
@@ -390,7 +417,7 @@ ayang:
   grp_mtg_active: true
   name: Andrew Yang
   orcid_id: ''
-  position: undergraduate research assistant
+  position: visiting student
 bfrandsen:
   active: false
   aka:
@@ -778,6 +805,7 @@ cmyers:
   email: cjm2304@columbia.edu
   employment:
     - begin_date: 2024-02-05
+      department: apam
       end_date: 2026-12-31
       organization: columbiau
       position: graduate research assistant
@@ -1145,26 +1173,6 @@ cyshi:
   google_scholar_url: https://scholar.google.com/citations?user=W32kTkEAAAAJ
   name: Chenyang Shi
   position: scientist
-dabeykoon:
-  active: true
-  aka: []
-  avatar: https://github.com/dabeycorn.png
-  bio: bio
-  education: []
-  email: dasun20202020@gmail.com
-  employment:
-    - begin_date: 2025-05-23
-      end_date: 2025-08-31
-      organization: columbiau
-      position: intern
-      group: bg
-      advisor: sbillinge
-      status: visitor-unsupported
-  github_id: dabeycorn
-  grp_mtg_active: true
-  name: Dasun Abeykoon
-  orcid_id: 0009-0003-4681-777X
-  position: intern
 dbkim:
   active: false
   aka:
@@ -1320,8 +1328,8 @@ dsirakov:
     - Daniel Sirakov
     - Danny Sirakov
   avatar: https://github.com/danielsirakov.png
-  bio: Daniel is a second year physics major at UC Santa Barbara.
-    In his free time, he enjoys skateboarding, surfing, and drawing.
+  bio: Daniel is a second year physics major at UC Santa Barbara. In his free
+    time, he enjoys skateboarding, surfing, and drawing.
   education: []
   email: danielsirakov@ucsb.edu
   employment:
@@ -2610,8 +2618,15 @@ jhalloran:
   education: []
   email: jwh2180@columbia.edu
   employment:
+    - begin_date: 2026-06-01
+      end_date: 2027-05-31
+      organization: tbd
+      position: visiting student
+      group: bg
+      advisor: sbillinge
+      status: visitor-unsupported
     - begin_date: 2024-11-12
-      end_date: 2025-05-31
+      end_date: 2026-05-31
       organization: columbiau
       position: undergraduate researcher
       group: bg
@@ -3693,6 +3708,26 @@ nfuller:
       group: bg
   name: Neno Fuller
   position: masters research assistant
+nosiecka:
+  active: true
+  aka: []
+  avatar: https://github.com/NataliaOsiecka.png
+  bio: bio
+  education: []
+  email: natalia.osiecka@ifj.edu.pl
+  employment:
+    - begin_date: 2026-07-01
+      end_date: 2026-12-31
+      organization: ucsb
+      position: visiting professor
+      group: bg
+      advisor: sbillinge
+      status: visitor-unsupported
+  github_id: NataliaOsiecka
+  grp_mtg_active: true
+  name: Natalia Osiecka
+  orcid_id: 0000-0001-8275-5420
+  position: visiting professor
 nthomas:
   active: false
   aka:
@@ -3731,7 +3766,7 @@ nthomas:
   name: Nonie Thomas
   position: undergraduate research assistant
 omansour:
-  active: true
+  active: false
   aka: []
   avatar: https://github.com/omarsourman.png
   bio: bio
@@ -4118,24 +4153,25 @@ rdhua:
   education: []
   email: r.hua@mail.utoronto.ca
   employment:
+    - begin_date: 2026-06-01
+      end_date: 2027-05-31
+      organization: upenn
+      position: visiting student
+      advisor: sbillinge
+      group: bg
+      status: visitor-unsupported
     - begin_date: 2024-05-06
-      end_date: 2025-12-31
+      end_date: 2026-05-31
       organization: utoronto
       position: undergraduate
       advisor: sbillinge
-      status: undergrad
-    - begin_date: 2025-09-05
-      end_date: 2026-05-31
-      organization: utoronto
-      position: undergraduate researcher
       group: bg
-      advisor: sbillinge
       status: undergrad
   github_id: stevenhua0320
   grp_mtg_active: true
   name: Rundong (Steven) Hua
   orcid_id: 0009-0003-1947-1857
-  position: undergraduate researcher
+  position: visiting student
 rdifrancesco:
   active: false
   aka: []
@@ -4306,6 +4342,26 @@ rnzhang:
   name: Ruining Zhang
   orcid_id: 0000-0002-8026-9338
   position: graduate research assistant
+rpeng:
+  active: true
+  aka: []
+  avatar: https://github.com/Icaruspeng.png
+  bio: bio
+  education: []
+  email: roypeng@ucsb.edu
+  employment:
+    - begin_date: 2026-06-26
+      end_date: 2026-12-31
+      organization: ucsb
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: Icaruspeng
+  grp_mtg_active: true
+  name: Roy Peng
+  orcid_id: ''
+  position: undergraduate researcher
 rpokratath:
   active: false
   aka:
@@ -4621,7 +4677,6 @@ sbillinge:
   employment:
     - organization: ucsb
       begin_date: 2026-01-01
-      begin_year: 2026
       group: bg
       other:
         - 'Full title: Distinguished Professor, Materials'
@@ -4631,14 +4686,12 @@ sbillinge:
       permanent: true
     - organization: Columbia University
       begin_date: 2008-01-01
-      begin_year: 2008
       end_date: 2025-12-31
-      end_year: 2025
       group: bg
       other:
         - 'Full title: Professor of Materials Science and of Applied Physics and of
           Applied Mathematics'
-      department: Applied Physics and Applied Mathematics
+      department: apam
       position: professor
       status: pi
     - department: Condensed Matter Physics and Materials Science
@@ -4949,9 +5002,37 @@ sbillinge:
       begin_year: 1987
   service:
     - type: profession
-      name: Member of the International Center or Diffraction Data (ICDD)
+      name: Member of the external advisory committee of the Water
+        Infrastructure and Sustainable Energy Futures (WISE-Futures)
+        (https://www.wisefutures.ac.tz/) at the Nelson Mandela African
+        Institution of Science and Technology, Arusha, Tanzania
+      begin_date: 2026-07-21
+      end_date: 2028-07-20
+      role: member
+      other: []
+    - type: department
+      name: Member of Materials Department Awards committee
+      begin_date: 2026-06-12
+      end_date: 2027-06-11
+      role: member
+      other: []
+    - type: department
+      name: Member of Ad Hoc committee on AI in the classroom
+      begin_date: 2026-06-12
+      end_date: 2027-06-11
+      role: member
+      other: []
+    - type: profession
+      name: Member of the International Center of Diffraction Data (ICDD)
       begin_date: 2025-10-12
       role: fellow
+      other: []
+    - type: profession
+      name: Co-organizer with Despina Louca and Kate Page of a symposium in
+        honor of Takeshi Egami at the 2026 fall MRS meeting
+      begin_date: 2026-12-01
+      end_date: 2026-12-03
+      role: organizer
       other: []
     - type: profession
       name: Co-organizer with Vitaliy Kurlin of the workshop on Open Problems in
@@ -4973,8 +5054,8 @@ sbillinge:
     - type: profession
       name: External examiner for PhD viver at University of Liverpool for
         Jonathan Balasingham, student of Prof. Vitaliy Kurlin
-      begin_date: 2025-07-12
-      end_date: 2024-10-01
+      begin_date: 2024-10-01
+      end_date: 2025-07-12
       role: member
       other: []
     - type: profession
@@ -5731,7 +5812,7 @@ scastaldi:
     - begin_date: 2026-05-31
       end_date: 2026-12-31
       organization: columbiau
-      position: ;undergraduate researcher
+      position: undergraduate researcher
       group: bg
       advisor: sbillinge
       status: undergrad
@@ -5739,7 +5820,7 @@ scastaldi:
   grp_mtg_active: true
   name: Sofia Castaldi
   orcid_id: ''
-  position: ;undergraduate researcher
+  position: undergraduate researcher
 sdisch:
   active: false
   aka: []
@@ -5810,7 +5891,7 @@ sgeorge:
     - begin_date: 2026-05-26
       end_date: 2100-12-31
       organization: ucsb
-      position: '"graduate research assistant"'
+      position: graduate research assistant
       group: bg
       advisor: sbillinge
       status: phd
@@ -5818,7 +5899,7 @@ sgeorge:
   grp_mtg_active: true
   name: Steven George
   orcid_id: 0009-0007-3486-3380
-  position: '"graduate research assistant"'
+  position: graduate research assistant
 sghose:
   active: false
   aka: []
@@ -6186,7 +6267,7 @@ tdavis:
   position: manager
   position_full: Investment lead
 tnanarong:
-  active: true
+  active: false
   aka:
     - Tanaporn Na Narong
     - T. Na Narong
@@ -6910,7 +6991,7 @@ zguguchia:
   name: Zurab Guguchia
   position: scientist
 zmxu:
-  active: true
+  active: false
   aka:
     - Zhi Ming Xu
   avatar: https://github.com/zmx27.png
@@ -7002,7 +7083,7 @@ zthatcher:
   orcid_id: 0000-0002-8680-1540
   position: graduate research assistant
 zzachko:
-  active: true
+  active: false
   aka:
     - Zoe N. Zachko
   avatar: https://github.com/zzachko.png
