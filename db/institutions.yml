@@ -195,6 +195,16 @@ asu:
   state: Arizona
   street: ''
   zip: '85287'
+ateneodemanilau:
+  aka:
+    - Ateneo de Manila
+    - Ateneo
+    - ADMU
+  city: Quezon City
+  country: Philippines
+  name: Ateneo de Manila University
+  street: Katipunan Avenue, Loyola Heights
+  zip: '1108'
 bardcatsimonsrock:
   city: Great Barrington
   country: USA
@@ -595,6 +605,19 @@ cuny:
   name: The City University of New York
   state: NY
   year: 2020
+czas:
+  aka:
+    - Akademie ved Ceske republiky
+    - Czech Academy of Sciences
+    - Academy of Sciences of the Czech Republic
+    - AV ČR
+    - AV CR
+    - CAS
+  city: Prague
+  country: Czech Republic
+  name: Akademie věd České republiky
+  street: Národní 3
+  zip: 110 00
 danishti:
   aka:
     - Danish Technological Institute
@@ -2877,6 +2900,20 @@ udelorraine:
   city: Nancy
   country: France
   name: University of Lorraine
+udelpaisvasco:
+  aka:
+    - Universidad del Pais Vasco
+    - Euskal Herriko Unibertsitatea
+    - University of the Basque Country
+    - UPV/EHU
+    - UPV
+    - EHU
+  city: Leioa
+  country: Spain
+  name: Universidad del País Vasco
+  state: Bizkaia
+  street: Barrio Sarriena s/n
+  zip: '48940'
 uderennes:
   aka:
     - University of Rennes 1
@@ -3373,6 +3410,17 @@ uosijek:
   name: Josip Juraj Strossmayer University of Osijek
   state: ''
   zip: ''
+upatras:
+  aka:
+    - Πανεπιστήμιο Πατρών
+    - Panepistimio Patron
+    - Patras University
+    - UPatras
+  city: Patras
+  country: Greece
+  name: University of Patras
+  street: University Campus, Rio
+  zip: 265 04
 upenn:
   aka:
     - Penn
@@ -3787,3 +3835,21 @@ zhejiangu:
   updated: 2020-02-14 19:37:28.925621
   uuid: 4f88b3c9-4719-4a0e-836b-16af6ab6605f
   year: 2020
+uqueensland:
+  city: St. Lucia
+  country: Australia
+  date: 2026-10-21
+  departments:
+    cheme:
+      name: School of Chemical Engineering
+  name: University of Queensland
+  state: Queensland
+  updated: 2026-10-21 21:10:59.434568
+  uuid: d9d451a5-94d3-4dce-b3cb-f5aa248ce2b8
+uldb:
+  city: Brussels
+  country: Belgium
+  date: 2026-10-21
+  name: Universite Libre de Bruxelles
+  updated: 2026-10-21 21:13:18.109631
+  uuid: fe7cbe45-c6d3-48fc-986c-683b5a28f95c

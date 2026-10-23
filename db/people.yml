@@ -2620,7 +2620,7 @@ jhalloran:
   employment:
     - begin_date: 2026-06-01
       end_date: 2027-05-31
-      organization: tbd
+      organization: columbiau
       position: visiting student
       group: bg
       advisor: sbillinge
@@ -5516,6 +5516,36 @@ sbillinge:
       name: 'Journal Acta Crystallographica Section A: Foundations of Crystallography'
       begin_year: 2011
       role: Editor
+      editorial_board:
+        journal: Acta Crystallographica Section A
+        role: co-editor
+        members:
+          - id: aallen
+            role: editor-in-chief
+          - id: aaltomare
+            role: co-editor
+          - id: maroyo
+            role: co-editor
+          - id: bcampbell
+            role: co-editor
+          - id: mdelaspenas
+            role: co-editor
+          - id: pdominiak
+            role: co-editor
+          - id: whornfeck
+            role: co-editor
+          - id: kjensen
+            role: co-editor
+          - id: imargiolaki
+            role: co-editor
+          - id: lpalatinus
+            role: co-editor
+          - id: asinger
+            role: co-editor
+          - id: ivartaniants
+            role: co-editor
+          - id: pwillmott
+            role: co-editor
     - type: profession
       name: Steering committee of the African Light Source
       begin_year: 2015
@@ -6710,7 +6740,8 @@ ycchen:
   position: masters researcher
 ycexiao:
   active: true
-  aka: []
+  aka:
+    - Yuchen (Ethan) Xiao
   avatar: https://github.com/ycexiao.png
   bio: bio
   education: []
@@ -6725,7 +6756,7 @@ ycexiao:
       status: masters
   github_id: ycexiao
   grp_mtg_active: true
-  name: Yuchen (Ethan) Xiao
+  name: Yuchen Xiao
   orcid_id: ''
   position: masters researcher
 yjhu:
