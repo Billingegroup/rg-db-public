@@ -2975,6 +2975,26 @@ kloza:
       group: bg
   name: Kateryna Loza
   position: unknown
+kpadilla:
+  active: true
+  aka: []
+  avatar: https://github.com/karsonpadilla.png
+  bio: bio
+  education: []
+  email: karsonpadilla@ucsb.edu
+  employment:
+    - begin_date: 2026-10-24
+      end_date: 2027-05-31
+      organization: ucsb
+      position: undergraduate researcher
+      group: bg
+      advisor: sbillinge
+      status: undergrad
+  github_id: karsonpadilla
+  grp_mtg_active: true
+  name: Karson Padilla
+  orcid_id: ''
+  position: undergraduate researcher
 kseth:
   active: false
   aka: []

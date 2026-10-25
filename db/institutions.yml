@@ -1922,6 +1922,11 @@ organizationalscienceconsultingresearch:
 ornl:
   city: Oak Ridge
   country: USA
+  departments:
+    mstd:
+      name: Materials Science and Technology Division
+    nsd:
+      name: Neutron Scattering Division
   name: Oak Ridge National Laboratory
   state: Tennessee
   zip: 37830
@@ -2307,6 +2312,9 @@ slacnationalacceleratorlaboratory:
   city: Menlo Park
   country: USA
   day: 16
+  departments:
+    ssrl:
+      name: Stanford Synchrotron Radiation Lightsource
   month: 3
   name: SLAC National Accelerator Laboratory
   state: CA
@@ -2852,6 +2860,11 @@ ucsandiego:
   city: La Jolla
   country: USA
   date: 2021-11-23
+  departments:
+    hdsi:
+      name: Halıcıoğlu Data Science Institute
+    physics:
+      name: Department of Physics
   name: University of California San Diego
   state: CA
   updated: 2021-11-23 07:20:22.864254
