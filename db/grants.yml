@@ -1117,7 +1117,7 @@
   amount: 35000
   awardnr: n/a
   begin_date: 2021-10-21
-  end_date: 2030-02-28
+  end_date: 2025-12-31
   funder: Google Research
   team:
     - institution: columbiau
@@ -1257,17 +1257,13 @@
       position: copi
       subaward_amount: 270000
     - institution: urochester
-      name: Niaz Abdulrahman
+      name: Niaz Abdolrahim
       position: pi
-      subaward_amount: 270000
-    - institution: nist
-      name: William Ratcliffe
-      position: copi
-      subaward_amount: 0
+      subaward_amount: 330000
   title: 'Collaborative Research: Elements: DiffAI: Diffraction Database and Intelligent
     Analysis'
 26_keck_toney:
-  amount: 264641
+  amount: 262639
   awardnr: '1567502'
   begin_date: 2026-01-01
   end_date: 2028-12-31
@@ -1276,7 +1272,7 @@
     - institution: ucsb
       name: Simon Billinge
       position: copi
-      subaward_amount: 264641
+      subaward_amount: 262639
     - institution: ucolorado
       name: Michael Toney
       position: pi

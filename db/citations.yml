@@ -8289,8 +8289,8 @@ lee;sa25:
   month: Jul
   nb: ''
   note: Advanced Article available as an Accepted Manuscript
-  number: ''
-  pages: ''
+  number: '8'
+  pages: '3158-3177'
   professional_summary: ''
   synopsis: The scikit-package for software packaging standards work is
     described
@@ -8298,7 +8298,7 @@ lee;sa25:
   title: scikit-package - software packaging standards and roadmap for sharing
     reproducible scientific software
   url: https://www.doi.org/10.1039/D6DD00121A
-  volume: ''
+  volume: '5'
   year: '2026'
 lei;ic13:
   author:
@@ -12009,7 +12009,7 @@ scher;jacs26:
     - Mehrdad Asgari
     - Pattaraphon Rodlamul
     - Simon J. L. Billinge
-    - Wendy Queen
+    - Wendy L. Queen
   doi: ''
   entrytype: article
   facility: esrf, bm31, nslsii, 7bm, qas
@@ -12029,8 +12029,6 @@ rakit;arxiv26:
   author:
     - Yevgeny Rakita
     - Paul Todd
-    - Brennan McBride
-    - Thinh Tran
     - James R. Neilson
     - Simon J. L. Billinge
   doi: ''
@@ -12039,7 +12037,7 @@ rakit;arxiv26:
   grant: doeneutron23
   journal: tbd
   month: ''
-  note: submitted
+  note: submitted to arxiv
   optnotes: author list likely to be updated.
   pages: ''
   professional_summary: ''
@@ -12940,6 +12938,35 @@ tavan;arxiv26:
   tags: mof
   title: Local structure and dynamics of three-dimensional covalent organic
     frameworks
+  url: ''
+  volume: ''
+  year: '2026'
+tavan;arxiv26b:
+  ackno: ''
+  author:
+    - Francesco Tavani
+    - Saber Mirzaei
+    - Jian Yin
+    - Yen-hsu Lin
+    - Caden Myers
+    - Cheng-Hung Lin
+    - Milinda Abeykoon
+    - Simon J. L. Billinge
+    - Omar M. Yaghi
+  doi: ''
+  entrytype: article
+  facility: ''
+  grant: doeneutron23
+  journal: J Am. Chem. Soc.
+  month: aug
+  nb: ''
+  note: ArXiv
+  number: ''
+  pages: ''
+  professional_summary: ''
+  synopsis: ''
+  tags: mof
+  title: Reticulating Local Dynamics in Three-Dimensional Covalent Organic Frameworks
   url: ''
   volume: ''
   year: '2026'

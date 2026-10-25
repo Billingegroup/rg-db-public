@@ -7454,8 +7454,8 @@
     - all
   status: accepted
   talk_id: 15-neutron-pdf
-  title: Local structure with neutron {PDF}s, from {Fortran} at {LANSCE} to the latest
-    in {GenAI}
+  title: Local structure with neutron {PDF}s, from {Fortran} at {LANSCE} to the
+    latest in {GenAI}
   type: invited
 2608md_calgary,canada:
   abstract: Modern structural problems are hard because of the complexity of
@@ -7510,7 +7510,7 @@
     - all
   status: accepted
   talk_id: 60-ml-intro
-  title: 'Machine learning overview and applications in crystallography'
+  title: Machine learning overview and applications in crystallography
   type: invited
 2608sb-iucr27-calgary-software-fayre-cmi:
   abstract: ''
@@ -7607,11 +7607,70 @@
   project:
     - all
   status: accepted
-  talk_id: 50-real-materials-pharma-and-data
-  title: 'From saving pharmaceuticals to saving priceless historical artefacts via
-    saving the planet'
   subtitle: Understanding nanostructure with x-rays and algorithms
+  talk_id: 50-real-materials-pharma-and-data
+  title: From saving pharmaceuticals to saving priceless historical artefacts
+    via saving the planet
   type: colloquium
+2704sb_seattle,wa:
+  abstract: 'Learning implies a change in the state of understanding or knowledge of a student.  Learning
+    requires effort on the part of the student and a depth of engagement.  It requires concentration and
+    is enabled by discussion.  When our teaching goal is to have a new concept understood by the class,
+    how can we create a classroom environment that encourages this level of engagement and discussion.
+    In recent years I have developed approaches that are based on fairly standard active learning approaches,
+    but with little tweaks that make them easier to implement.  They have proved effective in small and medium
+    sized class settings, ideal for higher level undergraduate classes where the concepts are also getting to
+    be quite rich.  The approach (that I call corks or corkery) , starts with a scenario and a question, followed by multiple-choice answers
+    that are mostly plausible and test a deeper understanding but are easy to state.  Students are asked to
+    vote for the one, and only one, answer that they prefer and the (approximate) histogram of responses is
+    saved on the board.  For a well designed cork, the distribution is often somewhat broad.  Using a
+    randomized student selection from the classlist (an agent I call "picker") a student is picked at random.
+    They are intentionally asked a question that they can answer: "which answer did you pick?" to which, according
+    to the rules of the game, they know the answer.  Then the followup question is "why did you pick that one?".
+    This allows them to deliberate on their reasoning.  The stakes are much lower than asking them to answer
+    a question that they may not know the answer to, or even worse, think they do but are wrong.  Without
+    sharing the answer to the question you then pick another student who picked a different answer (or the
+    same answer for a different reason).  The discussion then becomes like a courtroom drama where the students
+    can defend their point of view until a consensus is reached.  I have found that this approach has a number
+    of very nice aspects. Picker both removes "selection anxiety" because selection is random and  no one is being
+    singled out, it was truly random.  Since everyone has the same probability of being picked (even if they were
+    just picked, the list is created with replacement) they have incentive  to pay attention in case they are picked.
+    The discussion circles around common misconceptions that can then be resolved as the courtroom drama plays out
+    and the students are encouraged to unscramble the paradoxes and inconsistencies between the answers.  Finally,
+    as an instructor, you get immediate feedback about where the student understanding is and what the
+    misunderstandings are.  Finally, once they get over the shock, everyone has fun.  The approach takes a lot
+    of class time, and so I reserve it for complex concepts, not for imparting factual knowledge, which can be
+    done through reading and standard lectures.  We also do work in teams that I will describe in the talk.'
+  authors:
+    - sbillinge
+  begin_date: 2027-04-05
+  end_date: 2027-04-09
+  location: Seattle, WA
+  meeting_name: MRS spring meeting 2027
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: tbd
+  title: 'Corks in the classroom: lowering the anxiety around classroom discussions'
+  type: invited
+2706sb_lund,sweden:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2027-06-02
+  end_date: 2027-06-03
+  location: Lund, Sweden
+  meeting_name: LINXS 10th anniversary conference
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: tbd
+  title: 'Real materials in action: challenges and opportunities with advanced probes'
+  type: invited
 2707sb_impa,riodejaneiro,brazil:
   abstract: Nanostructure refers to materials that consist of nano-sized
     objects. They are important in many technological areas from batteries to
