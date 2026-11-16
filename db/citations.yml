@@ -14396,6 +14396,29 @@ xie;am22:
   url: https://onlinelibrary.wiley.com/doi/10.1002/adma.202202255
   volume: '34'
   year: '2022'
+
+xiao;unknown:
+  author:
+    - Xiao, Yuchen
+    - Billinge, Simon J. L.
+  grant: 23_doe_neutron_scattering
+  doi: 
+  entrytype: article
+  facility:
+  journal:
+  month:
+  nb: 
+  number:
+  professional_summary: ''
+  synopsis: The cmi-agentic-ui for invoking diffpy.cmi funcitonalities in
+    general coding agent is described.
+  supplementary_info_urls:
+  tags:
+  title: Integrating Scientific Software into AI Agents: cmi-agentic-ui example
+  url:
+  volume:
+  year:
+
 xu;b;ainips18:
   author:
     - Xu, Ji
