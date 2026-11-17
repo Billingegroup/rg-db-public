@@ -5738,7 +5738,7 @@
     be, and how it could be used to further our understanding of materials structure
     and properties. The result is a slightly non-conventional, less crystal-centric,
     view of material structure that we believe can, will, and is, resulting in novel
-    materials insights.  \n I will lay out some mathematical background for candidate
+    materials insights.  I will lay out some mathematical background for candidate
     materials gene-codings and will discuss how these fit into our new world view,
     populated as it is with Artificial Intelligence and Machine Learning.  I will
     also describe some of our efforts to apply ML to the nanostructure inverse problem:
@@ -5752,9 +5752,11 @@
   meeting_name: Joint USA-European Symposium on Machine learning, simulations
     and experiments for ultra low-power materials and devices
   notes: []
+  presenter: sbillinge
   project:
     - all
   status: accepted
+  talk_id: 45-materials-genome
   title: Do materials have a genome, and if they do, what can be done with it?
   type: invited
 2407sb_washingtondc:
@@ -5894,9 +5896,11 @@
   location: University of Liverpool, UK
   meeting_name: MACSMIN 2024
   notes: []
+  presenter: sbillinge
   project:
     - all
   status: accepted
+  talk_id: 60-materials-genome-structure-definition
   title: Materials genomics, materials heredity and the structure definition
     problem
   type: invited
@@ -6657,7 +6661,7 @@
     - sbillinge
   begin_date: 2025-10-03
   end_date: 2025-10-03
-  location: columbiau
+  location: Columbia University, New York, NY
   meeting_name: AI for Science/Engineering
   notes: []
   presenter: sbillinge
@@ -6665,7 +6669,7 @@
     - all
   status: accepted
   talk_id: 15-what-is-a-structure
-  title: 'AI enabled Materials Discovery: the big guns are piling in but is it working?'
+  title: '{AI} enabled Materials Discovery: the big guns are piling in but is it working?'
   type: invited
 2510sb_fortaleza,brazil:
   abstract: Local structure is at the heart of materials science studies for
@@ -6803,11 +6807,11 @@
     a community maintained set of tools, and a roadmap, to help scientists bring
     their software higher levels of reproducibility and shareability.
   authors:
-    - sjlee
+    - sjblee
     - cmyers
     - ayang
     - tzhang
-    - ycxiao
+    - ycexiao
     - sbillinge
   begin_date: 2026-01-11
   end_date: 2026-01-16
@@ -7061,20 +7065,20 @@
   title: 'Real materials in action: everything, everywhere, all at once'
   type: invited
 2603sb_oxford:
-  abstract: tbd
+  abstract: n/a
   authors:
     - sbillinge
   begin_date: 2026-03-25
   end_date: 2026-03-27
   location: St. John's College, Oxford University, UK
-  meeting_name: Keenfest, a 'festschrift' for Dave Keen
+  meeting_name: Keenfest, a festschrift for Dave Keen
   notes: []
   presenter: sbillinge
   project:
     - all
   status: accepted
   talk_id: 30-dave-keen
-  title: PDF in a Nutshell
+  title: '{PDF} in a nutshell'
   type: invited
 2603sb_sandiego,ca:
   abstract: Materials discovery using AI and ML is the plat du jour at the
@@ -7135,6 +7139,37 @@
   talk_id: 50-manifold-of-meaning
   title: The materials genome and the manifold of meaning
   type: seminar
+2604sb_coloradostateuniversity:
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk
+    materials are at the heart of next generation technological solutions in
+    sustainable energy, effective new pharmac euticals and environmental
+    remediation.  A key to making progress is to be able to understand the
+    nanoparticle structure, the arrangements of atoms in the nanoparticles and
+    nanoscale structures. Also critical is understanding the distribution of the
+    nanoparticles and how they change in time as devices run and reactions take
+    place.  We use advanced x-ray, neutron and electron scattering methods to
+    get at this problem.  I will talk about these methods and show some recent
+    success-stories in the fields of sustainable energy, environmental
+    remediation and cultural heritage preservation.  However, I will also
+    discuss the fundamental limitations on our ability to extract information
+    from the data and how we are now turning to machine learning and artificial
+    intelligence techniques to give more insights.
+  authors:
+    - sbillinge
+  begin_date: 2026-04-30
+  department: Department of Chemistry
+  end_date: 2026-04-30
+  institution: Colorado State University
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  subtitle: understanding nanostructure with x-rays and algorithms
+  talk_id: 50-saving-pharma-planet+lab-pdf
+  title: From saving pharmaceuticals to saving priceless historical artefacts
+    via saving the planet
+  type: seminar
 2604sb-graz,austria:
   abstract: Nanoparticles, nanoporous materials and nanostructured bulk
     materials are at the heart of next generation technological solutions in
@@ -7155,7 +7190,7 @@
   begin_date: 2026-04-14
   end_date: 2026-04-16
   location: Graz University of Technology, Graz, Austria
-  meeting_name: XRD excites 2026 Symposium
+  meeting_name: XRD {EXCITES} 2026 Symposium
   notes: []
   presenter: sbillinge
   project:
@@ -7166,7 +7201,40 @@
   title: 'From saving pharmaceuticals to saving priceless historical artefacts via
     saving the planet:'
   type: plenary
-2605sb_ucsantabarbara,santabarbara,ca:
+2605sb_stanforduniversity:
+  abstract: At the heart of materials science studies for next generation
+    materials is an idea that we want to be studying real materials doing real
+    things, often in real devices in real time.  In practice, this presents a
+    number of key data analysis and interpretation challenges because it implies
+    we are studying ever more complicated samples, often in complex
+    heterogeneous environments and in time-resolved operando setups, and we are
+    interrogating our data for more and more subtle effects such as
+    microstructures and evolving defects and local structures. Advanced data
+    analysis algorithms and software are essential for the success of this
+    enterprise.  In this talk I will describe various developments that leverage
+    the power of artificial intelligence (AI), principally machine learning
+    (ML), to aid in this task.  Some of these powerful tools are clearly ready
+    to be applied more broadly in the community and others are still in the
+    future but look very promising.  They include unsupervised and supervised
+    machine learning approaches, conventional ML and deep neural networks,
+    including generative models, as well as approaches for autonomous
+    time-resolved experimentation. I will lay out various aspects of ML in
+    structure science using examples from our own work.
+  authors:
+    - sbillinge
+  begin_date: 2026-05-13
+  department: Materials Science and Engineering Department
+  end_date: 2026-05-13
+  institution: Stanford University
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 50-real-materials-and-data
+  title: '{AI/ML} in crystallography: what can it do for us, what can we do with it?'
+  type: colloquium
+2605sb_ucsantabarbara-ai:
   abstract: AI powered virtual assistants have gone from being the butt of jokes
     due to their dysfunction, to engendering fear that they will achieve
     super-intelligence and take over and destroy the human race, in a remarkably
@@ -7187,8 +7255,173 @@
   project:
     - all
   status: accepted
-  talk_id: tbd
-  title: '{LLM} chatbots: omniscient super-intelligence or just BS'
+  talk_id: 15-mats-ai+llms-bs
+  title: '{LLM} chatbots: omniscient super-intelligence or just {BS}'
+  type: invited
+2605sb_universityofliverpool,liverpool,uk:
+  abstract: 'When an object fills space uniformly, such as a crystal, we can describe
+    its symmetry uniquely by assigning it its space group. We can think of this symmetry
+    as being a topological quantity: the object either has the symmetry or it does
+    not. The group consists of a set of symmetry operations, each of which is satisfied
+    by the object. If any of the elements is not satisfied, the space-group changes.
+    However, we can ask a question: what if we introduce a small defect in the structure,
+    for example, by introducing a vacancy on a single atomic site. Strictly speaking,
+    the periodic symmetry is broken and we can''t even use space groups any more. But
+    the change is infinitely small, so practically speaking, we still want to be able
+    to apply group theory in this case, it can still be a useful tool for us. In practice,
+    we recover by doing some averaging and recovering a periodic signal and a deviatoric
+    correction and we can apply the space-group symmetry to the periodic part. But
+    this introduces the concept of "an approximately broken symmetry" or a "continuously
+    changing" symmetry. And it allows us to ask questions such as "If I introduce
+    ''such and such'' a defect, which of the symmetry operations will be strongly broken
+    and which will be weakly broken?". Working on the basis that such a concept could
+    be useful to science, we have explored ways to quantify symmetry breaking. I will
+    introduce these ideas in this talk. I introduce a method that uses a statistical
+    approach based on the Jensen-Shannon divergence. The measure is calculated by
+    comparing the transformed atomic density function with its original after applying
+    the symmetry transformation. I will introduce the measure and and show some tests
+    for various cases including finite size crystallites (where the surfaces break
+    the crystallographic symmetry), atomic displacements from high symmetry positions,
+    and collective motions of atoms due to rotations of rigid octahedra. The approach
+    provides a powerful tool for assessing local symmetry breaking and offers new
+    insights that can help researchers understand how different structural distortions
+    affect different symmetry operations.'
+  authors:
+    - sbillinge
+  begin_date: 2026-05-26
+  end_date: 2026-05-28
+  location: University of Liverpool, Liverpool, UK
+  meeting_name: '7th MACSMIN 2026: Mathematics and Computer Science for Materials
+    Innovation'
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 45-symmetry-and-hierarchy
+  title: Symmetry in a hierarchical world
+  type: invited
+  webinar: true
+2606sb_networkschool:
+  abstract: Local structure is at the heart of materials science studies for
+    materials for next generation devices.  In practice, this presents a number
+    of key data analysis and interpretation challenges because it implies we are
+    studying ever more complicated samples, often in complex heterogeneous
+    environments and in time-resolved operando setups, and we are interrogating
+    our data for more and more subtle effects such as microstructures and
+    evolving defects and local structures. Of particular interest is the study
+    of nanomaterials and materials structure on different length-scales.  In
+    this talk I will describe the frontier for studying such systems using
+    x-ray, neutron and electron diffraction. Various developments that leverage
+    the latest data acquisition and analysis techniques are powered by
+    artificial intelligence (AI) and machine learning (ML).  I will describe our
+    attempts to push these boundaries forward by developing these emerging tools
+    in the application to local structure studies.
+  authors:
+    - sbillinge
+  begin_date: 2026-06-16
+  department: AI Month
+  end_date: 2026-06-17
+  institution: Network School
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 45-real-materials-and-data
+  title: Real materials in action characterized with the help of {AI}
+  type: seminar
+2606sb_singapore:
+  abstract: At the heart of materials science studies for next generation
+    materials is an idea that we want to be studying real materials doing real
+    things, often in real devices in real time.  In practice, this presents a
+    number of key data analysis and interpretation challenges because it implies
+    we are studying ever more complicated samples, often in complex
+    heterogeneous environments and in time-resolved operando setups, and we are
+    interrogating our data for more and more subtle effects such as
+    microstructures and evolving defects and local structures. Advanced data
+    analysis algorithms and software are essential for the success of this
+    enterprise.  In this talk I will describe various developments that leverage
+    the power of artificial intelligence (AI), principally machine learning
+    (ML), to aid in this task.  Some of these powerful tools are clearly ready
+    to be applied more broadly in the community and others are still in the
+    future but look very promising.  They include unsupervised and supervised
+    machine learning approaches, conventional ML and deep neural networks,
+    including generative models, as well as approaches for autonomous
+    time-resolved experimentation. I will lay out various aspects of ML in
+    structure science using examples from our own work.
+  authors:
+    - sbillinge
+  begin_date: 2026-06-16
+  end_date: 2026-06-19
+  location: Singapore
+  meeting_name: AI4X-Accelerates Conference 2026
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 15-ml-for-mats-characterization-ml-audience
+  title: Characterizing electronic and structural states of materials with {ML}
+  type: invited
+2606sb_spetses,greece:
+  abstract: AI and ML are beginning to have profound impacts on materials
+    science. Large models being run by universities but also tech companies and
+    startups are predicting hundreds of millions of putative ``new" materials
+    and machine learned interatomic potentials (MLIPs) are providing DFT
+    accuracy in very large (million atom) model simulations.  However, the vast
+    majority of these models are trained on theoretical data. There are a few
+    examples of experimental data being used to train models, such as
+    crystal-structure databases such as the PDB, ICSD, and CSD, that were built
+    up over decades of work by crystallographers, but these are the exception
+    rather than the rule.  In this talk, I will discuss some examples, but
+    mostly challenges and potential opportunities for addressing the problems
+    associated with capturing, cleaning, curating and creating experimental
+    databases that can be used to machine learn on.
+  authors:
+    - sbillinge
+  begin_date: 2026-06-21
+  end_date: 2026-06-26
+  location: Anargyreios and Korgialeneios School of Spetses (AKSS), Greece
+  meeting_name: AI in Materials Research-Theory-Experiment-Simulations Workshop
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 30-real-materials-and-data
+  title: What can {AI} models learn from experimental data?
+  type: invited
+2607sb_brownuniversity,providence,ri:
+  abstract: "Spoiler alert, materials do not have a genome. Yet for the past decade,
+    and into the next decade, in the USA there has been a presidential and inter-agency
+    funding initiative called the 'Materials Genome Initiative (MGI)'. This initiative
+    has nothing to do with real genomes, materials or otherwise. However, in this
+    talk I, somewhat whimsically, explore some ideas about what a materials gene could
+    be, and how it could be used to further our understanding of materials structure
+    and properties. The result is a slightly non-conventional, less crystal-centric,
+    view of material structure that we believe can, will, and is, resulting in novel
+    materials insights.  I will lay out some mathematical background for candidate
+    materials gene-codings and will discuss how these fit into our new world view,
+    populated as it is with Artificial Intelligence and Machine Learning.  I will
+    also describe some of our efforts to apply ML to the nanostructure inverse problem:
+    given a 1D measured PDF, what is the 3D arrangement of atoms that gave rise to
+    it.  Preliminary results seem to be very promising."
+  authors:
+    - sbillinge
+  begin_date: 2026-07-06
+  end_date: 2026-07-10
+  location: Brown University, Providence, RI
+  meeting_name: Rigidity Theory meets Geometric Data Science for Applications in
+    Chemistry and Biology, Institute for Computational and Experimental Research
+    in Mathematics (ICERM)
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 45-materials-genome
+  title: Do materials have a genome, and if they do, what can be done with it?
   type: invited
 2607sb_detroit,mi:
   abstract: The atomic pair distribution function (PDF) method, as applied to
@@ -7199,7 +7432,7 @@
     make it all work at LANSCE and this is where I first got to know Roger Pynn,
     who provided encouragement and support. A little later, the opportunity came
     along to upgrade the old high resolution powder diffractometer, NPD, by
-    adding an "F" to the end of its acronym and a bunch of new detectors.  The
+    adding an 'F' to the end of its acronym and a bunch of new detectors. The
     NPDF instrument really revolutionized PDF studies in the US because of its
     stability and low background, ideal for the delicate and quantitative
     measurements of diffuse scattering needed for PDF studies. PDF is now a
@@ -7215,15 +7448,15 @@
   begin_date: 2026-07-12
   end_date: 2026-07-16
   location: Detroit, MI
-  meeting_name: 13th American Conference on Neutron Scattering (ACNS)
+  meeting_name: 2026 American Conference on Neutron Scattering (ACNS)
   notes: []
   presenter: sbillinge
   project:
     - all
   status: accepted
-  talk_id: tbd
-  title: Local structure with neutron PDFs, from Fortran at LANSCE to the latest
-    GenAI
+  talk_id: 15-neutron-pdf
+  title: Local structure with neutron {PDF}s, from {Fortran} at {LANSCE} to the
+    latest in {GenAI}
   type: invited
 2608md_calgary,canada:
   abstract: Modern structural problems are hard because of the complexity of
@@ -7249,7 +7482,7 @@
     context of other ML advances we have explored. Early work was reported in
     Tanaporn Na Narong, npj Computational Materials 11, 1-12 (2025).
   authors:
-    - ML enabled multi-modal analysis of diffraction and x-ray spectroscopy data
+    - sbillinge
   begin_date: 2026-08-11
   end_date: 2026-08-18
   location: Calgary, Canada
@@ -7263,6 +7496,208 @@
   talk_id: 30-xanes-pdf
   title: ML enabled multi-modal analysis of diffraction and x-ray spectroscopy
     data
+  type: invited
+2608sb-iucr27-calgary-computing-school-intro:
+  abstract: ''
+  authors:
+    - sbillinge
+  begin_date: 2026-08-09
+  end_date: 2026-08-11
+  location: Calgary, Canada
+  meeting_name: Crystallographic Computing Commission School
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 60-ml-intro
+  title: Machine learning overview and applications in crystallography
+  type: invited
+2608sb-iucr27-calgary-software-fayre-cmi:
+  abstract: ''
+  authors:
+    - sbillinge
+    - cmyers
+  begin_date: 2026-08-11
+  end_date: 2026-08-19
+  location: Calgary, Canada
+  meeting_name: Software Fayre of the 27th Congress of the International Union
+    of Crystallography
+  notes: []
+  presenter: cmyers
+  project:
+    - all
+  status: accepted
+  talk_id: 10-diffpy-cmi-overview
+  title: 'Diffpy.cmi a multi-modal modeling framework: ready for windows'
+  type: invited
+2608sb-iucr27-calgary-software-fayre-skpkg:
+  abstract: ''
+  authors:
+    - sbillinge
+    - cmyers
+  begin_date: 2026-08-11
+  end_date: 2026-08-19
+  location: Calgary, Canada
+  meeting_name: Software Fayre of the 27th Congress of the International Union
+    of Crystallography
+  notes: []
+  presenter: cmyers
+  project:
+    - all
+  status: accepted
+  talk_id: 10-scikit-package-overview
+  title: 'Scikit-package: share your code, make it reproducible'
+  type: invited
+2608sb_slac:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2026-08-28
+  end_date: 2026-08-29
+  location: Stanford Linear Accelerator Center (SLAC), Stanford University
+  meeting_name: 'Workshop on Novel X-ray Science Opportunities at SLAC: High-Energy
+    X-rays at XFEL'
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 30-ultrafast-pdf-vision
+  title: 'Exciting local structure: high resolution ultrafast {PDF} science'
+  type: invited
+2609sb_chateauballeroy,normandy,france:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2026-09-24
+  end_date: 2026-09-27
+  location: Château Balleroy, Normandy, France
+  meeting_name: 2026 Eddleman Quantum Institute Retreat
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 45-soft-hard-structural-compliance
+  title: Engineering fluctuating broken symmetries towards higher {Tcs}
+  type: invited
+2610sb_usc:
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk
+    materials are at the heart of next generation technological solutions in
+    sustainable energy, effective new pharmac euticals and environmental
+    remediation.  A key to making progress is to be able to understand the
+    nanoparticle structure, the arrangements of atoms in the nanoparticles and
+    nanoscale structures. Also critical is understanding the distribution of the
+    nanoparticles and how they change in time as devices run and reactions take
+    place.  We use advanced x-ray, neutron and electron scattering methods to
+    get at this problem.  I will talk about these methods and show some recent
+    success-stories in the fields of sustainable energy, environmental
+    remediation and cultural heritage preservation.  However, I will also
+    discuss the fundamental limitations on our ability to extract information
+    from the data and how we are now turning to machine learning and artificial
+    intelligence techniques to give more insights
+  authors:
+    - sbillinge
+  begin_date: 2026-10-06
+  department: cheme
+  end_date: 2026-10-06
+  institution: usc
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  subtitle: Understanding nanostructure with x-rays and algorithms
+  talk_id: 50-real-materials-pharma-and-data
+  title: From saving pharmaceuticals to saving priceless historical artefacts
+    via saving the planet
+  type: colloquium
+2704sb_seattle,wa:
+  abstract: 'Learning implies a change in the state of understanding or knowledge of a student.  Learning
+    requires effort on the part of the student and a depth of engagement.  It requires concentration and
+    is enabled by discussion.  When our teaching goal is to have a new concept understood by the class,
+    how can we create a classroom environment that encourages this level of engagement and discussion.
+    In recent years I have developed approaches that are based on fairly standard active learning approaches,
+    but with little tweaks that make them easier to implement.  They have proved effective in small and medium
+    sized class settings, ideal for higher level undergraduate classes where the concepts are also getting to
+    be quite rich.  The approach (that I call corks or corkery) , starts with a scenario and a question, followed by multiple-choice answers
+    that are mostly plausible and test a deeper understanding but are easy to state.  Students are asked to
+    vote for the one, and only one, answer that they prefer and the (approximate) histogram of responses is
+    saved on the board.  For a well designed cork, the distribution is often somewhat broad.  Using a
+    randomized student selection from the classlist (an agent I call "picker") a student is picked at random.
+    They are intentionally asked a question that they can answer: "which answer did you pick?" to which, according
+    to the rules of the game, they know the answer.  Then the followup question is "why did you pick that one?".
+    This allows them to deliberate on their reasoning.  The stakes are much lower than asking them to answer
+    a question that they may not know the answer to, or even worse, think they do but are wrong.  Without
+    sharing the answer to the question you then pick another student who picked a different answer (or the
+    same answer for a different reason).  The discussion then becomes like a courtroom drama where the students
+    can defend their point of view until a consensus is reached.  I have found that this approach has a number
+    of very nice aspects. Picker both removes "selection anxiety" because selection is random and  no one is being
+    singled out, it was truly random.  Since everyone has the same probability of being picked (even if they were
+    just picked, the list is created with replacement) they have incentive  to pay attention in case they are picked.
+    The discussion circles around common misconceptions that can then be resolved as the courtroom drama plays out
+    and the students are encouraged to unscramble the paradoxes and inconsistencies between the answers.  Finally,
+    as an instructor, you get immediate feedback about where the student understanding is and what the
+    misunderstandings are.  Finally, once they get over the shock, everyone has fun.  The approach takes a lot
+    of class time, and so I reserve it for complex concepts, not for imparting factual knowledge, which can be
+    done through reading and standard lectures.  We also do work in teams that I will describe in the talk.'
+  authors:
+    - sbillinge
+  begin_date: 2027-04-05
+  end_date: 2027-04-09
+  location: Seattle, WA
+  meeting_name: MRS spring meeting 2027
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: tbd
+  title: 'Corks in the classroom: lowering the anxiety around classroom discussions'
+  type: invited
+2706sb_lund,sweden:
+  abstract: tbd
+  authors:
+    - sbillinge
+  begin_date: 2027-06-02
+  end_date: 2027-06-03
+  location: Lund, Sweden
+  meeting_name: LINXS 10th anniversary conference
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: tbd
+  title: 'Real materials in action: challenges and opportunities with advanced probes'
+  type: invited
+2707sb_impa,riodejaneiro,brazil:
+  abstract: Nanostructure refers to materials that consist of nano-sized
+    objects. They are important in many technological areas from batteries to
+    photovoltaics and pharmaceuticals. However, solving the structure of such
+    materials is highly challenging because of the complexity of the structural
+    models, coupled with the lack of information in scattering experiments from
+    such materials. Recently we have made progress on this challenging decadal
+    problem through the use of generative AI based on autoencoders that use
+    dimensional reduction to find plausible solutions where the latent space is
+    learned from large databases of known structures. We will describe this
+    problem and the current solutions, as well as attempts to use different
+    dimensional reduction problems that are more interpretable than the GenAI
+    models.
+  authors:
+    - sbillinge
+  begin_date: 2027-07-26
+  end_date: 2027-07-30
+  location: IMPA, Rio de Janeiro, Brazil
+  meeting_name: 36th Brazilian Colloquium of Mathematics (CBM)
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: tbd
+  title: Dimensional reduction methods and the nanostructure inverse problem
   type: invited
 handout-builder:
   abstract: na
