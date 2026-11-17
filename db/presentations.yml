@@ -7581,6 +7581,22 @@
   talk_id: 45-soft-hard-structural-compliance
   title: Engineering fluctuating broken symmetries towards higher {Tcs}
   type: invited
+2610sb_ucsb:
+  abstract: na
+  authors:
+    - sbillinge
+  begin_date: 2026-10-27
+  end_date: 2026-10-27
+  location: ucsb
+  meeting_name: Mechanical Engineering
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 30-pdf-intro-examples
+  title: '{AI} enabled local structure from diffraction'
+  type: award
 2610sb_usc:
   abstract: Nanoparticles, nanoporous materials and nanostructured bulk
     materials are at the heart of next generation technological solutions in
@@ -7612,35 +7628,111 @@
   title: From saving pharmaceuticals to saving priceless historical artefacts
     via saving the planet
   type: colloquium
+2611sb_online:
+  abstract: We use crystallography to find atomic structures when materials are
+    crystalline and show long-range order. But complex nanoporous materials
+    such as MOFs, COFs and related materials, are rarely so obliging, often
+    exhibiting defects, disorder, and sometimes being completely disordered. In
+    these cases, how do we learn about the structure-property relationship,
+    which is crucial for understanding the material properties and designing
+    better materials. I will discuss the application of the atomic pair
+    distribution function (PDF) method of analyzing synchrotron radiation data
+    to tackle this difficult problem. In this method, intense beams of high
+    energy x-rays from x-ray synchrotron sources, combined with large area
+    detectors, provide the data that is analyzed using advanced Fourier methods
+    to reveal local atomic arrangements. The method works even when the
+    structure is quite disordered and imperfect and is revealing important
+    structural information for understanding the properties and function of a
+    range of nanoporous materials including MOFs, COFs, hybrid porous materials
+    all the way to porous and structured liquids. In this talk I will provide a
+    basic introduce the method before presenting illustrative examples of some
+    of the different ways we can use it to understand a range of real scientific
+    questions nanoporous materials.
+  authors:
+    - sbillinge
+  begin_date: 2026-11-16
+  end_date: 2026-11-17
+  location: Online
+  meeting_name: Ninth African Light Source Conference
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  subtitle: synchrotrons and the
+    atomic pair distribution function ({PDF}) technique
+  talk_id: 50-pdf-intro-data-juami
+  title: Finding the atoms in nanoporous materials
+  type: plenary
+  webinar: true
+2702sb_grenoble,france:
+  abstract: Local structure is at the heart of materials science studies for
+    materials for next generation devices.  In practice, this presents a number
+    of key data analysis and interpretation challenges because it implies we are
+    studying ever more complicated samples, often in complex heterogeneous
+    environments and in time-resolved operando setups, and we are interrogating
+    our data for more and more subtle effects such as microstructures and
+    evolving defects and local structures. Of particular interest is the study
+    of nanomaterials and materials structure on different length-scales.  In
+    this talk I will describe the frontier for studying such systems using
+    x-ray, neutron and electron diffraction. Various developments that leverage
+    the latest data acquisition and analysis techniques are powered by
+    artificial intelligence (AI) and machine learning (ML).  I will describe our
+    attempts to push these boundaries forward by developing these emerging tools
+    in the application to local structure studies.
+  authors:
+    - sbillinge
+  begin_date: 2027-02-08
+  end_date: 2027-02-10
+  location: Grenoble, France
+  meeting_name: European Synchrotron Radiation Source (ESRF) User Meeting
+  notes: []
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  talk_id: 50-real-materials-and-data
+  title: Frontiers of local structure determination and prospects for {AI} to
+    extend them
+  type: keynote
 2704sb_seattle,wa:
-  abstract: 'Learning implies a change in the state of understanding or knowledge of a student.  Learning
-    requires effort on the part of the student and a depth of engagement.  It requires concentration and
-    is enabled by discussion.  When our teaching goal is to have a new concept understood by the class,
-    how can we create a classroom environment that encourages this level of engagement and discussion.
-    In recent years I have developed approaches that are based on fairly standard active learning approaches,
-    but with little tweaks that make them easier to implement.  They have proved effective in small and medium
-    sized class settings, ideal for higher level undergraduate classes where the concepts are also getting to
-    be quite rich.  The approach (that I call corks or corkery) , starts with a scenario and a question, followed by multiple-choice answers
-    that are mostly plausible and test a deeper understanding but are easy to state.  Students are asked to
-    vote for the one, and only one, answer that they prefer and the (approximate) histogram of responses is
-    saved on the board.  For a well designed cork, the distribution is often somewhat broad.  Using a
-    randomized student selection from the classlist (an agent I call "picker") a student is picked at random.
-    They are intentionally asked a question that they can answer: "which answer did you pick?" to which, according
-    to the rules of the game, they know the answer.  Then the followup question is "why did you pick that one?".
-    This allows them to deliberate on their reasoning.  The stakes are much lower than asking them to answer
-    a question that they may not know the answer to, or even worse, think they do but are wrong.  Without
-    sharing the answer to the question you then pick another student who picked a different answer (or the
-    same answer for a different reason).  The discussion then becomes like a courtroom drama where the students
-    can defend their point of view until a consensus is reached.  I have found that this approach has a number
-    of very nice aspects. Picker both removes "selection anxiety" because selection is random and  no one is being
-    singled out, it was truly random.  Since everyone has the same probability of being picked (even if they were
-    just picked, the list is created with replacement) they have incentive  to pay attention in case they are picked.
-    The discussion circles around common misconceptions that can then be resolved as the courtroom drama plays out
-    and the students are encouraged to unscramble the paradoxes and inconsistencies between the answers.  Finally,
-    as an instructor, you get immediate feedback about where the student understanding is and what the
-    misunderstandings are.  Finally, once they get over the shock, everyone has fun.  The approach takes a lot
-    of class time, and so I reserve it for complex concepts, not for imparting factual knowledge, which can be
-    done through reading and standard lectures.  We also do work in teams that I will describe in the talk.'
+  abstract: 'Learning implies a change in the state of understanding or knowledge
+    of a student.  Learning requires effort on the part of the student and a depth
+    of engagement.  It requires concentration and is enabled by discussion.  When
+    our teaching goal is to have a new concept understood by the class, how can we
+    create a classroom environment that encourages this level of engagement and discussion.
+    In recent years I have developed approaches that are based on fairly standard
+    active learning approaches, but with little tweaks that make them easier to implement.  They
+    have proved effective in small and medium sized class settings, ideal for higher
+    level undergraduate classes where the concepts are also getting to be quite rich.  The
+    approach (that I call corks or corkery) , starts with a scenario and a question,
+    followed by multiple-choice answers that are mostly plausible and test a deeper
+    understanding but are easy to state.  Students are asked to vote for the one,
+    and only one, answer that they prefer and the (approximate) histogram of responses
+    is saved on the board.  For a well designed cork, the distribution is often somewhat
+    broad.  Using a randomized student selection from the classlist (an agent I call
+    "picker") a student is picked at random. They are intentionally asked a question
+    that they can answer: "which answer did you pick?" to which, according to the
+    rules of the game, they know the answer.  Then the followup question is "why did
+    you pick that one?". This allows them to deliberate on their reasoning.  The stakes
+    are much lower than asking them to answer a question that they may not know the
+    answer to, or even worse, think they do but are wrong.  Without sharing the answer
+    to the question you then pick another student who picked a different answer (or
+    the same answer for a different reason).  The discussion then becomes like a courtroom
+    drama where the students can defend their point of view until a consensus is reached.  I
+    have found that this approach has a number of very nice aspects. Picker both removes
+    "selection anxiety" because selection is random and  no one is being singled out,
+    it was truly random.  Since everyone has the same probability of being picked
+    (even if they were just picked, the list is created with replacement) they have
+    incentive  to pay attention in case they are picked. The discussion circles around
+    common misconceptions that can then be resolved as the courtroom drama plays out
+    and the students are encouraged to unscramble the paradoxes and inconsistencies
+    between the answers.  Finally, as an instructor, you get immediate feedback about
+    where the student understanding is and what the misunderstandings are.  Finally,
+    once they get over the shock, everyone has fun.  The approach takes a lot of class
+    time, and so I reserve it for complex concepts, not for imparting factual knowledge,
+    which can be done through reading and standard lectures.  We also do work in teams
+    that I will describe in the talk.'
   authors:
     - sbillinge
   begin_date: 2027-04-05

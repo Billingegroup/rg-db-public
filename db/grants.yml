@@ -633,6 +633,8 @@
       name: Michael F. Thorpe
       position: copi
   title: 'FRG: Beyond Crystallography: Structure of  Nanostructured Materials'
+08_FRAP:
+  end_date: 2025-12-31
 08_FWP-I:
   amount: 3600000.0
   awardnr: DE-SC0012704
@@ -647,6 +649,8 @@
       subaward_amount: 3600000.0
   title: Towards an understanding of nano-scale fluctuations in strongly
     correlated electron systems
+08_Startup:
+  end_date: 2025-12-31
 09_Columbia_EFRC:
   amount: 15254325.0
   awardnr: DE-SC0001085
@@ -1088,6 +1092,24 @@
   title: Towards a Mechanistic Understanding of Inter- and Intra-molecular
     Interactions in Temperature Swing Solvent Extraction Desalination with Novel
     Atomistic Measurements
+20_sirs:
+  amount: 160000
+  begin_date: 2020-09-01
+  currency: USD
+  end_date: 2021-08-31
+  funder: Columbia University
+  team:
+    - name: nyyip
+      position: pi
+      institution: Columbia University
+      subaward_amount: 80000
+    - name: sbillinge
+      position: copi
+      institution: Columbia University
+      subaward_amount: 0.0
+  title: Towards a Mechanistic Understanding of Inter- and Intra-molecular
+    Interactions in Temperature Swing Solvent Extraction Desalination with Novel
+    Atomistic Measurements
 21_3m:
   amount: 101638
   awardnr: n/a
@@ -1245,6 +1267,36 @@
       position: pi
       subaward_amount: 900000
   title: 'Real materials in action: Data analysis developments for real materials'
+26-doeneutron:
+  amount: 351067.0
+  begin_date: 2026-07-01
+  currency: USD
+  end_date: 2028-06-30
+  funder: DOE
+  team:
+    - name: Simon J. L. Billinge
+      position: pi
+      institution: ucsb
+  title: 'Real materials in action: Data analysis developments for real materials
+    doing real'
+pcl26:
+  amount: 20000000.0
+  awardnr: PCL-2607521
+  begin_date: 2026-05-01
+  end_date: 2029-08-30
+  currency: USD
+  funder: NSF
+  team:
+    - name: jreaddealaniz
+      position: pi
+      institution: ucsb
+  title: 'Real materials in action: Data analysis developments for real materials
+    doing real'
+26-startup:
+  funder: ucsb
+  begin_date: 2026-07-01
+  end_date: 2030-06-30
+  title: Simon's startup
 26_diffai:
   amount: 270000
   awardnr: DMR-2625202
@@ -1254,7 +1306,7 @@
   team:
     - institution: ucsb
       name: Simon Billinge
-      position: copi
+      position: co-pi
       subaward_amount: 270000
     - institution: urochester
       name: Niaz Abdolrahim

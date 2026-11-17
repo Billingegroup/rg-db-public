@@ -1241,7 +1241,7 @@ billi;b;imsadoceo03:
   address: Singapore
   author:
     - Billinge, S. J. L.
-  booktitle: "Intrinsic Multiscale Structure and Dynamics of\nComplex Electronic Oxides"
+  booktitle: 'Intrinsic Multiscale Structure and Dynamics of Complex Electronic Oxides'
   doi: 10.1142/9789812705112_0004
   editor: Shenoy, S. and Bishop, A. R.
   entrytype: inproceedings
@@ -3680,6 +3680,52 @@ chalus;unpub26:
   url: ''
   volume: ''
   year: '2026'
+yang;nm26:
+  ackno: ''
+  author:
+    - Andrew Yang
+    - Chris L. Farrow
+    - Pavol Juhás
+    - Luis K. Iglesias
+    - Chia-Hao Liu
+    - Samual D. Marks
+    - Vivian R. K. Wall
+    - J. Safin
+    - S. M. Drewry
+    - Caden Myers
+    - D. F. Hanlon
+    - N. Leonard
+    - Cedomir Petrovic
+    - A. Jeong
+    - Dimitri V. Talapin
+    - L. F. Nazar
+    - H. Zhou
+    - Sam Teitelbaum
+    - T. B. van Driel
+    - Soham Banerjee
+    - Emil S. Bozin
+    - Michael F. Toney
+    - Katherine Page
+    - Naomi S. Ginsberg
+    - Simon J. L. Billinge
+  doi: '10.1103/t39r-v3lx'
+  entrytype: article
+  facility: ''
+  grant: doeneutron23, keck26
+  journal: Phys. Rev. Mater.
+  month: nov
+  nb: ''
+  optnote: ''
+  number: ''
+  pages: '113801'
+  professional_summary: ''
+  synopsis: The paper describing the PDF morphing work
+  tags: data-analysis, regression
+  title: 'diffpy.morph: Python tools for model independent
+    comparisons between sets of {1D} functions'
+  url: 'https://doi.org/10.1103/t39r-v3lx'
+  volume: '10'
+  year: '2026'
 chen;cgd26:
   ackno: Synchrotron total scattering measurements were performed at beamline
     ID31 at the European Synchrotron Radiation Facility (ESRF). Work in the
@@ -5479,16 +5525,16 @@ frank;unpub26:
     - Melissa J. Marks
     - Simon J. L. Billinge
     - Nina Lock
-  doi: ''
+  doi: '10.1039/d6dt00142d'
   entrytype: article
   facility: diamond, b18, i15-1, maxiv, balder, formas
   grant: doeneutron23
-  journal: tbd
-  month: tbd
+  journal: Dalton Transactions
+  month: apr
   nb: ''
-  note: submitted
-  number: ''
-  pages: ''
+  optnote: submitted
+  number: '19'
+  pages: '7588–7599'
   professional_summary: The structural evolution under pyrolysis of an amorphous
     cobalt(II) cubane-like coordination polymer was studied with diffraction and
     PDF analysis and XAS. Mild pyrolysis preserved the initial structure, albeit
@@ -5501,8 +5547,8 @@ frank;unpub26:
   tags: operando, insitu, cubane, catalysis, pyrolysis
   title: Pyrolysis of an amorphous cobalt({II}) cubane-like coordination polymer
     towards tunable structurally disordered materials
-  url: ''
-  volume: ''
+  url: 'https://doi.org/10.1039/d6dt00142d'
+  volume: '55'
   year: '2026'
 fujit;s14:
   author:
@@ -6360,18 +6406,18 @@ guo;nm24:
   facility: ''
   grant: doeneutron23
   journal: Nature Materials
-  month: Apr
+  month: jul
   nb: ''
   number: ''
   optnote: to be published.  Available on arXiv
-  pages: ''
+  pages: '1726–1734'
   professional_summary: ''
   synopsis: ''
   tags: structure_solution, powder_diffraction, ml, modeling
   title: Diffusion models are promising for ab initio structure solutions from
     nanocrystalline powder diffraction data
   url: https://doi.org/10.1038/s41563-025-02220-y
-  volume: ''
+  volume: '24'
   year: '2025'
 guo;npjcm24:
   ackno: Work in the Lipson group was supported by U.S. National Science
@@ -8288,7 +8334,7 @@ lee;sa25:
   journal: Digital Discovery
   month: Jul
   nb: ''
-  note: Advanced Article available as an Accepted Manuscript
+  optnote: Advanced Article available as an Accepted Manuscript
   number: '8'
   pages: '3158-3177'
   professional_summary: ''
@@ -12010,19 +12056,19 @@ scher;jacs26:
     - Pattaraphon Rodlamul
     - Simon J. L. Billinge
     - Wendy L. Queen
-  doi: ''
+  doi: '10.1021/jacs.6c06764'
   entrytype: article
   facility: esrf, bm31, nslsii, 7bm, qas
   grant: doeneutron23
-  journal: JACS
-  month: ''
-  note: submitted
-  pages: ''
+  journal: J. Amer. Chem. Soc.
+  month: 'jul'
+  optnote: submitted
+  pages: '33229-33242'
   professional_summary: ''
   synopsis: ''
   title: Node Distortions as a Means of Defect Engineering in Zr-based MOFs
-  url: ''
-  volume: ''
+  url: ' https://doi.org/10.1021/jacs.6c06764'
+  volume: '148'
   year: '2026'
 rakit;arxiv26:
   ackno: ''
@@ -12917,29 +12963,29 @@ tavan;arxiv26:
     - Francesco Tavani
     - Saber Mirzaei
     - Jian Yin
-    - Yen-hsu Lin
+    - Yen-Hsu Lin
     - Caden Myers
     - Cheng-Hung Lin
     - Milinda Abeykoon
     - Simon J. L. Billinge
     - Omar M. Yaghi
-  doi: ''
+  doi: ' 10.1021/jacs.6c17514'
   entrytype: article
   facility: ''
   grant: doeneutron23
   journal: J Am. Chem. Soc.
-  month: aug
+  month: oct
   nb: ''
-  note: ArXiv
-  number: ''
-  pages: ''
+  optnote: ArXiv
+  number: '41'
+  pages: '45184–45192'
   professional_summary: ''
   synopsis: ''
   tags: mof
   title: Local structure and dynamics of three-dimensional covalent organic
     frameworks
-  url: ''
-  volume: ''
+  url: ' https://doi.org/10.1021/jacs.6c17514'
+  volume: '148'
   year: '2026'
 tavan;arxiv26b:
   ackno: ''
