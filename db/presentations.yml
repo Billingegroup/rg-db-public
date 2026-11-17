@@ -7170,7 +7170,7 @@
   title: From saving pharmaceuticals to saving priceless historical artefacts
     via saving the planet
   type: seminar
-2604sb_grazuniversityoftechnology,graz,austria:
+2604sb-graz,austria:
   abstract: Nanoparticles, nanoporous materials and nanostructured bulk
     materials are at the heart of next generation technological solutions in
     sustainable energy, effective new pharmac euticals and environmental
@@ -7196,9 +7196,10 @@
   project:
     - all
   status: accepted
+  subtitle: understanding nanostructure with x-rays and algorithms
   talk_id: 50-saving-pharma-planet+lab-pdf
   title: 'From saving pharmaceuticals to saving priceless historical artefacts via
-    saving the planet: understanding nanostructure with x-rays and algorithms'
+    saving the planet:'
   type: plenary
 2605sb_stanforduniversity:
   abstract: At the heart of materials science studies for next generation
