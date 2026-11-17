@@ -14396,6 +14396,36 @@ xie;am22:
   url: https://onlinelibrary.wiley.com/doi/10.1002/adma.202202255
   volume: '34'
   year: '2022'
+xiao;unknown:
+  author:
+    - Yuchen Xiao
+    - Simon J. L. Billinge
+  grant: doeneutron23
+  doi: ''
+  entrytype: article
+  facility: ''
+  journal: Acta Crystallogr. A
+  note: submitted
+  month: ''
+  nb: ''
+  number: ''
+  professional_summary: diffpy.cmi is a powerful tool for data modeling, but
+    it's complicated coding interface posed barriers for beginners, and
+    inconvenience for experts at even simplest task. This paper wraps
+    diffpy.cmi functionalities into an agent-facing interface,
+    cmi-agentic-ui, that facilitates simple, deterministic, and flexible
+    diffpy.cmi usage. The agentified diffpy.cmi interface also formed a
+    standard data modeling description, which allows for building scalable
+    knowledge base and better exploring unclear tasks.
+  synopsis: The cmi-agentic-ui for invoking diffpy.cmi functionalities in
+    general coding agent is described.
+  supplementary_info_urls:
+  tags: Large Language Models, agentic software, diffpy.cmi, AI agent copilot, complex-modeling, total-scattering
+  title: Integrating Scientific Software into AI Agents - cmi-agentic-ui
+    example
+  url: ''
+  volume: ''
+  year: '2026'
 xu;b;ainips18:
   author:
     - Xu, Ji
