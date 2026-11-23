@@ -202,7 +202,7 @@ akabir:
   email: adibkabir@ucsb.edu
   employment:
     - begin_date: 2026-07-03
-      end_date: 2029-07-02
+      end_date: 2030-12-31
       organization: ucsb
       position: graduate research assistant
       group: bg
@@ -806,7 +806,7 @@ cmyers:
   employment:
     - begin_date: 2024-02-05
       department: apam
-      end_date: 2026-12-31
+      end_date: 2026-08-31
       organization: columbiau
       position: graduate research assistant
       group: bg
@@ -4517,7 +4517,7 @@ sbandi:
   name: Sasaank Bandi
   position: graduate research assistant
 sbanerjee:
-  active: false
+  active: true
   aka:
     - Banerjee, Soham
     - Banerjee, S.
@@ -4542,8 +4542,14 @@ sbanerjee:
       begin_year: 2008
       end_year: 2012
       location: Winston-Salem, NC
-  email: sb3519@columbia.edu
+  email: sbanerjee23@gmail.com
   employment:
+    - begin_date: 2026-10-31
+      position: visiting scientist
+      organization: ucsb
+      advisor: sbillinge
+      status: pd
+      group: bg
     - begin_year: 2019
       begin_month: 11
       position: post-doctoral scholar
@@ -4557,6 +4563,7 @@ sbanerjee:
       end_year: 2019
       end_month: 10
       group: bg
+  github_id: sbanerjee23
   name: Soham Banerjee
   orcid_id: 0000-0001-9271-493X
   position: scientist
@@ -4707,7 +4714,7 @@ sbillinge:
       begin_date: 2026-01-01
       group: bg
       other:
-        - 'Full title: Distinguished Professor, Materials'
+        - 'Full title: Clarke Professor and Distinguished Professor, Materials'
       department: matsci
       position: professor
       status: pi
@@ -4778,6 +4785,15 @@ sbillinge:
   google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
   grp_mtg_active: false
   hindex:
+    - h: 97
+      h_last_five: 59
+      citations: 43209
+      citations_last_five: 19622
+      origin: Google Scholar
+      since: 1991
+      year: 2026
+      month: 11
+      day: 18
     - h: 95
       h_last_five: 56
       citations: 41141
@@ -5947,7 +5963,7 @@ sgeorge:
   email: stevengeorge@ucsb.edu
   employment:
     - begin_date: 2026-05-26
-      end_date: 2100-12-31
+      end_date: 2030-12-31
       organization: ucsb
       position: graduate research assistant
       group: bg

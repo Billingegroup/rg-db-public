@@ -1241,7 +1241,7 @@ billi;b;imsadoceo03:
   address: Singapore
   author:
     - Billinge, S. J. L.
-  booktitle: "Intrinsic Multiscale Structure and Dynamics of\nComplex Electronic Oxides"
+  booktitle: 'Intrinsic Multiscale Structure and Dynamics of Complex Electronic Oxides'
   doi: 10.1142/9789812705112_0004
   editor: Shenoy, S. and Bishop, A. R.
   entrytype: inproceedings
@@ -3632,52 +3632,87 @@ hanso;ct26:
   url: https://doi.org/10.1016/j.cattod.2026.116012
   volume: ''
   year: '2026'
-chalus;unpub26:
-  ackno: This work is based on experiments performed at the Swiss Spallation
-    Neutron Source SINQ, Paul Scherrer Institute (PSI), Villigen, Switzerland.
-    The work was supported by the U.S. Department of Energy, Office of Basic
-    Energy Sciences, under Awards No. DESC0005051 (N.C., D.R.R., M.R.E.) and
-    DE-SC0024141 (C.M., Y.C., S.J.B.), and by the U.S. Air Force Office of
-    Scientific Research under grant FOA-AFRL-AFOSR- 2023-0011 (T.S.). This work
-    was supported by the Swiss National Science Foundation (SNSF) Sinergia
-    network NanoSkyrmionics under grant No. CRSII5-171003 (P.R.B., A.M.,
-    J.S.W.). Financial support from the PSI Laboratory for Neutron Scattering
-    and Imaging (LNS) for extended research visits of N.C., as well as from the
-    SNSF under grant no. 200021 188707 (J.S.W.) is gratefully acknowledged. We
-    are grateful to Joshua Cohn for providing unpublished data for the thermal
-    conductivity of Cu2OSeO3, and to Charles Reichhardt and Cynthia Olson
-    Reichhardt for numerous informative discussions. Raw data were generated at
-    the Swiss Spallation Neutron Source SINQ large-scale facility, and access
-    will be granted upon request.
+yang;nm26:
+  ackno: ''
   author:
-    - Nathan Chalus
-    - Marek Bartkowiak
+    - Andrew Yang
+    - Chris L. Farrow
+    - Pavol Juhás
+    - Luis K. Iglesias
+    - Chia-Hao Liu
+    - Samual D. Marks
+    - Vivian R. K. Wall
+    - J. Safin
+    - S. M. Drewry
     - Caden Myers
-    - Yucong Chen
-    - Priya R. Baral
-    - Daniel R. Romo
-    - Arnaud Magrez
-    - Tess Smidt
+    - D. F. Hanlon
+    - N. Leonard
+    - Cedomir Petrovic
+    - A. Jeong
+    - Dimitri V. Talapin
+    - L. F. Nazar
+    - H. Zhou
+    - Sam Teitelbaum
+    - T. B. van Driel
+    - Soham Banerjee
+    - Emil S. Bozin
+    - Michael F. Toney
+    - Katherine Page
+    - Naomi S. Ginsberg
     - Simon J. L. Billinge
-    - Jonathan S. White
-    - Morten R. Eskildsen
+  doi: '10.1103/t39r-v3lx'
+  entrytype: article
+  facility: ''
+  grant: doeneutron23, keck26
+  journal: Phys. Rev. Mater.
+  month: nov
+  nb: ''
+  optnote: ''
+  number: ''
+  pages: '113801'
+  professional_summary: ''
+  synopsis: The paper describing the PDF morphing work
+  tags: data-analysis, regression
+  title: 'diffpy.morph: Python tools for model independent
+    comparisons between sets of {1D} functions'
+  url: 'https://doi.org/10.1103/t39r-v3lx'
+  volume: '10'
+  year: '2026'
+wall;nl26:
+  ackno: This work was primarily supported by the Office of Basic Energy Sciences (BES), US Department of Energy (DOE) (award DE-SC0019375) and was also supported by the U.S. Department of Energy, Office of Science, Office of Workforce Development for Teachers and Scientists, Office of Science Graduate Student Research (SCGSR) program. The SCGSR program is administered by the Oak Ridge Institute for Science and Education for the DOE under contract number DE‐SC0014664. The NC synthesis and structural characterization was supported by the U.S. Department of Energy, Office of Science, Basic Energy Sciences, Materials Sciences and Engineering Division, under grant DE-SC0025256. The primary PDF experiments were performed on APS beam time award (https://doi.org/10.46936/APS-196713/60018956) from the Advanced Photon Source, a U.S. Department of Energy (DOE) Office of Science user facility operated for the DOE Office of Science by Argonne National Laboratory under Contract No. DE-AC02-06CH11357. Supplementary PDF experiments used beamline 28-ID-1 of the National Synchrotron Light Source II, a U.S. Department of Energy (DOE) Office of Science User Facility operated for the DOE Office of Science by Brookhaven National Laboratory under Contract No. DE-SC0012704. S.J.L.B. acknowledges the support by the W. M. Keck Foundation under Award No. 1567502. V.R.K.W., A.Y., and C.P.N.T. were supported by the NSF Graduate Research Fellowship Program under Grant No. 2139433. D.T.L. was supported by an Alfred P. Sloan Research Fellowship. N.S.G. was supported by a David and Lucile Packard Foundation Fellowship for Science.
+  author:
+    - Vivian R. K. Wall
+    - Andrew Yang
+    - Bryan A. Sanchez Monserrate
+    - Ahhyun Jeong
+    - Christian P. N. Tanner
+    - Joshua Portner
+    - John P. Davis
+    - Tim B. van Driel
+    - Burak Guzelturk
+    - Gihan Kwon
+    - Olaf J. Borkiewicz
+    - David T. Limmer
+    - Dmitri V. Talapin
+    - Karena W. Chapman
+    - Simon J. L. Billinge
+    - and Naomi S. Ginsberg
   doi: ''
   entrytype: article
-  facility: psi, sinq
-  grant: doeneutron23
-  journal: tbd
-  month: tbd
-  nb: ''
-  note: submitted
+  facility: aps, 11idb, nslsii, pdf
+  grant: keck26
+  journal: Nano Letters
+  month: nov
+  nb: ' art '
+  note: arXiv:2611.22946
   number: ''
+  optannote: ''
+  optwwwlanl: ''
   pages: ''
-  professional_summary: ''
-  synopsis: The dynamics of the skyrmion lattice under a torque is studied with
-    SANS
-  tags: sans, skyrmion, magnetism, saf
-  title: Critical depinning and collective dynamics of magnetic skyrmion
-    lattices
-  url: ''
+  tags: ufpdf, nanoparticle, electrolyte, liquid
+  title: Pair distribution functions of electrostatically-stabilized
+    nanocrystals reflect radial ligand alignment and nanocrystal lattice periodicity
+  url: http://arxiv.org/abs/2611.22946.
   volume: ''
   year: '2026'
 chen;cgd26:
@@ -5019,21 +5054,21 @@ fourm;am26:
     - Stavros Nicolopoulos
     - Stéphane Godet
     - Alejandro Gómez-Pérez
-  doi: ''
+  doi: 10.1016/j.actamat.2026.122772
   entrytype: article
   facility: nanomegas
   grant: doeneutron23
   journal: Acta Materiala
-  month: ''
-  note: submitted
-  pages: ''
+  month: sep
+  optnote: submitted
+  pages: '122772'
   professional_summary: ''
   synopsis: ''
   title: Spatially Resolved Structural Correlations at the nanoscale in
     Phase-Separated Silicate Glass Revealed by Electron Total Scattering
     Analysis using 4D-STEM
-  url: ''
-  volume: ''
+  url: https://doi.org/10.1016/j.actamat.2026.122772
+  volume: '321'
   year: '2026'
 frand;aca14:
   author:
@@ -5441,7 +5476,7 @@ frank;jmca23:
   entrytype: article
   facility: desy, p21.1, p02.1, diamond, B18, maxiv
   grant: dmref19
-  journal: J. Maer. CHem. A
+  journal: J. Mater. Chem. A
   month: dec
   nb: ''
   number: ''
@@ -5479,16 +5514,16 @@ frank;unpub26:
     - Melissa J. Marks
     - Simon J. L. Billinge
     - Nina Lock
-  doi: ''
+  doi: '10.1039/d6dt00142d'
   entrytype: article
   facility: diamond, b18, i15-1, maxiv, balder, formas
   grant: doeneutron23
-  journal: tbd
-  month: tbd
+  journal: Dalton Transactions
+  month: apr
   nb: ''
-  note: submitted
-  number: ''
-  pages: ''
+  optnote: submitted
+  number: '19'
+  pages: '7588–7599'
   professional_summary: The structural evolution under pyrolysis of an amorphous
     cobalt(II) cubane-like coordination polymer was studied with diffraction and
     PDF analysis and XAS. Mild pyrolysis preserved the initial structure, albeit
@@ -5501,8 +5536,8 @@ frank;unpub26:
   tags: operando, insitu, cubane, catalysis, pyrolysis
   title: Pyrolysis of an amorphous cobalt({II}) cubane-like coordination polymer
     towards tunable structurally disordered materials
-  url: ''
-  volume: ''
+  url: 'https://doi.org/10.1039/d6dt00142d'
+  volume: '55'
   year: '2026'
 fujit;s14:
   author:
@@ -6077,13 +6112,7 @@ gu;aca23:
   wwwpub: ''
   year: '2023'
 gu;aplml26:
-  ackno: This work was supported by the National Key R&D Program of China
-    No.2022YFA1003800, the Natural Science Foundation of Tianjin No.
-    25JCJQJC00300, and the Fundamental Research Funds for the Central
-    Universities No.63253105 for RG. Work in the Billinge group (SJLB and LL)
-    was carried out with support from U.S. Department of Energy, Office of
-    Science, Office of Basic Energy Sciences (DOE-BES) grant contract No.
-    DE-SC0024141.
+  ackno: This work was supported by the National Key R&D Program of China (Grant No. 2022YFA1003800, the Natural Science Foundation of Tianjin (Grant No. 25JCJQJC00300), the Fundamental Research Funds for the Central Universities (Grant No. 63253105), and the National Natural Science Foundation of China (Grant No. 12671364) for R.G. Work in the Billinge group (S.J.L.B. and L.L.) was carried out with support from the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) (Grant Contract No. DE-SC0024141).
   author:
     - Jiarui Cao
     - Zhiyang Zhang
@@ -6097,19 +6126,19 @@ gu;aplml26:
   entrytype: article
   facility: ''
   grant: doeneutron23
-  journal: APL-Machine Learning
-  month: mar
+  journal: APL Machine Learning
+  month: nov
   nb: ''
-  number: ''
-  optnote: Submitted
+  number: '4'
+  optnote: arXiv:2509.01370
   pages: ''
   professional_summary: ''
   synopsis: ''
   tags: ml, structure-determination
   title: 'CbLDM: A Diffusion Model for recovering nanostructure from atomic pair distribution
     functions'
-  url: ''
-  volume: ''
+  url: https://doi.org/10.1063/5.0332941
+  volume: '4'
   year: '2026'
 gu;npjcm24:
   ackno: 'We would like to thank Dr. Daniel Olds, for assistance during the measurements
@@ -6360,18 +6389,18 @@ guo;nm24:
   facility: ''
   grant: doeneutron23
   journal: Nature Materials
-  month: Apr
+  month: jul
   nb: ''
   number: ''
   optnote: to be published.  Available on arXiv
-  pages: ''
+  pages: '1726–1734'
   professional_summary: ''
   synopsis: ''
   tags: structure_solution, powder_diffraction, ml, modeling
   title: Diffusion models are promising for ab initio structure solutions from
     nanocrystalline powder diffraction data
   url: https://doi.org/10.1038/s41563-025-02220-y
-  volume: ''
+  volume: '24'
   year: '2025'
 guo;npjcm24:
   ackno: Work in the Lipson group was supported by U.S. National Science
@@ -7521,31 +7550,32 @@ kane;cm96:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/96kanecm.pdf
   year: '1996'
 karlsen;jac23:
-  ackno: ''
+  ackno: 'We thank the Carlsberg Foundation (grant. No. CF17-0823) and the Novo Nordisk Foundation (grant No. NNF20OC0062068) for supporting this research. We acknowledge DanScatt for financial support in relation to synchrotron experiments. We are grateful for access to the facilities and resources at beamline P02.1, PETRA III, DESY, a member of the Helmholtz Association, HGF. Work in the Billinge group was supported as part of GENESIS: A Next Generation Synthesis Center, an Energy Frontier Research Center funded by the US Department of Energy, Office of Science, Basic Energy Sciences, under award No. DE-SC0019212.'
   author:
     - Martin A. Karlsen
     - Jonas Billet
     - Songsheng Tao
-    - Simon J.L. Billinge
+    - Isabel Van Driessche
+    - Simon J. L. Billinge
     - Dorthe B. Ravnsbæk
-  doi: ''
+  doi: 101107/S1600576724005624
   entrytype: article
-  facility: ''
+  facility: desy, p02.1
   grant: efrc18
   journal: J. Appl. Crystallogr.
-  month: tbd
+  month: jul
   nb: fy24, typeA
-  number: ''
+  number: '4'
   optannote: ''
   optnote: ''
-  pages: ''
+  pages: '1171-1183'
   synopsis: ''
   tags: nanoparticle, tio2, battery
   title: 'Operando pair distribution function analysis of nanocrystalline functional
     materials: the case of TiO2-bronze nanocrystals in Li-ion battery electrodes'
-  url: ''
-  volume: ''
-  year: '2023'
+  url: 'https://journals.iucr.org/j/issues/2024/04/00/vb5071/index.html'
+  volume: '57'
+  year: '2024'
 kim;prb07:
   author:
     - Kim, H. J.
@@ -8288,7 +8318,7 @@ lee;sa25:
   journal: Digital Discovery
   month: Jul
   nb: ''
-  note: Advanced Article available as an Accepted Manuscript
+  optnote: Advanced Article available as an Accepted Manuscript
   number: '8'
   pages: '3158-3177'
   professional_summary: ''
@@ -9405,30 +9435,7 @@ mcgur;prb04:
   wwwpub: http://slapper.apam.columbia.edu/bib-eu9iifae/papers/mcgur_prb04.pdf
   year: '2004'
 mfeuer;am25:
-  ackno: This work was primarily supported by the NSF through the Columbia
-    University Materials Research Science and Engineering Center (MRSEC) on
-    Precision-Assembled Quantum Materials DMR-2011738. Magnetic measurements
-    were supported as part of Programmable Quantum Materials, an Energy Frontier
-    Research Center funded by the DOE, Office of Science, Basic Energy Sciences
-    (Award DE-SC0019443). Scanning tunneling microscopy measurements were
-    supported in part by the US Air Force Office of Scientific Research (AFOSR)
-    under award number FA9550-22-1-0389. This research used resources of the
-    Condensed Matter and Materials Science Division and of beamline 28-ID-1 of
-    the National Synchrotron Light Source II, a U.S. Department of Energy (DOE)
-    Office of Science User Facility operated for the DOE Office of Science by
-    Brookhaven National Laboratory under Contract No. DE-SC0012704. PDF analysis
-    in the Billinge group was supported by U.S. Department of Energy, Office of
-    Science, Office of Basic Energy Sciences (DOE-BES) under contract No.
-    DE-SC0024141. We thank Maya Nair for her help with the XPS run at Advanced
-    Science Research Center of City University of New York. We thank Louise
-    Bolge for her help with ICP-MS. M.L.F. is supported by the NSF Graduate
-    Research Fellowship Program (DGE- 2036197). The PPMS used to perform
-    magnetic susceptibility measurements was purchased with financial support
-    from the NSF through a supplement to award DMR-1751949. The Columbia
-    University Shared Materials Characterization Laboratory (SMCL) was used
-    extensively for this research. The authors are grateful to Columbia
-    University for the support of this facility. The Flatiron Institute is a
-    division of the Simons foundation.
+  ackno: This work was primarily supported by the National Science Foundation through the Columbia University Materials Research Science and Engineering Center (MRSEC) on Precision-Assembled Quantum Materials DMR-2011738 and CAREER award DMR-1751949. Magnetic measurements were supported as part of Programmable Quantum Materials, an Energy Frontier Research Center funded by the US Department of Energy, Office of Science, Basic Energy Sciences (Award DE-SC0019443). Scanning tunneling microscopy measurements were supported in part by the US Air Force Office of Scientific Research (AFOSR) under award number FA9550-22-1-0389. This research used resources of the Condensed Matter and Materials Science Division and of beamline 28-ID-1 of the National Synchrotron Light Source II, a US Department of Energy (DOE) Office of Science User Facility operated for the DOE Office of Science by Brookhaven National Laboratory under Contract No. DE-SC0012704. PDF analysis in the Billinge group was supported by the US Department of Energy, Office of Science, Office of Basic Energy Sciences (DOE-BES) under contract No. DE-SC0024141. The electron microscopy work at Brookhaven National Laboratory is supported by the US Department of Energy, Basic Energy Sciences, Materials Science and Engineering Division, under Contract DE-SC0012704. The authors thank Maya Nair for her help with the XPS run at the Advanced Science Research Center of the City University of New York. The authors thank Louise Bolge for her help with ICP-MS. M.L.F. was supported by the National Science Foundation Graduate Research Fellowship Program (DGE-2036197). The PPMS used to perform magnetic susceptibility measurements was purchased with financial support from the National Science Foundation through a supplement to award DMR-1751949. The Columbia University Shared Materials Characterization Laboratory (SMCL) was used extensively for this research. The authors were grateful to Columbia University for the support of this facility. The Flatiron Institute is a division of the Simons Foundation.
   author:
     - Margalit L. Feuer
     - Morgan Thinel
@@ -9455,22 +9462,21 @@ mfeuer;am25:
     - Abhay N. Pasupathy
     - Xavier Roy
     - Michael E. Ziebel
-  doi: ''
+  doi: 10.1002/adma.202418066
   entrytype: article
   facility: nslsii, xpd
   grant: doeneutron23
   journal: Advanced Materials
-  month: tbd
+  month: apr
   nb: ''
-  note: arxiv.org/abs/2412.08631.
-  number: ''
-  pages: ''
+  optnote: arxiv.org/abs/2412.08631.
+  number: '24'
+  pages: '2418066'
   professional_summary: ''
   tags: cdw, 2d-material
-  title: Doping Induced Charge Density Wave and Ferromagnetism in the van der
-    {Waals} Semiconductor {CrSBr}
-  url: https://arxiv.org/abs/2412.08631.
-  volume: ''
+  title: Charge density wave and ferromagnetism in intercalated {CrSBr}
+  url: https://doi.org/10.1002/adma.202418066
+  volume: '37'
   year: '2025'
 miao;s16:
   abstract: "Structured Abstract\nBACKGROUNDTo understand material properties and
@@ -12010,43 +12016,19 @@ scher;jacs26:
     - Pattaraphon Rodlamul
     - Simon J. L. Billinge
     - Wendy L. Queen
-  doi: ''
+  doi: '10.1021/jacs.6c06764'
   entrytype: article
   facility: esrf, bm31, nslsii, 7bm, qas
   grant: doeneutron23
-  journal: JACS
-  month: ''
-  note: submitted
-  pages: ''
+  journal: J. Amer. Chem. Soc.
+  month: 'jul'
+  optnote: submitted
+  pages: '33229-33242'
   professional_summary: ''
   synopsis: ''
   title: Node Distortions as a Means of Defect Engineering in Zr-based MOFs
-  url: ''
-  volume: ''
-  year: '2026'
-rakit;arxiv26:
-  ackno: ''
-  author:
-    - Yevgeny Rakita
-    - Paul Todd
-    - James R. Neilson
-    - Simon J. L. Billinge
-  doi: ''
-  entrytype: article
-  facility: ''
-  grant: doeneutron23
-  journal: tbd
-  month: ''
-  note: submitted to arxiv
-  optnotes: author list likely to be updated.
-  pages: ''
-  professional_summary: ''
-  synopsis: The Action Graph concept is laid out but not called that but referred to as MPG,
-    'materials provenance graph'. MosyDB is described as an example of an MPG.
-  title: 'Complex materials engineering via Provenance Action Graphs: potential, structure
-    and demonstration'
-  url: ''
-  volume: ''
+  url: ' https://doi.org/10.1021/jacs.6c06764'
+  volume: '148'
   year: '2026'
 schmi;jpcm03:
   author:
@@ -12917,29 +12899,29 @@ tavan;arxiv26:
     - Francesco Tavani
     - Saber Mirzaei
     - Jian Yin
-    - Yen-hsu Lin
+    - Yen-Hsu Lin
     - Caden Myers
     - Cheng-Hung Lin
     - Milinda Abeykoon
     - Simon J. L. Billinge
     - Omar M. Yaghi
-  doi: ''
+  doi: ' 10.1021/jacs.6c17514'
   entrytype: article
   facility: ''
   grant: doeneutron23
   journal: J Am. Chem. Soc.
-  month: aug
+  month: oct
   nb: ''
-  note: ArXiv
-  number: ''
-  pages: ''
+  optnote: ArXiv
+  number: '41'
+  pages: '45184–45192'
   professional_summary: ''
   synopsis: ''
   tags: mof
   title: Local structure and dynamics of three-dimensional covalent organic
     frameworks
-  url: ''
-  volume: ''
+  url: ' https://doi.org/10.1021/jacs.6c17514'
+  volume: '148'
   year: '2026'
 tavan;arxiv26b:
   ackno: ''
@@ -14396,36 +14378,6 @@ xie;am22:
   url: https://onlinelibrary.wiley.com/doi/10.1002/adma.202202255
   volume: '34'
   year: '2022'
-xiao;unknown:
-  author:
-    - Yuchen Xiao
-    - Simon J. L. Billinge
-  grant: doeneutron23
-  doi: ''
-  entrytype: article
-  facility: ''
-  journal: Acta Crystallogr. A
-  note: submitted
-  month: ''
-  nb: ''
-  number: ''
-  professional_summary: diffpy.cmi is a powerful tool for data modeling, but
-    it's complicated coding interface posed barriers for beginners, and
-    inconvenience for experts at even simplest task. This paper wraps
-    diffpy.cmi functionalities into an agent-facing interface,
-    cmi-agentic-ui, that facilitates simple, deterministic, and flexible
-    diffpy.cmi usage. The agentified diffpy.cmi interface also formed a
-    standard data modeling description, which allows for building scalable
-    knowledge base and better exploring unclear tasks.
-  synopsis: The cmi-agentic-ui for invoking diffpy.cmi functionalities in
-    general coding agent is described.
-  supplementary_info_urls:
-  tags: Large Language Models, agentic software, diffpy.cmi, AI agent copilot, complex-modeling, total-scattering
-  title: Integrating Scientific Software into AI Agents - cmi-agentic-ui
-    example
-  url: ''
-  volume: ''
-  year: '2026'
 xu;b;ainips18:
   author:
     - Xu, Ji

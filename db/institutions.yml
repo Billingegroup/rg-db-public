@@ -2857,6 +2857,8 @@ ucriverside:
   uuid: f60c8002-828c-471b-ab63-ce3c886dcabf
   zip: '92521'
 ucsandiego:
+  aka:
+    - ucsd
   city: La Jolla
   country: USA
   date: 2021-11-23
