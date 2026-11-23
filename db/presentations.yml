@@ -7170,10 +7170,40 @@
   title: From saving pharmaceuticals to saving priceless historical artefacts
     via saving the planet
   type: seminar
-2604sb_grazuniversityoftechnology,graz,austria:
+2611sb_ucsd-webinar:
   abstract: Nanoparticles, nanoporous materials and nanostructured bulk
     materials are at the heart of next generation technological solutions in
     sustainable energy, effective new pharmac euticals and environmental
+    remediation.  A key to making progress is to be able to understand the
+    nanoparticle structure, the arrangements of atoms in the nanoparticles and
+    nanoscale structures. Also critical is understanding the distribution of the
+    nanoparticles and how they change in time as devices run and reactions take
+    place.  We use advanced x-ray, neutron and electron scattering methods to
+    get at this problem.  I will talk about these methods and show some recent
+    success-stories in the fields of sustainable energy, environmental
+    remediation and cultural heritage preservation.  However, I will also
+    discuss the fundamental limitations on our ability to extract information
+    from the data and how we are now turning to machine learning and artificial
+    intelligence techniques to give more insights.
+  authors:
+    - sbillinge
+  begin_date: 2026-04-30
+  department: Department of Chemistry
+  end_date: 2026-04-30
+  institution: ucsd
+  presenter: sbillinge
+  project:
+    - all
+  status: accepted
+  subtitle: understanding nanostructure with x-rays and algorithms
+  talk_id: 50-saving-pharma-planet+lab-pdf
+  title: From saving pharmaceuticals to saving priceless historical artefacts
+    via saving the planet
+  type: seminar
+2604sb_grazuniversityoftechnology,graz,austria:
+  abstract: Nanoparticles, nanoporous materials and nanostructured bulk
+    materials are at the heart of next generation technological solutions in
+    sustainable energy, effective new pharmaceuticals and environmental
     remediation.  A key to making progress is to be able to understand the
     nanoparticle structure, the arrangements of atoms in the nanoparticles and
     nanoscale structures. Also critical is understanding the distribution of the

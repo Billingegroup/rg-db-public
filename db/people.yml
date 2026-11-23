@@ -4714,7 +4714,7 @@ sbillinge:
       begin_date: 2026-01-01
       group: bg
       other:
-        - 'Full title: Distinguished Professor, Materials'
+        - 'Full title: Clarke Professor and Distinguished Professor, Materials'
       department: matsci
       position: professor
       status: pi
@@ -4785,6 +4785,15 @@ sbillinge:
   google_scholar_url: https://scholar.google.com/citations?user=dRmx8foAAAAJ&hl=en&oi=ao
   grp_mtg_active: false
   hindex:
+    - h: 97
+      h_last_five: 59
+      citations: 43209
+      citations_last_five: 19622
+      origin: Google Scholar
+      since: 1991
+      year: 2026
+      month: 11
+      day: 18
     - h: 95
       h_last_five: 56
       citations: 41141

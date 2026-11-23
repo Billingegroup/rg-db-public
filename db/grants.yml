@@ -633,8 +633,6 @@
       name: Michael F. Thorpe
       position: copi
   title: 'FRG: Beyond Crystallography: Structure of  Nanostructured Materials'
-08_FRAP:
-  end_date: 2025-12-31
 08_FWP-I:
   amount: 3600000.0
   awardnr: DE-SC0012704
@@ -649,8 +647,6 @@
       subaward_amount: 3600000.0
   title: Towards an understanding of nano-scale fluctuations in strongly
     correlated electron systems
-08_Startup:
-  end_date: 2025-12-31
 09_Columbia_EFRC:
   amount: 15254325.0
   awardnr: DE-SC0001085
@@ -1292,11 +1288,6 @@ pcl26:
       institution: ucsb
   title: 'Real materials in action: Data analysis developments for real materials
     doing real'
-26-startup:
-  funder: ucsb
-  begin_date: 2026-07-01
-  end_date: 2030-06-30
-  title: Simon's startup
 26_diffai:
   amount: 270000
   awardnr: DMR-2625202
